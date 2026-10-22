@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,13 +19,9 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: Hello all welcome back to uncommon geeks myself Hasan I hope you all doing well I get this question very often Hasan what is the right age to retire my simple answer to them is that nothing called right age to retire thats only one thing um the probable number of years that you would live and the amount of money that you have already
 
-Hello all welcome back to uncommon geeks myself Hasan I hope you all doing well I get this question very often Hasan what is the right age to retire my simple answer to them is that nothing called right age to retire thats only one thing um the probable number of years that you would live and the amount of money that you have already
-
-### Speaker 2
-
-saved let me give a simple example by spending 30 000 every day you can lead next 10 years if you have 10 crore rupees in your bank account okay if you are someone who already have 10 crore and not spending 30 000 every day you do the math for your own so my simple advice is decide what you want to do after the retirement world tour farming just sit back and spend whatever youve already saved or anything depending on that derive at a number add 10 to 20 percent or sometimes even 30 to 40 percent extra to that because you may fall sick and you may need more money okay
+speaker_2: saved let me give a simple example by spending 30 000 every day you can lead next 10 years if you have 10 crore rupees in your bank account okay if you are someone who already have 10 crore and not spending 30 000 every day you do the math for your own so my simple advice is decide what you want to do after the retirement world tour farming just sit back and spend whatever youve already saved or anything depending on that derive at a number add 10 to 20 percent or sometimes even 30 to 40 percent extra to that because you may fall sick and you may need more money okay
 
 
 Whenever you have that particular number please retire life is not meant for hardworking the entire life It is just meant for living and for the happiness and in case you liked my content Please subscribe to my channel and comment geeks Thank you

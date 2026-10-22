@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,20 +19,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello all welcome back to Career with Vasanth YouTube channel My name is Vasanth I hope you are doing well So this is a video where Ill be basically explaining if you have what type of resume your resume is most likely to get rejected by either a manual inspection of your resume or by the steps Okay recently I I posted an opportunity in our team for reactive developer opening and lot of people applied for this opening I applied as they sent me a message across LinkedIn Telegram different other social media platform So roughly I got around 100
+speaker_1: Hello all welcome back to Career with Vasanth YouTube channel My name is Vasanth I hope you are doing well So this is a video where Ill be basically explaining if you have what type of resume your resume is most likely to get rejected by either a manual inspection of your resume or by the steps Okay recently I I posted an opportunity in our team for reactive developer opening and lot of people applied for this opening I applied as they sent me a message across LinkedIn Telegram different other social media platform So roughly I got around 100
 
 
 110 to 120 resumes overall as messages out of which hardly I could get out of around 10 resumes which are like quality resumes that meet the requirement Im not saying remaining were not having that enough quality to clear the interview but resume was not speaking them instead of like I have already given feedback to a lot of people but I couldnt give detailed feedback to everyone what is the problem with resume so I handpicked four resumes to explain the problems without wasting further time lets get started how a resume should not be there okay
 
-### Speaker 2
+speaker_2: So lets start one by one
 
-So lets start one by one
-
-### Speaker 1
-
-Lets go with this fourth resume first Okay So I have like removed the individual persons name and contact No nobody should be harmed when I am making this particular video But lets understand the problems of given resume And if you are having a similar resume please do overcome the problem that Im saying so that next time whenever youre applying theres a high chance your resume get shortlisted first Why have you kept so much big picture in your resume This is this person has kept a really big picture Some people have kept a small picture also Hardly your picture
+speaker_1: Lets go with this fourth resume first Okay So I have like removed the individual persons name and contact No nobody should be harmed when I am making this particular video But lets understand the problems of given resume And if you are having a similar resume please do overcome the problem that Im saying so that next time whenever youre applying theres a high chance your resume get shortlisted first Why have you kept so much big picture in your resume This is this person has kept a really big picture Some people have kept a small picture also Hardly your picture
 
 
 in your resume what matters is your skill not picture if at all you want to put do not put like half a page of your photo only put a small one if you want but if you ask me by personal address do not put your photo at all no need of your photo second address why there is a need for address your resume is a public document lot of name it is shared across multiple people keeping an address here is a personal problem for you security concern do not write any address on your resume if you ask me you should not even write your date of birth but lets imagine for just for the age and other factors you can keep if you want

@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 28:49
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 14 Part 2 : Transfer Learning using CNNs
 
 ## Transcript
 
-
-Hello all welcome to this tutorials
+speaker_1: Hello all welcome to this tutorials
 in which well be continuing our
 discussion on CNNs
 The main part of this tutorial is uh

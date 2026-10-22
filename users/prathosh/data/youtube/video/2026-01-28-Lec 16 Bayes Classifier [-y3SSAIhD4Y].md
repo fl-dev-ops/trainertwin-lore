@@ -6,14 +6,15 @@ date: '2026-01-28'
 duration: 35:36
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 16 Bayes Classifier
 
 ## Transcript
 
-
-Welcome everyone What h
+speaker_1: Welcome everyone What h
 minimizes the true risk
 for
 the above scenario

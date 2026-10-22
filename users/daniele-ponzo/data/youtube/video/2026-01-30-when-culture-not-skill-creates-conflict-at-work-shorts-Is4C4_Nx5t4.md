@@ -20,8 +20,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -29,10 +29,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: is important thats an important thing to understand all things when you are traveling and working with teams
 
-is important thats an important thing to understand all things when you are traveling and working with teams
-
-### Speaker 2 · Speaker 2
-
-Yes when working with international teams uh you have to be aware there are cultural differences because people sometimes only focus on the language but its not all You need to understand the different ways of working the different approaches to to the same task
+speaker_2: Yes when working with international teams uh you have to be aware there are cultural differences because people sometimes only focus on the language but its not all You need to understand the different ways of working the different approaches to to the same task

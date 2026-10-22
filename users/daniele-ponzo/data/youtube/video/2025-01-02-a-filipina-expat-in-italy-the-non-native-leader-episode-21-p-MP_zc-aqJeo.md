@@ -22,7 +22,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -30,6 +30,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So I first arrived here um not as a teacher okay I worked for a Filipino company in the in the Philippines and they opened a branch here in in Rome in Italy Rome Milan and Florence actually So you could say that I was an expat back then So I was dispatched um by the mother company here in in Italy
+speaker_1: So I first arrived here um not as a teacher okay I worked for a Filipino company in the in the Philippines and they opened a branch here in in Rome in Italy Rome Milan and Florence actually So you could say that I was an expat back then So I was dispatched um by the mother company here in in Italy

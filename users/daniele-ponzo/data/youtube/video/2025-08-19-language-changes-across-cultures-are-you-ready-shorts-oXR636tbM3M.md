@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,10 +30,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: has not been so easy peasy lemon squeezy time because yeah uh during my initial days um uh you know I I often felt um dismayed and you know the feeling of anguish was was going nowhere Its its just you know not so real Its very real Its very real Um you know I can just share you one of the instances Um uh I was in a meeting um and there was we were just you know confabulating with one of the topics I I dont really really remember right now But uh so I had to come up with the word uh mandatory Uh because we Indians follow British English So we just okay in America it says mandatory Yeah
 
-has not been so easy peasy lemon squeezy time because yeah uh during my initial days um uh you know I I often felt um dismayed and you know the feeling of anguish was was going nowhere Its its just you know not so real Its very real Its very real Um you know I can just share you one of the instances Um uh I was in a meeting um and there was we were just you know confabulating with one of the topics I I dont really really remember right now But uh so I had to come up with the word uh mandatory Uh because we Indians follow British English So we just okay in America it says mandatory Yeah
-
-### Speaker 2 · Speaker 2
-
-And it is challenging because you want to blend in but at the same time you dont want to lose your identity
+speaker_2: And it is challenging because you want to blend in but at the same time you dont want to lose your identity

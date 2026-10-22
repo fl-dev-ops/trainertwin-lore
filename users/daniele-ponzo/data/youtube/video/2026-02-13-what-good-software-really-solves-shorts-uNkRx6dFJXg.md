@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,14 +24,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: the good software is solving a pain point for someone
 
-the good software is solving a pain point for someone
+speaker_2: Yes Its not the coding itself is the problem you need to solve Exactly Yeah I love this Its I think its precious advice so thank you Thank you Sophia And look its been a great chat Uh I think your story is truly fascinating And and you clearly show that passion can take you anywhere both in terms of location Scotland and in terms of business and what you do
 
-### Speaker 2 · Speaker 2
-
-Yes Its not the coding itself is the problem you need to solve Exactly Yeah I love this Its I think its precious advice so thank you Thank you Sophia And look its been a great chat Uh I think your story is truly fascinating And and you clearly show that passion can take you anywhere both in terms of location Scotland and in terms of business and what you do
-
-### Speaker 1 · Speaker 1
-
-Thank you
+speaker_1: Thank you

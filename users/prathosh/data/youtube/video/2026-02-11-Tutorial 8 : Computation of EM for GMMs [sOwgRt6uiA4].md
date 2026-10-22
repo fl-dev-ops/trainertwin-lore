@@ -6,14 +6,15 @@ date: '2026-02-11'
 duration: 40:48
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 8 : Computation of EM for GMMs
 
 ## Transcript
 
-
-Hello all welcome to this tutorial
+speaker_1: Hello all welcome to this tutorial
 in which we shall be looking at GMMs
 So in the earlier discussions
 so it is uh pretty much evident that the

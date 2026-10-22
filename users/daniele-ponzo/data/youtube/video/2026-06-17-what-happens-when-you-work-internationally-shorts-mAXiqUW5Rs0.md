@@ -20,8 +20,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -29,13 +29,9 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: leaving the comfort zone starting doing something completely different somewhere completely different So what about identity What part of your identity had to change to adapt and grow in an international environment
 
-leaving the comfort zone starting doing something completely different somewhere completely different So what about identity What part of your identity had to change to adapt and grow in an international environment
-
-### Speaker 2 · Speaker 2
-
-Okay so as I mentioned um I think from from the very beginning I mean uh from childhood I was always uh kind of uh that I had that
+speaker_2: Okay so as I mentioned um I think from from the very beginning I mean uh from childhood I was always uh kind of uh that I had that
 
 
 multicultural perspective So I was quite familiar with uh other cultures so listening to some foreign music and um watching some foreign foreign uh broadcast and so on and had some friends from all over the world already since I was a child

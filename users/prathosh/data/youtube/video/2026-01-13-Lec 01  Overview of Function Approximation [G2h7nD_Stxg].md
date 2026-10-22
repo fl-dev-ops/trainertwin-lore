@@ -6,14 +6,15 @@ date: '2026-01-13'
 duration: 47:49
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 01  Overview of Function Approximation
 
 ## Transcript
 
-
-Hello everyone welcome to the NPTEL
+speaker_1: Hello everyone welcome to the NPTEL
 course on mathematical foundations of
 machine learning Lets begin the first
 lecture So you have seen that in

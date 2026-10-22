@@ -9,9 +9,9 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 3
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
 ---
 
 
@@ -20,20 +20,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello all welcome back to Kedari with Wasam Tutees channel With me I have today Sumit As you know this is a series where we are doing a lot of mock interviews This particular interview we are going to discuss primarily like three different levels of question One is a scenario driven question primarily on HTML5 technology Another one is the basics of React and another one is basics of JavaScript where Sumit will be we will be testing Sumit across different levels of his intelligence More about Sumit I definitely Sumit only will be explaining and if youre not subscribed to my channel Kedari with Wasam Tutees channel which was previously known as uncommon gifts please subscribe to my channel
+speaker_1: Hello all welcome back to Kedari with Wasam Tutees channel With me I have today Sumit As you know this is a series where we are doing a lot of mock interviews This particular interview we are going to discuss primarily like three different levels of question One is a scenario driven question primarily on HTML5 technology Another one is the basics of React and another one is basics of JavaScript where Sumit will be we will be testing Sumit across different levels of his intelligence More about Sumit I definitely Sumit only will be explaining and if youre not subscribed to my channel Kedari with Wasam Tutees channel which was previously known as uncommon gifts please subscribe to my channel
 
 
 channel like the video share if you like this particular video and at the end of the video whatever sumith hasnt answered properly im gonna answer all the questions so support the video till the end thank you so much without wasting further time lets get started sumith over to you can you please introduce yourself
 
-### Speaker 2
+speaker_2: Yeah hi this is Sumit and Ive been doing React for past five years and Im last three and a half years Im in one company and before that I was in one company which is has very toxic environment thats why I changed that company and and yeah Im trying to now switch again thats why Im preparing for this
 
-Yeah hi this is Sumit and Ive been doing React for past five years and Im last three and a half years Im in one company and before that I was in one company which is has very toxic environment thats why I changed that company and and yeah Im trying to now switch again thats why Im preparing for this
-
-### Speaker 1
-
-Wonderful wonderful So for audience sake Im just saying before you start the video me and Sumit had a short connect So there was a lot of toxicness he faced in his previous company I will not take much time explaining that but let me quickly summarize The primary toxicness he was facing was like uh he was just to join as a two years of experience but there were leads who are having like eight to ten years of experience they were expecting him to code like similar level of that so which was like hard to do and also whenever hes not meeting that particular expectation they were
+speaker_1: Wonderful wonderful So for audience sake Im just saying before you start the video me and Sumit had a short connect So there was a lot of toxicness he faced in his previous company I will not take much time explaining that but let me quickly summarize The primary toxicness he was facing was like uh he was just to join as a two years of experience but there were leads who are having like eight to ten years of experience they were expecting him to code like similar level of that so which was like hard to do and also whenever hes not meeting that particular expectation they were
 
 
 holding him so which led sumit to go to some moment of depression and it took a lot of time to recovery so the reason im saying this is that there could be a lot of people among you who are also facing this type of problem so if youre facing that type of problem like my advice is like if you are facing please comment like whatever the i could help ill help but i would highly recommend you to like leave the company unless your financial situation is extremely bad please try to switch to a different company because end of the day we have to leave this life and not getting into this toxic environment and get into
@@ -41,13 +35,9 @@ holding him so which led sumit to go to some moment of depression and it took a 
 
 and that sort of a thing okay anything you want to add Sumit before we start the actual interview
 
-### Speaker 2
+speaker_2: Yeah I just want to like advise people like if you face any kind of toxic toxic environment in your place and you are not able to cope it so just like I think the best advice is to switch the job Yes not just leave the job because that will do more harm if you are working in that exactly
 
-Yeah I just want to like advise people like if you face any kind of toxic toxic environment in your place and you are not able to cope it so just like I think the best advice is to switch the job Yes not just leave the job because that will do more harm if you are working in that exactly
-
-### Speaker 1
-
-exactly yes yes absolutely so sumit so sumit now let us start so i have a very simple question okay so where uh how do we basically handle a real time notification in uh in in real time notification in a web application okay so the best example for real time notification are like chatting systems like facebook messenger or zoom chat or uh the chat boards that are available on various different websites correct so whenever you go to b2c web application
+speaker_1: exactly yes yes absolutely so sumit so sumit now let us start so i have a very simple question okay so where uh how do we basically handle a real time notification in uh in in real time notification in a web application okay so the best example for real time notification are like chatting systems like facebook messenger or zoom chat or uh the chat boards that are available on various different websites correct so whenever you go to b2c web application
 
 
 chartboards that are available correct so lets say we have to implement that functionality where a client basically sends a message to server whenever server sends the message the client is receiving it okay ive opened the whiteboard so that audience can also resonate uh with it very very comfortably so i want you to explain an architecture something because you have a five plus years of experience if you have to implement this feature how are you going to implement audience also who are watching if you think you know an approach you can just mention the video timing and please mention and then you can see
@@ -55,58 +45,36 @@ chartboards that are available correct so lets say we have to implement that fun
 
 uh hear what Sumit answer is or to you Sumit
 
-### Speaker 2
-
-Okay so Ive never worked with chatbots and all that but what I can say like what I do sometimes do general Googling stuff new stuff So I think web sockets are used for to get the messages to and fro like if this is a chatbot So web socket we can initialize a web socket on a URL that is given to us and it starts talking to it So maybe when the web socket
+speaker_2: Okay so Ive never worked with chatbots and all that but what I can say like what I do sometimes do general Googling stuff new stuff So I think web sockets are used for to get the messages to and fro like if this is a chatbot So web socket we can initialize a web socket on a URL that is given to us and it starts talking to it So maybe when the web socket
 
 
 has a different functions like on message or something like that whenever that messages come we will just store that data into a state whenever the state changes we can just render a new component or render the complex depending on the depending on the messages coming yeah so like thats the approach I will take
 
-### Speaker 1
+speaker_1: see ive drawn a diagram uh for simple starter diagram smith okay so we have a client we have a server so lets say chatbot runs here okay so now whatever youre saying is so there is a dedicated connection that has been established correct
 
-see ive drawn a diagram uh for simple starter diagram smith okay so we have a client we have a server so lets say chatbot runs here okay so now whatever youre saying is so there is a dedicated connection that has been established correct
-
-### Speaker 2
-
-We have a server lets say chatbot runs here okay so now
+speaker_2: We have a server lets say chatbot runs here okay so now
 
 
 No its a word
 
-### Speaker 1
+speaker_1: yes so the right way to represent it would be like using a plain line like for example or let me draw so you have a dedicated socket between the client and server correct so you have established a connection so with which you can actually client can send the data to server and server can send data
 
-yes so the right way to represent it would be like using a plain line like for example or let me draw so you have a dedicated socket between the client and server correct so you have established a connection so with which you can actually client can send the data to server and server can send data
-
-### Speaker 2
-
-Yeah
+speaker_2: Yeah
 
 
 Yes I can see
 
-### Speaker 1
+speaker_1: Correct Yeah So there are like you know depending on the use case there can be like multiple things Like for example lets say its a charting application then therell be another client Correct So therell be like another client client two Correct Because youre sending a message
 
-Correct Yeah So there are like you know depending on the use case there can be like multiple things Like for example lets say its a charting application then therell be another client Correct So therell be like another client client two Correct Because youre sending a message
+speaker_3: Yeah
 
-### Speaker 3
+speaker_1: So now we are saying that this whatever the socket we have so we will have a socket connection here as well
 
-Yeah
+speaker_3: Are you seeing this
 
-### Speaker 1
+speaker_2: Yeah
 
-So now we are saying that this whatever the socket we have so we will have a socket connection here as well
-
-### Speaker 3
-
-Are you seeing this
-
-### Speaker 2
-
-Yeah
-
-### Speaker 1
-
-So we have a dedicated connection between connection one lets say we call this connection one Okay So this this particular thing is connection one and the whatever this we have is connection two
+speaker_1: So we have a dedicated connection between connection one lets say we call this connection one Okay So this this particular thing is connection one and the whatever this we have is connection two
 
 
 So but both primarily interacting with server and whenever a whenever you receive a message from this this particular client
@@ -117,13 +85,9 @@ Let me just colour it
 
 So you get a connection you get a message from
 
-### Speaker 2
+speaker_2: Get a connection
 
-Get a connection
-
-### Speaker 1
-
-this client to the server and then you are gonna send this to this
+speaker_1: this client to the server and then you are gonna send this to this
 
 
 And whenever they send a back youre gonna send it back immediately to here
@@ -131,83 +95,47 @@ And whenever they send a back youre gonna send it back immediately to here
 
 And like you told its a pub sub model where the client is always waiting for something to happen So the client will get the most updated information whenever there is a change Basically it will be getting that new message and well be showing that Correct Swetha
 
-### Speaker 2
+speaker_2: Yeah
 
-Yeah
+speaker_1: Can we the disadvantages of using web sockets
 
-### Speaker 1
+speaker_2: I think the web secrets there can be loss of data
 
-Can we the disadvantages of using web sockets
-
-### Speaker 2
-
-I think the web secrets there can be loss of data
-
-### Speaker 1
-
-No therell not be loss of data thats not the thing
+speaker_1: No therell not be loss of data thats not the thing
 
 
 At a high level you tell me what network protocols do you think this web sockets will use or else in general tell me what are all the protocols that comes to your mind that is usually used for sharing the data On block Ill tell one TCP is one protocol correct like that what other protocols exist
 
-### Speaker 2
+speaker_2: UDP is there
 
-UDP is there
+speaker_1: Mm correct
 
-### Speaker 1
+speaker_2: HTTP
 
-Mm correct
+speaker_1: In this yes in this case if you have to use a protocol which protocol you will use
 
-### Speaker 2
-
-HTTP
-
-### Speaker 1
-
-In this yes in this case if you have to use a protocol which protocol you will use
-
-### Speaker 2
-
-HTTPS cannot run because HTTP doesnt uh like its uh its not continuous its not bi directional I think
+speaker_2: HTTPS cannot run because HTTP doesnt uh like its uh its not continuous its not bi directional I think
 
 
 And web socket I think it uses uh TCP UDP
 
-### Speaker 1
+speaker_1: Youre guessing Craig Smith
 
-Youre guessing Craig Smith
+speaker_2: Yeah yeah
 
-### Speaker 2
+speaker_1: Sure no problem okay
 
-Yeah yeah
+speaker_2: So never work with web sockets and all that chat and all that
 
-### Speaker 1
+speaker_1: Sure sure but at your experience its become like slightly like required or something
 
-Sure no problem okay
+speaker_2: Mm yeah
 
-### Speaker 2
+speaker_1: Yeah can you please present the screen uh with uh JS Fiddle open to me not JS Fiddle the any other React editor that is code sandbox or any editor open Thank you Im sharing a very very simple
 
-So never work with web sockets and all that chat and all that
+speaker_2: Yes we did
 
-### Speaker 1
-
-Sure sure but at your experience its become like slightly like required or something
-
-### Speaker 2
-
-Mm yeah
-
-### Speaker 1
-
-Yeah can you please present the screen uh with uh JS Fiddle open to me not JS Fiddle the any other React editor that is code sandbox or any editor open Thank you Im sharing a very very simple
-
-### Speaker 2
-
-Yes we did
-
-### Speaker 1
-
-snippet with you in the chat section okay please copy the snippet not this one in the code sandbox for react copy the snippet and paste the snippet
+speaker_1: snippet with you in the chat section okay please copy the snippet not this one in the code sandbox for react copy the snippet and paste the snippet
 
 
 Yeah in line number twenty remove that yeah
@@ -215,41 +143,29 @@ Yeah in line number twenty remove that yeah
 
 Okay I think some some spaces are also copied Can you please remove the spaces So if you press the add item four times what will be printed Dont dont press Dont dont press and tell me what will come
 
-### Speaker 2
-
-I dont know
+speaker_2: I dont know
 
 
 add item handle like and this will new item is the two items uh like this one for for if you press four times uh four uh four will be added four times
 
-### Speaker 1
+speaker_1: Okay so I press
 
-Okay so I press
-
-### Speaker 2
-
-No uh no no uh four will be the four then you again
+speaker_2: No uh no no uh four will be the four then you again
 
 
 I think four or eight times something I have to do the map again if I press
 
-### Speaker 1
-
-Or again if I
+speaker_1: Or again if I
 
 
 theyre saying lets say refresh it and click on add item four times what will be shown in the list that is my question now you think and give me exact answer
 
-### Speaker 2
-
-One two three
+speaker_2: One two three
 
 
 Four times four
 
-### Speaker 1
-
-Okay one two three four times four Am I right Sumit Okay Yeah For audience who are watching this video you guys also please try to comment the video time duration and the output for this Sumit answer is one two three four times four whatever your answer you mention Sumit now just refresh there Yes Click there refresh Yeah Click on add item four times One two three four
+speaker_1: Okay one two three four times four Am I right Sumit Okay Yeah For audience who are watching this video you guys also please try to comment the video time duration and the output for this Sumit answer is one two three four times four whatever your answer you mention Sumit now just refresh there Yes Click there refresh Yeah Click on add item four times One two three four
 
 
 What happened
@@ -257,17 +173,11 @@ What happened
 
 You can click some more times click some more times
 
-### Speaker 2
+speaker_2: Uh nothing happened
 
-Uh nothing happened
+speaker_1: Why nothing happening
 
-### Speaker 1
-
-Why nothing happening
-
-### Speaker 2
-
-If I press one time and I swipe
+speaker_2: If I press one time and I swipe
 
 
 itempush the array will be updated new array will be set item
@@ -278,225 +188,133 @@ Then items in P
 
 No I think nothing is happening
 
-### Speaker 1
+speaker_1: Can I refer the entire page please
 
-Can I refer the entire page please
+speaker_2: Add a page one
 
-### Speaker 2
-
-Add a page one
-
-### Speaker 1
-
-Top left you see this you can click add item lets see let the code load you click on add item
+speaker_1: Top left you see this you can click add item lets see let the code load you click on add item
 
 
 One time you click two time yeah
 
-### Speaker 2
-
-Yeah
+speaker_2: Yeah
 
 
 No its not happening
 
-### Speaker 1
+speaker_1: So then whatever youre saying that is not happening Smit right
 
-So then whatever youre saying that is not happening Smit right
-
-### Speaker 2
-
-However youre saying that is not
+speaker_2: However youre saying that is not
 
 
 Yeah nothing is happening
 
-### Speaker 1
+speaker_1: No its not like nothing is happening what you told is not happening
 
-No its not like nothing is happening what you told is not happening
-
-### Speaker 2
-
-Nothing really happened
+speaker_2: Nothing really happened
 
 
 Mm hmm hmm hmm
 
-### Speaker 1
-
-So you and audience whoever thought like one two three followed by four times four you please check like why did not happen Well come back to this to meet if time permits Okay Okay So Ill share a simple JavaScript snippet to you in the Java in the chart section Copy this code and put in the other tab where you have opened for JavaScript right Again please run the code Ill tell when to run the code
+speaker_1: So you and audience whoever thought like one two three followed by four times four you please check like why did not happen Well come back to this to meet if time permits Okay Okay So Ill share a simple JavaScript snippet to you in the Java in the chart section Copy this code and put in the other tab where you have opened for JavaScript right Again please run the code Ill tell when to run the code
 
 
 it and another editor javascript editor and then we will explore the output yes look at it carefully take one to two minutes guess the exact output
 
-### Speaker 2
+speaker_2: this is called async so async operation returns a statement function so this will have reference to result set term async operation completed console result i think undefined and then after one second
 
-this is called async so async operation returns a statement function so this will have reference to result set term async operation completed console result i think undefined and then after one second
+speaker_1: After that what will happen
 
-### Speaker 1
+speaker_2: After one second async operation completed
 
-After that what will happen
-
-### Speaker 2
-
-After one second async operation completed
-
-### Speaker 1
-
-Okay so we will we will so you run dont run dont run one second So you run the code immediately after you run the code undefined will be printed am I right
+speaker_1: Okay so we will we will so you run dont run dont run one second So you run the code immediately after you run the code undefined will be printed am I right
 
 
 Okay and after the after one second a sync operation completed will be printed Am I right Sumit
 
-### Speaker 3
-
-Just wait uh set timeout is spoiled
+speaker_3: Just wait uh set timeout is spoiled
 
 
 timeout is called one second so when the set timeout called after the async operation is called or it will be called when the function is declared i think if function is declared is not the set timeout i think yeah what what i think what i said on the first time undefined then after one second
 
-### Speaker 1
+speaker_1: Sure please run the code now run the code
 
-Sure please run the code now run the code
+speaker_3: one undefined and undefined
 
-### Speaker 3
+speaker_1: Correct now please explain why its undefined and followed by a sync operation completed
 
-one undefined and undefined
+speaker_2: So when function is written the concept what is happening here is the closure Like if function will have reference to the inner function will have reference to their outer value Correct
 
-### Speaker 1
+speaker_1: connect
 
-Correct now please explain why its undefined and followed by a sync operation completed
+speaker_2: So when the function is written the console log the result uh the left result will have undefined when it is uh when raising operation will have undefined
 
-### Speaker 2
+speaker_1: I think the operator will have undefined that I did not get how let result will have undefined
 
-So when function is written the concept what is happening here is the closure Like if function will have reference to the inner function will have reference to their outer value Correct
+speaker_2: Because the initial value of any variable which is not defined
 
-### Speaker 1
+speaker_1: is not undefined defined initial value of any variable is not undefined you also know that so its correct if you think when theyre at
 
-connect
-
-### Speaker 2
-
-So when the function is written the console log the result uh the left result will have undefined when it is uh when raising operation will have undefined
-
-### Speaker 1
-
-I think the operator will have undefined that I did not get how let result will have undefined
-
-### Speaker 2
-
-Because the initial value of any variable which is not defined
-
-### Speaker 1
-
-is not undefined defined initial value of any variable is not undefined you also know that so its correct if you think when theyre at
-
-### Speaker 2
-
-defined itself
+speaker_2: defined itself
 
 
 I think when they are executed when they are got executed then when the variables that declare when initializes will happen if the variable does not have any
 
-### Speaker 3
-
-value it will have undefined
+speaker_3: value it will have undefined
 
 
 And the uh let result
 
-### Speaker 2
+speaker_2: The result is initial
 
-The result is initial
+speaker_1: You are saying lets say you create a variable called let result and you log the value you are you saying youll not get a reference error but youll get undefined am I right Smith
 
-### Speaker 1
-
-You are saying lets say you create a variable called let result and you log the value you are you saying youll not get a reference error but youll get undefined am I right Smith
-
-### Speaker 3
-
-You are saying you see
+speaker_3: You are saying you see
 
 
 Let go yeah it will cut out and because its not aware so
 
-### Speaker 2
+speaker_2: So if you have that if youve declared a variable it will have this default value
 
-So if you have that if youve declared a variable it will have this default value
+speaker_3: undefined will be
 
-### Speaker 3
+speaker_1: The default value of any variable that is created in JavaScript is undefined Can I can you say that so much
 
-undefined will be
+speaker_3: Yeah when they are initialized
 
-### Speaker 1
-
-The default value of any variable that is created in JavaScript is undefined Can I can you say that so much
-
-### Speaker 3
-
-Yeah when they are initialized
-
-### Speaker 1
-
-Now what is that when they initialize like if you are not initializing you just create a let result now correct
+speaker_1: Now what is that when they initialize like if you are not initializing you just create a let result now correct
 
 
 Youre saying that let just declared it
 
-### Speaker 3
+speaker_3: Okay
 
-Okay
+speaker_1: And its value is undefined now
 
-### Speaker 1
+speaker_2: No its not declared and I think theres something called X context execution So when the code is getting executed we will now get into that
 
-And its value is undefined now
+speaker_1: Well go get into that those concepts Im not against like so with what youre saying is fine but lets take it in very simple terms
 
-### Speaker 2
+speaker_2: I would actually
 
-No its not declared and I think theres something called X context execution So when the code is getting executed we will now get into that
+speaker_1: You declared a variable with let so its default value can I consider like is undefined so with same goes for constant where you have to confirm
 
-### Speaker 1
+speaker_2: I think Im defined yeah
 
-Well go get into that those concepts Im not against like so with what youre saying is fine but lets take it in very simple terms
+speaker_3: Oh
 
-### Speaker 2
+speaker_2: Thank you
 
-I would actually
+speaker_1: Okay
 
-### Speaker 1
+speaker_2: Because then whenever we declare any in console and when you try to put any have not declared and given any value its value is undefined if you console log it
 
-You declared a variable with let so its default value can I consider like is undefined so with same goes for constant where you have to confirm
-
-### Speaker 2
-
-I think Im defined yeah
-
-### Speaker 3
-
-Oh
-
-### Speaker 2
-
-Thank you
-
-### Speaker 1
-
-Okay
-
-### Speaker 2
-
-Because then whenever we declare any in console and when you try to put any have not declared and given any value its value is undefined if you console log it
-
-### Speaker 1
-
-Sure So just with the extension to this example Sumit give me what are all the different ways with which we can ask JavaScript to execute asynchronously Can you name few different ways
+speaker_1: Sure So just with the extension to this example Sumit give me what are all the different ways with which we can ask JavaScript to execute asynchronously Can you name few different ways
 
 
 Is it there Correct
 
-### Speaker 3
-
-Generator functions are there which I can recall
+speaker_3: Generator functions are there which I can recall
 
 
 I am out just like this
@@ -507,29 +325,17 @@ That interval also is set Im out there
 
 Yeah that that I will I think maybe there are others but I dont know
 
-### Speaker 1
+speaker_1: So set timeout set interval promises and generator function these are all the primary things that you think that can make JavaScript execute asynchronously
 
-So set timeout set interval promises and generator function these are all the primary things that you think that can make JavaScript execute asynchronously
+speaker_3: Yeah
 
-### Speaker 3
+speaker_1: Sure sounds good so can you just write a small example for use memo use callback in the react editor well be able to write so much
 
-Yeah
+speaker_3: Mm yeah
 
-### Speaker 1
+speaker_1: Yeah go there lets write it for use memo then
 
-Sure sounds good so can you just write a small example for use memo use callback in the react editor well be able to write so much
-
-### Speaker 3
-
-Mm yeah
-
-### Speaker 1
-
-Yeah go there lets write it for use memo then
-
-### Speaker 2
-
-So this is example of use memo where you can memorize the value So this is the concept for optimizing performance Like if you are calculating some very big thing like which is taking so much of time like for the first time it takes two second to calculate So if we render again and use that value and that value is again calculated and it takes two second theres a waste of performance So what we do we use memo and memoize this value
+speaker_2: So this is example of use memo where you can memorize the value So this is the concept for optimizing performance Like if you are calculating some very big thing like which is taking so much of time like for the first time it takes two second to calculate So if we render again and use that value and that value is again calculated and it takes two second theres a waste of performance So what we do we use memo and memoize this value
 
 
 is never uh is not calculated again every render
@@ -543,108 +349,58 @@ Call back
 
 So here what happens whenever we return the handle this handle click function will have
 
-### Speaker 3
+speaker_3: Uh the f
 
-Uh the f
+speaker_2: function reference every time it will be created because the render is happening so to stop that we use use callback so that the reference is not changing with every render
 
-### Speaker 2
+speaker_1: Hmm good good so whenever you click on add item whenever you click on add item we are calling the handle click but whatever the reference that we already had for that function thats not basically redundant like new reference is not getting created
 
-function reference every time it will be created because the render is happening so to stop that we use use callback so that the reference is not changing with every render
-
-### Speaker 1
-
-Hmm good good so whenever you click on add item whenever you click on add item we are calling the handle click but whatever the reference that we already had for that function thats not basically redundant like new reference is not getting created
-
-### Speaker 3
-
-So
+speaker_3: So
 
 
 Yeah
 
-### Speaker 1
+speaker_1: You can stop sharing Sumit Im mostly done Ill have only one Ill ask only one question
 
-You can stop sharing Sumit Im mostly done Ill have only one Ill ask only one question
+speaker_3: End
 
-### Speaker 3
+speaker_1: Okay so both use memo and use callback you explained very efficiently My only question is if these both the functions are having so much of advantage why cant we use them for all the functions
 
-End
+speaker_3: I cant be also
 
-### Speaker 1
+speaker_2: Like it will create more of a code In the sense we have to write more code in top of more code like readability
 
-Okay so both use memo and use callback you explained very efficiently My only question is if these both the functions are having so much of advantage why cant we use them for all the functions
+speaker_1: Like more readability point of view
 
-### Speaker 3
+speaker_2: A core durability a point of view and I think its a disadvantage that we have to wrap every function with lets say callback
 
-I cant be also
+speaker_1: a wrapping every function is not a disadvantage definitely code readability is a disadvantage connection back end disadvantage
 
-### Speaker 2
+speaker_2: Use callback
 
-Like it will create more of a code In the sense we have to write more code in top of more code like readability
+speaker_3: Disadvantage huh
 
-### Speaker 1
+speaker_1: Other than that do you think of anything so much
 
-Like more readability point of view
+speaker_3: No I dont think so I dont uh I dont think much to my mind whats the disadvantage of Paul White maybe one thing is
 
-### Speaker 2
+speaker_1: Dont put my mind
 
-A core durability a point of view and I think its a disadvantage that we have to wrap every function with lets say callback
+speaker_2: Maybe one thing is that like code readability is
 
-### Speaker 1
+speaker_3: will have effect
 
-a wrapping every function is not a disadvantage definitely code readability is a disadvantage connection back end disadvantage
+speaker_1: Sure sure some
 
-### Speaker 2
+speaker_3: Uh sure something like that
 
-Use callback
+speaker_1: Yeah Asmit Im done from my end just before I give a feedback to you if you have any question you can ask me
 
-### Speaker 3
+speaker_3: Uh not like right now but okay not right now
 
-Disadvantage huh
+speaker_1: No no problem Sumit So yeah Sumit first of all like on a personal note like good that you left your toxic work culture office and your joint employment That personally Im very happy for that Now just being very honest feedback for you Sumit is at your experience of five plus years right Therell be always a scenario driven questions for you like the one I asked right And luckily front end is not having like plenty of scenario driven questions There are quite a few and they repeat they keep repeating correct
 
-### Speaker 1
-
-Other than that do you think of anything so much
-
-### Speaker 3
-
-No I dont think so I dont uh I dont think much to my mind whats the disadvantage of Paul White maybe one thing is
-
-### Speaker 1
-
-Dont put my mind
-
-### Speaker 2
-
-Maybe one thing is that like code readability is
-
-### Speaker 3
-
-will have effect
-
-### Speaker 1
-
-Sure sure some
-
-### Speaker 3
-
-Uh sure something like that
-
-### Speaker 1
-
-Yeah Asmit Im done from my end just before I give a feedback to you if you have any question you can ask me
-
-### Speaker 3
-
-Uh not like right now but okay not right now
-
-### Speaker 1
-
-No no problem Sumit So yeah Sumit first of all like on a personal note like good that you left your toxic work culture office and your joint employment That personally Im very happy for that Now just being very honest feedback for you Sumit is at your experience of five plus years right Therell be always a scenario driven questions for you like the one I asked right And luckily front end is not having like plenty of scenario driven questions There are quite a few and they repeat they keep repeating correct
-
-### Speaker 3
-
-join the competition that
+speaker_3: join the competition that
 
 
 Just being
@@ -652,47 +408,29 @@ Just being
 
 Mm hmm
 
-### Speaker 1
+speaker_1: So I would highly advise you and all the audience who are having like five plus years of experience to get into that level where you master like this 10 to 15 major scenario driven question and any sub questions asked in that you should be able to answer Same applies to you also Okay Yeah
 
-So I would highly advise you and all the audience who are having like five plus years of experience to get into that level where you master like this 10 to 15 major scenario driven question and any sub questions asked in that you should be able to answer Same applies to you also Okay Yeah
+speaker_3: Yeah sure
 
-### Speaker 3
+speaker_1: Other than that like quite like minor feedbacks I like to have an analytical thinking like the guest the output side of questions right You have to be very well versed to answer them Spend more time on that I am also writing a book actually which will be out soon where there are a lot of questions such guest output side of questions If it is out put that in the description section If not like you can there are a lot of websites and now AI tools where you can get this snippet of question and try to guess the output So that is something I want you to practice or must so much
 
-Yeah sure
+speaker_3: That is something I want you to practice
 
-### Speaker 1
+speaker_1: Okay And yeah And the last thing is like never ever get into debug mode immediately
 
-Other than that like quite like minor feedbacks I like to have an analytical thinking like the guest the output side of questions right You have to be very well versed to answer them Spend more time on that I am also writing a book actually which will be out soon where there are a lot of questions such guest output side of questions If it is out put that in the description section If not like you can there are a lot of websites and now AI tools where you can get this snippet of question and try to guess the output So that is something I want you to practice or must so much
+speaker_2: I dont know
 
-### Speaker 3
-
-That is something I want you to practice
-
-### Speaker 1
-
-Okay And yeah And the last thing is like never ever get into debug mode immediately
-
-### Speaker 2
-
-I dont know
-
-### Speaker 1
-
-This is the mistake that even I used to do in the initial time of my career but never stopped doing that I dont debug my code immediately when Im not getting the desired output Okay I just look at the code I try to understand it step by step Okay And only needed Ill debug
+speaker_1: This is the mistake that even I used to do in the initial time of my career but never stopped doing that I dont debug my code immediately when Im not getting the desired output Okay I just look at the code I try to understand it step by step Okay And only needed Ill debug
 
 
 Thats all feedback from my interview Do you have any closing notes
 
-### Speaker 2
-
-Yeah I will start like I told you like that this mock interview was kind of a push and motivation that I should start learning and more because I is I I just uh like before meeting me I said
+speaker_2: Yeah I will start like I told you like that this mock interview was kind of a push and motivation that I should start learning and more because I is I I just uh like before meeting me I said
 
 
 And like I start doing three four days and five days one week like learning things and then I like out of unmotivation I just leave it and dont do anything for three four months So this maybe this mock interview pushes me to start learning things again relearn things do mock interviews and practices more and brush up my skills to advanced level or to intermediate level And yeah Ill do that
 
-### Speaker 1
-
-Thank you Thank you so much Sumit Thank you all the audience who have watched the video Thank you so much Subscribe to my channel carry on with us and see you in the next video Hello this is just an extension to a video that I already recorded with Sumit So in this video we are this small extension we are going to primarily discuss any question that Sumit has given a wrong answer and probably how to give a right answer to that So the first thing that probably what Sumit and me we discussed was primarily around the live charting feature or real time notification Whatever Sumit told us the high level it was correct We could use a website
+speaker_1: Thank you Thank you so much Sumit Thank you all the audience who have watched the video Thank you so much Subscribe to my channel carry on with us and see you in the next video Hello this is just an extension to a video that I already recorded with Sumit So in this video we are this small extension we are going to primarily discuss any question that Sumit has given a wrong answer and probably how to give a right answer to that So the first thing that probably what Sumit and me we discussed was primarily around the live charting feature or real time notification Whatever Sumit told us the high level it was correct We could use a website
 
 
 for that or we can also use other push notification services there are a lot of push notification services which can give like push notification to website with that also we could use instead of rebuilding our own web sockets from end to end we could use a push notifications service that are given by the third party okay other than that most other question that i asked swetha had given the right answer only thing that he could not give us is code snippet okay so if you want the code snippet probably i am including a lot of these code snippets in my book so if the book is live by the time you watch the video im going to put the link of the book in the description

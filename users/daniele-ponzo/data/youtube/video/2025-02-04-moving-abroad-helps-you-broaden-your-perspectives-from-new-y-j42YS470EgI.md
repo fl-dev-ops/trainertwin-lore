@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,14 +25,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: as you grow I mean I was fairly young when I left and as as I was growing you know into young adult and kind of going to college and then to masters degree like you start seeing yourself you know what what is it actually that is expected of me And so you challenge yourself more no And and then perhaps also you start understanding yeah just getting a better understanding as well of what I like you know not only what am I good at but also what what do I enjoy doing So I think moving abroad allows you to do these things in a way that staying in in the same place doesnt necessarily I think
 
-as you grow I mean I was fairly young when I left and as as I was growing you know into young adult and kind of going to college and then to masters degree like you start seeing yourself you know what what is it actually that is expected of me And so you challenge yourself more no And and then perhaps also you start understanding yeah just getting a better understanding as well of what I like you know not only what am I good at but also what what do I enjoy doing So I think moving abroad allows you to do these things in a way that staying in in the same place doesnt necessarily I think
+speaker_2: And you believe that that so my steps youve done it How many times
 
-### Speaker 2 · Speaker 2
-
-And you believe that that so my steps youve done it How many times
-
-### Speaker 1 · Speaker 1
-
-Yes Yeah yeah I I think yeah so after um after the yes I think the moving to you know from New York going from New York packing up with my little you know two suitcases and going to Timbuktu that was probably another challenge
+speaker_1: Yes Yeah yeah I I think yeah so after um after the yes I think the moving to you know from New York going from New York packing up with my little you know two suitcases and going to Timbuktu that was probably another challenge

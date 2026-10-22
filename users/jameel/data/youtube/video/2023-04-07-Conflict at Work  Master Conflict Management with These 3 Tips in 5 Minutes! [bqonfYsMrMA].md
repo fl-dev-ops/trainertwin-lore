@@ -8,10 +8,10 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 
@@ -20,40 +20,24 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: Conflicts happen all the time at work but I hope you are not resolving them like this
 
-Conflicts happen all the time at work but I hope you are not resolving them like this
+speaker_2: Well get today and we need to do the report so I can give to the partners so yeah can I have that report now please
 
-### Speaker 2
-
-Well get today and we need to do the report so I can give to the partners so yeah can I have that report now please
-
-### Speaker 3
-
-The report
+speaker_3: The report
 
 
 Guys the report from last week do you want me to discuss it Guys anyone Anyone Anyone Oh well What do you mean well where is this report
 
-### Speaker 4
+speaker_4: But Dominic I told you last week should clarify with him
 
-But Dominic I told you last week should clarify with him
+speaker_3: I was phoning you
 
-### Speaker 3
+speaker_4: How do you wear me now Its my high school red Its my high school red No its not my baby No its not my baby
 
-I was phoning you
+speaker_3: Its your house girl no no no you better not
 
-### Speaker 4
-
-How do you wear me now Its my high school red Its my high school red No its not my baby No its not my baby
-
-### Speaker 3
-
-Its your house girl no no no you better not
-
-### Speaker 1
-
-Definitely not the best way to manage a conflict Watch this video till the end because in the next five minutes or so I will be sharing with you three things you can do to improve your conflict management both at work and in personal life My name is Jamil Hai and Ive been working in the corporate sector for the last 19 years My mission is to help you build real life skills for your job and career that they dont teach you in college So the first tip is dont just always try to avoid a conflict because sometimes conflict can be good and it can actually result in something productive
+speaker_1: Definitely not the best way to manage a conflict Watch this video till the end because in the next five minutes or so I will be sharing with you three things you can do to improve your conflict management both at work and in personal life My name is Jamil Hai and Ive been working in the corporate sector for the last 19 years My mission is to help you build real life skills for your job and career that they dont teach you in college So the first tip is dont just always try to avoid a conflict because sometimes conflict can be good and it can actually result in something productive
 
 
 Believe it or not let me give you an example When I was very early in my career I was a supply planning manager of a small business And at that time I was responsible for bringing in all the product from the port and the factories So I was managing the supply side of the business And I always had an ongoing conflict with the demand team because they were responsible for forecasting And we always had this tension point because I always thought that they were not forecasting accurately enough for me to bring the right level of product And the demand teams view was

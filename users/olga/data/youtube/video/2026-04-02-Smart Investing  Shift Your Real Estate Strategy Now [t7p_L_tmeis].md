@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-But now the market is shifted from Im just buying because its cheap Im just buying because payment plan 20 by 80 to I am just buying because I know which projects which developers and which location will sustain and make
+speaker_1: But now the market is shifted from Im just buying because its cheap Im just buying because payment plan 20 by 80 to I am just buying because I know which projects which developers and which location will sustain and make

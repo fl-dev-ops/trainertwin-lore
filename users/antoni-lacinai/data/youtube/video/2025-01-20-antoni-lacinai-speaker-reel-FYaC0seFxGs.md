@@ -9,11 +9,11 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 5
 speakers:
-  '1': Antoni Lacinai
-  '2': Speaker 2
-  '3': Speaker 3
-  '4': Speaker 4
-  '5': Speaker 5
+  speaker_1: 'Antoni Lacinai'
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
+  speaker_5: null
 ---
 
 
@@ -21,34 +21,18 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Antoni Lacinai
+speaker_1: For the last 25 years Ive been studying the success factors of analog communication in an ever more digital world You have the power to make people feel the way you want them to feel
 
-For the last 25 years Ive been studying the success factors of analog communication in an ever more digital world You have the power to make people feel the way you want them to feel
+speaker_2: I bought every single thing he put on that stage Hes very authentic
 
-### Speaker 2 · Speaker 2
+speaker_3: He gives great examples He is somebody that you should see I encourage you to pay attention to Anthony
 
-I bought every single thing he put on that stage Hes very authentic
+speaker_1: Communication engagement and performance are interdependent theyre interlinked The better your communication the more engagement you will get The more engagement the better the performance Servant leadership for me is really important Why am I here Whats my purpose
 
-### Speaker 3 · Speaker 3
+speaker_4: From Sweden Anthony Lacinai
 
-He gives great examples He is somebody that you should see I encourage you to pay attention to Anthony
+speaker_5: Anthony Lacinai
 
-### Speaker 1 · Antoni Lacinai
+speaker_2: Anthony Lacinai
 
-Communication engagement and performance are interdependent theyre interlinked The better your communication the more engagement you will get The more engagement the better the performance Servant leadership for me is really important Why am I here Whats my purpose
-
-### Speaker 4 · Speaker 4
-
-From Sweden Anthony Lacinai
-
-### Speaker 5 · Speaker 5
-
-Anthony Lacinai
-
-### Speaker 2 · Speaker 2
-
-Anthony Lacinai
-
-### Speaker 1 · Antoni Lacinai
-
-The best employee recruitment is employee retention and the best employee retention is employee engagement Communication between people is like electricity in a modern society Without it nothing works Without it we die Care for your clients care for your colleagues care for the whole planet If you dont understand people how can you be clear in your message and deliver it with the right type of energy I can train you to be more influential and charismatic I can coach you to be that
+speaker_1: The best employee recruitment is employee retention and the best employee retention is employee engagement Communication between people is like electricity in a modern society Without it nothing works Without it we die Care for your clients care for your colleagues care for the whole planet If you dont understand people how can you be clear in your message and deliver it with the right type of energy I can train you to be more influential and charismatic I can coach you to be that

@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Everyone is fearful Yes everyone sees this but this is a front vision right I want to give you a well known example Big Short movie about 2008 crisis housing crisis in US Just to understand what was the sequence of events and and why it happened But even in this movie the guy whose name is Michael Burry he was able to see what is coming and despite what everyone else was telling him there was another two guys who kind of understood the gig but he was the main one He played against the common sense in that way and the market and he won approximately 800 million
+speaker_1: Everyone is fearful Yes everyone sees this but this is a front vision right I want to give you a well known example Big Short movie about 2008 crisis housing crisis in US Just to understand what was the sequence of events and and why it happened But even in this movie the guy whose name is Michael Burry he was able to see what is coming and despite what everyone else was telling him there was another two guys who kind of understood the gig but he was the main one He played against the common sense in that way and the market and he won approximately 800 million

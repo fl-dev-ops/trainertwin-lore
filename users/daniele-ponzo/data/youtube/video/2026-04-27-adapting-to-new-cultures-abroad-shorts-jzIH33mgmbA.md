@@ -23,8 +23,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -32,14 +32,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: But you know life brings lots of things to the menu all the time in order to surprise you in order to make you develop yourself either personally or professionally So at that time my very first day So before that I was in Yorkshire but London London is quite So I found myself in a kiosk and with a um Indian guy over there Because you know you speak English and I speak English but not as our first tongue And then I just had the idea okay we understand each other I started to you know observe other people because I felt myself like an alien And I started to observe other people because you know I was at at that time I think I was just uh at a intern at a museum cartoon museum at that time
 
-But you know life brings lots of things to the menu all the time in order to surprise you in order to make you develop yourself either personally or professionally So at that time my very first day So before that I was in Yorkshire but London London is quite So I found myself in a kiosk and with a um Indian guy over there Because you know you speak English and I speak English but not as our first tongue And then I just had the idea okay we understand each other I started to you know observe other people because I felt myself like an alien And I started to observe other people because you know I was at at that time I think I was just uh at a intern at a museum cartoon museum at that time
+speaker_2: Yeah of course Thats thats totally new language
 
-### Speaker 2 · Speaker 2
-
-Yeah of course Thats thats totally new language
-
-### Speaker 1 · Speaker 1
-
-I just couldnt make it
+speaker_1: I just couldnt make it

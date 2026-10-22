@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-मैत्रेय उवाच
+speaker_1: मैत्रेय उवाच
 पितृभ्यां प्रस्थिते साध्वी पतिमिङ्गितकोविदा
 नित्यं पर्यचरत्प्रीत्या भवानीव भवं प्रभुम्
 

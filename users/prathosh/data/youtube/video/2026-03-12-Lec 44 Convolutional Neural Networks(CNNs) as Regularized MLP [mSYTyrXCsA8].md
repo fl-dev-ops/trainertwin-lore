@@ -6,14 +6,15 @@ date: '2026-03-12'
 duration: 44:56
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 44 Convolutional Neural Networks(CNNs) as Regularized MLP
 
 ## Transcript
 
-
-Welcome everyone to the class Now
+speaker_1: Welcome everyone to the class Now
 lets lets see how it is done in
 popular culture Right So people dont
 see a CNN as a as a regularized MLP

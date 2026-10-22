@@ -11,7 +11,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -19,6 +19,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Yeah so its about stories of professionals who work in an international context international environment They use English for work but none of them was born in an English speaking country So thats the idea So we have people from Spain from Italy from uh from Russia from Brazil from many parts of the world And its all about stories yeah so they share like obviously what they do today but also how they got there their uh big challenges with imposter syndrome with perfectionism and how things changed for them Either like they moved to a different country or they remained they stayed in their home country but they started an international job experience
+speaker_1: Yeah so its about stories of professionals who work in an international context international environment They use English for work but none of them was born in an English speaking country So thats the idea So we have people from Spain from Italy from uh from Russia from Brazil from many parts of the world And its all about stories yeah so they share like obviously what they do today but also how they got there their uh big challenges with imposter syndrome with perfectionism and how things changed for them Either like they moved to a different country or they remained they stayed in their home country but they started an international job experience

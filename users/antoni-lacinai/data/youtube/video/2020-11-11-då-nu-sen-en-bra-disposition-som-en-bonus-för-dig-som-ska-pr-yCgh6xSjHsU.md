@@ -10,7 +10,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Nu ska du få en bonusdisposition som jag själv tycker mycket om Den är så enkel och den är så lätt att ta med sig när man till exempel blir överraskad överrumplad Du ska presentera nu Ska jag Ja det ska du Om fem minuter är det din tur om 15 minuter vad det nu kan vara
+speaker_1: Nu ska du få en bonusdisposition som jag själv tycker mycket om Den är så enkel och den är så lätt att ta med sig när man till exempel blir överraskad överrumplad Du ska presentera nu Ska jag Ja det ska du Om fem minuter är det din tur om 15 minuter vad det nu kan vara
 
 
 Den handlar om tidlinje Du pratar om då nu och sen Det blir så himla enkelt att strukturera sitt budskap på det sättet Vi tar ett privat exempel Tänk att du skall hålla tal på någons bröllop Du hade inte tänkt att göra det men nu blir det så i alla fall

@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,14 +19,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: So Varun from India sent me a question that he has just started his new job as a middle manager and hes struggling to understand the leadership style of his new GM Now this is a very valid question because if you think about Steve Jobs Jeff Bezos Indira Nui Sundar Pichai Jack Welch and so on all of these are great leaders but is their leadership style the same Absolutely not And understanding the leadership style of the leaders in your organization can help you maneuver your career better
 
-So Varun from India sent me a question that he has just started his new job as a middle manager and hes struggling to understand the leadership style of his new GM Now this is a very valid question because if you think about Steve Jobs Jeff Bezos Indira Nui Sundar Pichai Jack Welch and so on all of these are great leaders but is their leadership style the same Absolutely not And understanding the leadership style of the leaders in your organization can help you maneuver your career better
+speaker_2: Peace
 
-### Speaker 2
-
-Peace
-
-### Speaker 1
-
-just like Varun So watch this video till the end because I will share with you six different leadership styles with real life examples which like Varun will also help you in identifying the different leadership styles in your organization and hopefully help you maneuver your career better
+speaker_1: just like Varun So watch this video till the end because I will share with you six different leadership styles with real life examples which like Varun will also help you in identifying the different leadership styles in your organization and hopefully help you maneuver your career better

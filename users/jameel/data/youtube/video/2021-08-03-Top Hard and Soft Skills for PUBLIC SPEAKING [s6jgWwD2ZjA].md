@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,16 +18,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Well first of all I want to welcome you to the Soft Skills channel where our mission is to help professionals build real life skills for their job and career that they dont teach in college So thanks a lot for helping us with this effort And Adil as everybody knows like you are a very famous performer artist and a public speaker So today well be asking you some questions about the skill sets on how to be a good public speaker So very specifically my first question to you is tell us about the top three hard skills or technical
+speaker_1: Well first of all I want to welcome you to the Soft Skills channel where our mission is to help professionals build real life skills for their job and career that they dont teach in college So thanks a lot for helping us with this effort And Adil as everybody knows like you are a very famous performer artist and a public speaker So today well be asking you some questions about the skill sets on how to be a good public speaker So very specifically my first question to you is tell us about the top three hard skills or technical
 
 
 skills which you need to be a good public speaker
 
-### Speaker 2
-
-All right excellent question Before I answer that which will take 10 seconds its an interesting thing that you mentioned that pretty much every relationship depends on the way we speak and occupation depends on the way we present ourselves And I find it really ironic and tragic that no school college not in my country teaches public speaking And I think its the greatest educational oversight in educational history How can we not teach kids how to
+speaker_2: All right excellent question Before I answer that which will take 10 seconds its an interesting thing that you mentioned that pretty much every relationship depends on the way we speak and occupation depends on the way we present ourselves And I find it really ironic and tragic that no school college not in my country teaches public speaking And I think its the greatest educational oversight in educational history How can we not teach kids how to
 
 
 speak okay to answer your question the top three skills okay i asked a similar question to my voice coach many many years ago and he took out a white piece of paper and a pen and he wrote down the first the second and the third quality that a person needs to have a skill that one needs to have and ill tell you exactly what he said many years later ill pass on that information okay the first hard skill is diction the second hard skill is diction
@@ -38,16 +34,12 @@ The third hard skill is diction In one sentence what is diction Diction is the a
 
 Which words you should choose for which sentence thats the foremost and the most important hard skill
 
-### Speaker 1
-
-Awesome Thanks a lot Adil And I think I just want to build on what you just said And thats exactly like I mentioned is the mission of my channel that not a lot of these skills especially like these fundamental obvious skills which we I mean I have personally learned these in my workplace that these are so critical but nobody teaches them at school Nobody teaches them in colleges and universities So thanks a lot for bringing that point again And on the diction piece just a follow up question on that For somebody who is starting new or who has a lot of aspiration to be
+speaker_1: Awesome Thanks a lot Adil And I think I just want to build on what you just said And thats exactly like I mentioned is the mission of my channel that not a lot of these skills especially like these fundamental obvious skills which we I mean I have personally learned these in my workplace that these are so critical but nobody teaches them at school Nobody teaches them in colleges and universities So thanks a lot for bringing that point again And on the diction piece just a follow up question on that For somebody who is starting new or who has a lot of aspiration to be
 
 
 a good public speaker like what are some of the tips you would like to give like where to start like how do we build this skill set
 
-### Speaker 2
-
-Okay if you ask this question to a panel of 10 people theyll all have different answers and theyll all be correct So Im the 11th one I have an entirely different answer to that Where to begin Now to learn any craft speaking is a craft painting is a craft you know theyre all crafts The problem with learning a craft is its not linear Theres no point 1 point 2 point 3 point 4 from point A to B to C to D that like we are taught in school class 1 2 3
+speaker_2: Okay if you ask this question to a panel of 10 people theyll all have different answers and theyll all be correct So Im the 11th one I have an entirely different answer to that Where to begin Now to learn any craft speaking is a craft painting is a craft you know theyre all crafts The problem with learning a craft is its not linear Theres no point 1 point 2 point 3 point 4 from point A to B to C to D that like we are taught in school class 1 2 3
 
 
 So its not linear Its non linear So pick up any point and just start learning Start learning Now theres no way in hell that you can learn any skill without practicing You cant learn how to ride a bicycle by reading about it You cant learn swimming by watching videos on swimming So you cant learn speaking until you start speaking So just start speaking Start recording yourself on a phone or on your computer Give yourself a topic
@@ -55,13 +47,9 @@ So its not linear Its non linear So pick up any point and just start learning St
 
 give yourself a timer two minutes three minutes talk about the topic stop the recording and then look at yourself an hour later not right now not at the time an hour later and i think you know if you practice it enough youll start to improve and then youll pick up on what is it that im doing wrong or what is it that im doing right so i think the first step towards learning would be start recording yourself and start practicing
 
-### Speaker 1
+speaker_1: Awesome Excellent Thanks a lot Adil Thats very helpful Now the practice piece actually brings me to my next question which is what are the softer skills And I mean as my channels name suggests right Its really about those soft skills or probably a lot of people call them human skills which probably is the more appropriate term So tell us a little bit about what are the top soft skills needed to be a good public speaker
 
-Awesome Excellent Thanks a lot Adil Thats very helpful Now the practice piece actually brings me to my next question which is what are the softer skills And I mean as my channels name suggests right Its really about those soft skills or probably a lot of people call them human skills which probably is the more appropriate term So tell us a little bit about what are the top soft skills needed to be a good public speaker
-
-### Speaker 2
-
-Again like the first question like the hard skills there is a list of soft skills but heres the one that I think tops the list And especially in this day and age where I feel that everyone is just waiting to be offended You sneeze and people get offended You know you wear a certain thing people get offended You dont say something and people get offended So you know the funny thing is everyone
+speaker_2: Again like the first question like the hard skills there is a list of soft skills but heres the one that I think tops the list And especially in this day and age where I feel that everyone is just waiting to be offended You sneeze and people get offended You know you wear a certain thing people get offended You dont say something and people get offended So you know the funny thing is everyone
 
 
 these days is waiting to be anyway so heres the heres an excellent point to start with soft skill to skill and im glad you mentioned the word human skill because i find them even more important than hard skills the human skills are even more important you will find many speakers who dont have a command over the language who may fumble and yet theyre very powerful speakers or influencers so their hard skill may not be that that polished

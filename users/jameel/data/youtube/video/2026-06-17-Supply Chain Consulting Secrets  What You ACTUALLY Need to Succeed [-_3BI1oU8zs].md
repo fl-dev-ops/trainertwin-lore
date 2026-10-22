@@ -8,10 +8,10 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 
@@ -20,9 +20,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-the way corporate works no longer do you have the luxury of having the tunnel vision of Im in supply chain because when you are an entrepreneur you are doing commercials youre doing your marketing youre doing your distribution youre doing your financials you have to take all of that into account and once you step away from entrepreneurship then going back to corporate in that sense kind of is also a challenge by the way because you know you want to go in a road because you have tasted
+speaker_1: the way corporate works no longer do you have the luxury of having the tunnel vision of Im in supply chain because when you are an entrepreneur you are doing commercials youre doing your marketing youre doing your distribution youre doing your financials you have to take all of that into account and once you step away from entrepreneurship then going back to corporate in that sense kind of is also a challenge by the way because you know you want to go in a road because you have tasted
 
 
 the blood so you want to kind of go into the role where you want to manage it all or you want to keep the birds eye view always in mind i think the most underrated capability in being a consultant is the ability to read the room because and i just dont mean analytically i mean behaviorally as well you need to quickly understand as a consultant whos aligned whos resistant who feels threatened who actually
@@ -33,32 +31,20 @@ influences decisions the ability to be able to convert chaos into clarity that i
 
 consultant would do I think one or two generally materializes okay now step back and think about it this means that you are effectively hearing no or getting nowhere 80 to 90 percent of the time but at the same time you should be a good salesperson you need to have your own brand thats what distinguish a good consultant from a consultant whos not getting projects or whos not good enough
 
-### Speaker 2
-
-Hello supply chain friends and welcome to another exciting podcast on my channel and one of the most common questions I get from all of you is about how do I become a consultant in the supply chain space and although on my channel I cover a lot about corporate careers job interview preparations how to be successful in the corporate ladder and so on we dont talk much about consulting and today Im really fortunate because Ive got someone uh on my show here who has worked on both sides of the fence so she has
+speaker_2: Hello supply chain friends and welcome to another exciting podcast on my channel and one of the most common questions I get from all of you is about how do I become a consultant in the supply chain space and although on my channel I cover a lot about corporate careers job interview preparations how to be successful in the corporate ladder and so on we dont talk much about consulting and today Im really fortunate because Ive got someone uh on my show here who has worked on both sides of the fence so she has
 
 
 worked as a corporate supply chain professional in world class companies like GSK and Procter Gamble And she has also been a consultant So we will find out directly from her how does it feel like to be a consultant and what are the paths that you could take in order to get there So without further ado I would like to welcome Omang Khan on my channel Hi Omang How are you
 
-### Speaker 1
+speaker_1: Hi Jemima Im very well how are you
 
-Hi Jemima Im very well how are you
+speaker_2: Very good thank you Thanks for coming on the show And as I said this is a very common theme And a lot of people ask me about this question So first of all Omang just tell us a little bit about your career journey
 
-### Speaker 2
+speaker_1: Thank you for the amazing introduction Im humbled
 
-Very good thank you Thanks for coming on the show And as I said this is a very common theme And a lot of people ask me about this question So first of all Omang just tell us a little bit about your career journey
+speaker_2: No absolutely You deserve it So yeah tell the audience a little bit about your career journey and how did you end up being a consultant in supply chain
 
-### Speaker 1
-
-Thank you for the amazing introduction Im humbled
-
-### Speaker 2
-
-No absolutely You deserve it So yeah tell the audience a little bit about your career journey and how did you end up being a consultant in supply chain
-
-### Speaker 1
-
-Okay so my career journey So I Umar Khan I am about 20 years in supply chain now And just for the audiences journal knowledge Jamil was one of my mentors I did not start my career with Procter Gambit I started my career with GSK But when I came to P G he was my first mentor And a lot of my supply chain knowledge today is because of the basics that you have developed
+speaker_1: Okay so my career journey So I Umar Khan I am about 20 years in supply chain now And just for the audiences journal knowledge Jamil was one of my mentors I did not start my career with Procter Gambit I started my career with GSK But when I came to P G he was my first mentor And a lot of my supply chain knowledge today is because of the basics that you have developed
 
 
 wanted to and i i think weve always ive always said that to you but i want to say that on a bigger forum so um how did i start my career and then how i came into consulting so i started my career in the gsk and i say i at this point now since a few years i feel that i was very lucky to start in the pharma industry in production planning and procurement for a lot of people when they enter
@@ -87,27 +73,19 @@ sense kind of is also a challenge by the way because you know you want to go in 
 
 And thats how I felt okay consulting is something which is gonna satisfy that need that Im looking for So thats that
 
-### Speaker 2
-
-Excellent Excellent I think that thats a thats a great introduction And then by the way thanks Omong for your kind words about me as well But I think you have kind of answered a couple of questions that I was going to ask you And I really like how you have framed like you know that whole journey that you had through entrepreneurship and the tunnel vision piece right Because one of the things I was going to ask you about like you know what are the key differences And I think you have kind of that term summarizes it really well that when you are in supply chain sometimes you just have this
+speaker_2: Excellent Excellent I think that thats a thats a great introduction And then by the way thanks Omong for your kind words about me as well But I think you have kind of answered a couple of questions that I was going to ask you And I really like how you have framed like you know that whole journey that you had through entrepreneurship and the tunnel vision piece right Because one of the things I was going to ask you about like you know what are the key differences And I think you have kind of that term summarizes it really well that when you are in supply chain sometimes you just have this
 
 
 very single track view of okay my job is my warehouse my operation and so on but then one of the things i tell people that you know if you want to grow in supply chain if you ever want to be a director or a senior leader you have to get out of that tunnel vision you need to think like a gm you need to think like a business owner uh and you need to understand the financials not just your tons and uh as in supply as in png we used to use msus and all of that right you need to get out of that whole mindset so i think that thats a very good uh
 
-### Speaker 1
-
-Come on
+speaker_1: Come on
 
 
 I dont want to be a cent
 
-### Speaker 2
+speaker_2: a very good point that you have raised Now as someone moves from you know being in the corporate world to being a consultant in supply chain Ong can you tell me a little bit about like what in your experience or in your perspective are the top three or four skills that one must have in order to be successful
 
-a very good point that you have raised Now as someone moves from you know being in the corporate world to being a consultant in supply chain Ong can you tell me a little bit about like what in your experience or in your perspective are the top three or four skills that one must have in order to be successful
-
-### Speaker 1
-
-Like I said before consulting and I was saying it may be for entrepreneurship but consulting requires a very different mindset from purely operational roles A lot of things people think consulting is mainly about technical knowledge You need to be an expert in a certain area that you can consult And its true Yes of course technical capabilities matter a lot But you need to and you need to understand the you know if youre a supply chain consultant
+speaker_1: Like I said before consulting and I was saying it may be for entrepreneurship but consulting requires a very different mindset from purely operational roles A lot of things people think consulting is mainly about technical knowledge You need to be an expert in a certain area that you can consult And its true Yes of course technical capabilities matter a lot But you need to and you need to understand the you know if youre a supply chain consultant
 
 
 logistics procurement manufacturing analytics everything whatever your domain is but honestly that alone is not
@@ -145,43 +123,27 @@ confronting and youre coming across different cultures different business models
 
 implementing an SNOP its not true it is not true for every single organization you have to have their take into account their uniqueness so I think the skill set required here is very different from what is you know what is generally perceived
 
-### Speaker 2
-
-Yeah and I think the way youve explained it among its its a very its a very delicate balance between leadership skills and technical skills And some of the leadership skills in this world are more important than what you would typically see in the corporate world But for example Im so glad you mentioned about that ability to read the room right Which is kind of an extension of stakeholder management as well But when you are lets say making a pitch or you are making your recommendation you really need to find out because especially as a consultant Ive seen this in the room with a
+speaker_2: Yeah and I think the way youve explained it among its its a very its a very delicate balance between leadership skills and technical skills And some of the leadership skills in this world are more important than what you would typically see in the corporate world But for example Im so glad you mentioned about that ability to read the room right Which is kind of an extension of stakeholder management as well But when you are lets say making a pitch or you are making your recommendation you really need to find out because especially as a consultant Ive seen this in the room with a
 
 
 a lot of consultant at myself that to your point a lot of people feel threatened because they feel that oh their department or their jobs might be undermined because of this right So you need to understand who those are and who are your lets say allies in your project and then who are the risks
 
-### Speaker 1
+speaker_1: Ive been losing it
 
-Ive been losing it
+speaker_2: Yeah and then there are also like you know theres a huge group of people who are like passive resistors So you know there are people who are sitting on the fence and theyre just waiting for a failure to happen and they will say oh you know I told you so right And they are probably sometimes the most dangerous people right So you just need to understand who is who in those roles so that you can work with them and collaborate with them Thats great Now I just tell you something
 
-### Speaker 2
+speaker_1: Look I will tell you something once I will just say add something here when we step in as a consultant the first impression that the organization makes out of us is a consultant came its gonna fail because they dont know
 
-Yeah and then there are also like you know theres a huge group of people who are like passive resistors So you know there are people who are sitting on the fence and theyre just waiting for a failure to happen and they will say oh you know I told you so right And they are probably sometimes the most dangerous people right So you just need to understand who is who in those roles so that you can work with them and collaborate with them Thats great Now I just tell you something
+speaker_2: Nice
 
-### Speaker 1
+speaker_1: how it works here and you the first thing is to create the first step for us is to create the belief to change that mindset that its not just that i bring some models i bring the knowledge i bring multi industry knowledge i can work with you on your work and i can help you in improve so im going i can advise you better so first is changing their mindset
 
-Look I will tell you something once I will just say add something here when we step in as a consultant the first impression that the organization makes out of us is a consultant came its gonna fail because they dont know
-
-### Speaker 2
-
-Nice
-
-### Speaker 1
-
-how it works here and you the first thing is to create the first step for us is to create the belief to change that mindset that its not just that i bring some models i bring the knowledge i bring multi industry knowledge i can work with you on your work and i can help you in improve so im going i can advise you better so first is changing their mindset
-
-### Speaker 2
-
-Yeah absolutely And I think this is it reminds me of a phrase that is often used whenever a consultant comes in on a project right You know a consultant is someone who is going to look at your watch and tell you what the time is right So thats like the general mindset which is like a big stereotype about consultants coming into a company right And youre so right about that that whole change in mindset Now one one key because of course I do a lot of career consulting and career coaching on this channel one question I have
+speaker_2: Yeah absolutely And I think this is it reminds me of a phrase that is often used whenever a consultant comes in on a project right You know a consultant is someone who is going to look at your watch and tell you what the time is right So thats like the general mindset which is like a big stereotype about consultants coming into a company right And youre so right about that that whole change in mindset Now one one key because of course I do a lot of career consulting and career coaching on this channel one question I have
 
 
 often get asked is that in order to become a consultant obviously experience and industry cross industry knowledge is important but what is the importance of degrees or like MBAs or certifications do you think they play a big role as you are making this transition or it is just like some kind of a check in the box that one must have
 
-### Speaker 1
-
-I will say this huh I so I come from Pakistan from Karachi and I studied from IBA huh And I got my MBA from IBA So I do know this And there were I mean among my family and my friends there were some of my cousins who studied from IBA some did not So what I do know is your where you study from your basic education it kind of may
+speaker_1: I will say this huh I so I come from Pakistan from Karachi and I studied from IBA huh And I got my MBA from IBA So I do know this And there were I mean among my family and my friends there were some of my cousins who studied from IBA some did not So what I do know is your where you study from your basic education it kind of may
 
 
 uh creates some beliefs it kind of polishes you uh in to be a certain person so yes some basic level of education on that front where you go it it is important so i do believe that if youre coming to business you need to know the basics of business im not just gonna say oh degrees dont matter no they do matter to some point in time but then there are some levels for example um
@@ -201,20 +163,14 @@ believe are important and there is a difference if you know them or if you dont 
 
 So thats I mean thats my yeah two cents on it
 
-### Speaker 3
+speaker_3: Yeah makes a lot of sense thanks thanks for that great answer
 
-Yeah makes a lot of sense thanks thanks for that great answer
-
-### Speaker 2
-
-Um now based on what you have seen in the consulting space and maybe this might be a Middle East specific question Omag but maybe it paints a general picture for whats kind of the demand in terms of the nature of projects So are you seeing more demand for consulting projects in the space of network optimization Is it about digital or digitalization of supply chain as they call it or is it like about warehouse expansion So where do you see is
+speaker_2: Um now based on what you have seen in the consulting space and maybe this might be a Middle East specific question Omag but maybe it paints a general picture for whats kind of the demand in terms of the nature of projects So are you seeing more demand for consulting projects in the space of network optimization Is it about digital or digitalization of supply chain as they call it or is it like about warehouse expansion So where do you see is
 
 
 Uh is the bigger uh lets say momentum in terms of the nature of projects that you are seeing coming
 
-### Speaker 1
-
-Honestly we see all kinds of mess Thats the simplest way to describe a consulting project Companies do not really bring consultant when things are running smoothly or things are perfect You only think about a consultant when you you feel the pain or theres a serious business pain point somewhere Your cash is stuck Your service is
+speaker_1: Honestly we see all kinds of mess Thats the simplest way to describe a consulting project Companies do not really bring consultant when things are running smoothly or things are perfect You only think about a consultant when you you feel the pain or theres a serious business pain point somewhere Your cash is stuck Your service is
 
 
 uh not reliable your inventory is high operations are inefficient and uh or you even want growth which is not happening so but having said that i think the one of the most common areas that i have witnessed or ive come across uh in my projects is inventory related work and i think that is also stemming from what i was talking about is because inventory problems are extremely visible in terms of cash flow and working capital so that becomes the first thing okay
@@ -231,42 +187,28 @@ They come when the company the partners or the digital partners who are doing th
 
 And this is always like something which happens once theyre looking for this journey of digital transformation and then the need is identified So yes digital transformation is big I think the biggest is inventory here
 
-### Speaker 3
-
-Interesting thats thats very interesting I did not imagine how big inventory is a problem but looks like the way you are explaining it is probably like
+speaker_3: Interesting thats thats very interesting I did not imagine how big inventory is a problem but looks like the way you are explaining it is probably like
 
 
 Yeah and then this is an important learning as well for those who are watching that I talk a lot about on this channel about like the importance of understanding inventory management both from a financial perspective and from a supply chain perspective
 
-### Speaker 1
+speaker_1: And then
 
-And then
+speaker_3: what what what obang is basically validating here is that this is a you know bigger industry problem than a lot of us would imagine because everybody talks about these fancy terms digitalization transformation but when you really go at the core you know the fundamentals like inventory like warehouse optimization i think those uh those pieces come in now uh
 
-### Speaker 3
-
-what what what obang is basically validating here is that this is a you know bigger industry problem than a lot of us would imagine because everybody talks about these fancy terms digitalization transformation but when you really go at the core you know the fundamentals like inventory like warehouse optimization i think those uh those pieces come in now uh
-
-### Speaker 1
-
-I will add something here I think the bigger problem is not inventory management the bigger problem is lack of having a sales and for me I think if companies actually sit down and implement a proper SNOP cycle it will solve a lot of issues which come under the umbrella of SNOP which could be forecasting are youre you get kind of ready for digital transformation as well your inventory problems are solved
+speaker_1: I will add something here I think the bigger problem is not inventory management the bigger problem is lack of having a sales and for me I think if companies actually sit down and implement a proper SNOP cycle it will solve a lot of issues which come under the umbrella of SNOP which could be forecasting are youre you get kind of ready for digital transformation as well your inventory problems are solved
 
 
 a lot of your logistics and order fulfillment issues are solved as well But the point here is not what is the bigger problem The point Im trying to make is in consultants are hired when the problem becomes a huge pain and it becomes extremely visible Inventory issues are visible because they tie your cash up directly
 
-### Speaker 3
-
-Makes sense Just one I mean this is a kind of a little bit of a sidebar question here Ong but since you have mentioned SNOP do you think SNOP is a challenge for mid sized and small medium enterprises who are kind of of course dealing with consumer products or any kind of product Or do you still see this as a pain point for the bigger players in the world Because the reason Im asking you this question I mean you and I have worked in the same company right And you we both of us know that like in bigger corporations
+speaker_3: Makes sense Just one I mean this is a kind of a little bit of a sidebar question here Ong but since you have mentioned SNOP do you think SNOP is a challenge for mid sized and small medium enterprises who are kind of of course dealing with consumer products or any kind of product Or do you still see this as a pain point for the bigger players in the world Because the reason Im asking you this question I mean you and I have worked in the same company right And you we both of us know that like in bigger corporations
 
 
 PNGs and the GSKs of the world theres a lot of emphasis on
 
-### Speaker 2
+speaker_2: the S OP process the ownership of the process with the GM right But whats your perspective Is this a problem you see in lets say medium scale companies where this importance is not obviously ingrained that much or you see it across the board
 
-the S OP process the ownership of the process with the GM right But whats your perspective Is this a problem you see in lets say medium scale companies where this importance is not obviously ingrained that much or you see it across the board
-
-### Speaker 1
-
-Im not sure if Im
+speaker_1: Im not sure if Im
 
 
 Uh
@@ -289,21 +231,13 @@ how formal it is and by formal I do not mean that whether youre doing your SNOP 
 
 Look at the big picture and be proactive you need to run the SML
 
-### Speaker 3
+speaker_3: Perfect Yeah absolutely Cant agree more on that one And lets just change gears here a little bit Ong and I want to go back from a you know careers management perspective And you have also touched on the importance of your digital partners and how they come into the equation and the whole technology aspect of the whole supply chain itself right
 
-Perfect Yeah absolutely Cant agree more on that one And lets just change gears here a little bit Ong and I want to go back from a you know careers management perspective And you have also touched on the importance of your digital partners and how they come into the equation and the whole technology aspect of the whole supply chain itself right
+speaker_2: Now these days Im talking to two types of lets say potential candidates or professionals right Obviously I talk a lot to supply chain professionals who are in the lets say corporate world And there is always this thinking sometimes you know I would like to become a consultant And you have already answered a lot of questions about skill sets and all But then there is an increasing number of people Im speaking to who are reaching out to me because of the supply chain content I put out is IT professionals
 
-### Speaker 2
+speaker_3: or digital digital technology professionals who want to for right or wrong reasons make a shift into supply chain obviously with uh some of the industries within the technology space are more affected by changes with AI we see a we are
 
-Now these days Im talking to two types of lets say potential candidates or professionals right Obviously I talk a lot to supply chain professionals who are in the lets say corporate world And there is always this thinking sometimes you know I would like to become a consultant And you have already answered a lot of questions about skill sets and all But then there is an increasing number of people Im speaking to who are reaching out to me because of the supply chain content I put out is IT professionals
-
-### Speaker 3
-
-or digital digital technology professionals who want to for right or wrong reasons make a shift into supply chain obviously with uh some of the industries within the technology space are more affected by changes with AI we see a we are
-
-### Speaker 2
-
-hearing a lot of news about layoffs in the AI sector right and sorry in the technology sector theres a lot of shift and people are trying to find out like you know if if IT is not the next big thing anymore you know do we want to move to other industry and obviously supply
+speaker_2: hearing a lot of news about layoffs in the AI sector right and sorry in the technology sector theres a lot of shift and people are trying to find out like you know if if IT is not the next big thing anymore you know do we want to move to other industry and obviously supply
 
 
 What would be your advice
@@ -317,20 +251,14 @@ an ex working in a corporate job he or she is
 
 company but they aspire to be a consultant in the next three to four years what would be your advice to them in terms of the type of projects or type of work they should do and then my question would be the same you know for somebodys in the dt space on the supply
 
-### Speaker 3
+speaker_3: WMSA is OI
 
-WMSA is OI
-
-### Speaker 2
-
-And if they want to make a
+speaker_2: And if they want to make a
 
 
 What would your advice be to both these groups
 
-### Speaker 1
-
-Took first of all let me say this and this is important for everyone to realize Okay When youre working in a corporate role its a bit of a different world out there huh Because every day youre expected to come to office and deliver something So there is a kind of a stability in the role But if you want to move into consulting the first thing forget wherever youre coming from youre a supply chain expert youre a digital transformation expert
+speaker_1: Took first of all let me say this and this is important for everyone to realize Okay When youre working in a corporate role its a bit of a different world out there huh Because every day youre expected to come to office and deliver something So there is a kind of a stability in the role But if you want to move into consulting the first thing forget wherever youre coming from youre a supply chain expert youre a digital transformation expert
 
 
 expert you want to switch career to consulting the first thing you need is grit because the reality of the situation is uh and its even true for all of us so and im telling you my personal situation out of every 10 potential clients or 10 leads or conversations that i would do or any consultant would do i think one or two generally materializes okay now step back and think about it this means
@@ -368,25 +296,15 @@ for it this is not easy
 
 So thats
 
-### Speaker 3
+speaker_3: I think I think thats great Yeah because I mean and Im so glad you have mentioned grit right Because grit is probably a combination of a lot of important like sub skills like there is perseverance there there is and that ability to re energize yourself after multiple failures because you are absolutely right that in the corporate job its a very well cut out
 
-I think I think thats great Yeah because I mean and Im so glad you have mentioned grit right Because grit is probably a combination of a lot of important like sub skills like there is perseverance there there is and that ability to re energize yourself after multiple failures because you are absolutely right that in the corporate job its a very well cut out
+speaker_2: Although you know of course corporate jobs have their own challenges but those challenges are probably very small if you compare the ones that you see in the consulting because you are an entrepreneur you are trying to sell yourself youre trying to do a lot of things at the same time
 
-### Speaker 2
+speaker_1: True
 
-Although you know of course corporate jobs have their own challenges but those challenges are probably very small if you compare the ones that you see in the consulting because you are an entrepreneur you are trying to sell yourself youre trying to do a lot of things at the same time
+speaker_2: Wait a while you also know that you know the success rate just like the success rate in startups is probably like 2 percent right Im sure like you know in the in the consulting space is kind of similar uh so I think
 
-### Speaker 1
-
-True
-
-### Speaker 2
-
-Wait a while you also know that you know the success rate just like the success rate in startups is probably like 2 percent right Im sure like you know in the in the consulting space is kind of similar uh so I think
-
-### Speaker 1
-
-Look I am I am in a corporate job right now Im no more a consultant but still I know this is a different skill set altogether In a corporate job what and relationships matter a lot you know even in corporate jobs its so so important to have relationships relationship management stakeholder management all of that But in consulting this is half half of your job
+speaker_1: Look I am I am in a corporate job right now Im no more a consultant but still I know this is a different skill set altogether In a corporate job what and relationships matter a lot you know even in corporate jobs its so so important to have relationships relationship management stakeholder management all of that But in consulting this is half half of your job
 
 
 Okay every single day you need to be out there you need to and networking is so important for me if Im a corporate I dont need to be there in every industry when that happens in UAE but as a consultant I need to be there and I was there by the way I was there and I was doing it I was on that stage I was with the people I was networking a lot of people know me because of that but thats the you have to see what the job description is before you take a job not just
@@ -394,39 +312,25 @@ Okay every single day you need to be out there you need to and networking is so 
 
 whatever it glitters situation huh so the job description of consultant is deliver the technical advice deliver the technical know how but at the same time you should be a good salesperson you need to have your own brand thats what distinguish a good consultant from a consultant whos not getting projects or whos not good enough
 
-### Speaker 3
-
-Thats great Yeah And then this is I think you have touched on a very important thing like personal personal brand building right This is another very important ingredient right You need to have a personal brand you need to work on it And then you need to work on it intentionally not you know this is not just a hobby or something right This is almost critically required Now one question I wanted to ask you Amang because you know one of the advantages of being a consultant and especially someone like you who has kind of you know worked on both sides is that you see a lot of industry trends and
+speaker_3: Thats great Yeah And then this is I think you have touched on a very important thing like personal personal brand building right This is another very important ingredient right You need to have a personal brand you need to work on it And then you need to work on it intentionally not you know this is not just a hobby or something right This is almost critically required Now one question I wanted to ask you Amang because you know one of the advantages of being a consultant and especially someone like you who has kind of you know worked on both sides is that you see a lot of industry trends and
 
 
 One thing one trend I want to ask you explicitly about not surprisingly though is AI right Everybodys talking about AI in supply chain and AI is changing Although like I would argue that AI in supply chain is there for a long time And one of the things I at least see and this might be my very myopic perspective but you can definitely educate me here is I go to these conferences and I see a lot of projects especially in the physical logistics side
 
-### Speaker 2
+speaker_2: You know warehousing now this robot
 
-You know warehousing now this robot
+speaker_3: Or can
 
-### Speaker 3
+speaker_2: you know grab the product like this it can feel the softness of the product and it can do all these fancy bells and whistles But one of the things that give feedback to these companies who are you know of course spending millions of dollars in this space is that
 
-Or can
+speaker_3: At the end of the day any project or any such solution needs to make financial sense I recently made a video about like you know what can supply chain managers learn from the Concorde story right Concorde was probably the best
 
-### Speaker 2
-
-you know grab the product like this it can feel the softness of the product and it can do all these fancy bells and whistles But one of the things that give feedback to these companies who are you know of course spending millions of dollars in this space is that
-
-### Speaker 3
-
-At the end of the day any project or any such solution needs to make financial sense I recently made a video about like you know what can supply chain managers learn from the Concorde story right Concorde was probably the best
-
-### Speaker 2
-
-technology of its time right in the 1960s you know we were flying like twice the speed of sound but the reason why that aircraft failed eventually was the financials were never making sense and i see the same thing with a lot of bells and whistles a lot of different sing and dance happening around ai but there are a very limited number of projects which are basically justifying the roi but thats just my very limited perspective what do you see among because i know in the middle east region theres a lot of like technological advancements happening
+speaker_2: technology of its time right in the 1960s you know we were flying like twice the speed of sound but the reason why that aircraft failed eventually was the financials were never making sense and i see the same thing with a lot of bells and whistles a lot of different sing and dance happening around ai but there are a very limited number of projects which are basically justifying the roi but thats just my very limited perspective what do you see among because i know in the middle east region theres a lot of like technological advancements happening
 
 
 as well but whats your perspective on this topic
 
-### Speaker 1
-
-My perspective so look AI and robotics its technology advancement and artificial intelligence are two different topics first of all So Im going to answer the two differently If youre talking about AI whats my perspective on using AI in supply chain I would say at this point in 2026 if you are not utilizing artificial intelligence in one way or the other to make yourself more efficient I think
+speaker_1: My perspective so look AI and robotics its technology advancement and artificial intelligence are two different topics first of all So Im going to answer the two differently If youre talking about AI whats my perspective on using AI in supply chain I would say at this point in 2026 if you are not utilizing artificial intelligence in one way or the other to make yourself more efficient I think
 
 
 youre at the disadvantage a lot of people feel shame at and they make fun of the fact that why someones using chat gpt or gemini i think uh i think people need to get over it that something came out of chat gpt because in order for ai to work you need to feed in the thought for it to polish something right so the the entire perception that some this persons using chat gpe i think
@@ -440,13 +344,9 @@ head of a department or a chief supply chain officer there is a ton of things to
 
 Now lets talk technology advancement robotics and for that Im going to say this okay you cannot start a warehouse you cannot be on a floor storage and jump to robotics okay this is a ladder yes I agree with you that you need to take step by step okay if you have a floor storage or youre thinking I need to get robotics because in Middle East
 
-### Speaker 3
+speaker_3: This is an answer yes I agree with you
 
-This is an answer yes I agree with you
-
-### Speaker 1
-
-have the investment for it okay thats the difference between Middle Eastern countries and other countries but in order to do that theres a long way to go there okay
+speaker_1: have the investment for it okay thats the difference between Middle Eastern countries and other countries but in order to do that theres a long way to go there okay
 
 
 And it always starts with your physical infrastructure your physical design your peoples mindset your processes before any I tell my clients and even in my corporate roles Ive always said it doesnt matter if you have Excel You dont need to have a tool What you need to have is processes and the mindset and processes which people can rely on processes which are just not on paper So process first
@@ -463,37 +363,21 @@ a small thing and it could be anything it could be a belt it could be a scanner 
 
 Those are really needed and you whenever you can take whether its AI or automation take it but first have the processes to take it
 
-### Speaker 3
+speaker_3: Absolutely And thanks for kind of you know segregating those two because I think I when I was asking you the question I kind of you know put everything in the same bucket So thanks for clarifying And I just want to underscore something on yes the AI adoption people need to stop feeling ashamed about it or making fun of it because its such a productivity tool I mean Ill tell you my own personal story because I do a lot of content creation So now thanks to AI the amount of time it takes
 
-Absolutely And thanks for kind of you know segregating those two because I think I when I was asking you the question I kind of you know put everything in the same bucket So thanks for clarifying And I just want to underscore something on yes the AI adoption people need to stop feeling ashamed about it or making fun of it because its such a productivity tool I mean Ill tell you my own personal story because I do a lot of content creation So now thanks to AI the amount of time it takes
+speaker_2: We do create
 
-### Speaker 2
+speaker_3: like five scripts is the same amount of time maybe two years of work you should take me to create one script right because AI makes that
 
-We do create
+speaker_2: So much easier
 
-### Speaker 3
+speaker_3: and especially in this content creation space the technology is just advancing Like I think just in 2026 I can share that I have tried maybe like four new tools and we are only like four months into this right And Im not Im not claiming to be an AI expert by any way Im just you know someone who is a user and a late adopter at best right But still I can see the changes are massive So absolutely Now as we come to the end of this podcast my last question and this is a question by the way Omong sorry it was not one of the
 
-like five scripts is the same amount of time maybe two years of work you should take me to create one script right because AI makes that
+speaker_2: script I sent you but I asked this question to all my guests right especially the ones who are coming up the kind of experience you have which is what is one piece of advice you would like to give your younger self lets imagine you are you know back to your graduation day you are about to start your career what would be the advice you would give to yourself and this is very helpful for people the younger professionals who are watching this
 
-### Speaker 2
+speaker_4: Okay and look Ill uh and this might not be the answer youre looking for
 
-So much easier
-
-### Speaker 3
-
-and especially in this content creation space the technology is just advancing Like I think just in 2026 I can share that I have tried maybe like four new tools and we are only like four months into this right And Im not Im not claiming to be an AI expert by any way Im just you know someone who is a user and a late adopter at best right But still I can see the changes are massive So absolutely Now as we come to the end of this podcast my last question and this is a question by the way Omong sorry it was not one of the
-
-### Speaker 2
-
-script I sent you but I asked this question to all my guests right especially the ones who are coming up the kind of experience you have which is what is one piece of advice you would like to give your younger self lets imagine you are you know back to your graduation day you are about to start your career what would be the advice you would give to yourself and this is very helpful for people the younger professionals who are watching this
-
-### Speaker 4
-
-Okay and look Ill uh and this might not be the answer youre looking for
-
-### Speaker 1
-
-I really believe so okay I have two kids huh I have two kids one is six year old one is 13 year old I let them make mistakes sometimes I let them fall sometimes I let them get hurt sometimes because I believe that unless a person learns from their own hardships and experiences and they they see the tough environments and they are able to handle them this you cannot
+speaker_1: I really believe so okay I have two kids huh I have two kids one is six year old one is 13 year old I let them make mistakes sometimes I let them fall sometimes I let them get hurt sometimes because I believe that unless a person learns from their own hardships and experiences and they they see the tough environments and they are able to handle them this you cannot
 
 
 be uh i mean this is this for me is a way to become more mature so my younger self i am not gonna get i would let the person learn yes uh i dont wanna even for my own kids and you know you are a dad yourself kids are so so important we want to protect and pamper them and yes me too but not always because i want them to uh yes get a bit roughened up get some experiences
@@ -510,32 +394,20 @@ do and I did that because I broke the routine the general letter of a corporate 
 
 You know the path that we follow this is the path to take I dont like that question And even for my kids I tell them no As long as its right I mean its the correct thing to do you can have your own path Make your own mistakes you will learn Our generation versus the new generation thats the difference between them We were brought up much tougher
 
-### Speaker 3
+speaker_3: Yeah absolutely I cant agree more on that Yes Yes thats right So I think the implicit message is there is like you know for for that younger self is that dont be a perfectionist Try things out fail fast fail and failure is is a part of success Right I think thats the most important piece to
 
-Yeah absolutely I cant agree more on that Yes Yes thats right So I think the implicit message is there is like you know for for that younger self is that dont be a perfectionist Try things out fail fast fail and failure is is a part of success Right I think thats the most important piece to
+speaker_4: I think I have
 
-### Speaker 4
-
-I think I have
-
-### Speaker 1
-
-Im having
+speaker_1: Im having
 
 
 Absolutely is
 
-### Speaker 3
+speaker_3: keep in mind yeah yeah absolutely
 
-keep in mind yeah yeah absolutely
+speaker_1: Every failure makes you grow in a way that you cannot grow with all the successes there is no doubt on that
 
-### Speaker 1
-
-Every failure makes you grow in a way that you cannot grow with all the successes there is no doubt on that
-
-### Speaker 3
-
-Actually there was there was a graphic some time ago I saw somewhere maybe it was on LinkedIn right you know that you you learn uh this much from books then you learn this much from you know theory but then you learn this much from failure because failure is the best teacher I would say yeah uh and I think that thats what we are uh saying together yeah uh it was a pleasure to uh have you on the podcast Omen thanks once again for taking the time I know its a its a busy schedule as usual uh but I think some of the
+speaker_3: Actually there was there was a graphic some time ago I saw somewhere maybe it was on LinkedIn right you know that you you learn uh this much from books then you learn this much from you know theory but then you learn this much from failure because failure is the best teacher I would say yeah uh and I think that thats what we are uh saying together yeah uh it was a pleasure to uh have you on the podcast Omen thanks once again for taking the time I know its a its a busy schedule as usual uh but I think some of the
 
 
 that you shared are very unique uh and when i also try to create like you know small uh bite sized snippets out of this podcast im going to emphasize on some of those like you talked about uh the tunnel vision piece you talked about the ability to read the room uh you talked about uh the importance of grit right i think these are some of the nuggets which are often uh not emphasized enough and im so glad you touched on all of these in the context of consulting but i think these are very good pieces of advice for
@@ -543,6 +415,4 @@ that you shared are very unique uh and when i also try to create like you know s
 
 our professionals uh thanks a lot again for your time and then yeah absolutely thank you it was a pleasure
 
-### Speaker 4
-
-Thank you it was a pleasure
+speaker_4: Thank you it was a pleasure

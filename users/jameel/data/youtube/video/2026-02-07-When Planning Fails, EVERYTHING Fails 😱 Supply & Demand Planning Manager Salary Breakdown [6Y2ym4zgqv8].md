@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-On number three Ive got my personal favorite supply and demand planning manager Ive done this job probably for the longest period of time and supply or demand planning manager jobs belong obviously to the planning arm of supply chain This is where you need to be an expert at things like forecasting like production planning capacity planning And planning is really the nerve center of supply chain because if your planning gets things wrong then you will have a lot of problem in all the different parts of supply chain whether its sourcing delivery logistics you name it and therefore supply planning managers and demand planning managers entry level compensations are somewhere between eighty and a hundred thousand dollars at the mid level if you could be making between hundred and a hundred and thirty thousand dollars and the senior level you could be making north of a hundred and seventy five thousand dollars as well
+speaker_1: On number three Ive got my personal favorite supply and demand planning manager Ive done this job probably for the longest period of time and supply or demand planning manager jobs belong obviously to the planning arm of supply chain This is where you need to be an expert at things like forecasting like production planning capacity planning And planning is really the nerve center of supply chain because if your planning gets things wrong then you will have a lot of problem in all the different parts of supply chain whether its sourcing delivery logistics you name it and therefore supply planning managers and demand planning managers entry level compensations are somewhere between eighty and a hundred thousand dollars at the mid level if you could be making between hundred and a hundred and thirty thousand dollars and the senior level you could be making north of a hundred and seventy five thousand dollars as well

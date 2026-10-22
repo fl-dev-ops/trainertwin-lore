@@ -16,7 +16,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -24,6 +24,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Number two mistakes Yeah We see mistakes but do we do mistakes No we make mistakes in English Well we dont want to make mistakes but the correct way of saying it is we make mistakes yeah So no do we make mistakes So for example uh last year I made a big mistake Im not going to tell what mistake I made but you know thats the idea okay
+speaker_1: Number two mistakes Yeah We see mistakes but do we do mistakes No we make mistakes in English Well we dont want to make mistakes but the correct way of saying it is we make mistakes yeah So no do we make mistakes So for example uh last year I made a big mistake Im not going to tell what mistake I made but you know thats the idea okay

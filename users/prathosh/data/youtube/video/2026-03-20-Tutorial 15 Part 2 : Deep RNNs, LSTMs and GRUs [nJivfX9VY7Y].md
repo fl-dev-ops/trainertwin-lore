@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 16:52
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 15 Part 2 : Deep RNNs, LSTMs and GRUs
 
 ## Transcript
 
-
-Hello all Welcome to the second part
+speaker_1: Hello all Welcome to the second part
 of this RNN tutorials in which
 we will be looking at the
 implementations of RNNs LSTMs and

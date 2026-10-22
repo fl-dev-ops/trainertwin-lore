@@ -8,7 +8,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,4 +17,4 @@ speakers:
 
 ## Transcript
 
-I saw a use case the other day in a Harvard Business Review article where a company had used AI models that they built internally to analyze for demand drift right So this is when your demand signal is changing subtly over time your demand planners are not picking up on the changes or they know its changing but theyre not sure what the pattern is and all they can say is I think its right right So being able to churn through all of that demand data versus actuals will then be able to tell you what your drift looks like and the drift pattern can tell you what to anticipate to prevent future stockouts right so anytime youve got a large set of data is when AI can be brought to the table if you have the right models already trained on your data right or if you have a provider who can help you with those
+speaker_1: I saw a use case the other day in a Harvard Business Review article where a company had used AI models that they built internally to analyze for demand drift right So this is when your demand signal is changing subtly over time your demand planners are not picking up on the changes or they know its changing but theyre not sure what the pattern is and all they can say is I think its right right So being able to churn through all of that demand data versus actuals will then be able to tell you what your drift looks like and the drift pattern can tell you what to anticipate to prevent future stockouts right so anytime youve got a large set of data is when AI can be brought to the table if you have the right models already trained on your data right or if you have a provider who can help you with those

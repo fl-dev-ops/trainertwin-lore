@@ -8,20 +8,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 12 - Deep Generative Models Diffusion Models part 2 Implementation
 
 ## Transcript
 
-
-### Speaker 1
-
-xt is given by root of alpha t xt minus 1 plus 1 minus alpha t times epsilon where epsilon is a sample drawn from normal 0 1 and this defines a first order Markov chain is what we saw so starting from a data point you keep projecting it onto the latent space according to this equation this particular equation
+speaker_1: xt is given by root of alpha t xt minus 1 plus 1 minus alpha t times epsilon where epsilon is a sample drawn from normal 0 1 and this defines a first order Markov chain is what we saw so starting from a data point you keep projecting it onto the latent space according to this equation this particular equation
 
 
 this particular equation and that will quote unquote add noise right that is adding noise and slowly because its a Markov chain stationary distribution will go to
@@ -35,13 +32,9 @@ Now um this encoding uh in processor distribution
 
 on the tth latent space conditioned on t minus first latent space which happens to be a Gaussian with certain parameters mean and variance that is written here and the corresponding decoded distribution is what we call as the model distribution it is learnable
 
-### Speaker 2
+speaker_2: Uh
 
-Uh
-
-### Speaker 1
-
-What you learn is that you learn the decoding distribution the mean and the variance of the decoding distribution at all times thats t Now as we saw later in the lecture that the variance is actually often not learned that is also assumed to be fixed or known What is learned is the mean of the decoding distribution Now how do we do that We do that using the usual elbow optimization So for that we started from the log likelihood
+speaker_1: What you learn is that you learn the decoding distribution the mean and the variance of the decoding distribution at all times thats t Now as we saw later in the lecture that the variance is actually often not learned that is also assumed to be fixed or known What is learned is the mean of the decoding distribution Now how do we do that We do that using the usual elbow optimization So for that we started from the log likelihood
 
 
 the elbow and yeah they did some algebraic manipulations right
@@ -97,13 +90,9 @@ Thats what we saw any questions on the so far
 
 No hope Im audible
 
-### Speaker 2
+speaker_2: Yes
 
-Yes
-
-### Speaker 1
-
-Okay so then what we did was while we can actually stop here okay and we can implement DDPM this way as I said you know in the literature people dont use this formulation to implement but they rather reparameterize this particular thing using
+speaker_1: Okay so then what we did was while we can actually stop here okay and we can implement DDPM this way as I said you know in the literature people dont use this formulation to implement but they rather reparameterize this particular thing using
 
 
 In terms of the epsilon of the noise that is added that is what is implemented So we saw that three parameterization as well So maybe I will do it again
@@ -114,9 +103,7 @@ it in the last class now let me do it again so well assume that we know that the
 
 Oh
 
-### Speaker 2
-
-So are you waiting
+speaker_2: So are you waiting
 
 
 So we have
@@ -124,27 +111,19 @@ So we have
 
 It was a kill dev
 
-### Speaker 1
-
-Thank you
+speaker_1: Thank you
 
 
 xt minus one given
 
-### Speaker 2
-
-60 and 6 not
+speaker_2: 60 and 6 not
 
 
 one distribution the other distribution was
 
-### Speaker 1
+speaker_1: Other distribution
 
-Other distribution
-
-### Speaker 2
-
-Eat here
+speaker_2: Eat here
 
 
 Its t minus one t one x t
@@ -200,21 +179,13 @@ One minus
 
 for T bar see note that
 
-### Speaker 1
+speaker_1: The denominator is actually a constant its a scaling factor So basically its a linear
 
-The denominator is actually a constant its a scaling factor So basically its a linear
+speaker_2: combination of XT and X naught that is what this new Q is right
 
-### Speaker 2
+speaker_1: So Ill
 
-combination of XT and X naught that is what this new Q is right
-
-### Speaker 1
-
-So Ill
-
-### Speaker 2
-
-Now if you recall using a recursion we showed that the th latent variable x t okay can be represented in terms of
+speaker_2: Now if you recall using a recursion we showed that the th latent variable x t okay can be represented in terms of
 
 
 alpha t bar okay
@@ -237,31 +208,21 @@ Put this in place
 
 that now mu q
 
-### Speaker 3
+speaker_3: No its not stuck
 
-No its not stuck
+speaker_1: Its lagging I guess
 
-### Speaker 1
-
-Its lagging I guess
-
-### Speaker 2
-
-Hold on see let me do one thing let me just use my phone internet to connect huh that should be better give me a second
+speaker_2: Hold on see let me do one thing let me just use my phone internet to connect huh that should be better give me a second
 
 
 Do you see the screen now
 
-### Speaker 1
-
-Oh whats happening
+speaker_1: Oh whats happening
 
 
 Just change my internet to my phone internet
 
-### Speaker 2
-
-Yeah please tell me if you can see the screen
+speaker_2: Yeah please tell me if you can see the screen
 
 
 There we go
@@ -269,13 +230,9 @@ There we go
 
 visible
 
-### Speaker 4
+speaker_4: Yes
 
-Yes
-
-### Speaker 2
-
-Only it works
+speaker_2: Only it works
 
 
 Yeah sorry about this as I said Ive come to my hometown and
@@ -283,9 +240,7 @@ Yeah sorry about this as I said Ive come to my hometown and
 
 Internet is not my standard one
 
-### Speaker 4
-
-Some issues oh so uh
+speaker_4: Some issues oh so uh
 
 
 what they were doing is that expressing this mu q okay in terms of
@@ -293,20 +248,14 @@ what they were doing is that expressing this mu q okay in terms of
 
 Its not an
 
-### Speaker 2
+speaker_2: This mu q now can be expressed in terms of x0 and epsilon So this is the recursion that we wrote Sorry xt is expressed in terms of x0 and epsilon Which means that I can write
 
-This mu q now can be expressed in terms of x0 and epsilon So this is the recursion that we wrote Sorry xt is expressed in terms of x0 and epsilon Which means that I can write
-
-### Speaker 4
-
-root of alpha r t minus
+speaker_4: root of alpha r t minus
 
 
 into 1 minus alpha t
 
-### Speaker 2
-
-Okay now this implies that here I can write x naught
+speaker_2: Okay now this implies that here I can write x naught
 
 
 in terms of x t and epsilon right x t minus root of 1 minus alpha t bar times epsilon divided by alpha t root of alpha t bar right so which means that this x naught which is there in u q I can replace that with
@@ -389,13 +338,9 @@ Not clear
 
 So what did we do here We note that
 
-### Speaker 1
+speaker_1: Uh
 
-Uh
-
-### Speaker 2
-
-Any Gaussian distribution right can be expressed in terms of any other Gaussian distribution just by scaling and shifting correct Do you do you agree with me on that
+speaker_2: Any Gaussian distribution right can be expressed in terms of any other Gaussian distribution just by scaling and shifting correct Do you do you agree with me on that
 
 
 So that is reparameterization right So you if you are given a particular Gaussian distribution you can always scale and a sample from a particular Gaussian distribution you can always scale and shift the sample of that particular Gaussian distribution to make it into any other Gaussian distribution Do you agree
@@ -403,21 +348,13 @@ So that is reparameterization right So you if you are given a particular Gaussia
 
 Hello am I audible
 
-### Speaker 3
+speaker_3: Yes yes so its audible yes yeah
 
-Yes yes so its audible yes yeah
+speaker_2: So you agree with what the statement that I made right can be expressed in terms of any other Gaussian distribution
 
-### Speaker 2
+speaker_3: Yeah
 
-So you agree with what the statement that I made right can be expressed in terms of any other Gaussian distribution
-
-### Speaker 3
-
-Yeah
-
-### Speaker 2
-
-Now this p theta of x3 minus 1 given xt is a Gaussian distribution with a certain mean mu theta Okay So what we did was we just represented that mean in terms of xt right which is a constant right and some sample from a Gaussian distribution epsilon theta cap with some scales and shifts
+speaker_2: Now this p theta of x3 minus 1 given xt is a Gaussian distribution with a certain mean mu theta Okay So what we did was we just represented that mean in terms of xt right which is a constant right and some sample from a Gaussian distribution epsilon theta cap with some scales and shifts
 
 
 I can always find an epsilon theta
@@ -476,13 +413,9 @@ Epsilon chi dot
 
 just to make it look this elegant no this mu q im sorry mu theta was reparameterized in terms of xt and those constants finally this is what
 
-### Speaker 1
+speaker_1: Its done
 
-Its done
-
-### Speaker 2
-
-this all right so when you are implementing a diffusion model right a DDPM all you have to do is implement this loss function so this becomes a regression problem right so this is a regression over epsilon t let me explain that more
+speaker_2: this all right so when you are implementing a diffusion model right a DDPM all you have to do is implement this loss function so this becomes a regression problem right so this is a regression over epsilon t let me explain that more
 
 
 Decrision over epsilon t
@@ -496,13 +429,9 @@ So am I audible any questions here
 
 Are you there We are here with you
 
-### Speaker 3
+speaker_3: Yes sir we if youre audible yes we are hearing this
 
-Yes sir we if youre audible yes we are hearing this
-
-### Speaker 2
-
-Oh no questions Okay Right Okay So this is what it becomes So now the next thing is how do we implement this in practice
+speaker_2: Oh no questions Okay Right Okay So this is what it becomes So now the next thing is how do we implement this in practice
 
 
 Implementation
@@ -606,24 +535,16 @@ The inference is not through this network We will see that in a while What Im sa
 
 Unlike in a GAN and a VAE where you just take a Z right and pass it through the decoder or the generator you get a sample from the input distribution right and you sample from the input distribution that does not happen in IDDPM So I will also talk about how to do inference in IDDPM in a while but is the training procedure clear This is what you are supposed to implement in your assignment so let me know if this makes sense otherwise I can explain more
 
-### Speaker 4
-
-Sir when we are taking a x naught sorry I have a question so can I
+speaker_4: Sir when we are taking a x naught sorry I have a question so can I
 
 
 Can I go ahead with the question
 
-### Speaker 1
+speaker_1: Yeah
 
-Yeah
+speaker_4: So when we take a X naught the T for every X naught the T has to be a fixed length like the sample that we are taking
 
-### Speaker 4
-
-So when we take a X naught the T for every X naught the T has to be a fixed length like the sample that we are taking
-
-### Speaker 2
-
-what do you mean by that see uh you take one x naught right one extra suppose you are doing this on some data set right some image data set x naught is one sample from the data set one image
+speaker_2: what do you mean by that see uh you take one x naught right one extra suppose you are doing this on some data set right some image data set x naught is one sample from the data set one image
 
 
 You take one image for that one image you get all the noisy versions latent versions x1 x2 x3 x4 and so on
@@ -631,29 +552,17 @@ You take one image for that one image you get all the noisy versions latent vers
 
 For each of them you do one one training through this unit
 
-### Speaker 4
+speaker_4: Is it one or more than one for for a given data point
 
-Is it one or more than one for for a given data point
+speaker_2: See for a given data point x naught you get uh one uh sorry for one xp you do one forward pass one backward pass
 
-### Speaker 2
+speaker_3: Okay and t is we take multiple for a given x model
 
-See for a given data point x naught you get uh one uh sorry for one xp you do one forward pass one backward pass
+speaker_2: Now because the last function has the sum across all ts no
 
-### Speaker 3
+speaker_3: But here we we dont take all these but we take some samples from two to t
 
-Okay and t is we take multiple for a given x model
-
-### Speaker 2
-
-Now because the last function has the sum across all ts no
-
-### Speaker 3
-
-But here we we dont take all these but we take some samples from two to t
-
-### Speaker 2
-
-practice yeah in practice capital D is see capital D is fixed at thousand okay but while training you do a random sampling uniform sampling between two and thousand and do it that is how it is done this is for one X naught and you need to do it for all data sets all data points now that will that will be one epoch so typically what is done is you do it on batches you take a batch of X naught
+speaker_2: practice yeah in practice capital D is see capital D is fixed at thousand okay but while training you do a random sampling uniform sampling between two and thousand and do it that is how it is done this is for one X naught and you need to do it for all data sets all data points now that will that will be one epoch so typically what is done is you do it on batches you take a batch of X naught
 
 
 Great and for
@@ -664,13 +573,9 @@ Excuse me so take a batch of X naught and for each of the samples in X naught yo
 
 Yeah
 
-### Speaker 3
+speaker_3: And epsilon epsilon t is just a sample from a normal zero I
 
-And epsilon epsilon t is just a sample from a normal zero I
-
-### Speaker 2
-
-Yes epsilon t is always a sample from normal 0 Thats all So for you when you obtain xp you take one sample from normal 0 In the last class we saw that no it is simply one sample from normal 0 1 But the the the information about t is encoded in this alpha bar because alpha bar is product of all alphas from 1 to t isnt it You have to actually there is one other step here You have to compute alpha bar t right
+speaker_2: Yes epsilon t is always a sample from normal 0 Thats all So for you when you obtain xp you take one sample from normal 0 In the last class we saw that no it is simply one sample from normal 0 1 But the the the information about t is encoded in this alpha bar because alpha bar is product of all alphas from 1 to t isnt it You have to actually there is one other step here You have to compute alpha bar t right
 
 
 the product of equal to one two three alpha i this is how we define alpha bar no for every t you have to define alpha bar this way and get an xt then pass it through the unit predict whatever is coming compute the loss back propagate
@@ -684,9 +589,7 @@ As I said this is what you are supposed to implement right so
 
 Okay if its clear then there is one other question that is to be answered is
 
-### Speaker 1
-
-How do we uh give this time d right as an input to the unit
+speaker_1: How do we uh give this time d right as an input to the unit
 
 
 Yeah lets go home to
@@ -754,9 +657,7 @@ This positional embedding its a high sounding name Its nothing but converting th
 
 T is a scalar okay Now T cap is in some D dimension So that is what the idea of positional embedding is right P is a function that would take P and project it onto T cap So how is it done There are multiple ways One usual way that is used both in the transformers and
 
-### Speaker 2
-
-diffusion models is what is called as the sinusoidal embedding
+speaker_2: diffusion models is what is called as the sinusoidal embedding
 
 
 I will just give you the idea of this you can go and look at the details on this is like lot of blocks etc its not not at all difficult what is done is construct sinusoids okay of multiple frequencies
@@ -833,56 +734,32 @@ a d dimensional vector at every t so now you converted a scalar t into a vector 
 
 Is this alright
 
-### Speaker 3
+speaker_3: So the sequences have to be
 
-So the sequences have to be
+speaker_1: If you want to
 
-### Speaker 1
+speaker_2: Come again
 
-If you want to
+speaker_3: The frequencies have to be harmonics or it can be any frequency
 
-### Speaker 2
-
-Come again
-
-### Speaker 3
-
-The frequencies have to be harmonics or it can be any frequency
-
-### Speaker 2
-
-Yeah yeah generally they are taken to be harmonics In fact I think I mean thats why you know I dont remember the exact details I think in the typical sinusoidal embeddings what is done is for even ts I think they take a sinusoid and for odd ts they take cosines I suppose just to intersperse There is a sine and a cosine and you convert it into a data dimensional vector
+speaker_2: Yeah yeah generally they are taken to be harmonics In fact I think I mean thats why you know I dont remember the exact details I think in the typical sinusoidal embeddings what is done is for even ts I think they take a sinusoid and for odd ts they take cosines I suppose just to intersperse There is a sine and a cosine and you convert it into a data dimensional vector
 
 
 You can go and look at the exact equations that are used no But this is the fundamental idea of what sinusoidal potential embedding does This is OK Any questions
 
-### Speaker 3
+speaker_3: So that we are defining that vector
 
-So that we are defining that vector
+speaker_4: Right it means like comma in between each sign just to
 
-### Speaker 4
+speaker_1: Uh sorry I missed it what did you say
 
-Right it means like comma in between each sign just to
+speaker_4: Sir we are defining T cap as a vector right So its a sine 2 pi T by T comma I mean like those are terms of that vector right
 
-### Speaker 1
+speaker_1: Yeah yeah
 
-Uh sorry I missed it what did you say
+speaker_4: Yeah yeah
 
-### Speaker 4
-
-Sir we are defining T cap as a vector right So its a sine 2 pi T by T comma I mean like those are terms of that vector right
-
-### Speaker 1
-
-Yeah yeah
-
-### Speaker 4
-
-Yeah yeah
-
-### Speaker 1
-
-These are different terms Yeah its a vector I just said space These are different
+speaker_1: These are different terms Yeah its a vector I just said space These are different
 
 
 vector yeah see look at this one this t cap is in d dimensions right i mean t is a scalar t cap is in d dimensions
@@ -920,74 +797,44 @@ to a pair of layers you concatenate T with that that is how it is typically done
 
 Any questions on this
 
-### Speaker 3
+speaker_3: Is that a one
 
-Is that a one
+speaker_4: uh yes ill go ahead so when you concatenate t to the other layer so the dimension is uh less than d or uh how do you
 
-### Speaker 4
+speaker_1: It is less than d you have to appropriately take care of the dimensions
 
-uh yes ill go ahead so when you concatenate t to the other layer so the dimension is uh less than d or uh how do you
+speaker_4: Okay so so the Ts will be generated differently for each uh at each layer or so
 
-### Speaker 1
-
-It is less than d you have to appropriately take care of the dimensions
-
-### Speaker 4
-
-Okay so so the Ts will be generated differently for each uh at each layer or so
-
-### Speaker 1
-
-No no no you take the same T but the dimensionality have to be appropriately taken care of thats all
+speaker_1: No no no you take the same T but the dimensionality have to be appropriately taken care of thats all
 
 
 Thats okay no
 
-### Speaker 4
+speaker_4: So we just
 
-So we just
-
-### Speaker 1
-
-We just have to reshape each layer
+speaker_1: We just have to reshape each layer
 
 
 You have to appropriately reshape at every layer
 
-### Speaker 3
+speaker_3: I had the similar question so because uh unit the input layer would be some convolution layers right
 
-I had the similar question so because uh unit the input layer would be some convolution layers right
+speaker_1: Oh
 
-### Speaker 1
+speaker_3: How do we append the key to the data where because thats not really part of the image right
 
-Oh
-
-### Speaker 3
-
-How do we append the key to the data where because thats not really part of the image right
-
-### Speaker 1
-
-Thats not part of image that is why what is done is XT is not concatenated at the input layer So what is done is after the first convolutional layer okay you take the output of the first convolutional layer concatenate T okay appropriately reshape and then use the next layer That is how it is done
+speaker_1: Thats not part of image that is why what is done is XT is not concatenated at the input layer So what is done is after the first convolutional layer okay you take the output of the first convolutional layer concatenate T okay appropriately reshape and then use the next layer That is how it is done
 
 
 Okay
 
-### Speaker 3
+speaker_3: And any particular reason why we are using unit here I mean why do we have to create this bottleneck
 
-And any particular reason why we are using unit here I mean why do we have to create this bottleneck
+speaker_1: otherwise no uh like xt and epsilon theta have the same dimensions right what sort of neural network do you use
 
-### Speaker 1
+speaker_3: So so at at uh at the bottom it has to be um
 
-otherwise no uh like xt and epsilon theta have the same dimensions right what sort of neural network do you use
-
-### Speaker 3
-
-So so at at uh at the bottom it has to be um
-
-### Speaker 1
-
-at the bottom it has to be coming x you have to do it like this right now what will happen is x t has the same dimensions and you can you have to maintain the exact same dimension here and then get the epsilon theta right see that would the you will run into the problem of uh not learning it well because you might get into identity
+speaker_1: at the bottom it has to be coming x you have to do it like this right now what will happen is x t has the same dimensions and you can you have to maintain the exact same dimension here and then get the epsilon theta right see that would the you will run into the problem of uh not learning it well because you might get into identity
 
 
 Then you have to reduce the dimension start from xt and reduce the dimension If you reduce the dimension you will not get epsilon theta Youll have to get to epsilon theta Then you have to again increase the dimension right
@@ -998,35 +845,23 @@ So that will make the architecture a naturally unit kind of architecture
 
 Any other questions See I today I dont as I said no I dont have my multiple screens So uh you mean you I dont I cant call call out name So please unmute yourself and ask questions Huh Ill just answer them
 
-### Speaker 3
+speaker_3: So just to correlate in conditional can we use like one hot vector that embedding so is that very similar to this one
 
-So just to correlate in conditional can we use like one hot vector that embedding so is that very similar to this one
+speaker_1: Yeah but see Ive still not talked about conditional generation I will talk about conditional generation in a while it is done very differently in a diffusion model
 
-### Speaker 1
-
-Yeah but see Ive still not talked about conditional generation I will talk about conditional generation in a while it is done very differently in a diffusion model
-
-### Speaker 3
-
-I know Im talking about glands
+speaker_3: I know Im talking about glands
 
 
 Against in gain conditional gains
 
-### Speaker 1
-
-Understand but see dont confuse this uh this concatenating this P with uh I mean as concatenating a class information that is not what it is We are still doing unconditional generation Okay Okay We will do conditional generation in a while I will talk about that Uh like we will discuss that in a while But yeah so it is similar in spirit to concatenating that one hot vector but please be uh like uh aware of the fact that this P is not
+speaker_1: Understand but see dont confuse this uh this concatenating this P with uh I mean as concatenating a class information that is not what it is We are still doing unconditional generation Okay Okay We will do conditional generation in a while I will talk about that Uh like we will discuss that in a while But yeah so it is similar in spirit to concatenating that one hot vector but please be uh like uh aware of the fact that this P is not
 
 
 T is not having any class information here okay it is having the time information because there is a temporal evaluation of the encoding process here right this T is having that time information it does not have any class information
 
-### Speaker 3
+speaker_3: So one more point so with this time information what we are I mean what we want the model to learn is at any given time step how to do the denoising is that understanding correct
 
-So one more point so with this time information what we are I mean what we want the model to learn is at any given time step how to do the denoising is that understanding correct
-
-### Speaker 1
-
-So yeah of course see this look at it no what this unit is actually doing is given a noisy input okay at time t it is trying to tell you what was the amount of noise that was added to make x naught noisy
+speaker_1: So yeah of course see this look at it no what this unit is actually doing is given a noisy input okay at time t it is trying to tell you what was the amount of noise that was added to make x naught noisy
 
 
 So epsilon theta is an estimate of that no the amount of noise because that is what you are regressing over
@@ -1091,32 +926,20 @@ In maybe
 
 for this let me know if you have any questions on this
 
-### Speaker 3
+speaker_3: So I have one question regarding the training of the network itself in the first place So I mean what kind of issues can we anticipate while training Just some practical
 
-So I have one question regarding the training of the network itself in the first place So I mean what kind of issues can we anticipate while training Just some practical
-
-### Speaker 1
-
-ddbm training is not that hard uh i mean that is why these are state of the art generative models right visual visual models these days because they are pretty stable okay uh one thing that can happen is that if you dont sample your t properly then the underlying distribution might not be learned but if you do a good enough sampling ive seen that in our experience these networks actually work pretty well
+speaker_1: ddbm training is not that hard uh i mean that is why these are state of the art generative models right visual visual models these days because they are pretty stable okay uh one thing that can happen is that if you dont sample your t properly then the underlying distribution might not be learned but if you do a good enough sampling ive seen that in our experience these networks actually work pretty well
 
 
 Unlike in a GAN right where you have this saddle point problem and you have the mode collapse etc Those sorts of issues do not generally arise with DDPMs
 
-### Speaker 3
+speaker_3: Okay and after how many epochs we can expect uh to get a
 
-Okay and after how many epochs we can expect uh to get a
+speaker_1: Generation
 
-### Speaker 1
+speaker_3: One generation quality
 
-Generation
-
-### Speaker 3
-
-One generation quality
-
-### Speaker 1
-
-That depends on data sets
+speaker_1: That depends on data sets
 
 
 So you can track the loss right I mean this is a regression loss So whenever the loss is converging and reducing that is the point where you can perhaps stop
@@ -1139,13 +962,9 @@ Am I audible Did I
 
 up down or something hello
 
-### Speaker 4
+speaker_4: Yes we can
 
-Yes we can
-
-### Speaker 1
-
-Let me hope
+speaker_1: Let me hope
 
 
 So next what we will do is um
@@ -1153,35 +972,23 @@ So next what we will do is um
 
 Well look at how to do conditional generation okay uh guided diffusion
 
-### Speaker 4
+speaker_4: So before that sir can you give an example where this unconditional DDPM is used
 
-So before that sir can you give an example where this unconditional DDPM is used
-
-### Speaker 1
-
-Well if you want to build a generative model right where you dont condition it on a particular text or like any prompt or anything you can use I mean you can take any data set and
+speaker_1: Well if you want to build a generative model right where you dont condition it on a particular text or like any prompt or anything you can use I mean you can take any data set and
 
 
 generate I mean I didnt get you a question are you asking me for a
 
-### Speaker 4
-
-Uh yeah specifically like uh if we give a prompt uh and say like create this uh using a diffusion model that that is a conditional uh diffusion right
+speaker_4: Uh yeah specifically like uh if we give a prompt uh and say like create this uh using a diffusion model that that is a conditional uh diffusion right
 
 
 And if its random then its unconditional Is that correct
 
-### Speaker 1
+speaker_1: uh see dont call it as random okay i mean theres nothing random about it i mean the point is if youre sampling from some distribution px then it is unconditional generation if youre sampling from px given y where y is another random variable then it becomes conditional generation
 
-uh see dont call it as random okay i mean theres nothing random about it i mean the point is if youre sampling from some distribution px then it is unconditional generation if youre sampling from px given y where y is another random variable then it becomes conditional generation
+speaker_4: About it yeah
 
-### Speaker 4
-
-About it yeah
-
-### Speaker 1
-
-Yeah so uh
+speaker_1: Yeah so uh
 
 
 Just thinking if I have to like
@@ -1534,21 +1341,13 @@ Thats all youre trying to do
 
 Is this all right So finally during the inference what do you do You give an x and a y as an input to this t data star network If the sampling is exactly the same sampling procedure here is the same thing right You do the exact same thing here but you give y also as an input here while you are estimating this loss
 
-### Speaker 4
+speaker_4: So one question
 
-So one question
+speaker_1: Uh hold on huh Okay
 
-### Speaker 1
+speaker_4: Oh okay sorry
 
-Uh hold on huh Okay
-
-### Speaker 4
-
-Oh okay sorry
-
-### Speaker 1
-
-Yeah so this is called classifier guided diffusion models conditional diffusion classifier guided conditional diffusion There is another version called classifier free guidance I will not talk about it I mean you can just do see that as a homework Its a variant of this
+speaker_1: Yeah so this is called classifier guided diffusion models conditional diffusion classifier guided conditional diffusion There is another version called classifier free guidance I will not talk about it I mean you can just do see that as a homework Its a variant of this
 
 
 read that as a self study thing yeah this is called classifier guided conditional diffusion where uh you first uh realize that the diffusion model that you are training is implicitly doing the score matching and use bayes law to estimate i mean represent the conditional score in terms of unconditional score and the classifier okay pre trained classifier on xt on different noise levels okay and then use that pre trained classifier along
@@ -1565,53 +1364,29 @@ Right So I have asked you to implement this So what you should do is while you c
 
 Yeah so now any questions on this
 
-### Speaker 3
+speaker_3: Uh yes sir so the classifier is not trained as part of the process right
 
-Uh yes sir so the classifier is not trained as part of the process right
+speaker_1: So classifier is already pre trained so you pre train the classifier and keep it yes
 
-### Speaker 1
+speaker_3: Okay but if the but if it has no effect if this process does not have an effect on our if we are not getting the desired results what could be wrong actually
 
-So classifier is already pre trained so you pre train the classifier and keep it yes
+speaker_1: uh whats the see typically what happens in classifier guided diffusion this see if you look at it this classifier has to discern the class uh by taking a noisy sample as input correct
 
-### Speaker 3
+speaker_3: Okay
 
-Okay but if the but if it has no effect if this process does not have an effect on our if we are not getting the desired results what could be wrong actually
+speaker_1: Now if if P is very high the sample becomes too noisy
 
-### Speaker 1
+speaker_3: Okay
 
-uh whats the see typically what happens in classifier guided diffusion this see if you look at it this classifier has to discern the class uh by taking a noisy sample as input correct
+speaker_1: See it has to design the class at all noise levels that will become too much for a classifier to do isnt it
 
-### Speaker 3
+speaker_3: Okay okay
 
-Okay
+speaker_1: And typically this classifier fails that is because at high higher noise levels and thats why classifier guided diffusion does not work too nicely
 
-### Speaker 1
+speaker_3: I need this
 
-Now if if P is very high the sample becomes too noisy
-
-### Speaker 3
-
-Okay
-
-### Speaker 1
-
-See it has to design the class at all noise levels that will become too much for a classifier to do isnt it
-
-### Speaker 3
-
-Okay okay
-
-### Speaker 1
-
-And typically this classifier fails that is because at high higher noise levels and thats why classifier guided diffusion does not work too nicely
-
-### Speaker 3
-
-I need this
-
-### Speaker 1
-
-So thats why people went from classifier guided diffusion to classifier free diffusion okay classifier free guidance okay so which I said just read it as a homework I mean I need
+speaker_1: So thats why people went from classifier guided diffusion to classifier free diffusion okay classifier free guidance okay so which I said just read it as a homework I mean I need
 
 
 uh i mean i i leave some questions i mean some concepts uh to you as homework so thats why people move to classifier free guidance where there is no classifier by having a good guidance just read that huh it is there in the tutorial that i had given uh as a reference read that once but yeah but what ive asked you to implement in assignments as a classifier guided equation the problem might be that you are overburdening this classifier to get the classes at multiple noise levels thats why thats where the problem can come
@@ -1622,13 +1397,9 @@ In fact all the the state of the art models right like this this stable diffusio
 
 Yeah okay so any other question see there is uh one other last piece right I mean you see this uh
 
-### Speaker 3
+speaker_3: Okay so any of the
 
-Okay so any of the
-
-### Speaker 1
-
-stable diffusion thing ive asked you to do that in your assignment as well the stable diffusion stabilityai company you know what they are doing is the diffusion ddpms are not built on the image space what they do is they first train
+speaker_1: stable diffusion thing ive asked you to do that in your assignment as well the stable diffusion stabilityai company you know what they are doing is the diffusion ddpms are not built on the image space what they do is they first train
 
 
 they take x naught and get x naught cap so this is a they first try in a vqva okay
@@ -1675,43 +1446,27 @@ DDIMs which are denoising diffusion implicit models will take care of that parti
 
 Shall we take a break now for about 10 15 minutes
 
-### Speaker 3
+speaker_3: Okay
 
-Okay
-
-### Speaker 1
-
-the plan is the following right i will uh uh we will we will do ddpms ddims this class possible at the end of this class uh i will just give you an introduction to self supervised learning next class i will do noise contrastive estimation self supervised learning and if possible ill also sneak in some distillation ideas knowledge distillation and in the final class on 16 we will look at the autoregressive models transformers and some introduction to llms
+speaker_1: the plan is the following right i will uh uh we will we will do ddpms ddims this class possible at the end of this class uh i will just give you an introduction to self supervised learning next class i will do noise contrastive estimation self supervised learning and if possible ill also sneak in some distillation ideas knowledge distillation and in the final class on 16 we will look at the autoregressive models transformers and some introduction to llms
 
 
 that would conclude the course see we had to have 14 classes right uh how how much do we have do we have how many classes have we done so far does anyone have a count
 
-### Speaker 4
+speaker_4: So as per your lecture label it is 10th
 
-So as per your lecture label it is 10th
+speaker_1: Uh thats I also noticed that but did I start writing from the very first class
 
-### Speaker 1
+speaker_4: I think uh theres also lecture zero so it is its like
 
-Uh thats I also noticed that but did I start writing from the very first class
-
-### Speaker 4
-
-I think uh theres also lecture zero so it is its like
-
-### Speaker 1
-
-Like eleven
+speaker_1: Like eleven
 
 
 Is that zero Yeah there is a logistic
 
-### Speaker 4
+speaker_4: Logistics one yeah
 
-Logistics one yeah
-
-### Speaker 1
-
-so yeah this is 11 so well have 13 classes uh okay yeah typically thats what a semester is you know its between 13 and 14 14 classes of three years but its okay i think we have covered uh like a sufficient growth so well have two more classes right and well do self supervised learning distillation and some introduction to llms i think that would that would conclude it okay so lets take a break its 11 10 uh lets take a short break of about 10 minutes
+speaker_1: so yeah this is 11 so well have 13 classes uh okay yeah typically thats what a semester is you know its between 13 and 14 14 classes of three years but its okay i think we have covered uh like a sufficient growth so well have two more classes right and well do self supervised learning distillation and some introduction to llms i think that would that would conclude it okay so lets take a break its 11 10 uh lets take a short break of about 10 minutes
 
 
 Come back at 1120
@@ -1719,61 +1474,39 @@ Come back at 1120
 
 That okay
 
-### Speaker 4
+speaker_4: Yeah so just one question so in the assignment uh you mentioned IJPG so would you be talking about that
 
-Yeah so just one question so in the assignment uh you mentioned IJPG so would you be talking about that
-
-### Speaker 1
-
-Of course definitely
+speaker_1: Of course definitely
 
 
 Maybe in the next class yeah thats a self supervised learning method called IJPA Ill do it in the next class perhaps
 
-### Speaker 4
+speaker_4: Shirts
 
-Shirts
-
-### Speaker 1
-
-Yeah see you in a minute please come back in ten minutes uh where we have things to cover yeah
+speaker_1: Yeah see you in a minute please come back in ten minutes uh where we have things to cover yeah
 
 
 So shall we resume
 
-### Speaker 4
-
-Yes sir I have a question regarding stable diffusion
+speaker_4: Yes sir I have a question regarding stable diffusion
 
 
 So the latent space used in the generation is it just after the encoder or the after mapping to the dictionary of embeddings
 
-### Speaker 1
+speaker_1: Oh yeah yeah so it is the quantized latent space only
 
-Oh yeah yeah so it is the quantized latent space only
+speaker_4: Okay okay
 
-### Speaker 4
+speaker_3: So but how do we sample from that because its a its a quantized set of vectors right
 
-Okay okay
-
-### Speaker 3
-
-So but how do we sample from that because its a its a quantized set of vectors right
-
-### Speaker 1
-
-So what See you take the encodings as the quantized vectors right And then build a generative model on top of it
+speaker_1: So what See you take the encodings as the quantized vectors right And then build a generative model on top of it
 
 
 Then the all the all
 
-### Speaker 3
+speaker_3: All the all the quantized vectors
 
-All the all the quantized vectors
-
-### Speaker 1
-
-for bank corresponding to the entire data set
+speaker_1: for bank corresponding to the entire data set
 
 
 Yeah
@@ -2360,35 +2093,23 @@ blog post on this
 
 You may ask any questions if you have on the meantime
 
-### Speaker 3
+speaker_3: So one question so uh the reason why DDPMs are non invertible is it because the the Markovian processes are non reversible
 
-So one question so uh the reason why DDPMs are non invertible is it because the the Markovian processes are non reversible
-
-### Speaker 1
-
-It is uh not because of that in particular it is because of the fact that the encoding process involves noise addition no
+speaker_1: It is uh not because of that in particular it is because of the fact that the encoding process involves noise addition no
 
 
 Its because
 
-### Speaker 3
+speaker_3: And in case of DDIMs
 
-And in case of DDIMs
-
-### Speaker 1
-
-Yeah in in the case of DDIMs where sigma equal to zero the encoding process does not involve noise addition
+speaker_1: Yeah in in the case of DDIMs where sigma equal to zero the encoding process does not involve noise addition
 
 
 It is simply a function of alpha
 
-### Speaker 3
+speaker_3: Okay and thats why it is reversible
 
-Okay and thats why it is reversible
-
-### Speaker 1
-
-That is why it is reversible correct But the thing is the alphas are designed in such a way that you know if you
+speaker_1: That is why it is reversible correct But the thing is the alphas are designed in such a way that you know if you
 
 
 keep moving in the forward direction they would still approach a a a normal 0 1 okay in the stationary distribution case however that the its the the the forward process is not that you take an image and add noise
@@ -2396,13 +2117,9 @@ keep moving in the forward direction they would still approach a a a normal 0 1 
 
 the way they are constructed
 
-### Speaker 4
+speaker_4: So the forward process is non mock
 
-So the forward process is non mock
-
-### Speaker 1
-
-Both the forward and the reverse processes are normal in DDIS yeah
+speaker_1: Both the forward and the reverse processes are normal in DDIS yeah
 
 
 okay so yeah see actually what ive asked you is that uh see you are you will be training one model okay which is the ddpm model but what changes is the inference right inference and the inversion uh in the case of ddim simply take a pre trained ddpm okay and use it for inversion as the nice uh blog on ddim inversion i will
@@ -2419,33 +2136,19 @@ mm not in the call chat how do I put it
 
 Oh beams
 
-### Speaker 3
+speaker_3: They can put it in the culture itself
 
-They can put it in the culture itself
+speaker_1: No but that will just go away no I dont want that to happen in general
 
-### Speaker 1
+speaker_3: Golf ball
 
-No but that will just go away no I dont want that to happen in general
+speaker_1: No it will not
 
-### Speaker 3
+speaker_3: No it will not go away it will stay there
 
-Golf ball
+speaker_4: Whatever you put here is it will come in tunes uh yeah tunes
 
-### Speaker 1
-
-No it will not
-
-### Speaker 3
-
-No it will not go away it will stay there
-
-### Speaker 4
-
-Whatever you put here is it will come in tunes uh yeah tunes
-
-### Speaker 1
-
-So anyway I just put it in the chat window have a look at it
+speaker_1: So anyway I just put it in the chat window have a look at it
 
 
 Okay so thats it In fact thats the end of what I wanted to do with diffusion models
@@ -2456,13 +2159,9 @@ See all these uh these uh text to image uh generators right theyre all diffusion
 
 they use the classifier free guided diffusion and theyre all dd imms they are not ddpms because uh i mean yeah in fact the training is the same but because the inference has uh multiple advantages over the ddpms right what they do is they infer using dd imms processes not ddpms processes but all of the state of the art models are
 
-### Speaker 4
+speaker_4: All of them
 
-All of them
-
-### Speaker 1
-
-diffusion models okay right so its better if I start a new
+speaker_1: diffusion models okay right so its better if I start a new
 
 
 page
@@ -2479,13 +2178,9 @@ give you the introduction and go get over the math in the next class or like we 
 
 I go with what you say what should we do
 
-### Speaker 3
+speaker_3: Uh so i we can have introduction and then the maths in next class maybe
 
-Uh so i we can have introduction and then the maths in next class maybe
-
-### Speaker 1
-
-Sure then I have to start a new uh notebook
+speaker_1: Sure then I have to start a new uh notebook
 
 
 So this is uh L eleven I will continue in the same notes next time
@@ -2499,28 +2194,18 @@ Presentation learning
 
 So these diffusion models right because of their elegance in a sense that all their
 
-### Speaker 4
-
-On the phone
+speaker_4: On the phone
 
 
 Got the endergetic
 
-### Speaker 1
+speaker_1: Theyre gone
 
-Theyre gone
+speaker_2: uh for the DBI and everything else
 
-### Speaker 2
+speaker_3: I mean like how we for the conditional generation and all those things
 
-uh for the DBI and everything else
-
-### Speaker 3
-
-I mean like how we for the conditional generation and all those things
-
-### Speaker 1
-
-Yeah yeah yeah conditional generation its everything remains the same all that we changes is the forward and the reverse process even the training procedure does not change right the forward and the reverse process changes
+speaker_1: Yeah yeah yeah conditional generation its everything remains the same all that we changes is the forward and the reverse process even the training procedure does not change right the forward and the reverse process changes
 
 
 uh the two xt uh the relationship between xt and x0 does not change the relationship between xt and x0 that you need for training the model does not change it remains exactly the same as that of ddpm but the forward and the reverse processes changes which means that the the sampling has a different equation which i wrote which is different from ddpm okay and the uh the uh the
@@ -2531,13 +2216,9 @@ Encoding process has a different equation Okay Encoding we dont use explicitly I
 
 All of them remain exactly the same
 
-### Speaker 2
+speaker_2: So lets now switch gears and we will look at the self supervised learning these are not generative models
 
-So lets now switch gears and we will look at the self supervised learning these are not generative models
-
-### Speaker 1
-
-say okay uh the problem is uh of that of what is called as representation learning we have actually done it in a slightly different way to representation learning
+speaker_1: say okay uh the problem is uh of that of what is called as representation learning we have actually done it in a slightly different way to representation learning
 
 
 Okay so what is the problem the problem is given

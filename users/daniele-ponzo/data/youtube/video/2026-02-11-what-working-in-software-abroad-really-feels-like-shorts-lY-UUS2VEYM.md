@@ -17,7 +17,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -25,9 +25,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Okay What Im lets start with what Im doing I am in software For the last 60 years I have been working with software mainly with insurance companies I am one of those guys that build those systems that are working for more than 40 years in the financial world I I have been working I am Brazilian
+speaker_1: Okay What Im lets start with what Im doing I am in software For the last 60 years I have been working with software mainly with insurance companies I am one of those guys that build those systems that are working for more than 40 years in the financial world I I have been working I am Brazilian
 
 
 Okay

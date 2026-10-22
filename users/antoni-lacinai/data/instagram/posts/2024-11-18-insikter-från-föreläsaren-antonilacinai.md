@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Antoni Lacinai
+  speaker_1: 'Antoni Lacinai'
 ---
 
 ## Caption
@@ -30,7 +30,4 @@ Antoni Lacinai är en internationell expert på arbetsplatskommunikation. Hans y
 
 ## Transcript
 
-### Speaker 1 · Antoni Lacinai
-
-Så jag föreslår att vi allihopa blir glädjespridare istället. Kommer du ihåg uttrycket superspreader som man hade under covidtiden? Låt oss vara glädjespridare. Det är mycket bättre och kommer ge oss så många bra följdeffekter istället. Vi blir mer kreativa, vi kommer ha mer produktivitet, vi kommer ha bättre lönsamhet, vi kommer ha nöjdare kunder. Det finns massor med siffror som visar på just detta.
-
+speaker_1: Så jag föreslår att vi allihopa blir glädjespridare istället. Kommer du ihåg uttrycket superspreader som man hade under covidtiden? Låt oss vara glädjespridare. Det är mycket bättre och kommer ge oss så många bra följdeffekter istället. Vi blir mer kreativa, vi kommer ha mer produktivitet, vi kommer ha bättre lönsamhet, vi kommer ha nöjdare kunder. Det finns massor med siffror som visar på just detta.

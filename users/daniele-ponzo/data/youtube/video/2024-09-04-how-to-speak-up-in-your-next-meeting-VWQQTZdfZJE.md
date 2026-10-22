@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Hi In this video today I want to talk about a simple but effective trick that we can use when we need to talk about our projects our processes in team meetings calls one to ones you know in any professional situations really Its the logical steps of whatever we have in mind okay And it is very simple It means breaking down our ideas into three four steps Its like having bullet points in your head and using them to explain things Um what do I mean Simple example First then after that finally Okay so four logical steps that we can use to explain pretty much everything Lets make an example We want to talk about an important process update for a customer solution And we could start easily by talking about the first point so we could say first lets uh listen to our customer and see what their requirements are Then lets incorporate those requirements into our business model After that we can design a solution based around the customers requirement Finally we can organize a meeting to uh show to illustrate to explain our solution to our customer to our client Okay So four logical steps four bullet points that are in our uh on our documents but also in our head So this approach help us being more logical more more more direct and also everything we say be easier to understand during a meeting during a call and during a one to one okay So remember logical steps is like having bullet points in your mind so that whatever you explain is actually easier and more understandable Hope this helps and Ill talk to you soon
+speaker_1: Hi In this video today I want to talk about a simple but effective trick that we can use when we need to talk about our projects our processes in team meetings calls one to ones you know in any professional situations really Its the logical steps of whatever we have in mind okay And it is very simple It means breaking down our ideas into three four steps Its like having bullet points in your head and using them to explain things Um what do I mean Simple example First then after that finally Okay so four logical steps that we can use to explain pretty much everything Lets make an example We want to talk about an important process update for a customer solution And we could start easily by talking about the first point so we could say first lets uh listen to our customer and see what their requirements are Then lets incorporate those requirements into our business model After that we can design a solution based around the customers requirement Finally we can organize a meeting to uh show to illustrate to explain our solution to our customer to our client Okay So four logical steps four bullet points that are in our uh on our documents but also in our head So this approach help us being more logical more more more direct and also everything we say be easier to understand during a meeting during a call and during a one to one okay So remember logical steps is like having bullet points in your mind so that whatever you explain is actually easier and more understandable Hope this helps and Ill talk to you soon

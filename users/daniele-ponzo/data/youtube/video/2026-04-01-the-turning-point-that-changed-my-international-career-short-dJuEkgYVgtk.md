@@ -23,8 +23,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -32,10 +32,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I want to stay international and I want to be comfortable like working internationally
 
-I want to stay international and I want to be comfortable like working internationally
-
-### Speaker 2 · Speaker 2
-
-Yeah I remember that moment because I I just still remember its its so alive that memory So um at that time I was just volunteering for an NGO in Turkey and I think I was unemployed at the time And because in Turkey you need to be appointed if you want to be an appointment appointed teacher So you have to take a very very tough and very difficult exam And then after that exam you can be appointed as a teacher as a legal teacher working for the government like a civil servant So and I think at the time I was unemployed and I was doing youth exchanges again but somehow something was just missing about my perspective Because I just remember enjoying that moment
+speaker_2: Yeah I remember that moment because I I just still remember its its so alive that memory So um at that time I was just volunteering for an NGO in Turkey and I think I was unemployed at the time And because in Turkey you need to be appointed if you want to be an appointment appointed teacher So you have to take a very very tough and very difficult exam And then after that exam you can be appointed as a teacher as a legal teacher working for the government like a civil servant So and I think at the time I was unemployed and I was doing youth exchanges again but somehow something was just missing about my perspective Because I just remember enjoying that moment

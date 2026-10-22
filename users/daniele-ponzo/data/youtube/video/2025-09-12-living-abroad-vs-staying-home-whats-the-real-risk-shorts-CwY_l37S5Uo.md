@@ -16,7 +16,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -24,9 +24,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And one thing that I particularly love is this idea of risks So you have risks whichever way you decide to go really Stay in the comforts of your own home or job or routine There are risks there because nobody guarantees that things are going to stay like that forever Go move abroad or start a new career there are risks Uh its just if you have an I dont know an
+speaker_1: And one thing that I particularly love is this idea of risks So you have risks whichever way you decide to go really Stay in the comforts of your own home or job or routine There are risks there because nobody guarantees that things are going to stay like that forever Go move abroad or start a new career there are risks Uh its just if you have an I dont know an
 
 
 optimistic approach to risks I think thats then youre going to make the right decision

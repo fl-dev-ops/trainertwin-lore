@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Mobbing funkar om du vill minska personalen…. Och förminska dem. Men jag hopp
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Visste du att mobbing funkar om man vill bli av med folk på en arbetsplats? Ungefär 25 % enligt en engelsk studie säger upp sig om de är mobbade och 20 % av de som ser på säger också upp sig. Så vill man bli av med folk av någon anledning men inte vill säga upp dem själv, då kan man få dem att sluta genom att mobba dem. Visste det är ett briljant ledarskapsdrag. Eller inte. Detta och mycket annat har jag pratat om idag i Malmö, den här vackra plats. Eh för ett antal chefer på ett bra bolag. De har inga sådana problem. Ja, ha det bra.
-
+speaker_1: Visste du att mobbing funkar om man vill bli av med folk på en arbetsplats? Ungefär 25 % enligt en engelsk studie säger upp sig om de är mobbade och 20 % av de som ser på säger också upp sig. Så vill man bli av med folk av någon anledning men inte vill säga upp dem själv, då kan man få dem att sluta genom att mobba dem. Visste det är ett briljant ledarskapsdrag. Eller inte. Detta och mycket annat har jag pratat om idag i Malmö, den här vackra plats. Eh för ett antal chefer på ett bra bolag. De har inga sådana problem. Ja, ha det bra.
 
 ## Comments (1)
 

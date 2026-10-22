@@ -6,14 +6,15 @@ date: '2026-02-18'
 duration: 46:36
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 31 Bias - Variance Decomposition and Analysis
 
 ## Transcript
 
-
-Okay So welcome to this lecture Uh
+speaker_1: Okay So welcome to this lecture Uh
 in todays lecture we will look at uh a
 central theme in machine learning So
 the idea that we discussed today applies

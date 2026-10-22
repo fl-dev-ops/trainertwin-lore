@@ -6,14 +6,15 @@ date: '2026-01-21'
 duration: 53:51
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 2 : Simple Problem solving in Probability Theory
 
 ## Transcript
 
-
-Hello all welcome to this tutorial on
+speaker_1: Hello all welcome to this tutorial on
 problems of probability
 
 Till now you have successfully completed

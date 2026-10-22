@@ -9,10 +9,10 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 
@@ -21,9 +21,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-What is a network You know your network is not the peers that youve worked with or the personal relationship that youve had over a period of time It is the people that they know and those people who they know Thats how big is your network and how are you going to leverage and explore that is something that you really need to work upon and see and strategize So right now the major drive is towards the digital transformation of all the industries
+speaker_1: What is a network You know your network is not the peers that youve worked with or the personal relationship that youve had over a period of time It is the people that they know and those people who they know Thats how big is your network and how are you going to leverage and explore that is something that you really need to work upon and see and strategize So right now the major drive is towards the digital transformation of all the industries
 
 
 So a lot of IT related cloud computing data and AI related work is going on You need to do a little bit of your home work while sitting in your country to know that how your project or your experience or your recent Innovation is in line with what that person who you want to get in touch with How are you going to make it beneficial for him So then you approach your network and you say hey by the way Ive worked in this in this
@@ -37,24 +35,16 @@ Now how to land a job there you can go to a website for NEOM and apply for all t
 
 and problem solving skills These are the three main things that you should work upon
 
-### Speaker 2
-
-Hello and welcome to another episode of the Soxville channel And recently I posted a video and a podcast on how to get a technical job in Canada And today well be talking about the same topic but well talk about how to get a technical job in the Middle East which is another big job market especially for people who are based in the subcontinent India Pakistan Bangladesh Sri Lanka and so on And also a lot of times people in the West want to go back to the Middle East
+speaker_2: Hello and welcome to another episode of the Soxville channel And recently I posted a video and a podcast on how to get a technical job in Canada And today well be talking about the same topic but well talk about how to get a technical job in the Middle East which is another big job market especially for people who are based in the subcontinent India Pakistan Bangladesh Sri Lanka and so on And also a lot of times people in the West want to go back to the Middle East
 
 
 because the tax free paychecks are always more enticing So there is a big volume of people who would like to move back once they have come to Canada United States or UK and go back and explore opportunities in that part of the world So to talk a little bit more about that Ive got with me someone who has been working in the technical industry in the Middle East for almost more than 20 years now And he also happens to be a very good friend of mine So without further ado I would like to introduce Ihab Berkey Hello Ihab How are you
 
-### Speaker 1
+speaker_1: Hi Jamil thank you so much for having me on the SoftSkill channel Its a privilege Youre doing a wonderful job and hopefully Im able to share some great insights on the Middle East networking elements
 
-Hi Jamil thank you so much for having me on the SoftSkill channel Its a privilege Youre doing a wonderful job and hopefully Im able to share some great insights on the Middle East networking elements
+speaker_2: Awesome So Ihab tell us a little bit about yourself Where did you start What has been your journey in the Middle East and what are you doing nowadays
 
-### Speaker 2
-
-Awesome So Ihab tell us a little bit about yourself Where did you start What has been your journey in the Middle East and what are you doing nowadays
-
-### Speaker 1
-
-Right Jameel I mean we both went to the same university Right after that I landed a job while the telecom boom in 2004 and 2005 with Vared and Telnor coming in I got hired by one of the consultancy firms called Aircom from UK And then they had another project in UAE when they were launching DU So apparently it was a very smooth transition from Pakistan to the Middle East from me because my networking was my
+speaker_1: Right Jameel I mean we both went to the same university Right after that I landed a job while the telecom boom in 2004 and 2005 with Vared and Telnor coming in I got hired by one of the consultancy firms called Aircom from UK And then they had another project in UAE when they were launching DU So apparently it was a very smooth transition from Pakistan to the Middle East from me because my networking was my
 
 
 boss and my peers itself and from there onwards then I moved to Qatar three years after and since then Ive been working for Nokia for the longest period of my career with Uredo and multiple customers in the Middle East as my main customers and now Im working in a totally different domain which is more focused towards the digital transformation smart cities AI and data as you know its a
@@ -62,13 +52,9 @@ boss and my peers itself and from there onwards then I moved to Qatar three year
 
 Its quite a buzzword right now but were working pretty much in that domain with the Uredo and the ministries uh here in Qatar
 
-### Speaker 2
+speaker_2: Excellent excellent Thanks for sharing that introduction Ihab So Ihab tell us a little bit about you know lets say if I am a prospective fresh graduate or someone who has got some technical experience in another market lets say like India or Pakistan or Sri Lanka or Bangladesh and I am really looking to get a job in the Middle East So what would your advice be for prospective job candidates like that
 
-Excellent excellent Thanks for sharing that introduction Ihab So Ihab tell us a little bit about you know lets say if I am a prospective fresh graduate or someone who has got some technical experience in another market lets say like India or Pakistan or Sri Lanka or Bangladesh and I am really looking to get a job in the Middle East So what would your advice be for prospective job candidates like that
-
-### Speaker 1
-
-Right so before I start you know your network is your network This is something which is very true as we progressed in our careers We figured out that most of the jobs are through referrals and the trust that you build over the period of time
+speaker_1: Right so before I start you know your network is your network This is something which is very true as we progressed in our careers We figured out that most of the jobs are through referrals and the trust that you build over the period of time
 
 
 But for people who are trying to you know the aspirants trying to get into Middle East to do you know networking and land a job over here I think they need to do a little bit of a homework from their side First and foremost they need to leverage the cultural awareness okay figure out how work ethics are being followed over here Then they also need to really focus on the social media aspect of thing which were going to touch base later in this conversation as well They should be
@@ -82,16 +68,12 @@ youre going to have a very strong online presence and you really need to work up
 
 And those people who they know that how big is your network and how are you going to leverage and explore that is something that you really need to work upon and see and strategize
 
-### Speaker 2
-
-Excellent Excellent I think you have made some very great points there And I want to go a bit deeper into a few of those Ihab First of all you mentioned cultural awareness at the very beginning right So tell us a little bit about that because even with my experience I think thats a very important point and people tend to ignore it or dont talk enough about it because even I have worked in Pakistan then in Dubai for about seven years then in Canada then I also kind of in and out work in the United States as well
+speaker_2: Excellent Excellent I think you have made some very great points there And I want to go a bit deeper into a few of those Ihab First of all you mentioned cultural awareness at the very beginning right So tell us a little bit about that because even with my experience I think thats a very important point and people tend to ignore it or dont talk enough about it because even I have worked in Pakistan then in Dubai for about seven years then in Canada then I also kind of in and out work in the United States as well
 
 
 And cultural difference is uh and awareness is extremely important so tell us a little bit more about that
 
-### Speaker 1
-
-Yes Jamil if I really need to pinpoint something which is different in Middle East working culture as opposed to other cultures say European North American they do have the nuances and little differences but theyre pretty much at par on a global scale Middle East for that matter is a little different Middle East relies heavily on the expat talent so they dont really have and groom their own which is happening right now with Southization and you know
+speaker_1: Yes Jamil if I really need to pinpoint something which is different in Middle East working culture as opposed to other cultures say European North American they do have the nuances and little differences but theyre pretty much at par on a global scale Middle East for that matter is a little different Middle East relies heavily on the expat talent so they dont really have and groom their own which is happening right now with Southization and you know
 
 
 qatarization and emiratization but again they still really heavily uh rely on the expat um you know resource fund and the the technical acumen that brings uh you know from these countries like south asia and so on and so forth uh from a cultural standpoint of view it is not very very different from what we um experience in pakistan uh or the cultural values that we hold uh but respect
@@ -108,16 +90,12 @@ taken that journey and they want you to supplement them with that critical infor
 
 industry is working
 
-### Speaker 2
-
-Absolutely I think that thats great And I think one one advice I would also like to add on especially for younger professionals who are probably not in the Middle East right now but they aspire to be is stay away from stereotypes because a lot of times we have these cultural stereotypes and people have this kind of ingrained in their head that oh you know certain people are because they are very rich or because they are very spoiled you know they behave in a certain way But thats not true because when you actually build personal relationships with people
+speaker_2: Absolutely I think that thats great And I think one one advice I would also like to add on especially for younger professionals who are probably not in the Middle East right now but they aspire to be is stay away from stereotypes because a lot of times we have these cultural stereotypes and people have this kind of ingrained in their head that oh you know certain people are because they are very rich or because they are very spoiled you know they behave in a certain way But thats not true because when you actually build personal relationships with people
 
 
 of a different nationality or a different culture you then start appreciating the fact that certain behaviors or certain stereotypes come because of a certain cultural backdrop or a setting and its not that you cannot work with those people its just because how you need to learn how to adjust in those work environments so i think the key here is stay away from stereotypes and always think of this from an open mind i think thats very important
 
-### Speaker 1
-
-You mean this is a very critical point actually you know when Ive heard a lot of my friends and peers whove gone to America or Canada and theyve probably taken a bit to actually get into the job market altogether with a comment saying that how much Canadian experience do you have And you know if you really bisect and no no sorry dissect that particular statement what it tells you is that there is a different way or a different culture of working
+speaker_1: You mean this is a very critical point actually you know when Ive heard a lot of my friends and peers whove gone to America or Canada and theyve probably taken a bit to actually get into the job market altogether with a comment saying that how much Canadian experience do you have And you know if you really bisect and no no sorry dissect that particular statement what it tells you is that there is a different way or a different culture of working
 
 
 Pakistan extremely different in Middle East where and extremely difficult different than the European and the North American markets you know where you can challenge you can be very open about your opinions whereas you know in the Middle East theres a way of communicating on what is right okay you cant just be very blunt and opposing or maybe there to see certain challenges that the company is facing and be able to
@@ -125,9 +103,7 @@ Pakistan extremely different in Middle East where and extremely difficult differ
 
 recommend those changes If youre not asked dont go ahead and you know be an over smart and try to recommend You know this is a different market altogether You know so there are cultural differences and you really need to prep yourself up for that
 
-### Speaker 2
-
-Absolutely absolutely great And I think thats a very good segue into my next question Ihab here which is we just talked about people who want to come from lets say India or Pakistan to the Middle East and what they should be considering And I think you have made some great points there There is also quite a large number of professionals especially in technical roles who would do their traditional I would say immigration journey right Start from India or Pakistan and then you would
+speaker_2: Absolutely absolutely great And I think thats a very good segue into my next question Ihab here which is we just talked about people who want to come from lets say India or Pakistan to the Middle East and what they should be considering And I think you have made some great points there There is also quite a large number of professionals especially in technical roles who would do their traditional I would say immigration journey right Start from India or Pakistan and then you would
 
 
 directly go to Canada or United States or UK get their citizenships and all of that stuff and a lot of times they there is a desire to move to the Middle East and that is typically based on my experience driven by two factors one is like people who take this journey typically would also may have spent a few years in the Middle East so they like you know the the feel of a tax free paycheck and the nice lifestyle in the Middle East and so on that could be one driver another driver could be of course like you know you you its a reality
@@ -135,9 +111,7 @@ directly go to Canada or United States or UK get their citizenships and all of t
 
 whether you know you like it or not that your take home pay is overall higher in the Middle East in general if you are of course comparing a job apples to apples so there is always going to be a number of people who are interested in in coming to the Middle East even from the West what would your advice be to someone who is in the UK or Canada or US looking for a job back in in Saudi Arabia or Qatar or or Dubai
 
-### Speaker 1
-
-Yeah so one of the key things about networking is its not what you know its basically who you know And that is very critical to basically land jobs You know I mean there was a survey that was being done by Harvard Business Review and also with LinkedIn that 85 percent of the jobs were actually filled through networking You know and even JobWhite you know they also did a survey that 75 percent of the jobs posted
+speaker_1: Yeah so one of the key things about networking is its not what you know its basically who you know And that is very critical to basically land jobs You know I mean there was a survey that was being done by Harvard Business Review and also with LinkedIn that 85 percent of the jobs were actually filled through networking You know and even JobWhite you know they also did a survey that 75 percent of the jobs posted
 
 
 were actually completed through referrals So what does this tell you That the normal you know application submission resume ATS passing through that getting through a job interview without having any references or not knowing who you actually are you know its very very hard in this day and age People actually really believe and work towards human interaction that theyve had or somebody they
@@ -163,9 +137,7 @@ that person you need to add value in whatever youre presenting
 
 For a person to make that connection he needs to also look after himself because he is your sponsor and he wouldnt just you know make you guys meet over something where hes trying to say hey Im interested to come to Middle East and work All right So there are quite many people in the world who are interested to come in the Middle East What value youre bringing through So you need to approach it in a very strategic manner So this is very important where a lot of people lack
 
-### Speaker 2
-
-I think that thats a great point especially for the ones coming back from the West These are not fresh graduates typically These are people who have got quite a lot of experience So instead of just starting with the notion that hey I want to come back to the Middle East because I want to make more money is not the right footing to start with Its basically okay what value am I bringing But I just want to go deeper into one thing you mentioned I think you gave a very good lets say a timeline analysis right Because I you know even my father worked in
+speaker_2: I think that thats a great point especially for the ones coming back from the West These are not fresh graduates typically These are people who have got quite a lot of experience So instead of just starting with the notion that hey I want to come back to the Middle East because I want to make more money is not the right footing to start with Its basically okay what value am I bringing But I just want to go deeper into one thing you mentioned I think you gave a very good lets say a timeline analysis right Because I you know even my father worked in
 
 
 Middle East for a very long time and I remember like back in the lets say the early late 60s early 70s was the age of civil engineers lets say right and then came the age of as their infrastructures the highways got built and the basic infrastructure got ready then came the age of lets say the oil boom of course kind of you know was coupled with it so chemical engineers and petroleum engineers were always in demand but then came the age of okay now we have built the infrastructure we have got the highways we have got we have got oil we have got the money
@@ -176,9 +148,7 @@ So then came the age of service professionals like bankers or traders and all of
 
 in from a technical perspective
 
-### Speaker 1
-
-Right so you see in Qatar recently Microsoft and Google has opened up their regions regions with three availability zones of which means like full stack of data centers are there in Qatar primarily because theres an alignment between the government and these you know global giants in the cloud computing space that there is going to be a huge digital transformation uh drive that is going to take across all the industries from transports to environment to logistics to sports to health
+speaker_1: Right so you see in Qatar recently Microsoft and Google has opened up their regions regions with three availability zones of which means like full stack of data centers are there in Qatar primarily because theres an alignment between the government and these you know global giants in the cloud computing space that there is going to be a huge digital transformation uh drive that is going to take across all the industries from transports to environment to logistics to sports to health
 
 
 the care sector so all of them have to evolve new smart solutions to bring it up into the country for the digital transformation sake or for the um you know for the for the citizens life you know to make that easier to cut down onto five steps to two steps you know that is what digital transformation is all about previously there was a big uh uh you know on prem kind of data center uh with each and every industry that was
@@ -201,9 +171,7 @@ focus on is tourism and the and and making all business um communities to come i
 
 It is Qatar Saudi which is 10 times bigger than Qatar in terms of investment in terms of the smart cities and the scale And then you know UAE Oman Bahrain Kuwait So Middle East is extremely hot in this space at this point in time
 
-### Speaker 2
-
-Thats uh thats great And I think one um misconception uh at least in the in the eyes of the people living in the west is that you know America or Canada are way more advanced in some of these lets say more recent digital transformation and technologies Thats actually not true And Ill give you like one very simple layman example of this one right For example uh the the concept of electronic gates at the airports right Uh it came to Toronto I think maybe five years ago and there
+speaker_2: Thats uh thats great And I think one um misconception uh at least in the in the eyes of the people living in the west is that you know America or Canada are way more advanced in some of these lets say more recent digital transformation and technologies Thats actually not true And Ill give you like one very simple layman example of this one right For example uh the the concept of electronic gates at the airports right Uh it came to Toronto I think maybe five years ago and there
 
 
 was like a lot of press and you know uh media hype about oh now now toronto is going to get these you know e gates where you can just scan your passport and go and i was like you know man that was launched in dubai i remember in 2008 so by no means its uh you know its the next generation transformative technology because actually the middle east uh did this way ahead of its time especially in the uae i know like their receptivity to new technology is way more
@@ -217,9 +185,7 @@ like over there are much more quick in applying some of these things you see the
 
 MBS changing the outlook of Saudi Arabia I know the locals there are very happy They are like more vibrant and positive about the future So tell us a little bit about what that means for technical people trying to find their next best job opportunity in Saudi
 
-### Speaker 1
-
-Yeah so see where the investment lies means theres a lot of job opportunities theres a lot of scope that is going to go about building those smart cities So smart cities is predominantly about IoT sensors the connectivity domain the smart solutions the mobile applications the cloud computing the data storage data and AI doing the analytics around it Obviously it requires the underlying software
+speaker_1: Yeah so see where the investment lies means theres a lot of job opportunities theres a lot of scope that is going to go about building those smart cities So smart cities is predominantly about IoT sensors the connectivity domain the smart solutions the mobile applications the cloud computing the data storage data and AI doing the analytics around it Obviously it requires the underlying software
 
 
 development programming skills So this is extremely hot at this point in time So anybody who has these skills not at a two to three years level all the way till 25 to 30 years of experience theyre all very much potential candidate for these entities Now how to land a job there You can go to a website for NEOM and apply for all the jobs that are there and youll probably get all these rejections in an email that you filled it
@@ -236,25 +202,15 @@ who is looking and you know waiting to uh you know take actions after this podca
 
 You invest in yourself on your studies while youre working learning and development And if youre really serious to move into Middle East these are the great networking events that you can actually leverage at this point in time
 
-### Speaker 3
+speaker_3: Excellent I think those are some some great resources and and tips you have Thanks for sharing that And as we come towards the end of our podcast and because this is kind of the main
 
-Excellent I think those are some some great resources and and tips you have Thanks for sharing that And as we come towards the end of our podcast and because this is kind of the main
+speaker_2: of my channel and I really try to promote awareness around human skills soft skills because people dont talk about it
 
-### Speaker 2
+speaker_3: of focus and I know this this podcast is about technical jobs
 
-of my channel and I really try to promote awareness around human skills soft skills because people dont talk about it
+speaker_2: not go into the details of hard skills there But in any industry whether you are doing a technical job or a non technical job the importance of human skills is very very important In your opinion with your 20 years of experience especially with the Middle Eastern context what are the top three soft skills that an individual must have
 
-### Speaker 3
-
-of focus and I know this this podcast is about technical jobs
-
-### Speaker 2
-
-not go into the details of hard skills there But in any industry whether you are doing a technical job or a non technical job the importance of human skills is very very important In your opinion with your 20 years of experience especially with the Middle Eastern context what are the top three soft skills that an individual must have
-
-### Speaker 1
-
-Im gonna be very brief and to the point Jamil And its very crystal clear for me for having worked in the Middle Eastern market and obviously interacted with global players all around So communication skills emotional intelligence and also adaptability and problem solving skillset These are the three main things that you should work upon To be able to communicate effectively you know about what you really believe in and to be
+speaker_1: Im gonna be very brief and to the point Jamil And its very crystal clear for me for having worked in the Middle Eastern market and obviously interacted with global players all around So communication skills emotional intelligence and also adaptability and problem solving skillset These are the three main things that you should work upon To be able to communicate effectively you know about what you really believe in and to be
 
 
 to pass on that message in a very crisp short manner to be able to have the ability to do the storytelling to you know get the idea through to the people you know that is a big art that people learn over years so you really need to work upon those as you go and get your engineering degree or do your masters in your mba youre learning a certain skill set from an academic perspective but from
@@ -274,32 +230,20 @@ And then the key and the most important thing you see problem solving You need t
 
 that you know here it is then is the only that is the only way youll be able to prove your worth
 
-### Speaker 3
-
-Perfect perfect And what I love about that answer Yihab is that I have made videos on a lot of those topics already which the viewers can find And Ill be putting links as you have talked through those in this video as well So we have talked a lot about problem solving I have a full series of videos about problem solving and critical thinking which is equally important Its almost like synonymous to problem solving We have talked about lifelong learning on this channel which I think is very very important
+speaker_3: Perfect perfect And what I love about that answer Yihab is that I have made videos on a lot of those topics already which the viewers can find And Ill be putting links as you have talked through those in this video as well So we have talked a lot about problem solving I have a full series of videos about problem solving and critical thinking which is equally important Its almost like synonymous to problem solving We have talked about lifelong learning on this channel which I think is very very important
 
 
 Like you know link it
 
-### Speaker 4
+speaker_4: to the main content we have covered with you in this podcast uh you know maybe just give the examples of like you know in the 60s and the 70s in the middle east they were building highways now they are building these digital pipes right the difference in the skill set is that once
 
-to the main content we have covered with you in this podcast uh you know maybe just give the examples of like you know in the 60s and the 70s in the middle east they were building highways now they are building these digital pipes right the difference in the skill set is that once
+speaker_2: For example you become a civil engineer like how you build a road doesnt change but how you build those digital maps will keep changing because there is so much innovation happening today
 
-### Speaker 2
+speaker_4: 5G and
 
-For example you become a civil engineer like how you build a road doesnt change but how you build those digital maps will keep changing because there is so much innovation happening today
+speaker_2: you spoke about
 
-### Speaker 4
-
-5G and
-
-### Speaker 2
-
-you spoke about
-
-### Speaker 4
-
-I can almost like sign this in my blood that five years from now youll be talking about this plus another like more innovative set of technology So how you build those digital pipes will keep on changing Its very different than building a road So I think that how you can relate this to your lets say career journey is that back in the 60s and 70s one person would start a job with a company work for that company for their entire careers and then retire Now its very very challenging to do that although its a very safe path but that those paths are diminishing
+speaker_4: I can almost like sign this in my blood that five years from now youll be talking about this plus another like more innovative set of technology So how you build those digital pipes will keep on changing Its very different than building a road So I think that how you can relate this to your lets say career journey is that back in the 60s and 70s one person would start a job with a company work for that company for their entire careers and then retire Now its very very challenging to do that although its a very safe path but that those paths are diminishing
 
 
 And therefore for us as professionals its important that that whole concept of lifelong learning and constantly learning And I think the good news is that there is so much so many more resources Of course there were there were always books but now there are these podcasts Theres a lot of plethora of information available online which which people can consume because in order to grow So I think that thats great So no thanks a lot for coming on the podcast again Ihab I think it was a it was a great discussion
@@ -307,10 +251,6 @@ And therefore for us as professionals its important that that whole concept of l
 
 Your tips will be very
 
-### Speaker 2
+speaker_2: valuable for all the audience who are watching this and aspiring to be a part of the Middle East workforce at some point in time in the technical domain So thanks a lot for your time and yeah wish you good luck with all your future efforts
 
-valuable for all the audience who are watching this and aspiring to be a part of the Middle East workforce at some point in time in the technical domain So thanks a lot for your time and yeah wish you good luck with all your future efforts
-
-### Speaker 1
-
-Thank you Jamil It was a pleasure to be on your podcast and I hope some of the information that youve shared is going to be of value to your esteemed subscribers which are not only limited to North American market I can clearly tell you a lot of people from the Middle East especially in Qatar actually follow your work and youre doing a brilliant work in preparing some really meaningful contents for the soft skills And you know kudos to you Thank you so much
+speaker_1: Thank you Jamil It was a pleasure to be on your podcast and I hope some of the information that youve shared is going to be of value to your esteemed subscribers which are not only limited to North American market I can clearly tell you a lot of people from the Middle East especially in Qatar actually follow your work and youre doing a brilliant work in preparing some really meaningful contents for the soft skills And you know kudos to you Thank you so much

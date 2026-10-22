@@ -24,8 +24,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -33,14 +33,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And if you work hard it can all connect basically So you know after after two years on the job I I got the title of senior software engineer which is quite wow Yeah good So yeah
 
-And if you work hard it can all connect basically So you know after after two years on the job I I got the title of senior software engineer which is quite wow Yeah good So yeah
+speaker_2: Yeah that that must have that must have felt great I guess Yeah I so like you went from the initial situation like this sense of being overwhelmed and the sense of being okay uh Im an an outsider What am I doing here Yeah So like what was the dominant emotion back then
 
-### Speaker 2 · Speaker 2
-
-Yeah that that must have that must have felt great I guess Yeah I so like you went from the initial situation like this sense of being overwhelmed and the sense of being okay uh Im an an outsider What am I doing here Yeah So like what was the dominant emotion back then
-
-### Speaker 1 · Speaker 1
-
-I mean I mean its a its its a combination like its a like a fear uh embarrassment Its like you you you just dont believe in yourself But you need to keep going and eventually you get on a track of like self confidence
+speaker_1: I mean I mean its a its its a combination like its a like a fear uh embarrassment Its like you you you just dont believe in yourself But you need to keep going and eventually you get on a track of like self confidence

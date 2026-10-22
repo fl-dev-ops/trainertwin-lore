@@ -8,20 +8,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec - 2 - Deep Generative Models Intro to Probability theory 2
 
 ## Transcript
 
-
-### Speaker 1
-
-Shall we begin
+speaker_1: Shall we begin
 
 
 okay so good morning all of you um start uh i hope you had a chance to brush up some of the fundamentals uh of what we discussed the last time i will just quickly recap and then take it from there so what we did the last time was uh said that uh most problems in sense engineering happens to be approximating functions right
@@ -176,24 +173,16 @@ Yeah somebody tell me ha this is the one I want
 
 I want a new page how do I get a new page here
 
-### Speaker 3
-
-Sir you can unselect this and on the bottom there is a new page button page plus page in that column only
+speaker_2: Sir you can unselect this and on the bottom there is a new page button page plus page in that column only
 
 
 Can you open that once again
 
-### Speaker 1
+speaker_1: Yes
 
-Yes
+speaker_2: On the bottom there is a
 
-### Speaker 3
-
-On the bottom there is a
-
-### Speaker 1
-
-Here we are got it got it so here
+speaker_1: Here we are got it got it so here
 
 
 Next one
@@ -225,48 +214,28 @@ For that yeah
 
 Suppose this function called the random variable that took elements of sample space mapped into some t dimensional real numbers Okay this is where we are Okay questions Yeah Prasad Gupta
 
-### Speaker 4
+speaker_3: Hi Sir good morning
 
-Hi Sir good morning
+speaker_1: One yeah
 
-### Speaker 1
+speaker_3: So sir I just want to analyze a little bit more on the concept of random variable in the context of our problem of taking a picture and understanding whether its what gender it is So in that concept as you said the picture that we clicked is a set is a member of the right hand side of the random variable definition that is the RD side
 
-One yeah
+speaker_1: I encourage you to use mathematically correct terms dont call it the right hand side of random variable call it the range space of range space of random variables
 
-### Speaker 4
-
-So sir I just want to analyze a little bit more on the concept of random variable in the context of our problem of taking a picture and understanding whether its what gender it is So in that concept as you said the picture that we clicked is a set is a member of the right hand side of the random variable definition that is the RD side
-
-### Speaker 1
-
-I encourage you to use mathematically correct terms dont call it the right hand side of random variable call it the range space of range space of random variables
-
-### Speaker 4
-
-Ill be right there
+speaker_3: Ill be right there
 
 
 Yeah train space all right yeah
 
-### Speaker 1
+speaker_1: So every picture every piece every point in data that you get is an element of the rate space of random variable
 
-So every picture every piece every point in data that you get is an element of the rate space of random variable
+speaker_3: um now um i i want to imagine a scenario so like its possible right that we take multiple pictures of the same person where he is standing in different poses so how does the idea of random variable handle that like so there is one element of sample space that is being mapped to different ranges uh different elements in the range set correct
 
-### Speaker 4
+speaker_1: No see yeah a function cannot map one element to multiple elements no one to many mapping is not a valid function at all
 
-um now um i i want to imagine a scenario so like its possible right that we take multiple pictures of the same person where he is standing in different poses so how does the idea of random variable handle that like so there is one element of sample space that is being mapped to different ranges uh different elements in the range set correct
+speaker_3: That makes sense
 
-### Speaker 1
-
-No see yeah a function cannot map one element to multiple elements no one to many mapping is not a valid function at all
-
-### Speaker 4
-
-That makes sense
-
-### Speaker 1
-
-Okay so that does not become a valid function So it cannot map the picture of one person to multiple coronal numbers But why I mean thats a good question right I mean thats actually a good question Let me answer that See in that case the way you should imagine is that the sample space itself has pictures of that person standing in multiple angles
+speaker_1: Okay so that does not become a valid function So it cannot map the picture of one person to multiple coronal numbers But why I mean thats a good question right I mean thats actually a good question Let me answer that See in that case the way you should imagine is that the sample space itself has pictures of that person standing in multiple angles
 
 
 While while I conceived I mean the example that I gave why I I understand why that question is uh question right in the the way I I I I gave you the example of sample spaces I I said that uh uh every person corresponds to one object in the sample space right it may not be the case right I mean if you are taking I mean that is in the case where you take one picture of a person if you are taking multiple pictures of a person then all those pictures becomes elements of the sample space
@@ -277,13 +246,9 @@ And that variable will map it to different real numbers for different angles
 
 A function by definition cannot have one to many mapping
 
-### Speaker 4
+speaker_3: Got it So we are still not at the place So sample space has all the possible poses everything related to every person on this planet but we are still a little away from our final goal where we then analyze the sample space and all the possible poses and find out okay these are all actually the same person
 
-Got it So we are still not at the place So sample space has all the possible poses everything related to every person on this planet but we are still a little away from our final goal where we then analyze the sample space and all the possible poses and find out okay these are all actually the same person
-
-### Speaker 1
-
-Yeah
+speaker_1: Yeah
 
 
 Thats what we need to do
@@ -291,16 +256,12 @@ Thats what we need to do
 
 See that way we will do See we have I I I have not set up the the next problem yet Im just telling you what the sample space is and what random variable does right
 
-### Speaker 4
-
-Thats the new
+speaker_3: Thats the new
 
 
 Now
 
-### Speaker 1
-
-Now thats why I mean actually you brought up a nice point See I hope that all of you got the question The question was that in the example that you gave there was one person and like taking the picture of one person was one element in the sample space
+speaker_1: Now thats why I mean actually you brought up a nice point See I hope that all of you got the question The question was that in the example that you gave there was one person and like taking the picture of one person was one element in the sample space
 
 
 Then if you take multiple pictures of that same person how do you handle it Now the answer to that is that see you conceive what is there in the sample space Meaning the user would define what the sample space is because the random experiment is something that is a user defined idea you see But what I wanted to tell you is that when you have like lets say multiple elements from R D R P Q R O S Q which are which are
@@ -311,103 +272,63 @@ are images right or the set of pixels you have to imagine that this is the resul
 
 Okay there exists some sample space some underlying sample space and you constructed sample space accordingly right I mean it doesnt matter how you construct it And the good thing is that you dont have to even worry about the sample space once you get the outcomes of I mean once you look at the range space of random variables thats enough That is why you define the random variable in the first place okay
 
-### Speaker 4
+speaker_3: Ah okay So the way I understand this what you said triggered another thought that ultimately what we want to understand is the gender right Even if the same person repeats again and again the gender stays the same So its irrelevant for the problem Is that how I should know
 
-Ah okay So the way I understand this what you said triggered another thought that ultimately what we want to understand is the gender right Even if the same person repeats again and again the gender stays the same So its irrelevant for the problem Is that how I should know
-
-### Speaker 1
-
-No no I say dont worry about thats what I said Dont worry about the gender part yet Okay Just just think just think about having a few data points Yeah Which are pictures Now how do you see those data points is something that we are looking at right now How do you look at the labels is something that well come to in a while Okay For now just imagine that you have a set of data points
+speaker_1: No no I say dont worry about thats what I said Dont worry about the gender part yet Okay Just just think just think about having a few data points Yeah Which are pictures Now how do you see those data points is something that we are looking at right now How do you look at the labels is something that well come to in a while Okay For now just imagine that you have a set of data points
 
 
 Okay these data points are seen as the elements of the range space of a random variable And the moment you talk of a random variable there exists an underlying sample space which is giving you some elements That is how you should look at it Okay
 
-### Speaker 4
+speaker_3: Sure sir so were only talking about representatives right now got it
 
-Sure sir so were only talking about representatives right now got it
+speaker_1: No no the data data I mean data yeah sorry
 
-### Speaker 1
+speaker_3: Data yeah sorry like uh not
 
-No no the data data I mean data yeah sorry
-
-### Speaker 4
-
-Data yeah sorry like uh not
-
-### Speaker 1
-
-uh not labels i will i come to the labels in a way see for instance right in in generative modeling you dont have labels right you only have data lets look at the representation of data now uh from a random variable perspective then we will come to the the labels in a way okay any other questions on this this is very important right i mean this understanding is very important because from this is the last class when ill be talking about the sample space from like next class on onwards well only talk about
+speaker_1: uh not labels i will i come to the labels in a way see for instance right in in generative modeling you dont have labels right you only have data lets look at the representation of data now uh from a random variable perspective then we will come to the the labels in a way okay any other questions on this this is very important right i mean this understanding is very important because from this is the last class when ill be talking about the sample space from like next class on onwards well only talk about
 
 
 variables and distribution functions so you have to understand like thoroughly what is going on so if you have questions so this is the opportunity for you to ask them
 
-### Speaker 4
-
-You will be happy
+speaker_3: You will be happy
 
 
 I need it
 
-### Speaker 1
-
-Any other questions
+speaker_1: Any other questions
 
 
 But we may
 
-### Speaker 2
+speaker_4: Some so maybe the uh the trick is in designing the I mean coming up with the correct probability measure
 
-Some so maybe the uh the trick is in designing the I mean coming up with the correct probability measure
+speaker_1: Yeah yeah yeah see um probability measure is I mean I didnt get your question I mean that that was a sort of assertion right what is the question
 
-### Speaker 1
-
-Yeah yeah yeah see um probability measure is I mean I didnt get your question I mean that that was a sort of assertion right what is the question
-
-### Speaker 2
-
-Oh yeah
+speaker_4: Oh yeah
 
 
 Okay so in one sense I understand that this is still only talking about understanding the basic data points but when we move on to the next step when we start try to assign labels then probably we have to worry about a probability measure We have to model that part
 
-### Speaker 1
-
-Um hold on I was like as I said no please try to if you have questions on things that Ive said already do ask and lets not jump Ill Ill come to that Ill come to all that in a while yeah
+speaker_1: Um hold on I was like as I said no please try to if you have questions on things that Ive said already do ask and lets not jump Ill Ill come to that Ill come to all that in a while yeah
 
 
 Any questions on things that we did so far
 
-### Speaker 4
+speaker_3: Hello sir can I ask one question
 
-Hello sir can I ask one question
+speaker_1: Just a second uh and yes I think all
 
-### Speaker 1
+speaker_3: So sir I was asking like this random variable function is like very important We are converting this sample space into some range space So as per our problem like different
 
-Just a second uh and yes I think all
+speaker_1: No no converting no no hold on hold on converting sample space into real numbers
 
-### Speaker 4
+speaker_3: Yes
 
-So sir I was asking like this random variable function is like very important We are converting this sample space into some range space So as per our problem like different
+speaker_1: Dont call it range space real numbers See what is range When you have a function you have a domain and the range So random variable is a function that takes sample space and maps it to real numbers
 
-### Speaker 1
+speaker_3: So for a given sample space there we can define multiple ways or we can define multiple functions this random variable function right based on the work
 
-No no converting no no hold on hold on converting sample space into real numbers
-
-### Speaker 4
-
-Yes
-
-### Speaker 1
-
-Dont call it range space real numbers See what is range When you have a function you have a domain and the range So random variable is a function that takes sample space and maps it to real numbers
-
-### Speaker 4
-
-So for a given sample space there we can define multiple ways or we can define multiple functions this random variable function right based on the work
-
-### Speaker 1
-
-over very good very good observation yes you can and that is why no that is a model thats basically what a model is so ultimately we will see that entire machine learning is about uh finding this underlying probability measure okay why does the probability measure change the probability measure changes because uh i mean when the probability measures changes the random variable changes right you can actually you can yeah so you can there may not be one random variable cross
+speaker_1: over very good very good observation yes you can and that is why no that is a model thats basically what a model is so ultimately we will see that entire machine learning is about uh finding this underlying probability measure okay why does the probability measure change the probability measure changes because uh i mean when the probability measures changes the random variable changes right you can actually you can yeah so you can there may not be one random variable cross
 
 
 responding to a random uh sorry uh a particular sample space there can exist multiple random variables yeah
@@ -415,28 +336,18 @@ responding to a random uh sorry uh a particular sample space there can exist mul
 
 But what is important is that the the moment you have some data you should imagine that there has already been a random variable that has been applied to it You understand
 
-### Speaker 2
+speaker_4: No
 
-No
+speaker_3: Like data is in its raw form like like images or speech
 
-### Speaker 4
-
-Like data is in its raw form like like images or speech
-
-### Speaker 1
-
-Now you have data the moment you have data the moment you have data you should all you should know that there has been some random variable that has been operated on the sample space
+speaker_1: Now you have data the moment you have data the moment you have data you should all you should know that there has been some random variable that has been operated on the sample space
 
 
 In practice yeah
 
-### Speaker 2
+speaker_4: But it will be expensive
 
-But it will be expensive
-
-### Speaker 1
-
-Youre right
+speaker_1: Youre right
 
 
 Okay
@@ -444,35 +355,23 @@ Okay
 
 Okay uh yeah I think Bridge Cooper has a question I think yeah
 
-### Speaker 4
-
-Uh yeah sorry so just a small one its a little different uh so uh the way you said right uh for a for a simple experiment like tossing a coin um we usually immediately associate a rand a random variable with the uh possible outcomes like zero and one we assign to head and tails right
+speaker_3: Uh yeah sorry so just a small one its a little different uh so uh the way you said right uh for a for a simple experiment like tossing a coin um we usually immediately associate a rand a random variable with the uh possible outcomes like zero and one we assign to head and tails right
 
 
 Why uh like uh so Im assuming the reason we choose zero and one is that something to do with the probability measure and uh like uh like why did we choose zero and one is my question why cant we have one far better
 
-### Speaker 1
+speaker_1: Thats arbitrary thats arbitrary you can choose anything you can choose anything
 
-Thats arbitrary thats arbitrary you can choose anything you can choose anything
-
-### Speaker 4
-
-It thats it
+speaker_3: It thats it
 
 
 Okay okay okay So that is not affected by our pro uh probability uh measure and our us wanting to keep it between zero and one
 
-### Speaker 1
+speaker_1: It has nothing to do no no no oh that has nothing to do with the measure its the the range of the random variable is arbitrary you can choose it to be anything in fact it becomes a function of your sensor and all that no your quantizer your sensor when you take a picture what values do you see in the picture becomes a function of what does the what does the bit representation of your machine what is the machine precision what is the quantization that you are doing and so on isnt it
 
-It has nothing to do no no no oh that has nothing to do with the measure its the the range of the random variable is arbitrary you can choose it to be anything in fact it becomes a function of your sensor and all that no your quantizer your sensor when you take a picture what values do you see in the picture becomes a function of what does the what does the bit representation of your machine what is the machine precision what is the quantization that you are doing and so on isnt it
+speaker_3: Okay so maybe Im merging two concepts okay thank you
 
-### Speaker 4
-
-Okay so maybe Im merging two concepts okay thank you
-
-### Speaker 1
-
-So it has nothing to do with measure okay
+speaker_1: So it has nothing to do with measure okay
 
 
 Okay next one Now the question is
@@ -537,21 +436,13 @@ under the function x
 
 So the inverse image of a subset of R under the function X what do you get from doing this
 
-### Speaker 2
+speaker_4: Subset of omega
 
-Subset of omega
+speaker_1: Exactly
 
-### Speaker 1
+speaker_3: Exactly
 
-Exactly
-
-### Speaker 4
-
-Exactly
-
-### Speaker 1
-
-Yeah you get a subset of omega from here can all of you see this there
+speaker_1: Yeah you get a subset of omega from here can all of you see this there
 
 
 will be some set okay which belongs to F which is a subset of omega
@@ -568,21 +459,13 @@ Is it clear
 
 See when I ask you a question if its clear to respond otherwise
 
-### Speaker 2
+speaker_4: Here a is x inverse i is that the result
 
-Here a is x inverse i is that the result
+speaker_1: come again
 
-### Speaker 1
+speaker_4: Ill be using a to represent x inverse of the range subset
 
-come again
-
-### Speaker 2
-
-Ill be using a to represent x inverse of the range subset
-
-### Speaker 1
-
-Correct correct correct correct A is the X But what is that A I mean whats more important is that that A is an element of F F is the subset of omega
+speaker_1: Correct correct correct correct A is the X But what is that A I mean whats more important is that that A is an element of F F is the subset of omega
 
 
 Now this implies that this implies that we can talk of probability measures on
@@ -629,13 +512,9 @@ Did all of you get this Ill take questions in a while but yeah
 
 Okay one by one Harish
 
-### Speaker 2
+speaker_4: So is it correct to say that uh these elements of A are the samples which are just sampled from this whole sample space or are the ones which were just observed
 
-So is it correct to say that uh these elements of A are the samples which are just sampled from this whole sample space or are the ones which were just observed
-
-### Speaker 1
-
-Element of which is a subset A is a subset A is a subset See you remember this no There was an omega f and p What was this f f was set of subsets of omega right
+speaker_1: Element of which is a subset A is a subset A is a subset See you remember this no There was an omega f and p What was this f f was set of subsets of omega right
 
 
 And on the elements of F is where we defined probability model which I will write that also here is that So P is a function that is defined on A okay that would take an element A okay which is a subset of F and maps it to the number between 0 and 1
@@ -655,13 +534,9 @@ Right So we define the probability measure on the elements of f which are the su
 
 Tarmish
 
-### Speaker 2
+speaker_4: Yes so since f is a set of subsets of omega so a should be a member of f right not a subset of f because anyways all the subsets are there in f
 
-Yes so since f is a set of subsets of omega so a should be a member of f right not a subset of f because anyways all the subsets are there in f
-
-### Speaker 1
-
-Thank you for that
+speaker_1: Thank you for that
 
 
 Some mistakes
@@ -672,29 +547,17 @@ My mistake that was a that was a good point thank you for telling that
 
 Yeah I actually meant that but I wrote subset Yeah so thats my mistake Sorry Thanks Avirup Did all you get the mistake that I had done I mean thats A is not a subset of F A is an element of F Yeah because okay yeah Avirup
 
-### Speaker 2
+speaker_4: Yeah so when you say the inverse image so are you referring to some notion called inverse function
 
-Yeah so when you say the inverse image so are you referring to some notion called inverse function
+speaker_1: Of course right absolutely absolutely
 
-### Speaker 1
+speaker_4: No
 
-Of course right absolutely absolutely
+speaker_1: Because x is a function right x is a function uh when the a function always always have an inverse right that would take an element from the range of the function and maps it back to the domain
 
-### Speaker 2
+speaker_4: Okay now in that case inverse function is also a function A function by definition should always have many to one or one to one mappings But in this case we are having multiple elements from the domain and we are mapping them to a set which is a
 
-No
-
-### Speaker 1
-
-Because x is a function right x is a function uh when the a function always always have an inverse right that would take an element from the range of the function and maps it back to the domain
-
-### Speaker 2
-
-Okay now in that case inverse function is also a function A function by definition should always have many to one or one to one mappings But in this case we are having multiple elements from the domain and we are mapping them to a set which is a
-
-### Speaker 1
-
-No no no see when you take when you define the random variable right you can make it a bijective function so that the inverse exists
+speaker_1: No no no see when you take when you define the random variable right you can make it a bijective function so that the inverse exists
 
 
 Yeah so you take every element from the sample space and map it to a unique real number
@@ -702,13 +565,9 @@ Yeah so you take every element from the sample space and map it to a unique real
 
 So then it becomes invertible right its a bijective function that can be inverted
 
-### Speaker 2
+speaker_4: Is it always possible to come up with a random variable which we
 
-Is it always possible to come up with a random variable which we
-
-### Speaker 1
-
-Of course why not because a random variable is something that we are defining no you always make it by definition
+speaker_1: Of course why not because a random variable is something that we are defining no you always make it by definition
 
 
 So thats why the inverse exists
@@ -716,13 +575,9 @@ So thats why the inverse exists
 
 So basically what Im saying is this function random variable always maps a unique element from the sample space to a unique element in real numbers thats all
 
-### Speaker 2
+speaker_4: Okay okay
 
-Okay okay
-
-### Speaker 1
-
-Yeah see in fact even if its not a bijective right only surjection is enough for inversion but you can make it bijective nobody stops you yeah
+speaker_1: Yeah see in fact even if its not a bijective right only surjection is enough for inversion but you can make it bijective nobody stops you yeah
 
 
 Because you know functions like f of x squared sorry f of x equal to x squared even those have inverses So but now for I mean for ease of understanding let us assume that our random variables are all objective functions okay
@@ -730,35 +585,23 @@ Because you know functions like f of x squared sorry f of x equal to x squared e
 
 Yes uh signed
 
-### Speaker 3
+speaker_2: Sir as per my understanding we have random variables map the individual outcomes in the sample space to a real number right
 
-Sir as per my understanding we have random variables map the individual outcomes in the sample space to a real number right
+speaker_1: Correct correct
 
-### Speaker 1
-
-Correct correct
-
-### Speaker 3
-
-Now in the example we have taken we are saying that we have taken a range minus 2 comma 3 or minus infinity comma 2 and that we are mapping to a subset
+speaker_2: Now in the example we have taken we are saying that we have taken a range minus 2 comma 3 or minus infinity comma 2 and that we are mapping to a subset
 
 
 So I agree that this subset A this can be individual elements but Im not able to digest that this subset can have multiple elements of the sample space
 
-### Speaker 1
-
-It can no because uh it depends on the way your function is defined isnt it
+speaker_1: It can no because uh it depends on the way your function is defined isnt it
 
 
 See its like this I tell you
 
-### Speaker 3
+speaker_2: You
 
-You
-
-### Speaker 1
-
-Uh suppose theres a function right lets say f of x is equal to
+speaker_1: Uh suppose theres a function right lets say f of x is equal to
 
 
 of x is equal to say x plus 3 then what is the mapping 0 to 3 and then you have 1 to 4 2 to 5 and so on isnt it
@@ -769,142 +612,78 @@ Okay now suppose I take a set which is lets say four to eight
 
 Cant I define this
 
-### Speaker 3
+speaker_2: Okay so it this will give us a range of x
 
-Okay so it this will give us a range of x
+speaker_1: Isnt it exactly no its a new subset of the domain
 
-### Speaker 1
+speaker_2: Okay Okay sir makes sense
 
-Isnt it exactly no its a new subset of the domain
+speaker_1: Yeah that is why the inverse image of a subset of R will give you an element from F not an element from omega
 
-### Speaker 3
+speaker_2: no that that thats what the confusion like thats what i said
 
-Okay Okay sir makes sense
-
-### Speaker 1
-
-Yeah that is why the inverse image of a subset of R will give you an element from F not an element from omega
-
-### Speaker 3
-
-no that that thats what the confusion like thats what i said
-
-### Speaker 1
-
-Its a matter of
+speaker_1: Its a matter of
 
 
 But do you understand no no what Im actually talking about
 
-### Speaker 3
+speaker_2: Huh
 
-Huh
+speaker_1: Use an element from F because we are talking about subsets in the range space of the random variable that gets mapped to subsets in omega thats all yeah
 
-### Speaker 1
+speaker_2: Okay if if our domain is only the subset then anyways it will give give us
 
-Use an element from F because we are talking about subsets in the range space of the random variable that gets mapped to subsets in omega thats all yeah
+speaker_1: No no no uh what do you mean by domain is subset I didnt mean domain is a set
 
-### Speaker 3
+speaker_2: It might be
 
-Okay if if our domain is only the subset then anyways it will give give us
-
-### Speaker 1
-
-No no no uh what do you mean by domain is subset I didnt mean domain is a set
-
-### Speaker 3
-
-It might be
-
-### Speaker 1
-
-Domain is a set but what you are saying is if I consider subsets in R and take the inverse image I get subsets in omega
+speaker_1: Domain is a set but what you are saying is if I consider subsets in R and take the inverse image I get subsets in omega
 
 
 But if I take a singleton here I mean if this set has one element I perhaps I get back one element there right I note that a set here right A subset of R here might map back to null set also Thats also possible Yeah but thats also a subset of R See F also contains null no
 
-### Speaker 3
+speaker_2: Its also possible
 
-Its also possible
+speaker_1: All the possible subsets of omega and null is also a member of f therefore the inverse image thats why in fact probability measure is defined on null set also the probability of a null set is 0
 
-### Speaker 1
+speaker_2: All the possible subsets of all the possible
 
-All the possible subsets of omega and null is also a member of f therefore the inverse image thats why in fact probability measure is defined on null set also the probability of a null set is 0
+speaker_1: Yeah so thats why its well defined You can take a subset in the range So basically what Im saying is that you can take a subset in the range space of random variable and the inverse image of that will map back to an element in F Thats all no
 
-### Speaker 3
+speaker_2: Okay okay and that element it can be a singleton or uh it can be null
 
-All the possible subsets of all the possible
+speaker_1: It doesnt matter it can be null yeah it can be that is why Im saying its simply a member of F thats all
 
-### Speaker 1
+speaker_2: It can be an easy
 
-Yeah so thats why its well defined You can take a subset in the range So basically what Im saying is that you can take a subset in the range space of random variable and the inverse image of that will map back to an element in F Thats all no
+speaker_4: have to be an element in F but not uh say a subset of sample space
 
-### Speaker 3
+speaker_1: Same thing no subset of subset space is what we have denoted as uh f all possible subsets
 
-Okay okay and that element it can be a singleton or uh it can be null
+speaker_4: It has to be an element in F right
 
-### Speaker 1
+speaker_1: Of course also for instance if I
 
-It doesnt matter it can be null yeah it can be that is why Im saying its simply a member of F thats all
+speaker_4: So but
 
-### Speaker 3
+speaker_2: F is a set of subsets
 
-It can be an easy
+speaker_1: If I increase the
 
-### Speaker 2
+speaker_4: I increase the range so now you have put minus 2 to 3 and now I change it to say minus 2 to 5 so now does it have to belong to only one element in F
 
-have to be an element in F but not uh say a subset of sample space
+speaker_1: Itll itll get to a different it will map back to a different element in F no
 
-### Speaker 1
+speaker_4: an element in F not a subset of subspace
 
-Same thing no subset of subset space is what we have denoted as uh f all possible subsets
-
-### Speaker 2
-
-It has to be an element in F right
-
-### Speaker 1
-
-Of course also for instance if I
-
-### Speaker 2
-
-So but
-
-### Speaker 3
-
-F is a set of subsets
-
-### Speaker 1
-
-If I increase the
-
-### Speaker 2
-
-I increase the range so now you have put minus 2 to 3 and now I change it to say minus 2 to 5 so now does it have to belong to only one element in F
-
-### Speaker 1
-
-Itll itll get to a different it will map back to a different element in F no
-
-### Speaker 2
-
-an element in F not a subset of subspace
-
-### Speaker 1
-
-Okay subset of subset of subset of subsets of sample spaces is what we have called as F F is nothing but set of subsets of sample space
+speaker_1: Okay subset of subset of subset of subsets of sample spaces is what we have called as F F is nothing but set of subsets of sample space
 
 
 What is there Okay
 
-### Speaker 2
+speaker_4: Okay so it cannot map to multiple elements in uh F is is my question
 
-Okay so it cannot map to multiple elements in uh F is is my question
-
-### Speaker 1
-
-It cannot mat of course right
+speaker_1: It cannot mat of course right
 
 
 Of course right if you take a unique set in the unique subset in the rate space of any function the inverse image will map to a unique subset in the domain of the function right if the function is bijective
@@ -921,17 +700,11 @@ you mean most of you may be like like between 20 and 30 I suppose right most of 
 
 Did did anybody study functions in high school
 
-### Speaker 4
+speaker_3: Yes at 11 oclock
 
-Yes at 11 oclock
+speaker_4: Yes sir
 
-### Speaker 2
-
-Yes sir
-
-### Speaker 1
-
-lemon yeah leavened is not high school no yeah it depends i mean you know what what curriculum are you a part of i was i was in the state board right where this leavened was called college for some reason it was called pre university college anyway okay so im saying its just fundamental stuff right you have you have two sets we are talking about inverse images the one thing that we introduce new perhaps is that this is the idea of measure okay okay so clear so far
+speaker_1: lemon yeah leavened is not high school no yeah it depends i mean you know what what curriculum are you a part of i was i was in the state board right where this leavened was called college for some reason it was called pre university college anyway okay so im saying its just fundamental stuff right you have you have two sets we are talking about inverse images the one thing that we introduce new perhaps is that this is the idea of measure okay okay so clear so far
 
 
 Okay now
@@ -969,21 +742,13 @@ Basically speaking it is not in close of this
 
 So understand this notation right this set includes minus infinity does not include r1 its upper bounded by r1 here this set includes minus infinity but
 
-### Speaker 3
+speaker_2: Or how can we include minus infinity
 
-Or how can we include minus infinity
+speaker_1: Why not its an element in R no
 
-### Speaker 1
+speaker_2: It is but it is not defined right what like
 
-Why not its an element in R no
-
-### Speaker 3
-
-It is but it is not defined right what like
-
-### Speaker 1
-
-No very much defined why not define its an element in our
+speaker_1: No very much defined why not define its an element in our
 
 
 You can definitely include minus infinity no problem with that Okay So let us consider these sorts of subsets of R Now
@@ -1054,127 +819,69 @@ the random variable X Is this clear Any questions on this
 
 All of you please ensure that every one of you understands this
 
-### Speaker 3
+speaker_2: Uh Sir can you explain what is under the
 
-Uh Sir can you explain what is under the
+speaker_1: Im not familiar with it
 
-### Speaker 1
+speaker_2: And thats a good one
 
-Im not familiar with it
-
-### Speaker 3
-
-And thats a good one
-
-### Speaker 1
-
-X is a function no see when we talk of inverse images we have to test we have to we have to specify what function are we looking inverse images under
+speaker_1: X is a function no see when we talk of inverse images we have to test we have to we have to specify what function are we looking inverse images under
 
 
 See when you take a subset and you talk of inverse images what is the function under which you are taking the inverse image It is a random variable which is a function correct
 
-### Speaker 2
+speaker_4: Is it does it mean that lets say if we take S of some sample space well reach out to a particular range If you take inverse of that whatever the sample space or the event space that we end up in probability of that is what we are defining here
 
-Is it does it mean that lets say if we take S of some sample space well reach out to a particular range If you take inverse of that whatever the sample space or the event space that we end up in probability of that is what we are defining here
-
-### Speaker 1
-
-Exactly exactly But we are looking at particular subset of real numbers No this particular subset The kind of subset that we are looking at is like close minus infinity to open a
+speaker_1: Exactly exactly But we are looking at particular subset of real numbers No this particular subset The kind of subset that we are looking at is like close minus infinity to open a
 
 
 Carter Kumar
 
-### Speaker 2
+speaker_4: Oh yes sir so thats it
 
-Oh yes sir so thats it
+speaker_3: Have I made a relation with
 
-### Speaker 4
+speaker_4: The
 
-Have I made a relation with
+speaker_1: But why not make it bigger
 
-### Speaker 2
+speaker_4: So
 
-The
+speaker_1: Particular water is breaking
 
-### Speaker 1
+speaker_3: Sorry am I audible
 
-But why not make it bigger
+speaker_1: I need to know
 
-### Speaker 2
+speaker_3: I need to know
 
-So
+speaker_1: Is it only for me
 
-### Speaker 1
+speaker_3: Uh
 
-Particular water is breaking
+speaker_1: His voice is breaking
 
-### Speaker 4
+speaker_2: Im not sure
 
-Sorry am I audible
+speaker_4: Youre just kidding
 
-### Speaker 1
+speaker_1: Is it still
 
-I need to know
+speaker_4: Uh is it still breaking so
 
-### Speaker 4
+speaker_1: Yeah not now try try now
 
-I need to know
+speaker_4: Yeah I just wanted to ask is A anyway related with R1 and R1 which we defined S1 with Minus infinity to R1
 
-### Speaker 1
+speaker_1: But well it takes in the sense that uh like uh this particular r1 is the is I mean this particular set is the one that maps back to a1 thats all other than that there is no relation per per set
 
-Is it only for me
+speaker_4: Okay so yeah I mean like uh
 
-### Speaker 4
+speaker_1: If you take this particular subset and take the inverse image of this it will go back to EMIL thats all
 
-Uh
+speaker_4: Okay yeah sure thanks
 
-### Speaker 1
-
-His voice is breaking
-
-### Speaker 3
-
-Im not sure
-
-### Speaker 2
-
-Youre just kidding
-
-### Speaker 1
-
-Is it still
-
-### Speaker 2
-
-Uh is it still breaking so
-
-### Speaker 1
-
-Yeah not now try try now
-
-### Speaker 2
-
-Yeah I just wanted to ask is A anyway related with R1 and R1 which we defined S1 with Minus infinity to R1
-
-### Speaker 1
-
-But well it takes in the sense that uh like uh this particular r1 is the is I mean this particular set is the one that maps back to a1 thats all other than that there is no relation per per set
-
-### Speaker 2
-
-Okay so yeah I mean like uh
-
-### Speaker 1
-
-If you take this particular subset and take the inverse image of this it will go back to EMIL thats all
-
-### Speaker 2
-
-Okay yeah sure thanks
-
-### Speaker 1
-
-Okay great so this we lets give a symbol for this let us
+speaker_1: Okay great so this we lets give a symbol for this let us
 
 
 E this call this as px evaluated at a
@@ -1185,40 +892,24 @@ This is a symbol Okay What is it saying is I mean I just represent this complica
 
 Okay It turns out that this has a name This particular thing has a name which all of you know Do you know what the name of this is
 
-### Speaker 4
+speaker_3: Really is
 
-Really is
+speaker_1: No no not PDF This is the cumulative distribution function Yeah this is the distribution function
 
-### Speaker 1
+speaker_2: People have to test it before
 
-No no not PDF This is the cumulative distribution function Yeah this is the distribution function
-
-### Speaker 3
-
-People have to test it before
-
-### Speaker 1
-
-This is the distribution function of a random variable
+speaker_1: This is the distribution function of a random variable
 
 
 Some people also call it the cumulative distribution function I mean I dont know why it is called cumulative You dont have to call it cumulative okay But this is called the distribution function of a random variable Is this clear So what is it
 
-### Speaker 2
+speaker_4: since it accumulates the distribution
 
-since it accumulates the distribution
+speaker_1: from minus infinity to no no no no no no no no pre space there is there is no accumulation thats happening up see
 
-### Speaker 1
+speaker_3: No no no no no
 
-from minus infinity to no no no no no no no no pre space there is there is no accumulation thats happening up see
-
-### Speaker 4
-
-No no no no no
-
-### Speaker 1
-
-The reason perhaps why people call it cumulative is because you define a density function and then you like you can represent the this this function as a running interval of that other function and thats why its called cumulative but I Im not a fan of this term cumulative I mean standard textbooks call it a distribution function and yeah this is a distribution function okay now what is a distribution function its its the probability of the element of event space that is obtained by taking
+speaker_1: The reason perhaps why people call it cumulative is because you define a density function and then you like you can represent the this this function as a running interval of that other function and thats why its called cumulative but I Im not a fan of this term cumulative I mean standard textbooks call it a distribution function and yeah this is a distribution function okay now what is a distribution function its its the probability of the element of event space that is obtained by taking
 
 
 the inverse image of the set minus infinity to a under the random variable x so if you evaluate this distribution function at a value x or a it will remember that you are actually looking at the probability of an event probability of an element from the event space what is that element that element is the one that you have gotten by taking the inverse image of this set minus infinity to a under the random variable x
@@ -1262,27 +953,19 @@ Is this clear
 
 Please remember this because as I said this is the single most important demonition that we need for this course So yeah Questions on this Sanket H
 
-### Speaker 2
+speaker_4: The probability distribution function is usually the probability at a single point right
 
-The probability distribution function is usually the probability at a single point right
-
-### Speaker 1
-
-Definitely no no no definitely not I mean that is that is precise three and a half hours to define this it is not that
+speaker_1: Definitely no no no definitely not I mean that is that is precise three and a half hours to define this it is not that
 
 
 See point number one I am I am not talking about probability density functions here I am talking about the probability distribution functions
 
-### Speaker 2
-
-Point them
+speaker_4: Point them
 
 
 Okay okay
 
-### Speaker 1
-
-Okay and even probability density functions are not probabilities Please remember that probability is a measure that is defined on elements of F period You cannot talk of probability of X being equal to something It just does not make sense You understand
+speaker_1: Okay and even probability density functions are not probabilities Please remember that probability is a measure that is defined on elements of F period You cannot talk of probability of X being equal to something It just does not make sense You understand
 
 
 Because by definition by definition probabilities are defined on elements of F Thats all See its like can you talk of length of length of okay what do I say
@@ -1308,45 +991,25 @@ Okay it does not make sense You mean its like you know saying round circle or so
 
 Okay please be clear about it Rajan
 
-### Speaker 4
+speaker_3: So sir my question is when we are taking the inverse of a subset of R then it might not be having any element in F right for example
 
-So sir my question is when we are taking the inverse of a subset of R then it might not be having any element in F right for example
+speaker_1: It will always be it will always be it will always be He cant
 
-### Speaker 1
+speaker_3: Most of the time
 
-It will always be it will always be it will always be He cant
+speaker_1: How come
 
-### Speaker 4
+speaker_3: Yes example tossing a coin will have outcome of head and tail And suppose head is translated to 0 under random variable and tail to 1 Then if I take if I try to take the inverse of for example 3 which
 
-Most of the time
+speaker_1: Then it then it maps back to null thats all and null is also an element of it
 
-### Speaker 1
+speaker_3: I got it in that case probability will be
 
-How come
+speaker_1: Zero
 
-### Speaker 4
+speaker_3: Project Thanks
 
-Yes example tossing a coin will have outcome of head and tail And suppose head is translated to 0 under random variable and tail to 1 Then if I take if I try to take the inverse of for example 3 which
-
-### Speaker 1
-
-Then it then it maps back to null thats all and null is also an element of it
-
-### Speaker 4
-
-I got it in that case probability will be
-
-### Speaker 1
-
-Zero
-
-### Speaker 4
-
-Project Thanks
-
-### Speaker 1
-
-Actually mentioned this maybe you missed it no problem have a look
+speaker_1: Actually mentioned this maybe you missed it no problem have a look
 
 
 Whats up
@@ -1357,13 +1020,9 @@ a little down we might come to that see please again im reiterating dont jump we
 
 we may mean thats a good question by the way how do we estimate px uh is the question that we ask in machine learning all machine learning is about estimating this distribution function okay so dont worry well come to that in the next next part of this class in the genes
 
-### Speaker 2
+speaker_4: Yeah when you say you are taking probability of inverse random variable minus infinity to a
 
-Yeah when you say you are taking probability of inverse random variable minus infinity to a
-
-### Speaker 1
-
-Uh just a second please please please uh use correct terms theres no inverse random variable
+speaker_1: Uh just a second please please please uh use correct terms theres no inverse random variable
 
 
 So can you can you say it correctly
@@ -1374,21 +1033,13 @@ probability of
 
 So uh just just I dont c say correctly
 
-### Speaker 2
+speaker_4: So inverse probability of a real number
 
-So inverse probability of a real number
+speaker_1: No no no not the inverse probability see inverse is defined for a function
 
-### Speaker 1
+speaker_3: Yeah okay
 
-No no no not the inverse probability see inverse is defined for a function
-
-### Speaker 4
-
-Yeah okay
-
-### Speaker 1
-
-The universe is defined for a function
+speaker_1: The universe is defined for a function
 
 
 inverse of the function called random variable
@@ -1396,25 +1047,15 @@ inverse of the function called random variable
 
 That is how we should say it
 
-### Speaker 2
+speaker_4: So when you are taking that set as minus infinity to a
 
-So when you are taking that set as minus infinity to a
+speaker_3: Can I see any
 
-### Speaker 4
+speaker_4: Any other set say
 
-Can I see any
+speaker_3: They wont do it
 
-### Speaker 2
-
-Any other set say
-
-### Speaker 4
-
-They wont do it
-
-### Speaker 1
-
-Im glad that you asked that question I wanted somebody to ask this Its a very good question So why are we considering this particular set What is the whats so whats so nice about this particular set is the question that youre asking correct
+speaker_1: Im glad that you asked that question I wanted somebody to ask this Its a very good question So why are we considering this particular set What is the whats so whats so nice about this particular set is the question that youre asking correct
 
 
 Yeah Ill answer that next Thats the next thing that Ill do but Im glad that you asked that question Ill answer that I was expecting someone to answer that question Ask me that question right Why it is so satisfactory about this particular set that we are assigning a function to it right I mean rather like we are calling we are giving it a particular name What is so important about this Ill answer that in a while Okay Okay
@@ -1476,13 +1117,9 @@ is good
 
 Sorry
 
-### Speaker 3
+speaker_2: We need to have square braces for a comma b set a comma b
 
-We need to have square braces for a comma b set a comma b
-
-### Speaker 1
-
-Because that is uh those are included no Yeah I think what I had written earlier was correct
+speaker_1: Because that is uh those are included no Yeah I think what I had written earlier was correct
 
 
 Heres one example I think TS will do a proof for this So basically what Im saying is that if you can take any subset in R and that can be represented using the set operations on these kinds of things
@@ -1502,24 +1139,16 @@ particular set this can be right obtained in terms of
 
 The probability the distribution function that is evaluated at B subtract that with the distribution function that is evaluated at A So again the proof of that shall be done in the tutorials
 
-### Speaker 2
+speaker_4: included in that interval right
 
-included in that interval right
-
-### Speaker 1
-
-B is not included in the interval is that so
+speaker_1: B is not included in the interval is that so
 
 
 Yeah because its not included in the interval A is included B is included So yeah A is included B is not included I think this should be correct Correct This is what youre saying B is not included in the interval
 
-### Speaker 4
+speaker_3: Yeah because its not included in the minus and minus
 
-Yeah because its not included in the minus and minus
-
-### Speaker 1
-
-Yeah so this is why we are interested in this particular set that if we want to look at the probability of the inverse image of any subset of R okay we can obtain that in terms of the probabilities of events that are associated with the inverse images of
+speaker_1: Yeah so this is why we are interested in this particular set that if we want to look at the probability of the inverse image of any subset of R okay we can obtain that in terms of the probabilities of events that are associated with the inverse images of
 
 
 this kind of subjects okay that is why we are interested in this particular type of subjects
@@ -1599,21 +1228,13 @@ But you should always remember that whenever we talk of a random variable and a 
 
 as estimating the problem of estimating the probability distribution function given data i will write down on this right yeah so i just wanted to tell you that that uh that why is uh why are you working with random variables and what are random variables and what are distribution functions hope that you people are clear about this okay uh questions no sanchit
 
-### Speaker 3
+speaker_2: why are we taking the concept of Borel sigma algebra here
 
-why are we taking the concept of Borel sigma algebra here
+speaker_1: Because uh the when you have this random variable right that would take omega to r f right get pushed forward into Borel sigma algebra
 
-### Speaker 1
+speaker_2: So like for Borel sigma sigma algebra what understanding I have is it will have all possible subsets of the form A comma B
 
-Because uh the when you have this random variable right that would take omega to r f right get pushed forward into Borel sigma algebra
-
-### Speaker 3
-
-So like for Borel sigma sigma algebra what understanding I have is it will have all possible subsets of the form A comma B
-
-### Speaker 1
-
-Correct correct true That is why no f gets because you know those are the those are the elements those sets those subsets of r gets the map back to elements in f no thats why the push forward uh um push forwarding that happens from f
+speaker_1: Correct correct true That is why no f gets because you know those are the those are the elements those sets those subsets of r gets the map back to elements in f no thats why the push forward uh um push forwarding that happens from f
 
 
 Why I write random variable is Boolean algebra
@@ -1621,29 +1242,17 @@ Why I write random variable is Boolean algebra
 
 Im not Im not telling you that because as I said no you can mostly ignore this B because we are basically what Im saying is when omega gets mapped to R what happens to F F gets mapped to Borel sigma algebra thats all
 
-### Speaker 3
+speaker_2: Then sir by default the probability measure should be a length measure right
 
-Then sir by default the probability measure should be a length measure right
+speaker_1: No no no yeah not necessarily because probability measure is defined on the probability triplet no But but I mean thats a good question that you ask See we can integrate distribution functions right
 
-### Speaker 1
+speaker_2: We can what
 
-No no no yeah not necessarily because probability measure is defined on the probability triplet no But but I mean thats a good question that you ask See we can integrate distribution functions right
+speaker_1: Integrate distribution functions we can differentiate distribution functions right
 
-### Speaker 3
+speaker_2: Correct correct
 
-We can what
-
-### Speaker 1
-
-Integrate distribution functions we can differentiate distribution functions right
-
-### Speaker 3
-
-Correct correct
-
-### Speaker 1
-
-Operations of integration and differentiation are defined on Lebesgue measures
+speaker_1: Operations of integration and differentiation are defined on Lebesgue measures
 
 
 That is one of the reason yeah length measures no operations of integrations and differentiations are defined on the length measures Lebesgue measures
@@ -1657,21 +1266,13 @@ Right So once you get to the uh the the the uh the push forward or reduce space 
 
 Its the probability measure only
 
-### Speaker 3
+speaker_2: So once we have an induced probability space we have a Borel sigma algebra and correspondingly the Lebesgue or length measure
 
-So once we have an induced probability space we have a Borel sigma algebra and correspondingly the Lebesgue or length measure
+speaker_1: Correct but we are not interested in the length measure on the Borel sets gotten from the push forward induced space We are interested in the probability measure that is obtained by the inverse images on the subsets of R Because we are interested in finding out the underlying probability measure not the length measure of this Borel space
 
-### Speaker 1
+speaker_2: Okay okay
 
-Correct but we are not interested in the length measure on the Borel sets gotten from the push forward induced space We are interested in the probability measure that is obtained by the inverse images on the subsets of R Because we are interested in finding out the underlying probability measure not the length measure of this Borel space
-
-### Speaker 3
-
-Okay okay
-
-### Speaker 1
-
-Because the whole purpose is to model that picture and and map it to a gender or something right
+speaker_1: Because the whole purpose is to model that picture and and map it to a gender or something right
 
 
 We are not interested in the Lebesgue measure of this push forward space We are interested in these kinds of induced measures right which are called the probability distribution functions Yeah
@@ -1679,13 +1280,9 @@ We are not interested in the Lebesgue measure of this push forward space We are 
 
 Okay so rest of the people can ignore this discussion if it didnt make sense Okay so dont worry I mean that was like slightly off topic Okay the pian
 
-### Speaker 2
+speaker_4: So this is in the space we have data so this probability PX that is calculated based on the data or its available exclusive uh otherwise also
 
-So this is in the space we have data so this probability PX that is calculated based on the data or its available exclusive uh otherwise also
-
-### Speaker 1
-
-No it is not available no the whole problem of machine learning is to estimate the speeds we dont have the speeds with us
+speaker_1: No it is not available no the whole problem of machine learning is to estimate the speeds we dont have the speeds with us
 
 
 I will need to say that see what we have are the elements from the range space of random variable thats all that is our data
@@ -1693,32 +1290,20 @@ I will need to say that see what we have are the elements from the range space o
 
 The X will be
 
-### Speaker 4
+speaker_3: The X will be
 
-The X will be
-
-### Speaker 1
-
-Whole problem going to be to estimate it
+speaker_1: Whole problem going to be to estimate it
 
 
 Entire machine learning is estimating PX okay
 
-### Speaker 4
+speaker_3: Got it sir
 
-Got it sir
+speaker_1: Well I will define that I will define that in a while uh yes Raghuvendra
 
-### Speaker 1
+speaker_3: Yes uh in general do we also know X always or
 
-Well I will define that I will define that in a while uh yes Raghuvendra
-
-### Speaker 4
-
-Yes uh in general do we also know X always or
-
-### Speaker 1
-
-we will not know x we will only know we will only have elements from the range space of x we will not know x see when you have images right or do you have you have a lot of real numbers right each each image is a set of real numbers correct yes what is that thats actually the elements from the range space of random variable you dont know what the random variable is
+speaker_1: we will not know x we will only know we will only have elements from the range space of x we will not know x see when you have images right or do you have you have a lot of real numbers right each each image is a set of real numbers correct yes what is that thats actually the elements from the range space of random variable you dont know what the random variable is
 
 
 Im telling you again random variable is not a variable its a function so please remember that
@@ -1726,47 +1311,29 @@ Im telling you again random variable is not a variable its a function so please 
 
 Okay um is this clear uh sentence has one more question yeah sentence
 
-### Speaker 3
+speaker_2: So basically we have a probability triplet and in order to have an ease of operations we are you know inducing the concept of random variables and not only
 
-So basically we have a probability triplet and in order to have an ease of operations we are you know inducing the concept of random variables and not only
-
-### Speaker 1
-
-Not only not only that not only that right ease of operation is of course one because we can integrate and all that there is one other reason no the way i motivate it is you dont have access to omega fp
+speaker_1: Not only not only that not only that right ease of operation is of course one because we can integrate and all that there is one other reason no the way i motivate it is you dont have access to omega fp
 
 
 In in in real world what do you have access to you have access to real numbers you know how do you see real numbers as elements of omega no you cant there is something that is there is something that is
 
-### Speaker 3
+speaker_2: We just have the outcomes that are not
 
-We just have the outcomes that are not
+speaker_1: We dont even have yeah we dont even have the access to outcome we have access to some measurement of the outcome
 
-### Speaker 1
+speaker_2: Correct
 
-We dont even have yeah we dont even have the access to outcome we have access to some measurement of the outcome
+speaker_1: And how do you quantify that using math that is quantified using a random variable no
 
-### Speaker 3
+speaker_2: Correct correct correct
 
-Correct
-
-### Speaker 1
-
-And how do you quantify that using math that is quantified using a random variable no
-
-### Speaker 3
-
-Correct correct correct
-
-### Speaker 1
-
-So basically there is a function that is sitting on top of the outcomes which is giving you the real numbers That is what we have access to
+speaker_1: So basically there is a function that is sitting on top of the outcomes which is giving you the real numbers That is what we have access to
 
 
 And now since we have measure defined the probability measure on the subsets of outcomes we need an equivalence in the induced measure That is your distribution function That is your distribution function
 
-### Speaker 3
-
-I mean thats a good question
+speaker_2: I mean thats a good question
 
 
 Sort it sir
@@ -1774,9 +1341,7 @@ Sort it sir
 
 Got it sir
 
-### Speaker 1
-
-Yeah but always remember this definition is very very sacrosanct I mean this is you should remember this Whenever I talk I mean I will be talking of distribution functions all along the course Okay Whenever I talk of distribution function you should remember this You know I suggest all of you go back today after todays class sit down maybe rewatch the lecture and try to get this idea solid into your mind Okay Very very important
+speaker_1: Yeah but always remember this definition is very very sacrosanct I mean this is you should remember this Whenever I talk I mean I will be talking of distribution functions all along the course Okay Whenever I talk of distribution function you should remember this You know I suggest all of you go back today after todays class sit down maybe rewatch the lecture and try to get this idea solid into your mind Okay Very very important
 
 
 lot of people hand wave on this and wrongly represent distribution function as probability of random variable that does not make sense at all so please get this get these ideas
@@ -1784,13 +1349,9 @@ lot of people hand wave on this and wrongly represent distribution function as p
 
 Nicely into your mind okay uh in the teens
 
-### Speaker 2
+speaker_4: Here does it really matter whether we include A or B endpoints or exclude them
 
-Here does it really matter whether we include A or B endpoints or exclude them
-
-### Speaker 1
-
-Here that
+speaker_1: Here that
 
 
 It depends no you can take any set here and as I said any set can be represented using these kinds of sets thats all you can take any set you can take the inclusive inclusive sets exclusive sets doesnt matter you can represent any set like this using these kinds of sets operations on these kinds of sets okay
@@ -1798,16 +1359,12 @@ It depends no you can take any set here and as I said any set can be represented
 
 Okay great um okay bridge move one
 
-### Speaker 4
-
-Hi sir So lets say using machine learning we have successfully approximated PX which gives us basically the ability to tell how probable it is that well see a subset of event space A in real life correct Up to this point am I understanding So how does this understanding translate into us knowing about the actual underlying P of
+speaker_3: Hi sir So lets say using machine learning we have successfully approximated PX which gives us basically the ability to tell how probable it is that well see a subset of event space A in real life correct Up to this point am I understanding So how does this understanding translate into us knowing about the actual underlying P of
 
 
 So the the probability
 
-### Speaker 1
-
-So that is your p no that is p what is p p is the probability of a particular subset in f if you know that you know that thats all
+speaker_1: So that is your p no that is p what is p p is the probability of a particular subset in f if you know that you know that thats all
 
 
 See maybe you should ask a different question right why how will that be important or relevant in telling what is the gender of this particular person is right obtained from that image
@@ -1815,94 +1372,54 @@ See maybe you should ask a different question right why how will that be importa
 
 That question I have not answered yet I will answer that question But if you estimate the probability distribution function then you know everything about the underlying probability measure
 
-### Speaker 4
+speaker_3: Okay so just Ill say a statement Please help me understand where Im going wrong in this So once we approximate Px so Im thinking of Px as a function that takes an input and generates an output So the output that is generated is P is a part of P
 
-Okay so just Ill say a statement Please help me understand where Im going wrong in this So once we approximate Px so Im thinking of Px as a function that takes an input and generates an output So the output that is generated is P is a part of P
-
-### Speaker 1
-
-do you mean by output i didnt get that see the probability distribution function is a function i agree right yeah whose uh like uh whose uh range is zero to one
+speaker_1: do you mean by output i didnt get that see the probability distribution function is a function i agree right yeah whose uh like uh whose uh range is zero to one
 
 
 Ah now what is the question
 
-### Speaker 4
+speaker_3: So uh from the definition of Px what we get is the likelihood of observing A
 
-So uh from the definition of Px what we get is the likelihood of observing A
+speaker_1: No I have like have I have I defined the term likelihood
 
-### Speaker 1
+speaker_3: Uh oh okay
 
-No I have like have I have I defined the term likelihood
+speaker_1: Please dont use the term because all those are mathematically precisely well defined dont use the terms that are not defined
 
-### Speaker 4
+speaker_3: Okay so
 
-Uh oh okay
-
-### Speaker 1
-
-Please dont use the term because all those are mathematically precisely well defined dont use the terms that are not defined
-
-### Speaker 4
-
-Okay so
-
-### Speaker 1
-
-If you evaluate the distribution function at a particular point itll give you the probability of the inverse image thats all it is
+speaker_1: If you evaluate the distribution function at a particular point itll give you the probability of the inverse image thats all it is
 
 
 No yeah that is the question yeah
 
-### Speaker 4
+speaker_3: So the probability of inverse image or to go with the notations probability of the output correct
 
-So the probability of inverse image or to go with the notations probability of the output correct
-
-### Speaker 1
-
-So again there is nothing called probability of A This is again this is a notation When I evaluate the distribution function at A what am I doing is I am looking at the probability of inverse image of this particular subset That is all it is There is nothing called probability of A Please
+speaker_1: So again there is nothing called probability of A This is again this is a notation When I evaluate the distribution function at A what am I doing is I am looking at the probability of inverse image of this particular subset That is all it is There is nothing called probability of A Please
 
 
 That is the you know misrepresentation that I want to take out of your minds When you evaluate the distribution function at a point okay you are not getting the probability of that point That does not even make sense
 
-### Speaker 4
+speaker_3: Oh sorry I was not talking about small a I was talking about capital A the set
 
-Oh sorry I was not talking about small a I was talking about capital A the set
+speaker_1: Oh sorry my bad Yeah it is the probability of A correct A1 I have said it as A1 no Yeah
 
-### Speaker 1
+speaker_3: Yeah okay A1 So now the probability of A1 is actually that underlying P correct that we were talking in that first triplet
 
-Oh sorry my bad Yeah it is the probability of A correct A1 I have said it as A1 no Yeah
+speaker_1: Yeah of course no P is a function P is a function that will take an element of F and gives you a number between 0 and 1
 
-### Speaker 4
+speaker_3: Got it so I might have to
 
-Yeah okay A1 So now the probability of A1 is actually that underlying P correct that we were talking in that first triplet
+speaker_1: I have my turn
 
-### Speaker 1
+speaker_3: Yeah so am I underst uh am I correct in my understanding that the output of px on small a is actually something in the the p on the left hand side of this uh uh
 
-Yeah of course no P is a function P is a function that will take an element of F and gives you a number between 0 and 1
+speaker_1: Thats correct Thats precisely correct Yeah if you evaluate the probability distribution function right at a particular point A it will give you the same output that the probability measure right would have given on the subset A1 Correct That is correct
 
-### Speaker 4
+speaker_3: Okay yeah thank you so thats it
 
-Got it so I might have to
-
-### Speaker 1
-
-I have my turn
-
-### Speaker 4
-
-Yeah so am I underst uh am I correct in my understanding that the output of px on small a is actually something in the the p on the left hand side of this uh uh
-
-### Speaker 1
-
-Thats correct Thats precisely correct Yeah if you evaluate the probability distribution function right at a particular point A it will give you the same output that the probability measure right would have given on the subset A1 Correct That is correct
-
-### Speaker 4
-
-Okay yeah thank you so thats it
-
-### Speaker 1
-
-See that is why that is why that is why
+speaker_1: See that is why that is why that is why
 
 
 That is why capital P right is a function that would take elements of F and map it to 0 1 correct
@@ -1916,13 +1433,9 @@ You notice that the range space of both of these are same
 
 My definition my definition
 
-### Speaker 4
+speaker_3: Interesting yeah that clears it up thank you
 
-Interesting yeah that clears it up thank you
-
-### Speaker 1
-
-Okay thanks
+speaker_1: Okay thanks
 
 
 Okay anything else
@@ -1948,21 +1461,13 @@ Oh does red means that this is wrong or something when its not used red or yello
 
 We are
 
-### Speaker 2
+speaker_4: So if you change the if you change the paper colour then it will be more visible
 
-So if you change the if you change the paper colour then it will be more visible
+speaker_1: From black to white
 
-### Speaker 1
+speaker_4: White or yellow
 
-From black to white
-
-### Speaker 2
-
-White or yellow
-
-### Speaker 1
-
-is fine yeah please remember this this is the this is the message that im supposed to give today okay
+speaker_1: is fine yeah please remember this this is the this is the message that im supposed to give today okay
 
 
 Im mm
@@ -1988,13 +1493,9 @@ Like no probability theory course at all Is there anybody of anybody like that i
 
 When you raise your hands there is somebody like that
 
-### Speaker 2
+speaker_4: So can you repeat
 
-So can you repeat
-
-### Speaker 1
-
-So is there anybody who has not taken a probability theory course like ever in your life undergrad or something
+speaker_1: So is there anybody who has not taken a probability theory course like ever in your life undergrad or something
 
 
 Okay nobody good See the reason I asked is that like see all of you know these things maybe in different forms right Maybe not this rigorously or in different forms I just am trying to give you a different perspective Thats all right So yeah So you people are aware of these things know that cumulative distribution functions you have heard these terms and like you have worked with these correct Gaussian distributions and all this Have you Most of you have worked with these things
@@ -2050,13 +1551,9 @@ the distribution function of this by the way any notation that I know this is th
 
 What should I write inside the bracket now
 
-### Speaker 3
+speaker_2: x inverse and within brackets the vector
 
-x inverse and within brackets the vector
-
-### Speaker 1
-
-No no no Im evaluating it at a point The notation is that probability density distribution function is evaluated at a point And what is this point This point is now some vector A1 into correct
+speaker_1: No no no Im evaluating it at a point The notation is that probability density distribution function is evaluated at a point And what is this point This point is now some vector A1 into correct
 
 
 All of you with me on this
@@ -2070,44 +1567,26 @@ Again our own notation right it is the probability of the inverse image under x 
 
 Do you understand
 
-### Speaker 4
+speaker_3: You understand infinity to A one minus infinity to A two
 
-You understand infinity to A one minus infinity to A two
+speaker_1: Minus infinity two
 
-### Speaker 1
+speaker_3: A1 and minus infinity to A2
 
-Minus infinity two
-
-### Speaker 4
-
-A1 and minus infinity to A2
-
-### Speaker 1
-
-So what should I This is one set What should I write I should write a bracket here
+speaker_1: So what should I This is one set What should I write I should write a bracket here
 
 
 Im trying to write
 
-### Speaker 4
+speaker_3: In fact this is an area sir like uh uh uh
 
-In fact this is an area sir like uh uh uh
+speaker_4: This is also a question
 
-### Speaker 2
+speaker_1: So what should I write here tell me how should I write that
 
-This is also a question
+speaker_2: Ross
 
-### Speaker 1
-
-So what should I write here tell me how should I write that
-
-### Speaker 3
-
-Ross
-
-### Speaker 1
-
-Okay so does all of you understand this What is this cross This is what is this cross
+speaker_1: Okay so does all of you understand this What is this cross This is what is this cross
 
 
 Or the cartilage product yeah
@@ -2118,45 +1597,25 @@ Well just tell you what that means See in one dimension if you have a line there
 
 If you take a point like this is a1 comma a2 right what is the set that we are talking about now we are not talking about this as the subsets of R2 they are not lines what are they
 
-### Speaker 4
+speaker_3: Yeah
 
-Yeah
+speaker_1: uh what to call them areas
 
-### Speaker 1
+speaker_3: Playing
 
-uh what to call them areas
+speaker_1: planes yeah they are planes okay first of all subsets of r2 are planes okay so what sort of uh plane are we talking about so lets say that we have a1 comma a2 here this is where we are evaluating the distribution function what is the set that i just wrote what does that correspond to
 
-### Speaker 4
+speaker_2: Or anything to the left of
 
-Playing
+speaker_1: This is uh this is A two
 
-### Speaker 1
+speaker_2: Yeah
 
-planes yeah they are planes okay first of all subsets of r2 are planes okay so what sort of uh plane are we talking about so lets say that we have a1 comma a2 here this is where we are evaluating the distribution function what is the set that i just wrote what does that correspond to
+speaker_1: And this is A1 Now tell me what else is that Im talking about
 
-### Speaker 3
+speaker_2: towards the left of line A1 and below the line A2
 
-Or anything to the left of
-
-### Speaker 1
-
-This is uh this is A two
-
-### Speaker 3
-
-Yeah
-
-### Speaker 1
-
-And this is A1 Now tell me what else is that Im talking about
-
-### Speaker 3
-
-towards the left of line A1 and below the line A2
-
-### Speaker 1
-
-Okay so this is line
+speaker_1: Okay so this is line
 
 
 space this entire space which extends uh infinitely infinite to to infinity to in the left direction and to infinity in the bottom direction is this clear so this set
@@ -2188,13 +1647,9 @@ Can somebody tell me in bird kind of models what is the size of embedding vector
 
 BERT embedding size
 
-### Speaker 4
+speaker_3: 8 12
 
-8 12
-
-### Speaker 1
-
-Huh its poison fly for me
+speaker_1: Huh its poison fly for me
 
 
 Thank you
@@ -2250,21 +1705,13 @@ D I E or D I E what is it D I E is it no D I E
 
 EYE is colour I suppose no
 
-### Speaker 3
+speaker_2: Yes sir it should be D I E S
 
-Yes sir it should be D I E S
+speaker_1: We are eating
 
-### Speaker 1
+speaker_2: If it is singular it should be D I C E
 
-We are eating
-
-### Speaker 3
-
-If it is singular it should be D I C E
-
-### Speaker 1
-
-Times correct
+speaker_1: Times correct
 
 
 So dice being rolled okay thanks yeah so now what happens is see both of these will have their own sample spaces and underlying probability measures right lets call this p1 and there is another sample space another
@@ -2422,21 +1869,13 @@ The joint distribution divided by
 
 of entropy so it is defined mathematically uh but yeah so it always has a a corresponding uh probabilistic interpretation as we were looking at okay okay uh questions uh abirup
 
-### Speaker 2
+speaker_4: Yeah so I could not understand a couple of things can you scroll up a little bit
 
-Yeah so I could not understand a couple of things can you scroll up a little bit
+speaker_1: In which party Dr
 
-### Speaker 1
+speaker_4: Yeah after after after the vector valued when you were actually
 
-In which party Dr
-
-### Speaker 2
-
-Yeah after after after the vector valued when you were actually
-
-### Speaker 4
-
-saying that uh
+speaker_3: saying that uh
 
 
 Then uh
@@ -2444,66 +1883,40 @@ Then uh
 
 A and B they
 
-### Speaker 2
+speaker_4: I I cannot understand the notion how you can do it
 
-I I cannot understand the notion how you can do it
+speaker_1: You can know see its like you take a set uh lets say that we have two subsets of R you can define a union of both of them right why cant you do that
 
-### Speaker 1
+speaker_4: Yeah so
 
-You can know see its like you take a set uh lets say that we have two subsets of R you can define a union of both of them right why cant you do that
-
-### Speaker 2
-
-Yeah so
-
-### Speaker 4
-
-That is because in
+speaker_3: That is because in
 
 
 So for
 
-### Speaker 1
+speaker_1: Same thing Im saying youre only two types of different configuration the universal center same thing right
 
-Same thing Im saying youre only two types of different configuration the universal center same thing right
+speaker_3: So in in case of age
 
-### Speaker 4
-
-So in in case of age
-
-### Speaker 1
-
-That is why you you remember I said toss a coin roll a die
+speaker_1: That is why you you remember I said toss a coin roll a die
 
 
 Then I erase that example precisely because of this It will create confusion In the example that I have given the universal set is the comprising of roles of dice for both the cases
 
-### Speaker 2
+speaker_4: Okay so if we are considering one event space as rolling a die and another event space as tossing a coin
 
-Okay so if we are considering one event space as rolling a die and another event space as tossing a coin
+speaker_1: Then the universe will be one two six and those two things head and tail thats all
 
-### Speaker 1
+speaker_3: Oh
 
-Then the universe will be one two six and those two things head and tail thats all
+speaker_4: Uh okay so it is going to be F one union F two
 
-### Speaker 4
-
-Oh
-
-### Speaker 2
-
-Uh okay so it is going to be F one union F two
-
-### Speaker 1
-
-Of course of course sigma omega 1 cross omega 2 omega 1 cross omega 2 that would be your universal sample space
+speaker_1: Of course of course sigma omega 1 cross omega 2 omega 1 cross omega 2 that would be your universal sample space
 
 
 I didnt want to do that because of this precise reason so if you roll a die and toss a coin then how can you define unions is a question that I anticipated thats why I said roll two dice
 
-### Speaker 2
-
-Okay okay okay And also as the second question when a little bit down if you dont mind a little bit scroll down
+speaker_4: Okay okay okay And also as the second question when a little bit down if you dont mind a little bit scroll down
 
 
 Yeah so x inverse of minus infinity to a cross of y inverse of this one
@@ -2511,9 +1924,7 @@ Yeah so x inverse of minus infinity to a cross of y inverse of this one
 
 How are you replacing the cross sign with an intersection sign in the next line I have a difficulty in understanding that
 
-### Speaker 1
-
-Ah see the cross products here right in the condition this matches to one event that matches to another event right Okay So that is the intersection only
+speaker_1: Ah see the cross products here right in the condition this matches to one event that matches to another event right Okay So that is the intersection only
 
 
 Okay so the point is that here when you talk of intersection you talk of cross products of two sets is it correct
@@ -2521,59 +1932,35 @@ Okay so the point is that here when you talk of intersection you talk of cross p
 
 This is cross product of two sets so the intersection is nothing but cross product of two sets no
 
-### Speaker 2
-
-Yes
+speaker_4: Yes
 
 
 Yeah yeah
 
-### Speaker 1
-
-Thats it
+speaker_1: Thats it
 
 
 Okay service
 
-### Speaker 2
+speaker_4: is the same thing like x inverse of minus infinity a gives a
 
-is the same thing like x inverse of minus infinity a gives a
+speaker_1: That gives you P
 
-### Speaker 1
+speaker_4: gives B and same thing like it doesnt A cross B right
 
-That gives you P
+speaker_1: It is defined that way you know joint distribution is defined that way by definition
 
-### Speaker 2
+speaker_4: So its a cross product right so uh
 
-gives B and same thing like it doesnt A cross B right
+speaker_1: Correct it is by definition
 
-### Speaker 1
+speaker_4: Below it should also should be a cross be right so there will be pairs ordered pair
 
-It is defined that way you know joint distribution is defined that way by definition
+speaker_1: No no no A is no no no so there are two sets not talking about two sets here so probability is defined that is why you have
 
-### Speaker 2
+speaker_2: And B
 
-So its a cross product right so uh
-
-### Speaker 1
-
-Correct it is by definition
-
-### Speaker 2
-
-Below it should also should be a cross be right so there will be pairs ordered pair
-
-### Speaker 1
-
-No no no A is no no no so there are two sets not talking about two sets here so probability is defined that is why you have
-
-### Speaker 3
-
-And B
-
-### Speaker 1
-
-The the proper idea intersections are defined
+speaker_1: The the proper idea intersections are defined
 
 
 Okay so here the joint distributions are defined that way that if you evaluate it they are actually the intersections of see in fact I should I dont know where the definition is coming from Lets just say that these are intersections by definition And so then that will create that will clear the thing no
@@ -2584,35 +1971,23 @@ And thats thats the definition of job distribution by the yeah
 
 Okay uh Sanjay
 
-### Speaker 3
-
-if we try to understand joint distributions with an example so okay let me just uh explain what i perceived by this statement is we have we want to find the joint distribution for events where there is a three on the first die and a four on the second die okay so getting a three becomes event a and on getting a four on dice two becomes event b so we want to
+speaker_2: if we try to understand joint distributions with an example so okay let me just uh explain what i perceived by this statement is we have we want to find the joint distribution for events where there is a three on the first die and a four on the second die okay so getting a three becomes event a and on getting a four on dice two becomes event b so we want to
 
 
 So both
 
-### Speaker 1
+speaker_1: So those two those two gets mapped those two gets mapped to different uh points at the by two different random variables and you get the inverse bits thats all yeah its correct
 
-So those two those two gets mapped those two gets mapped to different uh points at the by two different random variables and you get the inverse bits thats all yeah its correct
+speaker_2: Correct correct So now when we want to find the probability that event A belongs to F1 and event B belongs to F2 so it will only be both are happening So that means we will obtain the Cartesian product of F1 and F2 and in that only point 3 comma 4 where 3 is obtained on die 1 and 4 is obtained on die 2
 
-### Speaker 3
-
-Correct correct So now when we want to find the probability that event A belongs to F1 and event B belongs to F2 so it will only be both are happening So that means we will obtain the Cartesian product of F1 and F2 and in that only point 3 comma 4 where 3 is obtained on die 1 and 4 is obtained on die 2
-
-### Speaker 1
-
-Oh stop packing
+speaker_1: Oh stop packing
 
 
 Agreed Thats thats the that thats the intersection that you have yeah
 
-### Speaker 3
+speaker_2: Yeah that is the only intersection right because otherwise since both
 
-Yeah that is the only intersection right because otherwise since both
-
-### Speaker 1
-
-Is the only
+speaker_1: Is the only
 
 
 Got it
@@ -2620,13 +1995,9 @@ Got it
 
 I understand what you see yeah okay yeah uh
 
-### Speaker 4
+speaker_3: So in this case the x and y have to be independent right
 
-So in this case the x and y have to be independent right
-
-### Speaker 1
-
-need not be if they are independent then they I mean I have not defined independence right random variables are called independent if the joint distribution happens to be product of marginals
+speaker_1: need not be if they are independent then they I mean I have not defined independence right random variables are called independent if the joint distribution happens to be product of marginals
 
 
 If they are independent then intersection is null
@@ -2634,79 +2005,45 @@ If they are independent then intersection is null
 
 They are not independent right This is the general definition General definition is one experiment
 
-### Speaker 4
+speaker_3: So there can be one experiment can be dependent on the other dep
 
-So there can be one experiment can be dependent on the other dep
-
-### Speaker 1
-
-They are they are actually I mean the moment I talk of joint distributions they are dependent now
+speaker_1: They are they are actually I mean the moment I talk of joint distributions they are dependent now
 
 
 If they are independent then the joint distribution will become the product of marginals centered
 
-### Speaker 4
+speaker_3: And no no what I meant is say for example in this case of uh rolling two die the outcome of uh the second experiment shouldnt depend on the outcome of the first
 
-And no no what I meant is say for example in this case of uh rolling two die the outcome of uh the second experiment shouldnt depend on the outcome of the first
-
-### Speaker 1
-
-And the way we have conceived it they are independent
+speaker_1: And the way we have conceived it they are independent
 
 
 Independence is if P of XY is given by PX into PY then it is independent
 
-### Speaker 4
+speaker_3: Okay but this not a necessary condition
 
-Okay but this not a necessary condition
+speaker_1: No why I mean the way we have conceived the pair of random variables is that in general they are not independent right
 
-### Speaker 1
+speaker_3: Okay okay
 
-No why I mean the way we have conceived the pair of random variables is that in general they are not independent right
+speaker_1: Uh she wont
 
-### Speaker 4
+speaker_3: Just sir I dont have any question just one uh thing that I am getting confused with small y capital Ys I last time also
 
-Okay okay
+speaker_1: So where is small by Im not in small by its all capital right now
 
-### Speaker 1
+speaker_3: Those are yeah on the conditional distribution so its all random variable right so capital Y
 
-Uh she wont
+speaker_1: Im sorry my my bag sorry
 
-### Speaker 4
+speaker_3: No so in your previous lectures also
 
-Just sir I dont have any question just one uh thing that I am getting confused with small y capital Ys I last time also
+speaker_4: The small y and capital Y we tend to use it
 
-### Speaker 1
+speaker_1: Yeah thanks for thanks for bringing that up if I make that mistake again just allow it to me okay
 
-So where is small by Im not in small by its all capital right now
+speaker_4: Thank you
 
-### Speaker 4
-
-Those are yeah on the conditional distribution so its all random variable right so capital Y
-
-### Speaker 1
-
-Im sorry my my bag sorry
-
-### Speaker 4
-
-No so in your previous lectures also
-
-### Speaker 2
-
-The small y and capital Y we tend to use it
-
-### Speaker 1
-
-Yeah thanks for thanks for bringing that up if I make that mistake again just allow it to me okay
-
-### Speaker 2
-
-Thank you
-
-### Speaker 1
-
-so so that i can i can correct myself yeah see yeah this is i think uh how what is the how many times ive taught no um 2017 is when i started this is 2024 seven years so on an average i mean not on average every time ive taught every semester theres 14 times and this online some three four times but theres 17 18 times ive taught so what
+speaker_1: so so that i can i can correct myself yeah see yeah this is i think uh how what is the how many times ive taught no um 2017 is when i started this is 2024 seven years so on an average i mean not on average every time ive taught every semester theres 14 times and this online some three four times but theres 17 18 times ive taught so what
 
 
 you are seeing now is actually uh ive done gradient descent on my teaching based on feedback every time and it has come to some optimum and that is what you are seeing so imagine what my students have the plight of my students so many years back i didnt know how to do board work right i was like in spite of doing it for 15 times 18 times sometimes the notations gets uh here and there and all that but yeah i think ive improved right
@@ -2726,17 +2063,11 @@ Okay maybe Ill take this B out Ill tell you why this why I wrote this in a while
 
 Now let us come to uh yeah independence conditional distributions joint distributions multiple tandem variables yeah one other thing that is to be defined is what is called as a probability density function
 
-### Speaker 4
+speaker_3: I dont know
 
-I dont know
+speaker_2: Im finally getting it
 
-### Speaker 3
-
-Im finally getting it
-
-### Speaker 1
-
-Was that some gali in some some language If you speak in your language that I dont understand right what can I do
+speaker_1: Was that some gali in some some language If you speak in your language that I dont understand right what can I do
 
 
 See gales make sense only if you make the other person understand what you are saying no so
@@ -2753,24 +2084,16 @@ Right evaluated at that point thats all okay Ill maybe not use A lets use some o
 
 Yeah this is the definition of the probability density function its just a derivative
 
-### Speaker 3
-
-Thats the
+speaker_2: Thats the
 
 
 or maybe I am moving ahead but just for clarification for a continuous function random variables we have CDF and PDF like cumulative distribution and probability density functions correct
 
-### Speaker 1
+speaker_1: Mm mm
 
-Mm mm
+speaker_2: And for
 
-### Speaker 3
-
-And for
-
-### Speaker 1
-
-For discrete random variables I will tell you so that will become probability mass functions Distribution functions are the same as will become probability mass functions
+speaker_1: For discrete random variables I will tell you so that will become probability mass functions Distribution functions are the same as will become probability mass functions
 
 
 Okay so good that you mentioned that See mostly in this course well be dealing with continuous random variables
@@ -2859,40 +2182,24 @@ Is this clear to all of you
 
 Okay okay so now I think we have like enough background to any questions so far Now lets come back to that problem of estimating genders from an image
 
-### Speaker 3
+speaker_2: Answer one question
 
-Answer one question
-
-### Speaker 1
-
-Uh before you ask the question uh I have a request uh with this background right you know please go back to that uh uh that you know that Goodfellows book on machine learning and read the chapter on distribution and and probability theory please so while you come to the next class I expect you I expect all of you to know all this because this actually kind of uh uh brings us to the end of uh the basic probability theory treatment
+speaker_1: Uh before you ask the question uh I have a request uh with this background right you know please go back to that uh uh that you know that Goodfellows book on machine learning and read the chapter on distribution and and probability theory please so while you come to the next class I expect you I expect all of you to know all this because this actually kind of uh uh brings us to the end of uh the basic probability theory treatment
 
 
 okay i i dont intend to teach you probability theory because i assume that you people know it but just to give this perspective i spent some time please go back and uh brush up your probability theory fundamentals before you come to the next class please do that okay questions
 
-### Speaker 3
+speaker_2: Sir so when we have the probability density function and we have px of a so there a like it does not evaluate to minus infinity comma minus a right
 
-Sir so when we have the probability density function and we have px of a so there a like it does not evaluate to minus infinity comma minus a right
+speaker_1: So again if you ta if you evaluate the probability density function at a point
 
-### Speaker 1
+speaker_2: So it it does not mean that it is a range from minus infinity comma a it is strictly an
 
-So again if you ta if you evaluate the probability density function at a point
+speaker_1: No no no no it is simply no no it is simply means that you are taking the derivative of the distribution function and evaluating that at a thats all
 
-### Speaker 3
+speaker_2: Okay
 
-So it it does not mean that it is a range from minus infinity comma a it is strictly an
-
-### Speaker 1
-
-No no no no it is simply no no it is simply means that you are taking the derivative of the distribution function and evaluating that at a thats all
-
-### Speaker 3
-
-Okay
-
-### Speaker 1
-
-evaluating the see if you suppose you plug in some value a into the Gaussian distribution and evaluate it it only means that
+speaker_1: evaluating the see if you suppose you plug in some value a into the Gaussian distribution and evaluate it it only means that
 
 
 There is an underlying random variable okay with a distribution function and that distribution function
@@ -2915,35 +2222,23 @@ If you take the range if you take the distribution density function and integrat
 
 So remember this book
 
-### Speaker 3
+speaker_2: And sub distribution
 
-And sub distribution
-
-### Speaker 1
-
-answer distribution okay let me let me tell you so suppose there is a random variable that is uniform uh ask the class ill take your question that is uniform between zero and half okay what is the density function of this
+speaker_1: answer distribution okay let me let me tell you so suppose there is a random variable that is uniform uh ask the class ill take your question that is uniform between zero and half okay what is the density function of this
 
 
 Do people know what the density function of this is Uniform random variable between 0 and A and B What is the density function of a uniform random variable between A and B
 
-### Speaker 4
-
-Zero if less than zero
+speaker_3: Zero if less than zero
 
 
 And half minus zero is the left minus the left minus zero
 
-### Speaker 2
+speaker_4: One thing
 
-One thing
+speaker_3: One by V minus there
 
-### Speaker 4
-
-One by V minus there
-
-### Speaker 1
-
-1 by b minus a 1 by b minus a row it is equal to 0 right if
+speaker_1: 1 by b minus a 1 by b minus a row it is equal to 0 right if
 
 
 Excess
@@ -2978,21 +2273,13 @@ Evaluating the density function at a point will not give you probability but int
 
 Okay uh astic
 
-### Speaker 4
+speaker_3: Yeah hi sir so uh in the above integral uh where you are integrating it from a to b
 
-Yeah hi sir so uh in the above integral uh where you are integrating it from a to b
+speaker_1: Stay
 
-### Speaker 1
+speaker_3: Mistake Yeah while you define the derivative there also it should be a small x right where you take the derivative
 
-Stay
-
-### Speaker 4
-
-Mistake Yeah while you define the derivative there also it should be a small x right where you take the derivative
-
-### Speaker 1
-
-It depends It depends I mean if its a if its a if its a scalar valued random variable then its small x right If its a vector valued random variable what happens Its the gradient that we define Thats all right because the you understand
+speaker_1: It depends It depends I mean if its a if its a if its a scalar valued random variable then its small x right If its a vector valued random variable what happens Its the gradient that we define Thats all right because the you understand
 
 
 Okay uh so this is clear
@@ -3003,13 +2290,9 @@ So when does our class end it is it at 12 or at 12 15
 
 I think so
 
-### Speaker 2
+speaker_4: Thats 1215 1215
 
-Thats 1215 1215
-
-### Speaker 1
-
-Can I continue for 10 15 more minutes
+speaker_1: Can I continue for 10 15 more minutes
 
 
 Okay because now this actually is a nice time to stop Yeah no we have topic wise and say we have come to the end of this
@@ -3140,17 +2423,11 @@ Is this clear
 
 I just wanted to give you this world view right I mean had you knew this then I would have not spent those three hours so this is the world view that I want you to have please ask me questions if if you need clarifications at this point yeah in the genes
 
-### Speaker 2
+speaker_4: Yeah just trying to get how did you get sixty thousand on R
 
-Yeah just trying to get how did you get sixty thousand on R
+speaker_1: See every image right you have image is a 67 dimensional vector no right I mean 200 pixels horizontally 300 pixels vertically so this is the one real number second real number third real number fourth I have just tagged them as columns and made it a long vector of 67 dimensional
 
-### Speaker 1
-
-See every image right you have image is a 67 dimensional vector no right I mean 200 pixels horizontally 300 pixels vertically so this is the one real number second real number third real number fourth I have just tagged them as columns and made it a long vector of 67 dimensional
-
-### Speaker 2
-
-I read that as 30 C
+speaker_4: I read that as 30 C
 
 
 I didnt read 300 it was looking like 30 C yeah
@@ -3158,31 +2435,21 @@ I didnt read 300 it was looking like 30 C yeah
 
 Yes whatever confusing yeah its clear
 
-### Speaker 1
-
-Yeah
+speaker_1: Yeah
 
 
 If its word embedding no then it is some 786 7 703 dimensional vector it doesnt matter depends on what your data is uh I mean
 
-### Speaker 4
+speaker_3: Yeah so I have a question So regarding the you said that the these x1 x2 x3 these are the these belong to the range space of the random variable function And there is a probability
 
-Yeah so I have a question So regarding the you said that the these x1 x2 x3 these are the these belong to the range space of the random variable function And there is a probability
-
-### Speaker 1
-
-Yeah but I I I I I like your random variable function
+speaker_1: Yeah but I I I I I like your random variable function
 
 
 thats thats what it is okay yeah but nobody calls it unfortunately a random variable function but thats what it is yes move on please
 
-### Speaker 4
+speaker_3: yeah so uh so the probability distribution
 
-yeah so uh so the probability distribution
-
-### Speaker 1
-
-No no no no no hold on again now what do you mean by probability distribution function of outcomes thats not a well defined term
+speaker_1: No no no no no hold on again now what do you mean by probability distribution function of outcomes thats not a well defined term
 
 
 Probability measures are defined on over outcomes
@@ -3193,232 +2460,132 @@ not distribution functions
 
 Are you asking how will they will probably measure relative distribution function
 
-### Speaker 4
+speaker_3: Yeah yeah
 
-Yeah yeah
-
-### Speaker 1
-
-That is by definition now we have defined that here
+speaker_1: That is by definition now we have defined that here
 
 
 That green thing this is how they are related
 
-### Speaker 4
+speaker_3: Okay okay then uh my question is
 
-Okay okay then uh my question is
+speaker_1: This is all related no Yeah
 
-### Speaker 1
+speaker_3: Yeah then my question is that how are these two probability measures they are related I mean how are they related they are
 
-This is all related no Yeah
-
-### Speaker 4
-
-Yeah then my question is that how are these two probability measures they are related I mean how are they related they are
-
-### Speaker 1
-
-There are no two probability measures there is only one probability measure there is a distribution function
+speaker_1: There are no two probability measures there is only one probability measure there is a distribution function
 
 
 Where are two probability measures here There is only one probability measure no
 
-### Speaker 4
+speaker_3: Oh
 
-Oh
+speaker_1: But thats
 
-### Speaker 1
+speaker_3: No any
 
-But thats
+speaker_1: Any questions
 
-### Speaker 4
+speaker_3: somewhere in the in the top you mentioned like you know that we have a uh outcomes and we have a set of events and we have a random variable which maps them to certain real numbers and we have a borel sigma algebra and a probability measure
 
-No any
+speaker_1: Not probability its not probability measure it is an induced measure induced measure induced measure is called distribution function
 
-### Speaker 1
+speaker_4: Okay okay
 
-Any questions
+speaker_1: The induced measure itself is called distribution function
 
-### Speaker 4
+speaker_4: Okay okay
 
-somewhere in the in the top you mentioned like you know that we have a uh outcomes and we have a set of events and we have a random variable which maps them to certain real numbers and we have a borel sigma algebra and a probability measure
+speaker_3: So P one
 
-### Speaker 1
-
-Not probability its not probability measure it is an induced measure induced measure induced measure is called distribution function
-
-### Speaker 2
-
-Okay okay
-
-### Speaker 1
-
-The induced measure itself is called distribution function
-
-### Speaker 2
-
-Okay okay
-
-### Speaker 4
-
-So P one
-
-### Speaker 1
-
-There are no two measures there is only one measure two measures will come into picture only if you have two random variables if you have a single random variable you only have one
+speaker_1: There are no two measures there is only one measure two measures will come into picture only if you have two random variables if you have a single random variable you only have one
 
 
 Measure state and one distribution function
 
-### Speaker 4
-
-So I Im not even sure whether my question is correct or not if it is wrong then please correct me then how are P1 and Px they are related
+speaker_3: So I Im not even sure whether my question is correct or not if it is wrong then please correct me then how are P1 and Px they are related
 
 
 And this and this
 
-### Speaker 1
+speaker_1: This is when you have two random variables okay are you talking about multiple random variables or a single random variable
 
-This is when you have two random variables okay are you talking about multiple random variables or a single random variable
-
-### Speaker 4
-
-People are not very well so as to
+speaker_3: People are not very well so as to
 
 
 single random variable or the equations which we are just clashing
 
-### Speaker 1
+speaker_1: Which ones this ones
 
-Which ones this ones
-
-### Speaker 2
-
-The place where you have written the induced thing like the X the X over the arrow
+speaker_4: The place where you have written the induced thing like the X the X over the arrow
 
 
 You just run past
 
-### Speaker 4
-
-This one this one
+speaker_3: This one this one
 
 
 Not exactly you just went past it okay maybe I can just uh
 
-### Speaker 1
+speaker_1: Yeah thats right
 
-Yeah thats right
+speaker_3: Yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah
 
-### Speaker 4
+speaker_1: Here here there are two writing variables
 
-Yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah
-
-### Speaker 1
-
-Here here there are two writing variables
-
-### Speaker 4
-
-Yeah but on the left hand side you have written omega one f one p one and there is an arrow where x is a random variable and this
+speaker_3: Yeah but on the left hand side you have written omega one f one p one and there is an arrow where x is a random variable and this
 
 
 real numbers our set of real numbers v is the vector signal and px
 
-### Speaker 1
+speaker_1: is the induced measure under that random variable f it is one there is one distribution function the induced measure itself is a distribution function
 
-is the induced measure under that random variable f it is one there is one distribution function the induced measure itself is a distribution function
+speaker_3: Okay okay
 
-### Speaker 4
+speaker_1: And another random variable introduces another distribution function and there is another standard link measure
 
-Okay okay
+speaker_3: So people want
 
-### Speaker 1
+speaker_1: Every random variable has a measure
 
-And another random variable introduces another distribution function and there is another standard link measure
+speaker_3: Okay okay
 
-### Speaker 4
+speaker_1: Measure P1 get induced to distribution function Px measure P2 gets induced to distribution function Py
 
-So people want
+speaker_4: Okay okay okay
 
-### Speaker 1
+speaker_1: Send okay
 
-Every random variable has a measure
+speaker_4: Okay yeah yeah
 
-### Speaker 4
-
-Okay okay
-
-### Speaker 1
-
-Measure P1 get induced to distribution function Px measure P2 gets induced to distribution function Py
-
-### Speaker 2
-
-Okay okay okay
-
-### Speaker 1
-
-Send okay
-
-### Speaker 2
-
-Okay yeah yeah
-
-### Speaker 1
-
-But here right when we are talking about data there is only one measure that we are talking about and there is only one distribution function
+speaker_1: But here right when we are talking about data there is only one measure that we are talking about and there is only one distribution function
 
 
 He said okay
 
-### Speaker 4
+speaker_3: Yeah so
 
-Yeah so
+speaker_1: Any other question on this
 
-### Speaker 1
+speaker_4: Yeah answer you are considering black and white picture because otherwise it would be
 
-Any other question on this
+speaker_1: No way
 
-### Speaker 2
+speaker_4: Uh I recall they said
 
-Yeah answer you are considering black and white picture because otherwise it would be
+speaker_1: No every pixel is a real number no
 
-### Speaker 1
+speaker_4: So yeah you are multiplying 200 by 100 so what you are saying
 
-No way
+speaker_1: Now what you are saying is uh what you are saying is there should be another three channel image here not 200 plus 300 plus 3
 
-### Speaker 2
+speaker_4: Yeah right
 
-Uh I recall they said
+speaker_1: If its three then you multiply this with three no thats all it is like one lakh eighteen thousand dimensional thats all yeah
 
-### Speaker 1
+speaker_4: Oh oh
 
-No every pixel is a real number no
-
-### Speaker 2
-
-So yeah you are multiplying 200 by 100 so what you are saying
-
-### Speaker 1
-
-Now what you are saying is uh what you are saying is there should be another three channel image here not 200 plus 300 plus 3
-
-### Speaker 2
-
-Yeah right
-
-### Speaker 1
-
-If its three then you multiply this with three no thats all it is like one lakh eighteen thousand dimensional thats all yeah
-
-### Speaker 2
-
-Oh oh
-
-### Speaker 1
-
-For now Im for the sake of ease no it doesnt matter I mean you should understand that the data dimension doesnt matter because it can be anything it can be a picture it can be some 30 dimensional speech vector it can be some bird embedding it doesnt matter what it is
+speaker_1: For now Im for the sake of ease no it doesnt matter I mean you should understand that the data dimension doesnt matter because it can be anything it can be a picture it can be some 30 dimensional speech vector it can be some bird embedding it doesnt matter what it is
 
 
 This will be an example So in general right in general I want to generalize this idea I have to just say that all data is in some d dimensional space thats all
@@ -3426,13 +2593,9 @@ This will be an example So in general right in general I want to generalize this
 
 Right So if its an image then it has 16000 dimensional If its a bird if its bird embedding its 7000 dimensional or whatever
 
-### Speaker 2
+speaker_4: Yeah thanks
 
-Yeah thanks
-
-### Speaker 1
-
-Okay any other questions
+speaker_1: Okay any other questions
 
 
 Okay now suppose that take another example another scenario where suppose we have images same thing we have thousand images
@@ -3545,89 +2708,53 @@ person but one
 
 Yes I can hear you
 
-### Speaker 4
+speaker_3: Yeah so in the last slide I think you explained about x and y random variable function So what is the relation
 
-Yeah so in the last slide I think you explained about x and y random variable function So what is the relation
-
-### Speaker 2
-
-between omega 1 and omega 2 here
+speaker_4: between omega 1 and omega 2 here
 
 
 Theyre on it
 
-### Speaker 1
+speaker_1: Yeah there are two sets basically right I mean theres no relation per se
 
-Yeah there are two sets basically right I mean theres no relation per se
+speaker_4: But whatever the
 
-### Speaker 2
-
-But whatever the
-
-### Speaker 1
-
-But you can you can conceive you can talk of intersections and unions between those two elements thats all
+speaker_1: But you can you can conceive you can talk of intersections and unions between those two elements thats all
 
 
 Right Those two are the two sample spaces I mean those are samples Those two are sample spaces that would that would encompass the outcomes of these two random experiments But these two random experiments are not independent right Quote unquote independent in the sense that they are connected
 
-### Speaker 2
+speaker_4: Yeah only for the images that you have taken like you will assign the number
 
-Yeah only for the images that you have taken like you will assign the number
+speaker_1: A true monumental
 
-### Speaker 1
+speaker_4: So basically like
 
-A true monumental
-
-### Speaker 2
-
-So basically like
-
-### Speaker 1
-
-Remember you sample an image yeah you sample an image you sample a number and do associate them using unions and intersections
+speaker_1: Remember you sample an image yeah you sample an image you sample a number and do associate them using unions and intersections
 
 
 Uh yeah
 
-### Speaker 4
+speaker_3: Sir do we know this PX or PXY in this case No
 
-Sir do we know this PX or PXY in this case No
+speaker_1: No we dont Thats the whole problem in machine learning The machine learning is if I have to summarize machine learning in one sentence it is this given the estimate px thats all That is machine learning ChatGPT is that only
 
-### Speaker 1
+speaker_3: But be honest
 
-No we dont Thats the whole problem in machine learning The machine learning is if I have to summarize machine learning in one sentence it is this given the estimate px thats all That is machine learning ChatGPT is that only
+speaker_1: We will use multiple techniques to estimate p x given d yes
 
-### Speaker 4
-
-But be honest
-
-### Speaker 1
-
-We will use multiple techniques to estimate p x given d yes
-
-### Speaker 4
-
-This is a good time to start this game
+speaker_3: This is a good time to start this game
 
 
 EX or PXY
 
-### Speaker 1
+speaker_1: It depends no in in unsupervised learning you could estimate p x y p x in supervised machine learning you estimate p x in fact in supervised machine learning you estimate p y given x Ill tell you next time you estimate the conditional distribution
 
-It depends no in in unsupervised learning you could estimate p x y p x in supervised machine learning you estimate p x in fact in supervised machine learning you estimate p y given x Ill tell you next time you estimate the conditional distribution
+speaker_3: Given given X
 
-### Speaker 4
+speaker_1: Ill tell you in the next class that gender given image
 
-Given given X
-
-### Speaker 1
-
-Ill tell you in the next class that gender given image
-
-### Speaker 4
-
-And okay because
+speaker_3: And okay because
 
 
 Okay because these are sampled from those distributions we say that uh these they are kind of representative of the
@@ -3635,17 +2762,11 @@ Okay because these are sampled from those distributions we say that uh these the
 
 Uh the the actual distribution
 
-### Speaker 1
+speaker_1: So they are actually sampled from the underlying distribution no they are they are completely sampled from the underlying distribution okay
 
-So they are actually sampled from the underlying distribution no they are they are completely sampled from the underlying distribution okay
+speaker_3: Okay okay
 
-### Speaker 4
-
-Okay okay
-
-### Speaker 1
-
-Ah but the problem is the one big problem with the statistics is right if when you are given samples from a distribution how do you estimate the underlying distribution is the biggest problem in statistics Giving samples from a distribution is not enough to estimate the com estimate completely the underlying distribution
+speaker_1: Ah but the problem is the one big problem with the statistics is right if when you are given samples from a distribution how do you estimate the underlying distribution is the biggest problem in statistics Giving samples from a distribution is not enough to estimate the com estimate completely the underlying distribution
 
 
 That is why no it is machine learning is heavily depend on the number of data points The more the number of data points that we have from the distribution the better our estimation will be We will see all that in the next class That is what I will do in the next class
@@ -3653,21 +2774,13 @@ That is why no it is machine learning is heavily depend on the number of data po
 
 Okay thats because
 
-### Speaker 4
+speaker_3: Thats because of either noise or maybe some something that we have not observed
 
-Thats because of either noise or maybe some something that we have not observed
+speaker_1: something that we have not observed no no no no i dont call it noise or anything okay theres something called last last numbers i will describe all that in the next class
 
-### Speaker 1
+speaker_3: Okay yeah I think its a
 
-something that we have not observed no no no no i dont call it noise or anything okay theres something called last last numbers i will describe all that in the next class
-
-### Speaker 4
-
-Okay yeah I think its a
-
-### Speaker 1
-
-Yeah so basically from take home takeaway from this class is that when you have data you should start representing data right as
+speaker_1: Yeah so basically from take home takeaway from this class is that when you have data you should start representing data right as
 
 
 uh samples from the in space of uh elements from the in space of the random variable and when you when we say that there is a distribution associated with it you should know that it is the induced probability measure that is coming from coming through the random variable that is the biggest take home
@@ -3699,101 +2812,59 @@ Uh yeah Prasanna
 
 person but one
 
-### Speaker 2
+speaker_4: Can you hear me sir
 
-Can you hear me sir
+speaker_1: Yes I can hear you
 
-### Speaker 1
-
-Yes I can hear you
-
-### Speaker 2
-
-Yeah so in the last slide I think you explained about x and y random variable function So what is the relation between omega 1 and omega 2 here
+speaker_4: Yeah so in the last slide I think you explained about x and y random variable function So what is the relation between omega 1 and omega 2 here
 
 
 So dont mess with it
 
-### Speaker 1
+speaker_1: Yeah there are two sets basically right I mean theres no relation per se
 
-Yeah there are two sets basically right I mean theres no relation per se
+speaker_4: But whatever the
 
-### Speaker 2
-
-But whatever the
-
-### Speaker 1
-
-You can you can conceive you can talk of intersections and unions between those two elements thats all
+speaker_1: You can you can conceive you can talk of intersections and unions between those two elements thats all
 
 
 Those two are the two sample spaces I mean those two are samples those two are sample spaces that would that would encompass the outcomes of these two random experiments But these two random experiments are not independent right Quote unquote independent in the sense that they are connected
 
-### Speaker 2
+speaker_4: Yeah images that you have taken like you will assign the number
 
-Yeah images that you have taken like you will assign the number
+speaker_1: Thats true
 
-### Speaker 1
+speaker_4: So basically like
 
-Thats true
-
-### Speaker 2
-
-So basically like
-
-### Speaker 1
-
-So you sample an image yeah you sample an image you sample a number as to associate them using unions and intersections
+speaker_1: So you sample an image yeah you sample an image you sample a number as to associate them using unions and intersections
 
 
 Uh yeah
 
-### Speaker 4
+speaker_3: Sir do we know this PX or PXY in this case
 
-Sir do we know this PX or PXY in this case
+speaker_1: No we dont Thats the whole problem in machine learning The machine learning is if I have to summarize machine learning in one sentence it is this given D estimate P X Thats all That is machine learning Chat GPT is that only
 
-### Speaker 1
+speaker_3: To be honest
 
-No we dont Thats the whole problem in machine learning The machine learning is if I have to summarize machine learning in one sentence it is this given D estimate P X Thats all That is machine learning Chat GPT is that only
+speaker_1: We will see what the depth needs to estimate PF given D yes
 
-### Speaker 4
-
-To be honest
-
-### Speaker 1
-
-We will see what the depth needs to estimate PF given D yes
-
-### Speaker 4
-
-It was a good time to speak
+speaker_3: It was a good time to speak
 
 
 EX or PXY
 
-### Speaker 1
+speaker_1: Depends no in unsupervised learning you estimate Pxy Px In supervised machine learning you estimate Px In fact in supervised machine learning you estimate Py given X Ill tell you next time you estimate the conditional distribution
 
-Depends no in unsupervised learning you estimate Pxy Px In supervised machine learning you estimate Px In fact in supervised machine learning you estimate Py given X Ill tell you next time you estimate the conditional distribution
+speaker_3: Hey Mike
 
-### Speaker 4
+speaker_1: Give me a minute
 
-Hey Mike
+speaker_3: Given X given Y okay
 
-### Speaker 1
+speaker_1: Ill tell you in the next class that gender given image
 
-Give me a minute
-
-### Speaker 4
-
-Given X given Y okay
-
-### Speaker 1
-
-Ill tell you in the next class that gender given image
-
-### Speaker 4
-
-And uh okay because
+speaker_3: And uh okay because
 
 
 Okay because these are sampled from those distributions we say that uh these they are kind of representative of the
@@ -3801,17 +2872,11 @@ Okay because these are sampled from those distributions we say that uh these the
 
 Uh the the actual distribution
 
-### Speaker 1
+speaker_1: So they are actually separate from the underlying distribution no they are they are completely separate from the underlying distribution okay
 
-So they are actually separate from the underlying distribution no they are they are completely separate from the underlying distribution okay
+speaker_3: Okay okay
 
-### Speaker 4
-
-Okay okay
-
-### Speaker 1
-
-Ah but the problem is the one big problem with the statistics is right if when you are given samples from a distribution how do you estimate the underlying distribution is the biggest problem in statistics Giving samples from a distribution is not enough to estimate the com estimate completely the underlying distribution
+speaker_1: Ah but the problem is the one big problem with the statistics is right if when you are given samples from a distribution how do you estimate the underlying distribution is the biggest problem in statistics Giving samples from a distribution is not enough to estimate the com estimate completely the underlying distribution
 
 
 That is why you know it is machine learning is heavily depend on the number of data points The more the number of data points that we have from the distribution the better our estimation will be We will see all that in the next class That is what I will do in the next class
@@ -3819,21 +2884,13 @@ That is why you know it is machine learning is heavily depend on the number of d
 
 Okay thats because
 
-### Speaker 4
+speaker_3: Okay thats because of either noise or maybe some something that we have not observed
 
-Okay thats because of either noise or maybe some something that we have not observed
+speaker_1: something that we have not observed no no no no dont call it noise or anything okay theres something called last last numbers i will describe all that in the next class
 
-### Speaker 1
+speaker_3: Okay yeah I think its a
 
-something that we have not observed no no no no dont call it noise or anything okay theres something called last last numbers i will describe all that in the next class
-
-### Speaker 4
-
-Okay yeah I think its a
-
-### Speaker 1
-
-yeah so basically the take out take away from this class is that when you have data you should start representing data right as as uh samples from the range space of uh elements from the range space of the random variable and when you when we say that there is a distribution associated with it you should know that it is the induced probability measure that is coming from coming through the random variable that is the biggest take home
+speaker_1: yeah so basically the take out take away from this class is that when you have data you should start representing data right as as uh samples from the range space of uh elements from the range space of the random variable and when you when we say that there is a distribution associated with it you should know that it is the induced probability measure that is coming from coming through the random variable that is the biggest take home
 
 
 Is that clear

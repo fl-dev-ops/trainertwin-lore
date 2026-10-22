@@ -19,8 +19,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -28,10 +28,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And yeah I grew so much back then
 
-And yeah I grew so much back then
-
-### Speaker 2 · Speaker 2
-
-Yeah it must have been a great journey and uh and I mean its its always down to patience isnt it So your patience to to take it easy and start understanding but also other peoples patience you know to listen to you and to to help you and to support you Uh so this is yeah one thing I always see its always an exercise in patience
+speaker_2: Yeah it must have been a great journey and uh and I mean its its always down to patience isnt it So your patience to to take it easy and start understanding but also other peoples patience you know to listen to you and to to help you and to support you Uh so this is yeah one thing I always see its always an exercise in patience

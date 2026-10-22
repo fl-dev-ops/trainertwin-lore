@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Yeah probably it was very easy in the first day in Israel I already uh felt at home and uh also I I I left Israel to Portugal It was very easy to adapt to Portugal I know the language and things like that Also coming to Spain it was not difficult
+speaker_1: Yeah probably it was very easy in the first day in Israel I already uh felt at home and uh also I I I left Israel to Portugal It was very easy to adapt to Portugal I know the language and things like that Also coming to Spain it was not difficult

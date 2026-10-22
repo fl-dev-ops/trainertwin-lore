@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And let me explain that with a simple picture when it comes to three different systems in the brain because you also have the yellow light And Ill start with the yellow light So here what you see here right now is a person with a brain right The system in the brain that is active when its a yellow light is the drive system or sometimes also called exploring system
+speaker_1: And let me explain that with a simple picture when it comes to three different systems in the brain because you also have the yellow light And Ill start with the yellow light So here what you see here right now is a person with a brain right The system in the brain that is active when its a yellow light is the drive system or sometimes also called exploring system
 
 
 We need that system in order for us to you know find uh berries or kill bears You know we get a dopamine rush by and a reward by by finding something that were after

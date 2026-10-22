@@ -8,59 +8,38 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 11 - Deep Generative Models Diffusion models part 1 Formulation
 
 ## Transcript
 
+speaker_1: of us have marked in the quiz but the answer is saying increased disentanglement on increasing beta
 
-### Speaker 1
+speaker_2: One second
 
-of us have marked in the quiz but the answer is saying increased disentanglement on increasing beta
+speaker_1: Yeah I have pasted it
 
-### Speaker 2
+speaker_2: And I have a question
 
-One second
+speaker_1: Yeah Ive pasted the snippets
 
-### Speaker 1
-
-Yeah I have pasted it
-
-### Speaker 2
-
-And I have a question
-
-### Speaker 1
-
-Yeah Ive pasted the snippets
-
-### Speaker 3
-
-Seems like
+speaker_3: Seems like
 
 
 there should be decreased disentanglement with reduced reconstruction quality
 
-### Speaker 1
+speaker_1: Ive been trying
 
-Ive been trying
+speaker_2: Come again so has
 
-### Speaker 2
+speaker_3: It says it should actually the correct option should be decreased descent angle right But the option that is marked correct is increased descent angle
 
-Come again so has
-
-### Speaker 3
-
-It says it should actually the correct option should be decreased descent angle right But the option that is marked correct is increased descent angle
-
-### Speaker 2
-
-Yeah it should be decreased over time What is it saying If beta is increased what will happen is that the weight for the KL is increased If the weight for the KL is increased then
+speaker_2: Yeah it should be decreased over time What is it saying If beta is increased what will happen is that the weight for the KL is increased If the weight for the KL is increased then
 
 
 Should be
@@ -77,17 +56,11 @@ What is the correct answer given now increase the entanglement reduce the constr
 
 No that is not correct Okay so can we change this like and
 
-### Speaker 3
+speaker_3: Yeah Ill Ill change the
 
-Yeah Ill Ill change the
+speaker_4: But sir is it uh like whenever we are increasing the beta it will be a stronger penalty on KL divergence which is promoting the disengagement and because its not private
 
-### Speaker 4
-
-But sir is it uh like whenever we are increasing the beta it will be a stronger penalty on KL divergence which is promoting the disengagement and because its not private
-
-### Speaker 2
-
-No it is not right No see because thats what I told you right the word disentanglement refers to having different posteriors for all x and for each x
+speaker_2: No it is not right No see because thats what I told you right the word disentanglement refers to having different posteriors for all x and for each x
 
 
 That is not happening no if you if you increase beta r
@@ -95,55 +68,33 @@ That is not happening no if you if you increase beta r
 
 Posterior collapse would be more isnt it
 
-### Speaker 4
+speaker_4: the potential cost uh sir when we are giving a higher value of beta uh what we are saying is that in the overall loss minimization we have to minimize kl divergence
 
-the potential cost uh sir when we are giving a higher value of beta uh what we are saying is that in the overall loss minimization we have to minimize kl divergence
+speaker_1: loss more than we have to minimize reconstruction loss
 
-### Speaker 1
+speaker_2: Correct correct
 
-loss more than we have to minimize reconstruction loss
+speaker_1: So if we are reducing if we are increasing beta eventually what we are doing is we are ensuring that KL divergence loss comes down further which means disentanglement is going to increase
 
-### Speaker 2
-
-Correct correct
-
-### Speaker 1
-
-So if we are reducing if we are increasing beta eventually what we are doing is we are ensuring that KL divergence loss comes down further which means disentanglement is going to increase
-
-### Speaker 2
-
-We said it
+speaker_2: We said it
 
 
 disentanglement is going to decrease no if the KL is reduced further that is what I am saying if the KL is see first understand that reduction of KL is inverse I mean is inversely proportional to in in disentanglement
 
-### Speaker 1
+speaker_1: Right so dissing and entanglement should increase when KL divergence is reducing right
 
-Right so dissing and entanglement should increase when KL divergence is reducing right
+speaker_2: Yeah
 
-### Speaker 2
+speaker_1: So then the marked answer is right increase disentanglement will reduce the confusion
 
-Yeah
+speaker_2: I think when multiple sources online say the same thing but uh no hold on I think Im getting confused lets see there is a double meaning
 
-### Speaker 1
-
-So then the marked answer is right increase disentanglement will reduce the confusion
-
-### Speaker 2
-
-I think when multiple sources online say the same thing but uh no hold on I think Im getting confused lets see there is a double meaning
-
-### Speaker 4
-
-Ill bet
+speaker_4: Ill bet
 
 
 There is a double N and a centangle and a centangle
 
-### Speaker 2
-
-Let me let me let me make it clear for myself and then well discuss now beta is increasing beta is increasing meaning kl is reduced further if the kl is reduced further then the disentanglement
+speaker_2: Let me let me let me make it clear for myself and then well discuss now beta is increasing beta is increasing meaning kl is reduced further if the kl is reduced further then the disentanglement
 
 
 will decrease
@@ -151,158 +102,86 @@ will decrease
 
 Because disentanglement uh kale is reducing further the disentanglement has to reduce correct
 
-### Speaker 1
+speaker_1: The entanglement has to reduce
 
-The entanglement has to reduce
-
-### Speaker 2
-
-no no kale reduction is entang entang entang entanglement reduction see suppose kale is zero okay if if kale is zero then what happens if kale is zero the entanglement would be increased right because all of them are collapsing to z given sorry normal zero one isnt it
+speaker_2: no no kale reduction is entang entang entang entanglement reduction see suppose kale is zero okay if if kale is zero then what happens if kale is zero the entanglement would be increased right because all of them are collapsing to z given sorry normal zero one isnt it
 
 
 Is it dead
 
-### Speaker 1
+speaker_1: Maybe
 
-Maybe
+speaker_4: Maybe so we will come back with the proper way of this
 
-### Speaker 4
+speaker_3: I think uh entanglement
 
-Maybe so we will come back with the proper way of this
+speaker_4: Whenever we increase the beta it will increase the means at the cost of KL diversion it will reduce the quality of reconstruction and increase the t angle mid
 
-### Speaker 3
+speaker_1: And yeah I need to do your notes again
 
-I think uh entanglement
+speaker_4: But yeah I need to do your notes again
 
-### Speaker 4
+speaker_1: If the disentanglement is reducing it means for any input the latent variable space is going to be almost similar which means the reconstruction quality should be reducing
 
-Whenever we increase the beta it will increase the means at the cost of KL diversion it will reduce the quality of reconstruction and increase the t angle mid
+speaker_2: Reconstruction quality reducing that is definite there is no question there
 
-### Speaker 1
+speaker_1: Right so basically we cannot have a scenario where disentanglement reduces and reconstruction quality increases
 
-And yeah I need to do your notes again
+speaker_2: We cannot have it
 
-### Speaker 4
+speaker_4: I mean what what do we mean by entanglement So for example if the posterior becomes normal has the entanglement increased or decreased
 
-But yeah I need to do your notes again
+speaker_1: So what my understanding is that entanglement being higher means that for any input image that we are giving the latent space is coming out to be almost similar That is why there is an entanglement in the latent space for any input image is coming out to be similar
 
-### Speaker 1
+speaker_2: That is correct that is correct
 
-If the disentanglement is reducing it means for any input the latent variable space is going to be almost similar which means the reconstruction quality should be reducing
-
-### Speaker 2
-
-Reconstruction quality reducing that is definite there is no question there
-
-### Speaker 1
-
-Right so basically we cannot have a scenario where disentanglement reduces and reconstruction quality increases
-
-### Speaker 2
-
-We cannot have it
-
-### Speaker 4
-
-I mean what what do we mean by entanglement So for example if the posterior becomes normal has the entanglement increased or decreased
-
-### Speaker 1
-
-So what my understanding is that entanglement being higher means that for any input image that we are giving the latent space is coming out to be almost similar That is why there is an entanglement in the latent space for any input image is coming out to be similar
-
-### Speaker 2
-
-That is correct that is correct
-
-### Speaker 1
-
-So if we are saying that we are giving more weightage to the KL divergence we are going to basically try to ensure that the entanglement reduces
+speaker_1: So if we are saying that we are giving more weightage to the KL divergence we are going to basically try to ensure that the entanglement reduces
 
 
 So when posterior becomes normal
 
-### Speaker 4
+speaker_4: When posterior becomes normal
 
-When posterior becomes normal
+speaker_1: No and the angle point increases
 
-### Speaker 1
+speaker_4: and angle point increases more weightage to KL means angle point becomes close to normal
 
-No and the angle point increases
+speaker_2: All of a sudden it will become
 
-### Speaker 4
+speaker_1: Uh but but but
 
-and angle point increases more weightage to KL means angle point becomes close to normal
-
-### Speaker 2
-
-All of a sudden it will become
-
-### Speaker 1
-
-Uh but but but
-
-### Speaker 4
-
-KL is a loss KL is a loss
+speaker_4: KL is a loss KL is a loss
 
 
 If we are multiplying with the
 
-### Speaker 1
+speaker_1: There is a minimization operation happening When we are giving more weightage to beta we are going to further reduce the value of KL divergence which means we are going to reduce the entanglement
 
-There is a minimization operation happening When we are giving more weightage to beta we are going to further reduce the value of KL divergence which means we are going to reduce the entanglement
+speaker_2: We all agree that
 
-### Speaker 2
+speaker_1: You all agree with that
 
-We all agree that
+speaker_2: If the KL has decreased then the posterior becomes normal right We all agree on that
 
-### Speaker 1
+speaker_3: Yeah
 
-You all agree with that
+speaker_2: So does this mean entanglement has increased or decreased
 
-### Speaker 2
+speaker_3: Its maximum entanglement right When your posterior has become a normal thats what people are trying to say
 
-If the KL has decreased then the posterior becomes normal right We all agree on that
+speaker_2: So antangleman has increased right
 
-### Speaker 3
+speaker_1: Thanks for having me on the show
 
-Yeah
+speaker_4: Do you see my screen
 
-### Speaker 2
+speaker_1: Yes yes
 
-So does this mean entanglement has increased or decreased
+speaker_4: Can you read whatever whatever I have uh highlighted
 
-### Speaker 3
+speaker_1: Is that any sea
 
-Its maximum entanglement right When your posterior has become a normal thats what people are trying to say
-
-### Speaker 2
-
-So antangleman has increased right
-
-### Speaker 1
-
-Thanks for having me on the show
-
-### Speaker 4
-
-Do you see my screen
-
-### Speaker 1
-
-Yes yes
-
-### Speaker 4
-
-Can you read whatever whatever I have uh highlighted
-
-### Speaker 1
-
-Is that any sea
-
-### Speaker 2
-
-Can you see what I have highlighted But what is good in this
+speaker_2: Can you see what I have highlighted But what is good in this
 
 
 Disentanglement is good
@@ -313,21 +192,13 @@ This is the this is an excerpt from the beta VA paper
 
 Okay so higher the beta better disentanglement
 
-### Speaker 4
+speaker_4: Better means increasing surplus
 
-Better means increasing surplus
+speaker_2: higher the beta increase this entanglement
 
-### Speaker 2
+speaker_1: But here they put minus of beta d instead of plus beta
 
-higher the beta increase this entanglement
-
-### Speaker 1
-
-But here they put minus of beta d instead of plus beta
-
-### Speaker 2
-
-in the the beta VAE loss term theyre subtracting instead of adding the loss
+speaker_2: in the the beta VAE loss term theyre subtracting instead of adding the loss
 
 
 appropriate even beta greater than one call um hold on lets see have they done that uh yeah the term above that image yeah there is a minus beta correct we we did plus when we were discussing so
@@ -338,24 +209,16 @@ Uh I think that might be the
 
 Okay I got it So in our formulation it was plus z
 
-### Speaker 1
+speaker_1: Thanks for your
 
-Thanks for your
-
-### Speaker 2
-
-It was plus beta
+speaker_2: It was plus beta
 
 
 Then it wont hit you
 
-### Speaker 3
+speaker_3: How would how would plus beta work here It it wouldnt work right you need
 
-How would how would plus beta work here It it wouldnt work right you need
-
-### Speaker 2
-
-No no what I meant is see that then beta is taken to be negative right I think so has lets do one thing I think you know theres confusion So let us just ignore that question and just add one to everyone thats our easiest way to deal with it
+speaker_2: No no what I meant is see that then beta is taken to be negative right I think so has lets do one thing I think you know theres confusion So let us just ignore that question and just add one to everyone thats our easiest way to deal with it
 
 
 But yeah so I think you got the point right At least in terms of what is happening If beta is taken to be a positive integer and the objective is written to be minus beta then increase in beta right implies
@@ -363,24 +226,16 @@ But yeah so I think you got the point right At least in terms of what is happeni
 
 disentitlement right better discontentment i think that is what it is yeah i think im convinced just think about it lets move on because its already pretty late okay so so has taken note of it we just have to add one to everyone in this in this particular quiz
 
-### Speaker 3
+speaker_3: Sure okay yeah
 
-Sure okay yeah
-
-### Speaker 2
-
-Thank you Swoos I think you can leave now if you want I can start the class
+speaker_2: Thank you Swoos I think you can leave now if you want I can start the class
 
 
 Okay thank you
 
-### Speaker 4
+speaker_4: Sorry for interrupting uh can you please repeat what you said about the beta thing sorry
 
-Sorry for interrupting uh can you please repeat what you said about the beta thing sorry
-
-### Speaker 2
-
-The beta is a positive integer and the cost is KL minus beta sorry the construction minus beta okay
+speaker_2: The beta is a positive integer and the cost is KL minus beta sorry the construction minus beta okay
 
 
 So if beta is increased then disentanglement will become better because we are minimizing that KL thats all and beta is a positive number
@@ -418,59 +273,35 @@ Uh shall we do a quiz on 9th and 16th
 
 You can skip on second uh because
 
-### Speaker 4
+speaker_4: So 16th I think were planning for an online uh hybrid class
 
-So 16th I think were planning for an online uh hybrid class
+speaker_2: Correct Well have a quiz then No problem Okay We dont want See otherwise we can do it on second and ninth also
 
-### Speaker 2
-
-Correct Well have a quiz then No problem Okay We dont want See otherwise we can do it on second and ninth also
-
-### Speaker 4
-
-Otherwise we can do it
+speaker_4: Otherwise we can do it
 
 
 So lets take a
 
-### Speaker 1
+speaker_1: Reckon many people will not only keep on second search
 
-Reckon many people will not only keep on second search
+speaker_4: Yeah
 
-### Speaker 4
+speaker_2: Okay so then let us do it on 9th and 16th okay
 
-Yeah
+speaker_4: Yes picture
 
-### Speaker 2
+speaker_2: And uh assignments we said three assignments right
 
-Okay so then let us do it on 9th and 16th okay
+speaker_4: I think you mentioned that you will give the third one in the November first week
 
-### Speaker 4
-
-Yes picture
-
-### Speaker 2
-
-And uh assignments we said three assignments right
-
-### Speaker 4
-
-I think you mentioned that you will give the third one in the November first week
-
-### Speaker 2
-
-Uh coding assignments are three into fifteen so two is done when is the deadline for your second assignment
+speaker_2: Uh coding assignments are three into fifteen so two is done when is the deadline for your second assignment
 
 
 Repeat it
 
-### Speaker 4
+speaker_4: Repeat
 
-Repeat
-
-### Speaker 2
-
-28th So then Sunday I will release the third so that we can finish by mid mid November Okay good So one exam is done quiz for two more quizzes and one more assignment Okay great We are on track Okay so let us get back to classes So you can see my screen Can you see my screen
+speaker_2: 28th So then Sunday I will release the third so that we can finish by mid mid November Okay good So one exam is done quiz for two more quizzes and one more assignment Okay great We are on track Okay so let us get back to classes So you can see my screen Can you see my screen
 
 
 Okay so todays agenda is diffusion models TDPM Yeah so Ill tell you rest of the course the way Im planning is we have three more classes right So Id hopefully complete diffusion models today Lets see So today well do diffusion models and well have three more classes And one class I will do noise contrastive estimation self supervised learning all these ideas and well have two more classes
@@ -493,13 +324,9 @@ It is not moving does somebody know why
 
 Not able to move this
 
-### Speaker 4
+speaker_4: Both can restart
 
-Both can restart
-
-### Speaker 2
-
-Oskar and Ester
+speaker_2: Oskar and Ester
 
 
 Uh what did you say
@@ -612,13 +439,9 @@ Yeah same thing elbow optimization well do the exact same elbow optimization and
 
 Thats all So rest is algebra Okay Now you understood right So we have an encoding fixed encoding distribution and we have a learnable decoding distribution Given the encoding distribution okay we optimize the LBO and learn the decoding distribution parameters of the decoding distribution That is what the idea is Okay Any questions so far quickly Surveillant
 
-### Speaker 4
+speaker_4: Previously it was written alpha t xt minus one plus one minus alpha t epsilon
 
-Previously it was written alpha t xt minus one plus one minus alpha t epsilon
-
-### Speaker 2
-
-Oh sorry my bad my mistake Or its either here or there Let me just see what the doesnt matter right I mean depends on what your alpha is but lets see what the literature does
+speaker_2: Oh sorry my bad my mistake Or its either here or there Let me just see what the doesnt matter right I mean depends on what your alpha is but lets see what the literature does
 
 
 I keep appointing that
@@ -641,13 +464,9 @@ Noted correctly today but yeah
 
 Is that okay I should clear it Okay Yeah Avatosh lets make it quick guys yeah
 
-### Speaker 4
+speaker_4: Now why is the encoding process fixed here
 
-Now why is the encoding process fixed here
-
-### Speaker 2
-
-Told you all that in the last class okay
+speaker_2: Told you all that in the last class okay
 
 
 because that that is see that is how the uh the ddpm is described okay the encoding process is fixed because its a what do we want we want a projection from the data space to the uh the latent space okay or rather gaussian 0 1 now we do it in the hierarchical manner now in a ddpm it is a marco chain right so you are doing a random walk through a marco chain now unlike in a
@@ -658,13 +477,9 @@ where projection from the data distribution to the normal 0 1 okay cannot be gua
 
 You dont have to learn anything
 
-### Speaker 4
+speaker_4: So
 
-So
-
-### Speaker 2
-
-the idea okay i think i mentioned this in the last class but anyway okay is this clear so what we will do then next is that under these model assumptions we will write down the elbow as usual and optimize it thats all so thats all the entire processes now okay now just like with the case as in the case of uh vae the final generation is via decoding because in vae also you do the same thing right we will do the same thing here uh the only thing
+speaker_2: the idea okay i think i mentioned this in the last class but anyway okay is this clear so what we will do then next is that under these model assumptions we will write down the elbow as usual and optimize it thats all so thats all the entire processes now okay now just like with the case as in the case of uh vae the final generation is via decoding because in vae also you do the same thing right we will do the same thing here uh the only thing
 
 
 Yes we have these kinds of model assumptions and we will have to optimize the L value Okay let us do that
@@ -864,21 +679,13 @@ Okay uh why is this this why is this the case
 
 Is there independent of each other like the X one X two are
 
-### Speaker 1
+speaker_1: distributions
 
-distributions
+speaker_2: X1 X2 are not independent
 
-### Speaker 2
+speaker_1: Okay thats the Markov process
 
-X1 X2 are not independent
-
-### Speaker 1
-
-Okay thats the Markov process
-
-### Speaker 2
-
-Exactly this is the Markov process right this is the first order Markov process this is because
+speaker_2: Exactly this is the Markov process right this is the first order Markov process this is because
 
 
 See this can actually be written as you can write this as q of x1 use the chain rule of probability right so you can write this as q of x1 given x0 and you have q of x1 given sorry q of x2 given x1 and x0 into q of x3 given x1 that x2 x1 x0 and so on correct
@@ -907,13 +714,9 @@ Set in the above equation like p theta is it going to x t or x 0 Shouldnt it be 
 
 like we had mentioned p theta of xt minus 1 given xt times p theta of xt minus 2 given xt minus 1 so on till p theta of x0 given x1 right
 
-### Speaker 4
+speaker_4: So here right you do you have a pp theta of xt term also at the outside okay so what im what what you said is correct hold on cdb
 
-So here right you do you have a pp theta of xt term also at the outside okay so what im what what you said is correct hold on cdb
-
-### Speaker 2
-
-Let us make it a little precise So now here you have a
+speaker_2: Let us make it a little precise So now here you have a
 
 
 This is equal to you have a P of XT term here Okay And the last term here would be obviously
@@ -927,9 +730,7 @@ Yeah okay thank you thats what I meant yeah okay
 
 Okay so now please have a look at it now in the elbow right we now have the numerator
 
-### Speaker 4
-
-okay so now the reason i did this is how did we come from this step to this step okay now there was the joint distribution of x z x x 0 to x t okay under the model we wrote that as this product and in the denominator there was the conditional distribution of latents given data and we represented that using this product is that okay
+speaker_4: okay so now the reason i did this is how did we come from this step to this step okay now there was the joint distribution of x z x x 0 to x t okay under the model we wrote that as this product and in the denominator there was the conditional distribution of latents given data and we represented that using this product is that okay
 
 
 I will continue from there take this equation so now we have the elbow
@@ -1033,13 +834,9 @@ x t minus 1 and x naught Can I write it this way Now why do I do that This is be
 
 this can we write q of xt given xt minus 1 as q of xt given xt minus 1 and x naught are these the same
 
-### Speaker 1
+speaker_1: Markov process is independent of the
 
-Markov process is independent of the
-
-### Speaker 4
-
-Yeah it is because of the first order Markov property If you condition it with anything else than the previous state it is exactly the same
+speaker_4: Yeah it is because of the first order Markov property If you condition it with anything else than the previous state it is exactly the same
 
 
 Now what we will do is we will use Bayes law
@@ -1140,13 +937,9 @@ Okay so every time you take the same X naught and add different kinds of noises 
 
 The question that we are asking is given that you have started from x naught and landed at a particular xt what is the distribution over xt minus one
 
-### Speaker 1
+speaker_1: Question
 
-Question
-
-### Speaker 4
-
-Does it make sense See note that this is not Q of XT minus 1 given XT because we are talking about independence between XT given XT minus 1 and the other thing right we are not talking about independence of so XT minus 1 is not independent of XT or X naught given XT correct
+speaker_4: Does it make sense See note that this is not Q of XT minus 1 given XT because we are talking about independence between XT given XT minus 1 and the other thing right we are not talking about independence of so XT minus 1 is not independent of XT or X naught given XT correct
 
 
 Markovian process says that xt is independent of everything else given xt minus 1 It is not saying that xt minus 1 is independent of xt Im just saying that it is in the reverse direction and therefore this x0 cannot be removed What did we do Please note again we had a q of xt given xt minus 1 term in the in one of the terms in the in the elbow wrote that q of xt given xt minus 1 in terms of I mean just conditioned that x
@@ -1175,44 +968,26 @@ So that is the algebraic convenience that we wanted and thats why we wrote it th
 
 okay so let us get back to elbow now so now uh getting back to elbow sir one question yeah if we do not
 
-### Speaker 1
+speaker_1: Like if we do not have x naught then also we could have come up with this base rule right Like were just based on xt minus one and xt
 
-Like if we do not have x naught then also we could have come up with this base rule right Like were just based on xt minus one and xt
-
-### Speaker 4
-
-Your voice completely broke off Was it only for me
+speaker_4: Your voice completely broke off Was it only for me
 
 
 I cant hear you at all
 
-### Speaker 1
+speaker_1: Okay let me repeat sorry am I audible
 
-Okay let me repeat sorry am I audible
+speaker_4: Yes yes
 
-### Speaker 4
+speaker_2: This is clear for us uh budget
 
-Yes yes
+speaker_1: Sir am I audible to you
 
-### Speaker 2
+speaker_4: I cant hear you uh any anybody else can hear me yeah we can hear him uh yes sir
 
-This is clear for us uh budget
+speaker_1: Sir am I audible now
 
-### Speaker 1
-
-Sir am I audible to you
-
-### Speaker 4
-
-I cant hear you uh any anybody else can hear me yeah we can hear him uh yes sir
-
-### Speaker 1
-
-Sir am I audible now
-
-### Speaker 4
-
-Can you hear me
+speaker_4: Can you hear me
 
 
 The cord is disconnected just a second
@@ -1220,29 +995,17 @@ The cord is disconnected just a second
 
 Oh can you hear me
 
-### Speaker 1
+speaker_1: Yes sir
 
-Yes sir
+speaker_4: Okay so you were saying something I mean I completely missed it because I think some connection issues Can you repeat what were you saying
 
-### Speaker 4
+speaker_1: Yes sir Im audible
 
-Okay so you were saying something I mean I completely missed it because I think some connection issues Can you repeat what were you saying
+speaker_4: Do you know Yes yes
 
-### Speaker 1
+speaker_1: Okay Im saying if we did not include the x naught term then also we could have come up with this like a backward distribution q xt minus 1 given xt
 
-Yes sir Im audible
-
-### Speaker 4
-
-Do you know Yes yes
-
-### Speaker 1
-
-Okay Im saying if we did not include the x naught term then also we could have come up with this like a backward distribution q xt minus 1 given xt
-
-### Speaker 4
-
-No you cant know because how how do you do that
+speaker_4: No you cant know because how how do you do that
 
 
 then you will have marginals over so you can use the Bayes law and simply write it as q of xt minus 1 times q of xt divided by q of xt minus 1 right uh but you will have to find the marginals of q of you have to you will get terms like q of xt q of xt minus 1 and so on right these marginals are not computable
@@ -1334,13 +1097,9 @@ of xt minus 1 given xt and x naught times q of xt given x naught correct hmm now
 
 a speed heat of xt minus 1 given xt times what is this product
 
-### Speaker 1
+speaker_1: of xt minus one given x1
 
-of xt minus one given x1
-
-### Speaker 4
-
-divided by hold on so this is q of x t minus 1 given x t and x naught okay t equal to 2 to capital T so this term into we have terms like q of x 2 right so this is a x 1 given x naught into q of x 2 given x naught and so on in the
+speaker_4: divided by hold on so this is q of x t minus 1 given x t and x naught okay t equal to 2 to capital T so this term into we have terms like q of x 2 right so this is a x 1 given x naught into q of x 2 given x naught and so on in the
 
 
 In the denominator we have Q of x2 given x naught
@@ -1432,13 +1191,9 @@ while the outer expectation was with respect to q of x1 to t given x0 since what
 
 Now uh similarly to the second term welcome to the second term
 
-### Speaker 2
+speaker_2: sorry I missed to understand that part expectation of Q of X 1 to T X 0
 
-sorry I missed to understand that part expectation of Q of X 1 to T X 0
-
-### Speaker 4
-
-given x naught will become an expectation with respect to q of x 1 given x naught because the term that you have inside the log now it is independent of all other random variables other than x naught and x 1
+speaker_4: given x naught will become an expectation with respect to q of x 1 given x naught because the term that you have inside the log now it is independent of all other random variables other than x naught and x 1
 
 
 That is like uh like law of expectations okay hold on um
@@ -1458,13 +1213,9 @@ of log of what was that term P x t divided by Q of x t given x naught and this e
 
 Everything else will be going away correct
 
-### Speaker 1
+speaker_1: So y ht minus one here
 
-So y ht minus one here
-
-### Speaker 4
-
-I think yeah I think I made a mistake here while writing
+speaker_4: I think yeah I think I made a mistake here while writing
 
 
 Uh see here
@@ -1496,13 +1247,9 @@ What dependencies do we have Let us write it that way
 
 take the expectation inside the sum because it is linear to to t expectation of we had log of
 
-### Speaker 1
+speaker_1: From X1 to XT minus 1
 
-From X1 to XT minus 1
-
-### Speaker 4
-
-P theta xt minus 1 given xt divided by
+speaker_4: P theta xt minus 1 given xt divided by
 
 
 Q phi of no there is no Q phi sorry it is Q of
@@ -1561,13 +1308,9 @@ and p theta of x t minus 1 given x t okay so here is where the tricky part is il
 
 This thing is simply recall divergence right by definition that should be all right correct
 
-### Speaker 1
+speaker_1: Minus scale like
 
-Minus scale like
-
-### Speaker 4
-
-Yes of course of course negative of kL divergence So now what happened to the third term Thats tricky right So what we actually did is here we express this expectation right You have an expectation with respect to q of xt and xt minus 1 given x naught correct Okay You can write this as product of two expectations okay 1 over an expectation of q of x
+speaker_4: Yes of course of course negative of kL divergence So now what happened to the third term Thats tricky right So what we actually did is here we express this expectation right You have an expectation with respect to q of xt and xt minus 1 given x naught correct Okay You can write this as product of two expectations okay 1 over an expectation of q of x
 
 
 T given X naught times the expectation over
@@ -1650,13 +1393,9 @@ This is a tiny town
 
 Oh I paste this
 
-### Speaker 2
+speaker_2: Think if you long press on the screen and
 
-Think if you long press on the screen and
-
-### Speaker 4
-
-Uh huh what what should I do
+speaker_4: Uh huh what what should I do
 
 
 Select P
@@ -1733,24 +1472,16 @@ where we are whatever we know how to we are we know how to denoise and we are ma
 
 machine term and we will see how to compute it in practice that is what we will do next but I hope that you understood what these three terms are in GDPMs elbow okay any questions here
 
-### Speaker 1
+speaker_1: So it will help
 
-So it will help
+speaker_4: Yeah yeah
 
-### Speaker 4
-
-Yeah yeah
-
-### Speaker 1
-
-So here how are we evaluating the known denoising term
+speaker_1: So here how are we evaluating the known denoising term
 
 
 Thats the next thing
 
-### Speaker 4
-
-Thats the next thing that we thats the next thing that we will do I dont know
+speaker_4: Thats the next thing that we thats the next thing that we will do I dont know
 
 
 derived now we will see how to compute it known denoising term has to be evaluated now we will do it
@@ -1770,13 +1501,9 @@ Uh I mean how are the the third sum
 
 That is because similar argument no dependency is only on xt minus xt xt minus 1 and x0 here the expectation was q of x 1 through t q and x0 okay see dependence of whatever is inside is only on xt xt minus 1 and x0 isnt it thats all
 
-### Speaker 1
+speaker_1: But the log term that
 
-But the log term that
-
-### Speaker 4
-
-But the random variable see that see expectation outer expectation is with respect to x 1 2 3 2 1 2 t given x naught correct
+speaker_4: But the random variable see that see expectation outer expectation is with respect to x 1 2 3 2 1 2 t given x naught correct
 
 
 Right now what are terms we can drop in X1 to T is the question
@@ -1784,13 +1511,9 @@ Right now what are terms we can drop in X1 to T is the question
 
 You can only drop everything other than xt and xt minus 1 thats all
 
-### Speaker 2
+speaker_2: Okay so that given XT is also included when we compute expectation
 
-Okay so that given XT is also included when we compute expectation
-
-### Speaker 4
-
-Isnt it See the distribution does not change What changes is the dependency of whatever random variables are not there You can just omit them from the distribution joint distribution Its actually writing this joint distribution right in terms of so okay So what actually is happening is you see that we wrote it this way no Where was that
+speaker_4: Isnt it See the distribution does not change What changes is the dependency of whatever random variables are not there You can just omit them from the distribution joint distribution Its actually writing this joint distribution right in terms of so okay So what actually is happening is you see that we wrote it this way no Where was that
 
 
 So we wrote this was the expect this was the distribution with respect to which we need the expectation isnt it Okay hold on it is still coming up Correct This is the distribution with respect to which we need the expectation and we wrote it as a product of so many things right Now when you write it as a product of so many things whatever distributions that are independent you can just remove them and they are constants Thats all will happen Okay What will remove what will remain are the ones where the dependencies
@@ -1879,13 +1602,9 @@ What is this equal to this is equal to you are
 
 Is this alright
 
-### Speaker 1
+speaker_1: Because of macro processors
 
-Because of macro processors
-
-### Speaker 4
-
-Yeah it because of the Marco process
+speaker_4: Yeah it because of the Marco process
 
 
 xt given xt minus 1 and x0 is simply xt correct give me q of xt given xt minus 1
@@ -2226,124 +1945,66 @@ This is another consequence of uh of uh having this first order Markov chain wit
 
 Kara gunda
 
-### Speaker 1
+speaker_1: So judges are did
 
-So judges are did
+speaker_2: We just prove that a Gaussian of Gaussian is also a Gaussian
 
-### Speaker 2
+speaker_4: What do you mean by caution of caution
 
-We just prove that a Gaussian of Gaussian is also a Gaussian
-
-### Speaker 4
-
-What do you mean by caution of caution
-
-### Speaker 2
-
-Uh because I mean we are taking so if you s if you look at the steps right
+speaker_2: Uh because I mean we are taking so if you s if you look at the steps right
 
 
 So X two is obtained by taking a sample from a Gaussian and then X three is
 
-### Speaker 4
+speaker_4: Where is X2 no no X2 is not from epsilon is from Gaussian no X2 is not from Gaussian
 
-Where is X2 no no X2 is not from epsilon is from Gaussian no X2 is not from Gaussian
+speaker_2: But if you see the the forward Markov chain I mean thats what we do right we take a Gaussian of the result and then again sample from another Gaussian
 
-### Speaker 2
+speaker_4: Im not getting what youre saying See X XT is obtained by this equation no where is another question here
 
-But if you see the the forward Markov chain I mean thats what we do right we take a Gaussian of the result and then again sample from another Gaussian
+speaker_2: But then it it depends on uh ultimately depends on X naught right
 
-### Speaker 4
+speaker_4: Of course it does so
 
-Im not getting what youre saying See X XT is obtained by this equation no where is another question here
+speaker_2: One thing I can say
 
-### Speaker 2
+speaker_4: One question
 
-But then it it depends on uh ultimately depends on X naught right
+speaker_1: In between we are applying multiple Gaussians
 
-### Speaker 4
+speaker_4: not applying any Gaussians no you take x naught and sample from a Gaussian distribution and add it to x naught thats what we are doing
 
-Of course it does so
+speaker_1: Yeah and and we keep doing that
 
-### Speaker 2
+speaker_4: There is no application of Gaussian We are sampling from Gaussian adding the Gaussian yeah that we are doing
 
-One thing I can say
+speaker_1: I mean does it mean that ultimately say the last result that we get is again a Gaussian right with the different parameters
 
-### Speaker 4
+speaker_4: Team will be the last result
 
-One question
+speaker_2: And also
 
-### Speaker 1
+speaker_1: So yeah this
 
-In between we are applying multiple Gaussians
+speaker_4: Distribution of
 
-### Speaker 4
+speaker_2: Distribution of
 
-not applying any Gaussians no you take x naught and sample from a Gaussian distribution and add it to x naught thats what we are doing
+speaker_1: Its
 
-### Speaker 1
+speaker_4: B correct that is a Gaussian so
 
-Yeah and and we keep doing that
+speaker_2: And the intermediate steps were also Gaussian Correct So with the different parameters So my question is did we just say that if we keep taking Gaussian and then sample and then again take again keep sampling from a different Gaussians the end result is the again sampling from a single Gaussian
 
-### Speaker 4
+speaker_4: Ah that is reparameterization no
 
-There is no application of Gaussian We are sampling from Gaussian adding the Gaussian yeah that we are doing
+speaker_2: So that was my yes I mean that was my point
 
-### Speaker 1
+speaker_4: Hi to okay so it you it is not a question I was expecting
 
-I mean does it mean that ultimately say the last result that we get is again a Gaussian right with the different parameters
+speaker_2: No it was not it was not a question
 
-### Speaker 4
-
-Team will be the last result
-
-### Speaker 2
-
-And also
-
-### Speaker 1
-
-So yeah this
-
-### Speaker 4
-
-Distribution of
-
-### Speaker 2
-
-Distribution of
-
-### Speaker 1
-
-Its
-
-### Speaker 4
-
-B correct that is a Gaussian so
-
-### Speaker 2
-
-And the intermediate steps were also Gaussian Correct So with the different parameters So my question is did we just say that if we keep taking Gaussian and then sample and then again take again keep sampling from a different Gaussians the end result is the again sampling from a single Gaussian
-
-### Speaker 4
-
-Ah that is reparameterization no
-
-### Speaker 2
-
-So that was my yes I mean that was my point
-
-### Speaker 4
-
-Hi to okay so it you it is not a question I was expecting
-
-### Speaker 2
-
-No it was not it was not a question
-
-### Speaker 4
-
-You are making an observation yes yes yes correct yeah so now you can reparameterize any you know any amount of Gaussian addition in terms of Gaussians thats all it means yeah
+speaker_4: You are making an observation yes yes yes correct yeah so now you can reparameterize any you know any amount of Gaussian addition in terms of Gaussians thats all it means yeah
 
 
 Okay anything else Okay so now what did we do is we now know lets get back to this Our goal was to get the
@@ -2393,13 +2054,9 @@ from here okay
 
 comes from whatever we just derived through uh recursion and in the denominator we have another Gaussian
 
-### Speaker 1
+speaker_1: Sir sorry to interrupt the first term it should be a root of alpha t into xt minus 1
 
-Sir sorry to interrupt the first term it should be a root of alpha t into xt minus 1
-
-### Speaker 4
-
-of alpha t into x t minus correct times for the correction so this is x t root of alpha t bar times x naught thats the mean and the variance is 1 minus alpha t bar times i
+speaker_4: of alpha t into x t minus correct times for the correction so this is x t root of alpha t bar times x naught thats the mean and the variance is 1 minus alpha t bar times i
 
 
 Is what uh what is the LHS LHS is Q of
@@ -2464,13 +2121,9 @@ Let me show you the calculations I will skip the calculations you can simply go 
 
 Do it later
 
-### Speaker 1
+speaker_1: Sir what about the XT term
 
-Sir what about the XT term
-
-### Speaker 4
-
-xt term will become a constant right because the lhs is conditioned on xt so xt is xt is given a particular xt it is a constant as far as xt minus 1 is concerned
+speaker_4: xt term will become a constant right because the lhs is conditioned on xt so xt is xt is given a particular xt it is a constant as far as xt minus 1 is concerned
 
 
 Can you see my screen
@@ -2478,13 +2131,9 @@ Can you see my screen
 
 Hello can you scheme see my screen Do you see my screen
 
-### Speaker 1
+speaker_1: Yes sir yes sir
 
-Yes sir yes sir
-
-### Speaker 4
-
-this is what im talking about see uh we have these three gaussians right there is one gaussian uh for q xt given xt minus an x naught there is one gaussian for the second distribution and one for the third you have to write down all these gaussian distributions and use the appropriate means and variances and you should you should simply complete the square this is the uh the calculation that im skipping see its only algebra okay its like high school level algebra please follow this and i have given
+speaker_4: this is what im talking about see uh we have these three gaussians right there is one gaussian uh for q xt given xt minus an x naught there is one gaussian for the second distribution and one for the third you have to write down all these gaussian distributions and use the appropriate means and variances and you should you should simply complete the square this is the uh the calculation that im skipping see its only algebra okay its like high school level algebra please follow this and i have given
 
 
 paper to you okay so please say this algebra finally what will happen is this will become a Gaussian distribution okay with a certain mean and a certain variance because you have completed the square and you can look at this now that all you have to do is rearrange the terms add and subtract the terms such that it will become it will assume a Gaussian distribution form and you should read out the mean and variance thats all we should do
@@ -2699,13 +2348,9 @@ After doing all that the final denoising matching term will simply be a mean squ
 
 Thats all actually we are done There is the other the rest of the things that we do is only some reparameterizations and well see how to implement this using a neural network Any questions here Yeah Sanchit
 
-### Speaker 1
+speaker_1: why are we assuming that the decoding distribution is Gaussian and like in a general case
 
-why are we assuming that the decoding distribution is Gaussian and like in a general case
-
-### Speaker 4
-
-I cant imagine thats
+speaker_4: I cant imagine thats
 
 
 Ill take that is because see we are not assuming the distribution of data to be Gaussian We are only assuming the conditional of the latent given another latent to be Gaussian Okay That is one thing Why are we doing that assumption is that what can be shown is if you have a forward Markov chain okay with Gaussian transitions there exists a real reverse Markov chain that also has Gaussian transitions is something that can be shown
@@ -2716,24 +2361,16 @@ Okay but what changes is the parameters
 
 changes as the parameters so one is mu theta the other is some other parameter no so but what can be shown is that if the if you have a markov chain whose forward distribution is uh gaussian transitions are gaussian okay then the backward distribution uh is also gaussian with a different parameters
 
-### Speaker 1
+speaker_1: So like in VAE also we try to assume like what Im trying to understand
 
-So like in VAE also we try to assume like what Im trying to understand
+speaker_4: And reporting distribution
 
-### Speaker 4
-
-And reporting distribution
-
-### Speaker 1
-
-Sorry that please continue
+speaker_1: Sorry that please continue
 
 
 So like for VAE also like we were trying to you know mod like assume that the latent space will be a Gaussian distribution like a normal distribution And you know so like why are we so much biased towards a Gaussian distribution in almost all of the models
 
-### Speaker 4
-
-No no see that is a design choice you can see while in a naive VAE we assumed it to be Gaussian but in all VQVAE and the other Vampire etc it can be modeled as something else right Similarly see but here what you should see is that the stationary distribution here which is the distribution of the tth latent is assuming is assumed to be Gaussian We are not assuming the intermediate distribution to be Gaussian but only the conditionals are assumed to be Gaussian
+speaker_4: No no see that is a design choice you can see while in a naive VAE we assumed it to be Gaussian but in all VQVAE and the other Vampire etc it can be modeled as something else right Similarly see but here what you should see is that the stationary distribution here which is the distribution of the tth latent is assuming is assumed to be Gaussian We are not assuming the intermediate distribution to be Gaussian but only the conditionals are assumed to be Gaussian
 
 
 Which is okay
@@ -2756,35 +2393,23 @@ It is not no we are finding out mu theta here It is parameterized by mu theta we
 
 See now finally what we are finding out is this mu theta mu theta is something that we find out
 
-### Speaker 3
+speaker_3: But that cannot be arrived
 
-But that cannot be arrived
+speaker_4: no no no that is our model right that is that is the whole point if you start look at the forward model that we
 
-### Speaker 4
+speaker_2: One problem that we start
 
-no no no that is our model right that is that is the whole point if you start look at the forward model that we
-
-### Speaker 2
-
-One problem that we start
-
-### Speaker 4
-
-fixed is known of course it is fixed you see this you see this p theta mu theta and sigma theta are learnable but in practice what they do is they they make sigma theta a fixed thing only mu theta is learned
+speaker_4: fixed is known of course it is fixed you see this you see this p theta mu theta and sigma theta are learnable but in practice what they do is they they make sigma theta a fixed thing only mu theta is learned
 
 
 So that is our model see if you make the reverse process also fixed then what is what are you learning
 
-### Speaker 2
-
-Yeah understood
+speaker_2: Yeah understood
 
 
 Yeah I understood sir
 
-### Speaker 4
-
-Is this okay so finally it all boils down to I think Im doing a multi scale thing here right one thing is at some scale the other is another scale you just look at this
+speaker_4: Is this okay so finally it all boils down to I think Im doing a multi scale thing here right one thing is at some scale the other is another scale you just look at this
 
 
 The day
@@ -2792,44 +2417,26 @@ The day
 
 zoom it inadvertently somewhere and itll become that should not be an issue for you know when you go back and look into it I think you can you can also zoom out and zoom in and look into that in different scales I suppose right
 
-### Speaker 1
+speaker_1: Is this a big guy
 
-Is this a big guy
+speaker_2: Printouts
 
-### Speaker 2
+speaker_4: Because of the scale issue because of the scale issue
 
-Printouts
+speaker_2: Because of the scale issue because of the scale issue
 
-### Speaker 4
+speaker_4: I see okay
 
-Because of the scale issue because of the scale issue
-
-### Speaker 2
-
-Because of the scale issue because of the scale issue
-
-### Speaker 4
-
-I see okay
-
-### Speaker 2
-
-So how do you
+speaker_2: So how do you
 
 
 We dont print that much but if sometimes we like to take a printout then
 
-### Speaker 4
+speaker_4: Uh
 
-Uh
+speaker_2: Taking a com petitive stance
 
-### Speaker 2
-
-Taking a com petitive stance
-
-### Speaker 4
-
-The positive side of it is you know Im helping the environment so its fine
+speaker_4: The positive side of it is you know Im helping the environment so its fine
 
 
 Okay so is this all right So what happened is that finally this elbow thing
@@ -2861,37 +2468,21 @@ Okay so that at least you know how to train this
 
 Now lets do this reparameterization We can actually implement it this way but people generally implement it in a different reparameterization Let us do that We have reparameterizing
 
-### Speaker 1
+speaker_1: So there will be the KL divergence term also right
 
-So there will be the KL divergence term also right
+speaker_4: No that is the third one is what we showed as this uh difference between the mix second one
 
-### Speaker 4
+speaker_1: No no no essential
 
-No that is the third one is what we showed as this uh difference between the mix second one
+speaker_4: That is independent of theta no we can ignore that
 
-### Speaker 1
+speaker_1: So sir what will be its use for like which term which component will it be used for updating in the TDPN
 
-No no no essential
+speaker_4: What I didnt get the question which term what will be used for
 
-### Speaker 4
+speaker_1: Sir the KL divergence term that was independent of theta are we saying that we wont be using it anywhere for updating the
 
-That is independent of theta no we can ignore that
-
-### Speaker 1
-
-So sir what will be its use for like which term which component will it be used for updating in the TDPN
-
-### Speaker 4
-
-What I didnt get the question which term what will be used for
-
-### Speaker 1
-
-Sir the KL divergence term that was independent of theta are we saying that we wont be using it anywhere for updating the
-
-### Speaker 4
-
-Yeah because model training of course no it is independent we dont there is no model at all there is no dependence on model it is a constant as far as the model is concerned
+speaker_4: Yeah because model training of course no it is independent we dont there is no model at all there is no dependence on model it is a constant as far as the model is concerned
 
 
 This comes because of the fixed forward process right And also yeah this primarily comes from fixed forward process okay So I will maybe quickly tell you what this is and handwave and do the math the next time okay So that you can start implementing See whats the idea is you have this term no You have mu theta minus mu q as your loss okay Now what is done is we have this mu q as what is mu q Some constant c1 times
@@ -3010,13 +2601,9 @@ You are minimizing the is this clear See I mean OK I will not take any questions
 
 It is XT from XMARC thats all it is
 
-### Speaker 2
+speaker_2: So we pass it only once or repeatedly for the same data point
 
-So we pass it only once or repeatedly for the same data point
-
-### Speaker 4
-
-it in batch no do it for different ts you take all data points so we did all analysis for one data point you do it for all data points basically so for one data point you will have to sample multiple ts because you have a sum over all ts here no t equal to 2 to capital T
+speaker_4: it in batch no do it for different ts you take all data points so we did all analysis for one data point you do it for all data points basically so for one data point you will have to sample multiple ts because you have a sum over all ts here no t equal to 2 to capital T
 
 
 Take multiple Ts for a given data point try the neural network and do it for all data points that would be one epoch try it for multiple epochs thats all
@@ -3024,13 +2611,9 @@ Take multiple Ts for a given data point try the neural network and do it for all
 
 Yeah theres a few trying at ADPM
 
-### Speaker 1
+speaker_1: So sorry multiple Ts per data point and we have to take batches of such data points
 
-So sorry multiple Ts per data point and we have to take batches of such data points
-
-### Speaker 4
-
-Course no because you need to train it through the entire data set
+speaker_4: Course no because you need to train it through the entire data set
 
 
 Yeah well do this well do this more thoroughly in the next class Now half of the next class will be on like training diffusion models and Ill tell you how these are related to what are called as core based models and then Ill talk about the conditional diffusion models you know where all these stable diffusion imagine dolly etc they will take a text and generate the corresponding image right how do you condition these models on text is something that Ill tell you that would end the diffusion models right uh half of the
@@ -3041,17 +2624,11 @@ class perhaps and the next the the other half we will do autoregressive models w
 
 it so that you can implement it completely yeah
 
-### Speaker 1
+speaker_1: So by the way I have to look for the papers
 
-So by the way I have to look for the papers
+speaker_2: My name is
 
-### Speaker 2
-
-My name is
-
-### Speaker 4
-
-in my handwritten notes okay handwritten notes
+speaker_4: in my handwritten notes okay handwritten notes
 
 
 Its always that I mean like my handwritten notes is pretty comprehensive it will have everything
@@ -3059,53 +2636,29 @@ Its always that I mean like my handwritten notes is pretty comprehensive it will
 
 Okay okay well thats it for today yeah
 
-### Speaker 1
-
-one question like not uh what this related so why cant we
+speaker_1: one question like not uh what this related so why cant we
 
 
 9 20
 
-### Speaker 4
+speaker_4: Sure okay no problem well do it after we do
 
-Sure okay no problem well do it after we do
+speaker_1: I am taking the quiz post 9 20 so thats why I just I am taking the quiz first and then joining the meeting like the class
 
-### Speaker 1
+speaker_4: Ah
 
-I am taking the quiz post 9 20 so thats why I just I am taking the quiz first and then joining the meeting like the class
+speaker_2: Okay okay
 
-### Speaker 4
+speaker_4: Okay okay okay Two more classes two more quizzes well do it after the class no problem Okay
 
-Ah
+speaker_2: Okay cool
 
-### Speaker 2
+speaker_1: Sure sir thank you so much
 
-Okay okay
+speaker_4: Okay then huh So have a nice weekend Happy Diwali to all of you We will meet on second no next week next Saturday well continue with this okay
 
-### Speaker 4
+speaker_1: Certainly
 
-Okay okay okay Two more classes two more quizzes well do it after the class no problem Okay
+speaker_2: Thank you sir and happy new year
 
-### Speaker 2
-
-Okay cool
-
-### Speaker 1
-
-Sure sir thank you so much
-
-### Speaker 4
-
-Okay then huh So have a nice weekend Happy Diwali to all of you We will meet on second no next week next Saturday well continue with this okay
-
-### Speaker 1
-
-Certainly
-
-### Speaker 2
-
-Thank you sir and happy new year
-
-### Speaker 4
-
-Bye bye yeah
+speaker_4: Bye bye yeah

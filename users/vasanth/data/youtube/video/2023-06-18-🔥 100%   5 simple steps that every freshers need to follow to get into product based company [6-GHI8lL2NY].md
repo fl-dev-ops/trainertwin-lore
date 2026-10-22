@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,20 +19,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-they solve a basic problem for example they create login api registration api and then some user settings api and they think it is done so problem here is you should solve some crux problem of a particular pro problem crux of the problem for example lets say you want to build some apis like a book my show a ticket booking plan you need to help the recruiters as much as much as possible since they see a shifting through cvs as a chore so for recruiter or now application tracking system checking the resume is a routine
+speaker_1: they solve a basic problem for example they create login api registration api and then some user settings api and they think it is done so problem here is you should solve some crux problem of a particular pro problem crux of the problem for example lets say you want to build some apis like a book my show a ticket booking plan you need to help the recruiters as much as much as possible since they see a shifting through cvs as a chore so for recruiter or now application tracking system checking the resume is a routine
 
 
 process welcome back to uncommon geeks my name is vasanth i hope you all doing well in case if you see me first time on the internet im a content creator i help people to clear their interview i made a lot of series in the past which has been appreciated by many and helped lot of people to clear their interview in case if youre someone looking out for an interview or looking out for a job job change please subscribe to my channel uncommon geeks for sure youll be able to clear your next interview now without wasting further time lets get started the topic of the day as you might have already seen in the thumbnail and the caption so where im going to discuss step by step guide its almost a five step guide
 
-### Speaker 2
+speaker_2: No
 
-No
-
-### Speaker 1
-
-how anyone and everyone will be able to get into product based company if you can follow this process properly im sure now there is little bit of a less hiring happening in the product based company but if you are in your pre final year final year or you are just starting in your engineering career or any other graduation related to computer science particularly that particular career so in if you can follow these five steps that im going to teach in this video definitely by the time you reach your final year you will have a very strong portfolio to portray to the your product based company or if youre
+speaker_1: how anyone and everyone will be able to get into product based company if you can follow this process properly im sure now there is little bit of a less hiring happening in the product based company but if you are in your pre final year final year or you are just starting in your engineering career or any other graduation related to computer science particularly that particular career so in if you can follow these five steps that im going to teach in this video definitely by the time you reach your final year you will have a very strong portfolio to portray to the your product based company or if youre
 
 
 already in your final year still you have a chance and you can portray yourself in this particular way how I am showing so that there is a high chance your resume get shortlisted whenever a product company is hiring okay it can be a maximum of seven to eight minutes or lesser than ten minutes so please watch the video till the ten till then without skipping anything okay now

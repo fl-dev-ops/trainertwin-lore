@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello supply chain friends So in this video I will cover with you the top five jobs in supply chain which are at the risk of getting eliminated due to AI So watch this video till the end so that you can find out if you are doing one of those jobs And dont get me wrong this is not one of those typical AI fear mongering videos Im creating where people typically say that hell is about to break loose because of AI But I will give you some very specific reasons as to why I think these jobs are at risk and what you should do differently about your career if you are doing
+speaker_1: Hello supply chain friends So in this video I will cover with you the top five jobs in supply chain which are at the risk of getting eliminated due to AI So watch this video till the end so that you can find out if you are doing one of those jobs And dont get me wrong this is not one of those typical AI fear mongering videos Im creating where people typically say that hell is about to break loose because of AI But I will give you some very specific reasons as to why I think these jobs are at risk and what you should do differently about your career if you are doing
 
 
 one of those jobs my name is Jamil Hai and Ive been working in supply chain management locations across South Asia Middle East and North America for more than 20 years and my mission is to help you build real life skills for your job and career that they dont teach you in college and if you are preparing for a supply chain job interview anytime soon you should definitely book a session with me because Im going to take your resume the job description youre applying for and based on a combination of those two and my 20 plus years of experience well give you some laser guided tips and tricks which will
@@ -82,9 +80,7 @@ Why Because in this job when you are a very junior demand planner where you are 
 
 digital language models can work much better with unclean data just listen to what Aileen said on the podcast about this whole unclean and unstructured data
 
-### Speaker 2
-
-Whats changed is AI right So that is what has changed in the last couple of years the actual ability to get those big data sets and use the data without having to standardize the data So in the past five six years ago when we tried to build those tools we would have to standardize all the data into the same format put it into a data lake and then put the analysis on top of the data lake or the analysis wouldnt work because the reports wouldnt print the visualizations werent
+speaker_2: Whats changed is AI right So that is what has changed in the last couple of years the actual ability to get those big data sets and use the data without having to standardize the data So in the past five six years ago when we tried to build those tools we would have to standardize all the data into the same format put it into a data lake and then put the analysis on top of the data lake or the analysis wouldnt work because the reports wouldnt print the visualizations werent
 
 
 accurate enough people would question the data So there was this constant effort to clean the data and get it standard and get it in and then look at it And that just is not responsive enough for business right So thats why it wasnt as effective in the past or was extremely expensive to do in the past But the new AI tools allow us to process bigger data sets without standardizing them right So the advancements weve seen in data analytics say I can take six or seven or eight or 10 or 12 or 15
@@ -92,9 +88,7 @@ accurate enough people would question the data So there was this constant effort
 
 diverse data sets and use large language models against those data sets without putting them all in the same place or standardizing the data so that everything means the same
 
-### Speaker 1
-
-So clearly its proving to automate about 75 percent of these repetitive tasks and therefore if you are a junior demand planner and your job is just purely forecasting and cleaning up these models try to upskill yourself and get promoted to a more senior demand planning role or a supply planning role because those jobs are going to be less likely impacted by AI So I hope you enjoyed this video Ive also made videos on topics like which five jobs will help you make 100000 or more in supplies
+speaker_1: So clearly its proving to automate about 75 percent of these repetitive tasks and therefore if you are a junior demand planner and your job is just purely forecasting and cleaning up these models try to upskill yourself and get promoted to a more senior demand planning role or a supply planning role because those jobs are going to be less likely impacted by AI So I hope you enjoyed this video Ive also made videos on topics like which five jobs will help you make 100000 or more in supplies
 
 
 chain and what is the career path that will lead you from zero to a six figure salary in supply chain keep watching

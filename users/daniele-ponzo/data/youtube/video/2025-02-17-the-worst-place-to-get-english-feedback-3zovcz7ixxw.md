@@ -20,8 +20,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -29,34 +29,18 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Come on Feedback like that at a party is just its just plain rude in my opinion It just dont do it
 
-Come on Feedback like that at a party is just its just plain rude in my opinion It just dont do it
+speaker_2: Yeah yeah Just dont do it Dont do it
 
-### Speaker 2 · Speaker 2
+speaker_1: What did you tell them
 
-Yeah yeah Just dont do it Dont do it
+speaker_2: What did you tell them
 
-### Speaker 1 · Speaker 1
+speaker_1: Im just curious
 
-What did you tell them
+speaker_2: Yeah firstly I was blush right So I dont remember what I said but I definitely did some grammar mistake you know I still do right So today But and and she correct me oh actually say like that And I was like so blush you know and uh later on I gave her a really hard time
 
-### Speaker 2 · Speaker 2
+speaker_1: Dont do that In the middle of party you know like But you did well man you know like Its just its just dont do these things you know okay But this is this is great So like having uh supposed you know changing the mindset and you know like you had a clear objective so I want to be fluent because I want to be able to I know maybe get a better job
 
-What did you tell them
-
-### Speaker 1 · Speaker 1
-
-Im just curious
-
-### Speaker 2 · Speaker 2
-
-Yeah firstly I was blush right So I dont remember what I said but I definitely did some grammar mistake you know I still do right So today But and and she correct me oh actually say like that And I was like so blush you know and uh later on I gave her a really hard time
-
-### Speaker 1 · Speaker 1
-
-Dont do that In the middle of party you know like But you did well man you know like Its just its just dont do these things you know okay But this is this is great So like having uh supposed you know changing the mindset and you know like you had a clear objective so I want to be fluent because I want to be able to I know maybe get a better job
-
-### Speaker 2 · Speaker 2
-
-Yeah yeah I know I know
+speaker_2: Yeah yeah I know I know

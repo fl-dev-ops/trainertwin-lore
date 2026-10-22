@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-श्रीशुक उवाच
+speaker_1: श्रीशुक उवाच
 इन्द्रमेवं समादिश्य भगवान् विश्वभावनः
 पश्यतामनिमेषाणां तत्रैवान्तर्दधे हरिः
 

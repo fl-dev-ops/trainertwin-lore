@@ -32,7 +32,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -40,6 +40,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-In my book I try to give uh ideas on how to get there you know how to for example uh use your your intonation and your body if you want to influence or if you need to speak in front of a client How to relax your mind so that uh you speak more uh clearly in a way How to articulate so that your pronunciation feels uh clear and understandable wherever you go Yeah So because English is not only I dont know London or New York you know English is also Kuala Lumpur is Beijing is uh I dont know you know what I want to say right Its global So everybody should understand you not only one or two uh people here and there And in my book I try to communicate exactly that So what can you do today
+speaker_1: In my book I try to give uh ideas on how to get there you know how to for example uh use your your intonation and your body if you want to influence or if you need to speak in front of a client How to relax your mind so that uh you speak more uh clearly in a way How to articulate so that your pronunciation feels uh clear and understandable wherever you go Yeah So because English is not only I dont know London or New York you know English is also Kuala Lumpur is Beijing is uh I dont know you know what I want to say right Its global So everybody should understand you not only one or two uh people here and there And in my book I try to communicate exactly that So what can you do today

@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Reanne Besa
+  speaker_1: null
+  speaker_2: 'Reanne Besa'
 ---
 
 
@@ -25,10 +25,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I wonder which way did you take The first or the second
 
-I wonder which way did you take The first or the second
-
-### Speaker 2 · Reanne Besa
-
-Yeah Well I was quite lucky because when I went here when I was 10 Australia does have a good educational system in terms for um international students coming here because theres a lot of like its multicultural here like like 60 percent of people that you meet here are not Australians Theyre like from different countries So they really accommodate for that So I went to ESL like English second language So itll be like every once a week classes a whole day and they teach you the very basics English pronunciation understanding reading and all of that And I was able to meet friends and people from different cultures
+speaker_2: Yeah Well I was quite lucky because when I went here when I was 10 Australia does have a good educational system in terms for um international students coming here because theres a lot of like its multicultural here like like 60 percent of people that you meet here are not Australians Theyre like from different countries So they really accommodate for that So I went to ESL like English second language So itll be like every once a week classes a whole day and they teach you the very basics English pronunciation understanding reading and all of that And I was able to meet friends and people from different cultures

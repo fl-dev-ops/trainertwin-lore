@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-It sounds like the challenge there is you haven't done the first half of Competency 3. So if we go to the MCC minimum skills document, because think of it this way, if we put Competency 7 in the middle, Competency 6, listening, delivers the information you need to be able to do Competency 7. So that your subconscious can come up with the right question, can, can pick up The analogies, the metaphors that come from the client. Competency 3 starts the thinking process, which enables the awareness to be created. So it's not about saying Competency 7 means I've got to have a load of questions to ask. Competency 3 is where you're asking the questions.
-
+speaker_1: It sounds like the challenge there is you haven't done the first half of Competency 3. So if we go to the MCC minimum skills document, because think of it this way, if we put Competency 7 in the middle, Competency 6, listening, delivers the information you need to be able to do Competency 7. So that your subconscious can come up with the right question, can, can pick up The analogies, the metaphors that come from the client. Competency 3 starts the thinking process, which enables the awareness to be created. So it's not about saying Competency 7 means I've got to have a load of questions to ask. Competency 3 is where you're asking the questions.

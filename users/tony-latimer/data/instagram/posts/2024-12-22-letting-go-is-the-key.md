@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Letting go is the key to success. 🌟 When we hold onto the need for our client
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And if they don't get their problem solved, you're hardly going to get a stunning recommendation, are you? So the really tough bit is you have to let go of that, because it's, it's one of those weird martial arts type things. If you can let go of the need for the client's problem to get solved, it will get solved much more easily. It's, it's counterintuitive, but that's the way it works. You have to just let go. And how do you do that? That's a mental shift. Yeah, you, you're gonna have to work a little while to get your head around that, but it's a mental shift you've got to make.
-
+speaker_1: And if they don't get their problem solved, you're hardly going to get a stunning recommendation, are you? So the really tough bit is you have to let go of that, because it's, it's one of those weird martial arts type things. If you can let go of the need for the client's problem to get solved, it will get solved much more easily. It's, it's counterintuitive, but that's the way it works. You have to just let go. And how do you do that? That's a mental shift. Yeah, you, you're gonna have to work a little while to get your head around that, but it's a mental shift you've got to make.

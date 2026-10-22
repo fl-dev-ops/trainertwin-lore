@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -24,10 +24,7 @@ Want to know where you currently sit? Take the free Coaching Mastery Profile —
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Now, for me, the levels of mastery are the degree to which you can bring using energy into your coaching. And I don't care what level of years of training or experience or credential you've got, you can always learn mastery. You teach— I teach beginners mastery. Yeah, I mean, of course, I've got programmes to help a PCC get to an MCC, but it doesn't matter where you're starting from, you can learn this stuff.
-
+speaker_1: Now, for me, the levels of mastery are the degree to which you can bring using energy into your coaching. And I don't care what level of years of training or experience or credential you've got, you can always learn mastery. You teach— I teach beginners mastery. Yeah, I mean, of course, I've got programmes to help a PCC get to an MCC, but it doesn't matter where you're starting from, you can learn this stuff.
 
 ## Comments (1)
 

@@ -52,8 +52,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -61,22 +61,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I think the important thing is and I think this is what many people get wrong is you get too comfortable through uncomfortable And you know people like to say uh that children learn languages so fast because their brain is somehow more malleable and they are more flexible and they can learn it playfully and so forth and adults you know they have more structure in their brain and for some reason Thats all bullshit There is a single reason why adults find it much harder to learn languages than kids do And that no one talks about this reason and that reason explains it in my opinion explains 95 percent of it And that one reason is pride
 
-I think the important thing is and I think this is what many people get wrong is you get too comfortable through uncomfortable And you know people like to say uh that children learn languages so fast because their brain is somehow more malleable and they are more flexible and they can learn it playfully and so forth and adults you know they have more structure in their brain and for some reason Thats all bullshit There is a single reason why adults find it much harder to learn languages than kids do And that no one talks about this reason and that reason explains it in my opinion explains 95 percent of it And that one reason is pride
+speaker_2: Hmm
 
-### Speaker 2 · Speaker 2
+speaker_1: A kid a child is completely used to the idea that most of the stuff going on around them they dont understand Children usually like when youre a kid youre three four five years old most of the stuff the adults do you dont understand
 
-Hmm
+speaker_2: Of course
 
-### Speaker 1 · Speaker 1
-
-A kid a child is completely used to the idea that most of the stuff going on around them they dont understand Children usually like when youre a kid youre three four five years old most of the stuff the adults do you dont understand
-
-### Speaker 2 · Speaker 2
-
-Of course
-
-### Speaker 1 · Speaker 1
-
-Right They talk about stuff they do things
+speaker_1: Right They talk about stuff they do things

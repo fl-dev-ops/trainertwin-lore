@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,42 +19,28 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: Yeah hello all Welcome back to Uncommon Geeks My name is Vasanth So people who dont know me Im a content creator I help people to clear their interview And this is a series where most of you know we are doing a lot of mock interviews for the freshers And yesterday also I did one interview I think it will be live Its already live Today I am interviewing Vijay So youll hear about more from Vijay only Vijay can you please introduce yourself so that we can get started
 
-Yeah hello all Welcome back to Uncommon Geeks My name is Vasanth So people who dont know me Im a content creator I help people to clear their interview And this is a series where most of you know we are doing a lot of mock interviews for the freshers And yesterday also I did one interview I think it will be live Its already live Today I am interviewing Vijay So youll hear about more from Vijay only Vijay can you please introduce yourself so that we can get started
-
-### Speaker 2
-
-I am Vijay from I am currently in fourth year fourth year undergrad in metallurgical and medicines engineering at IIT Madras
+speaker_2: I am Vijay from I am currently in fourth year fourth year undergrad in metallurgical and medicines engineering at IIT Madras
 
 
 I am currently giving the interview for a DSA
 
-### Speaker 1
+speaker_1: So today we are Vijay Im testing Vijays DSA skills So Vijay is as he mentioned hes in IIT and he has we were just interacting before this recording he has solved more than 1300 plus problems So lets see how Vijay will face this interview Okay Vijay just before we get started with the DSA round I have this practice of asking two common questions to almost every fresher or junior developers Can you tell me what is time complexity in general
 
-So today we are Vijay Im testing Vijays DSA skills So Vijay is as he mentioned hes in IIT and he has we were just interacting before this recording he has solved more than 1300 plus problems So lets see how Vijay will face this interview Okay Vijay just before we get started with the DSA round I have this practice of asking two common questions to almost every fresher or junior developers Can you tell me what is time complexity in general
+speaker_2: Time complexity is like uh its a time required for uh for the program to run
 
-### Speaker 2
-
-Time complexity is like uh its a time required for uh for the program to run
-
-### Speaker 1
-
-So let me give you an example then So lets say we have a merge sort okay Merge sort of yesterday so I was saying the same So merge sort has 10 elements passed to merge sort correct Before asking that 10 can you tell me what is the time complexity of merge sort
+speaker_1: So let me give you an example then So lets say we have a merge sort okay Merge sort of yesterday so I was saying the same So merge sort has 10 elements passed to merge sort correct Before asking that 10 can you tell me what is the time complexity of merge sort
 
 
 Correct Absolutely So merge sort you pass 10 elements It will take some time to sort that elements Lets say some millisecond correct So you pass now one crore elements Probably it will take one second to sort the entire list entire that particular elements that you passed So now in this case what is the time complexity of merge sort 10 millisecond or one second
 
-### Speaker 2
-
-In love and its
+speaker_2: In love and its
 
 
 Its based on the number of input number of the input basically its based its based on the input sure so if it is if the input is 1 million the time complexity is
 
-### Speaker 1
-
-Sure sure That is not the answer Okay Please read more about it after the interview Audience whoever watching yesterday also I asked this Today also Im saying please chuck Thats not how the time complexity works but that doesnt make you any less Okay So now Im sharing the question with you Which I okay Can you please Ill give you shared access as well Okay So audience whoever watching the link to the question will be there in the description section Its not an easy problem Its a medium difficulty problem So this problem was recently asked in Google interview
+speaker_1: Sure sure That is not the answer Okay Please read more about it after the interview Audience whoever watching yesterday also I asked this Today also Im saying please chuck Thats not how the time complexity works but that doesnt make you any less Okay So now Im sharing the question with you Which I okay Can you please Ill give you shared access as well Okay So audience whoever watching the link to the question will be there in the description section Its not an easy problem Its a medium difficulty problem So this problem was recently asked in Google interview
 
 
 or fresher and one to two years of experience ive taken this question from i think glassdoor or lead code interview experiences okay lets see whether vijay can solve the problem and audience if youre seriously preparing for any product based companies so you can take this question also and start along with vijay the time duration to solve this problem is around 20 minutes its a medium difficulty question 22 maximum is 25 minutes where first five to ten minutes we spend on the approach remaining time on the coding so you guys can also start coding like how vijay would do
@@ -62,31 +48,21 @@ or fresher and one to two years of experience ive taken this question from i thi
 
 Can you share the screen Vijay Please read the question Vijay It will go like this You read the question You understand the question If you have any doubts you can ask me If you are clear about the question you tell the approach to me How are you going to solve the problem Okay Once you both fine with the approach then you get started with the coding Okay So right now at the time of recording its 9 point 25 Completing this overall we have maximum time of 25 minutes
 
-### Speaker 2
-
-Ill reiterate the question if I understand it correctly So I have initial supplies some ingredients some elements So if I need to use those supplies and make recipes
+speaker_2: Ill reiterate the question if I understand it correctly So I have initial supplies some ingredients some elements So if I need to use those supplies and make recipes
 
 
 So for each recipe for each is for each recipe we have an ingredient where if I have those ingredients only I can make
 
-### Speaker 1
-
-The only thing you already read it may the whatever the recipe that are prepared can become ingredient for something else
+speaker_1: The only thing you already read it may the whatever the recipe that are prepared can become ingredient for something else
 
 
 I mean keep on uh getting added
 
-### Speaker 2
+speaker_2: Yes
 
-Yes
+speaker_1: Take one or two minutes come with the right approach and let me know what youre gonna do
 
-### Speaker 1
-
-Take one or two minutes come with the right approach and let me know what youre gonna do
-
-### Speaker 2
-
-So currently Im thinking of like a DFS kind of approach where where initially I have some supplies I can start with them Ill Ill iterate with the recipes
+speaker_2: So currently Im thinking of like a DFS kind of approach where where initially I have some supplies I can start with them Ill Ill iterate with the recipes
 
 
 uh recipes lets say I Ill refer recipes as RR
@@ -97,84 +73,52 @@ Ill iterate through the R array So R So if I have for each for each R for each r
 
 And then Ill read it Ill iterate again like Ill keep on iterating If I find if I find if I can if I have all ingredients for that particular recipe then I can prepare and I can add into the recipe
 
-### Speaker 1
+speaker_1: What is the complexity that youre thinking time complexity of algorithm
 
-What is the complexity that youre thinking time complexity of algorithm
-
-### Speaker 2
-
-say
+speaker_2: say
 
 
 Firstly Im thinking Im Im reiterating to the to the
 
-### Speaker 1
-
-So basically you iterate through recipes correct
+speaker_1: So basically you iterate through recipes correct
 
 
 So lets talk about it
 
-### Speaker 2
-
-So lets talk about the honor of it lets talk about the recipes
+speaker_2: So lets talk about the honor of it lets talk about the recipes
 
 
 and for each for each one i need i am checking for the supplies im ill be checking in the supplies if it is present or not basically ill ill have one multi set or one set set of string to check whether the whether its present in some supplies or not
 
-### Speaker 1
+speaker_1: So minimum in in the complexity of this would be R into N
 
-So minimum in in the complexity of this would be R into N
+speaker_2: Im sorry
 
-### Speaker 2
+speaker_1: Minimum whatever youre asking for ingredients again you already know the ingredients correct
 
-Im sorry
+speaker_2: Yeah
 
-### Speaker 1
-
-Minimum whatever youre asking for ingredients again you already know the ingredients correct
-
-### Speaker 2
-
-Yeah
-
-### Speaker 1
-
-You will extract the ingredients and you will check the ingredients in the the disarray
+speaker_1: You will extract the ingredients and you will check the ingredients in the the disarray
 
 
 But again I think its not r into n r into i into n
 
-### Speaker 2
+speaker_2: R into I into log in basically like if I if I check in the in the in a set set of string it will be log in
 
-R into I into log in basically like if I if I check in the in the in a set set of string it will be log in
+speaker_1: A very set of strings supplies are also array right you will for converting
 
-### Speaker 1
-
-A very set of strings supplies are also array right you will for converting
-
-### Speaker 2
-
-Where is set of strings
+speaker_2: Where is set of strings
 
 
 Like I can ah I can convert that into uh set up set right
 
-### Speaker 1
+speaker_1: You will convert that into a set you are all unique correct
 
-You will convert that into a set you are all unique correct
+speaker_2: Yes yes yes
 
-### Speaker 2
+speaker_1: So you are in right direction Vijay but I would say probably you can optimize it even little further Can you think of something You are not totally wrong but there is still scope for optimization
 
-Yes yes yes
-
-### Speaker 1
-
-So you are in right direction Vijay but I would say probably you can optimize it even little further Can you think of something You are not totally wrong but there is still scope for optimization
-
-### Speaker 2
-
-So let me present some graph here Lets say British
+speaker_2: So let me present some graph here Lets say British
 
 
 Independent
@@ -206,43 +150,27 @@ And if the dependency of that particular recipe is zero then I can actually prep
 
 Its kind of directed graph and its basically topological sort in the directed
 
-### Speaker 1
+speaker_1: Are you comfortable implementing this in fifteen twenty minutes
 
-Are you comfortable implementing this in fifteen twenty minutes
+speaker_2: S I think I can win
 
-### Speaker 2
+speaker_1: What will be the complexity do you think this is better than the previous one that you proposed
 
-S I think I can win
+speaker_2: I should be better its its kind of for preparing the for making the graph it will be order of n okay I guess for each recipe I need to have ingredients its order of n only and for uh for traversal for for the topological sort its order of n only so it should be order of n
 
-### Speaker 1
+speaker_1: Sure get started then
 
-What will be the complexity do you think this is better than the previous one that you proposed
-
-### Speaker 2
-
-I should be better its its kind of for preparing the for making the graph it will be order of n okay I guess for each recipe I need to have ingredients its order of n only and for uh for traversal for for the topological sort its order of n only so it should be order of n
-
-### Speaker 1
-
-Sure get started then
-
-### Speaker 2
-
-Let me run uh three
+speaker_2: Let me run uh three
 
 
 Then yeah yeah please submit
 
-### Speaker 1
-
-Yeah yeah please submit yes yes please submit then well discuss the solution in detail
+speaker_1: Yeah yeah please submit yes yes please submit then well discuss the solution in detail
 
 
 Lets lets get back to the pro solution again now Okay lets go through the solution step line by line Explain me what is happening
 
-### Speaker 2
-
-Yeah yeah So basically what Im doing here is like so for each of I have I have initial supplies Correct So for each recipe there is one there is some ingredients which which that particular recipe is depending on
+speaker_2: Yeah yeah So basically what Im doing here is like so for each of I have I have initial supplies Correct So for each recipe there is one there is some ingredients which which that particular recipe is depending on
 
 
 So Ill have a I need to make that recipes
@@ -274,13 +202,9 @@ So yeah so I have the supplies Im starting with the supplies first Im basically 
 
 If I remove if I remove that the basically so for that for that particular parent for that particular parent Im removing the dependency one one dependency dependency
 
-### Speaker 1
+speaker_1: Okay this part Im not clear can you elaborate a little more like eastern floor have an inward edge to the bread that part Im clear when youre gonna remove the edges
 
-Okay this part Im not clear can you elaborate a little more like eastern floor have an inward edge to the bread that part Im clear when youre gonna remove the edges
-
-### Speaker 2
-
-So lets say Im actually Im Im given with the east floor and cone right Correct So Ill in the queue in the initial queue here Ill be having all supplies So Ill have Ill have east floor and cone
+speaker_2: So lets say Im actually Im Im given with the east floor and cone right Correct So Ill in the queue in the initial queue here Ill be having all supplies So Ill have Ill have east floor and cone
 
 
 So now Im I if I if I pop here Ill get uh east
@@ -303,62 +227,38 @@ So that means bread is depending on the yeast
 
 I I if I if I uh traverse the east if I if I traverse the east I can remove that edge from the edge from the bread so basically Im removing one one edge which is pointing to bread Im decreasing one dependency for for the bread
 
-### Speaker 1
+speaker_1: Got it got it tell me now what is it
 
-Got it got it tell me now what is it
+speaker_2: Im sorry
 
-### Speaker 2
+speaker_1: I I got the gist yeah please please
 
-Im sorry
-
-### Speaker 1
-
-I I got the gist yeah please please
-
-### Speaker 2
-
-Yeah
+speaker_2: Yeah
 
 
 So if I if I have all if I if I had removed all the dependencies all the ingredients then Ill have the dependency as degree as zero that means there is no incoming edges to the particular node that means this implies there is no ingredient which is prepared I have all ingredients yeah so that I can prepare that recipe
 
-### Speaker 1
-
-got it so whenever one particular recipe is already done like eastern floor say you did the bread correct so the bread can be used for the secondary sub for making something else
+speaker_1: got it so whenever one particular recipe is already done like eastern floor say you did the bread correct so the bread can be used for the secondary sub for making something else
 
 
 So that how it is taken care hmm
 
-### Speaker 2
-
-Exactly
+speaker_2: Exactly
 
 
 Yeah that is taken care of because I added that particular element which is already prepared in the queue So now if I encounter that if I traverse that element I remove those the edges which is depending on that recipe
 
-### Speaker 1
+speaker_1: Got it got it So now the line number 10 to 17 right So this is the follow up where you are forming the basic graph
 
-Got it got it So now the line number 10 to 17 right So this is the follow up where you are forming the basic graph
+speaker_2: Yes yes
 
-### Speaker 2
+speaker_1: And actual processing is happening in after line number 20
 
-Yes yes
+speaker_2: Yes yes
 
-### Speaker 1
+speaker_1: So tell me now what do you think is the time complexity here
 
-And actual processing is happening in after line number 20
-
-### Speaker 2
-
-Yes yes
-
-### Speaker 1
-
-So tell me now what do you think is the time complexity here
-
-### Speaker 2
-
-Yeah here Im using map here I can use unordered map but map is basically unordered map sometimes give order of n square order of n complexity to check that Yeah yeah It depends on the implementation Its hashing basically Unordered map is implemented in hashing Yeah So I can trust that because it can give sometimes often time complexity So Im using map here which is built on
+speaker_2: Yeah here Im using map here I can use unordered map but map is basically unordered map sometimes give order of n square order of n complexity to check that Yeah yeah It depends on the implementation Its hashing basically Unordered map is implemented in hashing Yeah So I can trust that because it can give sometimes often time complexity So Im using map here which is built on
 
 
 of uh red black trees and banana trees so it it always its complex trees are log in or
@@ -369,68 +269,38 @@ So here the time complexity login into into the
 
 order of n the number uh the number of recipes into the number uh the number of uh ingredients are in each recipe
 
-### Speaker 1
+speaker_1: So
 
-So
+speaker_2: Mm hmm
 
-### Speaker 2
+speaker_1: log in into the recipes into the ingredients correct r into i into r into i into log in
 
-Mm hmm
-
-### Speaker 1
-
-log in into the recipes into the ingredients correct r into i into r into i into log in
-
-### Speaker 2
-
-I
+speaker_2: I
 
 
 Okay yes yes
 
-### Speaker 1
+speaker_1: Got it And about what about the second part The line number 20 So there youre processing
 
-Got it And about what about the second part The line number 20 So there youre processing
+speaker_2: Yeah uh its its order of n its basically order of n Again guess thats order of n
 
-### Speaker 2
+speaker_1: I didnt get that
 
-Yeah uh its its order of n its basically order of n Again guess thats order of n
+speaker_2: Plus order of it plus order of it
 
-### Speaker 1
+speaker_1: Right so supply is basically here in this case
 
-I didnt get that
+speaker_2: Yes
 
-### Speaker 2
+speaker_1: kind of s plus r into n of log n
 
-Plus order of it plus order of it
+speaker_2: Yes yes yes
 
-### Speaker 1
+speaker_1: Okay okay got it Which I just checked after the interview I think it can be further optimized I believe as far as I have solved this in the past Okay definitely can check it out But whatever you have come with is better than the initial solution that you proposed You can stop sharing Okay so well discuss few things that which I honestly feel that theres scope for improvement and what youre doing good
 
-Right so supply is basically here in this case
+speaker_2: Yeah yeah
 
-### Speaker 2
-
-Yes
-
-### Speaker 1
-
-kind of s plus r into n of log n
-
-### Speaker 2
-
-Yes yes yes
-
-### Speaker 1
-
-Okay okay got it Which I just checked after the interview I think it can be further optimized I believe as far as I have solved this in the past Okay definitely can check it out But whatever you have come with is better than the initial solution that you proposed You can stop sharing Okay so well discuss few things that which I honestly feel that theres scope for improvement and what youre doing good
-
-### Speaker 2
-
-Yeah yeah
-
-### Speaker 1
-
-Yeah yeah please please stop sharing
+speaker_1: Yeah yeah please please stop sharing
 
 
 So like I mentioned this is a problem by Google I have read this and I have also read it by Google engineer only posting it some places where this equation was asked So good that you are able to solve Couple of points on what are positive Vijay You very well know you already solved a lot of problems So your problem solving intuition is very good Like whenever you look at a problem you can think of a multiple approaches because you have already solved so many problems which is good So you have to keep it up Okay And second also the way you quickly
@@ -447,18 +317,10 @@ interviewers as well So in such scenarios what happens is they would expect litt
 
 matters a lot First if your articulation is good they know what you are explaining then they wouldnt ask a lot of questions when youre writing correct They are because they already know what you have said Otherwise they have to go through each line by line and ask questions to you for understand the solution Okay These are my honest feedback Rajiv If you have any questions feel free to ask me
 
-### Speaker 2
+speaker_2: Uh thank you for the
 
-Uh thank you for the
+speaker_1: You have any other questions
 
-### Speaker 1
+speaker_2: Uh
 
-You have any other questions
-
-### Speaker 2
-
-Uh
-
-### Speaker 1
-
-Okay nice talking to you Vijay Okay thank you So audience whoever have watched the video in case if you solved the problem please paste the link of the solution that you have done Whatever Vijay has done Ill take the link and Ill paste it so that you can refer to his solution If you have solved youll paste the link Vijay also will Ill also review and well let you know in case the solution is good or there can be further optimizations possible Thank you all for watching Catch you in the next video
+speaker_1: Okay nice talking to you Vijay Okay thank you So audience whoever have watched the video in case if you solved the problem please paste the link of the solution that you have done Whatever Vijay has done Ill take the link and Ill paste it so that you can refer to his solution If you have solved youll paste the link Vijay also will Ill also review and well let you know in case the solution is good or there can be further optimizations possible Thank you all for watching Catch you in the next video

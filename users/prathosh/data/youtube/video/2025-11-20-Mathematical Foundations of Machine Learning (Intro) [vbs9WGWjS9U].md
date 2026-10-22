@@ -6,14 +6,15 @@ date: '2025-11-20'
 duration: 03:33
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Mathematical Foundations of Machine Learning (Intro)
 
 ## Transcript
 
-
-Machine
+speaker_1: Machine
 learning and artificial intelligence
 has become ubiquitous in almost
 all the areas of science and

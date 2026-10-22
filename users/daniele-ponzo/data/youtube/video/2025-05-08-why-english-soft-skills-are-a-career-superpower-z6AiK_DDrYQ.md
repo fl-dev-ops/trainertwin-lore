@@ -10,8 +10,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,14 +19,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I would learn English and I would work on my soft skills at the same time
 
-I would learn English and I would work on my soft skills at the same time
+speaker_2: Hand in hand yeah
 
-### Speaker 2 · Speaker 2
-
-Hand in hand yeah
-
-### Speaker 1 · Speaker 1
-
-Exactly Thats what I would do yeah So yeah thats thats one strategy that has worked really well for me and that is working really well for the people I work with And and that is somehow witnessed weekly well not weekly but you know regularly on my podcast you know because I have people there who tell me exactly this
+speaker_1: Exactly Thats what I would do yeah So yeah thats thats one strategy that has worked really well for me and that is working really well for the people I work with And and that is somehow witnessed weekly well not weekly but you know regularly on my podcast you know because I have people there who tell me exactly this

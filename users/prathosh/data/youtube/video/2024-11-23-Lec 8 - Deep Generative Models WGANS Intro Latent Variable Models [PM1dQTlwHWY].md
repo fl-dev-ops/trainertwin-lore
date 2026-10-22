@@ -8,52 +8,33 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 8 - Deep Generative Models WGANS Intro Latent Variable Models
 
 ## Transcript
 
+speaker_1: Yes sir we were able to see the first quiz also you got to see the marks right
 
-### Speaker 1
+speaker_2: suggesting this
 
-Yes sir we were able to see the first quiz also you got to see the marks right
+speaker_1: Okay thanks And we have decided the midterm exam to be on 10 13th or something right I think Ive marked our calendars also
 
-### Speaker 2
+speaker_2: Yes its 13th August on
 
-suggesting this
+speaker_1: 13th after noon okay great okay so lets get somebody has raised their hand Aditya yeah
 
-### Speaker 1
+speaker_3: Uh sir maybe a logistical request if feasible otherwise please reject because this code two to six is like a festive for us like Durga Puja and all the Shara So that assignment time can it be this by Matt report there Just a request if not for feasible please ignore
 
-Okay thanks And we have decided the midterm exam to be on 10 13th or something right I think Ive marked our calendars also
+speaker_1: What can what uh I
 
-### Speaker 2
+speaker_3: the assignment date assignment deadline is nine i believe right and two to six is somewhere is a festive session for most of us like the theradurga etc so can it be increased by two three days i mean the timeline because we may not give the complete hour should be given to this project during that time its just a request i mean if not possible please ignore
 
-Yes its 13th August on
-
-### Speaker 1
-
-13th after noon okay great okay so lets get somebody has raised their hand Aditya yeah
-
-### Speaker 4
-
-Uh sir maybe a logistical request if feasible otherwise please reject because this code two to six is like a festive for us like Durga Puja and all the Shara So that assignment time can it be this by Matt report there Just a request if not for feasible please ignore
-
-### Speaker 1
-
-What can what uh I
-
-### Speaker 4
-
-the assignment date assignment deadline is nine i believe right and two to six is somewhere is a festive session for most of us like the theradurga etc so can it be increased by two three days i mean the timeline because we may not give the complete hour should be given to this project during that time its just a request i mean if not possible please ignore
-
-### Speaker 1
-
-I mean see what happens is if I move it then the other assign the entire schedule has to be re arranged
+speaker_1: I mean see what happens is if I move it then the other assign the entire schedule has to be re arranged
 
 
 Kindly excuse me on that
@@ -64,13 +45,9 @@ Okay lets get started uh
 
 You dont see my screen
 
-### Speaker 3
+speaker_4: Mm
 
-Mm
-
-### Speaker 1
-
-So todays agenda is that uh as I said we will move on to the next class of models which are various autoencoders which also happens to be the
+speaker_1: So todays agenda is that uh as I said we will move on to the next class of models which are various autoencoders which also happens to be the
 
 
 a baseline for the state of the art generative image generating models called diffusion models which we will see next okay so before we go there uh we just take uh some 10 15 minutes and quickly finish this domain at those serial networks right which was left out the last time
@@ -108,24 +85,16 @@ powerful applications of adversarial learning other than generative modeling and
 
 Uh and if there are any questions you can let me know or ask also
 
-### Speaker 4
+speaker_3: I pinged and TA but no one replied
 
-I pinged and TA but no one replied
-
-### Speaker 1
-
-Oh is it I Ill ask to do it So last tutorial was done on CNN and PyTorch right Was it useful
+speaker_1: Oh is it I Ill ask to do it So last tutorial was done on CNN and PyTorch right Was it useful
 
 
 mean in the assignment you are saying see what i have observed is that uh that this animal data set right because there are multiple classes there about 90 classes uh unless you have a very uh deep architecture and you do a lot of hyperparameter tuning you dont get a very good generated images right but you know if you if you get images that are like
 
-### Speaker 4
+speaker_3: But it doesnt work
 
-But it doesnt work
-
-### Speaker 1
-
-award looking like aha butterfly you will definitely get for that data set you will get good dream images not for the first one there are two data sets that we have given now
+speaker_1: award looking like aha butterfly you will definitely get for that data set you will get good dream images not for the first one there are two data sets that we have given now
 
 
 Yeah for the animal data set the images that are generated are like somewhat uh like looks looks like animalish but you need a lot of resources and deeper architectures to
@@ -142,35 +111,23 @@ We talked about FID in this course
 
 Oh no
 
-### Speaker 4
+speaker_3: Not exactly
 
-Not exactly
-
-### Speaker 1
-
-It is planned for today Yeah Ill have to do that today as well
+speaker_1: It is planned for today Yeah Ill have to do that today as well
 
 
 Ive not told you about the the bursa strains metric also no
 
-### Speaker 4
-
-knows that we havent
+speaker_3: knows that we havent
 
 
 Uh if the data set is hard for question one and two then why are you asking for the other questions
 
-### Speaker 1
+speaker_1: And it is the code
 
-And it is the code
+speaker_3: Like if animal data set is hard to train given the compute resource we have then for other questions also like third fourth and waste all like well have to use the same data set right Animal then well have a poor result there also if we train this animal Okay
 
-### Speaker 4
-
-Like if animal data set is hard to train given the compute resource we have then for other questions also like third fourth and waste all like well have to use the same data set right Animal then well have a poor result there also if we train this animal Okay
-
-### Speaker 1
-
-Nah
+speaker_1: Nah
 
 
 Thats okay Thats okay See the assignment grading will not be based on the quality of your generated data anyway Its not about results
@@ -184,76 +141,42 @@ Building a generative model is difficult especially using adversarial training S
 
 So theres a
 
-### Speaker 4
+speaker_3: This is a confirmation what we were trying to ask the butterfly data set is for only the 192
 
-This is a confirmation what we were trying to ask the butterfly data set is for only the 192
+speaker_1: the front
 
-### Speaker 1
+speaker_3: from the third onwards we need to use the animal data set the the the the first again we need to use the animal data set
 
-the front
+speaker_2: and to see how the outcomes are coming even the FAD calculation everything
 
-### Speaker 4
+speaker_1: But
 
-from the third onwards we need to use the animal data set the the the the first again we need to use the animal data set
+speaker_2: Okay okay that was a question
 
-### Speaker 2
+speaker_1: But for the first and second question you will have to use the animal data set as well both of them
 
-and to see how the outcomes are coming even the FAD calculation everything
+speaker_2: So yeah we definitely we need to train it for the other
 
-### Speaker 1
+speaker_1: But its
 
-But
+speaker_2: Okay but the generation may not be so accurate
 
-### Speaker 2
-
-Okay okay that was a question
-
-### Speaker 1
-
-But for the first and second question you will have to use the animal data set as well both of them
-
-### Speaker 2
-
-So yeah we definitely we need to train it for the other
-
-### Speaker 1
-
-But its
-
-### Speaker 2
-
-Okay but the generation may not be so accurate
-
-### Speaker 1
-
-Yes yes yes
+speaker_1: Yes yes yes
 
 
 Okay so lets maybe continue quickly Here I go on lets go on Yes sorry sir one more thing I noticed sir in the original Jan paper the model was basically on a 64 by 64 image The moment I scale it up to 128 right I noticed the mode collab
 
-### Speaker 2
+speaker_2: Becomes a lot frequent than 64 by 64 like the performance is much better
 
-Becomes a lot frequent than 64 by 64 like the performance is much better
+speaker_1: Domain D C again youre D C again youre saying
 
-### Speaker 1
+speaker_2: Yeah yeah yeah
 
-Domain D C again youre D C again youre saying
+speaker_1: TCAN okay Yeah see you can tweak One thing that you can do is if you start from 128 128 just have another down sampling layer and then use TCAN on top of it
 
-### Speaker 2
+speaker_2: Sure sir um I tried that I think it requires a little hyperparameter tuning to get it right
 
-Yeah yeah yeah
-
-### Speaker 1
-
-TCAN okay Yeah see you can tweak One thing that you can do is if you start from 128 128 just have another down sampling layer and then use TCAN on top of it
-
-### Speaker 2
-
-Sure sir um I tried that I think it requires a little hyperparameter tuning to get it right
-
-### Speaker 1
-
-Got it got it
+speaker_1: Got it got it
 
 
 Yeah biology
@@ -264,13 +187,9 @@ Its in the again the first question
 
 Shatya
 
-### Speaker 2
+speaker_2: So there is the instance of GAN we discussed right where we used the GENSIN SHEN and DIVERGENT for being naive GAN So actually if you see that the GAN paper right sir that is the GAN is separately mentioned and GENSIN SHEN is also separately mentioned So its not that because of GENSIN SHEN and here we are talking about GAN
 
-So there is the instance of GAN we discussed right where we used the GENSIN SHEN and DIVERGENT for being naive GAN So actually if you see that the GAN paper right sir that is the GAN is separately mentioned and GENSIN SHEN is also separately mentioned So its not that because of GENSIN SHEN and here we are talking about GAN
-
-### Speaker 1
-
-Okay okay Ill tell you Yeah see okay thats a good observation See the divergence that is used in the Naive GAN paper is Jensen Shannon divergence minus a constant I think its log 2 or something Okay thats the and its JL divergence plus a constant That is what the GAN objective is
+speaker_1: Okay okay Ill tell you Yeah see okay thats a good observation See the divergence that is used in the Naive GAN paper is Jensen Shannon divergence minus a constant I think its log 2 or something Okay thats the and its JL divergence plus a constant That is what the GAN objective is
 
 
 Okay so lets maybe quickly go to too many things to discuss Okay lets get started Yeah its charged I said so this
@@ -350,13 +269,9 @@ Yeah this is good hold on let me share my screen
 
 You see my screen
 
-### Speaker 4
+speaker_3: Marius
 
-Marius
-
-### Speaker 1
-
-So you look at this So there are these data sets There is MNIST there is USPS something called MNIST M and there is the street view house numbers data set Now what you see is that all of these are semantically the same The class wise they all have the same right They have digits But if you build a classifier on lets say MNIST and try to test it on USPS
+speaker_1: So you look at this So there are these data sets There is MNIST there is USPS something called MNIST M and there is the street view house numbers data set Now what you see is that all of these are semantically the same The class wise they all have the same right They have digits But if you build a classifier on lets say MNIST and try to test it on USPS
 
 
 it will not give you good performance
@@ -382,13 +297,9 @@ So you have to ensure that the problem definition is clear then we will move on
 
 Please ask if you have any questions I can see your sir Yes Shivan Yes sir When we say we want to learn this on the the the model should perform well on the target distribution as well eventually we will be passing target distribution back to the model
 
-### Speaker 2
+speaker_2: get the respective target labels right
 
-get the respective target labels right
-
-### Speaker 1
-
-The final evaluation will be done with target labels of course but while you are building the model you dont have target labels
+speaker_1: The final evaluation will be done with target labels of course but while you are building the model you dont have target labels
 
 
 Of course I mean you can evaluate the definitely it will be based on the target labels only but yeah
@@ -396,29 +307,17 @@ Of course I mean you can evaluate the definitely it will be based on the target 
 
 I dont see yeah uh Satya go on
 
-### Speaker 2
+speaker_2: So sir isnt it the cycle young the same right Richard only that we dont have the label for the first data set or the second set or something
 
-So sir isnt it the cycle young the same right Richard only that we dont have the label for the first data set or the second set or something
+speaker_1: No see in cycle again the objective is to convert the source data to target data right Generate samples from target data Here you know youre not the objective is not to generate the target data it is to build a classifier or representation such that it does well on target data as well
 
-### Speaker 1
+speaker_2: Okay okay to produce a label over that argument
 
-No see in cycle again the objective is to convert the source data to target data right Generate samples from target data Here you know youre not the objective is not to generate the target data it is to build a classifier or representation such that it does well on target data as well
+speaker_1: Send it
 
-### Speaker 2
+speaker_3: you answered my question so basically we are trying to
 
-Okay okay to produce a label over that argument
-
-### Speaker 1
-
-Send it
-
-### Speaker 4
-
-you answered my question so basically we are trying to
-
-### Speaker 1
-
-Basically we are going to move on Lets move on Then lets move on please because theres too many things to cover today If Ive answered your question lets move on Okay So thats the uh the um okay Ill have to share it again
+speaker_1: Basically we are going to move on Lets move on Then lets move on please because theres too many things to cover today If Ive answered your question lets move on Okay So thats the uh the um okay Ill have to share it again
 
 
 What is the problem setting See there is also another class of problems right where you do not even have data from the target distribution Those set of problems are called domain generalizations
@@ -546,24 +445,16 @@ Can does it go on please
 
 I dont know if you can uh any any can you hear me uh all of you
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-Okay Raghavendra Govind go on Oh yes in this case the phi network that you have shown is kind of compressing the features But I mean is it reducing the dimensions or Yeah it is Typically z is less than dimensionality of z is much less than that of x
+speaker_1: Okay Raghavendra Govind go on Oh yes in this case the phi network that you have shown is kind of compressing the features But I mean is it reducing the dimensions or Yeah it is Typically z is less than dimensionality of z is much less than that of x
 
 
 It acts like a generator now yeah
 
-### Speaker 2
+speaker_2: But I mean it looks very similar to the discriminator right because uh its reducing the dimensions
 
-But I mean it looks very similar to the discriminator right because uh its reducing the dimensions
-
-### Speaker 1
-
-Lets reduce the dimensions No just because it reduces the dimension its not a discriminator right It is simply a neural network that transforms X from Z X to one random variable to other It can increase the dimension reduce the dimension doesnt matter
+speaker_1: Lets reduce the dimensions No just because it reduces the dimension its not a discriminator right It is simply a neural network that transforms X from Z X to one random variable to other It can increase the dimension reduce the dimension doesnt matter
 
 
 Of course it is similar to discriminator in the sense that it reduces the dimensionality but yeah it is not a classifier right Which is trying to give a number between zero and one
@@ -571,21 +462,13 @@ Of course it is similar to discriminator in the sense that it reduces the dimens
 
 Okay so this is uh uh Yamiwake
 
-### Speaker 2
+speaker_2: So what does it mean X and X cap So are we passing it in sequence or are we
 
-So what does it mean X and X cap So are we passing it in sequence or are we
+speaker_1: In sequence or are we Yeah sequence sequence yeah So you X when X goes ZS comes out When X cap goes so ZT comes out
 
-### Speaker 1
+speaker_2: technical some
 
-In sequence or are we Yeah sequence sequence yeah So you X when X goes ZS comes out When X cap goes so ZT comes out
-
-### Speaker 2
-
-technical some
-
-### Speaker 1
-
-Here in additional to that theres also a classifier here okay
+speaker_1: Here in additional to that theres also a classifier here okay
 
 
 This classifier its called the task H theta it will take z
@@ -674,48 +557,28 @@ Okay uh any questions on this method
 
 Yeah locations
 
-### Speaker 2
+speaker_2: Sir is it necessary to back propagate through phi from H of the theta as well
 
-Sir is it necessary to back propagate through phi from H of the theta as well
-
-### Speaker 1
-
-Yes because otherwise what will happen No the features that have been learned okay may not be such that they are conducive for classification
+speaker_1: Yes because otherwise what will happen No the features that have been learned okay may not be such that they are conducive for classification
 
 
 So youll have to ensure that the classification also happens The classification on the source data has to happen
 
-### Speaker 2
+speaker_2: Cant that be captured by H of theta itself
 
-Cant that be captured by H of theta itself
+speaker_1: H of theta is strain no you have to strain H of theta
 
-### Speaker 1
+speaker_2: Yeah yeah so during that training on the
 
-H of theta is strain no you have to strain H of theta
+speaker_1: No no it wasnt it your question you are saying just use the zs and try in h of theta separately is what you are saying z
 
-### Speaker 2
+speaker_2: Right right
 
-Yeah yeah so during that training on the
+speaker_1: Why do you have to try and feed together with HF data is that your question
 
-### Speaker 1
+speaker_2: Right right
 
-No no it wasnt it your question you are saying just use the zs and try in h of theta separately is what you are saying z
-
-### Speaker 2
-
-Right right
-
-### Speaker 1
-
-Why do you have to try and feed together with HF data is that your question
-
-### Speaker 2
-
-Right right
-
-### Speaker 1
-
-See if you if you take a ZS separately and try an H of theta what will happen is the features that have been learned to ensure that these two distributions are same may not be useful for the classification for instance what can happen is
+speaker_1: See if you if you take a ZS separately and try an H of theta what will happen is the features that have been learned to ensure that these two distributions are same may not be useful for the classification for instance what can happen is
 
 
 Suppose both of them for all x right or both of I mean the PGS and PGT are such that they give you one vector for all data points Lets say that they all collapse
@@ -726,24 +589,16 @@ So if that happens even then the distribution matches PCS and PGT matches if for
 
 Understood So the features that have been learned have to be such that they are useful for classification and thats why you have the classification objective also together while you are training it
 
-### Speaker 2
-
-The future
+speaker_2: The future
 
 
 Okay
 
-### Speaker 1
+speaker_1: Uh stands it
 
-Uh stands it
+speaker_3: Sir can you please explain once again this process like how we are training and like how we are doing these like taking the supervised classification and the discriminative part back propagation together
 
-### Speaker 4
-
-Sir can you please explain once again this process like how we are training and like how we are doing these like taking the supervised classification and the discriminative part back propagation together
-
-### Speaker 1
-
-Help diminish
+speaker_1: Help diminish
 
 
 See first you take the source data pass it through this V network you get a feature ZS right And then you have then you take XCAP pass it through that network I mean you initialize this V network randomly you get ZT okay Now ZS become your ZS becomes your true data and ZT becomes your generated data and use those with a discriminator to adversarially backpropagate VZ through the
@@ -760,13 +615,9 @@ Okay then you have another classifier which is trained together with the GAN whe
 
 Now the the the this phi network which is the feature extractor will be trained both using the adversarial objective and the supervised objective together so that it has to ensure that the distributions of source and target data matches while the classification also happens properly
 
-### Speaker 4
+speaker_3: so sir these X and X cap these are from the available input
 
-so sir these X and X cap these are from the available input
-
-### Speaker 1
-
-I have defined it already I mean you should not forget See this is ds and dt are given So x is the samples from ds and x cap are samples from dt Theyre given
+speaker_1: I have defined it already I mean you should not forget See this is ds and dt are given So x is the samples from ds and x cap are samples from dt Theyre given
 
 
 That is what is given now
@@ -777,74 +628,44 @@ Uh
 
 What do you mean there is only
 
-### Speaker 2
+speaker_2: Perfect
 
-Perfect
+speaker_1: Credible data only from the source
 
-### Speaker 1
+speaker_2: A generative model here I mean adds to this supervised learning because we could also directly train the H network over
 
-Credible data only from the source
+speaker_1: But why would what yeah if you do that then what is the guarantee that the X if you suppose you train a classifier on X and pass X cap through it it will have a very bad performance
 
-### Speaker 2
+speaker_2: Like why would you
 
-A generative model here I mean adds to this supervised learning because we could also directly train the H network over
+speaker_1: Because why is that
 
-### Speaker 1
+speaker_3: Why is that so
 
-But why would what yeah if you do that then what is the guarantee that the X if you suppose you train a classifier on X and pass X cap through it it will have a very bad performance
-
-### Speaker 2
-
-Like why would you
-
-### Speaker 1
-
-Because why is that
-
-### Speaker 4
-
-Why is that so
-
-### Speaker 1
-
-Because PS and PT are not the same no Distributions and PS and PS and PT are not the same Thats why I showed you that picture right Where you had the MNIST and the SVHN data
+speaker_1: Because PS and PT are not the same no Distributions and PS and PS and PT are not the same Thats why I showed you that picture right Where you had the MNIST and the SVHN data
 
 
 Right the distribution of PS and PT are not the same I should make maybe write it explicitly see here
 
-### Speaker 4
+speaker_3: They must be close enough right
 
-They must be close enough right
+speaker_1: will not be uh that is the problem with domain adaptation when the id assumption breaks right when the resource data is not equal to the target data the classifier trained on one will fail miserably on the other so you can you can
 
-### Speaker 1
-
-will not be uh that is the problem with domain adaptation when the id assumption breaks right when the resource data is not equal to the target data the classifier trained on one will fail miserably on the other so you can you can
-
-### Speaker 2
-
-If you go back to the diagram right so does it mean
+speaker_2: If you go back to the diagram right so does it mean
 
 
 the fine the the fee network is actually uh extracting features which are common across distribution is that
 
-### Speaker 1
-
-yeah yeah it is ensure it is ensuring that the features are extracted in such a way that across both the distributions the features have uh features are same level see while pt right pt is or rather
+speaker_1: yeah yeah it is ensure it is ensuring that the features are extracted in such a way that across both the distributions the features have uh features are same level see while pt right pt is or rather
 
 
 And PS is not equal to PT right PGS is equal to PCT by construction that is the point
 
-### Speaker 2
+speaker_2: S thats what we are trying to identify which is the distribution which
 
-S thats what we are trying to identify which is the distribution which
+speaker_3: overlapping between those two
 
-### Speaker 4
-
-overlapping between those two
-
-### Speaker 1
-
-We are not identifying that way So not that we should not say that there is there exists a distribution that overlaps We are trying to extract enforce features such a way that for both the distributions they match
+speaker_1: We are not identifying that way So not that we should not say that there is there exists a distribution that overlaps We are trying to extract enforce features such a way that for both the distributions they match
 
 
 Anything else
@@ -1131,21 +952,13 @@ Ill define in a while Yeah before that before we go to the definitions Ill take 
 
 Yes and it
 
-### Speaker 4
+speaker_3: Sir what what do we mean by the support here
 
-Sir what what do we mean by the support here
+speaker_1: If you take a distribution supports are the points on which distribution is non zero
 
-### Speaker 1
+speaker_3: Selling
 
-If you take a distribution supports are the points on which distribution is non zero
-
-### Speaker 4
-
-Selling
-
-### Speaker 1
-
-Exactly
+speaker_1: Exactly
 
 
 If you take a uniform distribution between lets say A and B support of distribution is set A B
@@ -1165,13 +978,9 @@ Any other question
 
 I got a window
 
-### Speaker 4
+speaker_3: Yeah so here we are only trying to say that if the supports match then they are close enough so we are not really looking at the divergence metric in addition
 
-Yeah so here we are only trying to say that if the supports match then they are close enough so we are not really looking at the divergence metric in addition
-
-### Speaker 1
-
-No in fact divergence
+speaker_1: No in fact divergence
 
 
 We we do compare distributions okay I mean we saw that right we actually compare distributions okay but the thing is
@@ -1182,13 +991,9 @@ If the distributions the real I mean if the distribution that we are comparing w
 
 So you basically the motivation is that you need another alternative metric Okay That is not over dependent on alignment of the supports of these distributions
 
-### Speaker 4
+speaker_3: So I mean its in in in addition to uh the divergence minimization or this is a separate way to optimize
 
-So I mean its in in in addition to uh the divergence minimization or this is a separate way to optimize
-
-### Speaker 1
-
-Uh see you minimize the divergence only Basically you minimize the divergence but the divergence metric that you are coming up with is not sensitive to a misalignment between supports Thats all
+speaker_1: Uh see you minimize the divergence only Basically you minimize the divergence but the divergence metric that you are coming up with is not sensitive to a misalignment between supports Thats all
 
 
 Okay so Wassersteins metric is also a divergence minimization metric only so so given two distributions
@@ -1253,13 +1058,9 @@ So its like this How do we do that We take lets say that this is this is x1 and 
 
 reduce it and put it to x2 and so on right i mean you can redistribute the mass in px so that it will get transformed to p theta isnt it do you agree
 
-### Speaker 2
+speaker_2: But usually we are not supposed to touch X right so its like a source distribution
 
-But usually we are not supposed to touch X right so its like a source distribution
-
-### Speaker 1
-
-No no no See forget about source and target and all that now Im just simply saying given two distributions you can always change the distribute mass in one distribution to get it marshed into some other distribution correct
+speaker_1: No no no See forget about source and target and all that now Im just simply saying given two distributions you can always change the distribute mass in one distribution to get it marshed into some other distribution correct
 
 
 Now the fingers
@@ -1333,16 +1134,12 @@ Any questions so far
 
 Yeah Amitosh write this down
 
-### Speaker 2
-
-Shouldnt it
+speaker_2: Shouldnt it
 
 
 just p theta so that it becomes equivalent to px or is it because
 
-### Speaker 1
-
-No no no its uh no no no See again Im saying telling forget about it for a while You you you forget what is p theta what is p h Theres two distributions Of course you can write it that way right I mean you say that p theta is being adjusted in GAN framework That is what youre trying to say right Yeah yeah In general doesnt matter No in general Im defining divergence metric between two distributions Can mean anything
+speaker_1: No no no its uh no no no See again Im saying telling forget about it for a while You you you forget what is p theta what is p h Theres two distributions Of course you can write it that way right I mean you say that p theta is being adjusted in GAN framework That is what youre trying to say right Yeah yeah In general doesnt matter No in general Im defining divergence metric between two distributions Can mean anything
 
 
 That is why if its confusing for you let me
@@ -1467,13 +1264,9 @@ Are you audible
 
 Yes yes yes
 
-### Speaker 2
+speaker_2: Yes it will
 
-Yes it will
-
-### Speaker 1
-
-Okay is this clear Okay Now the question that Im asking is
+speaker_1: Okay is this clear Okay Now the question that Im asking is
 
 
 Give one
@@ -1613,13 +1406,9 @@ Any questions on the definition
 
 Is there any question
 
-### Speaker 4
+speaker_3: Not those
 
-Not those
-
-### Speaker 1
-
-My art is good
+speaker_1: My art is good
 
 
 Okay great Okay so now this is shown to be a softer metric right So versus change distance is a softer metric okay compared to
@@ -1801,17 +1590,11 @@ Thats about WGANs Any questions on this
 
 Yes go on
 
-### Speaker 4
+speaker_3: So the norm that we are talking about here is the
 
-So the norm that we are talking about here is the
+speaker_2: I dont know or
 
-### Speaker 2
-
-I dont know or
-
-### Speaker 1
-
-Here yeah yeah this is L2 this is L2 this is L2 yeah
+speaker_1: Here yeah yeah this is L2 this is L2 this is L2 yeah
 
 
 good that you asked that question right here when we define the versus stains metric its always uh two that we talk about here right the two norm between x and x cap okay and the the this duality you know the control which rubinsteins duality is for versus stains two in general you can use a pth norm here if you do one norm here that will become versus stains one if you if you use two norm it will become versus stains two if you use p norm it will become p versus stains distance in general but generally
@@ -1831,13 +1614,9 @@ Yeah service
 
 for calculating the norm of the network we just have to take put all the weights in a vector in any order and then just calculate the norm yeah yeah yeah yeah simply vectorize it compute the norm and divide it by the norm of it you dont have to compute it no just divide the weights every individual weight which with its norm
 
-### Speaker 2
+speaker_2: It works for every network and convolution also same
 
-It works for every network and convolution also same
-
-### Speaker 1
-
-Yeah yeah same thing same thing yeah yeah
+speaker_1: Yeah yeah same thing same thing yeah yeah
 
 
 Okay nothing else right I mean this see whenever you implement a GAN always implement a WGAN much more stable
@@ -2067,59 +1846,35 @@ Oh sorry this thing wont be on here yeah
 
 Have a look
 
-### Speaker 4
+speaker_3: So I have two questions one is why why did you place so much of importance on one particular inception architecture
 
-So I have two questions one is why why did you place so much of importance on one particular inception architecture
+speaker_1: I didnt I mean somebody did because if you read the FID paper what they say is inception architecture correlates well with human perception is what they have done by doing some perception studies
 
-### Speaker 1
+speaker_2: Okay okay Okay Second question is
 
-I didnt I mean somebody did because if you read the FID paper what they say is inception architecture correlates well with human perception is what they have done by doing some perception studies
+speaker_3: Suppose I I am modifying the problem a little bit and I ask uh like I want to see the inception I mean the uh the distance between uh generated images uh of a given style like if Im not going to
 
-### Speaker 2
-
-Okay okay Okay Second question is
-
-### Speaker 4
-
-Suppose I I am modifying the problem a little bit and I ask uh like I want to see the inception I mean the uh the distance between uh generated images uh of a given style like if Im not going to
-
-### Speaker 1
-
-focus on content at all and I just want to focus on style so can I modify the uh just I mean picking up the 64th layer feature vectors and instead replace them with
+speaker_1: focus on content at all and I just want to focus on style so can I modify the uh just I mean picking up the 64th layer feature vectors and instead replace them with
 
 
 maybe the gram matrix or the add in layer activations I mean and continue with the same procedure will I get a meaningful result
 
-### Speaker 2
+speaker_2: It is not FID but yeah so it is something right I mean you might get some meaningful result but its not FID by definition thats why You cant say that its the standard FID metric
 
-It is not FID but yeah so it is something right I mean you might get some meaningful result but its not FID by definition thats why You cant say that its the standard FID metric
+speaker_1: It does that for me
 
-### Speaker 1
+speaker_2: It does make sense
 
-It does that for me
+speaker_1: Okay fine I mean the actual problem is I want to recommend images to
 
-### Speaker 2
+speaker_2: Uh yeah I I so shall we take it offline because this may not be relevant to the class
 
-It does make sense
-
-### Speaker 1
-
-Okay fine I mean the actual problem is I want to recommend images to
-
-### Speaker 2
-
-Uh yeah I I so shall we take it offline because this may not be relevant to the class
-
-### Speaker 1
-
-I
+speaker_1: I
 
 
 Yes yes yes
 
-### Speaker 2
-
-Please swing me know we can discuss all that Okay Any other question on FID Okay So this is the
+speaker_2: Please swing me know we can discuss all that Okay Any other question on FID Okay So this is the
 
 
 End of GANs for this course I mean there are too many things that are there Yeah this is the end of generative adversarial networks Its more on to VAEs Yeah so
@@ -2142,13 +1897,9 @@ Okay see you in a while bye
 
 Hello should we resume
 
-### Speaker 1
+speaker_1: Yes sir
 
-Yes sir
-
-### Speaker 2
-
-The next class of generative models that we would consider are these variational autoencoders or VAEs Now these come under a broad family of models called
+speaker_2: The next class of generative models that we would consider are these variational autoencoders or VAEs Now these come under a broad family of models called
 
 
 Latent variable models
@@ -2345,32 +2096,20 @@ Corresponding to it so latent variable models right will enable feature extracti
 
 You can use zi rather than xi for downstream tasks and all that So these are called I mean these are feature extractors So thats why you want to model the data xi by introducing one other random variable zi which is called the latent variable Any questions on this motivation
 
-### Speaker 4
+speaker_3: for the continuous case we are saying that zi by xi can be seen as a feature for
 
-for the continuous case we are saying that zi by xi can be seen as a feature for
-
-### Speaker 2
-
-Or not by not by z i given x i its a conditional random variable conditional distribution
+speaker_2: Or not by not by z i given x i its a conditional random variable conditional distribution
 
 
 ZI Z1XI
 
-### Speaker 4
+speaker_3: Sorry sorry for that zi given xi can be seen as a feature corresponding to zi
 
-Sorry sorry for that zi given xi can be seen as a feature corresponding to zi
+speaker_2: Corresponding to sorry corresponding to Xi
 
-### Speaker 2
+speaker_1: So the feature should be useful in some way right
 
-Corresponding to sorry corresponding to Xi
-
-### Speaker 1
-
-So the feature should be useful in some way right
-
-### Speaker 2
-
-Correct correct they it will be useful in some way thats the point
+speaker_2: Correct correct they it will be useful in some way thats the point
 
 
 Latent variable models are imposed because features are useful in some way
@@ -2402,32 +2141,20 @@ Cant I draw straight lines here in this thing Is there a way to do it
 
 long press in good notes right a long press would make it a straight line here i dont know how i have to go insert line and all that thats too much
 
-### Speaker 1
-
-No sir that is in the draw itself
+speaker_1: No sir that is in the draw itself
 
 
 End of words off
 
-### Speaker 2
+speaker_2: In the woods are
 
-In the woods are
+speaker_1: These symbols are there octopencils there are one round and one square that is giving you yes
 
-### Speaker 1
+speaker_2: Great I will have to do this huh Okay fine
 
-These symbols are there octopencils there are one round and one square that is giving you yes
+speaker_1: It will disturb you
 
-### Speaker 2
-
-Great I will have to do this huh Okay fine
-
-### Speaker 1
-
-It will disturb you
-
-### Speaker 2
-
-Okay so this will convert into regular figures huh
+speaker_2: Okay so this will convert into regular figures huh
 
 
 Okay lets not complicate stuff maybe I will use a line and do it okay fine so now uh
@@ -2513,13 +2240,9 @@ We had done this right
 
 Thats all of you remember this
 
-### Speaker 4
+speaker_3: Minimizing KL divergence is same as maximizing log likelihood
 
-Minimizing KL divergence is same as maximizing log likelihood
-
-### Speaker 2
-
-Yeah expected log likelihood right
+speaker_2: Yeah expected log likelihood right
 
 
 Maximize G law like you know okay this is what it is So lets
@@ -2644,13 +2367,9 @@ function
 
 Does everybody has everybody heard of instance inequality or not
 
-### Speaker 4
+speaker_3: Yes sir
 
-Yes sir
-
-### Speaker 2
-
-If not right maybe we can take it in the TA session Okay just look into it now So using that what we can do is so we have now L theta which is our log likelihood that we would want to maximize is equal to log of expectation of this entire thing with respect to Q Now I can write that as something that is less than or equal to
+speaker_2: If not right maybe we can take it in the TA session Okay just look into it now So using that what we can do is so we have now L theta which is our log likelihood that we would want to maximize is equal to log of expectation of this entire thing with respect to Q Now I can write that as something that is less than or equal to
 
 
 greater than or equal to
@@ -2667,48 +2386,28 @@ Log off
 
 functions
 
-### Speaker 4
+speaker_3: are less than equal to based on the previous expression
 
-are less than equal to based on the previous expression
+speaker_2: a log is less than or equal to that expectation of log
 
-### Speaker 2
+speaker_3: Yes sir
 
-a log is less than or equal to that expectation of log
+speaker_2: So uh this is this is log so this is less than that is less than expectation of log correct no log is less than expectation of log should be correct no
 
-### Speaker 4
+speaker_3: Ill send it
 
-Yes sir
+speaker_2: That should be other way around
 
-### Speaker 2
+speaker_3: That should be another way around
 
-So uh this is this is log so this is less than that is less than expectation of log correct no log is less than expectation of log should be correct no
-
-### Speaker 4
-
-Ill send it
-
-### Speaker 2
-
-That should be other way around
-
-### Speaker 4
-
-That should be another way around
-
-### Speaker 2
-
-Okay so this is
+speaker_2: Okay so this is
 
 
 I think that its correct now right
 
-### Speaker 4
+speaker_3: No sir I am I dont remember the inequality sign correctly but
 
-No sir I am I dont remember the inequality sign correctly but
-
-### Speaker 2
-
-No no no thats okay But with this inequality whatever I have written is correct No see I know for a fact that this is right So we have to change the Jensens inequality accordingly Okay so See Jensens inequality becomes an upper bound or a lower bound depending upon this function If this function is concave then it is one it is convex it is something else So sometimes I get confused about it This is correct right So just tell me that if its greater than or equal to here this will become greater than or equal to here correct
+speaker_2: No no no thats okay But with this inequality whatever I have written is correct No see I know for a fact that this is right So we have to change the Jensens inequality accordingly Okay so See Jensens inequality becomes an upper bound or a lower bound depending upon this function If this function is concave then it is one it is convex it is something else So sometimes I get confused about it This is correct right So just tell me that if its greater than or equal to here this will become greater than or equal to here correct
 
 
 So then then change in equality is correct Okay Right So now this is greater than or equal to what what do we have here Its an integral
@@ -2878,13 +2577,9 @@ f theta of q star will be what See what is the maximum value of f theta cube
 
 Am I audible
 
-### Speaker 1
+speaker_1: Yes
 
-Yes
-
-### Speaker 2
-
-Didnt you understand my question
+speaker_2: Didnt you understand my question
 
 
 question is Ive created a lower bound on the likelihood function no L theta okay Ive denoted that as f theta cube what would be the maximum value of this
@@ -2892,13 +2587,9 @@ question is Ive created a lower bound on the likelihood function no L theta okay
 
 What is the maximum value that this lower bound can achieve
 
-### Speaker 1
+speaker_1: Love you too
 
-Love you too
-
-### Speaker 2
-
-L theta right
+speaker_2: L theta right
 
 
 Because its a lower bound on L theta the maximum value that it can achieve is L theta isnt it
@@ -2906,13 +2597,9 @@ Because its a lower bound on L theta the maximum value that it can achieve is L 
 
 Do you see that or not
 
-### Speaker 1
+speaker_1: Yes so the maximum lower bound will equal L three times
 
-Yes so the maximum lower bound will equal L three times
-
-### Speaker 2
-
-Exactly right so the maximum load bound at that point will be simply equal to L theta
+speaker_2: Exactly right so the maximum load bound at that point will be simply equal to L theta
 
 
 Okay so what Im saying is it can be theoretically shown that the optimal Q distribution is equal to P theta of G given X and for that Q theta okay with that Q star the lower bound that we have constructed is equal to the likelihood value
@@ -2986,17 +2673,11 @@ Theres a name for this algorithm do you know
 
 Does anybody know
 
-### Speaker 1
+speaker_1: Expectation expectation maximization
 
-Expectation expectation maximization
+speaker_4: Expectation expectation
 
-### Speaker 3
-
-Expectation expectation
-
-### Speaker 2
-
-This is the EM algorithm right This is the expectation maximization algorithm This is how you fit a GMM to some data no
+speaker_2: This is the EM algorithm right This is the expectation maximization algorithm This is how you fit a GMM to some data no
 
 
 EM algorithm See I wont go to showing why EM algorithm is correct and all that Okay that I will skip But basically this is I gave this as an example Im running through it quickly because we are interested in looking at VAEs not GMMs But yeah so basically the idea is that this will be common across GMMs and VAEs all latent variable models right where construct a lower bound on the likelihood and then find the variational distance
@@ -3082,13 +2763,9 @@ entered on notes first lecture and second lecture and come prepared for next cla
 
 Stop here and take questions if there are any Vivek
 
-### Speaker 1
+speaker_1: So initially felt like I understood but there are many things like so why we used Jensens inequality like why didnt why do we settle for a lower bound actually
 
-So initially felt like I understood but there are many things like so why we used Jensens inequality like why didnt why do we settle for a lower bound actually
-
-### Speaker 2
-
-Now because the log likelihood cannot be computed for latent variable models like GMMs right what happens is see how do we do maximization So if you start with the log likelihood lets say right
+speaker_2: Now because the log likelihood cannot be computed for latent variable models like GMMs right what happens is see how do we do maximization So if you start with the log likelihood lets say right
 
 
 Let me show that
@@ -3099,43 +2776,27 @@ So now log of p theta of x in the case of GMM will be log of sigma
 
 alpha j okay and you have x here and this is mu j and sigma j correct is over js
 
-### Speaker 1
+speaker_1: You are guess
 
-You are guess
-
-### Speaker 2
-
-Now this is sum of alpha j into e power x squared minus mu j squared so on right
+speaker_2: Now this is sum of alpha j into e power x squared minus mu j squared so on right
 
 
 See yes there was sum of C on differentiate this with respect to mu and sigma and put it to 0 to maximize this right
 
-### Speaker 1
+speaker_1: Yes
 
-Yes
-
-### Speaker 2
-
-Now if there were a sum of log term then this log and e power exponentiation would cancel each other and you can differentiate But because you have a log of sum terms
+speaker_2: Now if there were a sum of log term then this log and e power exponentiation would cancel each other and you can differentiate But because you have a log of sum terms
 
 
 because you have a log of sum terms here If you differentiate this you will not get mu js in one side and you will not get a tractable equation in terms of mu So you cannot maximize this
 
-### Speaker 1
+speaker_1: Okay the summation of uh I mean the log of the summation of
 
-Okay the summation of uh I mean the log of the summation of
+speaker_2: Multiple exponentiation a multiple Gaussian distributions if you differentiate that with respect to one mu it will not get separated out
 
-### Speaker 2
+speaker_1: Yes
 
-Multiple exponentiation a multiple Gaussian distributions if you differentiate that with respect to one mu it will not get separated out
-
-### Speaker 1
-
-Yes
-
-### Speaker 2
-
-Right so now you need to do something to ensure that this is maximized So now to maximize that one way to do it is construct a lower bound And if you construct the lower bound EM becomes easier It is one of the motivations of why do you need to construct lower bounds on log likelihood
+speaker_2: Right so now you need to do something to ensure that this is maximized So now to maximize that one way to do it is construct a lower bound And if you construct the lower bound EM becomes easier It is one of the motivations of why do you need to construct lower bounds on log likelihood
 
 
 The other thing is again similar thing you know log of integral of p theta of x and z right for z This is the model Now if you do not know how to integrate this with respect to z because you dont know this distribution how do you differentiate this with respect to theta You cant do that You need another method to optimize for the log likelihood no Thats why you construct a lower bound and then you optimize for it See just you remember why we constructed lower bound on it divergences right
@@ -3143,13 +2804,9 @@ The other thing is again similar thing you know log of integral of p theta of x 
 
 Because we could not compute the F divergence step because it involved integrals What we did was we expressed that in terms of expectations that we could compute and then simply used sample estimates to optimize for it right
 
-### Speaker 1
+speaker_1: Yes exactly same
 
-Yes exactly same
-
-### Speaker 2
-
-Exactly same thing here exactly same thing And you remember that maximizing this is again minimizing the KL divergence Ultimately we are minimizing the KL divergence And to minimize this this involves integrals with respect to px and p theta which we cannot compute And thats why we are computing lower bounds and expressing it in terms of expectations that can be estimated using the sample averages
+speaker_2: Exactly same thing here exactly same thing And you remember that maximizing this is again minimizing the KL divergence Ultimately we are minimizing the KL divergence And to minimize this this involves integrals with respect to px and p theta which we cannot compute And thats why we are computing lower bounds and expressing it in terms of expectations that can be estimated using the sample averages
 
 
 Thats the fundamental idea okay
@@ -3157,129 +2814,73 @@ Thats the fundamental idea okay
 
 Uh have a look
 
-### Speaker 1
+speaker_1: Yeah sir My question is related to the midterm exam So the syllabus for it is till the next class or todays class or any any specification regarding
 
-Yeah sir My question is related to the midterm exam So the syllabus for it is till the next class or todays class or any any specification regarding
+speaker_2: Till the next class yeah there will be one more class before the exam it will be till that
 
-### Speaker 2
+speaker_1: Okay and uh I mean just to get some idea on the question so shall we be expecting coding questions or mostly no there will not
 
-Till the next class yeah there will be one more class before the exam it will be till that
+speaker_2: No no there will not be any coding questions it will all be theoretical So just follow whatever has been said in the class and also the TA session works
 
-### Speaker 1
+speaker_1: So yes sir I got I got my answers
 
-Okay and uh I mean just to get some idea on the question so shall we be expecting coding questions or mostly no there will not
-
-### Speaker 2
-
-No no there will not be any coding questions it will all be theoretical So just follow whatever has been said in the class and also the TA session works
-
-### Speaker 1
-
-So yes sir I got I got my answers
-
-### Speaker 4
-
-So yes sir
+speaker_3: So yes sir
 
 
 Yes Im going to share So I have a quick question sir we read about this model now we understood also exactly how it works internally So uh
 
-### Speaker 1
+speaker_1: For practical uses like where all we can use like image generations or data
 
-For practical uses like where all we can use like image generations or data
+speaker_2: Hold on I really youve just started VAEs right Theres two full lectures that will be that will be kept for this where I can talk about all kinds of applications how it is used for generative models everything will be covered
 
-### Speaker 2
+speaker_1: Okay sir okay that is planned okay I was just asking that thanks
 
-Hold on I really youve just started VAEs right Theres two full lectures that will be that will be kept for this where I can talk about all kinds of applications how it is used for generative models everything will be covered
+speaker_2: Of course right I mean just like we did for Gans we are just starting it theres a lot that we need to do
 
-### Speaker 1
+speaker_3: Sure sure
 
-Okay sir okay that is planned okay I was just asking that thanks
-
-### Speaker 2
-
-Of course right I mean just like we did for Gans we are just starting it theres a lot that we need to do
-
-### Speaker 4
-
-Sure sure
-
-### Speaker 2
-
-Completely preface okay anything else
+speaker_2: Completely preface okay anything else
 
 
 Yeah uh go on if you were told
 
-### Speaker 1
+speaker_1: So in the
 
-So in the
+speaker_3: Im just curious to ask like since you said there is no report to be submitted what all things we have tried we can simply add it in the markdown right because in order to get any valid result too many things are being tried out from my end so just want to know
 
-### Speaker 4
+speaker_2: Come again what is the question
 
-Im just curious to ask like since you said there is no report to be submitted what all things we have tried we can simply add it in the markdown right because in order to get any valid result too many things are being tried out from my end so just want to know
+speaker_3: like uh so far I was trying assignment questions so its not coming directly in the first step itself like a lot of things are being tried out here and there so we cant just put everything in the notebook
 
-### Speaker 2
+speaker_2: No no you can you can yeah mark those statements and every experiment that you you know try you know just comment it out and put your observations that will be appreciated
 
-Come again what is the question
+speaker_4: The problem is sir if you are looking for the outputs of those experiments right
 
-### Speaker 4
+speaker_2: No no no I dont I dont whatever experiments that you uh that you uh tried no just uh document them okay
 
-like uh so far I was trying assignment questions so its not coming directly in the first step itself like a lot of things are being tried out here and there so we cant just put everything in the notebook
+speaker_4: Thank you
 
-### Speaker 2
+speaker_3: For assignment like you said we should use Google Colab for compute but uh theres no free GPU available so Im using my companys GPU and Ill put that
 
-No no you can you can yeah mark those statements and every experiment that you you know try you know just comment it out and put your observations that will be appreciated
-
-### Speaker 3
-
-The problem is sir if you are looking for the outputs of those experiments right
-
-### Speaker 2
-
-No no no I dont I dont whatever experiments that you uh that you uh tried no just uh document them okay
-
-### Speaker 3
-
-Thank you
-
-### Speaker 4
-
-For assignment like you said we should use Google Colab for compute but uh theres no free GPU available so Im using my companys GPU and Ill put that
-
-### Speaker 2
-
-And thats okay thats okay it doesnt matter
+speaker_2: And thats okay thats okay it doesnt matter
 
 
 collab if only if uh like you know people dont happen go on you can speak you dont have to raise your hands classes are done yeah
 
-### Speaker 1
+speaker_1: Yeah also one question regarding the background reading material So is it okay to read that the Machine Learning Advanced Topics by Murphy
 
-Yeah also one question regarding the background reading material So is it okay to read that the Machine Learning Advanced Topics by Murphy
+speaker_2: Murphy nope its one of the best books yeah its its not an its actually a very good book yeah you can use Murphy
 
-### Speaker 2
-
-Murphy nope its one of the best books yeah its its not an its actually a very good book yeah you can use Murphy
-
-### Speaker 1
-
-Is it putting
+speaker_1: Is it putting
 
 
 Okay only the portions related to generative
 
-### Speaker 2
+speaker_2: Whatever we have see
 
-Whatever we have see
+speaker_1: Yeah its a video Ive never seen a video like that
 
-### Speaker 1
-
-Yeah its a video Ive never seen a video like that
-
-### Speaker 2
-
-Whatever Ive taught in class is what your syllabus is nothing less nothing more
+speaker_2: Whatever Ive taught in class is what your syllabus is nothing less nothing more
 
 
 Anything that is related to things that I have taught in class is all that I am going to ask I dont assume you to know anything that is beyond whatever I have taught in class and also in TA sessions
@@ -3287,10 +2888,6 @@ Anything that is related to things that I have taught in class is all that I am 
 
 Thats all Okay uh if thats all it is lets uh meet next week okay
 
-### Speaker 1
+speaker_1: Thank you
 
-Thank you
-
-### Speaker 2
-
-Thank you
+speaker_2: Thank you

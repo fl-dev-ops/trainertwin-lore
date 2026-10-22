@@ -6,14 +6,15 @@ date: '2026-03-12'
 duration: 45:18
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 11 : Pytorch - Tensors and Data Loaders
 
 ## Transcript
 
-
-Hello all welcome to this series of
+speaker_1: Hello all welcome to this series of
 tutorials in which we will be
 understanding and learning how to code
 using PyTorch

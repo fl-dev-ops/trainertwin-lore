@@ -8,51 +8,34 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 7 - Deep Generative Models GAN variants and Applications
 
 ## Transcript
 
+speaker_1: we begin the class today so i was waiting for some people to join see i i uh i hope that uh like the people who have joined today uh i see as 79 people so uh none of you are planning to drop the course right because the window for dropping the course is uh is going to close by tomorrow i think tomorrow day after tomorrow right
 
-### Speaker 1
+speaker_2: Yes thats right
 
-we begin the class today so i was waiting for some people to join see i i uh i hope that uh like the people who have joined today uh i see as 79 people so uh none of you are planning to drop the course right because the window for dropping the course is uh is going to close by tomorrow i think tomorrow day after tomorrow right
-
-### Speaker 2
-
-Yes thats right
-
-### Speaker 1
-
-Okay so is anybody still considering dropping the course So Ill tell you why Im asking but yeah is there anybody I think you have gotten enough flavor of how the course is going to be and all that right So is there anything any concern that or rather information that you might want to know to take that decision
+speaker_1: Okay so is anybody still considering dropping the course So Ill tell you why Im asking but yeah is there anybody I think you have gotten enough flavor of how the course is going to be and all that right So is there anything any concern that or rather information that you might want to know to take that decision
 
 
 Because initially we started with some hundred people now we have about 85 I think you know some 15 people have dropped which is okay fair Uh anybody else considering dropping the course
 
-### Speaker 2
+speaker_2: Considering to drop
 
-Considering to drop
+speaker_3: because of personal reasons
 
-### Speaker 3
+speaker_1: Okay no problem Yeah but you still want to continue attending the classes Yeah so that is one thing that I wanted to ask you So once you drop the course would these ICANN people allow you to continue attend classes Or would they just remove you from all groups
 
-because of personal reasons
+speaker_4: Audit isnt allowed for us
 
-### Speaker 1
-
-Okay no problem Yeah but you still want to continue attending the classes Yeah so that is one thing that I wanted to ask you So once you drop the course would these ICANN people allow you to continue attend classes Or would they just remove you from all groups
-
-### Speaker 4
-
-Audit isnt allowed for us
-
-### Speaker 1
-
-audit isnt allowed okay i see okay so except for uh mr billa right anybody else considering dropping the post
+speaker_1: audit isnt allowed okay i see okay so except for uh mr billa right anybody else considering dropping the post
 
 
 Okay I take that as a no Okay so this I think then this is the final class trend that we have So I need this because we need to plan the assignments right now We can form the groups of three and also plan the exam So the exam the midterm exam Im planning to have it after two classes which is today there is one class where Ill finish this GAN thing and the next
@@ -69,37 +52,21 @@ Uh well have it on 10th
 
 Does it work for all of you 10th of October
 
-### Speaker 4
+speaker_4: Okay
 
-Okay
+speaker_1: Yeah timing we have to see something that works for all of you Maybe 8 point 30 to 9 point 30 8 point 30 to 10 in the night
 
-### Speaker 1
+speaker_4: Im sure it doesnt final date for submitting the first assignment right so normally we may send till the day so we may not have the time to prepare on then
 
-Yeah timing we have to see something that works for all of you Maybe 8 point 30 to 9 point 30 8 point 30 to 10 in the night
+speaker_2: So it doesnt
 
-### Speaker 4
+speaker_4: Okay
 
-Im sure it doesnt final date for submitting the first assignment right so normally we may send till the day so we may not have the time to prepare on then
+speaker_1: Oh oh I see
 
-### Speaker 2
+speaker_2: And then one more thing not sure Thursday at this moment maybe but it is office days for most of us and many of us have actually the US client I mean not me but many of my friends I can see in this class So I dont know whether it will be a right time to take an exam for them Can we plan it on Sunday instead
 
-So it doesnt
-
-### Speaker 4
-
-Okay
-
-### Speaker 1
-
-Oh oh I see
-
-### Speaker 2
-
-And then one more thing not sure Thursday at this moment maybe but it is office days for most of us and many of us have actually the US client I mean not me but many of my friends I can see in this class So I dont know whether it will be a right time to take an exam for them Can we plan it on Sunday instead
-
-### Speaker 1
-
-Sunday is also okay uh so which means that well have to do it on 13th
+speaker_1: Sunday is also okay uh so which means that well have to do it on 13th
 
 
 So dwell this uh like Tahirah
@@ -113,17 +80,11 @@ So dwell this uh like Tahirah
 
 Okay so
 
-### Speaker 2
+speaker_2: You want them to be
 
-You want them to be
+speaker_3: create a poll this time sir
 
-### Speaker 3
-
-create a poll this time sir
-
-### Speaker 1
-
-No I dont I wont I will just put it here make it a mixam
+speaker_1: No I dont I wont I will just put it here make it a mixam
 
 
 is on thirteenth Sunday
@@ -131,13 +92,9 @@ is on thirteenth Sunday
 
 Between 10 and 11 30 am Mr Koken
 
-### Speaker 2
+speaker_2: So can we have it on afternoon time
 
-So can we have it on afternoon time
-
-### Speaker 1
-
-Okay we can do afternoon how about two to three thirty one thirteen
+speaker_1: Okay we can do afternoon how about two to three thirty one thirteen
 
 
 Anybody has problems with 22330
@@ -151,24 +108,16 @@ Okay so if there are no problems then we will
 
 that time Im putting that on the WhatsApp group okay okay so no more discussions on this midterm exam is fixed on yeah we have to say 13th October
 
-### Speaker 2
+speaker_2: Sorry if I missed it any quizzes in between or it will be direct 13th now
 
-Sorry if I missed it any quizzes in between or it will be direct 13th now
-
-### Speaker 1
-
-Oh there will be quizzes I mean see quizzes are independent right every uh fortnight there will be a quiz so next quiz will be next Saturday
+speaker_1: Oh there will be quizzes I mean see quizzes are independent right every uh fortnight there will be a quiz so next quiz will be next Saturday
 
 
 Thatll be it
 
-### Speaker 3
+speaker_3: No no no
 
-No no no
-
-### Speaker 1
-
-Next quiz will be next Saturday And yeah so every alternative Saturday well have a quiz that is independent of this exam
+speaker_1: Next quiz will be next Saturday And yeah so every alternative Saturday well have a quiz that is independent of this exam
 
 
 Syllabus said I mean uh from last quiz to
@@ -182,44 +131,26 @@ Or what
 
 Yeah which will be cumulative right I mean if some people some portion has been covered the next part of the portion will be for the quiz thats all
 
-### Speaker 2
+speaker_2: I mean uh from the day zero till whatever cover that will be quiz
 
-I mean uh from the day zero till whatever cover that will be quiz
+speaker_4: total six classes
 
-### Speaker 4
+speaker_1: not day zero i mean like you can take it from like previous quiz to this this class right that that way yeah i would i should have said non cumulative yeah so its just
 
-total six classes
+speaker_4: Okay okay
 
-### Speaker 1
-
-not day zero i mean like you can take it from like previous quiz to this this class right that that way yeah i would i should have said non cumulative yeah so its just
-
-### Speaker 4
-
-Okay okay
-
-### Speaker 1
-
-Okay so that is settled I suppose No more questions on that Midterm exam is on 13th October between 2 and 3 point 30 So I can what I can do perhaps is to block your calendars also That would be a good thing to do Let me do it right away so that all of us are
+speaker_1: Okay so that is settled I suppose No more questions on that Midterm exam is on 13th October between 2 and 3 point 30 So I can what I can do perhaps is to block your calendars also That would be a good thing to do Let me do it right away so that all of us are
 
 
 They do that
 
-### Speaker 4
+speaker_4: And so this MCQ will be subjective or MCQ type I mean sorry midterm will be MCQ or subjective type I mean just as pattern of the exam looking for
 
-And so this MCQ will be subjective or MCQ type I mean sorry midterm will be MCQ or subjective type I mean just as pattern of the exam looking for
+speaker_1: It will be a return exam
 
-### Speaker 1
+speaker_4: Okay okay
 
-It will be a return exam
-
-### Speaker 4
-
-Okay okay
-
-### Speaker 1
-
-Objective not MCQ
+speaker_1: Objective not MCQ
 
 
 It does
@@ -239,24 +170,16 @@ E one E one two eight six O Z
 
 Is it even Im not getting this
 
-### Speaker 4
+speaker_4: Its on the Teams meeting top
 
-Its on the Teams meeting top
-
-### Speaker 1
-
-I require additional
+speaker_1: I require additional
 
 
 Hard channel maker
 
-### Speaker 2
+speaker_2: Yes sir its E1286
 
-Yes sir its E1286
-
-### Speaker 1
-
-Correct
+speaker_1: Correct
 
 
 How do we make it a Teams meeting thats not a field
@@ -264,24 +187,16 @@ How do we make it a Teams meeting thats not a field
 
 I just sent a calendar in email and you all see that
 
-### Speaker 2
+speaker_2: Yes
 
-Yes
-
-### Speaker 1
-
-Okay so great so that is done now
+speaker_1: Okay so great so that is done now
 
 
 Can we have a second please
 
-### Speaker 4
+speaker_4: Yeah sorry it says DGM Q sir is it what we meant midterm right
 
-Yeah sorry it says DGM Q sir is it what we meant midterm right
-
-### Speaker 1
-
-Oh car
+speaker_1: Oh car
 
 
 Uh cant edit it for some reason
@@ -304,29 +219,17 @@ And also you should it would be proctored so you need to keep your cameras on an
 
 And the way to do it is either you write it on a sheet of paper scan it and upload or you can write it on your like ipad or whatever and then share us share with us the pdf
 
-### Speaker 4
+speaker_4: So notes can be different right Or its not
 
-So notes can be different right Or its not
+speaker_1: You mean during the exam No If you want an open book exam I have to make it more difficult
 
-### Speaker 1
+speaker_4: If you want an open
 
-You mean during the exam No If you want an open book exam I have to make it more difficult
+speaker_1: If you want that because Ill have to assume that youll have access to notes and have to ensure that I should ask you things that are not there in the notes right So which means that it has to be made a little bit difficult
 
-### Speaker 4
+speaker_2: Uh sir maybe this question is not right to ask but just asking the ill there be a question that where we have to derive these formulas and all which you are teaching us
 
-If you want an open
-
-### Speaker 1
-
-If you want that because Ill have to assume that youll have access to notes and have to ensure that I should ask you things that are not there in the notes right So which means that it has to be made a little bit difficult
-
-### Speaker 2
-
-Uh sir maybe this question is not right to ask but just asking the ill there be a question that where we have to derive these formulas and all which you are teaching us
-
-### Speaker 1
-
-And this
+speaker_1: And this
 
 
 I dont know how to answer it
@@ -337,64 +240,36 @@ Yeah of course you are supposed to know all that time for this
 
 Ill not ask you the exact thing right because you know whatever Ive done in the class Ill not ask you the exact thing but something similar something around it right
 
-### Speaker 2
+speaker_2: Yeah yeah I mean definitely theory and all definitely I dont know but these formulas are not like little
 
-Yeah yeah I mean definitely theory and all definitely I dont know but these formulas are not like little
+speaker_1: See dont have to remember anything not be reasonable not ask you to remember anything other than some fundamentals right for instance see you cant you cant afford to forget the definition of lets say a density function right no no thats for sure im saying there is some
 
-### Speaker 1
+speaker_2: No no no thats
 
-See dont have to remember anything not be reasonable not ask you to remember anything other than some fundamentals right for instance see you cant you cant afford to forget the definition of lets say a density function right no no thats for sure im saying there is some
+speaker_1: Obviously I would not ask you to remember some some formula or something I mean you should trust me at that level with some reasonability to what we do
 
-### Speaker 2
+speaker_2: Yeah yeah no
 
-No no no thats
-
-### Speaker 1
-
-Obviously I would not ask you to remember some some formula or something I mean you should trust me at that level with some reasonability to what we do
-
-### Speaker 2
-
-Yeah yeah no
-
-### Speaker 1
-
-Right okay anything else any other comments on the exam stuff
+speaker_1: Right okay anything else any other comments on the exam stuff
 
 
 Start with the class
 
-### Speaker 4
+speaker_4: So what about results for quiz one
 
-So what about results for quiz one
+speaker_1: I think that should have gotten right I mean uh immediately
 
-### Speaker 1
+speaker_2: No no no
 
-I think that should have gotten right I mean uh immediately
+speaker_1: really okay so was it done on uh like it was on microsoft form right microsoft forms
 
-### Speaker 2
+speaker_4: I think its got to be
 
-No no no
+speaker_1: Was it Google Farm or Microsoft Farm
 
-### Speaker 1
+speaker_2: It was microchip
 
-really okay so was it done on uh like it was on microsoft form right microsoft forms
-
-### Speaker 4
-
-I think its got to be
-
-### Speaker 1
-
-Was it Google Farm or Microsoft Farm
-
-### Speaker 2
-
-It was microchip
-
-### Speaker 1
-
-Microsoft forms no hold on let let me just ask Chidanand if there is some setting where you should can make the outcome visible right after the curse let me ask him to do that
+speaker_1: Microsoft forms no hold on let let me just ask Chidanand if there is some setting where you should can make the outcome visible right after the curse let me ask him to do that
 
 
 Should be seen immediately actually
@@ -411,21 +286,13 @@ First question type okay
 
 So you just double no
 
-### Speaker 4
+speaker_4: Thats all
 
-Thats all
+speaker_1: Uh the Excel sheet that was passed to us to write the details of the assignment teams it was having four columns and we thought four people can join together and create a team but you all
 
-### Speaker 1
+speaker_4: so told its a size of three so there is some confusion there
 
-Uh the Excel sheet that was passed to us to write the details of the assignment teams it was having four columns and we thought four people can join together and create a team but you all
-
-### Speaker 4
-
-so told its a size of three so there is some confusion there
-
-### Speaker 1
-
-Okay see a four is okay Uh like I mean see a recommended team size is three Okay so if you
+speaker_1: Okay see a four is okay Uh like I mean see a recommended team size is three Okay so if you
 
 
 See what happens is no if there are four people then I mean dividing work amongst four people will become too much So I would recommend a team of three okay
@@ -433,13 +300,9 @@ See what happens is no if there are four people then I mean dividing work amongs
 
 But if you are four people then you should be aware of the fact that when we are grading the assignments right we will take that into consideration that its a team of four and look for like more work
 
-### Speaker 4
+speaker_4: Okay
 
-Okay
-
-### Speaker 1
-
-Good that you reminded me of that See assignment I hope that all of you have taken a look at the assignment Okay So what you need to submit is as Ive mentioned there is one Jupyter notebook So whatever has been given there as to do right that is the bare minimum thing that you should do Okay But that will not give you 100 percent marks
+speaker_1: Good that you reminded me of that See assignment I hope that all of you have taken a look at the assignment Okay So what you need to submit is as Ive mentioned there is one Jupyter notebook So whatever has been given there as to do right that is the bare minimum thing that you should do Okay But that will not give you 100 percent marks
 
 
 Okay that will give you lets say 70 to 80 percent marks if you just do whatever has been asked for Now the remaining 30 percent will depend upon like what will be the observations that you would be doing right And what are the kind of experiments that you have done Okay and also Im planning I mean this is not fixed yet Ill have to ask the TAs if they can do it But Im planning to have a Vaibhav okay for all
@@ -453,32 +316,20 @@ Sometime at the end of the course we will have a Vaibhav where we will ask you q
 
 Okay so yeah so questions yeah I did it
 
-### Speaker 2
+speaker_2: Ah sir just a last question that this all assignments should be done in group right just reconfirming
 
-Ah sir just a last question that this all assignments should be done in group right just reconfirming
+speaker_1: Correct Ive told that so many times why questions
 
-### Speaker 1
+speaker_2: No no no I uh little kid was confused reading first
 
-Correct Ive told that so many times why questions
+speaker_1: But why why where is the confusion I dont understand and what is the there should be a there should be some reason why you are confused no no so many times
 
-### Speaker 2
-
-No no no I uh little kid was confused reading first
-
-### Speaker 1
-
-But why why where is the confusion I dont understand and what is the there should be a there should be some reason why you are confused no no so many times
-
-### Speaker 2
-
-No answer
+speaker_2: No answer
 
 
 No it was so many times Yeah actually I forgot that there was a no project separately It is only assignment Im very sorry for that Just reconfirm that Sorry
 
-### Speaker 1
-
-Okay see an Excel sheet was was circulated where teams had to be groomed and all that right I dont know where the confusion is Okay no problem Yeah where was I
+speaker_1: Okay see an Excel sheet was was circulated where teams had to be groomed and all that right I dont know where the confusion is Okay no problem Yeah where was I
 
 
 Yeah it is not a separate document it has to be embedded in the notebook
@@ -486,29 +337,17 @@ Yeah it is not a separate document it has to be embedded in the notebook
 
 Right And all the plots all the observations that you do has to be a part of the Jupyter notebook itself So what you submit is one file for assignment Thats all Nothing more
 
-### Speaker 4
+speaker_4: Should it come as one submission per team or in each of the team members will submit
 
-Should it come as one submission per team or in each of the team members will submit
+speaker_1: Its about the same thing three times huh
 
-### Speaker 1
+speaker_4: No thats what I wanted to understand sir like uh how will the submission look
 
-Its about the same thing three times huh
+speaker_1: One submission per team
 
-### Speaker 4
+speaker_4: One submission per team
 
-No thats what I wanted to understand sir like uh how will the submission look
-
-### Speaker 1
-
-One submission per team
-
-### Speaker 4
-
-One submission per team
-
-### Speaker 1
-
-So unless there is lets say that youre in a team of three and one person sends me a personal email saying that this person did not contribute to the assignment and all that the rule is that everybody in the team will get the same marks for the assignment
+speaker_1: So unless there is lets say that youre in a team of three and one person sends me a personal email saying that this person did not contribute to the assignment and all that the rule is that everybody in the team will get the same marks for the assignment
 
 
 Okay yeah so one file Okay so you coordinate with see there is one other reason why I ask you to do it in teams right Just need some compute resource So I recommend all of you to like buy some resource from like Google Collab or something right But cost some money You can divide it amongst three of you or four of you if you make teams
@@ -522,43 +361,27 @@ Was it in school
 
 Okay okay So fine then I think now we have all everything that you need to start implementing and write the assignment Please get started with that okay Yeah So anything else any other logistic thing that we need to discuss before we continue
 
-### Speaker 4
+speaker_4: Just one last question
 
-Just one last question
-
-### Speaker 1
-
-You dont have to export Its the code the corresponding observations See when you write I have asked you to plot a few things So I have to plot them to observe what you have done And as I said also do things that I have not asked to do or not asked for
+speaker_1: You dont have to export Its the code the corresponding observations See when you write I have asked you to plot a few things So I have to plot them to observe what you have done And as I said also do things that I have not asked to do or not asked for
 
 
 Right So you can you can do more experiments than what I have asked for and you document that as well right
 
-### Speaker 4
+speaker_4: Yes sir but yeah the plots usually when we run the lets say uh matplot libplot
 
-Yes sir but yeah the plots usually when we run the lets say uh matplot libplot
+speaker_1: restart or the cells get lost for some reason then it would be lost right so is it okay to because embedding a image inside the jupyter notebook
 
-### Speaker 1
+speaker_4: I use it a lot because Im a
 
-restart or the cells get lost for some reason then it would be lost right so is it okay to because embedding a image inside the jupyter notebook
+speaker_1: Thats okay no Thats okay embedded I mean its okay I mean uh But you have to embed
 
-### Speaker 4
-
-I use it a lot because Im a
-
-### Speaker 1
-
-Thats okay no Thats okay embedded I mean its okay I mean uh But you have to embed
-
-### Speaker 4
-
-But you have to
+speaker_4: But you have to
 
 
 Okay if the results are lost we can embed it uh as a
 
-### Speaker 1
-
-Yes you should have to embed right otherwise like how do we evaluate it I mean well not be able to run them
+speaker_1: Yes you should have to embed right otherwise like how do we evaluate it I mean well not be able to run them
 
 
 Again right well run some blocks for sanity check but its not that we can we should we can run all cells of everybody right So you should embed it you should embed all that
@@ -572,13 +395,9 @@ Okay shall we start then shall we resume
 
 Hello am I dead
 
-### Speaker 4
+speaker_4: So we can just go
 
-So we can just go
-
-### Speaker 1
-
-Okay a quick recall of what we did the last time So we were looking at the adversarial networks for generative modeling
+speaker_1: Okay a quick recall of what we did the last time So we were looking at the adversarial networks for generative modeling
 
 
 The idea was that you are given some data and what you need to do is
@@ -619,45 +438,25 @@ around the saddle point the function would increase if you move along the other 
 
 No no hold on uh see I never said that the other network is checking whether the image is real or not where did I say that
 
-### Speaker 2
+speaker_2: Im just uh checking is that the correct imagination what I am
 
-Im just uh checking is that the correct imagination what I am
+speaker_1: Okay first of all when did I say that this T network is checking whether the image is correct or not
 
-### Speaker 1
+speaker_2: This is discriminator
 
-Okay first of all when did I say that this T network is checking whether the image is correct or not
+speaker_1: But I never said what that is right I mean see that is an interpretation that Im going to like give today See in general this critic network is simply a neural network that would approximate this p function that creates a lower bound on entropy So its better to see it that way
 
-### Speaker 2
+speaker_2: I said this lower bound is not Im not able to imagine that
 
-This is discriminator
+speaker_1: Thats what Im stating right Huh
 
-### Speaker 1
+speaker_2: Thats funny
 
-But I never said what that is right I mean see that is an interpretation that Im going to like give today See in general this critic network is simply a neural network that would approximate this p function that creates a lower bound on entropy So its better to see it that way
+speaker_1: See do you I mean do you recall this thing that we did the the one class before this we actually derived that law of bone right
 
-### Speaker 2
+speaker_2: you are going to explain about discriminator network
 
-I said this lower bound is not Im not able to imagine that
-
-### Speaker 1
-
-Thats what Im stating right Huh
-
-### Speaker 2
-
-Thats funny
-
-### Speaker 1
-
-See do you I mean do you recall this thing that we did the the one class before this we actually derived that law of bone right
-
-### Speaker 2
-
-you are going to explain about discriminator network
-
-### Speaker 1
-
-No I see I okay So its an important point which you made See even though I could explain like like what this thing would look like I would do it only for a special case right For the general case where you can take any F divergence this is not a classifier You understand See this T W network is not a classifier if you take your F divergence to be lets say the chi square distance
+speaker_1: No I see I okay So its an important point which you made See even though I could explain like like what this thing would look like I would do it only for a special case right For the general case where you can take any F divergence this is not a classifier You understand See this T W network is not a classifier if you take your F divergence to be lets say the chi square distance
 
 
 Okay the interpretation that you see like all over the internet and all these blocks et cetera right Therefore a special case of this where this I mean we took this right Which is if you make the f function to be corresponding to this Jensen channel divergence only in that case right this network becomes a classifier Or rather this network can be interpreted as a classifier Otherwise this is simply a neural network
@@ -677,24 +476,16 @@ Is this clear So there is see so far there is no like there is nothing that is t
 
 Other than just creating the lower bound on the F divergence that we want to minimize Is this clear
 
-### Speaker 2
+speaker_2: Yeah somewhat
 
-Yeah somewhat
+speaker_1: Why so much where is the gap
 
-### Speaker 1
-
-Why so much where is the gap
-
-### Speaker 2
-
-I have gone through this uh time this the last week as well another time but I got this confusion to just interpret
+speaker_2: I have gone through this uh time this the last week as well another time but I got this confusion to just interpret
 
 
 I think I think with this class I may get more clarity or maybe if there is confusion I will ask in next class
 
-### Speaker 1
-
-Okay see you dont have to interpret it right It is simply a neural network that is approximating this t function which is creating a lower bound on the up divergence Thats all See one has to have this kind of a generalized view Otherwise you cant go deeper than what you see in these blocks et cetera right The only way to make that next level of jump is to start seeing things in an abstract way
+speaker_1: Okay see you dont have to interpret it right It is simply a neural network that is approximating this t function which is creating a lower bound on the up divergence Thats all See one has to have this kind of a generalized view Otherwise you cant go deeper than what you see in these blocks et cetera right The only way to make that next level of jump is to start seeing things in an abstract way
 
 
 Thats a glitch Yeah so these three lines that I have written right you start I mean your goal is to minimize the F divergence between two distributions We cannot do that So we constructed a lower bound Now this lower bound that we construct involves an optimization over a class of functions T of X And that class of functions T of X is what I am representing using a neural network Thats all
@@ -702,25 +493,15 @@ Thats a glitch Yeah so these three lines that I have written right you start I m
 
 Im not sure
 
-### Speaker 2
+speaker_2: Yeah you were saying yesterday right Well look through a diagram that one graph that how that minimization happened right Once we construct a lower bound on
 
-Yeah you were saying yesterday right Well look through a diagram that one graph that how that minimization happened right Once we construct a lower bound on
+speaker_4: the discriminator network what we get then we plot it on a graph and then we further try to minimize it yeah that graph theta and
 
-### Speaker 4
+speaker_1: Sure Yeah again right I mean that would be for this case where your T network can be interpreted as a classifier
 
-the discriminator network what we get then we plot it on a graph and then we further try to minimize it yeah that graph theta and
+speaker_4: Because you know
 
-### Speaker 1
-
-Sure Yeah again right I mean that would be for this case where your T network can be interpreted as a classifier
-
-### Speaker 4
-
-Because you know
-
-### Speaker 1
-
-See Ill do all that today okay That is what Im going to do now But as I said the most general case there is a version of GAN called LS GAN a least square GAN okay Where this T network is not a classifier that will become a regressor
+speaker_1: See Ill do all that today okay That is what Im going to do now But as I said the most general case there is a version of GAN called LS GAN a least square GAN okay Where this T network is not a classifier that will become a regressor
 
 
 So you get it So it depends It depends on what is the underlying F divergence that you have chosen for minimization If you choose your F divergence to be of this particular form then this T network can be interpreted as a classifier
@@ -734,13 +515,9 @@ Is it alright
 
 Yeah
 
-### Speaker 4
+speaker_4: Yes sir Yeah I was just reacting The thing is sir like does it make a difference if we do the minimization first and then the maximization
 
-Yes sir Yeah I was just reacting The thing is sir like does it make a difference if we do the minimization first and then the maximization
-
-### Speaker 1
-
-no no no no no no the order does not matter especially because you are you are doing it in a gradient uh based way no this thing how do we optimize this we optimize this using gradient uh based minimization right so it does not matter okay so then what did we do after that is that we looked at one instance of this f can right which is the naive uh uh can i mean that uh that was uh that that that you see everywhere where the f function
+speaker_1: no no no no no no the order does not matter especially because you are you are doing it in a gradient uh based way no this thing how do we optimize this we optimize this using gradient uh based minimization right so it does not matter okay so then what did we do after that is that we looked at one instance of this f can right which is the naive uh uh can i mean that uh that was uh that that that you see everywhere where the f function
 
 
 that that you look at will be of this form right u log u minus u plus 1 log u plus 1 by 2 in this case the underlying m divergence is called the Jensen channel divergence or JS divergence so for this particular case right if you
@@ -760,13 +537,9 @@ points from the normal distribution and pass them through g theta of z to get to
 
 Yeah uh thats a good point
 
-### Speaker 2
+speaker_2: Hi I said good morning
 
-Hi I said good morning
-
-### Speaker 4
-
-And so
+speaker_4: And so
 
 
 log of dw of x and the other term
@@ -774,9 +547,7 @@ log of dw of x and the other term
 
 How did
 
-### Speaker 1
-
-Oh
+speaker_1: Oh
 
 
 No see f has a u log u minus u plus 1 log u plus 1 by 2 right Yeah f f star for this case has a log term there
@@ -784,13 +555,9 @@ No see f has a u log u minus u plus 1 log u plus 1 by 2 right Yeah f f star for 
 
 Okay and you have s star of t w of x right so there will be a log term there that will come up
 
-### Speaker 4
+speaker_4: but that is an expectation over p theta right so how is it affecting a p expectation over p extra that was my question
 
-but that is an expectation over p theta right so how is it affecting a p expectation over p extra that was my question
-
-### Speaker 1
-
-You mean in the in the in the first case you are saying uh in the first term how are you getting this log d wx
+speaker_1: You mean in the in the in the first case you are saying uh in the first term how are you getting this log d wx
 
 
 Ah I see okay uh yeah Ill tell you how to I I think I did this algebra in the
@@ -807,73 +574,45 @@ So now if you want to represent T in terms of D what do you do
 
 The inverse of the T form yeah so thats thats where you have that log
 
-### Speaker 2
+speaker_2: Im not the T ball
 
-Im not the T ball
+speaker_1: Thats where you get that
 
-### Speaker 1
+speaker_4: All right sorry I sure uh that that explains so thank you so much
 
-Thats where you get that
+speaker_1: Okay so can you please repeat
 
-### Speaker 4
+speaker_2: So can you please repeat that
 
-All right sorry I sure uh that that explains so thank you so much
-
-### Speaker 1
-
-Okay so can you please repeat
-
-### Speaker 2
-
-So can you please repeat that
-
-### Speaker 1
-
-He was asking the question was that there is a T W term here right How did you get this log D W term Right when it is there is no F here How did you get this log D W term See how are this D and T related See again see the reason it is it looks a little complicated here is that the people the Gyan people just wrote down this loss function in terms of one network called D W Okay Now
+speaker_1: He was asking the question was that there is a T W term here right How did you get this log D W term Right when it is there is no F here How did you get this log D W term See how are this D and T related See again see the reason it is it looks a little complicated here is that the people the Gyan people just wrote down this loss function in terms of one network called D W Okay Now
 
 
 in the terminology that we developed in this according to the NTK terminology what GAN people have called as DW is simply the sigmoid of our T function It is simply a fixed sigmoid of the T function Now there is T here right Now if you want to write it in terms of T how are T and D related
 
-### Speaker 2
+speaker_2: by the sigmoid relation
 
-by the sigmoid relation
+speaker_1: a sigmoid right which is which involves a negative exponentiation so if you want to write t in terms of d then there will be a logarithm right
 
-### Speaker 1
+speaker_2: Yes sir
 
-a sigmoid right which is which involves a negative exponentiation so if you want to write t in terms of d then there will be a logarithm right
+speaker_1: Thats all So you have to invert the sigmoid basically If you invert that sigmoid T will be written in terms of log of T Thats all
 
-### Speaker 2
-
-Yes sir
-
-### Speaker 1
-
-Thats all So you have to invert the sigmoid basically If you invert that sigmoid T will be written in terms of log of T Thats all
-
-### Speaker 2
-
-Okay
+speaker_2: Okay
 
 
 Answer in the in the above term
 
-### Speaker 1
-
-Seven eight
+speaker_1: Seven eight
 
 
 Actually you can do yeah tell me
 
-### Speaker 2
-
-In the above term we are doing f star of t w of x x hat So basically we are replacing u in the divergence function with t w of x hat
+speaker_2: In the above term we are doing f star of t w of x x hat So basically we are replacing u in the divergence function with t w of x hat
 
 
 And then we are trying to simplify like replacing TW with D as we have mentioned before using the synchronized relay
 
-### Speaker 1
-
-correct correct so you if you complete that algebra you will get this expression and if i have to do that algebra it will take me 30 minutes not worth it its simply algebra itself yeah
+speaker_1: correct correct so you if you complete that algebra you will get this expression and if i have to do that algebra it will take me 30 minutes not worth it its simply algebra itself yeah
 
 
 Is this all right now
@@ -953,35 +692,23 @@ x or x naught so it will take either x or x cap okay its one if x is coming from
 
 Do you understand what we are doing So there is a classifier okay a binary classifier
 
-### Speaker 2
-
-what about the other cases when x is not coming from px or x hat is not coming from p theta
+speaker_2: what about the other cases when x is not coming from px or x hat is not coming from p theta
 
 
 We are saying that the this classifier will be 1 if x comes from px right correct What if x does not comes from px
 
-### Speaker 1
+speaker_1: Thats all itll give zero See this classifier takes either x or x cap as input Okay And it will give you one if x is from px It will give you x cap if it comes from p theta
 
-Thats all itll give zero See this classifier takes either x or x cap as input Okay And it will give you one if x is from px It will give you x cap if it comes from p theta
-
-### Speaker 2
-
-It will give us zero if x cap comes from p theta
+speaker_2: It will give us zero if x cap comes from p theta
 
 
 No what if X or X cap which we have drawn does not come from PX or PHI theta like
 
-### Speaker 1
+speaker_1: it should either come from px or from v theta right because dw is yeah dw has been set up in such a way that it either takes x as input or it takes x cap as input
 
-it should either come from px or from v theta right because dw is yeah dw has been set up in such a way that it either takes x as input or it takes x cap as input
+speaker_2: Okay okay
 
-### Speaker 2
-
-Okay okay
-
-### Speaker 1
-
-So so its basically what is this this is a
+speaker_1: So so its basically what is this this is a
 
 
 Binary classifier okay
@@ -995,21 +722,13 @@ samples of Vx and V theta
 
 Is this all right Yeah its actually a binary classifier that would classify between the samples of p and p data Is that okay
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
+speaker_1: Thats fine right okay now here is the question here is a question
 
-### Speaker 1
+speaker_3: What do you mean you
 
-Thats fine right okay now here is the question here is a question
-
-### Speaker 3
-
-What do you mean you
-
-### Speaker 1
-
-Yeah this reminds me of something Its just a slight off topic thing See the reason I erased it off is because if you look at the way I have written no it is
+speaker_1: Yeah this reminds me of something Its just a slight off topic thing See the reason I erased it off is because if you look at the way I have written no it is
 
 
 It is all the letters like are not aligned along a straight line correct
@@ -1059,33 +778,19 @@ Okay can somebody answer that question So now I have given you a classifier okay
 
 Can somebody answer that Can somebody think of a way to do that
 
-### Speaker 2
+speaker_2: So that is the uh way we do it right like we train both the classifier and the discriminator
 
-So that is the uh way we do it right like we train both the classifier and the discriminator
+speaker_4: No no no I have
 
-### Speaker 4
+speaker_1: No no no I have
 
-No no no I have
+speaker_2: No no not okay sorry
 
-### Speaker 1
+speaker_1: Okay thats funny Ive never going to the top of the top of the top
 
-No no no I have
+speaker_2: Thats still F five
 
-### Speaker 2
-
-No no not okay sorry
-
-### Speaker 1
-
-Okay thats funny Ive never going to the top of the top of the top
-
-### Speaker 2
-
-Thats still F five
-
-### Speaker 1
-
-as far as as per as per as far as we have seen it now we are simply constructing lower bounds on f divergence and minimizing them thats all now the question that im asking is forget about everything that we have done so far right im simply asking you whether in this setup right where uh there is a neural network that would take the samples from a from arbitrary distribution and im giving you some other distribution ive given you a classifier that would classify between the samples of true data and the
+speaker_1: as far as as per as per as far as we have seen it now we are simply constructing lower bounds on f divergence and minimizing them thats all now the question that im asking is forget about everything that we have done so far right im simply asking you whether in this setup right where uh there is a neural network that would take the samples from a from arbitrary distribution and im giving you some other distribution ive given you a classifier that would classify between the samples of true data and the
 
 
 of this neural network Now the question is by using this classifier can you make your G theta such that whatever it outputs is close to Px That is the question Now dont think about m dimensions now for a while
@@ -1096,21 +801,13 @@ Okay so
 
 I think please raise your hands virtually because otherwise it will become sort of chaos Sanchit you wanted to say something
 
-### Speaker 2
+speaker_2: Yes sir So if the samples are drawn from X we will get a 1 But if X hat is drawn then we will get a 0 So what we can do is we can try to maximize the overall like we can go for a cumulative sum of DW outputs and try to maximize that
 
-Yes sir So if the samples are drawn from X we will get a 1 But if X hat is drawn then we will get a 0 So what we can do is we can try to maximize the overall like we can go for a cumulative sum of DW outputs and try to maximize that
+speaker_1: Why maximize with respect to what See what are you tweaking here by the way
 
-### Speaker 1
+speaker_2: Sir like what Im uh like trying to see is like
 
-Why maximize with respect to what See what are you tweaking here by the way
-
-### Speaker 2
-
-Sir like what Im uh like trying to see is like
-
-### Speaker 1
-
-No no Im not asking you what Im trying to say The question that Im asking is what is what handle do we have here What is that we can tweak See we can tweak theta nothing else The classifier is fixed
+speaker_1: No no Im not asking you what Im trying to say The question that Im asking is what is what handle do we have here What is that we can tweak See we can tweak theta nothing else The classifier is fixed
 
 
 Okay so what we need to do is simply use this classifier to tweak theta Tweak theta you understand
@@ -1166,32 +863,20 @@ Yes sir The classifier would fail only if px is equal to p theta So now what Ill
 
 You understand this
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-Okay so this is how like a lot of these blog posts et cetera would motivate GANs Okay theyll say that oh theres a classifier and you want to make that classifier fail because only when that classifier fails then your p theta will go close to px will be exactly equal to px Okay
+speaker_1: Okay so this is how like a lot of these blog posts et cetera would motivate GANs Okay theyll say that oh theres a classifier and you want to make that classifier fail because only when that classifier fails then your p theta will go close to px will be exactly equal to px Okay
 
 
 But there is a catch here Ill tell you what the catch is Yeah I think there are some questions
 
-### Speaker 4
+speaker_4: Yes uh are we saying that now at in at this stage the classifier is perfect that its able to distinguish between x or x naught
 
-Yes uh are we saying that now at in at this stage the classifier is perfect that its able to distinguish between x or x naught
+speaker_1: Whats what stage at what stage
 
-### Speaker 1
+speaker_4: So so now I mean with this assumption that the classifier is able to do that right So are we already saying that it is perfect at doing this
 
-Whats what stage at what stage
-
-### Speaker 4
-
-So so now I mean with this assumption that the classifier is able to do that right So are we already saying that it is perfect at doing this
-
-### Speaker 1
-
-So when we start when we start right I mean we are assuming that okay the classifier is able to classify
+speaker_1: So when we start when we start right I mean we are assuming that okay the classifier is able to classify
 
 
 Right But the argument that Im going to give you in a while will tell you that it is not enough if you just make the classifier fail See this thing that I said no that if the classifier fails then p theta equal to px right is not completely true
@@ -1199,13 +884,9 @@ Right But the argument that Im going to give you in a while will tell you that i
 
 Okay I dont know if you can see that failure case already but Ill show you that Ill show you that in a while But yeah any other questions Sanchit Yeah
 
-### Speaker 2
+speaker_2: Im not sure if you are going to cover this question ahead but just asking so change tweaking the theta randomly it will take like really really long time so do dont we have some parameter that will govern or that will tell us okay in which direction we have to tweak theta
 
-Im not sure if you are going to cover this question ahead but just asking so change tweaking the theta randomly it will take like really really long time so do dont we have some parameter that will govern or that will tell us okay in which direction we have to tweak theta
-
-### Speaker 1
-
-Yeah that is correct That is correct But yeah well see how to do that Yeah itll see the direction now is simply that it should be in such a way that the p theta should be close to equal or should be close to px That is the direction that we are talking about Anyway so now I mean if all of you are convinced that the classifier fails that p theta equal to px this is this may not be true always Ill tell you why
+speaker_1: Yeah that is correct That is correct But yeah well see how to do that Yeah itll see the direction now is simply that it should be in such a way that the p theta should be close to equal or should be close to px That is the direction that we are talking about Anyway so now I mean if all of you are convinced that the classifier fails that p theta equal to px this is this may not be true always Ill tell you why
 
 
 However that
@@ -1309,21 +990,13 @@ theta being equal to bx
 
 Is this clear Any questions on this in the mid
 
-### Speaker 4
+speaker_4: Here when you are moving X hat above the line will discriminator not address the line to again differentiate between these two
 
-Here when you are moving X hat above the line will discriminator not address the line to again differentiate between these two
+speaker_1: Good question we have not done that yet right have we done that
 
-### Speaker 1
+speaker_2: No but discriminator will do no
 
-Good question we have not done that yet right have we done that
-
-### Speaker 2
-
-No but discriminator will do no
-
-### Speaker 1
-
-No no no we have said that the classifier is fixed here right and by the way I have not used the word discriminator I am simply saying it is a classifier
+speaker_1: No no no we have said that the classifier is fixed here right and by the way I have not used the word discriminator I am simply saying it is a classifier
 
 
 So when I told this in the first class I said you know please use the terminologies and the names that Ive been using I mean I understand that it is difficult because you already know all this right from other sources but its good to use because theres a reason why Im using those names For now this is a classifier okay So classifier is fixed Im not changing the classifier
@@ -1334,13 +1007,9 @@ Okay now if the classifier is fixed then simply moving theta such that the class
 
 Those are the ones
 
-### Speaker 4
+speaker_4: Exactly
 
-Exactly
-
-### Speaker 1
-
-Yeah simple different sample This line is fixed
+speaker_1: Yeah simple different sample This line is fixed
 
 
 I dont know who he is yeah but yeah so classifier is fixed or when I say classifier is fixed this is of course this is the classifier that Im talking about it is fixed
@@ -1348,25 +1017,15 @@ I dont know who he is yeah but yeah so classifier is fixed or when I say classif
 
 Uh Harish
 
-### Speaker 4
+speaker_4: Sir uh one question so our goal is to make p theta equal to px right
 
-Sir uh one question so our goal is to make p theta equal to px right
+speaker_1: Correct correct
 
-### Speaker 1
+speaker_4: In that case why do we need a classifier for example so we can just use a regression problem to find the loss and just use
 
-Correct correct
+speaker_2: generator right
 
-### Speaker 4
-
-In that case why do we need a classifier for example so we can just use a regression problem to find the loss and just use
-
-### Speaker 2
-
-generator right
-
-### Speaker 1
-
-Now what what do you regress over See what do you regress over X cap comes right Do you match every X cap to some X Is that what you do
+speaker_1: Now what what do you regress over See what do you regress over X cap comes right Do you match every X cap to some X Is that what you do
 
 
 So what are you suggesting that I just make this take a split or loss and then minimize this See if I do this then what will happen is the this neural network would simply generate whatever is there in your data It will not generate anything new
@@ -1374,24 +1033,16 @@ So what are you suggesting that I just make this take a split or loss and then m
 
 So you want to do it at a distributional level no Thats why they are doing all this yeah
 
-### Speaker 2
+speaker_2: So we need to understand the distribution rather than just using the samples
 
-So we need to understand the distribution rather than just using the samples
-
-### Speaker 1
-
-Absolutely that is that has been our problem from day one isnt it We want it to be done at the distribution level
+speaker_1: Absolutely that is that has been our problem from day one isnt it We want it to be done at the distribution level
 
 
 Not at sample level right Okay So now the thing is yeah so all of you got this right I mean using the classifier and trying to take in your p theta such that the classifier fails is not enough You need to do something more What do you think is that something more that you can do
 
-### Speaker 3
+speaker_3: Maybe the dye or the discriminant should dynamically learn
 
-Maybe the dye or the discriminant should dynamically learn
-
-### Speaker 1
-
-Yeah so you move the line What you should do is you move the line okay If this line okay so what you do is first you have to make this so this is DW1 Under this DW1
+speaker_1: Yeah so you move the line What you should do is you move the line okay If this line okay so what you do is first you have to make this so this is DW1 Under this DW1
 
 
 This happened Okay What I will do is I will learn another line here I will learn another classifier Okay This is now
@@ -1486,13 +1137,9 @@ Okay and minimizing the lower bound is equivalent to moving this p theta
 
 in this space of data such that it will go very easily to the last one
 
-### Speaker 2
+speaker_2: Are you using a pointer sir
 
-Are you using a pointer sir
-
-### Speaker 1
-
-Unfortunately there is no pointer in this it would have been so nice if there is a pointer does anybody know if there is a pointer here
+speaker_1: Unfortunately there is no pointer in this it would have been so nice if there is a pointer does anybody know if there is a pointer here
 
 
 Yeah so yeah Im not because I dont I cant use a pointer is this clear
@@ -1578,25 +1225,15 @@ Thomas
 
 What is this term
 
-### Speaker 4
+speaker_4: likelihood that it comes
 
-likelihood that it comes
+speaker_3: Mm
 
-### Speaker 3
+speaker_1: I clean up
 
-Mm
+speaker_3: Yeah
 
-### Speaker 1
-
-I clean up
-
-### Speaker 3
-
-Yeah
-
-### Speaker 1
-
-XGAR is not from VX
+speaker_1: XGAR is not from VX
 
 
 Right or in this case
@@ -1610,13 +1247,9 @@ Correct is it okay
 
 Now what do we have to do well have to
 
-### Speaker 4
+speaker_4: speed theta
 
-speed theta
-
-### Speaker 1
-
-So maximum that x cap is not from px oh yeah this is from v theta correct thanks
+speaker_1: So maximum that x cap is not from px oh yeah this is from v theta correct thanks
 
 
 We need to maximize this as well right We need to maximize Okay Ill have to write that in the same notes
@@ -1681,13 +1314,9 @@ Because what do we why do we have to do that The here the objective is to have m
 
 Now how do we do that
 
-### Speaker 2
+speaker_2: Its a
 
-Its a
-
-### Speaker 1
-
-classifier is yeah if classifier is maximizing something you just minimize that you just completely undo whatever the classifier has done so if i call this as some j okay of theta comma w now you need to
+speaker_1: classifier is yeah if classifier is maximizing something you just minimize that you just completely undo whatever the classifier has done so if i call this as some j okay of theta comma w now you need to
 
 
 classifier is maximizing J theta comma W with respect to W then
@@ -1842,20 +1471,14 @@ You can ask TS to cover this if you want right What is transpose convolution And
 
 Okay so thats that So we will take a break now and then maybe go to Ill talk about the conditional GANs and I mean the some of the applications of GANs as I promised Before that Ill take questions on this if there are any
 
-### Speaker 2
+speaker_2: So two questions One thing you mentioned is this classifier interpretation holds true only for
 
-So two questions One thing you mentioned is this classifier interpretation holds true only for
-
-### Speaker 4
-
-for this JS divergence Why is that so
+speaker_4: for this JS divergence Why is that so
 
 
 Why is this specific only for GST tax regions
 
-### Speaker 1
-
-Big fat
+speaker_1: Big fat
 
 
 For others okay for others this will become a the the I mean this thing right will not be a classifier between 0 and 1 right this network will give you a a real number see depends on if you recall the output of the t network should come from the way of f star isnt it
@@ -1866,29 +1489,17 @@ So that domain of f star for this case will become 0 to 1 For the other cases it
 
 No distinguish between in the other cases no so how can we interpret
 
-### Speaker 4
+speaker_4: No distinguish between in the other cases no so how can we interpret
 
-No distinguish between in the other cases no so how can we interpret
+speaker_1: But what about
 
-### Speaker 1
+speaker_4: What the
 
-But what about
+speaker_1: I understand
 
-### Speaker 4
+speaker_4: I understand
 
-What the
-
-### Speaker 1
-
-I understand
-
-### Speaker 4
-
-I understand
-
-### Speaker 1
-
-I understood the question so did it to me you cannot interpret that at all
+speaker_1: I understood the question so did it to me you cannot interpret that at all
 
 
 So there is no classification that is happening That is why I dont give this as the you know the ultimate interpretation Because only with Jensen and Diversen this becomes a classifier For other diversen it is not a classifier For instance there is a paper called as I said no LSGAN where what is getting minimized is chi square distance Let me just show you my screen and that will become like maybe more apparent
@@ -1905,36 +1516,22 @@ For different divergences the final output activation is different for Pearsons 
 
 You understand Yeah So only with Jensens channel divergence you have this kind of thing which is bounded between 0 and 1 which becomes a classifier Now if you use the KL divergence etc right you just have a line thats all so which cannot be interpreted anyway
 
-### Speaker 2
+speaker_2: Yeah and the second question
 
-Yeah and the second question
+speaker_1: See hold on hold on the way to the way to interpret that as if you want to right it is simply a a neural network that is creating a lower bound on the underlying f divergence
 
-### Speaker 1
+speaker_4: Hey hold on hold on
 
-See hold on hold on the way to the way to interpret that as if you want to right it is simply a a neural network that is creating a lower bound on the underlying f divergence
-
-### Speaker 4
-
-Hey hold on hold on
-
-### Speaker 2
-
-Mm okay
+speaker_2: Mm okay
 
 
 want something different So you also mentioned that the X hat that comes out is is not in the D
 
-### Speaker 1
+speaker_1: Yeah yeah
 
-Yeah yeah
+speaker_2: Can we really ensure that Or but the question is if you
 
-### Speaker 2
-
-Can we really ensure that Or but the question is if you
-
-### Speaker 1
-
-But the question is if it depends on if it depends on how tight your lower bound is
+speaker_1: But the question is if it depends on if it depends on how tight your lower bound is
 
 
 If its very tight then actually you will get two pairs no which means that you will get very diverse samples
@@ -1942,40 +1539,24 @@ If its very tight then actually you will get two pairs no which means that you w
 
 No because you are meaning we are doing that at the distributional level Thats the whole point Okay Okay The whole point is that you have you have made the distribution same See why did we even start with all this F divergence et cetera is that we dont want to overfit right I mean overfitting in in the case of generating models is when you match the distributions exactly Sorry when you only match the samples not at the distributional level
 
-### Speaker 3
+speaker_3: What do you want me to do
 
-What do you want me to do
+speaker_1: So youre actually
 
-### Speaker 1
+speaker_2: If you ensure the distributions are same because we are doing a random sampling you wouldnt get the same
 
-So youre actually
+speaker_1: Absolutely yeah random sampling is happening because your input right its actually converting one random variable to the other youre still yeah
 
-### Speaker 2
-
-If you ensure the distributions are same because we are doing a random sampling you wouldnt get the same
-
-### Speaker 1
-
-Absolutely yeah random sampling is happening because your input right its actually converting one random variable to the other youre still yeah
-
-### Speaker 2
-
-Three new points okay
+speaker_2: Three new points okay
 
 
 Exactly yeah
 
-### Speaker 1
+speaker_1: so but you have to ensure that the distributions are matched so if the lower bound that you are that you are constructing is very weak right then you will not match distribution because you have you have you anyway minimized a very low very loose lower bound on the f divergence
 
-so but you have to ensure that the distributions are matched so if the lower bound that you are that you are constructing is very weak right then you will not match distribution because you have you have you anyway minimized a very low very loose lower bound on the f divergence
+speaker_2: I understood
 
-### Speaker 2
-
-I understood
-
-### Speaker 1
-
-That is why people say that the end training is very difficult One because youre solving that saddle point optimization problem The other thing is the lower bound that you might get might be very very loose If its very loose then if you look at that classifier interpretation your classifier is simply trying to move it in different places without ever overlapping it with PX
+speaker_1: That is why people say that the end training is very difficult One because youre solving that saddle point optimization problem The other thing is the lower bound that you might get might be very very loose If its very loose then if you look at that classifier interpretation your classifier is simply trying to move it in different places without ever overlapping it with PX
 
 
 And also I didnt tell you last class right What is the stopping criteria in training this There is actually no not well known stopping criteria for this okay The only stopping criteria is when people just eyeball the quality of the images or the data that is generating They just have some pseudo metric to generate what it is I mean the pseudo metric to measure the goodness of the samples and then they use that to stop
@@ -1983,75 +1564,43 @@ And also I didnt tell you last class right What is the stopping criteria in trai
 
 one good stopping criteria so is that because we
 
-### Speaker 2
+speaker_2: Is that because we is that because we do not know what is the really the tightest bound that we can get
 
-Is that because we is that because we do not know what is the really the tightest bound that we can get
-
-### Speaker 1
-
-Exactly and also we dont know the what the underlying distribution is no
+speaker_1: Exactly and also we dont know the what the underlying distribution is no
 
 
 it see also now next part of the class ill talk about this vessel strains distance and uh uh and uh uh fid right there is a score called fischetts inception distance which ill talk about the next time that is one thing that is used to monitor the goodness of the generated images but stopping criteria is just that you eyeball the images and see the data and use some surrogate losses and just stop there
 
-### Speaker 2
+speaker_2: Yep thank you so much
 
-Yep thank you so much
+speaker_1: Yeah sunjet
 
-### Speaker 1
+speaker_2: in this example which you had mentioned right where we are considering this classifier dw1 dw2 dw3 why not keep the existing classifiers when going for a newer classifier like what i mean to say is instead of going for the single layer perceptron method why not for a multi layer perceptron here so that we have the other classifier
 
-Yeah sunjet
+speaker_1: Im sorry I didnt follow your question Can you repeat it again
 
-### Speaker 2
+speaker_2: Okay what I am saying is once we move from DW1 to DW2 right you are saying that it is likely possible that P theta 2 might take the positions of P theta 1 correct
 
-in this example which you had mentioned right where we are considering this classifier dw1 dw2 dw3 why not keep the existing classifiers when going for a newer classifier like what i mean to say is instead of going for the single layer perceptron method why not for a multi layer perceptron here so that we have the other classifier
+speaker_4: Correct correct
 
-### Speaker 1
+speaker_2: Now if we have DW1 intact and then we go for DW2
 
-Im sorry I didnt follow your question Can you repeat it again
+speaker_1: No there is no impact no we have changed the classifier
 
-### Speaker 2
+speaker_2: what sir thats what i am trying to say if if we are going for a change right lets lets instead of going for single layer perceptron we go for multi layer perceptron
 
-Okay what I am saying is once we move from DW1 to DW2 right you are saying that it is likely possible that P theta 2 might take the positions of P theta 1 correct
-
-### Speaker 4
-
-Correct correct
-
-### Speaker 2
-
-Now if we have DW1 intact and then we go for DW2
-
-### Speaker 1
-
-No there is no impact no we have changed the classifier
-
-### Speaker 2
-
-what sir thats what i am trying to say if if we are going for a change right lets lets instead of going for single layer perceptron we go for multi layer perceptron
-
-### Speaker 1
-
-no no no see multi layer perceptron will not tell will not uh prohibit the class the decision boundary to go somewhere else not go to the previous layer no that has nothing to do with single layer multi layer see multi layer single layer which will simply tell you whether the decision boundary is what is the range of decision boundaries that you can learn
+speaker_1: no no no see multi layer perceptron will not tell will not uh prohibit the class the decision boundary to go somewhere else not go to the previous layer no that has nothing to do with single layer multi layer see multi layer single layer which will simply tell you whether the decision boundary is what is the range of decision boundaries that you can learn
 
 
 See there is no remembering of the classi previous classifier that is happening here you are just reiterating it completely
 
-### Speaker 2
+speaker_2: No sir what Im saying is we go for a multi layer perceptron approach like we say that okay we
 
-No sir what Im saying is we go for a multi layer perceptron approach like we say that okay we
+speaker_1: Okay see again please understand what a multi layer perceptron is a multi layer perceptron is simply a deep neural network that has multiple layers thats all
 
-### Speaker 1
+speaker_2: Yes sir
 
-Okay see again please understand what a multi layer perceptron is a multi layer perceptron is simply a deep neural network that has multiple layers thats all
-
-### Speaker 2
-
-Yes sir
-
-### Speaker 1
-
-So it does not mean that you are remembering something and all that here it is simply a neural network
+speaker_1: So it does not mean that you are remembering something and all that here it is simply a neural network
 
 
 An MLP is a neural network thats all
@@ -2059,77 +1608,47 @@ An MLP is a neural network thats all
 
 Understand it is simply a multi layer perceptron did you under did you attend the tutorials
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
+speaker_1: In tutorials they talked about multilayer perceptrons and training them huh
 
-### Speaker 1
+speaker_2: Yes it is
 
-In tutorials they talked about multilayer perceptrons and training them huh
-
-### Speaker 2
-
-Yes it is
-
-### Speaker 1
-
-so a multi layer perceptron is where a neural network i actually talked about a multi layer perceptron in the last class if you remember what is a multi layer perceptron you start with take data okay you multiply it with w transpose x and then you make that go through a nonlinear this is the first layer the second layer is you take w2 and then you do another nonlinear this is second layer this is the third layer and so on this is an mlp so the architecture will look like this now you start with this have a fully connected network
+speaker_1: so a multi layer perceptron is where a neural network i actually talked about a multi layer perceptron in the last class if you remember what is a multi layer perceptron you start with take data okay you multiply it with w transpose x and then you make that go through a nonlinear this is the first layer the second layer is you take w2 and then you do another nonlinear this is second layer this is the third layer and so on this is an mlp so the architecture will look like this now you start with this have a fully connected network
 
 
 You have W2 you have W1 then you have W2 This is an MLP which is a deep neural network It has nothing to do with the classifier remembering what the previous state is and all that That is not what we are doing Do you see the difference
 
-### Speaker 2
+speaker_2: Yes sir I agree on that But maybe uh maybe I the terminology I used was not correct What Im trying to say here is that why not
 
-Yes sir I agree on that But maybe uh maybe I the terminology I used was not correct What Im trying to say here is that why not
+speaker_1: Why not remember what the classifier was at the previous state right
 
-### Speaker 1
-
-Why not remember what the classifier was at the previous state right
-
-### Speaker 2
-
-Yes sir it might not remember but if we go with this approach of multi layer perceptron then we might have a tighter
+speaker_2: Yes sir it might not remember but if we go with this approach of multi layer perceptron then we might have a tighter
 
 
 Hydrophobic on the surface
 
-### Speaker 1
+speaker_1: We are using multi layer perceptron We are using multi layer perceptrons We are not using the linear discriminator anyway here right So these are neural networks These are deep CNNs Even if you are using deep CNNs see the note that your data is in some very high dimensional space and it can always go to a place where the classifier misclassifies
 
-We are using multi layer perceptron We are using multi layer perceptrons We are not using the linear discriminator anyway here right So these are neural networks These are deep CNNs Even if you are using deep CNNs see the note that your data is in some very high dimensional space and it can always go to a place where the classifier misclassifies
+speaker_2: Okay
 
-### Speaker 2
-
-Okay
-
-### Speaker 1
-
-Right So it has nothing to do with the capacity of the classifier We are talking about data in some 10000 dimensional space here
+speaker_1: Right So it has nothing to do with the capacity of the classifier We are talking about data in some 10000 dimensional space here
 
 
 Okay uh any other question S Sarvek
 
-### Speaker 4
+speaker_4: Yes so this transpose conversation that you mentioned So for this the input in the Z should it also be in a grid format or we can use 1D
 
-Yes so this transpose conversation that you mentioned So for this the input in the Z should it also be in a grid format or we can use 1D
+speaker_2: Its a fantastic
 
-### Speaker 2
-
-Its a fantastic
-
-### Speaker 1
-
-That is a design choice People have seen both happening But people generally take people take Z to be a vector right not a grid
+speaker_1: That is a design choice People have seen both happening But people generally take people take Z to be a vector right not a grid
 
 
 Let me share that show the DC current paper with you
 
-### Speaker 3
+speaker_3: It doesnt look
 
-It doesnt look
-
-### Speaker 1
-
-But uh hes appreciated
+speaker_1: But uh hes appreciated
 
 
 And also this convolutional uh arithmetic also is something that Ill show you hold on
@@ -2167,32 +1686,20 @@ This is how they do it So at 100 dimensional Z and then you reshape and then you
 
 Start with a hundred dimensional uniform distribution Z is projected you caught it no
 
-### Speaker 4
+speaker_4: Yeah so vector only is converted to start from vector and then you yeah then you do
 
-Yeah so vector only is converted to start from vector and then you yeah then you do
-
-### Speaker 1
-
-from vector and then you yeah then you do the trans correct then you do upsampling transpose convolutions and then get to the final page dimensions
+speaker_1: from vector and then you yeah then you do the trans correct then you do upsampling transpose convolutions and then get to the final page dimensions
 
 
 Okay anything else
 
-### Speaker 2
+speaker_2: Sir can you please share these uh documents which you are presenting
 
-Sir can you please share these uh documents which you are presenting
+speaker_1: What did he miss
 
-### Speaker 1
+speaker_2: Well be right back
 
-What did he miss
-
-### Speaker 2
-
-Well be right back
-
-### Speaker 1
-
-We cant like
+speaker_1: We cant like
 
 
 Okay done Okay lets take a break It is 11 point 5 Lets come back at 11 point 20 And yeah continue from here
@@ -2203,17 +1710,11 @@ Okay see you in about 15 minutes
 
 Yeah you can hear me Can you see my screen
 
-### Speaker 4
+speaker_4: No no no no
 
-No no no no
+speaker_2: No
 
-### Speaker 2
-
-No
-
-### Speaker 1
-
-So which one should I show this one
+speaker_1: So which one should I show this one
 
 
 See you on screen start broadcast
@@ -2221,25 +1722,15 @@ See you on screen start broadcast
 
 Ill be right you
 
-### Speaker 4
+speaker_4: Yes yes
 
-Yes yes
+speaker_1: No you can see my screen as a boss right
 
-### Speaker 1
+speaker_4: Thats the p theta its next thing we should have mentioned as p its before the objective for classic classifier training site that was
 
-No you can see my screen as a boss right
+speaker_1: Uh come again
 
-### Speaker 4
-
-Thats the p theta its next thing we should have mentioned as p its before the objective for classic classifier training site that was
-
-### Speaker 1
-
-Uh come again
-
-### Speaker 4
-
-Before the object before saturation thats likely to be that X before that light
+speaker_4: Before the object before saturation thats likely to be that X before that light
 
 
 before that
@@ -2247,9 +1738,7 @@ before that
 
 Can you go above a little bit Yeah here if you mention comes from P you mention the P deta to deta right
 
-### Speaker 1
-
-Okay thanks
+speaker_1: Okay thanks
 
 
 Okay shall we continue
@@ -2338,13 +1827,9 @@ Now this takes Z
 
 It shows some working offline is my screen still visible
 
-### Speaker 4
+speaker_4: Yes yes
 
-Yes yes
-
-### Speaker 1
-
-Now you need to generate from a like px given y right So what you need to do first is that you condition this generator generation okay with y Now how do you do that is that just add y as another input here So y goes as another input
+speaker_1: Now you need to generate from a like px given y right So what you need to do first is that you condition this generator generation okay with y Now how do you do that is that just add y as another input here So y goes as another input
 
 
 Now what happens is that you need to the p function
@@ -2454,40 +1939,24 @@ And yeah so they have again conditioned it on text This was a very old paper it 
 
 Yeah Sandhya Sandhya Tana Mohan
 
-### Speaker 2
+speaker_2: Sir yeah sir here X is just limited to images or it can be some
 
-Sir yeah sir here X is just limited to images or it can be some
+speaker_1: So it can be it can be anything See Ive been telling this from class one right GANs are not restricted to images It can be like speech People do text people have done text to speech using GANs No that is some of these models So condition it on text and generate speech So that can be done as well
 
-### Speaker 1
+speaker_2: Okay like like
 
-So it can be it can be anything See Ive been telling this from class one right GANs are not restricted to images It can be like speech People do text people have done text to speech using GANs No that is some of these models So condition it on text and generate speech So that can be done as well
+speaker_1: Can you share the screen
 
-### Speaker 2
+speaker_2: Like we have the transformer algorithms right like where we give a prompt of text and
 
-Okay like like
-
-### Speaker 1
-
-Can you share the screen
-
-### Speaker 2
-
-Like we have the transformer algorithms right like where we give a prompt of text and
-
-### Speaker 1
-
-No no that is not see that is not adversarial trained those are
+speaker_1: No no that is not see that is not adversarial trained those are
 
 
 autoregressive models okay so gpt etc are autoregressive models we will talk about that as well later in this is different this is not see this is adversarial learning this is a gam this is not a autoregressive model this is not a gpt
 
-### Speaker 2
+speaker_2: This is different
 
-This is different
-
-### Speaker 1
-
-So this is text conditional generation of images right I mean its a GAN that is trained which is minimizing the underlying GAN divergence
+speaker_1: So this is text conditional generation of images right I mean its a GAN that is trained which is minimizing the underlying GAN divergence
 
 
 Okay
@@ -2498,126 +1967,76 @@ Uh okay one other question by
 
 Cartik Kumar
 
-### Speaker 4
-
-Yes I just wanted to know about why Why are we training Why is it like a range of values in the sense that we will give all the classes that it need to for example if it is class labels we will give all the classes to which it need to train itself so that during inference we will be giving one among that class So why would what would be the range of why I mean like
+speaker_4: Yes I just wanted to know about why Why are we training Why is it like a range of values in the sense that we will give all the classes that it need to for example if it is class labels we will give all the classes to which it need to train itself so that during inference we will be giving one among that class So why would what would be the range of why I mean like
 
 
 A how come
 
-### Speaker 1
+speaker_1: I did not understand your question
 
-I did not understand your question
+speaker_4: So for example if we are training at the case of images right and we are giving a next prompt as you shown in the video like in the paper that okay find the mountains in
 
-### Speaker 4
+speaker_2: Or something in that sense that can be why right Is my understanding there correct
 
-So for example if we are training at the case of images right and we are giving a next prompt as you shown in the video like in the paper that okay find the mountains in
-
-### Speaker 2
-
-Or something in that sense that can be why right Is my understanding there correct
-
-### Speaker 1
-
-Uh no see why okay so uh for now lets say that its class 10
+speaker_1: Uh no see why okay so uh for now lets say that its class 10
 
 
 It is simply a class label no
 
-### Speaker 2
+speaker_2: Okay so it can be something like is it a human or is it a yeah
 
-Okay so it can be something like is it a human or is it a yeah
+speaker_1: Yeah represent represent that as a one hot vector so you know what one hot representation means right
 
-### Speaker 1
+speaker_2: Mm yeah
 
-Yeah represent represent that as a one hot vector so you know what one hot representation means right
-
-### Speaker 2
-
-Mm yeah
-
-### Speaker 1
-
-So if its MNIST data you have 10 classes represent that as a 10 dimensional like binary vector with one zeros right So whenever you get from the class one then you get you give like one like one zero zero zero concatenate that Otherwise youll get zero one zero zero zero concatenate that and so on
+speaker_1: So if its MNIST data you have 10 classes represent that as a 10 dimensional like binary vector with one zeros right So whenever you get from the class one then you get you give like one like one zero zero zero concatenate that Otherwise youll get zero one zero zero zero concatenate that and so on
 
 
 Does it make sense
 
-### Speaker 2
-
-Got it yeah
+speaker_2: Got it yeah
 
 
 So one question So when we are okay suppose this is something like word embedding could also have been some clip embedding or some such text
 
-### Speaker 1
+speaker_1: Yeah
 
-Yeah
+speaker_2: Im a bit clear but my question is how do we con how do we join this X
 
-### Speaker 2
+speaker_1: Concatenate concatenate make them like vectors Just concatenate that with x and then give it as an input
 
-Im a bit clear but my question is how do we con how do we join this X
+speaker_2: Okay Im sorry that was the same which thank you so much
 
-### Speaker 1
+speaker_1: So for the discriminator youre saying now how do we concatenate that with X yeah just concatenate that yeah just concatenate
 
-Concatenate concatenate make them like vectors Just concatenate that with x and then give it as an input
+speaker_2: Its just concatenate that yeah just concatenate
 
-### Speaker 2
+speaker_1: Oh
 
-Okay Im sorry that was the same which thank you so much
+speaker_2: Oh okay
 
-### Speaker 1
-
-So for the discriminator youre saying now how do we concatenate that with X yeah just concatenate that yeah just concatenate
-
-### Speaker 2
-
-Its just concatenate that yeah just concatenate
-
-### Speaker 1
-
-Oh
-
-### Speaker 2
-
-Oh okay
-
-### Speaker 1
-
-no attention see y is a vector why do you have attention or anything see y is a vector given a text it is a vector that corresponds to a text take that and concatenate with your x thats all what is the difficulty
+speaker_1: no attention see y is a vector why do you have attention or anything see y is a vector given a text it is a vector that corresponds to a text take that and concatenate with your x thats all what is the difficulty
 
 
 See its a vector right given a text you get a vector all these words will give you a vector for its sentence isnt it
 
-### Speaker 2
+speaker_2: Yes
 
-Yes
+speaker_1: So did that
 
-### Speaker 1
-
-So did that
-
-### Speaker 2
-
-Oh
+speaker_2: Oh
 
 
 But yeah but it comes from a completely different vector space
 
-### Speaker 1
+speaker_1: How does it matter how does it matter I just want pairs of images and vectors for my training so look at this now what I am given is pairs of images and vectors
 
-How does it matter how does it matter I just want pairs of images and vectors for my training so look at this now what I am given is pairs of images and vectors
-
-### Speaker 2
-
-No no no just like
+speaker_2: No no no just like
 
 
 So your screen is not visible
 
-### Speaker 1
-
-Fastest you can do it
+speaker_1: Fastest you can do it
 
 
 Okay so basically I have pairs of images and vectors right And those vectors can be anything They can come from like some embedding or it can be a one hot vector for class labels It can be anything
@@ -2625,21 +2044,13 @@ Okay so basically I have pairs of images and vectors right And those vectors can
 
 Okay so she
 
-### Speaker 2
+speaker_2: So when we concatenate do we have the same dimension size for text embedding and the image in
 
-So when we concatenate do we have the same dimension size for text embedding and the image in
+speaker_1: not no definitely not see then how would you see concatenation can be done in many ways no see you add you add one more channel for your image right and just repeat all this so many times
 
-### Speaker 1
+speaker_2: Oh okay this is just a discriminator network we are not generating anything here so maybe concatenation is sufficient to do that
 
-not no definitely not see then how would you see concatenation can be done in many ways no see you add you add one more channel for your image right and just repeat all this so many times
-
-### Speaker 2
-
-Oh okay this is just a discriminator network we are not generating anything here so maybe concatenation is sufficient to do that
-
-### Speaker 1
-
-We are not generating y we are not generating embeddings we are just using embeddings to generate from x conditionally Given a text or given a one hot vector we need we want to generate from it We are not generating embeddings here There is no attention potential nothing I mean its simply taking a vector corresponding to a text You dont even have to do word Okay sorry Maybe I wrote this and you got confused See embedding can come from anything No lets say that it is simply a
+speaker_1: We are not generating y we are not generating embeddings we are just using embeddings to generate from x conditionally Given a text or given a one hot vector we need we want to generate from it We are not generating embeddings here There is no attention potential nothing I mean its simply taking a vector corresponding to a text You dont even have to do word Okay sorry Maybe I wrote this and you got confused See embedding can come from anything No lets say that it is simply a
 
 
 TDF IDF okay
@@ -2647,73 +2058,45 @@ TDF IDF okay
 
 you understood right i mean it is some vector corresponding to this vector this thing is concatenate that you have a pair of data or image and a vector you concatenate that vector with this and then try this again nothing complicated at all
 
-### Speaker 2
-
-Okay
+speaker_2: Okay
 
 
 But so what is the difference between the CGAN and normal GANs that we use
 
-### Speaker 1
-
-Nothing The GAN cannot do conditional generation Conditional GAN can do conditional generation See in a normal GAN right suppose you build a normal GAN on MNIST You cant control what digit you generate when you do inference Here you can control what digit you generate during inference
+speaker_1: Nothing The GAN cannot do conditional generation Conditional GAN can do conditional generation See in a normal GAN right suppose you build a normal GAN on MNIST You cant control what digit you generate when you do inference Here you can control what digit you generate during inference
 
 
 Is it Is it all right
 
-### Speaker 2
+speaker_2: Yeah yeah thanks
 
-Yeah yeah thanks
-
-### Speaker 1
-
-In fact in the data set that I have given you there are some 90 classes different animal faces okay So now Ive asked you to build a CNN on say 20 class theres some 10 or 20 subclass of this data set So what you will see is that when you give that particular the way you should do it to take those 10 classes represent them as 100 vectors like this 0 0 0 1 wherever the class is concatenate this with the z vector okay
+speaker_1: In fact in the data set that I have given you there are some 90 classes different animal faces okay So now Ive asked you to build a CNN on say 20 class theres some 10 or 20 subclass of this data set So what you will see is that when you give that particular the way you should do it to take those 10 classes represent them as 100 vectors like this 0 0 0 1 wherever the class is concatenate this with the z vector okay
 
 
 and give that as an input to your generator and also the discriminator during inference when you concatenate this is like a switch so whatever class you want you take that particular class and it will generate and do you understand that
 
-### Speaker 2
+speaker_2: Yes it is the headache of the back propagation to find out what in how in which ways these vectors have to be combined and the image has to be generated
 
-Yes it is the headache of the back propagation to find out what in how in which ways these vectors have to be combined and the image has to be generated
+speaker_1: Yeah see dont say it that way See the thing is remember what we are doing We are trying to minimize the distributional divergence See if we do it well then the divergence between P of P cap given Y and P of P cap given Y will be minimized no What do you mean by that I mean that is why I spent two full classes on trying to make you appreciate what does it mean to minimize distributions
 
-### Speaker 1
+speaker_2: The reason why we concatenate is what I was talking about so the the the if we concatenate also or maybe if we do something some complicated thing like some cross attention or some such neural
 
-Yeah see dont say it that way See the thing is remember what we are doing We are trying to minimize the distributional divergence See if we do it well then the divergence between P of P cap given Y and P of P cap given Y will be minimized no What do you mean by that I mean that is why I spent two full classes on trying to make you appreciate what does it mean to minimize distributions
-
-### Speaker 2
-
-The reason why we concatenate is what I was talking about so the the the if we concatenate also or maybe if we do something some complicated thing like some cross attention or some such neural
-
-### Speaker 1
-
-I didnt mean to say that
+speaker_1: I didnt mean to say that
 
 
 Just add if you want you i if you want you can add no problem
 
-### Speaker 2
+speaker_2: Yeah okay so okay
 
-Yeah okay so okay
+speaker_1: You can combine them any way you want any way you want
 
-### Speaker 1
+speaker_2: Okay okay
 
-You can combine them any way you want any way you want
+speaker_1: Okay help me move on
 
-### Speaker 2
+speaker_2: Yes sir
 
-Okay okay
-
-### Speaker 1
-
-Okay help me move on
-
-### Speaker 2
-
-Yes sir
-
-### Speaker 1
-
-So well go to like yeah one of the application of this the next thing that we will do is uh
+speaker_1: So well go to like yeah one of the application of this the next thing that we will do is uh
 
 
 So we already saw that we can do conditional generation And one other advantage of doing conditional generation is that suppose you are solving a classification problem and you have less data What you can do is you can build a GAN a conditional GAN and generate class specific data using conditional GANs and use that for augmenting your classifiers
@@ -2724,32 +2107,20 @@ Understand
 
 If you can do a class conditional generation then you can use that to like augment your classifier for your downstream task Does that make sense
 
-### Speaker 4
+speaker_4: Sir please repeat again
 
-Sir please repeat again
-
-### Speaker 1
-
-See suppose you have a classifier okay and you want to try in a classifier and you dont have data from one of the classes What you do is you build a GAN on that on that data okay the conditional GAN and generate more data from that conditional GAN So if you do it in an unconditional way what happens is you will not know what the label of the generated data is If you build a conditional GAN you already know what label the data is coming from right And you can use the
+speaker_1: See suppose you have a classifier okay and you want to try in a classifier and you dont have data from one of the classes What you do is you build a GAN on that on that data okay the conditional GAN and generate more data from that conditional GAN So if you do it in an unconditional way what happens is you will not know what the label of the generated data is If you build a conditional GAN you already know what label the data is coming from right And you can use the
 
 
 to augment your classifier and retrain your classifier with more data
 
-### Speaker 4
+speaker_4: Yeah correct sir correct
 
-Yeah correct sir correct
+speaker_1: Aditya
 
-### Speaker 1
+speaker_2: so the second half of the can anyway can so wouldnt it like my doubt was the data set the amount of information we have in the images we are just uh creating instances of that right so the classifier should be able to learn the same amount from the
 
-Aditya
-
-### Speaker 2
-
-so the second half of the can anyway can so wouldnt it like my doubt was the data set the amount of information we have in the images we are just uh creating instances of that right so the classifier should be able to learn the same amount from the
-
-### Speaker 1
-
-No no no you will generate new data right its like augmenting your data suppose you have more data in your data set you classifier would anyway become better
+speaker_1: No no no you will generate new data right its like augmenting your data suppose you have more data in your data set you classifier would anyway become better
 
 
 I mean again this is under the assumption that you have trained your GAN well so that the underlying distribution is correctly estimated If its not estimated then what youre saying is true I mean the classifier will only see some noise But if the underlying distribution has been correctly estimated via GAN training good GAN training not only GAN you can use it for any kind of classifier any kind of generative model right Take a generative model train it well and you can use that data Of course you need to do it in a conditional way
@@ -2757,43 +2128,27 @@ I mean again this is under the assumption that you have trained your GAN well so
 
 data augment your classifier again always do that
 
-### Speaker 2
-
-Okay so my my my doubt was if we had sufficient images in order to actually
+speaker_2: Okay so my my my doubt was if we had sufficient images in order to actually
 
 
 uh i mean generate the actual distribution required of that images then wouldnt that be sufficient to directly give a good classifier because we have enough to even estimate
 
-### Speaker 1
-
-No not necessarily not necessarily But I mean your question is valid What youre saying is if we can anyway estimate the end to end distribution would classifier would anyway do that No not necessarily Sometimes what youre saying is true in a sense But sometimes you know what happens is you know lets say that your classifier is restrictive in the sense that you cant make your classifier large enough right In that case even if you have a lot of data because of restrictions on the architecture of the classifier unless you have like diverse
+speaker_1: No not necessarily not necessarily But I mean your question is valid What youre saying is if we can anyway estimate the end to end distribution would classifier would anyway do that No not necessarily Sometimes what youre saying is true in a sense But sometimes you know what happens is you know lets say that your classifier is restrictive in the sense that you cant make your classifier large enough right In that case even if you have a lot of data because of restrictions on the architecture of the classifier unless you have like diverse
 
 
 more diverse data you cant train the classifier well
 
-### Speaker 4
+speaker_4: Okay okay
 
-Okay okay
+speaker_1: So in those cases you can or the other thing now other thing that you can do is lets say that you have class imbalance right then to sample from the tail of the distribution you can use conditional GANs and then augment your classifier
 
-### Speaker 1
+speaker_2: Understood okay
 
-So in those cases you can or the other thing now other thing that you can do is lets say that you have class imbalance right then to sample from the tail of the distribution you can use conditional GANs and then augment your classifier
+speaker_1: Thats a good question by the way yeah
 
-### Speaker 2
+speaker_2: Hi sir so the original data must have a must have some data from a class right the generator
 
-Understood okay
-
-### Speaker 1
-
-Thats a good question by the way yeah
-
-### Speaker 2
-
-Hi sir so the original data must have a must have some data from a class right the generator
-
-### Speaker 1
-
-Of course of course of course of course Otherwise you cant do a condition with generation right Yeah It should have some data from all classes yeah Or rather the class that you would want to sample from
+speaker_1: Of course of course of course of course Otherwise you cant do a condition with generation right Yeah It should have some data from all classes yeah Or rather the class that you would want to sample from
 
 
 Okay so lets move on So Ill talk about two applications of GANs and then we will like move to the next topic in the next class The first thing that I want to talk about is what is called as image to image translation Okay
@@ -2858,13 +2213,9 @@ other examples that are given yeah this is like you have uh uh you have maps or 
 
 Uh did you understand the objective is it clear
 
-### Speaker 4
+speaker_4: Yes thats good
 
-Yes thats good
-
-### Speaker 1
-
-Okay now how do we do that is that so recall
+speaker_1: Okay now how do we do that is that so recall
 
 
 recall that again right so what does it do it will it will take an arbitrary random variable and project it to random variable of interest so this is arbitrary right
@@ -2902,93 +2253,55 @@ P Z two
 
 PX Similar way this is converting PS to PT Do you understand this
 
-### Speaker 2
+speaker_2: Yes so in that case uh G theta of S will look like a autoencoder right
 
-Yes so in that case uh G theta of S will look like a autoencoder right
+speaker_1: No no no bear is auto encoder here
 
-### Speaker 1
+speaker_2: I mean
 
-No no no bear is auto encoder here
+speaker_1: simply there is nothing there is no no no no no no there is no auto inputting nothing is happening its simply a gam instead of taking z it will take a s as input and it will give you t cap as output thats all
 
-### Speaker 2
-
-I mean
-
-### Speaker 1
-
-simply there is nothing there is no no no no no no there is no auto inputting nothing is happening its simply a gam instead of taking z it will take a s as input and it will give you t cap as output thats all
-
-### Speaker 2
-
-Theyre video
+speaker_2: Theyre video
 
 
 Okay
 
-### Speaker 1
+speaker_1: Why is there an auto encoder here
 
-Why is there an auto encoder here
+speaker_2: Uh so will there be a need to have a equal sized image uh I mean so initially we sampled z and we got g theta of z
 
-### Speaker 2
+speaker_1: Thats a different question Thats a different question So what should be the architecture of this Architecturally changes of course you start with an equal sized input yeah
 
-Uh so will there be a need to have a equal sized image uh I mean so initially we sampled z and we got g theta of z
+speaker_2: Thats the key feature
 
-### Speaker 1
+speaker_1: But there is no auto encoding only the size of this network changes that I agree
 
-Thats a different question Thats a different question So what should be the architecture of this Architecturally changes of course you start with an equal sized input yeah
-
-### Speaker 2
-
-Thats the key feature
-
-### Speaker 1
-
-But there is no auto encoding only the size of this network changes that I agree
-
-### Speaker 2
-
-You can okay
+speaker_2: You can okay
 
 
 Yes
 
-### Speaker 1
+speaker_1: Uh yeah any other questions on this
 
-Uh yeah any other questions on this
+speaker_2: And sir one more thing sir how we can identify or calculate the performance of this gains like how per it
 
-### Speaker 2
+speaker_4: are performing well on the data
 
-And sir one more thing sir how we can identify or calculate the performance of this gains like how per it
-
-### Speaker 4
-
-are performing well on the data
-
-### Speaker 1
-
-this question does not fit into what we are discussing right now it is a good question but it is not im talking about this image to image translation right like ive not talked about evaluating games yet so i request all of you to like ask questions that are relevant to what is being discussed right now okay but ill answer that question how do we evaluate i actually hinted that in the previous session i told you that there are metrics called fid etc uh which i will describe but yeah any
+speaker_1: this question does not fit into what we are discussing right now it is a good question but it is not im talking about this image to image translation right like ive not talked about evaluating games yet so i request all of you to like ask questions that are relevant to what is being discussed right now okay but ill answer that question how do we evaluate i actually hinted that in the previous session i told you that there are metrics called fid etc uh which i will describe but yeah any
 
 
 question that is like relevant to what we are discussing right now please raise your hands before asking questions please yeah Harish
 
-### Speaker 2
+speaker_2: So while sampling this distribution uh the samples from BS uh from the distribution S here so we really dont know the distribution right underlying distribution in this case
 
-So while sampling this distribution uh the samples from BS uh from the distribution S here so we really dont know the distribution right underlying distribution in this case
-
-### Speaker 1
-
-We dont know its just like Z yeah we dont know we neither know PS nor we know PD we just have samples no matter
+speaker_1: We dont know its just like Z yeah we dont know we neither know PS nor we know PD we just have samples no matter
 
 
 So what can we do with that
 
-### Speaker 4
+speaker_4: So how do we convert that to like for example that in the general one the Z is of the form of like 16 or 32 that I already told
 
-So how do we convert that to like for example that in the general one the Z is of the form of like 16 or 32 that I already told
-
-### Speaker 1
-
-I already told you right you start with a its a its a CNN so its basically a CNN right of the same size if you want I can write it this way
+speaker_1: I already told you right you start with a its a its a CNN so its basically a CNN right of the same size if you want I can write it this way
 
 
 Its of the same size
@@ -3008,32 +2321,20 @@ Its its an architectural choice you can do it anyway so you can reduce the dimen
 
 Okay thats so cool
 
-### Speaker 4
+speaker_4: to the discriminator you have T cap or T it should be and if there any specific reason youre inviting all
 
-to the discriminator you have T cap or T it should be and if there any specific reason youre inviting all
+speaker_1: I I mean like by r I mean see when you are looking at the first term you need to give t when youre looking at the second term you need to give t t cap
 
-### Speaker 1
+speaker_4: Okay
 
-I I mean like by r I mean see when you are looking at the first term you need to give t when youre looking at the second term you need to give t t cap
-
-### Speaker 4
-
-Okay
-
-### Speaker 1
-
-Right that is how we have been doing that no discriminators either it T cap goes as input or T goes as input depending upon what term you are evaluating
+speaker_1: Right that is how we have been doing that no discriminators either it T cap goes as input or T goes as input depending upon what term you are evaluating
 
 
 Yeah service
 
-### Speaker 4
+speaker_4: Yes sir for this image to image translation so shouldnt there be a need of a mapping from which S is mapped to which T or like good question
 
-Yes sir for this image to image translation so shouldnt there be a need of a mapping from which S is mapped to which T or like good question
-
-### Speaker 1
-
-Good question Good question Good question Yeah See there was a paper called picks to picks that actually paired I mean this is called pairing So now how do you I mean the question that you are asking basically is that how do you ensure that one corresponding S goes to that same T right I mean the example that I showed how does the semantic semantics preserve get preserved Thats a very good question That is why you know in the in the first paper called picks to picks
+speaker_1: Good question Good question Good question Yeah See there was a paper called picks to picks that actually paired I mean this is called pairing So now how do you I mean the question that you are asking basically is that how do you ensure that one corresponding S goes to that same T right I mean the example that I showed how does the semantic semantics preserve get preserved Thats a very good question That is why you know in the in the first paper called picks to picks
 
 
 Okay its called picts to pics here there was pairing
@@ -3059,13 +2360,9 @@ in addition to two GAN losses
 
 Cycle Vian also has
 
-### Speaker 2
+speaker_2: Stain loss
 
-Stain loss
-
-### Speaker 1
-
-No no no as what is called as a cycle consistency loss
+speaker_1: No no no as what is called as a cycle consistency loss
 
 
 Cycle consistency loss Now what do you mean by cycle consistency loss What they do is so for GAN from S to T so you have this no You have expectation of log of DS that you get is from T and you have T coming from PD plus that expectation of log of
@@ -3109,21 +2406,13 @@ Ill get an image in T correct Now I will take this image T and pass it through G
 
 What should I get
 
-### Speaker 2
+speaker_2: Say against the same measure
 
-Say against the same measure
+speaker_1: Against the same image
 
-### Speaker 1
+speaker_2: Thats brilliant
 
-Against the same image
-
-### Speaker 2
-
-Thats brilliant
-
-### Speaker 1
-
-Right I get I get S right I should get S so I minimize this loss
+speaker_1: Right I get I get S right I should get S so I minimize this loss
 
 
 is called cycle consistency law similarly they do this they take g1 okay and g2 pass it pass through a t you will get an s you pass it through t you will get another t to take that corresponding t and okay it is this so this is what is the cycle again
@@ -3149,81 +2438,49 @@ Share that
 
 See as I said no there are so many applications that GANs are being used for And I know I can teach a full course on GAN But yeah so you dont have that time unfortunately Yeah questions are coming
 
-### Speaker 2
+speaker_2: Uh so Im sorry but I did not understand the pairing uh that uh
 
-Uh so Im sorry but I did not understand the pairing uh that uh
+speaker_1: There is no
 
-### Speaker 1
+speaker_2: This is not the question that was asked
 
-There is no
+speaker_1: There is no pairing See the question was while doing this do you need the corresponding S and V See in the example that I showed if you take a sketch and you want the corresponding field image while training the scan do you need the pairing This is the question
 
-### Speaker 2
+speaker_2: We we should right we need
 
-This is not the question that was asked
-
-### Speaker 1
-
-There is no pairing See the question was while doing this do you need the corresponding S and V See in the example that I showed if you take a sketch and you want the corresponding field image while training the scan do you need the pairing This is the question
-
-### Speaker 2
-
-We we should right we need
-
-### Speaker 1
-
-Anyhow
+speaker_1: Anyhow
 
 
 No we dont That is what Im saying In pixel to pixel paper pairing was needed But in cycle GAN pairing was taken I mean they gave up pairing They said pairing is not needed Then how do you ensure that the corresponding image gets generated is through having these two different generators Even though you want S to be converted to T you also have another GAN that is T from S and then you have the cycle consistency
 
-### Speaker 2
+speaker_2: And then you have the cycle of the testicle convert it back and then the difference between them should be minimal okay yes oh okay okay
 
-And then you have the cycle of the testicle convert it back and then the difference between them should be minimal okay yes oh okay okay
-
-### Speaker 1
-
-Okay okay uh centered
+speaker_1: Okay okay uh centered
 
 
 Minister
 
-### Speaker 2
+speaker_2: Translate from English
 
-Translate from English
-
-### Speaker 1
-
-Whats your question or just clarifying is it
+speaker_1: Whats your question or just clarifying is it
 
 
 Or third
 
-### Speaker 2
+speaker_2: The other GAN was just for you know learning of the first one
 
-The other GAN was just for you know learning of the first one
-
-### Speaker 1
-
-Uh you can say it that way right it is aiding the running of first one but it also gives you one additional advantage that you can have conversion back also no T2S as well
+speaker_1: Uh you can say it that way right it is aiding the running of first one but it also gives you one additional advantage that you can have conversion back also no T2S as well
 
 
 Yeah such a thing
 
-### Speaker 2
+speaker_2: So when pairing is given its more like conditional GAN
 
-So when pairing is given its more like conditional GAN
+speaker_1: Ah it becomes like a conditional yeah thats a good observation yes it becomes very conditional yeah correct
 
-### Speaker 1
+speaker_2: Im sorry
 
-Ah it becomes like a conditional yeah thats a good observation yes it becomes very conditional yeah correct
-
-### Speaker 2
-
-Im sorry
-
-### Speaker 1
-
-Thats a good observation instead of having uh
+speaker_1: Thats a good observation instead of having uh
 
 
 like a text as a one hot vector or as a conditioning variable you have this image as a conditional variable thats a good observation yes in fact you can see this right you can use GAN for inpainting now image inpainting because you can use the input image or the or the like mask image as input and you can train again to complete the image so you can imagine any any of the applications now because what is GAN doing at the end of the day that is why you need to have that abstraction thats taking starting from
@@ -3231,161 +2488,95 @@ like a text as a one hot vector or as a conditioning variable you have this imag
 
 arbitrary distribution it converts it into distribution of interest and it does that via minimizing the f dimensions now you take your input to be anything that you want and output to be anything that you want and imagine whatever application you want there right
 
-### Speaker 2
+speaker_2: So sir in basically these mobile phones and everything we see many photo editing tools which convert the image or enhances the image
 
-So sir in basically these mobile phones and everything we see many photo editing tools which convert the image or enhances the image
+speaker_1: Yeah they can be GANs They can be GANs but right now the state of the art is not GAN They use diffusion models charge generating models but the fundamental idea is the same
 
-### Speaker 1
+speaker_2: Theyre asking us
 
-Yeah they can be GANs They can be GANs but right now the state of the art is not GAN They use diffusion models charge generating models but the fundamental idea is the same
-
-### Speaker 2
-
-Theyre asking us
-
-### Speaker 1
-
-They use diffusion models because they are more easy to train and robust We will come to diffusion models later in this course okay
+speaker_1: They use diffusion models because they are more easy to train and robust We will come to diffusion models later in this course okay
 
 
 Okay yeah Ill go
 
-### Speaker 4
-
-Uh so uh
+speaker_4: Uh so uh
 
 
 Will it will be uh converted
 
-### Speaker 1
+speaker_1: What do you mean by quotient and what do you mean by that
 
-What do you mean by quotient and what do you mean by that
+speaker_4: Okay so when you say that we can we find a loss function by passing it to g g1 s minus s right and that
 
-### Speaker 4
-
-Okay so when you say that we can we find a loss function by passing it to g g1 s minus s right and that
-
-### Speaker 1
-
-will not loss function yeah g1 of s is simply an image
+speaker_1: will not loss function yeah g1 of s is simply an image
 
 
 G2 of G2 of G1 of H is another image Were just looking at the differences of the images See G1 is a generator no
 
-### Speaker 4
-
-Youre welcome
+speaker_4: Youre welcome
 
 
 Ha generator so the image is same which is passed like S is same and whatever we are getting
 
-### Speaker 1
+speaker_1: whatever we are getting hold on hold on hold on please hold on yeah ill tell you what is happening take an image s pass it through g1 you get another image t right
 
-whatever we are getting hold on hold on hold on please hold on yeah ill tell you what is happening take an image s pass it through g1 you get another image t right
+speaker_4: Output
 
-### Speaker 4
-
-Output
-
-### Speaker 1
-
-If you take that T and pass it through G2 you will get some other images
+speaker_1: If you take that T and pass it through G2 you will get some other images
 
 
 See that email maybe I should uh
 
-### Speaker 2
+speaker_2: Okay thats not though it is
 
-Okay thats not though it is
+speaker_4: The state the state
 
-### Speaker 4
+speaker_1: Why is it the original image Why is it the original image It is output of the generator it is something you you are matching that to the original image
 
-The state the state
+speaker_4: Okay thats what I was confused I thought you were telling like we are reversing the process and finding out the loss function
 
-### Speaker 1
+speaker_2: after that
 
-Why is it the original image Why is it the original image It is output of the generator it is something you you are matching that to the original image
+speaker_1: Its impossible no you understood what Im saying right so its yeah
 
-### Speaker 4
+speaker_4: Sorry about that
 
-Okay thats what I was confused I thought you were telling like we are reversing the process and finding out the loss function
+speaker_1: Okay so its a different image its not the because the it is the generator right we have actually there will be another descrip one discriminator here
 
-### Speaker 2
+speaker_2: Yeah yeah
 
-after that
-
-### Speaker 1
-
-Its impossible no you understood what Im saying right so its yeah
-
-### Speaker 4
-
-Sorry about that
-
-### Speaker 1
-
-Okay so its a different image its not the because the it is the generator right we have actually there will be another descrip one discriminator here
-
-### Speaker 2
-
-Yeah yeah
-
-### Speaker 1
-
-EWS will be another discriminator here
+speaker_1: EWS will be another discriminator here
 
 
 Is it T W T Yes go on okay
 
-### Speaker 2
+speaker_2: Ah sir when we are talking about the differences between the these two images
 
-Ah sir when we are talking about the differences between the these two images
+speaker_4: like G2T and G10
 
-### Speaker 4
+speaker_1: Pixel level differences pixel level differences
 
-like G2T and G10
+speaker_4: Oh its a pixel level yes okay great thank you sir
 
-### Speaker 1
+speaker_1: Yeah
 
-Pixel level differences pixel level differences
-
-### Speaker 4
-
-Oh its a pixel level yes okay great thank you sir
-
-### Speaker 1
-
-Yeah
-
-### Speaker 2
-
-Okay
+speaker_2: Okay
 
 
 So one question so from this we can see that any arbitrary distribution can be converted by by training to one more other distribution right to make it closer to the one
 
-### Speaker 1
+speaker_1: So
 
-So
+speaker_2: Is there are there any cases where we cannot do that For example there are two distributions which we cannot train again to for them to convert to one more distribution
 
-### Speaker 2
-
-Is there are there any cases where we cannot do that For example there are two distributions which we cannot train again to for them to convert to one more distribution
-
-### Speaker 1
-
-Theoretically no you can convert anything to anything theoretically
+speaker_1: Theoretically no you can convert anything to anything theoretically
 
 
 Yeah practically what happens is if you do not have like strong priors on data for instance if you have lets say data like tabular data or data like you know where you have compositional data and all that now its difficult to train GAN But theoretically speaking you can do it Anything is possible
 
-### Speaker 2
+speaker_2: Thank you
 
-Thank you
-
-### Speaker 1
-
-Okay I think all these questions are
+speaker_1: Okay I think all these questions are
 
 
 Yeah its okay Im not disgracing that but yes the time is 12 10 now
@@ -3414,29 +2605,17 @@ Please see what I recommend you is that now that we have come to the thick of th
 
 are always encouraged okay Ill see you next week
 
-### Speaker 4
+speaker_4: Yeah tha thank you sir thank you sir
 
-Yeah tha thank you sir thank you sir
+speaker_2: Thank you sir
 
-### Speaker 2
+speaker_4: Thank you sir
 
-Thank you sir
+speaker_2: Kind of
 
-### Speaker 4
+speaker_4: And just so
 
-Thank you sir
-
-### Speaker 2
-
-Kind of
-
-### Speaker 4
-
-And just so
-
-### Speaker 1
-
-Thank you so much
+speaker_1: Thank you so much
 
 
 T right correct take that T and pass it through G2 you will get some other images
@@ -3447,59 +2626,35 @@ See that TMA or maybe I should uh
 
 Why is it the original image Why is it the original image It is output of the generator It is something you you are matching that to the original image Yeah
 
-### Speaker 3
+speaker_3: Oh my god
 
-Oh my god
+speaker_1: thing its very possible no you understood what im saying right so its yeah its more okay so its a different image its not the because it is the generator right well have actually there will be another one discriminator here
 
-### Speaker 1
+speaker_2: Yeah yeah
 
-thing its very possible no you understood what im saying right so its yeah its more okay so its a different image its not the because it is the generator right well have actually there will be another one discriminator here
-
-### Speaker 2
-
-Yeah yeah
-
-### Speaker 1
-
-EWS will be another discriminator here
+speaker_1: EWS will be another discriminator here
 
 
 Is it DWT Yes go on okay
 
-### Speaker 2
+speaker_2: Ah sir when we are talking about the differences between the these two images like G2T and G16
 
-Ah sir when we are talking about the differences between the these two images like G2T and G16
+speaker_1: Pixel level differences pixel level differences
 
-### Speaker 1
+speaker_4: Oh its a pixel level yes okay great thank you sir
 
-Pixel level differences pixel level differences
+speaker_1: Yeah I got it
 
-### Speaker 4
-
-Oh its a pixel level yes okay great thank you sir
-
-### Speaker 1
-
-Yeah I got it
-
-### Speaker 2
-
-Im not
+speaker_2: Im not
 
 
 one question so from this we can see that any arbitrary distribution can be converted by by training to one more other distribution right to make it closer to the other one
 
-### Speaker 4
+speaker_4: I dont know
 
-I dont know
+speaker_2: Is there are there any cases where we cannot do that For example there are two distributions which we cannot train again to for them to convert to one more distribution
 
-### Speaker 2
-
-Is there are there any cases where we cannot do that For example there are two distributions which we cannot train again to for them to convert to one more distribution
-
-### Speaker 1
-
-Theoretically no you can convert anything to anything theoretically
+speaker_1: Theoretically no you can convert anything to anything theoretically
 
 
 Yeah practically what happens is if you do not have like strong priors on data for instance if you have lets say data like tabular data or data like you know where you have compositional data and all that now its difficult to train GAN But theoretically speaking you can do it Anything is possible
@@ -3531,13 +2686,9 @@ So I wanted to do that Itll take 15 minutes People like complain if I extend Sha
 
 Okay thats all for today so well have the youll have a quiz next next class
 
-### Speaker 4
+speaker_4: I think so
 
-I think so
-
-### Speaker 1
-
-Uh starting at nine after the quiz we will look at the domain adaptation with grams and then well move to VAEs Okay
+speaker_1: Uh starting at nine after the quiz we will look at the domain adaptation with grams and then well move to VAEs Okay
 
 
 Please see what I recommend you is that now that we have come to the thick of the things please start reading the papers that we have discussed in the class in the original And if I have questions you can either contact me or TS and get your doubts cleared Okay
@@ -3545,26 +2696,14 @@ Please see what I recommend you is that now that we have come to the thick of th
 
 you then see if i like you know uh while asking questions you know im just trying to moderate it a little so that there is relevance so dont get me wrong so yeah questions are always encouraged okay ill see you next week
 
-### Speaker 4
+speaker_4: Yeah tha thank you sir
 
-Yeah tha thank you sir
+speaker_2: Thank you
 
-### Speaker 2
+speaker_4: Thank you sir
 
-Thank you
+speaker_1: Mm hmm
 
-### Speaker 4
+speaker_4: So its a
 
-Thank you sir
-
-### Speaker 1
-
-Mm hmm
-
-### Speaker 4
-
-So its a
-
-### Speaker 1
-
-Thank you
+speaker_1: Thank you

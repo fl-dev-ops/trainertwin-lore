@@ -27,7 +27,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -35,6 +35,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And they were talking about okay culture shock can have two aspects It can be what most of us understand by culture shock which is the quite you see something completely different which is just something youre not used to and you think oh my goodness how can they do that It could be yeah it could be something small or something big something that throws you off So yeah to give you to give you an example coming into into Thailand maybe people in in families in their houses may sit you know sit on the floor eating eating rice it cross legged And if youre expected to do that if youre not used to it it can be quite difficult to get in the position and uncomfortable Youre thinking oh whats whats going on here So that can be quite a shock
+speaker_1: And they were talking about okay culture shock can have two aspects It can be what most of us understand by culture shock which is the quite you see something completely different which is just something youre not used to and you think oh my goodness how can they do that It could be yeah it could be something small or something big something that throws you off So yeah to give you to give you an example coming into into Thailand maybe people in in families in their houses may sit you know sit on the floor eating eating rice it cross legged And if youre expected to do that if youre not used to it it can be quite difficult to get in the position and uncomfortable Youre thinking oh whats whats going on here So that can be quite a shock

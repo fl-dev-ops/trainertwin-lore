@@ -31,8 +31,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -40,10 +40,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: you talk to dozens of leaders or people like that What have you noticed any patterns What have you learned from from that
 
-you talk to dozens of leaders or people like that What have you noticed any patterns What have you learned from from that
-
-### Speaker 2 · Speaker 2
-
-Yeah thats a cool question man So the the main thing is that obviously the journeys are never the same right Regardless if you end up living somewhere else or if you stay in your home country but work internationally from maybe from the comforts of your room So different stories but yeah there is kind of a common pattern And none of them was obsessed with getting things right getting things perfect right at the beginning
+speaker_2: Yeah thats a cool question man So the the main thing is that obviously the journeys are never the same right Regardless if you end up living somewhere else or if you stay in your home country but work internationally from maybe from the comforts of your room So different stories but yeah there is kind of a common pattern And none of them was obsessed with getting things right getting things perfect right at the beginning

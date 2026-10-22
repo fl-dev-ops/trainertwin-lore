@@ -6,14 +6,15 @@ date: '2026-03-12'
 duration: 22:18
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 47 LSTMs and GRUs
 
 ## Transcript
 
-
-Welcome everyone to the class
+speaker_1: Welcome everyone to the class
 See general mathematical
 objective to solve the vanishing
 gradient problem

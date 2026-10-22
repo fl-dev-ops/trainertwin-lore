@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,10 +30,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: like the exact same question shows how cultural differences are at play
 
-like the exact same question shows how cultural differences are at play
-
-### Speaker 2 · Speaker 2
-
-And its very important in the work if you are working with teams its you need to to understand the cultural gaps because otherwise its Yeah Yeah absolutely If you want I give another example Yeah I love these examples because they really show like differences out there The Israelis the Israelis they are very focused in the target you see The Brazilians are they have they dont have limits The Brazil the Israelis are very small country and they they live inside limits The Brazilians are open and no front Its important Its an important thing to understand those things when you are traveling and working with teams
+speaker_2: And its very important in the work if you are working with teams its you need to to understand the cultural gaps because otherwise its Yeah Yeah absolutely If you want I give another example Yeah I love these examples because they really show like differences out there The Israelis the Israelis they are very focused in the target you see The Brazilians are they have they dont have limits The Brazil the Israelis are very small country and they they live inside limits The Brazilians are open and no front Its important Its an important thing to understand those things when you are traveling and working with teams

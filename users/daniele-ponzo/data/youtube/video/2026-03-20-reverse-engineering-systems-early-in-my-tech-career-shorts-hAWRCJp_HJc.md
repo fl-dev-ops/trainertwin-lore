@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,18 +24,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: two of the biggest clients were the Vatican Bank
 
-two of the biggest clients were the Vatican Bank
+speaker_2: Sure
 
-### Speaker 2 · Speaker 2
+speaker_1: where I had to write something that was crazy because at the time I hope they changed it But at the time they had a very old Oracle document management system that was nearly not documented and I had to reverse engineer it And from that reverse engineering process I had to understand how to communicate with it So I found its communication protocol that was through binary communication over network So a binary RPC and some XML RPC connections and they wrote a whole library just to communicate with it and create a wrapper to control copies of documents because it was the time of a big scandal in the Vatican where documents from the Vatican Bank were exposed
 
-Sure
-
-### Speaker 1 · Speaker 1
-
-where I had to write something that was crazy because at the time I hope they changed it But at the time they had a very old Oracle document management system that was nearly not documented and I had to reverse engineer it And from that reverse engineering process I had to understand how to communicate with it So I found its communication protocol that was through binary communication over network So a binary RPC and some XML RPC connections and they wrote a whole library just to communicate with it and create a wrapper to control copies of documents because it was the time of a big scandal in the Vatican where documents from the Vatican Bank were exposed
-
-### Speaker 2 · Speaker 2
-
-Okay
+speaker_2: Okay

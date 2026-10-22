@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,14 +30,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So as soon as you put enough effort you are more than welcome And um yeah so it and this this setup um also affects me as a teacher because I know that there are uh many non technical people And I have to explain it in the best possible way so that most of them still get what I want to say And um yeah thats thats a real challenge I must say
 
-So as soon as you put enough effort you are more than welcome And um yeah so it and this this setup um also affects me as a teacher because I know that there are uh many non technical people And I have to explain it in the best possible way so that most of them still get what I want to say And um yeah thats thats a real challenge I must say
+speaker_2: Exactly Is that like the when you say thats the hardest the the the most difficult uh thing you have to to do So teaching software engineering to non engineers Is that is that a like the main challenge youre facing
 
-### Speaker 2 · Speaker 2
-
-Exactly Is that like the when you say thats the hardest the the the most difficult uh thing you have to to do So teaching software engineering to non engineers Is that is that a like the main challenge youre facing
-
-### Speaker 1 · Speaker 1
-
-I would say yes
+speaker_1: I would say yes

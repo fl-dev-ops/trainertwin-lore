@@ -8,20 +8,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 5a - Deep Generative Models GAN Training
 
 ## Transcript
 
-
-### Speaker 1
-
-of of f can okay which will get us to the the basic or the manila gann article of the gann model that generally people use so if your generator function or the f function in the f divergence happens to be of this particular form okay the corresponding divergence measure is called the f divergence sorry sorry sorry jensen channel divergence okay now in that case the
+speaker_1: of of f can okay which will get us to the the basic or the manila gann article of the gann model that generally people use so if your generator function or the f function in the f divergence happens to be of this particular form okay the corresponding divergence measure is called the f divergence sorry sorry sorry jensen channel divergence okay now in that case the
 
 
 Okay
@@ -137,21 +134,13 @@ Naive GAN isnt it If your people have seen that if you look at the blog post and
 
 You see my screen
 
-### Speaker 2
+speaker_2: Not in the house sir
 
-Not in the house sir
+speaker_1: You see it now
 
-### Speaker 1
+speaker_2: Yeah Yes sir Yes sir
 
-You see it now
-
-### Speaker 2
-
-Yeah Yes sir Yes sir
-
-### Speaker 1
-
-Okay this is that FGN paper right which actually I taught so far Now all this M divergence et cetera So look at this table Now in this table what they have done no they have given different divergences and the different F functions corresponding to those divergences and the corresponding T functions optimal T functions And for Gyan right which is the naive Gyan this is what is the generator function Okay now they have skipped the algebra I think Ive done it in my notes or you can ask
+speaker_1: Okay this is that FGN paper right which actually I taught so far Now all this M divergence et cetera So look at this table Now in this table what they have done no they have given different divergences and the different F functions corresponding to those divergences and the corresponding T functions optimal T functions And for Gyan right which is the naive Gyan this is what is the generator function Okay now they have skipped the algebra I think Ive done it in my notes or you can ask
 
 
 you can ask them to do it so now with this particular look at this now with particular divergence metric your output activation function which i just said now that on the output of the t function if you put an activation that would change it is simply expressing the t function in a different way
@@ -174,24 +163,16 @@ also becomes a member okay so did all of you get how we got from the uh the loss
 
 Uh any questions on this Yeah okay
 
-### Speaker 3
-
-Section
+speaker_3: Section
 
 
 zero like in this Janshan diversion
 
-### Speaker 1
+speaker_1: Yeah it is no no f of no its not I think we corrected that no it should be in f of let me just see that f of zero is one
 
-Yeah it is no no f of no its not I think we corrected that no it should be in f of let me just see that f of zero is one
+speaker_4: I think the second term should be here in uh log of u plus 1 by 2
 
-### Speaker 4
-
-I think the second term should be here in uh log of u plus 1 by 2
-
-### Speaker 1
-
-done let me just see that did I make a mistake here
+speaker_1: done let me just see that did I make a mistake here
 
 
 Oh thats correct
@@ -199,44 +180,26 @@ Oh thats correct
 
 It forth won this seedling
 
-### Speaker 3
+speaker_3: Yeah but uh FF1 doesnt evaluate to zero with this equation doesnt evaluate to zero here
 
-Yeah but uh FF1 doesnt evaluate to zero with this equation doesnt evaluate to zero here
+speaker_1: It evaluates to what that is 0 this is log 2 which is evaluate to 2 log 2 right
 
-### Speaker 1
-
-It evaluates to what that is 0 this is log 2 which is evaluate to 2 log 2 right
-
-### Speaker 3
-
-Yeah
+speaker_3: Yeah
 
 
 Yeah
 
-### Speaker 2
+speaker_2: It was u plus one half
 
-It was u plus one half
+speaker_1: u plus one by four two
 
-### Speaker 1
+speaker_2: it is u plus 1 by 2 in the uh original expression so if it is u plus 1 by 2 then it will evaluate to 0
 
-u plus one by four two
+speaker_1: No but there is no u plus 1 by 2 in this generator function in place Okay so fine I can put it u plus 1 by 2 thats also convex that will evaluate to 1 more than that case
 
-### Speaker 2
+speaker_3: Yeah
 
-it is u plus 1 by 2 in the uh original expression so if it is u plus 1 by 2 then it will evaluate to 0
-
-### Speaker 1
-
-No but there is no u plus 1 by 2 in this generator function in place Okay so fine I can put it u plus 1 by 2 thats also convex that will evaluate to 1 more than that case
-
-### Speaker 3
-
-Yeah
-
-### Speaker 1
-
-Lets see if I can write it
+speaker_1: Lets see if I can write it
 
 
 See okay so I Ill tell you where this thing is see the the GANs loss function that they use no its not a proper f divergence in the sense that it is off by f divergence by that you know 2 log 2 factor
@@ -253,13 +216,9 @@ So it is off by that uh that factor uh 2 log 2
 
 Yeah
 
-### Speaker 4
+speaker_4: Sir can you please repeat why you said that we need this final activation of sigmoid This is because
 
-Sir can you please repeat why you said that we need this final activation of sigmoid This is because
-
-### Speaker 1
-
-Huh this is because yeah this is this is because
+speaker_1: Huh this is because yeah this is this is because
 
 
 this is because uh the t function that we the way we define now the t function we define that what was the d function it was from uh x right the domain of x to the domain of f star
@@ -267,13 +226,9 @@ this is because uh the t function that we the way we define now the t function w
 
 Right So now if you choose a particular f star and f function you have to ensure that your t function has the output that obeys domain of f star
 
-### Speaker 4
+speaker_4: Okay and a sigmoid is one or is this the only one
 
-Okay and a sigmoid is one or is this the only one
-
-### Speaker 1
-
-Sigma is one for this function
+speaker_1: Sigma is one for this function
 
 
 For this function sigmoid is the one that you take
@@ -281,21 +236,13 @@ For this function sigmoid is the one that you take
 
 Thats thats big ticket
 
-### Speaker 4
+speaker_4: So thats a fixed thats a fixed mapping or for a given function
 
-So thats a fixed thats a fixed mapping or for a given function
+speaker_1: For a given function for a for a given f function it is fixed that is why I showed you in that f f g and paper they have listed the output activation for different f values
 
-### Speaker 1
+speaker_4: Okay yeah
 
-For a given function for a for a given f function it is fixed that is why I showed you in that f f g and paper they have listed the output activation for different f values
-
-### Speaker 4
-
-Okay yeah
-
-### Speaker 1
-
-Yeah in fact its a good point that you made
+speaker_1: Yeah in fact its a good point that you made
 
 
 Because the the output activation for this particular f function happens to be giving you a value between 0 and 1 no the t function in this case can be interpreted as a classifier
@@ -441,21 +388,13 @@ This is pretty important this is what you are going to implement so this J cap c
 
 Yeah uh service
 
-### Speaker 4
+speaker_4: So so is there a specific reason of choosing NNM different or what like
 
-So so is there a specific reason of choosing NNM different or what like
+speaker_1: Oh okay
 
-### Speaker 1
+speaker_4: Or it can be something
 
-Oh okay
-
-### Speaker 4
-
-Or it can be something
-
-### Speaker 1
-
-Its just batch processing no you thats bad size of training your discriminator and generator you can use any batch size
+speaker_1: Its just batch processing no you thats bad size of training your discriminator and generator you can use any batch size
 
 
 Okay typically you dont take the entire data set no You do stochastic gradient descent where all of you know what stochastic gradient descent is and then you can then talk about it When you do gradient descent you dont take all data points you just take a subset of data points and you iterate over it So thats what one VPOC means All of you know this no
@@ -484,13 +423,9 @@ take it too seriously
 
 Im not talking about you in general right so if you crack jokes with your friends and spouses or children or students everybody takes it too seriously
 
-### Speaker 4
+speaker_4: Here are the samples of the same population
 
-Here are the samples of the same population
-
-### Speaker 1
-
-See when I was a student I told you most of you might be younger than me right Im 35 So most of you will be maybe late 20s or early 30s Every five years is a new generation now My teachers used to do all kinds of things for us They used to harass us embarrass us beat us all kinds of things that we never took it seriously But this generation my God
+speaker_1: See when I was a student I told you most of you might be younger than me right Im 35 So most of you will be maybe late 20s or early 30s Every five years is a new generation now My teachers used to do all kinds of things for us They used to harass us embarrass us beat us all kinds of things that we never took it seriously But this generation my God
 
 
 again in one of those feedback somebody wrote not your course somebody wrote that youre just doing your job youre getting paid for what you are doing so theres nothing great about you teaching
@@ -516,21 +451,13 @@ Wow
 
 If I say
 
-### Speaker 2
+speaker_2: something like this my parents will slap me first
 
-something like this my parents will slap me first
+speaker_1: No I think if you dont mind Ill just take two minutes on something that one of my senior colleagues from IIT Delhi told me its a story which which he told
 
-### Speaker 1
+speaker_2: Simply share sir simply share
 
-No I think if you dont mind Ill just take two minutes on something that one of my senior colleagues from IIT Delhi told me its a story which which he told
-
-### Speaker 2
-
-Simply share sir simply share
-
-### Speaker 1
-
-So he said that it have see I have so many stories and to say outside of this class the problem is that you know I Its not my job to tell you stories Its my job to teach you to gas Unfortunately anyway so here is how I was having a conversation with one of my very senior colleagues from IIT Delhi He also got a you know some highest national award for sciences professor Bream Singh very prolific senior man is already 65 then when I was there I was a 25 years old kid
+speaker_1: So he said that it have see I have so many stories and to say outside of this class the problem is that you know I Its not my job to tell you stories Its my job to teach you to gas Unfortunately anyway so here is how I was having a conversation with one of my very senior colleagues from IIT Delhi He also got a you know some highest national award for sciences professor Bream Singh very prolific senior man is already 65 then when I was there I was a 25 years old kid
 
 
 when I joined as a faculty then 26 27 years I was talking to him and he narrated a nice incident very funny incident to me he said he has a collaborator uh from some university in Canada hes an Indian guy Punjabi guy okay now what had happened is this professor in Canada he had gone to university for work and like that professors son who was 10 12 years old
@@ -547,13 +474,9 @@ uh he this professor somehow managed so a few months later the entire family vis
 
 policeman came to came to came to this professor and asked him why are you beating your child so this professor narrated that entire incident that policeman said that
 
-### Speaker 2
+speaker_2: It is possible sir it is definitely possible
 
-It is possible sir it is definitely possible
-
-### Speaker 1
-
-So yeah so I mean thats the cultural difference no I think no that is slowly peeping into our culture as well We should be very careful with our students very careful with our children these days And by the way Indian law also has that and you cannot I mean if you cannot quote unquote abuse your children
+speaker_1: So yeah so I mean thats the cultural difference no I think no that is slowly peeping into our culture as well We should be very careful with our students very careful with our children these days And by the way Indian law also has that and you cannot I mean if you cannot quote unquote abuse your children
 
 
 See my mother I still remember she used to she used to take these you know I dont know what it is called in English
@@ -564,37 +487,21 @@ I dont know see the thing that you that you used to uh uh place hot utensils on 
 
 I dont know maybe shell go and complain to police
 
-### Speaker 2
+speaker_2: Maybe you were unaware of the
 
-Maybe you were unaware of the
+speaker_3: Thats right
 
-### Speaker 3
+speaker_1: What happens
 
-Thats right
+speaker_2: I had a geography teacher in my school days and he used to tell me that like all the students that perch who so he used to tell us to like touch your own feet and the moment we used to touch our own feet he used to smack us on our back with a wooden stick so
 
-### Speaker 1
+speaker_1: Oh
 
-What happens
+speaker_2: I mean this is very common in our generation but this G and Z its very difficult to unscroll them
 
-### Speaker 2
+speaker_1: Exactly Anyway so thats for a different days discussion Lets get back to what we were doing Okay so what will happen is so there is this J cap theta comma W
 
-I had a geography teacher in my school days and he used to tell me that like all the students that perch who so he used to tell us to like touch your own feet and the moment we used to touch our own feet he used to smack us on our back with a wooden stick so
-
-### Speaker 1
-
-Oh
-
-### Speaker 2
-
-I mean this is very common in our generation but this G and Z its very difficult to unscroll them
-
-### Speaker 1
-
-Exactly Anyway so thats for a different days discussion Lets get back to what we were doing Okay so what will happen is so there is this J cap theta comma W
-
-### Speaker 2
-
-Just one over n
+speaker_2: Just one over n
 
 
 You have a some
@@ -602,25 +509,15 @@ You have a some
 
 Oh no
 
-### Speaker 3
+speaker_3: So on total thats uh proper CMR dye drawn for the G data right it is changed usually drawn at
 
-So on total thats uh proper CMR dye drawn for the G data right it is changed usually drawn at
+speaker_1: Okay
 
-### Speaker 1
+speaker_2: Okay I I am NOT following the diagram you you say that they are drawn for the G data of is that usually draw a different required GM right
 
-Okay
+speaker_4: It should be expanding not narrowing
 
-### Speaker 2
-
-Okay I I am NOT following the diagram you you say that they are drawn for the G data of is that usually draw a different required GM right
-
-### Speaker 4
-
-It should be expanding not narrowing
-
-### Speaker 1
-
-Oh sorry sorry sorry
+speaker_1: Oh sorry sorry sorry
 
 
 So because the dimensionality of z is much lesser than that of x thank you thats my mistake
@@ -628,24 +525,16 @@ So because the dimensionality of z is much lesser than that of x thank you thats
 
 So typically right Z comes from
 
-### Speaker 2
+speaker_2: some 8 60 32 dimensional space okay when you implement So it is it comes from 32 dimensional Gaussian okay So X is of course X cap is in R D where D is the
 
-some 8 60 32 dimensional space okay when you implement So it is it comes from 32 dimensional Gaussian okay So X is of course X cap is in R D where D is the
+speaker_1: dimensionality but its an image it is 10 so 10 000 dimensional whatever your data dimension is so this is it and then minus you have 1 over m
 
-### Speaker 1
-
-dimensionality but its an image it is 10 so 10 000 dimensional whatever your data dimension is so this is it and then minus you have 1 over m
-
-### Speaker 2
-
-of one minus is it log always forget that it is log of one minus that okay
+speaker_2: of one minus is it log always forget that it is log of one minus that okay
 
 
 See I could have actually written this down and started
 
-### Speaker 1
-
-a GAN discussing GAN with this I dont like that narrative at all because I dont understand where this last function came suddenly right it just appeared out of blue and why should this work and so on I I would I was never convinced I think this is a more principal way of doing it okay now how do we try in that so now we we need theta t plus one so let us look at the
+speaker_1: a GAN discussing GAN with this I dont like that narrative at all because I dont understand where this last function came suddenly right it just appeared out of blue and why should this work and so on I I would I was never convinced I think this is a more principal way of doing it okay now how do we try in that so now we we need theta t plus one so let us look at the
 
 
 Ill use different colors this is for the lets try in generator training
@@ -740,17 +629,11 @@ Does anyone have any questions
 
 Hello am I audible
 
-### Speaker 4
+speaker_4: Yes yes yes
 
-Yes yes yes
+speaker_2: Is that your name again
 
-### Speaker 2
-
-Is that your name again
-
-### Speaker 1
-
-Yeah okay uh is this clear it should be pretty clear no
+speaker_1: Yeah okay uh is this clear it should be pretty clear no
 
 
 Okay now let us do the this is generator training okay Let us do the same thing for similar thing for discriminator training I dont want to clutter it with this I will write another
@@ -899,77 +782,41 @@ Quickly call this and
 
 Shall I write a copy of discriminator here again
 
-### Speaker 3
+speaker_3: But I guess you can create a space
 
-But I guess you can create a space
+speaker_1: I guess you can create a space
 
-### Speaker 1
+speaker_3: Like that
 
-I guess you can create a space
+speaker_1: Help
 
-### Speaker 3
+speaker_3: So in top I guess there is double sided arrow right somewhere
 
-Like that
+speaker_2: Perfect
 
-### Speaker 1
+speaker_4: Im not going to
 
-Help
+speaker_1: Yeah left of D
 
-### Speaker 3
+speaker_3: Out of rubber yes
 
-So in top I guess there is double sided arrow right somewhere
+speaker_1: Here are now here
 
-### Speaker 2
+speaker_4: Left left yeah you can go to space
 
-Perfect
+speaker_1: Okay I see
 
-### Speaker 4
+speaker_4: Click on the hamburger icon
 
-Im not going to
+speaker_1: Pick this up
 
-### Speaker 1
+speaker_3: Its just expensive
 
-Yeah left of D
+speaker_4: Its just a pencil
 
-### Speaker 3
+speaker_2: Click on where you want to add space and pull it down
 
-Out of rubber yes
-
-### Speaker 1
-
-Here are now here
-
-### Speaker 4
-
-Left left yeah you can go to space
-
-### Speaker 1
-
-Okay I see
-
-### Speaker 4
-
-Click on the hamburger icon
-
-### Speaker 1
-
-Pick this up
-
-### Speaker 3
-
-Its just expensive
-
-### Speaker 4
-
-Its just a pencil
-
-### Speaker 2
-
-Click on where you want to add space and pull it down
-
-### Speaker 1
-
-Oh oh nice
+speaker_1: Oh oh nice
 
 
 I didnt know this at all
@@ -980,20 +827,14 @@ I dont want that to happen
 
 Looks like I cant do it
 
-### Speaker 2
+speaker_2: It yeah it will get cuts on entire page gets down
 
-It yeah it will get cuts on entire page gets down
-
-### Speaker 1
-
-Okay so maybe let me do one thing
+speaker_1: Okay so maybe let me do one thing
 
 
 This I can rewrite no problem
 
-### Speaker 4
-
-So there are different pencils as well
+speaker_4: So there are different pencils as well
 
 
 Pencils
@@ -1001,17 +842,11 @@ Pencils
 
 So if you are changing same colour colour of same pencil you can use different one
 
-### Speaker 1
+speaker_1: How is that
 
-How is that
+speaker_4: So there are already there
 
-### Speaker 4
-
-So there are already there
-
-### Speaker 1
-
-So here that
+speaker_1: So here that
 
 
 Oh you change them to different colors I see and you can add more pencils also yeah okay great thank you very useful tips
@@ -1082,21 +917,13 @@ So is the now you can code this up right
 
 Tell me this do you need a tutorial on PyTorch like thats what he did in the previous class or did he only do a theory of backdrop
 
-### Speaker 3
+speaker_3: The next class is what he said
 
-The next class is what he said
+speaker_1: Ah so do you need a tutorial on PyTorch how to do this backpropagation
 
-### Speaker 1
+speaker_4: Yes sir
 
-Ah so do you need a tutorial on PyTorch how to do this backpropagation
-
-### Speaker 4
-
-Yes sir
-
-### Speaker 1
-
-Okay so you know thats Ill just put it right away
+speaker_1: Okay so you know thats Ill just put it right away
 
 
 Yes
@@ -1104,54 +931,34 @@ Yes
 
 If you have any questions on this feel free to ask me
 
-### Speaker 2
-
-You guys are just playing games I dont know
+speaker_2: You guys are just playing games I dont know
 
 
 just trying to capture this effectively or digest this
 
-### Speaker 1
-
-You can ask me in the next class no problem
+speaker_1: You can ask me in the next class no problem
 
 
 Okay uh sorry maybe I will uh make this
 
-### Speaker 4
+speaker_4: Yeah this is Hello
 
-Yeah this is Hello
+speaker_1: Yeah please go through this carefully maybe before coming to the next panel you can ask me questions no problem yeah
 
-### Speaker 1
+speaker_4: Yes sir So this Z1 to Zn that we are using which are the first random variable So are these fixed or they could change between the iterations
 
-Yeah please go through this carefully maybe before coming to the next panel you can ask me questions no problem yeah
+speaker_1: And they can they can they can they can they can change In fact you do batch gradient descent here You dont take m samples You take you dont take all n samples in data You take a subset of it and do it on all possible subsets That is one epoch of gradient descent
 
-### Speaker 4
+speaker_3: Okay so for every batch we could generate a new M samples and then run it through
 
-Yes sir So this Z1 to Zn that we are using which are the first random variable So are these fixed or they could change between the iterations
-
-### Speaker 1
-
-And they can they can they can they can they can change In fact you do batch gradient descent here You dont take m samples You take you dont take all n samples in data You take a subset of it and do it on all possible subsets That is one epoch of gradient descent
-
-### Speaker 3
-
-Okay so for every batch we could generate a new M samples and then run it through
-
-### Speaker 1
-
-That is how you do it yes
+speaker_1: That is how you do it yes
 
 
 13
 
-### Speaker 3
+speaker_3: Sir can you explain this discriminator training or the generator training in like intuitive way like not in the mathematical formula what exactly is happening
 
-Sir can you explain this discriminator training or the generator training in like intuitive way like not in the mathematical formula what exactly is happening
-
-### Speaker 1
-
-Um
+speaker_1: Um
 
 
 What exactly is happening is that this generator this discriminator is
@@ -1165,13 +972,9 @@ Okay however for this particular case of Jensen channel divergence rate because 
 
 But I want to like I deliberately avoided that simply because see I mean this is see this is not restrictive to this particular F divergence Now you take any F divergence the exact same procedure holds Do you see that
 
-### Speaker 3
+speaker_3: Correct
 
-Correct
-
-### Speaker 1
-
-For this particular where your denominator or the critic that happens to be a classifier there is a there is another interpretation that one can give for this loss function You can actually see this as classification losses These things as classification losses And there is a there is another classification interpretation that one can give Ill do that in the next class Ill start the next class with that Okay
+speaker_1: For this particular where your denominator or the critic that happens to be a classifier there is a there is another interpretation that one can give for this loss function You can actually see this as classification losses These things as classification losses And there is a there is another classification interpretation that one can give Ill do that in the next class Ill start the next class with that Okay
 
 
 So after next class I will again the end of next week is when I will release the bus assignment I can do it the mid of next week itself I will be asking you to implement the plans basically okay
@@ -1185,129 +988,73 @@ Hey and uh like one of the other comments was that somebody said that uh uh that
 
 And it goes
 
-### Speaker 2
+speaker_2: Its good sir too much of those
 
-Its good sir too much of those
+speaker_1: No but Im not doing too much in my see I dont like the the in my opinion the what I do in the offline course I do 30 percent of it in the online course
 
-### Speaker 1
+speaker_2: Yeah
 
-No but Im not doing too much in my see I dont like the the in my opinion the what I do in the offline course I do 30 percent of it in the online course
+speaker_1: 8000
 
-### Speaker 2
-
-Yeah
-
-### Speaker 1
-
-8000
-
-### Speaker 2
-
-every every other quarter there is a new LLM coming so I think covering more is good sir because otherwise even if
+speaker_2: every every other quarter there is a new LLM coming so I think covering more is good sir because otherwise even if
 
 
 This is good to know
 
-### Speaker 1
+speaker_1: Are you asking them
 
-Are you asking them
+speaker_2: I can cover more but we cannot thats everything
 
-### Speaker 2
+speaker_1: Right but like and also am I compromising on quality and thats the question
 
-I can cover more but we cannot thats everything
+speaker_4: No sir no sir
 
-### Speaker 1
+speaker_2: Definitely not
 
-Right but like and also am I compromising on quality and thats the question
+speaker_1: definitely if you feel it that way just let me know okay see im covering too little im going a little slow actually just to ensure that everybody is in the same page anyway so shell
 
-### Speaker 4
-
-No sir no sir
-
-### Speaker 2
-
-Definitely not
-
-### Speaker 1
-
-definitely if you feel it that way just let me know okay see im covering too little im going a little slow actually just to ensure that everybody is in the same page anyway so shell
-
-### Speaker 2
-
-So in this network X is the image the input
+speaker_2: So in this network X is the image the input
 
 
 Or X can be any kind of data like text or numbers
 
-### Speaker 1
+speaker_1: X can be any kind of data like yeah X can be any kind of data
 
-X can be any kind of data like yeah X can be any kind of data
+speaker_2: And so then do we use this again for text generation also
 
-### Speaker 2
-
-And so then do we use this again for text generation also
-
-### Speaker 1
-
-uh generally people dont use cans for text generation okay there is another reason for it you asked this question next class to me i will cans is not over it okay i will spend the half of the next class on this i will i will give you more interpretations on this okay i will tell you why people typically dont use cans for text generation
+speaker_1: uh generally people dont use cans for text generation okay there is another reason for it you asked this question next class to me i will cans is not over it okay i will spend the half of the next class on this i will i will give you more interpretations on this okay i will tell you why people typically dont use cans for text generation
 
 
 A lot of noise in the background huh Okay I think
 
-### Speaker 4
+speaker_4: Sir you said you are covering a little less here so is there some reference material if we want to go a bit deeper
 
-Sir you said you are covering a little less here so is there some reference material if we want to go a bit deeper
+speaker_1: uh see my notes my handwritten notes all of that has uh reading material at the end of it
 
-### Speaker 1
+speaker_4: Okay so your handwritten notes the on your website right
 
-uh see my notes my handwritten notes all of that has uh reading material at the end of it
+speaker_1: I shared it with you did I or have I put it on the website
 
-### Speaker 4
+speaker_4: Uh I think there are some lecture uh videos uh but notes Im not sure
 
-Okay so your handwritten notes the on your website right
+speaker_1: pictures videos no
 
-### Speaker 1
+speaker_4: Yeah
 
-I shared it with you did I or have I put it on the website
+speaker_1: The Google Drive
 
-### Speaker 4
+speaker_4: The Google Drive link
 
-Uh I think there are some lecture uh videos uh but notes Im not sure
+speaker_1: theyre not theyre not videos theyre notes only you never have had a look at it please have a look at it
 
-### Speaker 1
+speaker_4: Okay okay okay thank you
 
-pictures videos no
-
-### Speaker 4
-
-Yeah
-
-### Speaker 1
-
-The Google Drive
-
-### Speaker 4
-
-The Google Drive link
-
-### Speaker 1
-
-theyre not theyre not videos theyre notes only you never have had a look at it please have a look at it
-
-### Speaker 4
-
-Okay okay okay thank you
-
-### Speaker 2
-
-But I think when you say handwritten notes you mean these class notes
+speaker_2: But I think when you say handwritten notes you mean these class notes
 
 
 Or it it is different
 
-### Speaker 1
-
-Okay let me show you what I mean
+speaker_1: Okay let me show you what I mean
 
 
 Please mute yourselves
@@ -1318,53 +1065,29 @@ Ill put it in my web page
 
 Interesting
 
-### Speaker 4
+speaker_4: Okay okay yeah fine
 
-Okay okay yeah fine
+speaker_1: to the end of this and there are more content in in this which im not covering and also these things you know all of these this is where you can go and see get all information okay
 
-### Speaker 1
+speaker_4: Okay so these notes are from offline course or theyre
 
-to the end of this and there are more content in in this which im not covering and also these things you know all of these this is where you can go and see get all information okay
+speaker_1: Hey R I wrote it three four years back I mean just for my reference
 
-### Speaker 4
+speaker_4: Okay
 
-Okay so these notes are from offline course or theyre
+speaker_1: You want my offline course notes I think something you should ask some offline students Im not making any notes for the offline class yeah
 
-### Speaker 1
+speaker_4: Okay so do you also have
 
-Hey R I wrote it three four years back I mean just for my reference
+speaker_2: Do you also have notes for ML or deep learning course
 
-### Speaker 4
+speaker_1: That havent I shared the shared it with you hold on I think I have it somewhere in one of my students when I called
 
-Okay
+speaker_4: I really cant say oh yeah
 
-### Speaker 1
+speaker_2: or email
 
-You want my offline course notes I think something you should ask some offline students Im not making any notes for the offline class yeah
-
-### Speaker 4
-
-Okay so do you also have
-
-### Speaker 2
-
-Do you also have notes for ML or deep learning course
-
-### Speaker 1
-
-That havent I shared the shared it with you hold on I think I have it somewhere in one of my students when I called
-
-### Speaker 4
-
-I really cant say oh yeah
-
-### Speaker 2
-
-or email
-
-### Speaker 1
-
-Hold on hold on I will put it in the chat group right now hold on photos teams
+speaker_1: Hold on hold on I will put it in the chat group right now hold on photos teams
 
 
 Isnt this
@@ -1381,13 +1104,9 @@ Uh ML notes
 
 This is the course that I teach in the other semester I mean it is not I dont offer this for the online students only for the offline students Are you seeing my screen
 
-### Speaker 2
+speaker_2: No
 
-No
-
-### Speaker 1
-
-Yeah that I put it in the teams okay
+speaker_1: Yeah that I put it in the teams okay
 
 
 yeah i put it in the teams just have a look at it yeah so this is the this is this notes
@@ -1407,45 +1126,25 @@ Okay I think we have to uh
 
 Well past the time
 
-### Speaker 4
+speaker_4: Okay sir last thing Im very sorry regarding your deep genetic model old notes you just showed now if you please share that link as well please
 
-Okay sir last thing Im very sorry regarding your deep genetic model old notes you just showed now if you please share that link as well please
+speaker_1: Okay centre
 
-### Speaker 1
+speaker_4: Uh you showed that uh you took some of the notes on handwritten notes DGM
 
-Okay centre
+speaker_1: Uh what did I show you
 
-### Speaker 4
+speaker_4: I mean I mean just before before the email I mean same uh Google Drive I think you have
 
-Uh you showed that uh you took some of the notes on handwritten notes DGM
+speaker_2: It is already shared actually if you search on the Google
 
-### Speaker 1
+speaker_4: Yeah
 
-Uh what did I show you
+speaker_1: I think last years board work I think I have it Have I shared that with you ADRL classwork
 
-### Speaker 4
+speaker_2: So the one that is on your website
 
-I mean I mean just before before the email I mean same uh Google Drive I think you have
-
-### Speaker 2
-
-It is already shared actually if you search on the Google
-
-### Speaker 4
-
-Yeah
-
-### Speaker 1
-
-I think last years board work I think I have it Have I shared that with you ADRL classwork
-
-### Speaker 2
-
-So the one that is on your website
-
-### Speaker 1
-
-No no no not that theres one called ADRL class for kings let me see if thats the one
+speaker_1: No no no not that theres one called ADRL class for kings let me see if thats the one
 
 
 I think one year back was yeah this is some 130 MB
@@ -1477,13 +1176,9 @@ Heres class workings
 
 See I dont see these when Im teaching because I want novelty every time But this is the previous years working if you are interested Do you still see my screen No
 
-### Speaker 2
+speaker_2: Not sure about it
 
-Not sure about it
-
-### Speaker 1
-
-Okay let me show you
+speaker_1: Okay let me show you
 
 
 You see it now
@@ -1500,30 +1195,16 @@ then to diffusion models and so on okay
 
 If you want you can have a look at it okay
 
-### Speaker 4
+speaker_4: Cheers
 
-Cheers
+speaker_1: Okay Ill see you next week then bye bye have a nice weekend
 
-### Speaker 1
+speaker_4: Thank you
 
-Okay Ill see you next week then bye bye have a nice weekend
+speaker_3: Yeah thank you sir
 
-### Speaker 4
+speaker_4: Thank you
 
-Thank you
+speaker_2: I guess so
 
-### Speaker 3
-
-Yeah thank you sir
-
-### Speaker 4
-
-Thank you
-
-### Speaker 2
-
-I guess so
-
-### Speaker 4
-
-Thank you sir
+speaker_4: Thank you sir

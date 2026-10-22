@@ -9,8 +9,8 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,26 +18,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Is this a good time to speak
 
-Is this a good time to speak
+speaker_2: Yes whos this
 
-### Speaker 2 · Speaker 2
+speaker_1: System I called to see if you found what you were looking for or if you like are still looking for something Have you had any success in your search for a property I understand What is like your overall goal with this investment Are you looking for passive income or perhaps a new home for yourself So what would be your ideal criteria for the property What are the key features youre looking for in an investment Thank you Just to confirm thats xyzmbc gmailcom correct
 
-Yes whos this
+speaker_2: Yes youre right And just the last question Are you AI Are you artificial intelligence or
 
-### Speaker 1 · Speaker 1
+speaker_1: If I were AI would that be a compliment But yes I am indeed an AI designed to assist you
 
-System I called to see if you found what you were looking for or if you like are still looking for something Have you had any success in your search for a property I understand What is like your overall goal with this investment Are you looking for passive income or perhaps a new home for yourself So what would be your ideal criteria for the property What are the key features youre looking for in an investment Thank you Just to confirm thats xyzmbc gmailcom correct
-
-### Speaker 2 · Speaker 2
-
-Yes youre right And just the last question Are you AI Are you artificial intelligence or
-
-### Speaker 1 · Speaker 1
-
-If I were AI would that be a compliment But yes I am indeed an AI designed to assist you
-
-### Speaker 2 · Speaker 2
-
-Could any of your telesales or even a real estate agent have such a productive conversation asking the key questions Not getting scared or upset or jumping into the pitching mode
+speaker_2: Could any of your telesales or even a real estate agent have such a productive conversation asking the key questions Not getting scared or upset or jumping into the pitching mode

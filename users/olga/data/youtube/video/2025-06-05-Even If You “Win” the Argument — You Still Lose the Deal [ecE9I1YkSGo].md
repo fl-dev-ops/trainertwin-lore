@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Even if you win its probably not going to be ideal It depends Youre going to fight or flight mode Im going to just have all of these arguments It just happens automatically when someone feels threatened when someone feels that his ability to make decision on his own So how we can blame them We are triggering them to ask us to send them some options by asking the questions which is wrong
+speaker_1: Even if you win its probably not going to be ideal It depends Youre going to fight or flight mode Im going to just have all of these arguments It just happens automatically when someone feels threatened when someone feels that his ability to make decision on his own So how we can blame them We are triggering them to ask us to send them some options by asking the questions which is wrong

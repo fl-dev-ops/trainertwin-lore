@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-अथ चतुर्थोऽध्यायः
+speaker_1: अथ चतुर्थोऽध्यायः
 ज्ञानकर्मसन्न्यासयोगः
 श्रीभगवानुवाच
 इमं विवस्वते योगं प्रोक्तवानहमव्ययम्

@@ -8,7 +8,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,4 +17,4 @@ speakers:
 
 ## Transcript
 
-perfect so in the analytical skills they will ask you questions about problem solving the second one is working with numbers i recently got a question from someone asking me hey im not good at math and can i be successful in supply chain and my blunt answer to that person was im sorry but no because if you are bad with numbers or you dont like numbers or you dont like math you are going to hate your career in supply chain so dont even think about it the third area is attention to detail so you need to think about examples where you can show how meticulous you were with planning things Finally data driven approach So how did you make decisions based on data How do you ensure that whenever you make decisions in life in your academic career if you have a good example of showing how you use data to make a decision versus emotions or feelings
+speaker_1: perfect so in the analytical skills they will ask you questions about problem solving the second one is working with numbers i recently got a question from someone asking me hey im not good at math and can i be successful in supply chain and my blunt answer to that person was im sorry but no because if you are bad with numbers or you dont like numbers or you dont like math you are going to hate your career in supply chain so dont even think about it the third area is attention to detail so you need to think about examples where you can show how meticulous you were with planning things Finally data driven approach So how did you make decisions based on data How do you ensure that whenever you make decisions in life in your academic career if you have a good example of showing how you use data to make a decision versus emotions or feelings

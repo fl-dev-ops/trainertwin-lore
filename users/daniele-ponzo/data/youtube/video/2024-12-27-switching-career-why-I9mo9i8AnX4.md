@@ -33,7 +33,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -41,6 +41,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-But then I realized that I was getting too old like like Sir John Martha say uh Im too old for this So um I I was getting too old for that And I I had to take I had to take that way out That was my my way out of it And I I was actually regretfully taken it because I loved the environment but then with ears I realized I did the right
+speaker_1: But then I realized that I was getting too old like like Sir John Martha say uh Im too old for this So um I I was getting too old for that And I I had to take I had to take that way out That was my my way out of it And I I was actually regretfully taken it because I loved the environment but then with ears I realized I did the right

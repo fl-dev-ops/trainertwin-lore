@@ -6,14 +6,15 @@ date: '2026-02-25'
 duration: 43:45
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 36 Max-Margin Classifier and SVM
 
 ## Transcript
 
-
-Okay So welcome everyone uh to this
+speaker_1: Okay So welcome everyone uh to this
 lecture
 So far we have seen empirical risk
 minimization and the framework of

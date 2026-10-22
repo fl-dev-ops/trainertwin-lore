@@ -20,8 +20,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -29,10 +29,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And I also saw that uh I know that it kind of it doesnt die with I with me Wow Rather um yeah continues living in um uh in the others work and also um uh I love to to to foster next generations of uh new testers and so on
 
-And I also saw that uh I know that it kind of it doesnt die with I with me Wow Rather um yeah continues living in um uh in the others work and also um uh I love to to to foster next generations of uh new testers and so on
-
-### Speaker 2 · Speaker 2
-
-Wow
+speaker_2: Wow

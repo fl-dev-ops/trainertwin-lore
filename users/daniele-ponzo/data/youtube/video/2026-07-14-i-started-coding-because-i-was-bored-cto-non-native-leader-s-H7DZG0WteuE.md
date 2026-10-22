@@ -44,8 +44,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -53,30 +53,16 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Sofia its so great to see you here at We Make Future What are you doing here What are you doing here What are you doing here
 
-Sofia its so great to see you here at We Make Future What are you doing here What are you doing here What are you doing here
+speaker_2: Well Im promoting my services you know communication in English And its great to see you here because you were also a guest to my podcast The Non Native Leader
 
-### Speaker 2 · Speaker 2
+speaker_1: Absolutely And as a non native leader speaking in English in Italy is important as anywhere else So Im here promoting my software development services to people around all the world from Saudi Arabia to Italy to all Europe And here more than ever is important to speak multiple language including English
 
-Well Im promoting my services you know communication in English And its great to see you here because you were also a guest to my podcast The Non Native Leader
+speaker_2: Absolutely And as a curiosity why did you start developing software
 
-### Speaker 1 · Speaker 1
+speaker_1: I was just bored
 
-Absolutely And as a non native leader speaking in English in Italy is important as anywhere else So Im here promoting my software development services to people around all the world from Saudi Arabia to Italy to all Europe And here more than ever is important to speak multiple language including English
+speaker_2: You were bored And I loved video games so much I needed to mod them
 
-### Speaker 2 · Speaker 2
-
-Absolutely And as a curiosity why did you start developing software
-
-### Speaker 1 · Speaker 1
-
-I was just bored
-
-### Speaker 2 · Speaker 2
-
-You were bored And I loved video games so much I needed to mod them
-
-### Speaker 1 · Speaker 1
-
-Right right Well if you want to know more about Sofias story she was a guest to my video podcast The Non Native Leader So you can find the link to the episode below And yeah she has an interesting story when it comes to developing software starting from a hobby and leading an international company
+speaker_1: Right right Well if you want to know more about Sofias story she was a guest to my video podcast The Non Native Leader So you can find the link to the episode below And yeah she has an interesting story when it comes to developing software starting from a hobby and leading an international company

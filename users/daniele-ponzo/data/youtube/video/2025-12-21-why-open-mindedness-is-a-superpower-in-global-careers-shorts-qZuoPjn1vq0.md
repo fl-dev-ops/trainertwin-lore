@@ -18,8 +18,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -27,18 +27,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: like since day one you were exposed obviously to an international environment and youve always uh kept that with you and youre now you know sharing it with your with your son So and it seems to me that he has similar approach again Like
 
-like since day one you were exposed obviously to an international environment and youve always uh kept that with you and youre now you know sharing it with your with your son So and it seems to me that he has similar approach again Like
+speaker_2: Yeah he he hes fairly open to it Uh hes hes in a bit of a hassle now because he has to learn fluent German for his uh year off So that that is a bit of a challenge for him but yeah hes picking it up as well He uh he can understand it quite well now and speaking will be We well see in in uh when will he be back in March well see how his German is
 
-### Speaker 2 · Speaker 2
+speaker_1: Yeah let us know Im curious
 
-Yeah he he hes fairly open to it Uh hes hes in a bit of a hassle now because he has to learn fluent German for his uh year off So that that is a bit of a challenge for him but yeah hes picking it up as well He uh he can understand it quite well now and speaking will be We well see in in uh when will he be back in March well see how his German is
-
-### Speaker 1 · Speaker 1
-
-Yeah let us know Im curious
-
-### Speaker 2 · Speaker 2
-
-Yeah well same here but yeah he he probably has to learn German as well because hes going to work in a German speaking country
+speaker_2: Yeah well same here but yeah he he probably has to learn German as well because hes going to work in a German speaking country

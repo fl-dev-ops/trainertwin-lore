@@ -6,14 +6,15 @@ date: '2026-04-16'
 duration: 42:05
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 67 Variational Auto Encoders : VAEs
 
 ## Transcript
 
-
-Yeah welcome
+speaker_1: Yeah welcome
 We will continue our discussion on
 generative models So last time we
 looked at the

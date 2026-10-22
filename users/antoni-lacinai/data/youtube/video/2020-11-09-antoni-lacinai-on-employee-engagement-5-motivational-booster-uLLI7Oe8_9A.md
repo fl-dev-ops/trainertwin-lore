@@ -10,7 +10,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-We live in strange times being confided to our homes now and still trying to do our work After a while the novelty of it all will wear off and you might get yourself in a situation where you feel that youre not motivated enough to even perhaps get out of bed in the morning So I will give you five concrete tips on how to keep that energy up and the motivation up as well
+speaker_1: We live in strange times being confided to our homes now and still trying to do our work After a while the novelty of it all will wear off and you might get yourself in a situation where you feel that youre not motivated enough to even perhaps get out of bed in the morning So I will give you five concrete tips on how to keep that energy up and the motivation up as well
 
 
 The first one create a work space in your apartment or in your house or how you live you know a place where its you know focused on work You know that way you go into that zone youre going to work youre going to work

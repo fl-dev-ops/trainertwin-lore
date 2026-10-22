@@ -6,14 +6,15 @@ date: '2026-03-12'
 duration: 36:11
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 43 Local Receptive Field and Parameter Sharing
 
 ## Transcript
 
-
-Welcome everyone to the class So last
+speaker_1: Welcome everyone to the class So last
 time we looked at a fully connected
 neural network or a multi layer
 perceptron and we also looked at how to

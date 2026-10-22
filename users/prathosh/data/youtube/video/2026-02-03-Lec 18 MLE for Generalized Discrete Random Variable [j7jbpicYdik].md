@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 25:47
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 18 MLE for Generalized Discrete Random Variable
 
 ## Transcript
 
-
-Welcome back to the lecture and let us
+speaker_1: Welcome back to the lecture and let us
 look at the other example too
 And by the way uh one can get an ML
 estimate for the for any parameter of

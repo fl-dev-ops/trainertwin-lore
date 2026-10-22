@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -22,7 +22,4 @@ Do you agree?
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Information can create understanding, but emotions creates action. If you want people to act, it's not enough that you give them the logical reason for why. They also have to feel emotionally invested and they won't unless you do too. So make sure that you're passionate about your topic, that you're positive about your topic, and then show it to them. If people don't feel you, they won't follow you. But if they do, you got the crew.
-
+speaker_1: Information can create understanding, but emotions creates action. If you want people to act, it's not enough that you give them the logical reason for why. They also have to feel emotionally invested and they won't unless you do too. So make sure that you're passionate about your topic, that you're positive about your topic, and then show it to them. If people don't feel you, they won't follow you. But if they do, you got the crew.

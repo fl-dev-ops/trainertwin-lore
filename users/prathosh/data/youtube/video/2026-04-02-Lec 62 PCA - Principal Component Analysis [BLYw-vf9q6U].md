@@ -6,14 +6,15 @@ date: '2026-04-02'
 duration: 45:41
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 62 PCA - Principal Component Analysis
 
 ## Transcript
 
-
-Welcome all
+speaker_1: Welcome all
 So the first example is the class of
 algorithms where
 estimating or I Ill call that as

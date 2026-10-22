@@ -14,7 +14,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -22,6 +22,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Take for another example in Indonesia and Malaysia Uh we like to go for a business lunch and tea breaks So this business lunch and tea break can last longer than the official meeting itself So so so eventually this slow chat become very crucial because you are building uh indirectly building relationship with your customers
+speaker_1: Take for another example in Indonesia and Malaysia Uh we like to go for a business lunch and tea breaks So this business lunch and tea break can last longer than the official meeting itself So so so eventually this slow chat become very crucial because you are building uh indirectly building relationship with your customers

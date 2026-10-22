@@ -27,7 +27,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -35,6 +35,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I know many Brazilians here in the US for example that do not speak a word in English They decided to kind of limit or to leave that Brazilian bubble And again Im not here to judge how people live their lives But then they feel excluded they feel that Americans are cold they feel that they do not have many opportunities And thats when I always challenged but how much how much effort are you putting into making part of this community Or being part of this community
+speaker_1: I know many Brazilians here in the US for example that do not speak a word in English They decided to kind of limit or to leave that Brazilian bubble And again Im not here to judge how people live their lives But then they feel excluded they feel that Americans are cold they feel that they do not have many opportunities And thats when I always challenged but how much how much effort are you putting into making part of this community Or being part of this community

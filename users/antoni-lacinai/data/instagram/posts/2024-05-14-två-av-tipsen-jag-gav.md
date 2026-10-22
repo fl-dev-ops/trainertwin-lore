@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Två av tipsen jag gav i förmiddags i fyran om omtanke. Det känns som att vi b
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Hej, så jag är på väg nu hem från TV4 intervjun jag var på nu när jag pratade om ja, omtanke, konsten att vara snäll och varför det är bra. Jag gav ett antal tips där. Jag tänkte ta upp ett utav de tipsen, det är två utav de tipsen rätt faktiskt ska jag göra. Det ena är le. Alltså le hela vägen upp till ögonen. Det syns kanske inte med mina solglasögon nu men bara le hela vägen upp. Du behöver inte le i en spegel, le mot andra för då kommer de att spegla det till dig tillbaka till dig i alla fall, så då blir det din spegel. Och det andra är när skitsnacket blir för mycket, stoppa skitsnacket. Begrav det, låt det inte gå vidare till nästa och nästa för då stoppar vi den vågen. Tycker jag är väldigt bra. Jag är inte alltid bra på det själv. Jag har precis haft en mycket märklig kundserviceupplevelse. Jag skulle prata om nästa resa och då var inte alltså då var jag snabb på att tala om det för andra. Eh, men jag ska försöka vara bra på att stoppa saker och ting. Jag tror att det kan vara bra för oss allihopa. Alright.
-
+speaker_1: Hej, så jag är på väg nu hem från TV4 intervjun jag var på nu när jag pratade om ja, omtanke, konsten att vara snäll och varför det är bra. Jag gav ett antal tips där. Jag tänkte ta upp ett utav de tipsen, det är två utav de tipsen rätt faktiskt ska jag göra. Det ena är le. Alltså le hela vägen upp till ögonen. Det syns kanske inte med mina solglasögon nu men bara le hela vägen upp. Du behöver inte le i en spegel, le mot andra för då kommer de att spegla det till dig tillbaka till dig i alla fall, så då blir det din spegel. Och det andra är när skitsnacket blir för mycket, stoppa skitsnacket. Begrav det, låt det inte gå vidare till nästa och nästa för då stoppar vi den vågen. Tycker jag är väldigt bra. Jag är inte alltid bra på det själv. Jag har precis haft en mycket märklig kundserviceupplevelse. Jag skulle prata om nästa resa och då var inte alltså då var jag snabb på att tala om det för andra. Eh, men jag ska försöka vara bra på att stoppa saker och ting. Jag tror att det kan vara bra för oss allihopa. Alright.
 
 ## Comments (10)
 

@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,28 +18,18 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: We started it
 
-We started it
+speaker_2: started it
 
-### Speaker 2
-
-started it
-
-### Speaker 1
-
-Im giving next
+speaker_1: Im giving next
 
 
 So now lets say I move Im moving my head and Im closing my eyes and Im closing only one of my eye and uh left eye right eye now train the model
 
-### Speaker 2
+speaker_2: Okay now and try
 
-Okay now and try
-
-### Speaker 1
-
-So what happened like the two classes So probably which is why we using two classes for the better results basically Okay So now the it is training it see the complete training is happening on the client side if you see So hello all Welcome back to Kairath with Wasons YouTube channel My name is Wason I hope you are doing well So this is a video where Im explaining about how do we build generative AI or AI double UI components in React Okay So its more like consider its more like an as an introduction to understand how do we introduce AI on the client hand side Okay Recently I made a video about like will
+speaker_1: So what happened like the two classes So probably which is why we using two classes for the better results basically Okay So now the it is training it see the complete training is happening on the client side if you see So hello all Welcome back to Kairath with Wasons YouTube channel My name is Wason I hope you are doing well So this is a video where Im explaining about how do we build generative AI or AI double UI components in React Okay So its more like consider its more like an as an introduction to understand how do we introduce AI on the client hand side Okay Recently I made a video about like will
 
 
 I take out the job of front end developer I got a good reception for that a lot of people watch the video if you still not watch the video linked Ill put on the screen in the description section without wasting further time lets get started okay so one thing that you all all would know by now is front end was largely uh programmed like it is not a user specific thing for example like there could be like themes you know it now like dark theme light theme or even some celebration themes now if you open the flipkart app right now as in when im talking flipkart amazon app as in

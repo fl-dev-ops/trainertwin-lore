@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-If you are a procurement manager you are a buyer you are a purchaser you are a sourcing specialist the most renowned certification in procurement and sourcing doesnt come from the United States it comes from the UK and its offered by an organization called the Chartered Institute of Procurement and Supply and they have got multiple levels in their certification so it actually starts with a level two which covers the basics of procurement principles and fundamental processes Its ideal for someone who is new in the field of procurement or sourcing So if you are a brand new buyer or you have just started your career in procurement and sourcing this level 2 certification might be a great place for you to start
+speaker_1: If you are a procurement manager you are a buyer you are a purchaser you are a sourcing specialist the most renowned certification in procurement and sourcing doesnt come from the United States it comes from the UK and its offered by an organization called the Chartered Institute of Procurement and Supply and they have got multiple levels in their certification so it actually starts with a level two which covers the basics of procurement principles and fundamental processes Its ideal for someone who is new in the field of procurement or sourcing So if you are a brand new buyer or you have just started your career in procurement and sourcing this level 2 certification might be a great place for you to start

@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,14 +24,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I got called by two friends And these two friends said we got funded Do you want to come my CTO I was 22
 
-I got called by two friends And these two friends said we got funded Do you want to come my CTO I was 22
+speaker_2: Wow And it was a great it was a great opportunity of course wasnt it
 
-### Speaker 2 · Speaker 2
-
-Wow And it was a great it was a great opportunity of course wasnt it
-
-### Speaker 1 · Speaker 1
-
-Absolutely I learned a lot I learned a lot because um we were at uh the Luis uh Luis with L venture which is which was a very good Its like a private university isnt it Luis is a private business business university
+speaker_1: Absolutely I learned a lot I learned a lot because um we were at uh the Luis uh Luis with L venture which is which was a very good Its like a private university isnt it Luis is a private business business university

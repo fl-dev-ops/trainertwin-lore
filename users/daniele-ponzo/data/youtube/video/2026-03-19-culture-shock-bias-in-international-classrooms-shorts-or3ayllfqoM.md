@@ -24,8 +24,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -33,14 +33,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And she said okay today our topic is culture shock Turkish students
 
-And she said okay today our topic is culture shock Turkish students
+speaker_2: Whoa What a topic
 
-### Speaker 2 · Speaker 2
-
-Whoa What a topic
-
-### Speaker 1 · Speaker 1
-
-So I Yeah I would like to know about your experiences concerning culture shock Can you tell us Because you know the question was open and the question was um neutral normally and of course she could just ask it to Irish students German students Turkish um doesnt really matter But the further explanation was quite nice She said uh because Im asking this question to you because I dont I dont really think that Irish students would have a culture shock here in Germany but most probably not most probably oh I think definitely you had the culture shock
+speaker_1: So I Yeah I would like to know about your experiences concerning culture shock Can you tell us Because you know the question was open and the question was um neutral normally and of course she could just ask it to Irish students German students Turkish um doesnt really matter But the further explanation was quite nice She said uh because Im asking this question to you because I dont I dont really think that Irish students would have a culture shock here in Germany but most probably not most probably oh I think definitely you had the culture shock

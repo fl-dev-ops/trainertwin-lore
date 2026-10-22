@@ -17,8 +17,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -26,14 +26,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: you need to speak You need to speak you need to find a way to you know every day use the language to get the fluency right So study is not enough Yeah so this is what I did I moved to a house and uh with with two girls there like one from Ireland the other one from um from England
 
-you need to speak You need to speak you need to find a way to you know every day use the language to get the fluency right So study is not enough Yeah so this is what I did I moved to a house and uh with with two girls there like one from Ireland the other one from um from England
+speaker_2: Okay So you were all you were hearing was English all the time when you were back home and if you wanted to interact obviously you had to speak So Yeah Exactly And its great when you have like when you have a need when youre there and you want to make yourself understood you have to speak and you somehow you forget about your mistakes you forget about your grammar you just want to communicate
 
-### Speaker 2 · Speaker 2
-
-Okay So you were all you were hearing was English all the time when you were back home and if you wanted to interact obviously you had to speak So Yeah Exactly And its great when you have like when you have a need when youre there and you want to make yourself understood you have to speak and you somehow you forget about your mistakes you forget about your grammar you just want to communicate
-
-### Speaker 1 · Speaker 1
-
-You need you need to you need to also kind of you know allow yourself for mistakes
+speaker_1: You need you need to you need to also kind of you know allow yourself for mistakes

@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,13 +19,9 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: Hi all welcome to uncommon geeks myself Asant I hope you all doing well
 
-Hi all welcome to uncommon geeks myself Asant I hope you all doing well
-
-### Speaker 2
-
-This is a continuation of our videos on closure We have already discussed the basics of closure the classic counter dilemma and some kuyunde on the basics of closure This video will try to discuss some advanced questions on closure So if you have not watched my previous videos on closure Ill try to add the link somewhere on the screen also in the description section Please go ahead and watch those videos Only if you watch those videos this section becomes easy where Ill be asking some complex questions on closure So without wasting further time lets get started
+speaker_2: This is a continuation of our videos on closure We have already discussed the basics of closure the classic counter dilemma and some kuyunde on the basics of closure This video will try to discuss some advanced questions on closure So if you have not watched my previous videos on closure Ill try to add the link somewhere on the screen also in the description section Please go ahead and watch those videos Only if you watch those videos this section becomes easy where Ill be asking some complex questions on closure So without wasting further time lets get started
 
 
 question number one uh an easy question uh where this is actually a self invoking uh function okay uh if you have understood my previous video where i have explained the self invoking function this question is quite straightforward and youll be able to answer it okay so where we have created if you already know the answer just by looking at it you can pause the video put that in comment section question number four and your answer if not let me just uh give a quick walkthrough of the question so we have one function called testa which is self invoking function you are you you know

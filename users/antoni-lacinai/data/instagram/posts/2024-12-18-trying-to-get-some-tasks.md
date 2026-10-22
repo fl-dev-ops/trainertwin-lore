@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Trying to get some tasks done and yeah, it ain’t working … (turn up the volu
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Mhm.
-
+speaker_1: Mhm.
 
 ## Comments (2)
 

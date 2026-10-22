@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-In any type of teams you basically need two things to move towards a destination The first one is motivation Motivation to move This is the engine that makes you move The second one is communication so that you move together towards your desired destination So work on what motivates people to get that energy up and then collaborate in order to get to the place you want to be Motivation communication The two biggest driving forces there are
+speaker_1: In any type of teams you basically need two things to move towards a destination The first one is motivation Motivation to move This is the engine that makes you move The second one is communication so that you move together towards your desired destination So work on what motivates people to get that energy up and then collaborate in order to get to the place you want to be Motivation communication The two biggest driving forces there are

@@ -22,7 +22,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -30,6 +30,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So one is yeah we have some sort of global language But from another point of view is wait a minute uh do I know what Im saying You know its this is this makes it a bit complicated in my opinion Uh but you know in in a case like uh and just to to you know to get back to what you were saying earlier on in your case you know the language of technology actually helps you overcome the the the general the more yeah the more common language barriers because you could talk technology and you could show what you are capable of and that actually gave you an opportunity which is which is great and and it also shows like your dedication and it shows how you uh how you know this new universal language can actually help us uh reach new hate
+speaker_1: So one is yeah we have some sort of global language But from another point of view is wait a minute uh do I know what Im saying You know its this is this makes it a bit complicated in my opinion Uh but you know in in a case like uh and just to to you know to get back to what you were saying earlier on in your case you know the language of technology actually helps you overcome the the the general the more yeah the more common language barriers because you could talk technology and you could show what you are capable of and that actually gave you an opportunity which is which is great and and it also shows like your dedication and it shows how you uh how you know this new universal language can actually help us uh reach new hate

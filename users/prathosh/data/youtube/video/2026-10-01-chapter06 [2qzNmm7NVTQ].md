@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-अथ षष्ठोऽध्यायः
+speaker_1: अथ षष्ठोऽध्यायः
 आत्मसंयमयोगः
 श्रीभगवानुवाच
 अनाश्रितः कर्मफलं कार्यं कर्म करोति यः

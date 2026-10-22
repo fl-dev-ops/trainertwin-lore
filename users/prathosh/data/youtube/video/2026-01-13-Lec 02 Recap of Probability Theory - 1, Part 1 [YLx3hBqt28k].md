@@ -6,14 +6,15 @@ date: '2026-01-13'
 duration: 32:13
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 02 Recap of Probability Theory - 1, Part 1
 
 ## Transcript
 
-
-Hello everyone welcome to the second
+speaker_1: Hello everyone welcome to the second
 class of this course
 titled mathematical foundations of
 machine learning So in this class I

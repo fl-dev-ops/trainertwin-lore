@@ -20,7 +20,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -28,9 +28,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-but also if I start working with somebody new from a culture where I know there is maybe a little bit more hierarchy for example if you start working with German people
+speaker_1: but also if I start working with somebody new from a culture where I know there is maybe a little bit more hierarchy for example if you start working with German people
 
 
 that they tend to be more hierarchical than the Dutch So but you have to be aware that that that is there And then try to yeah fit yourself into that pattern on communication level And that its not always easy

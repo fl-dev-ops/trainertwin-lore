@@ -51,8 +51,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -60,30 +60,16 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: your pride at the door hang it on the on the on the wardrobe forget your pride and be absolutely ignorant wide eyed thinking oh my God its remarkable how little I understand
 
-your pride at the door hang it on the on the on the wardrobe forget your pride and be absolutely ignorant wide eyed thinking oh my God its remarkable how little I understand
+speaker_2: Yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: And then you learn the language
 
-Yeah
+speaker_2: And thats great advice my friend So less pride more stupidity and
 
-### Speaker 1 · Speaker 1
+speaker_1: Ive been thinking a lot about this
 
-And then you learn the language
+speaker_2: Less pride more stupidity and But you know can we call it wise stupidity
 
-### Speaker 2 · Speaker 2
-
-And thats great advice my friend So less pride more stupidity and
-
-### Speaker 1 · Speaker 1
-
-Ive been thinking a lot about this
-
-### Speaker 2 · Speaker 2
-
-Less pride more stupidity and But you know can we call it wise stupidity
-
-### Speaker 1 · Speaker 1
-
-Yeah I mean stupidity is misleading because I think its actually yeah its its the wisdom of accepting your ignorance I think that thats what you need And once once you feel I remember a dinner in Italy and people were talking and I was like oh I can follow I can follow this thread of a conversation Oh God this is making sense And then And suddenly they take a right turn and Im like where did they go Why did they leave me Why dont I understand Afterwards I figured out why Someone had mentioned Tre Monty
+speaker_1: Yeah I mean stupidity is misleading because I think its actually yeah its its the wisdom of accepting your ignorance I think that thats what you need And once once you feel I remember a dinner in Italy and people were talking and I was like oh I can follow I can follow this thread of a conversation Oh God this is making sense And then And suddenly they take a right turn and Im like where did they go Why did they leave me Why dont I understand Afterwards I figured out why Someone had mentioned Tre Monty

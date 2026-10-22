@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Lets look now at the three communication superpowers energy empathy clarity Lets start with energy Energy so that your customers believe that you believe Why should they if you dont And energy is like a magnet People are drawn to you if you have energy Energy is mostly visible in your non verbal communication That is how you look and how you sound
+speaker_1: Lets look now at the three communication superpowers energy empathy clarity Lets start with energy Energy so that your customers believe that you believe Why should they if you dont And energy is like a magnet People are drawn to you if you have energy Energy is mostly visible in your non verbal communication That is how you look and how you sound

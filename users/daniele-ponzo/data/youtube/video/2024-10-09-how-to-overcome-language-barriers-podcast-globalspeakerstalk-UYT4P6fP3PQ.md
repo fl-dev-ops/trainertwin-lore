@@ -17,8 +17,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -26,14 +26,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And so like was that uh what like what negative emotions did you have that time
 
-And so like was that uh what like what negative emotions did you have that time
+speaker_2: Yeah For that one you know when you feel left out you know you kind of have lower self esteem because youre not able to become confident in representing yourself or you know also with if you have low communication and not being able to connect with your peers Youre kind of feel like oh is there something wrong with me or like something like that And you know its a natural feeling of you know its just a continuous like negative cycle And thats when you start to you know want to push yourself and improve
 
-### Speaker 2 · Speaker 2
-
-Yeah For that one you know when you feel left out you know you kind of have lower self esteem because youre not able to become confident in representing yourself or you know also with if you have low communication and not being able to connect with your peers Youre kind of feel like oh is there something wrong with me or like something like that And you know its a natural feeling of you know its just a continuous like negative cycle And thats when you start to you know want to push yourself and improve
-
-### Speaker 1 · Speaker 1
-
-Yeah exactly
+speaker_1: Yeah exactly

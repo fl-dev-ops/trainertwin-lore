@@ -8,17 +8,14 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 # Survival with AI
 
 ## Transcript
 
-
-### Speaker 1
-
-When machines came there was this group of people called Luddites you know what they did they went and destroyed these machines
+speaker_1: When machines came there was this group of people called Luddites you know what they did they went and destroyed these machines
 
 
 Why did dinosaurs become extinct They were mighty creatures right They had so much of power but they could not adapt to climate changes They died Extinct Now human beings are extremely good at adapting Now that is why we have survived so many things

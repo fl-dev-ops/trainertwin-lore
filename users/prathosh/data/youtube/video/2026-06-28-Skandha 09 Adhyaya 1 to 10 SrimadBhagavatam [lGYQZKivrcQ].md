@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-राजोवाच मन्वन्तराणि सर्वाणि त्वयोक्तानि श्रुतानि मे वीर्याण्यनन्तवीर्यस्य हरेस्तत्र कृतानि च
+speaker_1: राजोवाच मन्वन्तराणि सर्वाणि त्वयोक्तानि श्रुतानि मे वीर्याण्यनन्तवीर्यस्य हरेस्तत्र कृतानि च
 
 
 यो सौ सत्यव्रतो नाम राजर्षिद्रविडेश्वरः

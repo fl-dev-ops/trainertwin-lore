@@ -10,7 +10,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-SOFT SKILLS MODEL LEVEL2 PRIORITY SETTING Ability of makin9 decision5 about how best to allocate ISmSted resources more about thls skill
+speaker_1: SOFT SKILLS MODEL LEVEL2 PRIORITY SETTING Ability of makin9 decision5 about how best to allocate ISmSted resources more about thls skill
 
 
 Subscrlbe to the Youtube Channel In the profile to learn

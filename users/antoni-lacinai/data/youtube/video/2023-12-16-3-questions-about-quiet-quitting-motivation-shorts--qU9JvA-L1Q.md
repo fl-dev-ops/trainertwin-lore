@@ -30,7 +30,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -38,6 +38,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-If you have a quiet quitting scenario in your office you should ask yourself three questions Number one why do you expect people to work for more than what theyre paid for Why should they I mean if they have a job description and they do whats on there why do you expect them to do more The second thing is what if they need a work life balance and this gives them a work life balance Again if you want them to produce more you need to make them more engaged or make sure that their job descriptions cover more ground So the third question is basically why is it Apart from those things I just mentioned why do you think that people are doing less than what you expect them to do Figure that one out and make sure that people are super motivated and super engaged because then they will want to do more than what they do right now If you like this then share it with others
+speaker_1: If you have a quiet quitting scenario in your office you should ask yourself three questions Number one why do you expect people to work for more than what theyre paid for Why should they I mean if they have a job description and they do whats on there why do you expect them to do more The second thing is what if they need a work life balance and this gives them a work life balance Again if you want them to produce more you need to make them more engaged or make sure that their job descriptions cover more ground So the third question is basically why is it Apart from those things I just mentioned why do you think that people are doing less than what you expect them to do Figure that one out and make sure that people are super motivated and super engaged because then they will want to do more than what they do right now If you like this then share it with others

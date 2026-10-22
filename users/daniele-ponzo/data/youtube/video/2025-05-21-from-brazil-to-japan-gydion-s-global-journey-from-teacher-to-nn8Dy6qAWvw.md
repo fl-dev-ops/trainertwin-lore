@@ -11,7 +11,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -19,6 +19,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I run a coach I run a couple of coach coaching programs business and marketing coaching programs for teachers for language teachers specifically and I also have an app a software business service for teachers as well helping them with all the things they need in terms of tech So these are the things I do I am originally from Brazil I am living in Japan right now
+speaker_1: I run a coach I run a couple of coach coaching programs business and marketing coaching programs for teachers for language teachers specifically and I also have an app a software business service for teachers as well helping them with all the things they need in terms of tech So these are the things I do I am originally from Brazil I am living in Japan right now

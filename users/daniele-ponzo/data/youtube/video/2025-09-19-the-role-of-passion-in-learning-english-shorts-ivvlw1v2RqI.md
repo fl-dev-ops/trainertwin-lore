@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,13 +25,9 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I have my my younger sister uh shes been learning Korean from home and she managed to to become I wouldnt say very fluent but she speaks and she understands within just six months And thats all because of passion because she loves it so much She watches films and listens to music and learn lyrics of music You know that kind of uh young girl And within six months she went to Korea with my dad at some point And she was talking going to shops and ordering and doing so its just a matter of like being really willing to And if youre passionate thats an additional bonus you know if youre passionate
 
-I have my my younger sister uh shes been learning Korean from home and she managed to to become I wouldnt say very fluent but she speaks and she understands within just six months And thats all because of passion because she loves it so much She watches films and listens to music and learn lyrics of music You know that kind of uh young girl And within six months she went to Korea with my dad at some point And she was talking going to shops and ordering and doing so its just a matter of like being really willing to And if youre passionate thats an additional bonus you know if youre passionate
-
-### Speaker 2 · Speaker 2
-
-Absolutely
+speaker_2: Absolutely
 
 
 And I can only imagine the the joy when you go there and youre able to talk

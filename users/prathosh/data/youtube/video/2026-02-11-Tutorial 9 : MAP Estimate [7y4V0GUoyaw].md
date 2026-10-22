@@ -6,14 +6,15 @@ date: '2026-02-11'
 duration: 22:05
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 9 : MAP Estimate
 
 ## Transcript
 
-
-Hello all welcome to this tutorial in
+speaker_1: Hello all welcome to this tutorial in
 which we will be looking at map
 estimates
 Now till now in all of our tutorials we

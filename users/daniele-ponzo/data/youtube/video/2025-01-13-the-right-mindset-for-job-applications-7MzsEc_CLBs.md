@@ -33,8 +33,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -42,10 +42,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Because if you are desperate to get a job youre not going to get it You want to let go and allow things to happen themselves naturally And that is something I found when I moved to Ireland And you can have the luxury the luxury of saying this and adopting these strategies as in okay what can give me Its I mean maybe I dont want it You know Im not here desperate Only once I was not offered the job in my life Self confidence um full awareness of your tools your capacity uh your background
 
-Because if you are desperate to get a job youre not going to get it You want to let go and allow things to happen themselves naturally And that is something I found when I moved to Ireland And you can have the luxury the luxury of saying this and adopting these strategies as in okay what can give me Its I mean maybe I dont want it You know Im not here desperate Only once I was not offered the job in my life Self confidence um full awareness of your tools your capacity uh your background
-
-### Speaker 2 · Speaker 2
-
-Yeah
+speaker_2: Yeah

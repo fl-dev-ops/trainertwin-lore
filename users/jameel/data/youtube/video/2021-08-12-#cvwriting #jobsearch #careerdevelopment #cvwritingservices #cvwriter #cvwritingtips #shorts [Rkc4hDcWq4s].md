@@ -10,7 +10,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-Dont mention personal details that are not relevant to your performance or career date of of birth religion marital status
+speaker_1: Dont mention personal details that are not relevant to your performance or career date of of birth religion marital status
 
 
 high school details SU8SCRI81 TO OUR CHANNEL VIDEO ON IHIS IOPIC

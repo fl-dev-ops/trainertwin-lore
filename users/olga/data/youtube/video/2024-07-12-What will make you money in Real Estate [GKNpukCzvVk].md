@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-If you do not have a role model and you are not even thinking whom you want to be like that is hard for you to create a plan because this is how our psychics works We cannot want something just out of the blue We see someone doing something or performing a certain way and we want to be like him So if you do not have the role model or you have a role model someone who is Get rich quick just flashing the cars and just tell her oh theres theres so many checks been signed its time to find one
+speaker_1: If you do not have a role model and you are not even thinking whom you want to be like that is hard for you to create a plan because this is how our psychics works We cannot want something just out of the blue We see someone doing something or performing a certain way and we want to be like him So if you do not have the role model or you have a role model someone who is Get rich quick just flashing the cars and just tell her oh theres theres so many checks been signed its time to find one

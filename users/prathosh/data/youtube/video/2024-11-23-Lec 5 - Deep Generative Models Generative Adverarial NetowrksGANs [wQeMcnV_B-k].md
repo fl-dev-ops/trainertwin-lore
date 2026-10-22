@@ -8,20 +8,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 5 - Deep Generative Models Generative Adverarial NetowrksGANs
 
 ## Transcript
 
-
-### Speaker 1
-
-Okay what Im saying is what we will do is I will I will stop lets say after after 30 minutes or so once Ive gone through a major topic then we can have a question and session So if people have questions what I would recommend you is that just write them down Okay so whenever you have a question just write write them down on a sheet of paper
+speaker_1: Okay what Im saying is what we will do is I will I will stop lets say after after 30 minutes or so once Ive gone through a major topic then we can have a question and session So if people have questions what I would recommend you is that just write them down Okay so whenever you have a question just write write them down on a sheet of paper
 
 
 And whenever I talk and ask for questions I mean ask prompt you for questions ask me then Does that make sense So that there is a gap I mean there is a balance between the flow of the class and also the I mean I do encourage a lot of questions I mean Im happy that you people are asking good questions but let us not have multiple pot and pour interruptions So that the flow is there
@@ -38,64 +35,36 @@ Once we complete the mathematical nuances and other details you definitely go to
 
 Okay uh thats about it I suppose anything else that you just take other issues that you want to discuss before we start the class
 
-### Speaker 2
+speaker_2: So I would like to share with you
 
-So I would like to share with you
+speaker_1: Hello
 
-### Speaker 1
+speaker_3: Yes
 
-Hello
+speaker_1: Yeah anything you did did you have a comment
 
-### Speaker 3
+speaker_3: Are you able to hear me
 
-Yes
+speaker_1: Yes yes I can hear you go on
 
-### Speaker 1
+speaker_3: Yes just one suggestion if possible you cover theory and then you give a problem example right
 
-Yeah anything you did did you have a comment
+speaker_1: Uh for theory and energy what
 
-### Speaker 3
+speaker_3: problems you explain a problem and give a solution to it right
 
-Are you able to hear me
+speaker_1: Uh problem I I I didnt solve it yet
 
-### Speaker 1
-
-Yes yes I can hear you go on
-
-### Speaker 3
-
-Yes just one suggestion if possible you cover theory and then you give a problem example right
-
-### Speaker 1
-
-Uh for theory and energy what
-
-### Speaker 3
-
-problems you explain a problem and give a solution to it right
-
-### Speaker 1
-
-Uh problem I I I didnt solve it yet
-
-### Speaker 3
-
-Well example example
+speaker_3: Well example example
 
 
 Like you give cover cover a topic story of it and then you give example for that right
 
-### Speaker 1
+speaker_1: these are not like these are these topics are not like your lets say class 12 math where okay you learn you learn how to differentiate functions and then there are some example problems on differentiate functions its not that see now we are looking at adversarial optimizations or GANs right so by practice what I mean is for instance in todays class
 
-these are not like these are these topics are not like your lets say class 12 math where okay you learn you learn how to differentiate functions and then there are some example problems on differentiate functions its not that see now we are looking at adversarial optimizations or GANs right so by practice what I mean is for instance in todays class
+speaker_3: Im playing
 
-### Speaker 3
-
-Im playing
-
-### Speaker 1
-
-I will tell you how to try again practically right How does all the theory that we are looking at translate into practice practical implementation right So there are no numerics per se
+speaker_1: I will tell you how to try again practically right How does all the theory that we are looking at translate into practice practical implementation right So there are no numerics per se
 
 
 Because its as I said no its not like a fundamental calculus or probability theory kind of course where you introduce a concept and solve many many problems to be solved It is not that way right By practical stuff I mean the implementation stuff That how would you how would you take these ideas and implement those in practice
@@ -103,24 +72,16 @@ Because its as I said no its not like a fundamental calculus or probability theo
 
 Uh does it make sense
 
-### Speaker 3
+speaker_3: Yeah
 
-Yeah
+speaker_1: Uh okay anything else
 
-### Speaker 1
-
-Uh okay anything else
-
-### Speaker 3
-
-You have one more doubt right here This is about conjugate of a convex function
+speaker_3: You have one more doubt right here This is about conjugate of a convex function
 
 
 If we draw a graph of conjugate of a function convex function how will it look like Will it be inverse of it or
 
-### Speaker 1
-
-Yeah itll yeah itll look something like
+speaker_1: Yeah itll yeah itll look something like
 
 
 Yeah
@@ -140,43 +101,27 @@ Yeah also tell me whether this black background and the white font is okay with 
 
 Switch it to white background and black
 
-### Speaker 4
+speaker_4: I did it myself
 
-I did it myself
-
-### Speaker 1
-
-It is fine okay
+speaker_1: It is fine okay
 
 
 Okay
 
-### Speaker 4
-
-So so if possible just change the colour of pen whenever there is a highlighted topic
+speaker_4: So so if possible just change the colour of pen whenever there is a highlighted topic
 
 
 Like a note or anything
 
-### Speaker 1
+speaker_1: Uh that Im doing right Im looking uh doing that highlighted highlight thing
 
-Uh that Im doing right Im looking uh doing that highlighted highlight thing
+speaker_4: No no no I mean I mean when you are taking some new topic
 
-### Speaker 4
+speaker_1: No no no I mean I
 
-No no no I mean I mean when you are taking some new topic
+speaker_4: something new then just change the color so that we can mark it properly if possible otherwise also fine
 
-### Speaker 1
-
-No no no I mean I
-
-### Speaker 4
-
-something new then just change the color so that we can mark it properly if possible otherwise also fine
-
-### Speaker 1
-
-Uh but yeah so everything that I write is important that way Yeah So anyway so Ill Ill Ill take that into consideration Uh and also there was some uh discussions on KL divergence and and all that in the group No I will like I thought once we cover these topics it will be clear Uh or I Ill respond to that Okay Okay So lets start So just quick quick recap Uh before we go to the topic
+speaker_1: Uh but yeah so everything that I write is important that way Yeah So anyway so Ill Ill Ill take that into consideration Uh and also there was some uh discussions on KL divergence and and all that in the group No I will like I thought once we cover these topics it will be clear Uh or I Ill respond to that Okay Okay So lets start So just quick quick recap Uh before we go to the topic
 
 
 for todays lecture so we were looking at adversarial optimization right or generative models uh via adversarial uh optimization so what is the context the context is that we want uh to build a generative model which is that it takes uh an arbitrary random variable as input in this case a gaussian random variable and it generates uh
@@ -208,138 +153,82 @@ Any questions on problems problem setting the
 
 how the problem is set up so in the
 
-### Speaker 3
-
-What is that
+speaker_3: What is that
 
 
 This accent is the complete image right
 
-### Speaker 1
+speaker_1: chart as the completing measure
 
-chart as the completing measure
+speaker_3: Yeah and it doesnt depend upon the random inputs we are given
 
-### Speaker 3
+speaker_1: Very much depends on the random input right Because it is G T of Z Z is the input
 
-Yeah and it doesnt depend upon the random inputs we are given
+speaker_3: Yeah but it depends on theta parameters right
 
-### Speaker 1
-
-Very much depends on the random input right Because it is G T of Z Z is the input
-
-### Speaker 3
-
-Yeah but it depends on theta parameters right
-
-### Speaker 1
-
-It also depends on parameter parameters and it also depends on theta
+speaker_1: It also depends on parameter parameters and it also depends on theta
 
 
 See
 
-### Speaker 3
+speaker_3: Okay when I say input its z z which is a uniform sorry normal distribution on this diagram
 
-Okay when I say input its z z which is a uniform sorry normal distribution on this diagram
+speaker_1: It depends it depends on C it depends on theta both of it
 
-### Speaker 1
+speaker_3: But G is the random right
 
-It depends it depends on C it depends on theta both of it
+speaker_1: Z is random correct
 
-### Speaker 3
+speaker_3: Yeah then then it should not matter what we do right its random right
 
-But G is the random right
+speaker_1: Oh that way youre going to see Okay so what when you said that it does it does not depend I thought what X cap that you get does not matter what Z that you get Thats not what it is So for a given Z you will get a given X cap But yeah but you can choose any input distribution on the arbitrary random variable Yeah that is correct
 
-### Speaker 1
+speaker_3: So whatever we give as Z because it is random well get the X cap right
 
-Z is random correct
+speaker_1: post training post training if you train it such that this divergence is minimized then it is true you will get an x cap from the distribution different z will give you different x caps so you remember i told you to look at that this person does not exist dot com last time right yeah so every time you get a different you you give a different z as an input you get a different image generated
 
-### Speaker 3
+speaker_3: Yeah
 
-Yeah then then it should not matter what we do right its random right
+speaker_1: Okay but you have to like you should not change the distribution of Z For instance suppose while training you have sampled Z from uniform random variable you should not start sampling from normal random variable when you are doing inference or generation That is not what should do what you should do
 
-### Speaker 1
+speaker_3: Okay so yeah does it mean that if X hat is a human face different Z will give different human faces
 
-Oh that way youre going to see Okay so what when you said that it does it does not depend I thought what X cap that you get does not matter what Z that you get Thats not what it is So for a given Z you will get a given X cap But yeah but you can choose any input distribution on the arbitrary random variable Yeah that is correct
+speaker_1: Of course driving different Gs will give you different outcomes correct
 
-### Speaker 3
+speaker_3: Oh
 
-So whatever we give as Z because it is random well get the X cap right
-
-### Speaker 1
-
-post training post training if you train it such that this divergence is minimized then it is true you will get an x cap from the distribution different z will give you different x caps so you remember i told you to look at that this person does not exist dot com last time right yeah so every time you get a different you you give a different z as an input you get a different image generated
-
-### Speaker 3
-
-Yeah
-
-### Speaker 1
-
-Okay but you have to like you should not change the distribution of Z For instance suppose while training you have sampled Z from uniform random variable you should not start sampling from normal random variable when you are doing inference or generation That is not what should do what you should do
-
-### Speaker 3
-
-Okay so yeah does it mean that if X hat is a human face different Z will give different human faces
-
-### Speaker 1
-
-Of course driving different Gs will give you different outcomes correct
-
-### Speaker 3
-
-Oh
-
-### Speaker 1
-
-Okay
+speaker_1: Okay
 
 
 All right so now any other question on this
 
-### Speaker 2
-
-one quick question the output is gonna be human faces and human faces only but the mixtures of human faces or it can be like
+speaker_2: one quick question the output is gonna be human faces and human faces only but the mixtures of human faces or it can be like
 
 
 You can have human faces with different features lets say three eyes or four eyes
 
-### Speaker 1
-
-Okay that depends on how good your training has been It that can happen See how does that translate to mathematical is that if you have made this divergence metric between px and p theta really low then you will only get images from human faces because px the data that you have been given only have like images from the distribution of human faces
+speaker_1: Okay that depends on how good your training has been It that can happen See how does that translate to mathematical is that if you have made this divergence metric between px and p theta really low then you will only get images from human faces because px the data that you have been given only have like images from the distribution of human faces
 
 
 Thats why you should train it well See if you have not trained it well in such a way that this divergence measure has not gone to arbitrary low values then you will have all these kinds of artifacts So you will see that in your assignment So in your assignment I will actually ask you to train these neural networks If you have not trained them well then the output will not be good
 
-### Speaker 2
+speaker_2: Got it so
 
-Got it so
-
-### Speaker 1
-
-Just one
+speaker_1: Just one
 
 
 one other question uh third question
 
-### Speaker 4
-
-Lesser of the two
+speaker_4: Lesser of the two
 
 
 Uh so uh just something I was wondering sir um like uh I was
 
-### Speaker 3
+speaker_3: looking at the talk as well that the Afghan authors gave on YouTube So it was not very clear to me like did they think of this adversarial approach first and then justified it or proved it with maths or the maths
 
-looking at the talk as well that the Afghan authors gave on YouTube So it was not very clear to me like did they think of this adversarial approach first and then justified it or proved it with maths or the maths
+speaker_4: to the discovery like what came first like the the intuitive understanding or the mathematical foundation behind it
 
-### Speaker 4
-
-to the discovery like what came first like the the intuitive understanding or the mathematical foundation behind it
-
-### Speaker 1
-
-Yeah
+speaker_1: Yeah
 
 
 Yeah so thats a general question See Ive been in this business of research for a decade now I can tell you for sure that all of my papers the work that I have done its always that we do some empirical experiment based on some hunch It works Whenever it works we backfit the math
@@ -365,13 +254,9 @@ more grounded and principled Now once we once I put down that mathematical found
 
 In engineering mostly the empirical science precedes math but there have been a lot of cases where you come up with mathematical ideas and then translate it to empirical structure as well Both happens
 
-### Speaker 4
+speaker_4: Got it
 
-Got it
-
-### Speaker 1
-
-okay so uh now the thing is given data and and samples from p theta so now again okay so now what is the core question here that uh you again im emphasizing this multiple times because it has to just look into the
+speaker_1: okay so uh now the thing is given data and and samples from p theta so now again okay so now what is the core question here that uh you again im emphasizing this multiple times because it has to just look into the
 
 
 your mind so basically the question that we have is we have this setup and we want to minimize this distribution and divergence measure between px and p theta okay now what do we have what we have as in at our hand are samples from px which we call as uh data okay that is what data is and we also have samples from p theta what are samples from p theta they are simply the outputs of neural networks how do we get multiple samples from p theta as somebody
@@ -487,20 +372,14 @@ Okay so let me stop here for a couple of minutes and ask questions Please ensure
 
 questions
 
-### Speaker 4
-
-Sir I think theres a typo on the line just before this if you could scroll just a little higher
+speaker_4: Sir I think theres a typo on the line just before this if you could scroll just a little higher
 
 
 The close bracket I think should come just before dx in that line
 
-### Speaker 2
+speaker_2: and then the close bracket because p of p theta of x should be multiplied
 
-and then the close bracket because p of p theta of x should be multiplied
-
-### Speaker 1
-
-Oh yeah right yeah thank you for noticing that
+speaker_1: Oh yeah right yeah thank you for noticing that
 
 
 this here
@@ -526,64 +405,36 @@ thats the content of last class but anyway so if you have to trace back the enti
 
 But
 
-### Speaker 4
+speaker_4: Thats the last step uh after TX
 
-Thats the last step uh after TX
+speaker_1: I mean we have been we have been after
 
-### Speaker 1
+speaker_4: 30 star of science you want
 
-I mean we have been we have been after
-
-### Speaker 4
-
-30 star of science you want
-
-### Speaker 1
-
-You understood you understood why there is this why instead of having small t y capital T K M right because you are solving an optimization problem internally correct
+speaker_1: You understood you understood why there is this why instead of having small t y capital T K M right because you are solving an optimization problem internally correct
 
 
 Im fine
 
-### Speaker 4
+speaker_4: Oh yeah
 
-Oh yeah
+speaker_1: If I pull that maximal maximization out okay So would this capital T or rather this Tx that we have right should be such that it will give you the solution for that optimization problem internal optimization problem at all x correct
 
-### Speaker 1
+speaker_2: Yeah
 
-If I pull that maximal maximization out okay So would this capital T or rather this Tx that we have right should be such that it will give you the solution for that optimization problem internal optimization problem at all x correct
+speaker_1: Now suppose there is some T x with capital T of x which is a function that would not give you the solution for optimization problem for all x
 
-### Speaker 2
+speaker_2: Okay
 
-Yeah
+speaker_1: In that case what happens This entire integral that we compute right or the maximum value that we compute under that Tx will not be will always be less than the case where you would have gotten the maximum at all x isnt it
 
-### Speaker 1
+speaker_2: Okay
 
-Now suppose there is some T x with capital T of x which is a function that would not give you the solution for optimization problem for all x
+speaker_1: get it see sup i mean instead of t star of x which would give you the maximum value at all t if you had another function t that would not give you maximum at all points if it does not give you maximum at all points what does that mean it is always less than the maximum right it can at most is equal to the maximum or it is less than the maximum
 
-### Speaker 2
+speaker_2: Yeah okay yeah so
 
-Okay
-
-### Speaker 1
-
-In that case what happens This entire integral that we compute right or the maximum value that we compute under that Tx will not be will always be less than the case where you would have gotten the maximum at all x isnt it
-
-### Speaker 2
-
-Okay
-
-### Speaker 1
-
-get it see sup i mean instead of t star of x which would give you the maximum value at all t if you had another function t that would not give you maximum at all points if it does not give you maximum at all points what does that mean it is always less than the maximum right it can at most is equal to the maximum or it is less than the maximum
-
-### Speaker 2
-
-Yeah okay yeah so
-
-### Speaker 1
-
-So basically what you are doing is you are searching for that function okay T of X which would give you the maximum value for that optimization problem at all Ts sorry at all X
+speaker_1: So basically what you are doing is you are searching for that function okay T of X which would give you the maximum value for that optimization problem at all Ts sorry at all X
 
 
 Now if you get that function then this inequality will be the weak quality
@@ -597,24 +448,16 @@ Okay now what is the script T Script T you can see the visualize script T as a b
 
 Okay now if you in that bucket of function that you are searching over if you can get a function small I mean t of x such that it is equal to t star of x for all x then this becomes equality
 
-### Speaker 2
+speaker_2: Yeah good observation
 
-Yeah good observation
-
-### Speaker 1
-
-But if you cannot get that function if you get another function t of x which is not equal to t star of x at even at 1x then it becomes inequality because at that x your t of x is less than t star of x
+speaker_1: But if you cannot get that function if you get another function t of x which is not equal to t star of x at even at 1x then it becomes inequality because at that x your t of x is less than t star of x
 
 
 Call it no
 
-### Speaker 2
+speaker_2: Yes I can record
 
-Yes I can record
-
-### Speaker 1
-
-I can write it maybe
+speaker_1: I can write it maybe
 
 
 Ill write that here
@@ -658,35 +501,23 @@ And see one other thing Im almost ensuring that whatever I say you know whatever
 
 We are available for questions for WhatsApp and Teams Okay
 
-### Speaker 4
+speaker_4: Yes sir in this case this T of X do we choose any function and then try to optimize it or we d we try to
 
-Yes sir in this case this T of X do we choose any function and then try to optimize it or we d we try to
-
-### Speaker 1
-
-Good try too Good good question uh see if you know how GANs work in other than this network there is another network now which is called the discriminator network
+speaker_1: Good try too Good good question uh see if you know how GANs work in other than this network there is another network now which is called the discriminator network
 
 
 That is your t of x The need for another network comes up because you have to choose from a bucket of functions and you optimize when you pick those bucket of functions you approximate those functions using another neural network We will see that
 
-### Speaker 4
+speaker_4: Okay okay yeah thank you so much
 
-Okay okay yeah thank you so much
-
-### Speaker 1
-
-Okay any other question
+speaker_1: Okay any other question
 
 
 Yeah
 
-### Speaker 4
+speaker_4: function
 
-function
-
-### Speaker 1
-
-No no no no no no no See this T has nothing to do with that F See F divergence in the F function in F divergence know that our definition only that is convex Nothing else is convex This F function is convex thats all
+speaker_1: No no no no no no no See this T has nothing to do with that F See F divergence in the F function in F divergence know that our definition only that is convex Nothing else is convex This F function is convex thats all
 
 
 Should have been one
@@ -703,65 +534,35 @@ cost this much money I didnt know that apparently every credit here is worth twe
 
 Dont they I think they would know I mean there is some learning program thats always there You dont pay these fees from your pocket do you Just curious Im not asking Im not asking that that person who wrote okay I dont want to I dont wish to know But yeah in general Im asking out of curiosity So not all of you like your companies dont pay that huh
 
-### Speaker 4
+speaker_4: Im not ready
 
-Im not ready
+speaker_2: Partially
 
-### Speaker 2
+speaker_4: Absolutely
 
-Partially
+speaker_1: I see
 
-### Speaker 4
+speaker_3: But I think its different
 
-Absolutely
+speaker_4: But I say its difficult
 
-### Speaker 1
+speaker_2: That is fully sponsored
 
-I see
+speaker_4: for response
 
-### Speaker 3
+speaker_3: This conference
 
-But I think its different
+speaker_1: See that makes me feel a little little less guiltier you see okay so
 
-### Speaker 4
+speaker_4: too for all
 
-But I say its difficult
+speaker_1: Then Ill be speeding
 
-### Speaker 2
+speaker_4: No you are not guilty
 
-That is fully sponsored
+speaker_3: What was the question
 
-### Speaker 4
-
-for response
-
-### Speaker 3
-
-This conference
-
-### Speaker 1
-
-See that makes me feel a little little less guiltier you see okay so
-
-### Speaker 4
-
-too for all
-
-### Speaker 1
-
-Then Ill be speeding
-
-### Speaker 4
-
-No you are not guilty
-
-### Speaker 3
-
-What was the question
-
-### Speaker 1
-
-i have some demand right i mean they have to teach more practical stuff you know i didnt pay the fees to look at math and whatever it doesnt matter thats thats fair also the demand was fair i mean im not im just joking right i mean this the weight of putting it that okay i this is the amount of fees that i pay i mean its sort of exorbitant uh thats a lot i didnt know that this course cost that much money okay so but they said that okay
+speaker_1: i have some demand right i mean they have to teach more practical stuff you know i didnt pay the fees to look at math and whatever it doesnt matter thats thats fair also the demand was fair i mean im not im just joking right i mean this the weight of putting it that okay i this is the amount of fees that i pay i mean its sort of exorbitant uh thats a lot i didnt know that this course cost that much money okay so but they said that okay
 
 
 paying this much money not to look at math or whatever but then I thought okay yeah its a lot of money I hope see if its your company that is paying I dont mind no they paid for all kinds of stuff thats not big money for your company but if youre paying it from your pocket then its its it is I mean its all relative but still yeah
@@ -769,56 +570,32 @@ paying this much money not to look at math or whatever but then I thought okay y
 
 So one credit apparently cost 20000 rupees right interesting okay which is considerable
 
-### Speaker 4
+speaker_4: But this is one of the prime courses in the program so maybe he felt like that
 
-But this is one of the prime courses in the program so maybe he felt like that
+speaker_1: Hop hop how do you know that its a he I dont know I might be here
 
-### Speaker 1
+speaker_4: I dont know thats
 
-Hop hop how do you know that its a he I dont know I might be here
+speaker_1: Uh uh here so so this is the
 
-### Speaker 4
+speaker_4: So simple so this is the course Im doing the M Tech for
 
-I dont know thats
+speaker_1: People are acting
 
-### Speaker 1
+speaker_4: People are acting yeah
 
-Uh uh here so so this is the
-
-### Speaker 4
-
-So simple so this is the course Im doing the M Tech for
-
-### Speaker 1
-
-People are acting
-
-### Speaker 4
-
-People are acting yeah
-
-### Speaker 1
-
-I mean I understand you know you uh to I mean dont get me wrong again that customers always have their right to question whatever the product that is being see everybody now talks of customer obsession and all that right so customer is looking that is the reason I put that feedback form out and it is totally anonymous and whoever wrote that please dont get uh offended Im just taking it lightly so whatever you think
+speaker_1: I mean I understand you know you uh to I mean dont get me wrong again that customers always have their right to question whatever the product that is being see everybody now talks of customer obsession and all that right so customer is looking that is the reason I put that feedback form out and it is totally anonymous and whoever wrote that please dont get uh offended Im just taking it lightly so whatever you think
 
 
 is a fair demand put it out there and ill be happy to incorporate as long as i can incorporate okay yeah okay
 
-### Speaker 4
+speaker_4: Sir how about the offline classes student also register for this course and elective subjects or lets say generic one like three four classes for them
 
-Sir how about the offline classes student also register for this course and elective subjects or lets say generic one like three four classes for them
+speaker_1: again uh what is what is the question
 
-### Speaker 1
+speaker_4: I mean how offline classes goes uh they need to register for this core courses or its a scheduled for them like first year these classes next year
 
-again uh what is what is the question
-
-### Speaker 4
-
-I mean how offline classes goes uh they need to register for this core courses or its a scheduled for them like first year these classes next year
-
-### Speaker 1
-
-no no no no no very similar to you i mean there are core courses just like you have three four core courses right they would i think have some six core courses rest of all are all uh like this thing um electives and by the way i also teach this course right offline and im doing it in isc right now that class also has 100 plus people in isc and uh trust me uh thats i mean thats at least two three times more mathematical than
+speaker_1: no no no no no very similar to you i mean there are core courses just like you have three four core courses right they would i think have some six core courses rest of all are all uh like this thing um electives and by the way i also teach this course right offline and im doing it in isc right now that class also has 100 plus people in isc and uh trust me uh thats i mean thats at least two three times more mathematical than
 
 
 this okay i would i mean i i know that most of you people are not most all of you are professionals and might have been a little out of touch of from maths but there i do like much more maths than this so this is not the upper bound of your maths that one can do in this course so please be rest assured on that but anyway if you have any any anything that that you would like to see as a change in this course let us know that is why we have that feedback thing and we are happy to listen
@@ -826,13 +603,9 @@ this okay i would i mean i i know that most of you people are not most all of yo
 
 Okay
 
-### Speaker 3
+speaker_3: Modes are in a regular product development like this type of maths we are rarely using right
 
-Modes are in a regular product development like this type of maths we are rarely using right
-
-### Speaker 1
-
-I mean Im did I become judgmental I mean Im not complaining at all I completely agree with you that you dont use that but that is why no I kind of
+speaker_1: I mean Im did I become judgmental I mean Im not complaining at all I completely agree with you that you dont use that but that is why no I kind of
 
 
 Yeah so make it accessible I try to make it as much accessible as possible But we see there is another way to teach this Ill tell you honestly I can completely get rid of math and only teach it like what is done in Coursera right Or this Android kind of stuff where Ill just give you algorithms and tell you put some block diagrams and tell you how to do it But honestly right as an instructor I dont see value in doing that See whoever has done this course before again this is not self bragging have told
@@ -876,13 +649,9 @@ Dimensionality keep increa increasing as you go deeper and deeper
 
 By the way did Chidan do backpropagation for CNNs or was it only for material MLPs
 
-### Speaker 3
+speaker_3: Mail piece mail piece
 
-Mail piece mail piece
-
-### Speaker 1
-
-For the M and N piece okay
+speaker_1: For the M and N piece okay
 
 
 Okay then you should look at backprop for CNNs okay just as an exercise When its not completely needed but its a good exercise to do Okay g theta and whatever we get at the output is what we call as x theta And this has distribution p theta right This z was coming from normal distribution Now with this setup we constructed a lower bound on the distributional divergence between px and p
@@ -956,17 +725,11 @@ Often you dont know what correct
 
 Theta are parameters of a neural network and you need to minimize a function or a value with respect to parameters of a neural network Do we know how to do that
 
-### Speaker 4
+speaker_4: Back up
 
-Back up
+speaker_3: Thats okay
 
-### Speaker 3
-
-Thats okay
-
-### Speaker 1
-
-That is back propagation so you can do this using back propagation
+speaker_1: That is back propagation so you can do this using back propagation
 
 
 back prop over what
@@ -1019,47 +782,29 @@ Can I ask a question at this moment
 
 Okay go on Sir we are trying to represent the set functions using neural networks Im just trying to understand lets say we want to represent a cubic polynomial or a
 
-### Speaker 3
+speaker_3: a polynomial of nth order then in that case how will we represent it using neural networks
 
-a polynomial of nth order then in that case how will we represent it using neural networks
+speaker_1: easy right so now this function uh cubic polynomial right i mean are you talking about a polynomial a vector valued polynomial or a scalar valued polynomial
 
-### Speaker 1
+speaker_3: Anything sir
 
-easy right so now this function uh cubic polynomial right i mean are you talking about a polynomial a vector valued polynomial or a scalar valued polynomial
-
-### Speaker 3
-
-Anything sir
-
-### Speaker 1
-
-Yeah if its a scalar value polynomial then what do you need So lets say that f of x is equal to ax cubed plus bx squared plus cx plus d right Right Yes So you build a neural network that will take x as input and give you f of x as output See thats what you do in all classification and everything right
+speaker_1: Yeah if its a scalar value polynomial then what do you need So lets say that f of x is equal to ax cubed plus bx squared plus cx plus d right Right Yes So you build a neural network that will take x as input and give you f of x as output See thats what you do in all classification and everything right
 
 
 Or something
 
-### Speaker 3
+speaker_3: So like there like if we consider a multi layer perceptron so we have the weights we have the bias okay
 
-So like there like if we consider a multi layer perceptron so we have the weights we have the bias okay
+speaker_1: Yeah
 
-### Speaker 1
+speaker_3: And then eventually for each layer we have a non linear activation
 
-Yeah
-
-### Speaker 3
-
-And then eventually for each layer we have a non linear activation
-
-### Speaker 4
-
-Okay so Im trying to understand there like how lets say I want to do x cubed
+speaker_4: Okay so Im trying to understand there like how lets say I want to do x cubed
 
 
 So that case how will I do that
 
-### Speaker 1
-
-You can right see that is the regression problem what you are saying is the classical regression problem okay so
+speaker_1: You can right see that is the regression problem what you are saying is the classical regression problem okay so
 
 
 Lets say that your f of x is equal to
@@ -1097,24 +842,16 @@ We have n samples here one by n one through n Ill take f of f theta of f xi minu
 
 Thats all now this is classical neural network training this is solving a regression problem
 
-### Speaker 3
+speaker_3: got itself
 
-got itself
-
-### Speaker 1
-
-This is how we are representing this polynomial function in a neural network program
+speaker_1: This is how we are representing this polynomial function in a neural network program
 
 
 See thats hard
 
-### Speaker 4
+speaker_4: So so the presence of non linearity allows us to also model this non linear functions right
 
-So so the presence of non linearity allows us to also model this non linear functions right
-
-### Speaker 1
-
-Well yeah see okay that is some other dual networks
+speaker_1: Well yeah see okay that is some other dual networks
 
 
 The deep neural networks are universal function approximators That is why they are powerful
@@ -1128,24 +865,16 @@ Theyre fine
 
 Okay so I think we should move this
 
-### Speaker 4
-
-So Im not sure if you
+speaker_4: So Im not sure if you
 
 
 But here we like already know that function should be like T x right like T of x so can you put some restriction on that so that it will no
 
-### Speaker 1
+speaker_1: No I mean T where is what do we we dont know I dont I understand we dont know anything about T what do we know about T
 
-No I mean T where is what do we we dont know I dont I understand we dont know anything about T what do we know about T
+speaker_4: Not in one day
 
-### Speaker 4
-
-Not in one day
-
-### Speaker 1
-
-We know nothing about tea
+speaker_1: We know nothing about tea
 
 
 See in the F Bergens case T is simply a class of functions What we know is that this T has to be such that it is a solution for the inner optimization problem for all x But we dont know anything beyond that no
@@ -1156,13 +885,9 @@ See we want the T to be such that it maximizes whatever is there in the internal
 
 See just like we had that regression problem that I had written So here you are only solving an optimization problem with respect to this T So T is a neural network Okay So I write that
 
-### Speaker 4
+speaker_4: But I think we know here like it should be the maximum value right So at least that conditional things can be
 
-But I think we know here like it should be the maximum value right So at least that conditional things can be
-
-### Speaker 1
-
-No no hold on you want
+speaker_1: No no hold on you want
 
 
 we want see this is an optimization problem that we are solving just okay i erased it it is no different from the problem that i had just written so you had to minimize you had to find a theta such that it minimizes uh the
@@ -1170,13 +895,9 @@ we want see this is an optimization problem that we are solving just okay i eras
 
 Differences between norm of these two functions right That is what we had for the regression problem isnt it
 
-### Speaker 4
+speaker_4: Yeah
 
-Yeah
-
-### Speaker 1
-
-it this is exactly the same instead of having the differences between the predictions it has some other expectation thats all
+speaker_1: it this is exactly the same instead of having the differences between the predictions it has some other expectation thats all
 
 
 You are trying to maximize see maximization minimization not both I can write this minimization as maximization with a minus here correct
@@ -1238,13 +959,9 @@ Now we want to find theta such that it would minimize the same cost
 
 Im sorry I should not write it as argument and argument right Because w star is not the minimum value of the function It is the minimizer of the function So it is the argument with respect to all possible ws And theta has to minimize the exact same cost
 
-### Speaker 3
+speaker_3: Sir is the first one is P of Px right instead of P theta the cost
 
-Sir is the first one is P of Px right instead of P theta the cost
-
-### Speaker 1
-
-All right good good thanks
+speaker_1: All right good good thanks
 
 
 This is okay So there is a cost function Okay And there are two neural networks here So one neural network has to maximize that cost And the other neural network has to minimize that same cost Now where is this coming from You look at this right Let me write that down So basically what is happening is so we have represented the T function So first what happens is that you construct a lower bound on your F divergence
@@ -1453,13 +1170,9 @@ A lot of people raised their raised their hands when I was explaining did I expl
 
 Its good to know Okay uh yeah
 
-### Speaker 4
+speaker_4: So what are what would be the dimension of this T w of x You have shown it as a narrowing right
 
-So what are what would be the dimension of this T w of x You have shown it as a narrowing right
-
-### Speaker 1
-
-Yeah yeah yeah Yeah thats a good question Depends on the f function that you have chosen For the knife when your f function happens to be such that it is the underlying divergence is Jensen Chandler divergence no That happens to be a scalar which could be interpreted as a classifier I will show that in the next half of the class That depends on f function no Because if you recall the definition of our t function from the previous class
+speaker_1: Yeah yeah yeah Yeah thats a good question Depends on the f function that you have chosen For the knife when your f function happens to be such that it is the underlying divergence is Jensen Chandler divergence no That happens to be a scalar which could be interpreted as a classifier I will show that in the next half of the class That depends on f function no Because if you recall the definition of our t function from the previous class
 
 
 What was t function t function takes x and gives out values from the domain of f star So whatever f star you choose f function that you choose this t depends on the choice of f divergence that you have made See that is why now that you asked that question it is very relevant See if you choose your f2b Jensen channel divergence this discriminator network will take x and give you values between 0 and 1
@@ -1482,44 +1195,26 @@ if you can if you can see the analogy so what we have done is just constructed t
 
 Yeah uh thank you and yeah and Rajit
 
-### Speaker 4
+speaker_4: Uh thank you
 
-Uh thank you
+speaker_3: Yes the difference or the cost we are maximizing is the difference between random or okay X and X hat right
 
-### Speaker 3
+speaker_1: a difference between two expectations
 
-Yes the difference or the cost we are maximizing is the difference between random or okay X and X hat right
+speaker_3: No but X hat is the
 
-### Speaker 1
+speaker_1: The output of the out out X hat is the output of the G theta network X is the data
 
-a difference between two expectations
+speaker_3: Yes so we are taking the difference between these two the difference by us no
 
-### Speaker 3
-
-No but X hat is the
-
-### Speaker 1
-
-The output of the out out X hat is the output of the G theta network X is the data
-
-### Speaker 3
-
-Yes so we are taking the difference between these two the difference by us no
-
-### Speaker 1
-
-We are taking no hold on hold p precise we are not taking difference between the data points we are taking the difference between expectations of t functions and f star of t functions where these x star and x comes from the corresponding distributions that is what it is we are not taking x minus x cap here we are taking the difference between the expectations of tx and f star of tx cap as x and x cap are coming from px and p theta
+speaker_1: We are taking no hold on hold p precise we are not taking difference between the data points we are taking the difference between expectations of t functions and f star of t functions where these x star and x comes from the corresponding distributions that is what it is we are not taking x minus x cap here we are taking the difference between the expectations of tx and f star of tx cap as x and x cap are coming from px and p theta
 
 
 You see that the cost function is difference in expectations not difference in data points
 
-### Speaker 3
+speaker_3: Yeah thats correct so thats the difference between averages right
 
-Yeah thats correct so thats the difference between averages right
-
-### Speaker 1
-
-Difference between averages of not x and x cap again Difference between the averages of Tx as x is coming from Px and F star of Tx as x cap is coming from Px
+speaker_1: Difference between averages of not x and x cap again Difference between the averages of Tx as x is coming from Px and F star of Tx as x cap is coming from Px
 
 
 It is again not the average of x it is average of p x
@@ -1530,35 +1225,23 @@ It is not average of x cap it is the average of s f star of t of x cap
 
 Is that okay
 
-### Speaker 3
+speaker_3: Yeah and then this cost or the maximum maximization should not be equal to minimization which we are doing over theta
 
-Yeah and then this cost or the maximum maximization should not be equal to minimization which we are doing over theta
+speaker_1: I didnt follow the question
 
-### Speaker 1
-
-I didnt follow the question
-
-### Speaker 3
-
-First we are maximizing the this difference right
+speaker_3: First we are maximizing the this difference right
 
 
 And then we are minimizing the same
 
-### Speaker 1
-
-So you should realize that maximization is with respect to different set of parameters and minimization is with respect to another set of parameters
+speaker_1: So you should realize that maximization is with respect to different set of parameters and minimization is with respect to another set of parameters
 
 
 The cost function is the same but maximization is with respect to w minimization is with respect to theta
 
-### Speaker 3
+speaker_3: So when we minimize maximize with respect to w are we not changing theta in any way
 
-So when we minimize maximize with respect to w are we not changing theta in any way
-
-### Speaker 1
-
-No no
+speaker_1: No no
 
 
 That is why I said no its for a fixed data So you alternate between those two
@@ -1569,63 +1252,37 @@ So I will also show the you know the way the gradients flow in both of these in 
 
 Okay uh okay uh astic
 
-### Speaker 4
+speaker_4: Yeah so so you mentioned that we are maximizing and minimizing the same cost function
 
-Yeah so so you mentioned that we are maximizing and minimizing the same cost function
+speaker_1: But but but but with respect to t two different set of parameters yeah
 
-### Speaker 1
-
-But but but but with respect to t two different set of parameters yeah
-
-### Speaker 4
-
-Thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats
+speaker_4: Thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats thats
 
 
 Yeah yeah yeah so uh it is uh sequentially or at the same time it should be sequentially
 
-### Speaker 1
+speaker_1: It is sequence you know alternate
 
-It is sequence you know alternate
+speaker_4: Okay okay okay and first we are maximizing
 
-### Speaker 4
+speaker_2: Then for that fixed value then
 
-Okay okay okay and first we are maximizing
+speaker_1: And its
 
-### Speaker 2
+speaker_4: Fixed value then we are again minimizing it for
 
-Then for that fixed value then
+speaker_1: Yes the order does not matter because you start from something and then you alternate between them no Okay yeah that makes sense
 
-### Speaker 1
-
-And its
-
-### Speaker 4
-
-Fixed value then we are again minimizing it for
-
-### Speaker 1
-
-Yes the order does not matter because you start from something and then you alternate between them no Okay yeah that makes sense
-
-### Speaker 4
-
-The order
+speaker_4: The order
 
 
 Okay yeah that makes sense
 
-### Speaker 1
+speaker_1: Or order does not matter
 
-Or order does not matter
+speaker_4: Mm yeah
 
-### Speaker 4
-
-Mm yeah
-
-### Speaker 1
-
-13
+speaker_1: 13
 
 
 Its a two set of weights and weights correct
@@ -1636,21 +1293,13 @@ There are two neural networks one ones one neural network Ive called as W the ot
 
 Ah correct both of them are like backpropagations only Both the maximise of course no both the optimizations are sort of using backpropagation only
 
-### Speaker 4
+speaker_4: for one given w that you maximize the cost and then for theta you minimize so like do we compare for all different ws
 
-for one given w that you maximize the cost and then for theta you minimize so like do we compare for all different ws
+speaker_1: no different w now you are doing just gradient descent see one one iteration through uh tw and you get a w you get a lower bound now you get another you do one iteration through g network you get theta right then you come back with that fixed theta the cost function changes now see once you change theta the cost function changes
 
-### Speaker 1
+speaker_2: Um yeah okay
 
-no different w now you are doing just gradient descent see one one iteration through uh tw and you get a w you get a lower bound now you get another you do one iteration through g network you get theta right then you come back with that fixed theta the cost function changes now see once you change theta the cost function changes
-
-### Speaker 2
-
-Um yeah okay
-
-### Speaker 1
-
-Now you come back to your W network tweak your W again And now the cost function has again changed Go back to your theta network change your theta and keep alternating between those two
+speaker_1: Now you come back to your W network tweak your W again And now the cost function has again changed Go back to your theta network change your theta and keep alternating between those two
 
 
 See mathematically what is happening is that the moment you have a particular T that is fixed no there is a lower bound that gets fixed but that lower bound need not be tight
@@ -1658,13 +1307,9 @@ See mathematically what is happening is that the moment you have a particular T 
 
 The door door door need not be typed okay so maybe if you want I thought I would do it at the end okay let me let me save that for the end okay because thats there is one picture that I write
 
-### Speaker 3
+speaker_3: Oh
 
-Oh
-
-### Speaker 1
-
-please mute that okay see uh there is one picture that i write okay of what is happening uh alternatively uh that would give you i mean that would actually tell you a lot of story but that can that i can write only when your t function happens to be a classifier in the case where your f is jets and and divergence i will do that i will do that in this class at the end of the class it will youll get much more clarity as we move on okay
+speaker_1: please mute that okay see uh there is one picture that i write okay of what is happening uh alternatively uh that would give you i mean that would actually tell you a lot of story but that can that i can write only when your t function happens to be a classifier in the case where your f is jets and and divergence i will do that i will do that in this class at the end of the class it will youll get much more clarity as we move on okay
 
 
 Okay
@@ -1672,21 +1317,13 @@ Okay
 
 Any any other questions
 
-### Speaker 3
+speaker_3: Yeah sorry
 
-Yeah sorry
+speaker_1: Yeah yeah so she
 
-### Speaker 1
+speaker_3: Yeah so she maximized yeah so I
 
-Yeah yeah so she
-
-### Speaker 3
-
-Yeah so she maximized yeah so I
-
-### Speaker 1
-
-X cap no X cap is coming from d theta
+speaker_1: X cap no X cap is coming from d theta
 
 
 scan
@@ -1697,13 +1334,9 @@ Next cap is coming from G theta no
 
 Okay uh another question okay yeah
 
-### Speaker 3
+speaker_3: Another question okay yeah When do we stop Because I told you
 
-Another question okay yeah When do we stop Because I told you
-
-### Speaker 1
-
-The I I told you no I I told you I I I will tell you this topic criteria next in the next half of the class
+speaker_1: The I I told you no I I told you I I I will tell you this topic criteria next in the next half of the class
 
 
 So okay well take a break I think Ive been here since nine So take a 15 minutes break It is 11 point 10 in my clock Shall we come back at 11 point 20 11 point 25
@@ -1720,13 +1353,9 @@ In Sanskrit right the word tosh represents happiness And any prefix that you add
 
 got this thought and thought to share you but share with you the person is not around anyway doesnt matter
 
-### Speaker 3
+speaker_3: Or opposite or same
 
-Or opposite or same
-
-### Speaker 1
-
-No no same thing all these convey like magnification of whatever you are saying
+speaker_1: No no same thing all these convey like magnification of whatever you are saying
 
 
 So Tosh is happiness Tosh Avritosh Pratosh all these they mean the same You might have also heard this name of Ashutosh no Yeah Ashu means quick So thats why the Shiva is called Ashutosh somebody who gets happy very quickly So that is just a little different But Avritosh Santosh Pratosh all these mean the Paritosh I am not Paritosh by the way My name is Pratosh
@@ -1734,13 +1363,9 @@ So Tosh is happiness Tosh Avritosh Pratosh all these they mean the same You migh
 
 It seems
 
-### Speaker 4
+speaker_4: Seems like too many happy people in the team
 
-Seems like too many happy people in the team
-
-### Speaker 1
-
-I always tell my parents that its a Mishnah and my name is
+speaker_1: I always tell my parents that its a Mishnah and my name is
 
 
 So I dont know how happy I am in my life but yeah they named me happiness And whats more interesting is when my parents named me they didnt know what my name means Somebody suggested and it looked unique and they just chose that name So then you know I dont know if how many of you know that I also happen to be interested in Sanskrit and Indian history philosophy
@@ -1751,51 +1376,31 @@ So studying Sanskrit for a long time then I realized what the meaning of my name
 
 Anyways
 
-### Speaker 4
+speaker_4: On a different note I think uh
 
-On a different note I think uh
+speaker_1: Hey hold on hold on hold on see we are we are we are in the break people can leave this is all not in an unrelated stuff but yeah so go on whoever wants to say
 
-### Speaker 1
+speaker_4: Yeah uh so actually I think uh you remembered in the Sangaskrit club as well right So I thought uh there will be some way of teaching from the scratch Uh that was my interest point to join that
 
-Hey hold on hold on hold on see we are we are we are in the break people can leave this is all not in an unrelated stuff but yeah so go on whoever wants to say
+speaker_1: Its actually
 
-### Speaker 4
+speaker_4: So is that a
 
-Yeah uh so actually I think uh you remembered in the Sangaskrit club as well right So I thought uh there will be some way of teaching from the scratch Uh that was my interest point to join that
+speaker_1: I am not an active member there I mean it is mostly it is mostly like headed by Sankirtan and Shankarama and these people I dont have a lot of say see when I was in IIT Delhi I used to teach Sanskrit to people like like undergrads there that was my here I have too much then I didnt have a family no I have two children and you know
 
-### Speaker 1
-
-Its actually
-
-### Speaker 4
-
-So is that a
-
-### Speaker 1
-
-I am not an active member there I mean it is mostly it is mostly like headed by Sankirtan and Shankarama and these people I dont have a lot of say see when I was in IIT Delhi I used to teach Sanskrit to people like like undergrads there that was my here I have too much then I didnt have a family no I have two children and you know
-
-### Speaker 4
-
-Sir sir sir what is the thing like you resigned from IIT Delhi and came to IAC
+speaker_4: Sir sir sir what is the thing like you resigned from IIT Delhi and came to IAC
 
 
 I mean why you reside from IIT Delhi
 
-### Speaker 1
-
-Because Bangalore is my home Im a South Indian guy and Uttna Garmi or Tantakom I say I am
+speaker_1: Because Bangalore is my home Im a South Indian guy and Uttna Garmi or Tantakom I say I am
 
 
 In fact thats actually yeah thats I mean come on right I mean say here anything more than 30 is hot for us and anything less than 20 is cold for us and uh it was too much
 
-### Speaker 2
+speaker_2: Yeah correct
 
-Yeah correct
-
-### Speaker 1
-
-Thats thats the only reason otherwise I was very happy at Delhi Professionally there was there was absolutely no problem and I like see when I went to Delhi I I thought that I would you know I would want to come back as soon as possible in fact because you asked when I was applying for faculty positions I applied to Bombay Madras Delhi okay uh i i could not apply to isc because i did my phd from isc only no they will not take their own students
+speaker_1: Thats thats the only reason otherwise I was very happy at Delhi Professionally there was there was absolutely no problem and I like see when I went to Delhi I I thought that I would you know I would want to come back as soon as possible in fact because you asked when I was applying for faculty positions I applied to Bombay Madras Delhi okay uh i i could not apply to isc because i did my phd from isc only no they will not take their own students
 
 
 Unless they go out some for some years and come back
@@ -1803,62 +1408,38 @@ Unless they go out some for some years and come back
 
 Now that option was not there I applied to Bombay Madras Delhi and my preference was of course first preference was Madras and then its Bombay then you move up the map right But the first offer was made from IIT Delhi
 
-### Speaker 4
+speaker_4: But you for your PSD youve done PSD right sir
 
-But you for your PSD youve done PSD right sir
+speaker_1: Otherwise you cant become faculty in any of these places
 
-### Speaker 1
+speaker_4: So from where you did this business
 
-Otherwise you cant become faculty in any of these places
+speaker_1: So only I see only
 
-### Speaker 4
+speaker_4: Oh I yes it said
 
-So from where you did this business
-
-### Speaker 1
-
-So only I see only
-
-### Speaker 4
-
-Oh I yes it said
-
-### Speaker 1
-
-Yeah so like 10 years back 15 years back I was a student at IIT So Silya forcefully I went to Delhi but what I was saying is when I went to Delhi I started liking it I mean some of my colleagues at Delhi told me that Delhi will grow on you you will start missing Delhi and all that I never thought I would miss Delhi but Agni I miss Delhi because there are lots of good things about Delhi which is not there in Bangalore Bangalore is its a doomed
+speaker_1: Yeah so like 10 years back 15 years back I was a student at IIT So Silya forcefully I went to Delhi but what I was saying is when I went to Delhi I started liking it I mean some of my colleagues at Delhi told me that Delhi will grow on you you will start missing Delhi and all that I never thought I would miss Delhi but Agni I miss Delhi because there are lots of good things about Delhi which is not there in Bangalore Bangalore is its a doomed
 
 
 place and infrastructure is so bad and even though I come from technically Im not from Bangalore Im from a place called Mysore which is 150 kilometers away from my Bangalore which is heaven yeah but this Bangalore is hell
 
-### Speaker 4
+speaker_4: Just so I know
 
-Just so I know
-
-### Speaker 1
-
-I mean all broken infrastructure rude people right you know what I felt people in Delhi more more softer compared to people in Bangalore everybody says that North Indians are harsh or nothing but I mean after Hindi we were talking about that thats all the moment you start speaking in Hindi and people are people are more cosmopolitan and more softer there my God
+speaker_1: I mean all broken infrastructure rude people right you know what I felt people in Delhi more more softer compared to people in Bangalore everybody says that North Indians are harsh or nothing but I mean after Hindi we were talking about that thats all the moment you start speaking in Hindi and people are people are more cosmopolitan and more softer there my God
 
 
 Dreadful when I see auto drivers and all the other people here okay this is getting recorded dont put it on some social media right I mean I see professors make some comments on
 
-### Speaker 4
+speaker_4: I think so
 
-I think so
-
-### Speaker 1
-
-So these days you can you cannot have a casual conversation with people right they will record and put it on social media it will become a national news
+speaker_1: So these days you can you cannot have a casual conversation with people right they will record and put it on social media it will become a national news
 
 
 See
 
-### Speaker 4
+speaker_4: should not go on fly side definitely
 
-should not go on fly side definitely
-
-### Speaker 1
-
-I tell you I mean I just some two three months back I gave a talk somewhere okay Something on philosophy somebody called me and I gave a talk I mean when I was giving a talk I never knew that okay they were recording this and all that These people have recorded and put it on YouTube I mean this thing has become a big thing right People are tweeting it right left and center There are views for it against it and all that Then I had to contact these organizers of the talk and ask
+speaker_1: I tell you I mean I just some two three months back I gave a talk somewhere okay Something on philosophy somebody called me and I gave a talk I mean when I was giving a talk I never knew that okay they were recording this and all that These people have recorded and put it on YouTube I mean this thing has become a big thing right People are tweeting it right left and center There are views for it against it and all that Then I had to contact these organizers of the talk and ask
 
 
 to put a disclaimer saying that the expressions all the expressions are opinions are of the author and has nothing to do with isc these people have put it online no they have they have used my affiliation they have called it oh isc professor says this i mean which is true because i am a professor from isc but my that those are my views not my universitys views some of them can some of them may be politically correct some of them are not politically correct and yeah that might cause
@@ -1866,13 +1447,9 @@ to put a disclaimer saying that the expressions all the expressions are opinions
 
 my job also so its very should be very very careful when you talk
 
-### Speaker 4
+speaker_4: I think that when you start the classes you should put the same disclaimer
 
-I think that when you start the classes you should put the same disclaimer
-
-### Speaker 1
-
-No no no this is okay no this is all technical content This is all like you know this is all standard stuff you can quote me saying oh YAC professor said that GAN solves a hadden point problem no problem right
+speaker_1: No no no this is okay no this is all technical content This is all like you know this is all standard stuff you can quote me saying oh YAC professor said that GAN solves a hadden point problem no problem right
 
 
 I have no problem with it No IISc professor said that you train a neural network using back propagation Nobody cares It is true Now now if I start making statements like okay you know statements regarding some history philosophy language some sensitive issues If you quote me on that and if you tag IIScs name there its not correct no Its all my opinion and I am entitled to have my having my opinion but I should not be as a government employee I should not be having opinions that
@@ -1880,25 +1457,15 @@ I have no problem with it No IISc professor said that you train a neural network
 
 But I should rather not make my opinions public See you saw what happened no recently our Prime Minister went to CGIs home for a festival and it became a big national news
 
-### Speaker 3
-
-Thats the
+speaker_3: Thats the
 
 
 So there is a video of you sir where youre explaining Ahambra Masmi from sacred games
 
-### Speaker 1
+speaker_1: Yeah thats what Im saying
 
-Yeah thats what Im saying
+speaker_4: So so on the same same lines I saw your video on the video
 
-### Speaker 4
+speaker_1: No no thats a thats a thats a rabbit hole please dont start that okay so let me stop
 
-So so on the same same lines I saw your video on the video
-
-### Speaker 1
-
-No no thats a thats a thats a rabbit hole please dont start that okay so let me stop
-
-### Speaker 4
-
-So I I want to like ask you like how like how
+speaker_4: So I I want to like ask you like how like how

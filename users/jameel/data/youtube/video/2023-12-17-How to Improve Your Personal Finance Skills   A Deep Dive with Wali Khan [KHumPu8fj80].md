@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,13 +18,9 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: 78 percent of Americans like to live paycheck by paycheck right One in four workers never have anything saved at the end of each month
 
-78 percent of Americans like to live paycheck by paycheck right One in four workers never have anything saved at the end of each month
-
-### Speaker 2
-
-But what we can do as as lets say adults that we can teach our kids very in in subtle manners that they can understand this concept The first and foremost is the trace and track So that that is the utmost important thing regardless of whatever income you have you must have the trace and track system in place and that is very easy as well Ive made several videos about this I call this as borrowed intelligence if lets say I talk about Robert Kiyosaki I talked about
+speaker_2: But what we can do as as lets say adults that we can teach our kids very in in subtle manners that they can understand this concept The first and foremost is the trace and track So that that is the utmost important thing regardless of whatever income you have you must have the trace and track system in place and that is very easy as well Ive made several videos about this I call this as borrowed intelligence if lets say I talk about Robert Kiyosaki I talked about
 
 
 lets say any other uh lets say Dave Ramsey or some some uh like famous people who are talking about personal finance in the northern America region you cannot use that kind of wisdom and apply uh to lets say a country like Pakistan or even India or even Dubai because though that country is different uh US is land of opportunity and there are so many things which are happening separately there can you imagine like if I would have got some kind of mentorship or knowledge that you have to have a lot
@@ -32,27 +28,19 @@ lets say any other uh lets say Dave Ramsey or some some uh like famous people wh
 
 term vision for a stock market i would have made a lot of gains from that time this book is actually very good and one of the one of the uh the lesson from that book is about the luck and the risk ive ive been uh contemplating on using this one how to get paid for what you know and this is very important because we undermine ourselves uh for what the for the knowledge that we have so it is important whatever knowledge you have you should um get it out because nowadays social media is such a powerful tool
 
-### Speaker 1
-
-Hello and welcome everyone to my channel and today we will talk about a very very important topic which is around personal finance and I have invited someone who is not only a great friend of mine but he is considered to be one of the experts in this field he has his own YouTube channel where he has close to about 50000 subscribers and he teaches personal finance and helps different professionals at different levels of their careers in their personal finance journey so without further ado I would like to introduce my great friend
+speaker_1: Hello and welcome everyone to my channel and today we will talk about a very very important topic which is around personal finance and I have invited someone who is not only a great friend of mine but he is considered to be one of the experts in this field he has his own YouTube channel where he has close to about 50000 subscribers and he teaches personal finance and helps different professionals at different levels of their careers in their personal finance journey so without further ado I would like to introduce my great friend
 
 
 Wally Khan Wally welcome to the show
 
-### Speaker 2
-
-Thank you Jamil Thanks a lot And this introduction is overwhelming for me And Im not considering myself at all any kind of expert in this field because Im always learning about this And I havent done any courses or anything like somebody some people ask me if you have done some formal education taken formal education of that sort But that is not the case So so Im just doing you can say Im just explaining whatever Im experiencing So its all about my experience
+speaker_2: Thank you Jamil Thanks a lot And this introduction is overwhelming for me And Im not considering myself at all any kind of expert in this field because Im always learning about this And I havent done any courses or anything like somebody some people ask me if you have done some formal education taken formal education of that sort But that is not the case So so Im just doing you can say Im just explaining whatever Im experiencing So its all about my experience
 
 
 that Im sharing on my channel
 
-### Speaker 1
+speaker_1: So I think Wally you are being very very modest because Ive seen some of the testimonials on your videos and like how much people are getting advantage from your learning So thanks for that again So Wally first question I have which is more of an introductory question is I know you are an engineer You have been working in like technology related jobs for a very long time So what got you into personal finance Tell us a little bit about that
 
-So I think Wally you are being very very modest because Ive seen some of the testimonials on your videos and like how much people are getting advantage from your learning So thanks for that again So Wally first question I have which is more of an introductory question is I know you are an engineer You have been working in like technology related jobs for a very long time So what got you into personal finance Tell us a little bit about that
-
-### Speaker 2
-
-So Jamil yes Im an engineer by day and doing YouTube by the evening So basically and this personal finance is my passion since very long because I have seen a lot of people missing the common sense which is around finances and money And this aggravated during COVID because during the COVID I didnt have any time anything to work on because the work was at the backseat and I was alone at home as well
+speaker_2: So Jamil yes Im an engineer by day and doing YouTube by the evening So basically and this personal finance is my passion since very long because I have seen a lot of people missing the common sense which is around finances and money And this aggravated during COVID because during the COVID I didnt have any time anything to work on because the work was at the backseat and I was alone at home as well
 
 
 because my family was stuck back home in Pakistan so I was having a lot of time but then I started very late the the the triggering point why I started this channel basically is that whenever I talk to people regarding finances they always talk about having more income or more salary which is not the case because I always think about investing a lot of money and then it will automatically give you returns at later stage of your life of course you need more income but
@@ -63,9 +51,7 @@ But to just invest you dont need more money You just need to have a system in pl
 
 uh for small things within your life that I I think people should know and still I can see a lot of people who are having degrees like MBA or even chartered accountants they fail to understand very basic things in their lives and and that makes me make the content and it actually resonate with a lot of people so I just talk about common sense
 
-### Speaker 1
-
-One question I wanted to ask you Wally is why do you think schools even today dont teach this And its I mean whatever youre saying makes a lot of sense But one thing which always fascinates me is that when we go to our you know lets say primary school or even secondary school when we are in high school there is a lot of focus on math There is a lot of focus on science and commerce and all of that But I mean nowhere near there is any focus on
+speaker_1: One question I wanted to ask you Wally is why do you think schools even today dont teach this And its I mean whatever youre saying makes a lot of sense But one thing which always fascinates me is that when we go to our you know lets say primary school or even secondary school when we are in high school there is a lot of focus on math There is a lot of focus on science and commerce and all of that But I mean nowhere near there is any focus on
 
 
 personal finances and Im sure there are a lot of people like even myself included who learn those lessons the hard way and when you know when life teaches you those lessons unfortunately those are very expensive lessons and and one of the one of the interesting things uh I did find out recently that I think in North America I think the only state which actually teaches financial literacy as a part of the curriculum I mean theyve introduced this in Florida uh in 2022 uh so it became a part of the legislation that in order to in order to
@@ -79,9 +65,7 @@ arguably richest countries in the world dont have any not even a single dollar s
 
 You know that response I saw in 2019 owed about 30000 in student loans in the US So given that you have done like a lot of deep dive into this subject why do you think schools or colleges dont teach this
 
-### Speaker 2
-
-So I dont have this answer actually because there is no sense to me as to why the government of the levels of lets say the US or the big five countries or any other developing countries let alone like the developing nations like India or Pakistan those countries are not contributing towards the education of this important life skill I have no idea why its not happening Some people say its a vested interest but Im not
+speaker_2: So I dont have this answer actually because there is no sense to me as to why the government of the levels of lets say the US or the big five countries or any other developing countries let alone like the developing nations like India or Pakistan those countries are not contributing towards the education of this important life skill I have no idea why its not happening Some people say its a vested interest but Im not
 
 
 Im not into conspiracy theory so Im not gonna comment on that but what we can do as as lets say adults and as as lets say dads or mothers that we can teach our kids very in in subtle manners that they can understand this concept so Ill just give you an example what happened last last summers when we went out to to shop around for the school bags of our kitchen for our kids and I live in Dubai basically so hey
@@ -113,9 +97,7 @@ seen this happening in at least in the UAE I havent seen this happening in UK as
 
 you can take advantage of that in any sense like you can teach them and and uh and and they can pay for you for for that so thats what im doing im trying to educate people and im trying to monetize that skill of mine
 
-### Speaker 1
-
-So on on that point and thanks for sharing I think that thats a great story because even with my kids Ive got two boys and I I did a very interesting like experiment with both of them because they are very different characters right so yeah I I kind of you know uh as they for example they go and they would visit places you know sometimes you know on on eid as you know in in our culture the elders would like to give them ed and all that stuff so uh i encourage them to actually save it and manage that money like how theyre going to spend it and being you know they both of them
+speaker_1: So on on that point and thanks for sharing I think that thats a great story because even with my kids Ive got two boys and I I did a very interesting like experiment with both of them because they are very different characters right so yeah I I kind of you know uh as they for example they go and they would visit places you know sometimes you know on on eid as you know in in our culture the elders would like to give them ed and all that stuff so uh i encourage them to actually save it and manage that money like how theyre going to spend it and being you know they both of them
 
 
 being very different characters one of them has a very good habit of saving and calculating and how he wants to manage his money and the other one is a little bit more kind of on the uh you know hes the spending side but that i think the point is that from very early age that financial responsibility that creating of like if for example you could have given your kids those 600 dirhams and they would have bought up the bag and you know story was over right but the fact that now they own that money and they had the autonomy on how they
@@ -126,9 +108,7 @@ to use that money im sure that must have given them like thought okay you know i
 
 lets say a 22 year old fresh graduate right now what are the two or three skills I need to build in order to manage my personal finances better
 
-### Speaker 2
-
-Yeah so the first and foremost is the trace and track So that is the utmost important thing Regardless of whatever income you have you must have the trace and track system in place And that is very easy as well Ive made several videos about this specific thing because I have seen if you have the habit of spending more until you dont recognize that it will not improve automatically You have to see over the long period of time lets say six months give yourself a six months period and see where your expenses are
+speaker_2: Yeah so the first and foremost is the trace and track So that is the utmost important thing Regardless of whatever income you have you must have the trace and track system in place And that is very easy as well Ive made several videos about this specific thing because I have seen if you have the habit of spending more until you dont recognize that it will not improve automatically You have to see over the long period of time lets say six months give yourself a six months period and see where your expenses are
 
 
 being happening and what I do normally is maintain a Google Sheet Google Sheet because earlier I was doing it on the Excel sheet Excel sheet is not most of the time its not accessible apart from your own computer so Google Sheet is the one which is accessible from from your phone from your lets say laptop from your any device any kind of platform you can think of and keep it very simple Ive seen people talking about different apps I dont use any kind of app I just use Google Sheet because it will help me export the data and eventually I do my analysis
@@ -154,9 +134,7 @@ should be the one where should be the place where you should be investing your m
 
 only drains your money apart from that it drains your time and time is actually the the the most important thing that we we all um miss sometime when we are talking about uh wealth so time is basically the wealth and yeah thats about it if you if you do these three basic things im sure your your your financial health will be much better
 
-### Speaker 1
-
-Yeah I think that thats a fantastic point Wally And I think one of the reasons why people stay away from stocks in a lot of different regions especially like you know if I talk about not so much the Middle East but South Asia is a lot of people perceive stocks as gambling which is absolutely incorrect Its a false perception because what people typically think is that oh you know this is all about Im going to put 5 today and its going to become 10 tomorrow No thats not how it works right
+speaker_1: Yeah I think that thats a fantastic point Wally And I think one of the reasons why people stay away from stocks in a lot of different regions especially like you know if I talk about not so much the Middle East but South Asia is a lot of people perceive stocks as gambling which is absolutely incorrect Its a false perception because what people typically think is that oh you know this is all about Im going to put 5 today and its going to become 10 tomorrow No thats not how it works right
 
 
 sometimes yes there are people who do day trading for a living thats a very different story but one concept which i learned as i invested in stocks was this concept called dollar cost averaging right that you you find the right stocks the stable stocks and then over time you like you mentioned you do those small investments and they grow over time because if you look at the 50 year chart for any index visit whether its s p 500 or nasdaq or you know canadian tsx whatever they have all grown over time right so its basically you are not only
@@ -164,9 +142,7 @@ sometimes yes there are people who do day trading for a living thats a very diff
 
 inflation protecting your savings but at the same time you are also uh trying to get some good
 
-### Speaker 2
-
-Yeah averaging out and also youre getting the dividends as well Its not only the P there are so many misconceptions for the stocks by the way You can even invest in real estate through the stocks through the REITs So there are so many ways that you can invest in the stock market because when I talk to people and again I would say that the highly educated people and when I talk to them about the general investment not about stocks general investments See Ill give you an example One of my colleague I was telling him that Im gonna make a
+speaker_2: Yeah averaging out and also youre getting the dividends as well Its not only the P there are so many misconceptions for the stocks by the way You can even invest in real estate through the stocks through the REITs So there are so many ways that you can invest in the stock market because when I talk to people and again I would say that the highly educated people and when I talk to them about the general investment not about stocks general investments See Ill give you an example One of my colleague I was telling him that Im gonna make a
 
 
 video on this topic separately because he was mentioning something which is very common for me and after lets say for last three four years when Ive been making such content its very like its very common thing that nobody should be missing this but still he was showing me one of the product which was giving six percent return but that six percent was giving in the return was maturing in six months so I told him its not the six percent return is not in six months the six percent return is annualized
@@ -177,24 +153,16 @@ and then you will get the return on lets say after six months so that is three p
 
 they obli they think Im doing some favor to them but its for me its a very common thing and its actually its a very common thing but definitely common sense is is missing nowadays
 
-### Speaker 1
-
-Absolutely And even the point you made about credit card is such a such an important one A shockingly high number of Canadians basically rely on credit card as a source of their liquidity which means that they dont end up paying their entire credit card bill at the end of the month which is very shocking to me because if you think about it even right now lets say you know you take your mortgage which is at a very high interest rate at the moment but the highest youre talking about is five six percent right Credit card debt is basically 22 percent Its crazy
+speaker_1: Absolutely And even the point you made about credit card is such a such an important one A shockingly high number of Canadians basically rely on credit card as a source of their liquidity which means that they dont end up paying their entire credit card bill at the end of the month which is very shocking to me because if you think about it even right now lets say you know you take your mortgage which is at a very high interest rate at the moment but the highest youre talking about is five six percent right Credit card debt is basically 22 percent Its crazy
 
 
 And I dont think its its any better whether you go to Dubai or whether you are in India or you are in the US right its kind of as as
 
-### Speaker 2
+speaker_2: So its in the way its 45 percent For the first time HSBC sent an SMS telling us that it is 45 percent I was shocked to see that SMS I made a video about that How come theyre telling so bluntly that its 45 percent Otherwise normally what they say is its 4 percent 3 percent because they will tell you only the monthly rate but theyre not going to tell you the full picture of annual return I mean the penalty
 
-So its in the way its 45 percent For the first time HSBC sent an SMS telling us that it is 45 percent I was shocked to see that SMS I made a video about that How come theyre telling so bluntly that its 45 percent Otherwise normally what they say is its 4 percent 3 percent because they will tell you only the monthly rate but theyre not going to tell you the full picture of annual return I mean the penalty
+speaker_1: So so Wally a good segue into my next uh point or my next question to you is as you talk to people across US Canada Dubai Pakistan India do you think that financial literacy is different by region or you kind of see similar trends across the board
 
-### Speaker 1
-
-So so Wally a good segue into my next uh point or my next question to you is as you talk to people across US Canada Dubai Pakistan India do you think that financial literacy is different by region or you kind of see similar trends across the board
-
-### Speaker 2
-
-no no its its completely different and one should not i i call this as a borrowed intelligence if lets say i talk about robert kusaki i talked about lets say any other uh lets say dave ramsey or some some uh like famous people who are talking about personal finance in the northern north america region you cannot use that kind of wisdom and apply uh to lets say a country like pakistan or even india or even dubai because though that country is different uh us is land of opportunity
+speaker_2: no no its its completely different and one should not i i call this as a borrowed intelligence if lets say i talk about robert kusaki i talked about lets say any other uh lets say dave ramsey or some some uh like famous people who are talking about personal finance in the northern north america region you cannot use that kind of wisdom and apply uh to lets say a country like pakistan or even india or even dubai because though that country is different uh us is land of opportunity
 
 
 And there are so many things which are happening separately there But of course there are there are a lot of common things as well that you should take the the cue from But you cannot directly implement those things that these guys are talking about Warren Buffett what he talks about the stock you cannot apply those things to to lets say a stock in in Pakistan So yes the the investors are definitely thinking differently all over the place One thing is common I have seen common people
@@ -214,13 +182,9 @@ lets say Pakistan or any other third world country are doing the same kind of mi
 
 some things that that distinguish one person from the other or one region from the other
 
-### Speaker 1
+speaker_1: Excellent So so one one question on uh just to build a segue on this one uh Oli is that if if you were you know if you had a time machine and you had the ability to go back you know to a time when you were 20 years old would you do something different
 
-Excellent So so one one question on uh just to build a segue on this one uh Oli is that if if you were you know if you had a time machine and you had the ability to go back you know to a time when you were 20 years old would you do something different
-
-### Speaker 2
-
-Oh of course as I said before only until four years back lets say I was I was introduced with the concept of stock market So can you imagine like even with a country like Pakistan if Ive invested this money for when when I was graduating after I graduated actually I have invested some of my income into different residential projects which were failed or lets say which were which were which were OK I mean they they they
+speaker_2: Oh of course as I said before only until four years back lets say I was I was introduced with the concept of stock market So can you imagine like even with a country like Pakistan if Ive invested this money for when when I was graduating after I graduated actually I have invested some of my income into different residential projects which were failed or lets say which were which were which were OK I mean they they they
 
 
 gave some results but still they were not as good as they would have been I would have been in stocks and if I invested I if I would have started investing in the stock at that time actually I did that actually I invested in mutual funds but because of lack of knowledge I didnt know that I had to be a long runner and mutual funds when I invested the stock market crashed and the funds value also crashed I think almost 30 35 percent and I sold it out and that was back in 2008 or maybe seven
@@ -234,20 +198,14 @@ in the in the stock market i learned i should have learned a lot and when i was 
 
 But at the same time somebody was there to tell me that okay these things happen but dont worry about them and look at a longer or bigger picture because at that time when I was trading I was only looking at lets say two days picture or three days picture not more than that So if somebody would have told me this it would have been a blessing at that time But anyways now Im trying to educate people that look you should have to look at a larger picture not just two three days or two three months or even sometimes years
 
-### Speaker 1
-
-Yeah One one thing I want to actually build on what you said Wally is that and this is what I learned after moving to North America right Because I think I think system in which you operate also plays a huge difference Right For example when I was in Dubai you have a lot of disposable income and a lot of people you know that I speak to now even in Canada who still have that desire that oh you know I wish I could go back to Dubai When I asked them OK what is the one reason The first reason they give me is OK you know we had so much income
+speaker_1: Yeah One one thing I want to actually build on what you said Wally is that and this is what I learned after moving to North America right Because I think I think system in which you operate also plays a huge difference Right For example when I was in Dubai you have a lot of disposable income and a lot of people you know that I speak to now even in Canada who still have that desire that oh you know I wish I could go back to Dubai When I asked them OK what is the one reason The first reason they give me is OK you know we had so much income
 
 
 We felt much richer The systems in North America basically especially in Canada but even the US I would say if you are working for an organization they almost force you to stay in that mutual fund stock space through your retirement funds right And those retirement funds by the way typically are logged in You cannot touch them unless you have I think the only condition in Canada where you can touch your retirement funds is if you have a life threatening illness for example God forbid you have cancer or something like that
 
-### Speaker 2
+speaker_2: And those retirement
 
-And those retirement
-
-### Speaker 1
-
-only then you can you know break those funds otherwise they are logged in at least until you turn 55 or 60 and even that like you know the return and the amount of money you can unlock depends for example if you want to start withdrawing when you are 55
+speaker_1: only then you can you know break those funds otherwise they are logged in at least until you turn 55 or 60 and even that like you know the return and the amount of money you can unlock depends for example if you want to start withdrawing when you are 55
 
 
 you almost get nothing but when you could turn 60 and 65 thats when you start pulling that out but thats and initially i used to get really frustrated right because a big part of my lets say paycheck used to go in these retirement funds and all of that and youre almost also enticed by it because some companies uh also make it very lucrative for you to invest because for example uh there are organizations i know where if you would put one dollar into your retirement they would actually match it up by 200 so basically your one dollar becomes three dollars and then add to it the dollar cost averaging and the
@@ -258,9 +216,7 @@ that you are getting right so uh while initially it was very frustrating for me 
 
 Uh in the West they have built a system that kind of you know forces you to invest in those mutual funds uh and so on
 
-### Speaker 2
-
-Yeah actually there are two things I want to just expand on this There is one thing is about the about this while Im living in Dubai in UAE they have started implementing these kind of things They have started you know the concept of graduateness here So the concept of graduateness is that you you just there is a part of salary which goes into that fund and that keeps on there until you lets say resign or you let go So that fund now is now theyre investing
+speaker_2: Yeah actually there are two things I want to just expand on this There is one thing is about the about this while Im living in Dubai in UAE they have started implementing these kind of things They have started you know the concept of graduateness here So the concept of graduateness is that you you just there is a part of salary which goes into that fund and that keeps on there until you lets say resign or you let go So that fund now is now theyre investing
 
 
 in in different places uh riskier as well as less riskier so you have some kind of uh concept now in this region as well that this is a possibility as well that you can invest your graduality this is one thing second thing is that they have introduced now employee there is one insurance scheme they have like introduced where you you its a mandatory scheme you have to invest a very small amount lets say 60 dirhams uh for a year and that will make sure that lets say if you are let go of from your company you will be
@@ -277,13 +233,9 @@ in in canadian terms its its not that bad its good such its so good that you wil
 
 and and think about it as a game then it will be much better and much much more fun lets say you can say that otherwise you will you will not I would say you will not gain anything living in this country for a long period of time even though youre getting tax free income
 
-### Speaker 1
+speaker_1: Last question to you Wally is in terms of resources if people want to get more skillful on this area of personal finance any resources that you could recommend This may be a good opportunity for you to also talk a little bit about your channel
 
-Last question to you Wally is in terms of resources if people want to get more skillful on this area of personal finance any resources that you could recommend This may be a good opportunity for you to also talk a little bit about your channel
-
-### Speaker 2
-
-yeah of course uh actually my i have got two channels one is in english one is in urdu of course urdu channel is much more uh grown away now like its its having 50 000 subscribers my english channel is only a hundred uh not hundred thousand hopefully it will be but thousand subscribers as of now uh apart from that i dont uh read a lot of books but whatever books that i have read is like rich dad poor dad and a psychology of money through by morgan hossel this book is actually very good and one of the
+speaker_2: yeah of course uh actually my i have got two channels one is in english one is in urdu of course urdu channel is much more uh grown away now like its its having 50 000 subscribers my english channel is only a hundred uh not hundred thousand hopefully it will be but thousand subscribers as of now uh apart from that i dont uh read a lot of books but whatever books that i have read is like rich dad poor dad and a psychology of money through by morgan hossel this book is actually very good and one of the
 
 
 one of the uh the lesson from that book is about the luck and the risk ill talk about that in a bit but one thing is uh important to note that once youre reading these kind of authors you should understand that you youre not living in if youre not living in northern uh lets say north america or lets say europe or these kind of countries you should try to uh to simulate to your own environment its not like everything that you read you can implement that and the other thing is that uh this also i need to uh talk to you uh that
@@ -294,13 +246,9 @@ But an author like Robert Kiyosaki who was a visionary at that time maybe when w
 
 his own courses by the way uh robert kiyosakis courses uh if you go in a free seminar it it costs nothing but then hes going to ups uh upsell 500 scores hes gonna upsell twelve thousand dollar scores and then hes gonna upsell forty five thousand dollar scores and if people say that uh okay i dont have that kind of money he will tell you okay you have the credit card they say that we dont have this kind of limit he asked them to call the bank and tell the tell the people how to increase the limits so
 
-### Speaker 1
+speaker_1: Come back
 
-Come back
-
-### Speaker 2
-
-Robert Kuszki is is kind of a scam now so one should really
+speaker_2: Robert Kuszki is is kind of a scam now so one should really
 
 
 see who who are the who are their mentors and who are they following so there should be a common sense all the time i im telling everybody that okay listen to me as well but use your own mind because its your own money so your own money is not going to be you cannot outsource your wealth building so it is very important whatever youre listening whatever youre there are a lot of podcasts as well there are a lot of youtube resources as well like i watch graham stefan i watch dave ramsey i watch a lot of indian youtubers as well
@@ -314,17 +262,11 @@ a property and he he took a risk during the covid that that property was around 
 
 like your own system So making system around your investments is very important Luck sometimes work sometimes doesnt So one should not rely on luck all the time If youre lucky one time its not that every time you get lucky So this is very important I learned this by the way from Morgan Housel itself So there are a lot of resources but one has to implement or apply their own knowledge to such kind of literature or books
 
-### Speaker 1
+speaker_1: Yeah I I must say that you you probably learned this from Morgan Housel I actually learned this the hard way
 
-Yeah I I must say that you you probably learned this from Morgan Housel I actually learned this the hard way
+speaker_2: And Im
 
-### Speaker 2
-
-And Im
-
-### Speaker 1
-
-When I moved to Canada like the real estate was booming right And like you know you start investing your first house and then you go into your like you know investment property one two and so on so forth But then at one point in time I realized that you know this game is not going to go forever Like you know so while I was lucky for a number of years and I made some good equity but at the same time you know you could be you know that as soon as that wind starts blowing the other way you could be on the receiving end of that And I think one of the best books
+speaker_1: When I moved to Canada like the real estate was booming right And like you know you start investing your first house and then you go into your like you know investment property one two and so on so forth But then at one point in time I realized that you know this game is not going to go forever Like you know so while I was lucky for a number of years and I made some good equity but at the same time you know you could be you know that as soon as that wind starts blowing the other way you could be on the receiving end of that And I think one of the best books
 
 
 I kind of you know which really changed my mind on this whole household debt and investment scenario is basically a book called The House of Debt by Atif Mia and Amr Sufi I mean Atif Mia is probably very well known in Pakistan because he often comments on the economic situation in the country and so on But that book is amazing because they actually went back and analyzed exactly what happened in the 2008 crisis which I know like now there have been a lot of movies made on that
@@ -335,24 +277,16 @@ whole subprime crisis that happened with the real estate in the US and all of th
 
 because the moment the interest rates will start going up or something else happens around the world which is not favorable for the housing market then you could be in a very tough tough situation So And so nowadays
 
-### Speaker 2
-
-And nowadays yeah and nowadays not only investments you again as I said before the time is very important And I would definitely recommend this book I havent read this completely Ive Ive been contemplating on using this one how to get paid for what you know And this is very important because we undermine ourselves for what the for for the knowledge that we have So it is important whatever knowledge you have you should get it out because nowadays social media is such a powerful tool You can do anything with this tool And there are there are there is always
+speaker_2: And nowadays yeah and nowadays not only investments you again as I said before the time is very important And I would definitely recommend this book I havent read this completely Ive Ive been contemplating on using this one how to get paid for what you know And this is very important because we undermine ourselves for what the for for the knowledge that we have So it is important whatever knowledge you have you should get it out because nowadays social media is such a powerful tool You can do anything with this tool And there are there are there is always
 
 
 an audience for you so you you one should not uh like undermine themself saying that who will listen to me but there is an audience all the time for anybody uh anyone who is providing any kind of uh any kind of value for that
 
-### Speaker 1
+speaker_1: I think monetizing one skill is is a whole other topic I think Im going to schedule a separate podcast with you probably in the new new year now because now we are approaching the end of the year So so I mean it was great to talk to you Wally as usual Its its a pleasure And thanks for sharing all the valuable knowledge for the fantastic conversation I want to wish you and family happy new year in advance And then lets lets stay in touch And yeah Im sure this podcast will be very
 
-I think monetizing one skill is is a whole other topic I think Im going to schedule a separate podcast with you probably in the new new year now because now we are approaching the end of the year So so I mean it was great to talk to you Wally as usual Its its a pleasure And thanks for sharing all the valuable knowledge for the fantastic conversation I want to wish you and family happy new year in advance And then lets lets stay in touch And yeah Im sure this podcast will be very
-
-### Speaker 2
-
-Topic yes
+speaker_2: Topic yes
 
 
 Yeah
 
-### Speaker 1
-
-helpful for the audience
+speaker_1: helpful for the audience

@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,10 +30,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And in your case you know its still working to this day because youre still thinking about him Uh
 
-And in your case you know its still working to this day because youre still thinking about him Uh
-
-### Speaker 2 · Speaker 2
-
-Absolutely Yeah And also you said get your hands dirty Yeah Do it Experience as much as you can practice as much as you can Thats the only advice Theres no other way Whatever you want to do if you want to write if you want to to sing if you want to dance if you want to learn English if you whatever you want to do get your hands dirty Thats the only way Theres no shortcut no no everything You got to do it Thats thats
+speaker_2: Absolutely Yeah And also you said get your hands dirty Yeah Do it Experience as much as you can practice as much as you can Thats the only advice Theres no other way Whatever you want to do if you want to write if you want to to sing if you want to dance if you want to learn English if you whatever you want to do get your hands dirty Thats the only way Theres no shortcut no no everything You got to do it Thats thats

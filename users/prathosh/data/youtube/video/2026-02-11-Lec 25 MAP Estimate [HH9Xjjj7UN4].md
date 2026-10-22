@@ -6,14 +6,15 @@ date: '2026-02-11'
 duration: 38:24
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 25 MAP Estimate
 
 ## Transcript
 
-
-Welcome to this lecture where we will
+speaker_1: Welcome to this lecture where we will
 discuss well continue from wherever we
 had stopped the last time So we were
 looking at density estimation

@@ -17,8 +17,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -26,18 +26,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: but youre not German obviously And uh where are you from
 
-but youre not German obviously And uh where are you from
+speaker_2: Yeah Im Im from Brazil I grew up in Rio de Janeiro And uh yeah Ive been in Europe for 20 years My mom is is comes from a German family And uh so I like German culture and language is not completely new for me I remember my grandmother you know when she was upset she immediately turned to German
 
-### Speaker 2 · Speaker 2
+speaker_1: Talking about languages you know like thats Yeah yeah
 
-Yeah Im Im from Brazil I grew up in Rio de Janeiro And uh yeah Ive been in Europe for 20 years My mom is is comes from a German family And uh so I like German culture and language is not completely new for me I remember my grandmother you know when she was upset she immediately turned to German
-
-### Speaker 1 · Speaker 1
-
-Talking about languages you know like thats Yeah yeah
-
-### Speaker 2 · Speaker 2
-
-Youre angry when youre upset you go straight to your native language which is yeah absolutely
+speaker_2: Youre angry when youre upset you go straight to your native language which is yeah absolutely

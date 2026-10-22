@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Ouch. Distress damages your memory.
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Did you know that if you're in a rude, hostile, toxic environment, you lose about 17% of your working memory? Think about that. And see if you can remember it.
-
+speaker_1: Did you know that if you're in a rude, hostile, toxic environment, you lose about 17% of your working memory? Think about that. And see if you can remember it.
 
 ## Comments (1)
 

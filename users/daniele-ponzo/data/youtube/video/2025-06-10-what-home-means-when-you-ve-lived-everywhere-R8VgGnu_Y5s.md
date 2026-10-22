@@ -10,7 +10,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,6 +18,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-you know this idea of home going back home sometimes people ask uh I think I stopped thinking in terms of that I think home is where I mean things are familiar Youre familiar with the place and you feel good in that place So it is uh you stop thinking in terms of oh my city or even my country is you can be in very different locations for many years and and just feel pretty at home
+speaker_1: you know this idea of home going back home sometimes people ask uh I think I stopped thinking in terms of that I think home is where I mean things are familiar Youre familiar with the place and you feel good in that place So it is uh you stop thinking in terms of oh my city or even my country is you can be in very different locations for many years and and just feel pretty at home

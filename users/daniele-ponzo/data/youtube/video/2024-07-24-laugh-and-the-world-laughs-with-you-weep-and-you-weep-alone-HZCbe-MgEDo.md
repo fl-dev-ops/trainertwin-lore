@@ -24,8 +24,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -33,29 +33,17 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Well you know like
 
-Well you know like
+speaker_2: Yeah that was good yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: The next the next question is can you tell us the joke
 
-Yeah that was good yeah
+speaker_2: No No that was way way long I have no idea I just remember there was a that was uh that was my turning point I remember like having people laughing and uh and I appreciated that so much
 
-### Speaker 1 · Speaker 1
-
-The next the next question is can you tell us the joke
-
-### Speaker 2 · Speaker 2
-
-No No that was way way long I have no idea I just remember there was a that was uh that was my turning point I remember like having people laughing and uh and I appreciated that so much
-
-### Speaker 1 · Speaker 1
-
-Too too silly
+speaker_1: Too too silly
 
 
 Yes absolutely It is as we as we said it is empowering and it gives you that sort of extra confidence Then you can ultimately you can communicate on different levels you know So because making people laugh means connecting with people on a different level And yeah things start changing
 
-### Speaker 2 · Speaker 2
-
-Exactly
+speaker_2: Exactly

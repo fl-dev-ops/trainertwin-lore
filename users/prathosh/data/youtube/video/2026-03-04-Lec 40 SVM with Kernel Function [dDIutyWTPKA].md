@@ -6,14 +6,15 @@ date: '2026-03-04'
 duration: 29:52
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 40 SVM with Kernel Function
 
 ## Transcript
 
-
-Welcome to this class So now let lets
+speaker_1: Welcome to this class So now let lets
 finally there is one final case that we
 have to look at SVM
 with

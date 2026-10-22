@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,18 +30,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: But probably the most important and most difficult skill as a leader that I had to learn was a language of storytelling
 
-But probably the most important and most difficult skill as a leader that I had to learn was a language of storytelling
+speaker_2: Ah
 
-### Speaker 2 · Speaker 2
+speaker_1: And thats not something that teach you in the schools thats not something that is a part of corporate onboarding training and so on is to be comfortable not only talking about the business uh depending on who youre talking its very different when youre talking to you know chief finance officer versus a manager or business analyst Um but its also about how to convey messages and um how to present a technology that was used to be just called into an impact value and how to shape that Even if if youre designing an offers for example or youre designing product or services theres a challenge theres a hero story there is um there deep dive into the technology and benefit what it takes
 
-Ah
-
-### Speaker 1 · Speaker 1
-
-And thats not something that teach you in the schools thats not something that is a part of corporate onboarding training and so on is to be comfortable not only talking about the business uh depending on who youre talking its very different when youre talking to you know chief finance officer versus a manager or business analyst Um but its also about how to convey messages and um how to present a technology that was used to be just called into an impact value and how to shape that Even if if youre designing an offers for example or youre designing product or services theres a challenge theres a hero story there is um there deep dive into the technology and benefit what it takes
-
-### Speaker 2 · Speaker 2
-
-No Sure Yeah
+speaker_2: No Sure Yeah

@@ -9,8 +9,8 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,34 +18,18 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So now Ekaterina already opened her own real estate agency and that would be kind of average if she would be the one whos opened agency in Dubai because its kind of easy thing to do But she opened her real estate company in Riyadh where as we sit in December 2025 freehold is not yet announced So international investors are not able to properly own the property if you dont have the visa and specific conditions and stuff Residence This will be announced in January So Ekaterina is now not only kind of on the front of the innovators but shes going to be running that movement and that wave of the first investors the first expats who are investing in Saudi real estate So basically your company was more or less directly to your face telling you you have to wait
 
-So now Ekaterina already opened her own real estate agency and that would be kind of average if she would be the one whos opened agency in Dubai because its kind of easy thing to do But she opened her real estate company in Riyadh where as we sit in December 2025 freehold is not yet announced So international investors are not able to properly own the property if you dont have the visa and specific conditions and stuff Residence This will be announced in January So Ekaterina is now not only kind of on the front of the innovators but shes going to be running that movement and that wave of the first investors the first expats who are investing in Saudi real estate So basically your company was more or less directly to your face telling you you have to wait
+speaker_2: You have to wait
 
-### Speaker 2 · Speaker 2
+speaker_1: Were not going to pay you
 
-You have to wait
+speaker_2: We will pay you but we dont know when and we cannot commit to any date
 
-### Speaker 1 · Speaker 1
+speaker_1: So they wanted you to keep closing deals for them
 
-Were not going to pay you
+speaker_2: Yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: Hoping that eventually at some point theyre going to pay you
 
-We will pay you but we dont know when and we cannot commit to any date
-
-### Speaker 1 · Speaker 1
-
-So they wanted you to keep closing deals for them
-
-### Speaker 2 · Speaker 2
-
-Yeah
-
-### Speaker 1 · Speaker 1
-
-Hoping that eventually at some point theyre going to pay you
-
-### Speaker 2 · Speaker 2
-
-Bring more deals and from those deals we will start paying you what we owe you That was the message But you dont have a guarantee that they will pay you from the new ones as well Youre just increasing the debt
+speaker_2: Bring more deals and from those deals we will start paying you what we owe you That was the message But you dont have a guarantee that they will pay you from the new ones as well Youre just increasing the debt

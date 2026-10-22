@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,22 +30,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Yeah if you see a big task ahead of you its scary Its like oh I have to climb that mountain No way But you know every mountain starts with a with a single step and then eventually you might get to the to the top So this is really precious advice Thank you Maria
 
-Yeah if you see a big task ahead of you its scary Its like oh I have to climb that mountain No way But you know every mountain starts with a with a single step and then eventually you might get to the to the top So this is really precious advice Thank you Maria
+speaker_2: Yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: I think that is that is that is something that a lot of people will relate to and uh yeah and this is something again that I always tell and I always see uh you know okay I have to do this big thing Yeah start small and go little by little Dont rush Back to the idea of patient I Id say
 
-Yeah
+speaker_2: Yeah and it applies to so many fields Its like everywhere Either languages or math or programming whatever Its the same thing
 
-### Speaker 1 · Speaker 1
-
-I think that is that is that is something that a lot of people will relate to and uh yeah and this is something again that I always tell and I always see uh you know okay I have to do this big thing Yeah start small and go little by little Dont rush Back to the idea of patient I Id say
-
-### Speaker 2 · Speaker 2
-
-Yeah and it applies to so many fields Its like everywhere Either languages or math or programming whatever Its the same thing
-
-### Speaker 1 · Speaker 1
-
-Absolutely
+speaker_1: Absolutely

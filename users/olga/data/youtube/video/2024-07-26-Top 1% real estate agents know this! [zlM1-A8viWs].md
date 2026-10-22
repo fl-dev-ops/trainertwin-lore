@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Im willing to do whatever it takes for as long as it takes This is important guys because we all get used to dopamine hits quick results quick fix The real estate is a little bit different right Its at least 6 months of going through the pain right Learning pushing creating relationship with the client and then the pendulum gonna swing and then you will have results If it swings faster thats fine but youll still have to push it
+speaker_1: Im willing to do whatever it takes for as long as it takes This is important guys because we all get used to dopamine hits quick results quick fix The real estate is a little bit different right Its at least 6 months of going through the pain right Learning pushing creating relationship with the client and then the pendulum gonna swing and then you will have results If it swings faster thats fine but youll still have to push it

@@ -6,14 +6,15 @@ date: '2026-03-04'
 duration: 47:44
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 42 ERM on Neural Networks and Error Backpropagation
 
 ## Transcript
 
-
-Okay welcome everyone Lets look at uh
+speaker_1: Okay welcome everyone Lets look at uh
 erm on neural networks
 So we start with uh x in RD and y in
 some rk

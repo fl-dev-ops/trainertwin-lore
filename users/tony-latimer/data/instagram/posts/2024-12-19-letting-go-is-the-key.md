@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Letting go is the key to effective coaching. 🗝️ When we first start our coa
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-You have to let go. When we first get trained, when we're doing our ACC, we're told you've got— the hard bit is you've got to let go of being the problem solver. It's not your job to solve their problems. You've got to let them solve it. Your job is to guide their thinking, to evoke their thinking. Now, that's a hard one because people came to you for coaching typically because they've got some problems that need solving. If you can let go of the need for the client's problem to get solved, It will get solved much more easily. You have to just let go. That's a mental shift.
-
+speaker_1: You have to let go. When we first get trained, when we're doing our ACC, we're told you've got— the hard bit is you've got to let go of being the problem solver. It's not your job to solve their problems. You've got to let them solve it. Your job is to guide their thinking, to evoke their thinking. Now, that's a hard one because people came to you for coaching typically because they've got some problems that need solving. If you can let go of the need for the client's problem to get solved, It will get solved much more easily. You have to just let go. That's a mental shift.

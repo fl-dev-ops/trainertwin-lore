@@ -14,8 +14,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -23,22 +23,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So mentoring is very close to my heart I enjoy talking to young founders to navigate the challenges of building and scaling something new So come back to the original question
 
-So mentoring is very close to my heart I enjoy talking to young founders to navigate the challenges of building and scaling something new So come back to the original question
+speaker_2: Yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: If you ask me
 
-Yeah
+speaker_2: Ive been talking a lot Im just Im joking Its great
 
-### Speaker 1 · Speaker 1
-
-If you ask me
-
-### Speaker 2 · Speaker 2
-
-Ive been talking a lot Im just Im joking Its great
-
-### Speaker 1 · Speaker 1
-
-Okay so Ill if somebody asks me what do I do I simply tell them I connect
+speaker_1: Okay so Ill if somebody asks me what do I do I simply tell them I connect

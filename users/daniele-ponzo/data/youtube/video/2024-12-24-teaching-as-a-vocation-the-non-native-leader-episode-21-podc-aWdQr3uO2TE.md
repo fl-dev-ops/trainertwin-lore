@@ -22,8 +22,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -31,10 +31,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: it it honestly becomes like a vocation of yours you know if you feel like youre doing something really good really important for the lives of these children then um I I wouldnt feel you know um overwhelmed by it I would I would feel like you know Im Im in a quest for something Yeah Its a beautiful thing to say
 
-it it honestly becomes like a vocation of yours you know if you feel like youre doing something really good really important for the lives of these children then um I I wouldnt feel you know um overwhelmed by it I would I would feel like you know Im Im in a quest for something Yeah Its a beautiful thing to say
-
-### Speaker 2 · Speaker 2
-
-Oh yeah yeah And uh and I love the the quest thing because it means that you stay curious and you want to explore and and you want to learn So its not like okay I need to get to my destination Its uh an ongoing journey Uh and with children its uh thats the only way So I strongly agree with you And uh and thats why it is a great its a complete different but its a great experience So its completely different from working with other groups
+speaker_2: Oh yeah yeah And uh and I love the the quest thing because it means that you stay curious and you want to explore and and you want to learn So its not like okay I need to get to my destination Its uh an ongoing journey Uh and with children its uh thats the only way So I strongly agree with you And uh and thats why it is a great its a complete different but its a great experience So its completely different from working with other groups

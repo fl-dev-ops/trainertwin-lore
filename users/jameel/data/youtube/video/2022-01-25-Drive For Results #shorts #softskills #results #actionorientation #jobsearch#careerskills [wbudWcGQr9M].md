@@ -9,7 +9,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-SOFT SKILLS MODEL LEVEL2 DRIVE FOR RESULTS Motivated by success and passlonate about working and Subscrlbe to the Youtube Channel In the profile to learn more about thls skill
+speaker_1: SOFT SKILLS MODEL LEVEL2 DRIVE FOR RESULTS Motivated by success and passlonate about working and Subscrlbe to the Youtube Channel In the profile to learn more about thls skill

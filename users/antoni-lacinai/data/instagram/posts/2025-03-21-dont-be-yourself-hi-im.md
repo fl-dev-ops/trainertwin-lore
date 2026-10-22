@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -21,7 +21,4 @@ Hi, I'm Antoni and I make communication easy
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Don't be yourself. Absolutely not. I am myself when I'm grumpy, irritated, tired, angry. Is that what I want to show to my colleagues and my customers? No. So what I say to them is, fine, be your authentic self plus 10%. Bring your A game when you meet people. Or like one of my students says, it's about how you show up. How do you show up when you meet a colleague, when you meet a customer or a partner or someone else? Don't be yourself. Be yourself plus 10%.
-
+speaker_1: Don't be yourself. Absolutely not. I am myself when I'm grumpy, irritated, tired, angry. Is that what I want to show to my colleagues and my customers? No. So what I say to them is, fine, be your authentic self plus 10%. Bring your A game when you meet people. Or like one of my students says, it's about how you show up. How do you show up when you meet a colleague, when you meet a customer or a partner or someone else? Don't be yourself. Be yourself plus 10%.

@@ -6,14 +6,15 @@ date: '2026-02-11'
 duration: 29:07
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 26 Parzen Window
 
 ## Transcript
 
-
-Okay So lets move on
+speaker_1: Okay So lets move on
 The last family of uh density estimation
 techniques uh that I would discuss in
 this course are what are called as the

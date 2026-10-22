@@ -8,10 +8,10 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 
@@ -20,9 +20,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-And Im creating content on LinkedIn and YouTube LinkedIn have close to 60000 followers YouTube I have around 21000 subscribers Both the places I create content about front end and interview preparation I mentor people For last two and a half years Ive been active mentor I might have mentored around 50 plus people primarily people reach out to me with the intention of job change some of my mentees are there on the call as well so where i help them to basically upskill and change the job im a fairly successful mentor in terms of the job opportunities i run cohorts so where i collect
+speaker_1: And Im creating content on LinkedIn and YouTube LinkedIn have close to 60000 followers YouTube I have around 21000 subscribers Both the places I create content about front end and interview preparation I mentor people For last two and a half years Ive been active mentor I might have mentored around 50 plus people primarily people reach out to me with the intention of job change some of my mentees are there on the call as well so where i help them to basically upskill and change the job im a fairly successful mentor in terms of the job opportunities i run cohorts so where i collect
 
 
 group like minded people by personally screening them and forming a small group of people and train them for the front end interview preparation and cohort one we ran from January 10th to March 6th cohort two we are starting next Saturday just as were beginning of the session Im just sharing the my code information on the chat section whoever is interested take a look if youre someone whos seriously aspiring for interview preparation the code might be useful for you if time permits at the end also I try to speak a little bit about the code
@@ -117,13 +115,9 @@ methods they used to know mathematics very well they used to read the IEEE paper
 
 You can your interest in product BCD also Those suggestions were not good if you remember correct So most of the AML projects were not successful at that point in time But eventually what started happening current ARIF is here right None of us here let us say have not written a single line of ARML code
 
-### Speaker 2
+speaker_2: also
 
-also
-
-### Speaker 1
-
-Without any problem now we all will be able to write an algorithm by implementing an IEEE paper in matter of few minutes It may not be production ready we may have to put some effort and build it but we will be definitely be able to do it correct And 8000 people which whatever meta laid off recently if you observe the closing numbers I am very active on Twitter I see people their own post about the being laid off right And lot of people who are recently laid off they were all who are working on this very exciting sort of a general things
+speaker_1: Without any problem now we all will be able to write an algorithm by implementing an IEEE paper in matter of few minutes It may not be production ready we may have to put some effort and build it but we will be definitely be able to do it correct And 8000 people which whatever meta laid off recently if you observe the closing numbers I am very active on Twitter I see people their own post about the being laid off right And lot of people who are recently laid off they were all who are working on this very exciting sort of a general things
 
 
 in the like generative AI models They are someone who are working in the natural language processing or deeper generative implementation correct So those are the people who are already working in the generative are getting laid off So that means just because you switch to AI ML there is no guarantee that you are going to have a very long career Same goes for whether you switch to the back end development or full stack development So my suggestion would be if you are someone who is very seriously interested in changing the job in next 4 to 6 months next 4 to 6 months is where you want to really
@@ -137,16 +131,12 @@ front end developer working here for few years then please try to transition you
 
 you have if org decides to cut the people they are gonna cut it okay so do not consider learning anything new particularly just because of the jobs sake if you are interested in learning please learn everything that you want to learn just because you are gonna have a longer career or longer job by learning anything new that may not be true okay now Ill take a pause if you have anybody has a question like please raise your hand and we can take some question before I go to the next set of question that I want to answer yeah yeah Muthuraj please go ahead
 
-### Speaker 3
-
-I think its a good question to ask you when you have the 10 years of experience so Im have I have five years of experience in front end development currently Im using the corporate for my development almost everything it is done by corporate only so my view is instead of switching to the full stack or ai ml we should understand the architecture of the front end and the back end both so when you know the architecture you can come on the ai and it will do the job so its the most demand skill i
+speaker_3: I think its a good question to ask you when you have the 10 years of experience so Im have I have five years of experience in front end development currently Im using the corporate for my development almost everything it is done by corporate only so my view is instead of switching to the full stack or ai ml we should understand the architecture of the front end and the back end both so when you know the architecture you can come on the ai and it will do the job so its the most demand skill i
 
 
 could see in next two or three years so if we are learning the core concept and architectures it may be help you to understand the system then you can switch according to the market so this is my point so whats your thoughts on this
 
-### Speaker 1
-
-Sure Muthuraj So how I say is like there is a concept called generalist See we all consider ourselves as a specialist to be honest right Like we all somebody who is very good at front end development somebody think they are very good at back end development etc So we are from the segment where we feel we are some expert in a domain Slowly we might move to an area where we all start becoming generalist like what Muthuraj is suggesting That means you are at a company X and you are taken out from company X and you are moved to company Y You are in a company X
+speaker_1: Sure Muthuraj So how I say is like there is a concept called generalist See we all consider ourselves as a specialist to be honest right Like we all somebody who is very good at front end development somebody think they are very good at back end development etc So we are from the segment where we feel we are some expert in a domain Slowly we might move to an area where we all start becoming generalist like what Muthuraj is suggesting That means you are at a company X and you are taken out from company X and you are moved to company Y You are in a company X
 
 
 you are taken and you are moved into put into company Y where you have a very minimal context okay like for example you are taken from Microsoft put into Google in the new project how quickly you will be able to understand everything and prompt the system well so that like you are productive at the as early as possible I am a firm believer we enter into this generalist phase who are basically neither front end developer nor back end developers they are someone who can understand the product project and product context very quickly and
@@ -187,13 +177,9 @@ and search a word Everywhere the where the wherever that word is there it immedi
 
 irrespective of like there is one one one static code which is able to basically handle all these variations correct how basically book measure is able to do that
 
-### Speaker 2
+speaker_2: In the tradition
 
-In the tradition
-
-### Speaker 1
-
-So or how do you build something like a code sandbox how do you build something very similar to
+speaker_1: So or how do you build something like a code sandbox how do you build something very similar to
 
 
 like Google anti gravity which is like online also you could code right So this all of this comes into category of actually thick front end development and building something in the thick front end development like Figma like building something thick front end development is something that I would I would encourage everyone in the room to actually work start working on If you think you want to work on the front end development itself please spend time understanding how thick thick clients or the functionality heavy sort of a front end developments will work ok So I do not say learn React Vue or Angular any
@@ -309,37 +295,21 @@ So next question like before I go to the next question any doubts on the things 
 
 Yes yeah uh Muttun Rajya please
 
-### Speaker 3
+speaker_3: Yeah so the the classes will be like a Saturday and Sunday like the timing what is the timing actually
 
-Yeah so the the classes will be like a Saturday and Sunday like the timing what is the timing actually
+speaker_1: So yeah preferably in the morning Muthuraj once we finalize on all the participants we poll and identify the time Usually its in 8 to 11 last court ran from 8 am to 11 am or 11 am to 1 pm Anywhere where lot of participants are comfortable with Muthuraj
 
-### Speaker 1
+speaker_3: So you have a two slots
 
-So yeah preferably in the morning Muthuraj once we finalize on all the participants we poll and identify the time Usually its in 8 to 11 last court ran from 8 am to 11 am or 11 am to 1 pm Anywhere where lot of participants are comfortable with Muthuraj
+speaker_1: Nay no there is only one slot whatever the slot that majority of the participants should agree 8 to 10 8 to 10 or 8 to 11 or 11 to 1 whatever people are most comfortable with I am someone who
 
-### Speaker 3
+speaker_4: Oh
 
-So you have a two slots
+speaker_1: prefer an early morning session like 8 to 11 so that people get the 8 to 10 so that people get rest of their time for studying or any other personal activities
 
-### Speaker 1
+speaker_3: So like if I I agreed for the 11 to 1 okay but most of the people are agreed for another time because I agreed because I have some work time personal ones so how I can
 
-Nay no there is only one slot whatever the slot that majority of the participants should agree 8 to 10 8 to 10 or 8 to 11 or 11 to 1 whatever people are most comfortable with I am someone who
-
-### Speaker 4
-
-Oh
-
-### Speaker 1
-
-prefer an early morning session like 8 to 11 so that people get the 8 to 10 so that people get rest of their time for studying or any other personal activities
-
-### Speaker 3
-
-So like if I I agreed for the 11 to 1 okay but most of the people are agreed for another time because I agreed because I have some work time personal ones so how I can
-
-### Speaker 1
-
-All sessions will be recorded so you can watch the recording in that case ah Muthurathasan yeah
+speaker_1: All sessions will be recorded so you can watch the recording in that case ah Muthurathasan yeah
 
 
 Anybody has any other question
@@ -386,16 +356,12 @@ I do not know somebody is just joining now by that time we are trying to almost 
 
 Yeah please go ahead
 
-### Speaker 4
-
-Uh yeah hi I just wanted to ask on that thing uh that you told that uh the JavaScript object is saying they are asking from different perspectives yeah so like uh can you give a like a little tip on how can uh we prepare for that because like as I think uh these perspectives will not come to my mind like uh agreed so how how does work
+speaker_4: Uh yeah hi I just wanted to ask on that thing uh that you told that uh the JavaScript object is saying they are asking from different perspectives yeah so like uh can you give a like a little tip on how can uh we prepare for that because like as I think uh these perspectives will not come to my mind like uh agreed so how how does work
 
 
 We all agree with that
 
-### Speaker 1
-
-That is a very good question Gauri Like I say this very commonly Now it is very easy to get an answer to a question but very difficult to get the right question We will not be able to get the right question because sometimes we will not be skilled enough or sometimes the domain itself is very new to us The best example is like rocket science Probably both of us will not be able to ask the right questions around rocket science to charge Gauri because we both do not know So to answer your question how you start getting to know information about that Gauri is one
+speaker_1: That is a very good question Gauri Like I say this very commonly Now it is very easy to get an answer to a question but very difficult to get the right question We will not be able to get the right question because sometimes we will not be skilled enough or sometimes the domain itself is very new to us The best example is like rocket science Probably both of us will not be able to ask the right questions around rocket science to charge Gauri because we both do not know So to answer your question how you start getting to know information about that Gauri is one
 
 
 you can start looking you can you have to slowly start building this temperament of why Temperament of why I mean is like do not accept the things as is you should start asking question to yourself like for example React uses this stack reconciler or reconciliation algorithm correct for basically comparing between real DOM virtual DOM and finally update the DOM So whenever we look at the concept looks very fancy how it is comparing and everything Ask yourself is it something really making React fast
@@ -415,32 +381,20 @@ then 2 then 3 correct and stack 3 third one will go out first then second then 1
 
 And then if there is a lot of time for your interpretation you can like learn a lot of this by yourself Otherwise take some external help You can connect with some good mentor or probably you can keep extensively give example to Jana and ask her to give you topic specific such questions that also should help
 
-### Speaker 4
+speaker_4: Okay thanks
 
-Okay thanks
+speaker_1: Anybody else any other questions Yeah Yomesh is here ahi Yomesh
 
-### Speaker 1
+speaker_2: How are you
 
-Anybody else any other questions Yeah Yomesh is here ahi Yomesh
+speaker_1: Yeah Im good Yamesh I think people know I think Yamesh is from founded from David Olstek happy you are here Yamesh yeah please tell me
 
-### Speaker 2
-
-How are you
-
-### Speaker 1
-
-Yeah Im good Yamesh I think people know I think Yamesh is from founded from David Olstek happy you are here Yamesh yeah please tell me
-
-### Speaker 2
-
-I have got a question uh so regarding structured fronted interview preparation road map so I get this question a lot and you must be getting it too but people ask that how much time like a lets say a normal engineer working on a team how much time should they dedicate for
+speaker_2: I have got a question uh so regarding structured fronted interview preparation road map so I get this question a lot and you must be getting it too but people ask that how much time like a lets say a normal engineer working on a team how much time should they dedicate for
 
 
 this roadmap preparation like call day and in your time like in your view like in one month two month uh in what time frame are someone is ready or to be out interviews how would you answer this
 
-### Speaker 1
-
-Yeah yeah very very commonly I also get this question I put this way after I studying a lot for my entry preparation and Im mentoring quite a few people I realize like a minimum of like if you can put 25 hours of preparation on anything not necessarily front end lets say you want to do gymming lets say you want to learn swimming lets say you want to learn cricket anything if you are seriously can put 25 hours in a week considering all of us here are working most of us at least if you could dedicate like 1 to 2 hours in a day and 5 hours during the weekend collectively it can come close to 20 to 25 hours
+speaker_1: Yeah yeah very very commonly I also get this question I put this way after I studying a lot for my entry preparation and Im mentoring quite a few people I realize like a minimum of like if you can put 25 hours of preparation on anything not necessarily front end lets say you want to do gymming lets say you want to learn swimming lets say you want to learn cricket anything if you are seriously can put 25 hours in a week considering all of us here are working most of us at least if you could dedicate like 1 to 2 hours in a day and 5 hours during the weekend collectively it can come close to 20 to 25 hours
 
 
 If you can dedicate that much time honestly and assuming you are someone who is actively working on front end so you have very basic idea then I believe from someone who already understand front end development to become an interview ready it is a journey of around 6 to 8 weeks that means 45 to 60 days 1 point 5 to 2 months depending on how much time like how skilled you are how much effort you put and all of that So if you if you cannot spend 25 hours in a week for whatever reason like you are so occupied you are traveling you do not have
@@ -451,24 +405,16 @@ time Then you may have to do the double of it like if somebody who is putting 25
 
 Alright Anybody else any other question
 
-### Speaker 2
+speaker_2: All right thank you
 
-All right thank you
+speaker_1: Thank you all may I will go to the next one yeah please please with the party
 
-### Speaker 1
-
-Thank you all may I will go to the next one yeah please please with the party
-
-### Speaker 2
-
-Like um
+speaker_2: Like um
 
 
 The difficulties of having the job like we are working on different stack and getting back to this stack like if we have some gap between yeah like suppose I could not study for a week or two weeks because of some certain thing then again how we can come back to this end like learning like we are not like suppose Im working on different stack I wont get into this like that is the problem
 
-### Speaker 1
-
-The problem with that if I understand is like in company you work on a different thing for interview preparation you are studying slightly different things and for one week or so probably you are not able to study something that you want to prepare for interview how do you handle such scenario correct See I I I have a rule called like zero productive days okay So unless you are truly on vacation or something that you decided not to study anything ensure you do not have a zero productive days Zero productive days means a day where you did not do anything that is productive for the goal that you have
+speaker_1: The problem with that if I understand is like in company you work on a different thing for interview preparation you are studying slightly different things and for one week or so probably you are not able to study something that you want to prepare for interview how do you handle such scenario correct See I I I have a rule called like zero productive days okay So unless you are truly on vacation or something that you decided not to study anything ensure you do not have a zero productive days Zero productive days means a day where you did not do anything that is productive for the goal that you have
 
 
 you want to preparing for interview you are very much stuck in your office work But definitely you will get at least 15 to 20 minutes to study one topic in that day So if you can really do that then you will not lose out of the touch fully Rudra Something at least you are understanding and you are staying in touch But if you lose 1 to 2 weeks completely some of it could be because definitely because of the laziness if you are not able to study and dedicate anything And then again start becoming new thing for you where preparation start become very uphill battle So unless it is something unavoidable 100 percent unavoidable
@@ -527,9 +473,7 @@ electric electric vehicles now to man to manufacture electric vehicle i dont hav
 
 But in general it may not all of us may not be getting affected because of this is what my belief Okay that was my last topic for the day last question for the day Before we end the call anybody has any question not necessarily for Jnanayi anything on the front end carrier Any doubts you have you are free to ask me You can just raise your hand Yes Santosh please go ahead
 
-### Speaker 4
-
-Maybe like first six months Im actively looking for job in the market Its like I have cleared 10 plus companies like technical rounds but somewhere
+speaker_4: Maybe like first six months Im actively looking for job in the market Its like I have cleared 10 plus companies like technical rounds but somewhere
 
 
 I uh failed to get it right
@@ -537,9 +481,7 @@ I uh failed to get it right
 
 like maybe like recently I cleared ITC and FP pro like both like went to all self discussion everything even I got some proposed joining date also but later like they they lost the client again my offer got revoked so similar situation I am facing like almost two three months yeah and same thing is happening so just I wanted to know like how I can write up like resolve these things
 
-### Speaker 1
-
-So see this if you are if you are able to clear 10 technical interviews to begin with that is actually something very good ok because in the current situation where people are struggling to get so many interviews So if you are getting them and you are able to clear which is very good ok but and once my director told this to me and I keep repeating it to my mentee See there are two things in life things which you can control things which you can influence
+speaker_1: So see this if you are if you are able to clear 10 technical interviews to begin with that is actually something very good ok because in the current situation where people are struggling to get so many interviews So if you are getting them and you are able to clear which is very good ok but and once my director told this to me and I keep repeating it to my mentee See there are two things in life things which you can control things which you can influence
 
 
 Things which you cannot control do not try to control it Things which you can influence things which you can only influence influence it again do not try to control it For example now the whatever the job market company is losing the job company is losing the project and other things fully not there in your control Santosh Even if you are giving to very premium companies also this can happen Only thing that is in your control is be very interview ready And if you are able to clear 10 technical interview Santosh that is very good Probably the 11th one also you will be able to clear So all I suggest is if all
@@ -547,24 +489,16 @@ Things which you cannot control do not try to control it Things which you can in
 
 All these uncertainties which are not there in your control if because of that you are losing a job then we cannot do anything about it Just like keep aspiring for more and more good jobs somewhere it would turn out Santosh If you had a problem the other way not getting calls or not able to clear the interview there could have been some answers but it is merely little bit of unluck like the current situation right
 
-### Speaker 2
-
-I believe so like most of the times like most companies are like not having in house like a yes everyone is outsourcing that is one phase like we clear the direct interview of the companies but we may not fail in the client end maybe because of the availability or maybe the area of experience and all so that is where I faced a lot of Im facing the yes problems yes but again like in the interviews also like we may not expect the same like somebody asks so many things
+speaker_2: I believe so like most of the times like most companies are like not having in house like a yes everyone is outsourcing that is one phase like we clear the direct interview of the companies but we may not fail in the client end maybe because of the availability or maybe the area of experience and all so that is where I faced a lot of Im facing the yes problems yes but again like in the interviews also like we may not expect the same like somebody asks so many things
 
 
 from front end I what I thought like even mainly they are not asking the AI things more but
 
-### Speaker 1
+speaker_1: Thanks Sumanth and Sushant
 
-Thanks Sumanth and Sushant
+speaker_4: And again
 
-### Speaker 4
-
-And again
-
-### Speaker 3
-
-generically see nowadays we are the way of working it is completely changed in the way of AI so if you take one year back we are not using prompts and everything correct so daily even for defects also for analytics everything
+speaker_3: generically see nowadays we are the way of working it is completely changed in the way of AI so if you take one year back we are not using prompts and everything correct so daily even for defects also for analytics everything
 
 
 Our company also developed Figma to audit code it is almost giving sixty per cent of the
@@ -572,24 +506,16 @@ Our company also developed Figma to audit code it is almost giving sixty per cen
 
 This is also almost it has accuracy up to 60 per cent Got it So how we should be ready Anyhow layoffs will happen that is not in our control So whatever it is cut also what can we do like lets say
 
-### Speaker 1
+speaker_1: Agreed Your question is basically so much of general
 
-Agreed Your question is basically so much of general
-
-### Speaker 3
-
-The question is basically so much of Java
+speaker_3: The question is basically so much of Java
 
 
 So what are the things we can do from our end what which is in our control so that lets say in layman terms happens if we hit it the reason also like our clients they are making their own global delivery centers in India that is the case with the most like Lloyd banks whatever it is Tushar so they are making their own centers they dont need any service from the
 
-### Speaker 4
+speaker_4: What we have to do as a ready front end engineer when the opportunity comes how to grab it and what are the things we can improve ourselves
 
-What we have to do as a ready front end engineer when the opportunity comes how to grab it and what are the things we can improve ourselves
-
-### Speaker 1
-
-So my suggestion Suresh is as you clearly told I think all of us here are building lot of code using the JNI and let us start embracing it Let us see probably we may not go back to an era where we will not use JNI for coding that is something we should all accept like there is no pre calculator era anymore like nobody is we are not going to go back to that era So we are going to continue to code using JNI Maybe there could be token limit but we still continue to code with JNI So let us we have to start embracing it use it as much as possible while coding with vigilantly that is something we cannot avoid correct
+speaker_1: So my suggestion Suresh is as you clearly told I think all of us here are building lot of code using the JNI and let us start embracing it Let us see probably we may not go back to an era where we will not use JNI for coding that is something we should all accept like there is no pre calculator era anymore like nobody is we are not going to go back to that era So we are going to continue to code using JNI Maybe there could be token limit but we still continue to code with JNI So let us we have to start embracing it use it as much as possible while coding with vigilantly that is something we cannot avoid correct
 
 
 But what I would say be so good in doing whatever you are doing So if anybody have any question in that particular thing they should be able to you are not just a front end developer you are more like who understand the problem end to end and solving it ok So you you might have definitely know somebody like whatever I am saying in your team whom you respect a lot because they are not someone who is just coding but if you reach out to them you will be able to get information about everything and they are the person who like everybody wants to talk to
@@ -606,30 +532,22 @@ Very high
 
 Yeah um
 
-### Speaker 3
-
-Yeah so thank you for the session Actually I have one question Like as you said earlier who understand the coding base Im in the system earlier they can get more attention and more they will survey more Like so how you will understand lets say for example you are the new to the particular project you dont know anything about that project but you have the repository with you handy then how you will how earlier you can understand how
+speaker_3: Yeah so thank you for the session Actually I have one question Like as you said earlier who understand the coding base Im in the system earlier they can get more attention and more they will survey more Like so how you will understand lets say for example you are the new to the particular project you dont know anything about that project but you have the repository with you handy then how you will how earlier you can understand how
 
 
 the approach you can take to understand that particular repository
 
-### Speaker 1
-
-Very good question Muthuraj Lets say now I am putting to a new project where I dont know single line of code The first thing that I will do is I will take that repo now and ask Jene AI give me a one document summary of the entire project which are all the important file where I am doing what Muthuraj Which otherwise I may have to go and ask lot of people to understand the things Now I can almost try to understand it just using the prompting only Muthuraj That will be my way So that that is I am going to be much faster in left and right There will be there KT sessions and document everything I will refer that
+speaker_1: Very good question Muthuraj Lets say now I am putting to a new project where I dont know single line of code The first thing that I will do is I will take that repo now and ask Jene AI give me a one document summary of the entire project which are all the important file where I am doing what Muthuraj Which otherwise I may have to go and ask lot of people to understand the things Now I can almost try to understand it just using the prompting only Muthuraj That will be my way So that that is I am going to be much faster in left and right There will be there KT sessions and document everything I will refer that
 
 
 If nothing of such thing is there the first thing I am going to do is ask the Jana and you can you can be so innovative in this Muthurajaksha You can ask like give me like once I have to study everything you can ask me to create a quiz for you like ask me like 10 question quiz around the project which like ask some very specific questions can I answer them or not So that acts as testimonial whether you are understanding it or not You can purely follow that path Muthuraj
 
-### Speaker 4
-
-Yeah hi Watson uh so just wanted to ask one thing like I wanted your opinion on uh this thing so uh I have around four years of experience in content development and like I was thinking about expanding my skills so when you think about that like the very first thing that usually comes to peoples mind is learning back end but uh I was thinking uh like I am not very much inclined towards back end and all uh I I
+speaker_4: Yeah hi Watson uh so just wanted to ask one thing like I wanted your opinion on uh this thing so uh I have around four years of experience in content development and like I was thinking about expanding my skills so when you think about that like the very first thing that usually comes to peoples mind is learning back end but uh I was thinking uh like I am not very much inclined towards back end and all uh I I
 
 
 to learn about this UX design and all like more knowledge of UX so like how and how do you think about it do you think it will be a good career path if I explore more of that space along with like certain skills I already have so they just wanted to learn
 
-### Speaker 1
-
-Yeah so Ill keep the answer quite generic Gauri like anything that you are want to pursue right try to pick a sizable project in that sizable project I mean lets say you want to go into UX So now try to pick a project where you want to design an app maybe lets say a webinar we are doing it lets say you want to build a webinar app from the mobile UI starting from scratch and Gauri should be able to do without taking any additional major additional help You should be able to design use Figma or something and you should be able to design by yourself
+speaker_1: Yeah so Ill keep the answer quite generic Gauri like anything that you are want to pursue right try to pick a sizable project in that sizable project I mean lets say you want to go into UX So now try to pick a project where you want to design an app maybe lets say a webinar we are doing it lets say you want to build a webinar app from the mobile UI starting from scratch and Gauri should be able to do without taking any additional major additional help You should be able to design use Figma or something and you should be able to design by yourself
 
 
 by the end of that project and then you can like basically get review from some of these people and do you really enjoy that course of doing that maybe one project if you are not able to make out you can make couple so after that you may not be the best at it but if you really enjoy the process of doing lets say the back end one you told you are not liking it i dont want you to consider you dont like it how about you start building some apis for the same one like online webinar thing so you build like 10 different apis maybe using genia
@@ -637,13 +555,9 @@ by the end of that project and then you can like basically get review from some 
 
 or without Genie check whether really enjoy the process or not If you are someone who is really enjoying that process Gauri then you should start pursuing that particular domain If you really do not enjoy maybe one project if you are not able to make a digital you can make two three Once you really start enjoying then only you should start considering it as a serious career option Otherwise you might pick something randomly and you will struggle everyday work will start becoming struggle Gauri
 
-### Speaker 4
+speaker_4: Oh okay thanks well answered
 
-Oh okay thanks well answered
-
-### Speaker 1
-
-Thanks for it yeah
+speaker_1: Thanks for it yeah
 
 
 Yeah
@@ -657,21 +571,13 @@ Not able to hear you Abhijit sorry
 
 Other time Abhijit go on
 
-### Speaker 2
+speaker_2: Im not even know
 
-Im not even know
+speaker_1: Yes please tell me about it yeah
 
-### Speaker 1
+speaker_2: Actually along with
 
-Yes please tell me about it yeah
-
-### Speaker 2
-
-Actually along with
-
-### Speaker 1
-
-the front end operation system design DSA machine coding rights and the deep knowledge on the front end technologies so R2V also need to learn on AWS part like day off sin Friday
+speaker_1: the front end operation system design DSA machine coding rights and the deep knowledge on the front end technologies so R2V also need to learn on AWS part like day off sin Friday
 
 
 Yeah see in general from the interview point of view you ask me nowadays they are asked little bit about the oral architecting part You should not be someone who would say I just built the screen You should have an understanding of end to end architecture Plus if you know about deployment with AWS or if you know about the CI CD pipeline it is going to be wonderful But if you are considering like a as an career option learning more about AWS thing as I clearly told try to enhance more of it whenever you are seriously after you made your job switch
@@ -691,59 +597,35 @@ Anybody else any other question
 
 Yeah my young please go ahead
 
-### Speaker 2
+speaker_2: Yells something audible
 
-Yells something audible
+speaker_1: Yes yes Mike
 
-### Speaker 1
+speaker_2: So wasnt uh I just wanted to ask couple of questions like uh if there is any career gap how do we justify that career gap one thing is that
 
-Yes yes Mike
-
-### Speaker 2
-
-So wasnt uh I just wanted to ask couple of questions like uh if there is any career gap how do we justify that career gap one thing is that
-
-### Speaker 1
-
-How much
+speaker_1: How much
 
 
 Mm hmm God God please
 
-### Speaker 2
-
-Watch out
+speaker_2: Watch out
 
 
 Yeah and the other question was we also spoke about you know the thick and thin development right Lets suppose if we are you know planning to do some heavy kind of development like so what projects we need to build in order to you know understand like from the functional device Yes So what would be your suggestion on that
 
-### Speaker 1
+speaker_1: The carrier gap how much uh you have my anchor
 
-The carrier gap how much uh you have my anchor
+speaker_2: Right now I dont have but uh recently I got terminated from my current company so
 
-### Speaker 2
+speaker_1: I get it See I feel if we are like 3 4 years back then the career gap would have been looked very ugly on the profile But now lets say 8000 people on Facebook are laid off are there someone who is unqualified or not so good engineers They are probably the top best engineers on the world So now the unemployment badge or the layoff badge is not something big to think to worry Even till 6 months hardly anybody would notice that So it should not be a big problem one thing And regarding the second question I just missed second question Mike What was the second question
 
-Right now I dont have but uh recently I got terminated from my current company so
+speaker_2: Yeah its regarding the development which you spoke earlier right
 
-### Speaker 1
+speaker_1: Yeah can you please elaborate my Im sorry
 
-I get it See I feel if we are like 3 4 years back then the career gap would have been looked very ugly on the profile But now lets say 8000 people on Facebook are laid off are there someone who is unqualified or not so good engineers They are probably the top best engineers on the world So now the unemployment badge or the layoff badge is not something big to think to worry Even till 6 months hardly anybody would notice that So it should not be a big problem one thing And regarding the second question I just missed second question Mike What was the second question
+speaker_2: Yeah yeah so we spoke about the thick development right so yeah
 
-### Speaker 2
-
-Yeah its regarding the development which you spoke earlier right
-
-### Speaker 1
-
-Yeah can you please elaborate my Im sorry
-
-### Speaker 2
-
-Yeah yeah so we spoke about the thick development right so yeah
-
-### Speaker 1
-
-So you can pick any sizeable project again my name the best thing I would suggest let us say how about you build something very similar to ah how about you try to build something very similar to Figma You can pick a basic problem statement for yourself where a designer should be able to come onto your website and should be able to build a screen drag and drop some of these elements and then they should be able to add like comment and other things Pick a sizeable requirements for yourself you can ask Janir to basically build the requirement start building a tool accordingly my name
+speaker_1: So you can pick any sizeable project again my name the best thing I would suggest let us say how about you build something very similar to ah how about you try to build something very similar to Figma You can pick a basic problem statement for yourself where a designer should be able to come onto your website and should be able to build a screen drag and drop some of these elements and then they should be able to add like comment and other things Pick a sizeable requirements for yourself you can ask Janir to basically build the requirement start building a tool accordingly my name
 
 
 By the end of it you learn so much ok If you really think you built a good version of Ima by yourself you could even open source it That is going to bring you lot of backlinks and in your hiring process it might help you Mayank
@@ -754,9 +636,7 @@ Abhishek I think you raised the hand one more time or its from the past
 
 Oh sure thank you yeah Muteraj any question
 
-### Speaker 3
-
-No problem
+speaker_3: No problem
 
 
 yeah um so uh i dont know the dsa fully and i dont know the system design fully and the machine machine coding also i have to learn so everything almost everything i have to learn from the not from the exact beginning but i know something based but uh will you think uh is that possible to learn everything in the three or four months i think i dont think so because uh many things i have to understand from the core and i need to
@@ -764,47 +644,29 @@ yeah um so uh i dont know the dsa fully and i dont know the system design fully 
 
 follow so it might take less than not less than six months I think so what is your thoughts on this
 
-### Speaker 1
-
-If you study six months you will clear UPSC also Muthuraj You see it So my suggestion is do not know never keep more than three months for an interview preparation provided you are already working on it If you are thinking beyond three months then there is some problem in your preparation strategy Like for example you are only dedicating half an hour a day or one hour a day or let us say you are not part of the things like cohort that I am running where I am going to cover everything or you are not mentally at preparation you are trying to do everything by yourself and you are constantly getting distorted because of many different things That is where the problem exist Muthuraj
+speaker_1: If you study six months you will clear UPSC also Muthuraj You see it So my suggestion is do not know never keep more than three months for an interview preparation provided you are already working on it If you are thinking beyond three months then there is some problem in your preparation strategy Like for example you are only dedicating half an hour a day or one hour a day or let us say you are not part of the things like cohort that I am running where I am going to cover everything or you are not mentally at preparation you are trying to do everything by yourself and you are constantly getting distorted because of many different things That is where the problem exist Muthuraj
 
 
 Do not keep a timeline beyond 3 months if you I am honestly I am a believer only 2 months not even 3 months to make you interview ready I can guarantee you actually I have mentored so many people so not necessarily from anyone you take mentorship if you are there is a good mentor they should be able to make you interview ready in 2 months provided you can dedicate at least 25 hours in a week Muthuraj
 
-### Speaker 3
+speaker_3: Okay even bigger also
 
-Okay even bigger also
+speaker_1: Not beginner I would say You should have at least two to three pages
 
-### Speaker 1
+speaker_3: So I mean three to four years experience you dont know them much
 
-Not beginner I would say You should have at least two to three pages
-
-### Speaker 3
-
-So I mean three to four years experience you dont know them much
-
-### Speaker 1
-
-You do not know the much Yes see you by when you say you do not know you do not know how to crack an interview but you would know how to develop ok So that is a skill that a mentor or in the cohort environment will be able to teach Muthuraj ok
+speaker_1: You do not know the much Yes see you by when you say you do not know you do not know how to crack an interview but you would know how to develop ok So that is a skill that a mentor or in the cohort environment will be able to teach Muthuraj ok
 
 
 Ravi Naye please tell me
 
-### Speaker 2
+speaker_2: This might this question might sound a bit of out of context but in the J JAI era everything can be done by AI from the book itself into any research or anything but earlier we used to search in the internet like the stack overflow then we used to learn something and then we used to implement yes that time the whatever the knowledge and whatever the research it also helps in the long run agreed but in the AI era it wont I guess how to keep up with it that domain it is not there now
 
-This might this question might sound a bit of out of context but in the J JAI era everything can be done by AI from the book itself into any research or anything but earlier we used to search in the internet like the stack overflow then we used to learn something and then we used to implement yes that time the whatever the knowledge and whatever the research it also helps in the long run agreed but in the AI era it wont I guess how to keep up with it that domain it is not there now
+speaker_1: I agree with it But I feel like if this is the new way of doing it start embracing it is what I would suggest Let us say calculator was not there You write two numbers and then add them on a paper and then finally make a number right So if you I do not feel you should be still enjoying that If there is a calculator use calculator
 
-### Speaker 1
+speaker_2: Yeah
 
-I agree with it But I feel like if this is the new way of doing it start embracing it is what I would suggest Let us say calculator was not there You write two numbers and then add them on a paper and then finally make a number right So if you I do not feel you should be still enjoying that If there is a calculator use calculator
-
-### Speaker 2
-
-Yeah
-
-### Speaker 1
-
-But be little vigilant on what you are finally pushing the code No matter whatever Jani is suggesting just think make sure whatever it has coded is it the right thing or not So if you can really keep a track of that that itself should be start giving you new perspective which you are not thought For example if you are using a cursor and you ask it to build a utility sometimes cursor do not build that utility It will scan the project and say that utility already exist and can I use that So the many a times whatever the mistake that you potentially would have done might have been not done just by using
+speaker_1: But be little vigilant on what you are finally pushing the code No matter whatever Jani is suggesting just think make sure whatever it has coded is it the right thing or not So if you can really keep a track of that that itself should be start giving you new perspective which you are not thought For example if you are using a cursor and you ask it to build a utility sometimes cursor do not build that utility It will scan the project and say that utility already exist and can I use that So the many a times whatever the mistake that you potentially would have done might have been not done just by using
 
 
 My suggestion is embrace it use it as much as possible but be vigilant in checking whatever it is coding behind That is what I would suggest Whatever the time is that I have done so much of time is that blue and there is a two blue links I do not know how many if you know in Google there is one blue and there is a sort of a correct that fruit another another site variation of blue There are times where I have asked so much question that all my blue links are turn into another color still I have not got the answer So it is not enjoying honestly sometimes it is okay but most lot of it is not enjoying So let us start
@@ -812,35 +674,23 @@ My suggestion is embrace it use it as much as possible but be vigilant in checki
 
 embracing it and start spending time being vigilant can I okay
 
-### Speaker 2
+speaker_2: Dont be like
 
-Dont be like
+speaker_1: Anybody else any other question before we all we are almost 22 minutes above the timeline before I end the call
 
-### Speaker 1
-
-Anybody else any other question before we all we are almost 22 minutes above the timeline before I end the call
-
-### Speaker 3
-
-was on one last question so when i try to develop something using the copilot on different llms so sometime it is giving me the exact uh whatever i asked it is developed that thing but i have getting fear like uh what is that thing i pushing the code but its not done by me so im getting something like a you should understand the code first then to its like uh developing the thing 10 minutes and debugging that in the two hours like that i feel so
+speaker_3: was on one last question so when i try to develop something using the copilot on different llms so sometime it is giving me the exact uh whatever i asked it is developed that thing but i have getting fear like uh what is that thing i pushing the code but its not done by me so im getting something like a you should understand the code first then to its like uh developing the thing 10 minutes and debugging that in the two hours like that i feel so
 
 
 So its how you are feeling in your development
 
-### Speaker 1
-
-Now I I do this way as I told in the beginning I am I am a vivid user of Jana and I do not I am not shying away from using it I use extensively at times when I am lazy I will ask you to come in also ok I have been on very honest So if something is able to do a job very good and more better in many instances than a human why not use it ok But I have been very very vigilant in checking everything that I raise a PR because because of my level in the organization also there is a lot of reputation at stake I cannot raise a random PR which will be reviewed by my juniors
+speaker_1: Now I I do this way as I told in the beginning I am I am a vivid user of Jana and I do not I am not shying away from using it I use extensively at times when I am lazy I will ask you to come in also ok I have been on very honest So if something is able to do a job very good and more better in many instances than a human why not use it ok But I have been very very vigilant in checking everything that I raise a PR because because of my level in the organization also there is a lot of reputation at stake I cannot raise a random PR which will be reviewed by my juniors
 
 
 So I take make sure every code that I am pushing is of very top standard it is having everything that is required to make it production ready only then I put such code within the Muthuraj So to come back to your question use Jana as much as possible but just spend time understanding whatever Jana is doing before you make a PR or push the code into production If you are doing that very vigilantly I think this is the new way of development
 
-### Speaker 3
+speaker_3: Thank you
 
-Thank you
-
-### Speaker 1
-
-Anybody else anything
+speaker_1: Anybody else anything
 
 
 Sure before I end as I told in a couple of time in the session if you are someone who is seriously aspiring for the front end interview preparation you tried preparing by yourself several times somewhere or the other you are stuck you are not able to clear the interview please consider the cohort that I am starting on June 6th which is just the next week okay and the link I have shared or you could just search on Google itself carrier with Vasant and we are going to get this information So you could register after registration there is going to be a brief call with me 15 minutes to 30 minutes I discuss with every participant who become

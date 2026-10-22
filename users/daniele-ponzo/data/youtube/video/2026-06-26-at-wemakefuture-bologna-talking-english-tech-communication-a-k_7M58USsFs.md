@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': DanielePonzo
+  speaker_1: 'DanielePonzo'
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · DanielePonzo
-
-Hi my name is Daniele and Im here at We Make Future one of the largest tech fairs in Europe Im here with my stand talking about communication in English for tech professionals Thats my field thats the people I love working with because thats where I come from After working in IT I decided to to start coaching people in communication in English to thrive in the in a global market in an English speaker national market So happy to be here Its a great day its a great fair Thanks
+speaker_1: Hi my name is Daniele and Im here at We Make Future one of the largest tech fairs in Europe Im here with my stand talking about communication in English for tech professionals Thats my field thats the people I love working with because thats where I come from After working in IT I decided to to start coaching people in communication in English to thrive in the in a global market in an English speaker national market So happy to be here Its a great day its a great fair Thanks

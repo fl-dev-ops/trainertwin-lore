@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,14 +24,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I would say those two and a half years were probably if not the most challenging one of the more challenging moments Yeah which is to start like getting getting it started basically
 
-I would say those two and a half years were probably if not the most challenging one of the more challenging moments Yeah which is to start like getting getting it started basically
+speaker_2: Okay yeah sure when you first get there everything is so different from what you expect Absolutely And how were you feeling at the time So
 
-### Speaker 2 · Speaker 2
-
-Okay yeah sure when you first get there everything is so different from what you expect Absolutely And how were you feeling at the time So
-
-### Speaker 1 · Speaker 1
-
-I think you you do feel sort of lonely you feel out of place Um you feel
+speaker_1: I think you you do feel sort of lonely you feel out of place Um you feel

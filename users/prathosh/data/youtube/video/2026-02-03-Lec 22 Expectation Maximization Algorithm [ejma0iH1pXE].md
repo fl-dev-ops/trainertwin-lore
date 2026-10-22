@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 25:33
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 22 Expectation Maximization Algorithm
 
 ## Transcript
 
-
-Welcome back to the lecture Now lets
+speaker_1: Welcome back to the lecture Now lets
 look at this question
 So what choice of
 Q

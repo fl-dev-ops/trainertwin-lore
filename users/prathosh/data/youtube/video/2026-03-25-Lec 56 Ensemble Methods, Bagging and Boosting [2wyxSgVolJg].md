@@ -6,14 +6,15 @@ date: '2026-03-25'
 duration: 35:54
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 56 Ensemble Methods, Bagging and Boosting
 
 ## Transcript
 
-
-In todays lecture we will be looking
+speaker_1: In todays lecture we will be looking
 at the ensemble methods specifically
 the
 boosted aggregation and the boosting

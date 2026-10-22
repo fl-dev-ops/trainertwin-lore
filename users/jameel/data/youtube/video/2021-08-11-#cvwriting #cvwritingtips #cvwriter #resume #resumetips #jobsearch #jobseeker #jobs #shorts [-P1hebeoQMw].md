@@ -10,7 +10,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-Dont mention buzz words or cliches go getter best of breed dynamic self motivated
+speaker_1: Dont mention buzz words or cliches go getter best of breed dynamic self motivated
 
 
 CV WRITING

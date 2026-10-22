@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Behind the scenes. This is what can happen to create a good vibe 😃
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Oh
-
+speaker_1: Oh
 
 ## Comments (1)
 

@@ -16,7 +16,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -24,6 +24,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Number three again not a biggie but important to sound a bit more professional When you want to say now so you want to talk about a particular moment in English we say at the moment not in I know sometimes its more intuitive to use in but it doesnt work in English So you can say at the moment Im working on an important project okay Not in the moment that doesnt exist At the moment Im working on an important project okay
+speaker_1: Number three again not a biggie but important to sound a bit more professional When you want to say now so you want to talk about a particular moment in English we say at the moment not in I know sometimes its more intuitive to use in but it doesnt work in English So you can say at the moment Im working on an important project okay Not in the moment that doesnt exist At the moment Im working on an important project okay

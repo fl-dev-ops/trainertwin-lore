@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-If youre not doing this thing there is no point to move forward If theyre giving you I just want to invest and youre just like okay fantastic he wants to invest and youre just like jumping up and then hes going to stop responding to you because he doesnt see the value
+speaker_1: If youre not doing this thing there is no point to move forward If theyre giving you I just want to invest and youre just like okay fantastic he wants to invest and youre just like jumping up and then hes going to stop responding to you because he doesnt see the value

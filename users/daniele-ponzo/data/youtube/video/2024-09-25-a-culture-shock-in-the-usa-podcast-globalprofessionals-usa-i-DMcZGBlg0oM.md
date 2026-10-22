@@ -52,8 +52,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -61,14 +61,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And then I had a proper culture shock I went to a part of America that was very unlike the place I come from very different And so I I really learned two things I one I learned how to make English a proper functioning language for me My English wasnt so bad when I went but it was you know it really helped But then also I properly understood what it means to be confronted with a very different culture particularly when youre not expecting it When you you know I grew up in in in what was then West Germany The wall actually fell while I was in America
 
-And then I had a proper culture shock I went to a part of America that was very unlike the place I come from very different And so I I really learned two things I one I learned how to make English a proper functioning language for me My English wasnt so bad when I went but it was you know it really helped But then also I properly understood what it means to be confronted with a very different culture particularly when youre not expecting it When you you know I grew up in in in what was then West Germany The wall actually fell while I was in America
+speaker_2: Ah You missed the big event
 
-### Speaker 2 · Speaker 2
-
-Ah You missed the big event
-
-### Speaker 1 · Speaker 1
-
-I I missed it Yeah the Berlin Wall fell when I was in America So I went from the country that was called West Germany and I came back to a country that only weeks later then reunited as Germany So but when I went I left a country where America was always a you know a signpost America was our orientation We felt we knew a lot about America from movies and TV shows
+speaker_1: I I missed it Yeah the Berlin Wall fell when I was in America So I went from the country that was called West Germany and I came back to a country that only weeks later then reunited as Germany So but when I went I left a country where America was always a you know a signpost America was our orientation We felt we knew a lot about America from movies and TV shows

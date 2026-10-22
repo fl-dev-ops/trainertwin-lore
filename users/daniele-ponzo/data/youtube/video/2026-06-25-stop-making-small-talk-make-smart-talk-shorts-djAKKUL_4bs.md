@@ -44,8 +44,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -53,14 +53,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: At different stage I experience self doubt pressure uncertainty especially when navigating with new people new environment But theres also a time whereby I need to think about maybe this is a good learning experience and really really push myself into going to read and understand watching different video to find about the culture and etcetera That helps to make smart talk not just small talk
 
-At different stage I experience self doubt pressure uncertainty especially when navigating with new people new environment But theres also a time whereby I need to think about maybe this is a good learning experience and really really push myself into going to read and understand watching different video to find about the culture and etcetera That helps to make smart talk not just small talk
+speaker_2: Absolutely smart not small Yes I love this
 
-### Speaker 2 · Speaker 2
-
-Absolutely smart not small Yes I love this
-
-### Speaker 1 · Speaker 1
-
-Yes making smart talk not just small talks
+speaker_1: Yes making smart talk not just small talks

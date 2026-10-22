@@ -25,7 +25,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -33,6 +33,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-you know Uh it was funny the other day they invited me to a bilingual podcast so it was in English but at some stage we had to switch to Spanish which was a lovely experience but a very complicated one because using the two languages at the same time it was complicated you know Uh but it was uh it was a great experience and uh and yeah So thats something that uh I dont know We can all get better at But most of the time it is really not necessary So if I were you I would be I would be okay with it Adrian you know like thats okay Dont mix the two Like or mix them and its fine even you know no problem
+speaker_1: you know Uh it was funny the other day they invited me to a bilingual podcast so it was in English but at some stage we had to switch to Spanish which was a lovely experience but a very complicated one because using the two languages at the same time it was complicated you know Uh but it was uh it was a great experience and uh and yeah So thats something that uh I dont know We can all get better at But most of the time it is really not necessary So if I were you I would be I would be okay with it Adrian you know like thats okay Dont mix the two Like or mix them and its fine even you know no problem

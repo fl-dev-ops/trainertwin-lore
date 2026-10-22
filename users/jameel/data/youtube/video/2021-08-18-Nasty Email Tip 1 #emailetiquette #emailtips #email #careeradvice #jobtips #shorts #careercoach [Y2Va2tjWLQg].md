@@ -10,7 +10,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -18,6 +18,4 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-HOW DEAL WITH 111 TIP I 11 NEVER REPLY th IMMEDIATELY SOFT SKILLS
+speaker_1: HOW DEAL WITH 111 TIP I 11 NEVER REPLY th IMMEDIATELY SOFT SKILLS

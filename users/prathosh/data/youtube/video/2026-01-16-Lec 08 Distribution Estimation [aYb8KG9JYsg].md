@@ -6,14 +6,15 @@ date: '2026-01-16'
 duration: 28:46
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 08 Distribution Estimation
 
 ## Transcript
 
-
-Hello everyone welcome to this session
+speaker_1: Hello everyone welcome to this session
 of the course
 In this particular session we will
 continue from the previous discussions

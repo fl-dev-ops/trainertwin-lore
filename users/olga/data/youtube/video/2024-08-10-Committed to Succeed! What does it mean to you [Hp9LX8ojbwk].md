@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Do you think you yourself is just interested to be a successful real estate agent or this is kind of all the bridges are burned and Im committed
+speaker_1: Do you think you yourself is just interested to be a successful real estate agent or this is kind of all the bridges are burned and Im committed

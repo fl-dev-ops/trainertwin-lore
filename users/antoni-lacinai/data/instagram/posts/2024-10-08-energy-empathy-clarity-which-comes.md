@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -28,7 +28,4 @@ Do you agree?
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Let me let me do that this instead. What I talked about on stage, I talked about the three communication superpowers. Yeah. And if I do it in priority order, I start with empathy. Empathy so that you're interested instead of interesting. Yeah. So that you listen to understand and not to respond. So work on that one first. Second, clarity. So once you know who you talk to, you understand what needs they have and why they need it and so on. Now it's time for you perhaps to present something. Yeah. Be clear, be memorable. Get them to, you know, make them feel smart. Okay. And the third one is deliver it with the right passion and the right energy so that they feel and they can believe that you believe. Why should they believe if you don't seem to do?
-
+speaker_1: Let me let me do that this instead. What I talked about on stage, I talked about the three communication superpowers. Yeah. And if I do it in priority order, I start with empathy. Empathy so that you're interested instead of interesting. Yeah. So that you listen to understand and not to respond. So work on that one first. Second, clarity. So once you know who you talk to, you understand what needs they have and why they need it and so on. Now it's time for you perhaps to present something. Yeah. Be clear, be memorable. Get them to, you know, make them feel smart. Okay. And the third one is deliver it with the right passion and the right energy so that they feel and they can believe that you believe. Why should they believe if you don't seem to do?

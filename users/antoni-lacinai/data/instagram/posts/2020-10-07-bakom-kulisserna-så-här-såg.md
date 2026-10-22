@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Bakom kulisserna: så här såg det ut förra veckan inför en mycket annorlunda
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Här kommer alla deltagarna att sitta. Och här är scenen och en stor skärm. Och det kommer vara soffor också så vi kan sitta ner och ha en diskussion efteråt. På den här skärmen kommer mina PowerPoint slides att komma upp. Och jag kommer alltså att stå här och presentera från scenen. Spännande va?
-
+speaker_1: Här kommer alla deltagarna att sitta. Och här är scenen och en stor skärm. Och det kommer vara soffor också så vi kan sitta ner och ha en diskussion efteråt. På den här skärmen kommer mina PowerPoint slides att komma upp. Och jag kommer alltså att stå här och presentera från scenen. Spännande va?
 
 ## Comments (3)
 

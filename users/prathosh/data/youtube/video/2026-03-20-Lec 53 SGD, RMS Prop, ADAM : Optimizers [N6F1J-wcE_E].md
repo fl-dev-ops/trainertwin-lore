@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 19:28
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 53 SGD, RMS Prop, ADAM : Optimizers
 
 ## Transcript
 
-
-Welcome back
+speaker_1: Welcome back
 Training neural networks
 with adaptive learning rate
 Okay

@@ -6,14 +6,15 @@ date: '2026-04-09'
 duration: 41:51
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 66 GAN - Generative Adversarial Networks
 
 ## Transcript
 
-
-Okay in this class
+speaker_1: Okay in this class
 we will look at generative adversarial
 networks
 Remember what the story was So we have

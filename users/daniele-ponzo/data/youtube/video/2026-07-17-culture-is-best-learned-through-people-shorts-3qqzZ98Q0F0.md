@@ -43,8 +43,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -52,14 +52,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: again And
 
-again And
+speaker_2: You know uh I theres something extra that I ask some of my friends international friends um when they arrive in Singapore is to encourage them to do uh volunteer works to talk to some of our old folks our senior citizen who are able to share with them We are sharing with them present Singapore But if they go and talk to some of the older folks they would be able to understand the history of Singapore That that will give them facts So instead of being frustrated with some of the culture and practice we have talking to some people understanding the history behind it that will give you facts And thats turning from frustration to facts
 
-### Speaker 2 · Speaker 2
-
-You know uh I theres something extra that I ask some of my friends international friends um when they arrive in Singapore is to encourage them to do uh volunteer works to talk to some of our old folks our senior citizen who are able to share with them We are sharing with them present Singapore But if they go and talk to some of the older folks they would be able to understand the history of Singapore That that will give them facts So instead of being frustrated with some of the culture and practice we have talking to some people understanding the history behind it that will give you facts And thats turning from frustration to facts
-
-### Speaker 1 · Speaker 1
-
-Yes And at the same time connecting with people who have a lot to share because they have lived uh life they have experienced And definitely they would be so eager to share Yes absolutely
+speaker_1: Yes And at the same time connecting with people who have a lot to share because they have lived uh life they have experienced And definitely they would be so eager to share Yes absolutely

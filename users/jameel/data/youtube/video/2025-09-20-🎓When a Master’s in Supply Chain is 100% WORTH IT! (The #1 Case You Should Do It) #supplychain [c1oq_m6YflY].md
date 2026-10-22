@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-The first thing is that if a masters program in supply chain will help you in your efforts to migrate to a new country definitely go for it And especially for those who have already gotten experience in supply chain Ive consulted so many of my clients in my coaching calls who are working in India and Amazon or in other companies and they have landed an MBA or an MS in supply chain and that is what has gotten them their visa to come to the US or come to Canada Thats a very good route of getting to a new country So if thats the case with you then definitely a masters degree in supply chain is is worth it
+speaker_1: The first thing is that if a masters program in supply chain will help you in your efforts to migrate to a new country definitely go for it And especially for those who have already gotten experience in supply chain Ive consulted so many of my clients in my coaching calls who are working in India and Amazon or in other companies and they have landed an MBA or an MS in supply chain and that is what has gotten them their visa to come to the US or come to Canada Thats a very good route of getting to a new country So if thats the case with you then definitely a masters degree in supply chain is is worth it

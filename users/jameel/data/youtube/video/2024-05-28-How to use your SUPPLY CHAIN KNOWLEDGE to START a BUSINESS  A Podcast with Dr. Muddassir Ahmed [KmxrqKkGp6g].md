@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-But in the industry I faced the problems For example I was managing 20 people in Bridgestone and none of them come from supply chain So thats a common problem Half of the people you meet in supply chain come from a different calling qualification Either they are finance people good in maths okay youre good in maths move to supply chain So I thought okay why there is no platform like in if you want to hire a good lawyer theres a lawyer platform If you want to hire like a HR people theres a platform theres a platform for for hiring
+speaker_1: But in the industry I faced the problems For example I was managing 20 people in Bridgestone and none of them come from supply chain So thats a common problem Half of the people you meet in supply chain come from a different calling qualification Either they are finance people good in maths okay youre good in maths move to supply chain So I thought okay why there is no platform like in if you want to hire a good lawyer theres a lawyer platform If you want to hire like a HR people theres a platform theres a platform for for hiring
 
 
 uh market there you know upwork and all that right
@@ -41,21 +39,13 @@ So theres a theres a profit theres a cost and then you sales growth you have to 
 
 So while you are in your job you have to find a way to get your message out create your personal or professional brand
 
-### Speaker 2
+speaker_2: Hello and welcome to another podcast on my channel And as you know on my channel we talk about real life skills for supply chain professionals that they dont teach you in college And today Ive got someone really special with me because hes a great example of someone who was in a corporate career in supply chain for a very long time And then he moved into full time entrepreneurship and runs a very successful platform called SCM Dojo today So without further ado I would like to introduce Dr Mudasalam Hello doctor How are you
 
-Hello and welcome to another podcast on my channel And as you know on my channel we talk about real life skills for supply chain professionals that they dont teach you in college And today Ive got someone really special with me because hes a great example of someone who was in a corporate career in supply chain for a very long time And then he moved into full time entrepreneurship and runs a very successful platform called SCM Dojo today So without further ado I would like to introduce Dr Mudasalam Hello doctor How are you
+speaker_1: I am doing very well Jamil thanks for having me how are you doing
 
-### Speaker 1
+speaker_2: Im doing well So Melissa when I look at your LinkedIn profile up to 2021 you were doing a corporate job in Dubai in supply chain And then youre you have a very extensive experience I saw And then we see you move towards SCM dojo and full time entrepreneurship So tell us a little bit about that journey and what was the main motivator for you
 
-I am doing very well Jamil thanks for having me how are you doing
-
-### Speaker 2
-
-Im doing well So Melissa when I look at your LinkedIn profile up to 2021 you were doing a corporate job in Dubai in supply chain And then youre you have a very extensive experience I saw And then we see you move towards SCM dojo and full time entrepreneurship So tell us a little bit about that journey and what was the main motivator for you
-
-### Speaker 1
-
-Yeah I think as a career entrepreneurship was more suitable to me right And it is a result of spending 17 years in the industry And while I was in the industry I saw three problems which I think need solving right So the quick story goes like this I did engineering I did my masters in Swedish measure of production then I went to UK as a PhD scholar started working worked for a company Eaton And from 2000 I think eight until 2015 I didnt do much except three things right Full time job
+speaker_1: Yeah I think as a career entrepreneurship was more suitable to me right And it is a result of spending 17 years in the industry And while I was in the industry I saw three problems which I think need solving right So the quick story goes like this I did engineering I did my masters in Swedish measure of production then I went to UK as a PhD scholar started working worked for a company Eaton And from 2000 I think eight until 2015 I didnt do much except three things right Full time job
 
 
 as a supply chain professional I was a demand planner a materials manager supply chain manager export manager and then my family of young you know kids and also did my PhD after that I realized I was just too lazy to write research papers but I had a lot of content to share especially interesting content to share so therefore I the best way to share I just come across a thing called blogging which I didnt even know what is blogging was I just basically created a website on WordPress it was named Mudassarism and
@@ -129,13 +119,9 @@ gig define is a basically a level one of entrepreneurship right what are you cre
 
 in terms of how you can help others and they they pay you back right if they pay you back then you have a side of some and it and this process will almost act you as a MVP you know minimum viable product of your business
 
-### Speaker 2
+speaker_2: And then what is the biggest challenge that you saw Mudassir and this is a segment to my next part of my question that if someone wants to do this full time you know what are the additional challenges that come along the way
 
-And then what is the biggest challenge that you saw Mudassir and this is a segment to my next part of my question that if someone wants to do this full time you know what are the additional challenges that come along the way
-
-### Speaker 1
-
-So thats right now the biggest every podcast I turn up I basically answer this question right Because thats the most frequently asked question to me I would never recommend somebody no matter how pissed you are with your job you hate your boss you hate your company unless you have a millionaire wife or girlfriend or father I would call it I wouldnt call it leave it right And I dont I know not many people have right So you have to so you have to stay in the job whatever the job is and plan your
+speaker_1: So thats right now the biggest every podcast I turn up I basically answer this question right Because thats the most frequently asked question to me I would never recommend somebody no matter how pissed you are with your job you hate your boss you hate your company unless you have a millionaire wife or girlfriend or father I would call it I wouldnt call it leave it right And I dont I know not many people have right So you have to so you have to stay in the job whatever the job is and plan your
 
 
 exit okay so I can say the plan you exit is almost like uh you know when we used to win the school and we used to do this calculation of break even point so theres a theres a profit theres a cost and then you sales growth and you have to find this point okay Im going to break out Im going to be profitable after that so its almost that science of break even point okay so first thing you can do is identify okay what are you good at what where you can provide value whatever that is if youre an engineer you can become a consultant if youre a designer can you
@@ -176,13 +162,9 @@ So the biggest problem for the non salesy people with the great ideas like engin
 
 And even selling have a lot of sub elements to it the pricing the offering the messaging identification of the customer known as ICP right If I ask you or anybody right now a supply chain guy you must know your ICP and youre gonna say what the fuck is ICP And Im gonna say ICP means ideal customer persona right Okay so you need to know that But you will not never gonna learn all this unless you become entrepreneur right So dont get worried about it The point is
 
-### Speaker 2
+speaker_2: When you said I thought you were talking about intercompany pricing but because Im a supply chain manager
 
-When you said I thought you were talking about intercompany pricing but because Im a supply chain manager
-
-### Speaker 1
-
-supply chain is ideal customer persona So you define who is your ideal customer with the pain points the offering and how to reach them So one of the hardest job as entrepreneurship is to reach them Now okay So what happened was is so step one was identification customer need what youre good at value proposition great You know who to offer Step two is MVP One in the job You sold you sold some to somebody your product service you got the money Now the third step is crucial The third step is
+speaker_1: supply chain is ideal customer persona So you define who is your ideal customer with the pain points the offering and how to reach them So one of the hardest job as entrepreneurship is to reach them Now okay So what happened was is so step one was identification customer need what youre good at value proposition great You know who to offer Step two is MVP One in the job You sold you sold some to somebody your product service you got the money Now the third step is crucial The third step is
 
 
 the my idea of
@@ -220,13 +202,9 @@ what is the market youre serving what is the product youre serving do you can yo
 
 But its a bad strategy So you focus on one thing you give 120 percent and you go for it And the third thing is and the last thing is
 
-### Speaker 2
+speaker_2: Theres actually a book called the one thing which talks about this you know that the power of focusing on this one perspective
 
-Theres actually a book called the one thing which talks about this you know that the power of focusing on this one perspective
-
-### Speaker 1
-
-one thing do one thing well and then do it and the last one would say find people who believes in your idea so if you ask to my team they literally believe on what were doing were creating a value for supply chain community we are the first platform who put together a training and consulting and the content into one place and we are only selling at a subscription model of nine nineteen dollars a month right its a very difficult model so what we our offering it does individually exist in two places
+speaker_1: one thing do one thing well and then do it and the last one would say find people who believes in your idea so if you ask to my team they literally believe on what were doing were creating a value for supply chain community we are the first platform who put together a training and consulting and the content into one place and we are only selling at a subscription model of nine nineteen dollars a month right its a very difficult model so what we our offering it does individually exist in two places
 
 
 Right so you can buy a training you can buy a consultant you can buy a best practice and whatever but it doesnt exist as a subscription model how we put together so thats our USP
@@ -234,16 +212,12 @@ Right so you can buy a training you can buy a consultant you can buy a best prac
 
 Right so the so start again First is value proposition What are you good at Second MVP make sure somebody pays you before you even do the third step which is basically driving the run rate of your own living And the fourth take a step find a product market fit You find a product market fit youre good good to go
 
-### Speaker 2
-
-Excellent excellent Well this is this is fantastic idea And I think a lot of these are like very basic things but people dont realize them So thanks for reiterating like the importance of an MVP the importance of finding the customer profile and all of that stuff Because you know even when we have worked in the industry for about 15 20 years we have very few people have thought as entrepreneurs right Because we are we are you know we almost become someone who is designed to work as a cog in a big ship or in a big you know system
+speaker_2: Excellent excellent Well this is this is fantastic idea And I think a lot of these are like very basic things but people dont realize them So thanks for reiterating like the importance of an MVP the importance of finding the customer profile and all of that stuff Because you know even when we have worked in the industry for about 15 20 years we have very few people have thought as entrepreneurs right Because we are we are you know we almost become someone who is designed to work as a cog in a big ship or in a big you know system
 
 
 So thinking like an entrepreneur is very very important So thanks for all those great tips Dr Mudassar And then towards the end I just want to I know you have kind of in bits and pieces already introduced the SEM Dujo platform but can you just summarize for the audience like you know how you can benefit from your offering
 
-### Speaker 1
-
-Sure thank you So in one word one line SCM Dujo is a supply chain knowledge and experts platform I am one of the experts So what we are doing or have done already we have created the biggest academy of supply chain on demand courses So you have procurement topics which is sourcing category management content management negotiation you know or how to find a supply procurement tag We have a supply chain pathway which is inventory management supply chain planning We have also inventory
+speaker_1: Sure thank you So in one word one line SCM Dujo is a supply chain knowledge and experts platform I am one of the experts So what we are doing or have done already we have created the biggest academy of supply chain on demand courses So you have procurement topics which is sourcing category management content management negotiation you know or how to find a supply procurement tag We have a supply chain pathway which is inventory management supply chain planning We have also inventory
 
 
 you know for example my course on SNOP you have you know basics of supply chain how to manage warehouse and so forth and again we have a logistics track where we talk about you know warehouse design network design inbound outbound so forth so these tracks have courses in there also we have coupled with the best practices so each one will have the best practices included and also the ebooks and its available on a very simple monthly or annual subscription plan so its 99 dollars per month
@@ -266,10 +240,6 @@ biggest part of the ERP but where what happens is the the tech consultants like 
 
 didnt know and now they are our second biggest revenue stream customers and mostly most of them are work for big consultancy like PwC and Accenture and and McKenzie and people like them
 
-### Speaker 2
+speaker_2: No once again thanks a lot for your time Dr Madhav sir Really I think insightful tips for anyone who is aspiring to become a full time entrepreneur in supply chain or a part time So thanks again for your time And then lets keep talking because my channel is all about supply chain as well So Im sure we will have more opportunities to keep talking in that
 
-No once again thanks a lot for your time Dr Madhav sir Really I think insightful tips for anyone who is aspiring to become a full time entrepreneur in supply chain or a part time So thanks again for your time And then lets keep talking because my channel is all about supply chain as well So Im sure we will have more opportunities to keep talking in that
-
-### Speaker 1
-
-Absolutely keep up the good work thank you
+speaker_1: Absolutely keep up the good work thank you

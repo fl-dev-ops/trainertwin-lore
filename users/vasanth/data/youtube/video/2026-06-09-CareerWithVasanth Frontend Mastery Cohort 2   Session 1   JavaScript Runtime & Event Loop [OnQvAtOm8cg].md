@@ -9,10 +9,10 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 
@@ -21,9 +21,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-to all of you who trusted me and joined the cohort so im not gonna this self introduction slide im not gonna speak more about myself because i have already introduced you to i have already introduced myself to all of you and within a matter of few days my introduction will not change just ive kept here for people if at all if anyone forgotten or at all someone did not hear at that time in the simple words i have close to 10 years of experience i primarily create content about front end interview preparation im a mentor i teach people and follows
+speaker_1: to all of you who trusted me and joined the cohort so im not gonna this self introduction slide im not gonna speak more about myself because i have already introduced you to i have already introduced myself to all of you and within a matter of few days my introduction will not change just ive kept here for people if at all if anyone forgotten or at all someone did not hear at that time in the simple words i have close to 10 years of experience i primarily create content about front end interview preparation im a mentor i teach people and follows
 
 
 Other things okay now lets start with a cohort introduction okay um
@@ -97,24 +95,16 @@ that weekend okay i dont think we might go there but im just keeping you guys in
 
 Do you think you can raise your hand
 
-### Speaker 2
-
-So I think you can raise it
+speaker_2: So I think you can raise it
 
 
 Anyway I think everyone is fine with your introduction and the callouts
 
-### Speaker 1
+speaker_1: No okay your question thank you So yeah I think if you want to raise your hand I think there is this react tab I believe like there is something reaction you can go there and I think you can raise your hand and Ill be notified actually go ahead with the raising hand Yeah see Param raise the hand now Yeah Param you want to say something
 
-No okay your question thank you So yeah I think if you want to raise your hand I think there is this react tab I believe like there is something reaction you can go there and I think you can raise your hand and Ill be notified actually go ahead with the raising hand Yeah see Param raise the hand now Yeah Param you want to say something
+speaker_3: Yeah hi yeah actually I want to ask like nowadays like its becoming popular for some AI rounds happening in for the front end engineering interviews so I hope like well be covering these also
 
-### Speaker 3
-
-Yeah hi yeah actually I want to ask like nowadays like its becoming popular for some AI rounds happening in for the front end engineering interviews so I hope like well be covering these also
-
-### Speaker 1
-
-Yeah Param So I think many in the screening call also asked this Honestly speaking I had not initially planned to take the AI rounds as a part of the curriculum It was not there In the court one also it was not there So now what Im thinking in the weekend session I may not be able to cover because I have a packed agenda So as Im having a doubt clearing session Param Ill include this in two to three different doubt clearing sessions on across the sessions Primarily I want to give you some of the good assignments which is challenging enough to solve using the JANEAM But youll be well informed Like lets say in Monday itself Ill be informing you like this
+speaker_1: Yeah Param So I think many in the screening call also asked this Honestly speaking I had not initially planned to take the AI rounds as a part of the curriculum It was not there In the court one also it was not there So now what Im thinking in the weekend session I may not be able to cover because I have a packed agenda So as Im having a doubt clearing session Param Ill include this in two to three different doubt clearing sessions on across the sessions Primarily I want to give you some of the good assignments which is challenging enough to solve using the JANEAM But youll be well informed Like lets say in Monday itself Ill be informing you like this
 
 
 this Wednesday or Thursday youre gonna have this in January session on the um doubt clearing session on Wednesday or Thursday so that you can plan accordingly and that will be covered to answer your question yes
@@ -224,13 +214,9 @@ by default so all the asynchrony that javascript is today supporting that is by 
 
 members okay so that is you can consider like an official definition and then all the javascript is single threaded synchronous by default all the asynchrony that we are saying it comes from the browser runtime please so actually ask me
 
-### Speaker 4
+speaker_4: Understand what is just in time compilation
 
-Understand what is just in time compilation
-
-### Speaker 1
-
-Ill explain more okay regarding the compilation okay
+speaker_1: Ill explain more okay regarding the compilation okay
 
 
 Anybody else any other question before I get into the JavaScript engine
@@ -322,32 +308,20 @@ Not correct Sadhama says it is not correct Anyone wants to answer you can raise 
 
 Jaasadhamat please go ahead
 
-### Speaker 3
+speaker_3: yeah what uh from what i i know uh was it that he even though it is a web appear its not a synchronous uh asynchronous right so we dont need to await that
 
-yeah what uh from what i i know uh was it that he even though it is a web appear its not a synchronous uh asynchronous right so we dont need to await that
-
-### Speaker 1
-
-Okay so then you think like the programs in React which are awaiting for local storage set item is really kind of round saw correct
+speaker_1: Okay so then you think like the programs in React which are awaiting for local storage set item is really kind of round saw correct
 
 
 Thats why I believe so Sure Anyone else has any other opinion Wants to share Yeah
 
-### Speaker 4
+speaker_4: Yeah so actually in local storage we have a lot of data in order to parse So doing that stuffs we need to avoid
 
-Yeah so actually in local storage we have a lot of data in order to parse So doing that stuffs we need to avoid
+speaker_1: You think Abhay is correct Shri Kastneram correct
 
-### Speaker 1
+speaker_4: Partially
 
-You think Abhay is correct Shri Kastneram correct
-
-### Speaker 4
-
-Partially
-
-### Speaker 1
-
-Sure anybody else You can raise your hand if you want to share something
+speaker_1: Sure anybody else You can raise your hand if you want to share something
 
 
 Sure See this is whatever as Sath told Im going to resonate with whatever Sath told Anybody raised hand Okay no So whatever Sath told Im going to resonate with him See local storage is set item and get item is a sync event So in React if youre awaiting for that then it is wrong So if at all you are doing this in your code base or somebody else is doing please add a comment But there is a there are libraries in React which uses local storage and which are built on top of it Like for example async storage is a common library used in React Native and React also
@@ -412,101 +386,59 @@ Many people I know use this as a small delay while executing Lets say in React t
 
 Or anybody has question please raise your hand in things I have explained so far Yeah Param please go ahead
 
-### Speaker 3
+speaker_3: Yeah so like in the example where object was passed in an argument in a function So like in that case do we have to return that object also if we mutate or if we do not return that object and reassign in the caller function like will it mutate the original object
 
-Yeah so like in the example where object was passed in an argument in a function So like in that case do we have to return that object also if we mutate or if we do not return that object and reassign in the caller function like will it mutate the original object
+speaker_1: No I did not fully understand Like for example the one I explained at the beginning of the session lets say you are manipulating a large object by passing it to a particular function and then getting it back Is that the example you are speaking Yeah that
 
-### Speaker 1
+speaker_3: Yeah that one was exactly
 
-No I did not fully understand Like for example the one I explained at the beginning of the session lets say you are manipulating a large object by passing it to a particular function and then getting it back Is that the example you are speaking Yeah that
-
-### Speaker 3
-
-Yeah that one was exactly
-
-### Speaker 1
-
-Exactly So Ill repeat the question first and then Ill answer So I was explaining like many times in code review etc people think you are passing a heavy object into a utility you are transforming it and getting back People consider as a bad thing So instead of that you can just pass the object What I was suggesting you can pass the object only reference will be passed Youre going to modify and come back Now with respect to mutation param in JavaScript if you know objects and arrays are deep copied Uh aggregation arrays are shallow copied Im very sorry Objects and arrays are shallow copied
+speaker_1: Exactly So Ill repeat the question first and then Ill answer So I was explaining like many times in code review etc people think you are passing a heavy object into a utility you are transforming it and getting back People consider as a bad thing So instead of that you can just pass the object What I was suggesting you can pass the object only reference will be passed Youre going to modify and come back Now with respect to mutation param in JavaScript if you know objects and arrays are deep copied Uh aggregation arrays are shallow copied Im very sorry Objects and arrays are shallow copied
 
 
 So by nature it is not going to get mutated if you want to mutate it you can mutate it param
 
-### Speaker 3
+speaker_3: Okay and like if if I do I have to return from that function or just if I change some properties then it will be reflected in the
 
-Okay and like if if I do I have to return from that function or just if I change some properties then it will be reflected in the
+speaker_1: Yes its gonna get reflected okay
 
-### Speaker 1
+speaker_3: Okay
 
-Yes its gonna get reflected okay
+speaker_1: Sure Samia Samia Bharti
 
-### Speaker 3
-
-Okay
-
-### Speaker 1
-
-Sure Samia Samia Bharti
-
-### Speaker 3
-
-Yeah so I
+speaker_3: Yeah so I
 
 
 task queue would get be you know uh like transferred to the call stack at once so say you have like multiple events right like say promise uh fetch and everything so say you have 10 of those so all 10 of those would be uh like transferred to the call stack in the same order and then they would be executed one by one right and once the call stack is empty then say if i have any other thing in the macro task queue then that would be executed
 
-### Speaker 1
+speaker_1: Agreed Samya Correct So its slightly a one level deep EPC right Event loop also will mention the concept of delay actually See because there is lets say the hundred things are done running at once right So now when do you get to know like these many things are there in the microtask queue Youre getting my point right How many of them to move By the time you move something else might come correct So what event loop does is it checks in this particular period how many of them are there and it will move all of them to call stack in the same order okay And get executed okay
 
-Agreed Samya Correct So its slightly a one level deep EPC right Event loop also will mention the concept of delay actually See because there is lets say the hundred things are done running at once right So now when do you get to know like these many things are there in the microtask queue Youre getting my point right How many of them to move By the time you move something else might come correct So what event loop does is it checks in this particular period how many of them are there and it will move all of them to call stack in the same order okay And get executed okay
+speaker_3: Okay I mean is there a specific algorithm like any
 
-### Speaker 3
+speaker_2: empty right
 
-Okay I mean is there a specific algorithm like any
+speaker_1: Play D Tech
 
-### Speaker 2
+speaker_2: or every millisecond like whats that interest
 
-empty right
-
-### Speaker 1
-
-Play D Tech
-
-### Speaker 2
-
-or every millisecond like whats that interest
-
-### Speaker 1
-
-Good question Somya Interval point of view as far I know maybe I can double check So event loop is a custom algorithm for different JavaScript environments As I told Chrome has a different event loop Nodejs has a different event loop maybe Safari has a different event loop And each of them might have custom implementation of theirs So what is the millisecond or microsecond with which it is going to check is largely that browser or however the implementation dependent Maybe we can check how much Chrome takes in general and you can remember that But the delay is particularly an algorithm written for that particular execution environment
+speaker_1: Good question Somya Interval point of view as far I know maybe I can double check So event loop is a custom algorithm for different JavaScript environments As I told Chrome has a different event loop Nodejs has a different event loop maybe Safari has a different event loop And each of them might have custom implementation of theirs So what is the millisecond or microsecond with which it is going to check is largely that browser or however the implementation dependent Maybe we can check how much Chrome takes in general and you can remember that But the delay is particularly an algorithm written for that particular execution environment
 
 
 Im sure
 
-### Speaker 3
+speaker_3: Sure should thanks
 
-Sure should thanks
-
-### Speaker 1
-
-Thank yous Thank you Yeah Yeah Mutteraj please
+speaker_1: Thank yous Thank you Yeah Yeah Mutteraj please
 
 
 Esaki Raj I think your name is Muthuraj only Im Im correct telling correct now
 
-### Speaker 2
+speaker_2: Yeah got it got it
 
-Yeah got it got it
+speaker_1: Nah yes you are audible with Raj please turn on
 
-### Speaker 1
+speaker_3: Okay so you have said the different browser have a different kind of event loop but all the primary work is to listen the call stack heap and the web APIs right So what is the other key differences here we can see That is my first question Can answer I can ask second question
 
-Nah yes you are audible with Raj please turn on
-
-### Speaker 3
-
-Okay so you have said the different browser have a different kind of event loop but all the primary work is to listen the call stack heap and the web APIs right So what is the other key differences here we can see That is my first question Can answer I can ask second question
-
-### Speaker 1
-
-Sure See event loop like JavaScript has given implementation for the whoever wants to use the event loop implementation is kept open The reason being lets say Nodejs dont have web APIs correct Like there is no concept of all the things that whatever browser is providing Those things are not there So Im gonna explain actually there is one more section around like why event loop why does JS engine do not include the event loop Ill explain more But in a nutshell if you have to see the implementation is left to the different environments because however they want to implement they can implement it
+speaker_1: Sure See event loop like JavaScript has given implementation for the whoever wants to use the event loop implementation is kept open The reason being lets say Nodejs dont have web APIs correct Like there is no concept of all the things that whatever browser is providing Those things are not there So Im gonna explain actually there is one more section around like why event loop why does JS engine do not include the event loop Ill explain more But in a nutshell if you have to see the implementation is left to the different environments because however they want to implement they can implement it
 
 
 So what is the key difference JavaScript is basically giving an option to everyone who is implementing In fact the compilers also if you see the V8 and Chrome V8 and Safari are not same compilers right At least with my experience like the websites load much fluent and better in Chrome compared to Safari Even if you see the OpenAIR recently come with their browser they are also using the Chromium which is an engine that is finally behind all the Chrome things right So the implementation like I have given you these are my rules Like variable created with var given need to be hoisted This is my rules which is
@@ -514,40 +446,24 @@ So what is the key difference JavaScript is basically giving an option to everyo
 
 my script or JavaScript says however you want to implement it whether you write a complaint Python C plus plus Java whichever is the thing that you can write and make that to work faster or efficient up to you JavaScript as a language or as a body is not uh putting a restriction on that okay
 
-### Speaker 3
+speaker_3: Okay okay so my second question is now you explain that concept of microtask microtask with the one simple file with the console log right What if if I have the same kind of file in two file So how it will execute It will create one file like this then it will take the another file how it is executed
 
-Okay okay so my second question is now you explain that concept of microtask microtask with the one simple file with the console log right What if if I have the same kind of file in two file So how it will execute It will create one file like this then it will take the another file how it is executed
-
-### Speaker 1
-
-Im going to explain more about the execution context where Im going to go deep there but Ill give you some simple analogy See files are something a logical separation for human to understand like 1 js 2 js to 10 js right So whatever the files that we are seeing logically it need not be the way the browser sees it So you can consider like one regime of work One regime I mean like everything that is required to execute one web page many a times I would not say all the time many a times is just one big JavaScript dump for the browser
+speaker_1: Im going to explain more about the execution context where Im going to go deep there but Ill give you some simple analogy See files are something a logical separation for human to understand like 1 js 2 js to 10 js right So whatever the files that we are seeing logically it need not be the way the browser sees it So you can consider like one regime of work One regime I mean like everything that is required to execute one web page many a times I would not say all the time many a times is just one big JavaScript dump for the browser
 
 
 whatever the logical separation that you think you have according as per the files that are not a logical separation for the browser to execute Okay but therell be at times where there is more than one global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im going to explain more about global Im
 
-### Speaker 2
+speaker_2: Okay okay
 
-Okay okay
+speaker_1: Yeah son please go ahead
 
-### Speaker 1
+speaker_2: I wasnt just I had a question that since this is called as call stack right so if I think it is inferred from the stack data structure right but as you mentioned that any task that is put inside this stack is executed immediately we dont have to wait for another to be pushed on top of it right
 
-Yeah son please go ahead
+speaker_4: How how does that relate like calling it a stack data structure and executing it immediately
 
-### Speaker 2
+speaker_2: stack data structure and executing it
 
-I wasnt just I had a question that since this is called as call stack right so if I think it is inferred from the stack data structure right but as you mentioned that any task that is put inside this stack is executed immediately we dont have to wait for another to be pushed on top of it right
-
-### Speaker 4
-
-How how does that relate like calling it a stack data structure and executing it immediately
-
-### Speaker 2
-
-stack data structure and executing it
-
-### Speaker 1
-
-Very good Yeah This question also I ask in interview So good that you asked the same question to me So if you observe right like to be honest Im going to explain more about execution context and other things See a statement like this will individually will not be put into the stack There is an execution context that will be created and statements will be executed inside that We learn more Okay Now answering your question if everything coming here executing one after another why do we need a stack I explained that actually Lets say there are multiple different functions right which you are calling one after another I think somewhere I had that right
+speaker_1: Very good Yeah This question also I ask in interview So good that you asked the same question to me So if you observe right like to be honest Im going to explain more about execution context and other things See a statement like this will individually will not be put into the stack There is an execution context that will be created and statements will be executed inside that We learn more Okay Now answering your question if everything coming here executing one after another why do we need a stack I explained that actually Lets say there are multiple different functions right which you are calling one after another I think somewhere I had that right
 
 
 like for example a calling b b calling c right Then what would happen is like the first whenever youre calling a a is pushed onto the stack Youre calling a first a is pushed onto the stack then b is pushed onto the stack then consolelog is executed So there is a chronological order that we need to maintain like how to which function should be popped when and the return value of that should be passed to which function So there is an order required in terms of execution And call stack is not actually property of just the JavaScript itself Almost all the programming language
@@ -555,13 +471,9 @@ like for example a calling b b calling c right Then what would happen is like th
 
 that we use has a equivalent property as that of the stack where execution order is maintained thats the reason call stack is stack okay yes agar please go ahead
 
-### Speaker 2
+speaker_2: a network tab or somewhere like how we will
 
-a network tab or somewhere like how we will
-
-### Speaker 1
-
-No I think youll not be able to visualize because these are intrinsic and which one to put in microtask and which one to put in macrotask is predefined
+speaker_1: No I think youll not be able to visualize because these are intrinsic and which one to put in microtask and which one to put in macrotask is predefined
 
 
 there is no new element that comes overnight correct and whenever ecma script is changing its rules its going to basically announce to all the browsers like well in advance so if at all they have to make a change they need to keep themselves ready so it is basically these are the rules that you need to follow if you are writing a compiler or interpreter for my language so people whoever is following that they are going to do the same thing okay
@@ -716,13 +628,9 @@ kept in the call stack okay please ask me anybody has a network please raise you
 
 Again its super important concept The concept of execution context is very very important in terms of interview Plus although itll give you like fundamental understanding of JavaScript like you start looking at the concept differently once you understand the stack very well Okay Please go out Sagar Yeah
 
-### Speaker 4
+speaker_4: Uh yeah so from this uh second
 
-Uh yeah so from this uh second
-
-### Speaker 1
-
-should we assume that global context is nothing but like anything that is outside of all the function that is global context outside okay okay anything within the function specific function execution context is created anything outside a global extension context is going to handle that lets say global variables are there right those are handled in the global extension context okay i see pranita has asked a question im just seeing her question can we say extension context is an object that has all the necessary information required for an execution of the code block you can call that pranita
+speaker_1: should we assume that global context is nothing but like anything that is outside of all the function that is global context outside okay okay anything within the function specific function execution context is created anything outside a global extension context is going to handle that lets say global variables are there right those are handled in the global extension context okay i see pranita has asked a question im just seeing her question can we say extension context is an object that has all the necessary information required for an execution of the code block you can call that pranita
 
 
 In simple words like I prefer to call existing context like more like a box or you can object is also right because everything in the object is object only in JavaScript You can imagine that block everything required to execute that block within present is within that box only box or block Okay thats a good analogy You can consider it like an object also or you can consider like a block of thing everything required to execute is present within that Okay Anybody has any question on the execution context Because I have few question to ask
@@ -730,13 +638,9 @@ In simple words like I prefer to call existing context like more like a box or y
 
 Yes uh Saad please go ahead
 
-### Speaker 4
+speaker_4: Just a small question that JavaScript pushes anything in the call stack only when the function is called right not when it is when it is declared
 
-Just a small question that JavaScript pushes anything in the call stack only when the function is called right not when it is when it is declared
-
-### Speaker 1
-
-No no correct only when that is a reference getting that time well get getting it added so correct
+speaker_1: No no correct only when that is a reference getting that time well get getting it added so correct
 
 
 Anybody else any other question
@@ -750,32 +654,20 @@ Yeah see execution context is you can consider like the call stack basic Is it a
 
 the the stack so is it part of a js engine we can we are safe to say actually we can say its part of the the engine also okay yes please
 
-### Speaker 4
+speaker_4: Yeah so I was just thinking that you know why do
 
-Yeah so I was just thinking that you know why do
+speaker_1: Uh thing that you talked about right uh that
 
-### Speaker 1
-
-Uh thing that you talked about right uh that
-
-### Speaker 2
-
-Uh
+speaker_2: Uh
 
 
 So apart from that is there any other reason like why execution context is specifically created
 
-### Speaker 1
+speaker_1: Yeah so primary reason is that only like unlike languages Java or C plus plus where it is not compiled many a times So we are trying to allocate memory during the runtime So thats the primary reason why execution context is there Somya Yeah
 
-Yeah so primary reason is that only like unlike languages Java or C plus plus where it is not compiled many a times So we are trying to allocate memory during the runtime So thats the primary reason why execution context is there Somya Yeah
+speaker_2: Oh okay thank you
 
-### Speaker 2
-
-Oh okay thank you
-
-### Speaker 1
-
-Anybody else any other question
+speaker_1: Anybody else any other question
 
 
 Im assuming everybody understanding whatever Im teaching so far Okay You can do a thumbs up if you are understanding Okay Now let me ask some question Sagar has given thumbs up Thanks Sagar Okay Sawmi also given Sadhkan also given Thank you Sagar Now my question is simple So now we have a global execution context and multiple function execution context as you see Correct So my question is see this lot of times we will have async functions right within the function execution context Lets see there is a set timeout in say hi
@@ -792,40 +684,24 @@ Correct And this internally is called by the greetings So greetings need to wait
 
 I can repeat the question for those who might have not understood The question is you have a function called say hi Within the function there is a set timeout The set timeout can take a lot of time to execute and there is a caller who has called this function Will this say hi wait until the time is over and then returns to greetings or it will gonna do something else Okay Peace Godshad your answer
 
-### Speaker 4
-
-the uh
+speaker_4: the uh
 
 
 So
 
-### Speaker 1
+speaker_1: Uh huh
 
-Uh huh
+speaker_2: an asynchronous uh uh word and it pushes to the microtask view
 
-### Speaker 2
+speaker_1: Uh
 
-an asynchronous uh uh word and it pushes to the microtask view
+speaker_2: microtask queue and microtask queue checks for the main call stack if this is empty
 
-### Speaker 1
+speaker_4: or not only once it is empty like it will do further operations like console
 
-Uh
+speaker_1: So now its now youre saying like say hi will not wait until the set time mode is finished its execution so when the rest of the other statements are executed say hi will be removed from the stack thats what youre saying so
 
-### Speaker 2
-
-microtask queue and microtask queue checks for the main call stack if this is empty
-
-### Speaker 4
-
-or not only once it is empty like it will do further operations like console
-
-### Speaker 1
-
-So now its now youre saying like say hi will not wait until the set time mode is finished its execution so when the rest of the other statements are executed say hi will be removed from the stack thats what youre saying so
-
-### Speaker 4
-
-Yeah
+speaker_4: Yeah
 
 
 Im not say hi entirely once
@@ -833,17 +709,11 @@ Im not say hi entirely once
 
 greetings should be printed and then say hi is called right correct so say uh so uh say hi when it is called then it encounters an asynchronous part of code then it will push to the main call stack
 
-### Speaker 1
+speaker_1: My question is with respect to this stacks right Im not asking the order of execution so now with respect to items in the stack how they actually get executed
 
-My question is with respect to this stacks right Im not asking the order of execution so now with respect to items in the stack how they actually get executed
+speaker_2: Thats right
 
-### Speaker 2
-
-Thats right
-
-### Speaker 1
-
-like lets say now say hi will it be removed before even set time mode is executed or will it be staying until the set time mode is executed thats my question
+speaker_1: like lets say now say hi will it be removed before even set time mode is executed or will it be staying until the set time mode is executed thats my question
 
 
 You can think okay your answer
@@ -854,75 +724,43 @@ Yeah Im Muteraj your answer
 
 I believe maybe you might have some issues I call yeah you want to answer
 
-### Speaker 2
+speaker_2: yeah so i think uh the answer will be like reading then the high and then after that then say the set timeout will be printed uh resulting like when the say high is executed so it will go to that execute that function so in that like set timeout will be pushed to the event loop or basically into the macro task and then until the time it is getting executed it will execute this high statement and then comes back
 
-yeah so i think uh the answer will be like reading then the high and then after that then say the set timeout will be printed uh resulting like when the say high is executed so it will go to that execute that function so in that like set timeout will be pushed to the event loop or basically into the macro task and then until the time it is getting executed it will execute this high statement and then comes back
+speaker_1: Who is answering now okay Prashant you are answering that say hi will wait in the the its functioning context will be present until the set time it is executed thats what you are saying am i right
 
-### Speaker 1
-
-Who is answering now okay Prashant you are answering that say hi will wait in the the its functioning context will be present until the set time it is executed thats what you are saying am i right
-
-### Speaker 2
-
-Yeah so basically Im saying like first greeting will uh so when we are calling the greeting first greeting will execute then say hi will be called uh okay so when the say hi will be called it will try to execute so set when the set timeout statement will be there it will push to the microtask queue okay and then the hi will be printed and then the when the event uh will check like okay the store uh call stack is empty then again that uh inside set timeout will say hi
+speaker_2: Yeah so basically Im saying like first greeting will uh so when we are calling the greeting first greeting will execute then say hi will be called uh okay so when the say hi will be called it will try to execute so set when the set timeout statement will be there it will push to the microtask queue okay and then the hi will be printed and then the when the event uh will check like okay the store uh call stack is empty then again that uh inside set timeout will say hi
 
 
 The order will be grating higher and then inside set turn out
 
-### Speaker 1
+speaker_1: Ill repeat the question see I am not my present my question is not like the order of execution that I already explained but Im sure you guys are going to explain my question is with respect to execution context so you think like say his execution model will be there or will be removed
 
-Ill repeat the question see I am not my present my question is not like the order of execution that I already explained but Im sure you guys are going to explain my question is with respect to execution context so you think like say his execution model will be there or will be removed
+speaker_2: Michael
 
-### Speaker 2
-
-Michael
-
-### Speaker 1
-
-Once after this block is executed it is going to be there until September will be removed It will not wait for September to complete What will happen
+speaker_1: Once after this block is executed it is going to be there until September will be removed It will not wait for September to complete What will happen
 
 
 You can you can take
 
-### Speaker 2
+speaker_2: I cant Im not able
 
-I cant Im not able
+speaker_1: Yeah muteraj yeah please go
 
-### Speaker 1
+speaker_2: okay so uh sorry my my time my set is correct so the set time mode is already pushed to the macro task so executor execution context will be the completed so it will take care by the uh event loop automatically after the time given time completed it will execute based upon the is the task is empty or not okay
 
-Yeah muteraj yeah please go
+speaker_1: Okay thank you Materia your answer
 
-### Speaker 2
+speaker_4: say hi execution context will be popped out of call stack once it logs hi then after that when timer completes that set timer of callbacks will be taken into macro task queue and once the call stack is empty this callbacks execution context is created and executed
 
-okay so uh sorry my my time my set is correct so the set time mode is already pushed to the macro task so executor execution context will be the completed so it will take care by the uh event loop automatically after the time given time completed it will execute based upon the is the task is empty or not okay
+speaker_1: Right answer point there Somewhere your answer is same or different
 
-### Speaker 1
+speaker_4: Yeah no my answer is also same because uh like say when JavaScript would be executing it would see that okay set timeout is something
 
-Okay thank you Materia your answer
+speaker_1: which I cannot do anything regarding it so it would take help of the web APIs and I mean in there the timer would run and once the timer like expires the callback function would be moved to the
 
-### Speaker 4
+speaker_4: Macro task queue and then uh I mean in short the execution context would be popped off after I is printed
 
-say hi execution context will be popped out of call stack once it logs hi then after that when timer completes that set timer of callbacks will be taken into macro task queue and once the call stack is empty this callbacks execution context is created and executed
-
-### Speaker 1
-
-Right answer point there Somewhere your answer is same or different
-
-### Speaker 4
-
-Yeah no my answer is also same because uh like say when JavaScript would be executing it would see that okay set timeout is something
-
-### Speaker 1
-
-which I cannot do anything regarding it so it would take help of the web APIs and I mean in there the timer would run and once the timer like expires the callback function would be moved to the
-
-### Speaker 4
-
-Macro task queue and then uh I mean in short the execution context would be popped off after I is printed
-
-### Speaker 1
-
-Okay got it See Im extending the example slightly now Okay so now this was the original problem I gave right Now lets say there are two variables one local variable and there is one global variable Okay x y m y So now x is 10 which is local y is 10 which is global Okay so now if you observe with respect to this the global execution context at reference of this y and x Now what is happening is as you measured if you agreed like what would happen is
+speaker_1: Okay got it See Im extending the example slightly now Okay so now this was the original problem I gave right Now lets say there are two variables one local variable and there is one global variable Okay x y m y So now x is 10 which is local y is 10 which is global Okay so now if you observe with respect to this the global execution context at reference of this y and x Now what is happening is as you measured if you agreed like what would happen is
 
 
 say hi has created a function execution context fac and it will be removed it is not going to wait for set timer to come back whenever set timer mode comes back it is going to create its own execution context and it will execute but what happens to the global execution context will it stay until the set timer mode comes back or it will be also removed parenthesis a new hand raise or last time whatever you raise that hand only okay sure thank you so ill repeat the question okay now ill call some of the people in the call randomly so that everybody is active in the call
@@ -930,13 +768,9 @@ say hi has created a function execution context fac and it will be removed it is
 
 Okay so Manish Kumar you got my question what Im saying
 
-### Speaker 3
+speaker_3: yeah so global education context will stay even
 
-yeah so global education context will stay even
-
-### Speaker 1
-
-users saying globalization context is going to stay yeah until the set amount comes back okay so what do you think
+speaker_1: users saying globalization context is going to stay yeah until the set amount comes back okay so what do you think
 
 
 Suprio am I audible
@@ -944,13 +778,9 @@ Suprio am I audible
 
 What do you think global exhibition contest is gonna stay until the exhibition happens or global exhibition contest will also be removed
 
-### Speaker 2
+speaker_2: No it will scan
 
-No it will scan
-
-### Speaker 1
-
-It will stay okay and uh
+speaker_1: It will stay okay and uh
 
 
 Vinita what do you think
@@ -958,13 +788,9 @@ Vinita what do you think
 
 Maybe we need having audio issues Damyesh what do you think
 
-### Speaker 4
+speaker_4: Global execution context will stay up
 
-Global execution context will stay up
-
-### Speaker 1
-
-will stay okay sure Mahesh what do you think
+speaker_1: will stay okay sure Mahesh what do you think
 
 
 Mahesh could be very polite I have spoken to you during screening Mahesh is Mahesh thinks before speaking whether should I speak or not Okay Please tell me Mahesh what will happen in globalizing context
@@ -975,109 +801,57 @@ The clock timer will have its own
 
 context like y and x it will get from there okay sure uh Divya you have something to say
 
-### Speaker 4
+speaker_4: Uh I think it will stay global
 
-Uh I think it will stay global
+speaker_1: Okay Trisha what do you think
 
-### Speaker 1
+speaker_2: I also think it will stay
 
-Okay Trisha what do you think
+speaker_1: Okay anybody thinks it doesnt stay you can raise your hand
 
-### Speaker 2
+speaker_2: Im not even listening
 
-I also think it will stay
+speaker_1: Asher please
 
-### Speaker 1
+speaker_2: Yeah I think it wont stay because the only reason the set time mod will run is when the call stack is empty So I think thats one of the reasons
 
-Okay anybody thinks it doesnt stay you can raise your hand
+speaker_1: Agreed yeah Pranitha you want to answer
 
-### Speaker 2
+speaker_4: Yeah seeing it does not still
 
-Im not even listening
+speaker_1: Okay it does not stay okay
 
-### Speaker 1
+speaker_4: Okay
 
-Asher please
+speaker_1: Sure your answer also does not stay On small problem we are hearing you but your audio is very low Maybe you can adjust the mic next time Okay Yeah Sure Sure Ill see if there anybody else Sri Krishna you have anything to say
 
-### Speaker 2
+speaker_2: I think it will stay
 
-Yeah I think it wont stay because the only reason the set time mod will run is when the call stack is empty So I think thats one of the reasons
+speaker_1: Okay Satya I actually wanted to call Satya but yesterday I spoke to Satya and hes to me very quiet me calling him should not annoy him so I did not call your name Satya please tell me
 
-### Speaker 1
+speaker_2: Yeah is it correct to say that because the functional evaluation context is not there by the time it will take the global execution context
 
-Agreed yeah Pranitha you want to answer
+speaker_1: So your answer is gonna stay or not stay Sakethi
 
-### Speaker 4
+speaker_2: Yeah it was still so
 
-Yeah seeing it does not still
+speaker_1: It will stay okay si uh si won yeah please go on
 
-### Speaker 1
+speaker_2: Uh that was from previous
 
-Okay it does not stay okay
+speaker_1: It will stay shivam thats what youre saying correct
 
-### Speaker 4
+speaker_2: Uh no no it wont stand
 
-Okay
+speaker_1: It wont stay it wont stay it wont stay and many here in the call things it can stay see Ill tell you how it works
 
-### Speaker 1
+speaker_2: See Ill tell you how it works
 
-Sure your answer also does not stay On small problem we are hearing you but your audio is very low Maybe you can adjust the mic next time Okay Yeah Sure Sure Ill see if there anybody else Sri Krishna you have anything to say
+speaker_1: it wont stay okay prashant says it wont stay okay anybody in the chat have there anybody in the comment anything okay mutra says it will stay and many vaishali says it will stay you want to say answer anything vaishali will it stay you say it will stay you want to justify
 
-### Speaker 2
+speaker_4: Because yeah because I think like execution context is renewed only after everything uh has completed their executions so I think uh set time out will complete and then a global execution
 
-I think it will stay
-
-### Speaker 1
-
-Okay Satya I actually wanted to call Satya but yesterday I spoke to Satya and hes to me very quiet me calling him should not annoy him so I did not call your name Satya please tell me
-
-### Speaker 2
-
-Yeah is it correct to say that because the functional evaluation context is not there by the time it will take the global execution context
-
-### Speaker 1
-
-So your answer is gonna stay or not stay Sakethi
-
-### Speaker 2
-
-Yeah it was still so
-
-### Speaker 1
-
-It will stay okay si uh si won yeah please go on
-
-### Speaker 2
-
-Uh that was from previous
-
-### Speaker 1
-
-It will stay shivam thats what youre saying correct
-
-### Speaker 2
-
-Uh no no it wont stand
-
-### Speaker 1
-
-It wont stay it wont stay it wont stay and many here in the call things it can stay see Ill tell you how it works
-
-### Speaker 2
-
-See Ill tell you how it works
-
-### Speaker 1
-
-it wont stay okay prashant says it wont stay okay anybody in the chat have there anybody in the comment anything okay mutra says it will stay and many vaishali says it will stay you want to say answer anything vaishali will it stay you say it will stay you want to justify
-
-### Speaker 4
-
-Because yeah because I think like execution context is renewed only after everything uh has completed their executions so I think uh set time out will complete and then a global execution
-
-### Speaker 1
-
-Sure Ill quickly summarize Actually global execution is not going to stay See whatever is in the stack as somebody clearly pointed out I think Shivamo or Pranita told you I think So if you think right until call stack is empty set amount will not come here We already agreed that right So if that is what do you mean by call stack is empty There shouldnt be any execution context So as long as theres execution context then nothing comes to call stack correct So even the global execution context is also removed and these also will be removed Only then the stack is empty and whatever the set amount is
+speaker_1: Sure Ill quickly summarize Actually global execution is not going to stay See whatever is in the stack as somebody clearly pointed out I think Shivamo or Pranita told you I think So if you think right until call stack is empty set amount will not come here We already agreed that right So if that is what do you mean by call stack is empty There shouldnt be any execution context So as long as theres execution context then nothing comes to call stack correct So even the global execution context is also removed and these also will be removed Only then the stack is empty and whatever the set amount is
 
 
 to the macro to ski will come back now comes an interesting question was it like now global vision context is cleared from where we are going to get a reference to these variables that y is equal to 10 x equal to 10 etc right because there is no existing context to have reference to that what happens is like the set time out or promise they form a closure and they will have reference to the variables you all know closure we are going to discuss more tomorrow also so they will already have reference to the variable that they used so whenever they come back to the stack theyre going to actually spin up a
@@ -1094,64 +868,36 @@ Huh this is a very interesting question And this notion Ill be sharing in the di
 
 I believe you guys understood the problem The problem is lets say there are multiple different variables in the across different files like 1 js 2 js 3 js etc which having the same name And usually global execution contexts responsibility is to have a reference of all of those variables correct Like 1 js has a variable A and 2 js also has a variable A During execution the value should be different for each of them right How does global execution context will actually be able to understand and explain Yeah Mutharaj please explain
 
-### Speaker 2
+speaker_2: Yeah so Im just understanding this from the JavaScript not JavaScript perspective Im understanding this in the React perspective when we have the same variable name or same function name in the JavaScript or anything so browser will con convert into according to the it will understand this are both are the different so it will convert to the different name whatever we given it wont be executed so in that way I guess the variable
 
-Yeah so Im just understanding this from the JavaScript not JavaScript perspective Im understanding this in the React perspective when we have the same variable name or same function name in the JavaScript or anything so browser will con convert into according to the it will understand this are both are the different so it will convert to the different name whatever we given it wont be executed so in that way I guess the variable
+speaker_1: You think the variable a you think the variable a will be renamed to something like a underscore 1 dot js something like that
 
-### Speaker 1
+speaker_2: Yes yes so that it
 
-You think the variable a you think the variable a will be renamed to something like a underscore 1 dot js something like that
+speaker_1: So that it can uniquely identify yeah
 
-### Speaker 2
+speaker_2: Yes
 
-Yes yes so that it
+speaker_1: Okay sure Yes Sudipta what do you think
 
-### Speaker 1
+speaker_4: Uh I think would it form a closure uh and like a separate uh execution context
 
-So that it can uniquely identify yeah
-
-### Speaker 2
-
-Yes
-
-### Speaker 1
-
-Okay sure Yes Sudipta what do you think
-
-### Speaker 4
-
-Uh I think would it form a closure uh and like a separate uh execution context
-
-### Speaker 1
-
-Okay
+speaker_1: Okay
 
 
 Uh we are saying lets see that we agree there is one global extension context correct
 
-### Speaker 3
+speaker_3: Okay
 
-Okay
+speaker_1: So in one globalization context we have to reference multiple different variables which are given us a common name
 
-### Speaker 1
+speaker_3: Okay
 
-So in one globalization context we have to reference multiple different variables which are given us a common name
+speaker_1: the uh closure may not be like the very valid answer okay yeah Ramya shree please god
 
-### Speaker 3
+speaker_4: And those variables will be referenced by a function execution context
 
-Okay
-
-### Speaker 1
-
-the uh closure may not be like the very valid answer okay yeah Ramya shree please god
-
-### Speaker 4
-
-And those variables will be referenced by a function execution context
-
-### Speaker 1
-
-Now actually see function execution context how it works right function execution okay good that like you brought that up maybe I missed explaining also see how you all know the priority how the execution happens right see global how you lets say there is a variable a first it will check the variable a exists in the function if it do not exist in a then it will look in the global scope correct so what do you mean when it look in global scope it is actually looking in the global execution context it checks in the function execution context if it is not there then it is going to expect them in the global execution context so my question
+speaker_1: Now actually see function execution context how it works right function execution okay good that like you brought that up maybe I missed explaining also see how you all know the priority how the execution happens right see global how you lets say there is a variable a first it will check the variable a exists in the function if it do not exist in a then it will look in the global scope correct so what do you mean when it look in global scope it is actually looking in the global execution context it checks in the function execution context if it is not there then it is going to expect them in the global execution context so my question
 
 
 then only that whatever you are saying Ramya where the variable actually do not exist in the local extension context and refer the global extension context but there are multiple different files which are having the same variable so how does that work is my question
@@ -1159,64 +905,36 @@ then only that whatever you are saying Ramya where the variable actually do not 
 
 Anybody wants to answer yeah sadgaurav
 
-### Speaker 2
+speaker_2: One thing that I can think of is that creating a separate context for each and every file that is how
 
-One thing that I can think of is that creating a separate context for each and every file that is how
+speaker_1: Separate context for each and every file that is not happening I told right see what you want what we want to do like that JavaScript do not work for files are just a logical separation for us not for the JavaScript Okay Paramya what is your answer
 
-### Speaker 1
+speaker_3: Yeah I think like uh it will get over it by the last uh execution control because uh whenever well be because we know
 
-Separate context for each and every file that is not happening I told right see what you want what we want to do like that JavaScript do not work for files are just a logical separation for us not for the JavaScript Okay Paramya what is your answer
+speaker_1: how can it get overridden the one a it was 10 another it is 20 if you override it by 20 your program will break correct program
 
-### Speaker 3
+speaker_3: Yeah like I mean if youre including all the files in some main JavaScript script file and we are consoling at the end of this script
 
-Yeah I think like uh it will get over it by the last uh execution control because uh whenever well be because we know
-
-### Speaker 1
-
-how can it get overridden the one a it was 10 another it is 20 if you override it by 20 your program will break correct program
-
-### Speaker 3
-
-Yeah like I mean if youre including all the files in some main JavaScript script file and we are consoling at the end of this script
-
-### Speaker 1
-
-No that like that it cannot execute as I told it that like there is it cannot override because the override means then your whatever logic you wrote on program will be like will be like ruined it will be like somebody else will be taking on that correct uh Anand you want to say anything Anand Barak
+speaker_1: No that like that it cannot execute as I told it that like there is it cannot override because the override means then your whatever logic you wrote on program will be like will be like ruined it will be like somebody else will be taking on that correct uh Anand you want to say anything Anand Barak
 
 
 See people who are when I interacted people who are naturally uh like less speaking right Im calling out their name they may not raise their hand yeah and then please
 
-### Speaker 2
+speaker_2: Uh Sure nobodys
 
-Uh Sure nobodys
+speaker_1: Sure nobodys
 
-### Speaker 1
+speaker_2: Ill be right back
 
-Sure nobodys
+speaker_1: Yeah Vimal your answer
 
-### Speaker 2
+speaker_2: Arguments
 
-Ill be right back
+speaker_1: You you understood right the question
 
-### Speaker 1
+speaker_2: Yeah I understand Im just thinking about it
 
-Yeah Vimal your answer
-
-### Speaker 2
-
-Arguments
-
-### Speaker 1
-
-You you understood right the question
-
-### Speaker 2
-
-Yeah I understand Im just thinking about it
-
-### Speaker 1
-
-just thinking about it sure see ill tell you the answer now i dont want to take more time i know it is a breakfast time so how it will work is there is one global extension context created for a realm of code and there could be different variables declared with the same name but as you know execution do not happen by name actually execution happen by references so though we think like there is one name whatever uh the beginning i think who told santosh or muthuraj whatever muthuraj told is like a very close answer
+speaker_1: just thinking about it sure see ill tell you the answer now i dont want to take more time i know it is a breakfast time so how it will work is there is one global extension context created for a realm of code and there could be different variables declared with the same name but as you know execution do not happen by name actually execution happen by references so though we think like there is one name whatever uh the beginning i think who told santosh or muthuraj whatever muthuraj told is like a very close answer
 
 
 Like where somehow the globalization need to make a difference of each of this variable Say Im giving a hint in the interview You may not know the exact answer but you can be logical in interview What do I mean we can be logical See if there is everything same then we cannot be able to differentiate a variable across the files That is a very very common sense We will not be able to differentiate across the files correct So then what we can actually do What we can do is that there should be some differentiator So other like lets say file prepending sort of a differentiator etc Instead of doing that what they do is uh
@@ -1242,21 +960,13 @@ mean etc so the built in function with javascript already know it will not creat
 
 Yeah
 
-### Speaker 4
+speaker_4: So like we have the defer which well be using for HTML and how does it correlate with the event loop and the call stack
 
-So like we have the defer which well be using for HTML and how does it correlate with the event loop and the call stack
-
-### Speaker 1
-
-Okay youre saying like whenever youre having a defer like you are gonna basically postponing the download of certain things correct So what in nutshell whatever that you would see in the event loop concept or the JavaScript engine anything that is loaded and available for execution its responsibility to only to execute it And however the codes are getting downloaded that is purely the way you code it plus the browser capability like browser however it want to download right Thats something that is browser doing Consider browser is actually doing lot of things
+speaker_1: Okay youre saying like whenever youre having a defer like you are gonna basically postponing the download of certain things correct So what in nutshell whatever that you would see in the event loop concept or the JavaScript engine anything that is loaded and available for execution its responsibility to only to execute it And however the codes are getting downloaded that is purely the way you code it plus the browser capability like browser however it want to download right Thats something that is browser doing Consider browser is actually doing lot of things
 
 
 calling the JavaScript engine we are calling the event loop and lot of other things browser is a combination of all of them browser is only offering them very explicitly okay but JavaScript engines responsibility to only execute the code that is ready to execute server
 
-### Speaker 4
+speaker_4: rightly available at that particular moment okay
 
-rightly available at that particular moment okay
-
-### Speaker 1
-
-Okay exactly yes yes anybody else any other question before you end the call
+speaker_1: Okay exactly yes yes anybody else any other question before you end the call

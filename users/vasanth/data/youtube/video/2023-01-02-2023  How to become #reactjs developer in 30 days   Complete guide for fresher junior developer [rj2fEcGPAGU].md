@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,17 +19,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: One of the very important aspect of JavaScript is JavaScript is not a language like you think If you are from a C C plus plus Java background their things work the way you think But JavaScript is not like that JavaScript is a single threaded interpreted programming My simple advice spend at least good to 10 days just for the React days Okay First five days you understand the basics by watching Code Evolution channel Next five days you start making Oh welcome back to Uncommon Geeks Myself Asant I hope you are all doing well In case if you are seeing me first time on the internet I am a content creator I am
 
-One of the very important aspect of JavaScript is JavaScript is not a language like you think If you are from a C C plus plus Java background their things work the way you think But JavaScript is not like that JavaScript is a single threaded interpreted programming My simple advice spend at least good to 10 days just for the React days Okay First five days you understand the basics by watching Code Evolution channel Next five days you start making Oh welcome back to Uncommon Geeks Myself Asant I hope you are all doing well In case if you are seeing me first time on the internet I am a content creator I am
+speaker_2: Oh
 
-### Speaker 2
-
-Oh
-
-### Speaker 1
-
-Basically make series on interview preparation and a lot of series that are made in the past which has been appreciated by many and lot of candidates have cleared their interview by watching my series link to the series will be somewhere on the screen also in the description section in case if you have not already watched them I would highly advise please go ahead and check them out okay now without wasting further time lets get started with the topic of the day that is how to become react js developer in 2023
+speaker_1: Basically make series on interview preparation and a lot of series that are made in the past which has been appreciated by many and lot of candidates have cleared their interview by watching my series link to the series will be somewhere on the screen also in the description section in case if you have not already watched them I would highly advise please go ahead and check them out okay now without wasting further time lets get started with the topic of the day that is how to become react js developer in 2023
 
 
 Okay as this this would be my first video in the 2023 and this is one of the very very important video and lot of people have asked me to make this video So Im making okay now So who are all the target audience freshers if you are engineering graduate graduate BC graduate MCA graduate who are in the pre final year or the final year who want to pursue front end as your career or youre a junior developer who is with a one year of experience six months to one year of experience you just started your career and but not able to align with the front end development how to start the front end development or if youre

@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-द्वाविंशः अध्यायः
+speaker_1: द्वाविंशः अध्यायः
 थव उवाच
 कानि तत्त्वानि विश्वेशसङ्ख्यातानि ऋषिभिः प्रभो
 नवैकादशपञ्चत्रीनाथत्वमिह शुश्रुम

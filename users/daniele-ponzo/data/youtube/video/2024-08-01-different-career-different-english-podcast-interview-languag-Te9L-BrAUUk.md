@@ -24,7 +24,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -32,6 +32,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And I started study sustainability science And and then a master then my PhD my postdoc and now I am a researcher uh in sustainability science at the University of Surrey And uh its been a big career change Uh a lot uh a lot has changed and uh especially my ability to to speak and write and communicate and discuss academic topic in English Thats been yes surely a a major change in my life
+speaker_1: And I started study sustainability science And and then a master then my PhD my postdoc and now I am a researcher uh in sustainability science at the University of Surrey And uh its been a big career change Uh a lot uh a lot has changed and uh especially my ability to to speak and write and communicate and discuss academic topic in English Thats been yes surely a a major change in my life

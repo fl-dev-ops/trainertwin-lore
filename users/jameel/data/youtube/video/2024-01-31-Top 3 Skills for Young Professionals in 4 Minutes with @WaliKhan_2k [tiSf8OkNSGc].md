@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,13 +18,9 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: I am lets say a 22 year old fresh graduate right now What are the two or three skills I need to build in order to manage my personal finances better
 
-I am lets say a 22 year old fresh graduate right now What are the two or three skills I need to build in order to manage my personal finances better
-
-### Speaker 2
-
-yeah so uh the first and foremost is the trace and track so that that is the utmost important thing regardless of whatever income you have you must have the trace and track system in place and that is very uh easy as well ive made several videos about this specific thing because i have seen if you if you have the habit of spending more until you dont recognize that it will not improve automatically you have to see over over the long period of time lets say six months give yourself a six months period and see where your expenses are
+speaker_2: yeah so uh the first and foremost is the trace and track so that that is the utmost important thing regardless of whatever income you have you must have the trace and track system in place and that is very uh easy as well ive made several videos about this specific thing because i have seen if you if you have the habit of spending more until you dont recognize that it will not improve automatically you have to see over over the long period of time lets say six months give yourself a six months period and see where your expenses are
 
 
 being happening and what I do normally is maintain a Google Sheet Google Sheet because earlier I was doing it on the Excel Sheet Excel Sheet is not most of the time its not accessible apart from your own computer so Google Sheet is the one which is accessible from all from your phone from your lets say laptop from your any device any kind of platform you can think of and keep it very simple Ive seen people talking about different apps I dont use any kind of app I just use Google Sheet because it will help me export the data and eventually I do my analysis

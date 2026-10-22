@@ -8,20 +8,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 3 - Deep Generative Models Intro to Generative Modelling
 
 ## Transcript
 
-
-### Speaker 1
-
-putting here
+speaker_1: putting here
 
 
 Uh yeah so just a couple of logistics things um
@@ -35,13 +32,9 @@ So if if you people have time so please join the tutorial otherwise you can acce
 
 Next to next Saturday
 
-### Speaker 2
+speaker_2: Fourteen I will leave
 
-Fourteen I will leave
-
-### Speaker 1
-
-Yeah
+speaker_1: Yeah
 
 
 We will have our first quiz on 14th hmm
@@ -49,70 +42,42 @@ We will have our first quiz on 14th hmm
 
 Okay
 
-### Speaker 2
+speaker_2: Uh sir can we have the tutorial either on Saturday evening or any of the weekday evenings Sunday is not the weekend thing
 
-Uh sir can we have the tutorial either on Saturday evening or any of the weekday evenings Sunday is not the weekend thing
-
-### Speaker 1
-
-And this is
+speaker_1: And this is
 
 
 See that right that please talk to coordinate with the TA because I believe that he had a He had a poll or something did he
 
-### Speaker 2
+speaker_2: North
 
-North
+speaker_1: Didnt he
 
-### Speaker 1
+speaker_2: No I I think we didnt got it
 
-Didnt he
+speaker_1: Surprising let me just call him right away and just to little data just give me a minute
 
-### Speaker 2
+speaker_2: So there was a poll actually there was a poll in that channel yeah yeah theres a poll in the channel
 
-No I I think we didnt got it
-
-### Speaker 1
-
-Surprising let me just call him right away and just to little data just give me a minute
-
-### Speaker 2
-
-So there was a poll actually there was a poll in that channel yeah yeah theres a poll in the channel
-
-### Speaker 1
-
-And they supply
+speaker_1: And they supply
 
 
 Then okay right I mean I think the how how how when it came actually or in the in the chat window or
 
-### Speaker 2
+speaker_2: No in the channels in the general of this channel there is a poll
 
-No in the channels in the general of this channel there is a poll
-
-### Speaker 1
-
-Oh okay
+speaker_1: Oh okay
 
 
 Yeah so so then its fine right it was was uh decided based on the outcome of that poll I suppose right
 
-### Speaker 4
+speaker_3: There were only 30
 
-There were only 30
+speaker_1: Okay what can we do Okay so let me ask him to have another poll perhaps and then decide just a second let me call him
 
-### Speaker 1
+speaker_3: I will carry my little toy with you
 
-Okay what can we do Okay so let me ask him to have another poll perhaps and then decide just a second let me call him
-
-### Speaker 4
-
-I will carry my little toy with you
-
-### Speaker 1
-
-Hes not picking it up let I hell call back once he calls back Ill tell him
+speaker_1: Hes not picking it up let I hell call back once he calls back Ill tell him
 
 
 Yeah I uh
@@ -126,13 +91,9 @@ And then we can decide okay where is this thing at here
 
 You see my screen
 
-### Speaker 2
+speaker_2: Not yet
 
-Not yet
-
-### Speaker 1
-
-This says it is being shared
+speaker_1: This says it is being shared
 
 
 Oh it says it has been shared here how come
@@ -149,21 +110,13 @@ Yeah tell me
 
 Please go on somebody go ahead
 
-### Speaker 4
+speaker_3: Yes
 
-Yes
+speaker_1: Dr Telli me
 
-### Speaker 1
+speaker_3: Yeah we are able to see it
 
-Dr Telli me
-
-### Speaker 4
-
-Yeah we are able to see it
-
-### Speaker 1
-
-Okay shall we start
+speaker_1: Okay shall we start
 
 
 Oh good Yeah So a little bit of recap before we continue with todays content
@@ -192,20 +145,14 @@ Probability theory part
 
 second I have to open that yeah okay yeah go on searching
 
-### Speaker 2
-
-question from last lecture so
+speaker_2: question from last lecture so
 
 
 that boreal sigma algebra so we just last week studied that in recent process class
 
-### Speaker 1
+speaker_1: Im closing
 
-Im closing
-
-### Speaker 2
-
-Uh zero to one and
+speaker_2: Uh zero to one and
 
 
 just asking for this
@@ -213,43 +160,27 @@ just asking for this
 
 problem you mentioned this sig borel sigma algebra is defined on minus infinity to infinity or like it is always on
 
-### Speaker 1
-
-See sigma borel sigma algebra for the real numbers right they are defined on real sets
+speaker_1: See sigma borel sigma algebra for the real numbers right they are defined on real sets
 
 
 Oh I think Ive confused right why is it between zero and one I
 
-### Speaker 2
+speaker_2: No no he just gave an example
 
-No no he just gave an example
+speaker_3: Thats all
 
-### Speaker 4
+speaker_1: So you can take any set and generate
 
-Thats all
+speaker_3: So you can take any set and generate
 
-### Speaker 1
-
-So you can take any set and generate
-
-### Speaker 4
-
-So you can take any set and generate
-
-### Speaker 1
-
-Yeah you can you can take any set and generate a sigma algebra on top of that right
+speaker_1: Yeah you can you can take any set and generate a sigma algebra on top of that right
 
 
 Uh but specifically Boolean Sigma algebras are defined on L numbers right
 
-### Speaker 2
+speaker_2: Yeah
 
-Yeah
-
-### Speaker 1
-
-Yeah small h sigma algebra on R that contains all the intervals that are possible that is the full sigma algebra yeah
+speaker_1: Yeah small h sigma algebra on R that contains all the intervals that are possible that is the full sigma algebra yeah
 
 
 See that is why I did not even take the I mean to define borel sigma algebra right I said like r rd and subsets of rd and then you have the distribution function on top of it right
@@ -260,13 +191,9 @@ Uh its more anything else uh
 
 But in such thing who is teaching random process is Aditya teaching it
 
-### Speaker 4
+speaker_3: Yes sir I did take a balance
 
-Yes sir I did take a balance
-
-### Speaker 1
-
-Yeah we are very good friends Yeah Okay So with that we will look at what supervised machine learning is I said that the data right is defined as some n samples okay that are drawn Yeah that is what I know The notation is that you have data sampled from a particular distribution or data drawn from a distribution Yeah
+speaker_1: Yeah we are very good friends Yeah Okay So with that we will look at what supervised machine learning is I said that the data right is defined as some n samples okay that are drawn Yeah that is what I know The notation is that you have data sampled from a particular distribution or data drawn from a distribution Yeah
 
 
 actually boils down to saying that every data point that we have is an element from the range space of a random variable that we have that is x okay i mean that we denote by x so we this implies that there exists an underlying probability measure and does the distribution function induced by x okay so this is clear right so whenever we say that we have n data points we actually mean that we are sampling i mean we have n uh
@@ -307,27 +234,19 @@ Whatever it is
 
 Oh I dont know what this is okay
 
-### Speaker 2
-
-Sir you need to select a plus page
+speaker_2: Sir you need to select a plus page
 
 
 in the third column
 
-### Speaker 1
-
-Speech
+speaker_1: Speech
 
 
 Okay
 
-### Speaker 2
+speaker_2: Then you can mention the titles
 
-Then you can mention the titles
-
-### Speaker 1
-
-We will also putting lecture numbers right L3
+speaker_1: We will also putting lecture numbers right L3
 
 
 So we will mostly set up the problem today right What are what is the generative modeling problem and so on Okay So that is what the major focus of todays lecture is
@@ -536,21 +455,13 @@ probability measures okay and the derivative of the distribution functions are w
 
 Just repeating what we did in the last class Okay great So now likelihood whenever
 
-### Speaker 3
+speaker_4: Yeah
 
-Yeah
+speaker_1: Yes go on
 
-### Speaker 1
+speaker_4: So you mean to say that the likelihood function is the same as the probability density function
 
-Yes go on
-
-### Speaker 3
-
-So you mean to say that the likelihood function is the same as the probability density function
-
-### Speaker 1
-
-I am defining the likelihood as the density function evaluated at the likelihood at a point is equal to the density function evaluated at that point
+speaker_1: I am defining the likelihood as the density function evaluated at the likelihood at a point is equal to the density function evaluated at that point
 
 
 Actually definition of likelihood see whenever we talk of likelihoods right the definition is that it is the density function evaluated at that particular point Now if the underlying random variable happens to be a discrete random variable then evaluating density function becomes mass function and evaluating the mass function at a point will actually give you probability right But in general because we are looking at continuous random variables density functions are not probabilities thats why I dont want to call likelihood as probability of that particular point because it does not
@@ -708,36 +619,22 @@ And we will also fix x and x lets say x is some random variable that is in some 
 
 Can somebody tell me
 
-### Speaker 3
+speaker_4: argmax of P of like even
 
-argmax of P of like even
-
-### Speaker 1
-
-No no no I have not defined it that way right Ive d look at the definition
+speaker_1: No no no I have not defined it that way right Ive d look at the definition
 
 
 No it wont
 
-### Speaker 3
+speaker_4: Probability density of Y given X
 
-Probability density of Y given X
+speaker_1: That is what Ive yeah what do you mean by that How many values does this give you If you predict it on XCAP how many values will it give you
 
-### Speaker 1
+speaker_2: So it will give us the values
 
-That is what Ive yeah what do you mean by that How many values does this give you If you predict it on XCAP how many values will it give you
+speaker_3: But wait a second
 
-### Speaker 2
-
-So it will give us the values
-
-### Speaker 4
-
-But wait a second
-
-### Speaker 1
-
-It will give you k plus 1 values right So now prediction here means that it will give you an entire density function in this case a mass function because y happens to be a discrete random variable So you have 0 1 2 up to k here and this will have some values like this
+speaker_1: It will give you k plus 1 values right So now prediction here means that it will give you an entire density function in this case a mass function because y happens to be a discrete random variable So you have 0 1 2 up to k here and this will have some values like this
 
 
 Do you understand So now this what is this This is the density function of
@@ -769,21 +666,13 @@ Is this clear
 
 Any questions so far
 
-### Speaker 2
+speaker_2: one question so this x cap means a particular point in the this x x random variable
 
-one question so this x cap means a particular point in the this x x random variable
+speaker_1: Uh you should be careful in in in choosing your words yeah see what do you mean by that its actually one of the points in the range space of the random variable no
 
-### Speaker 1
+speaker_2: Yeah rain space
 
-Uh you should be careful in in in choosing your words yeah see what do you mean by that its actually one of the points in the range space of the random variable no
-
-### Speaker 2
-
-Yeah rain space
-
-### Speaker 1
-
-But yeah that is what it is see typically right X cap typically
+speaker_1: But yeah that is what it is see typically right X cap typically
 
 
 X cap does not belong to the data set that you have because thats the test data right thats what is called as test data
@@ -797,40 +686,24 @@ Okay uh yeah so Vivek
 
 Sorry is there any way we can visualize PY given X I mean P or um uh what is that
 
-### Speaker 2
+speaker_2: Conditional random variable
 
-Conditional random variable
+speaker_1: What do you mean by visualize
 
-### Speaker 1
+speaker_2: Visualize means so
 
-What do you mean by visualize
+speaker_1: See again I have to go back to the previous lecture I have told you that but let me repeat see what is happening is that think of it like you know there are there are two random experiments that are being done one where the images are being taken okay the other where every image
 
-### Speaker 2
+speaker_2: Well go get it so its a joint
 
-Visualize means so
-
-### Speaker 1
-
-See again I have to go back to the previous lecture I have told you that but let me repeat see what is happening is that think of it like you know there are there are two random experiments that are being done one where the images are being taken okay the other where every image
-
-### Speaker 2
-
-Well go get it so its a joint
-
-### Speaker 1
-
-Yeah of course Im not talking about joint distribution There is a joint distribution Once you have a joint distribution you have a conditional distribution as well So we are saying that given that a particular outcome has occurred in one of the sample spaces in one of the trials what is the likelihood or like what is the probability that the other event happens right I mean the other trial takes these particular values That is what the conditional distribution talks about Yeah
+speaker_1: Yeah of course Im not talking about joint distribution There is a joint distribution Once you have a joint distribution you have a conditional distribution as well So we are saying that given that a particular outcome has occurred in one of the sample spaces in one of the trials what is the likelihood or like what is the probability that the other event happens right I mean the other trial takes these particular values That is what the conditional distribution talks about Yeah
 
 
 Yeah yeah
 
-### Speaker 3
+speaker_4: Just uh uh I mean is there any particular reason why we take likelihood function to be a density function rather than the distribution function
 
-Just uh uh I mean is there any particular reason why we take likelihood function to be a density function rather than the distribution function
-
-### Speaker 1
-
-Uh yeah I told you right it is easier to work with density functions Thats all Most of the time that is easier to work with density functions especially when you have continuous random variables it is easier to work with them Thats the only reason Everything that you do with density function can be done with distribution functions Okay Not vice versa not vice versa Everything that you can do with distribution functions cant be done with density functions because there can exist random variables for which the density functions do not even exist
+speaker_1: Uh yeah I told you right it is easier to work with density functions Thats all Most of the time that is easier to work with density functions especially when you have continuous random variables it is easier to work with them Thats the only reason Everything that you do with density function can be done with distribution functions Okay Not vice versa not vice versa Everything that you can do with distribution functions cant be done with density functions because there can exist random variables for which the density functions do not even exist
 
 
 But most of the in most of machine learning we assume that density functions are the you know well defined and they exist And then we work with density functions Typically in literature not typically right In almost everywhere in literature likelihood is defined as the density evaluating the density function at a point Yeah Because of ease of computation and analysis thats all Yeah You will see that more you know when we talk of the divergence matrix et cetera in a while you will see why
@@ -844,13 +717,9 @@ Thats the only reason But remember that when whenever we talk of likelihoods lik
 
 Okay
 
-### Speaker 3
+speaker_4: So the dimension
 
-So the dimension
-
-### Speaker 1
-
-Of course of course
+speaker_1: Of course of course
 
 
 X cap okay X cap is not in D right but
@@ -861,21 +730,13 @@ Its a sample from the same underlying distribution
 
 Actually not
 
-### Speaker 4
+speaker_3: Uh so uh so I have a doubt so this is the conditional distribution of P of X given Y uh
 
-Uh so uh so I have a doubt so this is the conditional distribution of P of X given Y uh
+speaker_1: Why do you want it Why do you want it Why do you want it
 
-### Speaker 1
+speaker_3: No sir I was just having a doubt if the other order is that of any importance like does that have any significance in the real world basically P of X
 
-Why do you want it Why do you want it Why do you want it
-
-### Speaker 4
-
-No sir I was just having a doubt if the other order is that of any importance like does that have any significance in the real world basically P of X
-
-### Speaker 1
-
-Its given a lot a lot of significance it has Okay that is called the class conditional density This is called the the conditional of labels given data That is the conditional of data given labels right
+speaker_1: Its given a lot a lot of significance it has Okay that is called the class conditional density This is called the the conditional of labels given data That is the conditional of data given labels right
 
 
 So it does have a significance I will see that We will see that So I am setting up the problem of supervised machine learning When we talk of unsupervised machine learning we will see that that has a significance
@@ -886,17 +747,11 @@ Any other questions
 
 Card kick
 
-### Speaker 4
+speaker_3: Ah sorry Yeah I had a query I mean like here always we are talking about predicting one variable given the other So this label we should it be always
 
-Ah sorry Yeah I had a query I mean like here always we are talking about predicting one variable given the other So this label we should it be always
+speaker_2: is something like discrete or can it be not necessarily
 
-### Speaker 2
-
-is something like discrete or can it be not necessarily
-
-### Speaker 1
-
-Not necessarily no not necessarily See if you have a y belonging to some y is another continuous random variable you can evaluate the density of that at a conditioned on another random variable as well In that case the problems name changes no then then it is called the regression problem thats all
+speaker_1: Not necessarily no not necessarily See if you have a y belonging to some y is another continuous random variable you can evaluate the density of that at a conditioned on another random variable as well In that case the problems name changes no then then it is called the regression problem thats all
 
 
 The difference between the regression and classification is that that what sort of random variable your y is If your y is a discrete random variable then the problem is called the classification problem Then if y is a continuous random variable it is called the regression problem But the underlying task is the same The underlying task is still to evaluate the conditionals of y given x fixed at a particular point
@@ -967,24 +822,16 @@ discriminatory machine learning now you can now see the connect right now uh oh 
 
 Is there a way I can put a box nicer box
 
-### Speaker 4
-
-there seem to be circular and spire icon at the top left third one
+speaker_3: there seem to be circular and spire icon at the top left third one
 
 
 Im from
 
-### Speaker 2
+speaker_2: Left from left third
 
-Left from left third
+speaker_3: The third one right my mistake
 
-### Speaker 4
-
-The third one right my mistake
-
-### Speaker 1
-
-Cheers
+speaker_1: Cheers
 
 
 This is open
@@ -1040,21 +887,13 @@ before i define the problem of generative modeling right i would like to ask you
 
 uh supervised machine learning please let me know if you have questions Kartik
 
-### Speaker 2
+speaker_2: So one query I I know we we dont know the distribution function P of x y but how do we know that its all been sampled from that distribution function itself
 
-So one query I I know we we dont know the distribution function P of x y but how do we know that its all been sampled from that distribution function itself
+speaker_1: And thats an assumption that we make
 
-### Speaker 1
+speaker_2: Okay so they got some
 
-And thats an assumption that we make
-
-### Speaker 2
-
-Okay so they got some
-
-### Speaker 1
-
-You make an assumption that the data is coming from one given distribution Have you heard of something called IID
+speaker_1: You make an assumption that the data is coming from one given distribution Have you heard of something called IID
 
 
 in independent and identically distributed data IID data
@@ -1062,13 +901,9 @@ in independent and identically distributed data IID data
 
 Have you heard of that thing going in
 
-### Speaker 2
+speaker_2: Have you heard of that yes yes yes in Ramakrishna
 
-Have you heard of that yes yes yes in Ramakrishna
-
-### Speaker 1
-
-Yeah that actually means yeah in fact I deliberately left that because I didnt want to confuse you with things But yeah let me tell you this So this is actually sampled IID from this distribution is what is said This means that they are independently and identically distributed Identically distributed means that all of these are actually coming from the same distribution Independence means that all of these data points are independently sampled which means that
+speaker_1: Yeah that actually means yeah in fact I deliberately left that because I didnt want to confuse you with things But yeah let me tell you this So this is actually sampled IID from this distribution is what is said This means that they are independently and identically distributed Identically distributed means that all of these are actually coming from the same distribution Independence means that all of these data points are independently sampled which means that
 
 
 one image is independent to observing the other image the next image
@@ -1082,13 +917,9 @@ Right Thats because you know theres suddenly the IID assumption gets broken whic
 
 So that is an assumption that we make that the underlying distribution stays stays the same okay yeah Aditya
 
-### Speaker 2
+speaker_2: Uh so I wanted to ask what about outliers in that scenario like we assume that there are no outliers then
 
-Uh so I wanted to ask what about outliers in that scenario like we assume that there are no outliers then
-
-### Speaker 1
-
-No Ive not defined what an outlier is right See how Even if its an outlier it can still come from the same underlying distribution with less probabilities right
+speaker_1: No Ive not defined what an outlier is right See how Even if its an outlier it can still come from the same underlying distribution with less probabilities right
 
 
 Can come from the tail of the distribution but it is still coming from the same distribution is it Is it right
@@ -1210,118 +1041,66 @@ Okay questions
 
 I didnt get it
 
-### Speaker 2
-
-Not understand fully because
+speaker_2: Not understand fully because
 
 
 Well you need to we need to know how to sample from it right so
 
-### Speaker 4
+speaker_3: We do this
 
-We do this
+speaker_2: coin example we already sampled the coins right maybe there are hundred coins and out of that we are choosing
 
-### Speaker 2
+speaker_1: No no no no no no hold on hold on hold on no okay in the coin toss example we have one coin we dont have hundred coins
 
-coin example we already sampled the coins right maybe there are hundred coins and out of that we are choosing
+speaker_2: Okay okay we have
 
-### Speaker 1
+speaker_1: We have tossed one coin 100 times That is your data
 
-No no no no no no hold on hold on hold on no okay in the coin toss example we have one coin we dont have hundred coins
+speaker_2: Okay got it got it
 
-### Speaker 2
+speaker_1: But you dont know what the what is the likelihood with which the coin turns out to be head or tail You get it
 
-Okay okay we have
+speaker_2: Mm Yes yes
 
-### Speaker 1
+speaker_1: Okay learning to sample from it is to learn to toss the coin again without having access to the coin
 
-We have tossed one coin 100 times That is your data
+speaker_2: Okay okay
 
-### Speaker 2
-
-Okay got it got it
-
-### Speaker 1
-
-But you dont know what the what is the likelihood with which the coin turns out to be head or tail You get it
-
-### Speaker 2
-
-Mm Yes yes
-
-### Speaker 1
-
-Okay learning to sample from it is to learn to toss the coin again without having access to the coin
-
-### Speaker 2
-
-Okay okay
-
-### Speaker 1
-
-Right So we have yeah we dont have we have not sampled yet We only have samples that somebody has already given us That is our data
+speaker_1: Right So we have yeah we dont have we have not sampled yet We only have samples that somebody has already given us That is our data
 
 
 So without having access to the coin we need to know how the coin would have turned out if we toss you know 10000 more times that is sampling
 
-### Speaker 2
+speaker_2: So it basically means uh uh we have to sample more from near the peaks of the PDF function
 
-So it basically means uh uh we have to sample more from near the peaks of the PDF function
-
-### Speaker 1
-
-Basically
+speaker_1: Basically
 
 
 No Im not saying peak you just have to sample it such that the underlying distribution function is intact you can sample from the tail also
 
-### Speaker 2
+speaker_2: Yeah occasionally Im a bit more I mean
 
-Yeah occasionally Im a bit more I mean
+speaker_1: You simply say that you sample such that the underlying distribution function is respected Thats all See if you are sampling from so called tail the measure associated with that outcome has to be lesser Thats all it means
 
-### Speaker 1
+speaker_2: Okay of course
 
-You simply say that you sample such that the underlying distribution function is respected Thats all See if you are sampling from so called tail the measure associated with that outcome has to be lesser Thats all it means
+speaker_1: You get it see now that you know this language you know try to use this more so basically Im saying that the underlying measure is respected
 
-### Speaker 2
+speaker_2: I think the main issue is
 
-Okay of course
+speaker_1: Now if the measure has to be respected then the underlying probability measure or if the distribution has to be respected then when you sample when you sample hundred times right like more number of times if there is a if there is a if there is an outcome that has more probability then that has to appear more compared to other right obviously
 
-### Speaker 1
+speaker_2: Yes yes
 
-You get it see now that you know this language you know try to use this more so basically Im saying that the underlying measure is respected
+speaker_1: But the the underlying measure has to be perfectly intact otherwise then you are not running the current random trial no you are learning to to sample from some other random trial or some other sample space which is undesirable
 
-### Speaker 2
+speaker_2: Okay perfect
 
-I think the main issue is
+speaker_1: See that is what hallucination is all about right See what is hallucination that the underlying distribution is not estimated properly If it is not estimated properly it will start sampling from some some other sample space that that does not correspond to the given data
 
-### Speaker 1
+speaker_2: Okay but sir there is a no guarantee to uh I mean entirely we can reduce this hallucination right
 
-Now if the measure has to be respected then the underlying probability measure or if the distribution has to be respected then when you sample when you sample hundred times right like more number of times if there is a if there is a if there is an outcome that has more probability then that has to appear more compared to other right obviously
-
-### Speaker 2
-
-Yes yes
-
-### Speaker 1
-
-But the the underlying measure has to be perfectly intact otherwise then you are not running the current random trial no you are learning to to sample from some other random trial or some other sample space which is undesirable
-
-### Speaker 2
-
-Okay perfect
-
-### Speaker 1
-
-See that is what hallucination is all about right See what is hallucination that the underlying distribution is not estimated properly If it is not estimated properly it will start sampling from some some other sample space that that does not correspond to the given data
-
-### Speaker 2
-
-Okay but sir there is a no guarantee to uh I mean entirely we can reduce this hallucination right
-
-### Speaker 1
-
-That is what I am saying no that is why the entire course is designed that you need to that depends on how good is your estimate on PXS
+speaker_1: That is what I am saying no that is why the entire course is designed that you need to that depends on how good is your estimate on PXS
 
 
 Isnt it So now the sampling process has to estimate the underlying distribution If you have not estimated the underlying distribution correctly then you have you mean you will obviously when you sample you will get things from outside of the sample space no
@@ -1350,94 +1129,54 @@ and learn trying learning to sample from it
 
 Yeah
 
-### Speaker 3
+speaker_4: Yes sir just to clarify my understanding on this prompt based generation so you mentioned that that problem is basically to sample from P of X given Y is that correct
 
-Yes sir just to clarify my understanding on this prompt based generation so you mentioned that that problem is basically to sample from P of X given Y is that correct
-
-### Speaker 1
-
-It is it is it is it is estimating the conditional distribution of X given Y and learning to sample from it See we will see this in great detail In fact you know we will look at multiple estimators in this course Okay Yeah So this is Im just setting up the problem now Okay
+speaker_1: It is it is it is it is estimating the conditional distribution of X given Y and learning to sample from it See we will see this in great detail In fact you know we will look at multiple estimators in this course Okay Yeah So this is Im just setting up the problem now Okay
 
 
 Yeah
 
-### Speaker 2
+speaker_2: Uh hi sir so here just a second
 
-Uh hi sir so here just a second
-
-### Speaker 1
-
-Just a second uh just just a second Uh like Im Im Im Im both you know happy and a little disappointed Im happy that uh like you know more people are talking Im slightly disappointed that the same set of people are kind of asking questions I mean it is Im not discouraging you people but I want to encourage the entire class to participate Okay So feel free to ask questions Otherwise uh yeah I mean I dont want to go into the
+speaker_1: Just a second uh just just a second Uh like Im Im Im Im both you know happy and a little disappointed Im happy that uh like you know more people are talking Im slightly disappointed that the same set of people are kind of asking questions I mean it is Im not discouraging you people but I want to encourage the entire class to participate Okay So feel free to ask questions Otherwise uh yeah I mean I dont want to go into the
 
 
 philosophy of pedagogy but yeah I encourage all of you to ask questions dont hesitate do ask questions okay ask it go on
 
-### Speaker 2
+speaker_2: Yeah so as we discussed that we are estimating the distribution but we are estimating the distribution via the density function associated to it right
 
-Yeah so as we discussed that we are estimating the distribution but we are estimating the distribution via the density function associated to it right
+speaker_3: the density function
 
-### Speaker 4
+speaker_1: Yes yes
 
-the density function
+speaker_2: So earlier we discussed that the density function cant be like a proper like exactly 100 percent representation of the distribution function
 
-### Speaker 1
+speaker_3: Okay so what that would mean
 
-Yes yes
+speaker_1: No no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
 
-### Speaker 2
+speaker_2: Okay so if we get a value of a density function at a particular point
 
-So earlier we discussed that the density function cant be like a proper like exactly 100 percent representation of the distribution function
+speaker_1: Then we know everything about the distribution function because if you have the density function right you can integrate that and get the distribution function
 
-### Speaker 4
+speaker_2: Okay okay okay
 
-Okay so what that would mean
+speaker_1: See but somebody asked me that question no why do we work with density functions and not with distribution functions is because
 
-### Speaker 1
+speaker_3: Mm
 
-No no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
+speaker_1: Computationally easy thats all
 
-### Speaker 2
+speaker_2: By the way
 
-Okay so if we get a value of a density function at a particular point
-
-### Speaker 1
-
-Then we know everything about the distribution function because if you have the density function right you can integrate that and get the distribution function
-
-### Speaker 2
-
-Okay okay okay
-
-### Speaker 1
-
-See but somebody asked me that question no why do we work with density functions and not with distribution functions is because
-
-### Speaker 4
-
-Mm
-
-### Speaker 1
-
-Computationally easy thats all
-
-### Speaker 2
-
-By the way
-
-### Speaker 1
-
-Otherwise otherwise I can actually say this now the problem is
+speaker_1: Otherwise otherwise I can actually say this now the problem is
 
 
 I can set the problem as estimating the disi underlying distribution function
 
-### Speaker 2
+speaker_2: Okay
 
-Okay
-
-### Speaker 1
-
-But I set it up as density function because when I what happened
+speaker_1: But I set it up as density function because when I what happened
 
 
 I set it up as density function because when I uh when I
@@ -1445,110 +1184,62 @@ I set it up as density function because when I uh when I
 
 Answer this question of estimators No I will use density functions for everything that is why
 
-### Speaker 2
+speaker_2: Mm hmm okay
 
-Mm hmm okay
+speaker_1: uh yeah so but uh there is a one to one correspondence between density function and distribution function just that evaluating the density function at a point will not give you a probability thats all yeah
 
-### Speaker 1
+speaker_2: Mm hmm okay okay understand
 
-uh yeah so but uh there is a one to one correspondence between density function and distribution function just that evaluating the density function at a point will not give you a probability thats all yeah
+speaker_4: Oh so just to continue the discussion so here we said that we will get the likelihood right and the likelihood may be low uh but still the probability may be high that is possible right
 
-### Speaker 2
-
-Mm hmm okay okay understand
-
-### Speaker 3
-
-Oh so just to continue the discussion so here we said that we will get the likelihood right and the likelihood may be low uh but still the probability may be high that is possible right
-
-### Speaker 1
-
-No no no no no right No see again see when you when you evaluate the density function at a point you get a likelihood So for continuous random variables there is nothing called probability at a point that itself is not defined
+speaker_1: No no no no no right No see again see when you when you evaluate the density function at a point you get a likelihood So for continuous random variables there is nothing called probability at a point that itself is not defined
 
 
 because probabilities are evaluating the distribution function Now if you evaluate the density function at a point right you get zero Which means that I mean so rather if you integrate the density function right at a particular point you get zero So the probability of obtaining a particular image is zero actually
 
-### Speaker 3
+speaker_4: Yes thats correct but what is the likelihood
 
-Yes thats correct but what is the likelihood
+speaker_1: What did you work on lately Huh
 
-### Speaker 1
+speaker_4: Yeah but what we are interested in is the probability right that I mean when the probability is high we want to take that particular label as yes
 
-What did you work on lately Huh
+speaker_1: just say say no no for for you mean the discriminatory part youre saying is it not yes
 
-### Speaker 3
+speaker_4: Yes yes yes the what does that mean
 
-Yeah but what we are interested in is the probability right that I mean when the probability is high we want to take that particular label as yes
-
-### Speaker 1
-
-just say say no no for for you mean the discriminatory part youre saying is it not yes
-
-### Speaker 3
-
-Yes yes yes the what does that mean
-
-### Speaker 1
-
-Yeah see if y happens to be a discrete random variable then density functions are probabilities
+speaker_1: Yeah see if y happens to be a discrete random variable then density functions are probabilities
 
 
 Because they are mass functions
 
-### Speaker 3
+speaker_4: Oh but if it is a regression problem then
 
-Oh but if it is a regression problem then
+speaker_1: If its a regression problem then you should just say that its likelihood I want a point with higher likelihood dont call it probabilities thats all you see
 
-### Speaker 1
+speaker_4: Yeah but thats my point so higher likelihood may not mean the higher probability right
 
-If its a regression problem then you should just say that its likelihood I want a point with higher likelihood dont call it probabilities thats all you see
+speaker_1: Probability of a point itself is not well defined it is not even defined so you take decision based on likelihood is all I am saying stop there
 
-### Speaker 3
+speaker_4: Stop this
 
-Yeah but thats my point so higher likelihood may not mean the higher probability right
-
-### Speaker 1
-
-Probability of a point itself is not well defined it is not even defined so you take decision based on likelihood is all I am saying stop there
-
-### Speaker 3
-
-Stop this
-
-### Speaker 1
-
-See dont jump to the probabilities because probabilities of continuous random evaluating the density function at a point or likelihood of a point is not the probability of that point
+speaker_1: See dont jump to the probabilities because probabilities of continuous random evaluating the density function at a point or likelihood of a point is not the probability of that point
 
 
 Yeah so just just say that I want to pick a point with higher likelihood Thats all That is perfectly fine Dont say that you know higher likelihood corresponds to higher probability That is incorrect
 
-### Speaker 3
+speaker_4: Okay
 
-Okay
+speaker_1: Yeah I mean Im just making it you know pedantically correct There are nitty gritty is but that is what it is Yeah
 
-### Speaker 1
+speaker_4: Yeah thank you so much
 
-Yeah I mean Im just making it you know pedantically correct There are nitty gritty is but that is what it is Yeah
+speaker_1: See now you should see the connect between estimating the density function and sampling from it right I mean if you cant estimate the density function you cant sample from it because you have to sample in accordance with the underlying density function that will happen only if you know what the density function is right Yeah Okay Um Avirup
 
-### Speaker 3
+speaker_4: modeling very in discriminative modeling
 
-Yeah thank you so much
+speaker_3: So can do we have a corresponding definition for unsupervised learning also Im just asking for clarity yeah
 
-### Speaker 1
-
-See now you should see the connect between estimating the density function and sampling from it right I mean if you cant estimate the density function you cant sample from it because you have to sample in accordance with the underlying density function that will happen only if you know what the density function is right Yeah Okay Um Avirup
-
-### Speaker 3
-
-modeling very in discriminative modeling
-
-### Speaker 4
-
-So can do we have a corresponding definition for unsupervised learning also Im just asking for clarity yeah
-
-### Speaker 1
-
-Yes yes So you can also call generative modeling as unsupervised machine learning
+speaker_1: Yes yes So you can also call generative modeling as unsupervised machine learning
 
 
 Yeah so uh there is a um
@@ -1568,13 +1259,9 @@ Maybe I will not write it but simply consume it yeah
 
 Was this social No this was a virup I suppose
 
-### Speaker 4
+speaker_3: Yes thank you sir
 
-Yes thank you sir
-
-### Speaker 1
-
-Uh so we still have a question I think socially you have a question
+speaker_1: Uh so we still have a question I think socially you have a question
 
 
 Okay so maybe hes not there okay so let us move on shall we move on any other question
@@ -1609,46 +1296,30 @@ Okay discriminative modeling and generative modeling Discriminative modeling doe
 
 Now the important question is
 
-### Speaker 2
+speaker_2: Answer one question
 
-Answer one question
+speaker_1: Yeah cool
 
-### Speaker 1
-
-Yeah cool
-
-### Speaker 2
-
-What if like in both the cases we get the density function d y given like in one like for a the discriminative model we get the dist
+speaker_2: What if like in both the cases we get the density function d y given like in one like for a the discriminative model we get the dist
 
 
 density function so why cant we get the distribution function from that
 
-### Speaker 1
-
-We can Im not saying we cant we can but I mean most of the applications right it is enough if you have the density function
+speaker_1: We can Im not saying we cant we can but I mean most of the applications right it is enough if you have the density function
 
 
 We can get the discriminant uh we can get the distribution function from it
 
-### Speaker 2
-
-Okay and then like if we want to sample it from like do sampling from that like for an example we have a set of images of 10 classes basically 10 different animals and we get the underlying probability distribution And then we sample and say okay we want to generate an like image of an animal in a different scenario Lets say we had the sample of animals in jungle
+speaker_2: Okay and then like if we want to sample it from like do sampling from that like for an example we have a set of images of 10 classes basically 10 different animals and we get the underlying probability distribution And then we sample and say okay we want to generate an like image of an animal in a different scenario Lets say we had the sample of animals in jungle
 
 
 But we want that to want the model to generate the images for those animals in a city context So wont that be considered as generative model
 
-### Speaker 1
+speaker_1: That is a generative model but the is changed no See that is all I mean that is definitely generative model but then see if you only have images of animals that are from like jungle in your data then there is no way that your model is generating images of animals in cities
 
-That is a generative model but the is changed no See that is all I mean that is definitely generative model but then see if you only have images of animals that are from like jungle in your data then there is no way that your model is generating images of animals in cities
+speaker_2: No no no sir my my point was so in in the discriminative model we have the uh like basically the k classes from which the data belongs the data can be classified into now using this available data we develop uh like we get the distribution and we develop a model to uh you know generate some fresh data fresh fresh data out of it
 
-### Speaker 2
-
-No no no sir my my point was so in in the discriminative model we have the uh like basically the k classes from which the data belongs the data can be classified into now using this available data we develop uh like we get the distribution and we develop a model to uh you know generate some fresh data fresh fresh data out of it
-
-### Speaker 1
-
-No no no my
+speaker_1: No no no my
 
 
 when we say that see that is what im saying let me i dont know maybe i didnt convey the point properly see when i say that you need to sample from the corresponding underlying distribution it means that you have to sample from you have to get a quote unquote fresh sample only you know sampling is always fresh sampling
@@ -1656,83 +1327,47 @@ when we say that see that is what im saying let me i dont know maybe i didnt con
 
 Suppose you are given 100 images of these animals let them belong to 10 different categories When you generate you have to generate it from those 10 different categories only You cant generate from an unseen category is what I am trying to say
 
-### Speaker 2
+speaker_2: Yes sir agreed
 
-Yes sir agreed
+speaker_1: You cant generate it by construction because you have only estimated the underlying distribution
 
-### Speaker 1
+speaker_2: Correct correct correct
 
-You cant generate it by construction because you have only estimated the underlying distribution
+speaker_1: Thats all When your model is as good as your data unless your model has seen that see it will it can generate the images from I mean which are not there in your data set
 
-### Speaker 2
+speaker_2: Big
 
-Correct correct correct
+speaker_1: You understand but it cant generate data from the distribution that does not correspond to your to your data set
 
-### Speaker 1
+speaker_2: Button center
 
-Thats all When your model is as good as your data unless your model has seen that see it will it can generate the images from I mean which are not there in your data set
-
-### Speaker 2
-
-Big
-
-### Speaker 1
-
-You understand but it cant generate data from the distribution that does not correspond to your to your data set
-
-### Speaker 2
-
-Button center
-
-### Speaker 1
-
-You understand that See for example if you have lets say the images of like you know human beings as your data when you construct a generative model and sample from it it will generate
+speaker_1: You understand that See for example if you have lets say the images of like you know human beings as your data when you construct a generative model and sample from it it will generate
 
 
 the face of a non existent human being Okay But it cant generate the face of a monkey or a dog or a cat
 
-### Speaker 2
+speaker_2: Correct sir agree agree
 
-Correct sir agree agree
+speaker_1: Next up next one
 
-### Speaker 1
+speaker_2: That is one of them
 
-Next up next one
+speaker_1: That is what is meant by uh uh respecting the underlying distribution
 
-### Speaker 2
+speaker_2: got it sir so like my point of making this statement here was whether we have the classification uh or not it it it wont make a difference right
 
-That is one of them
-
-### Speaker 1
-
-That is what is meant by uh uh respecting the underlying distribution
-
-### Speaker 2
-
-got it sir so like my point of making this statement here was whether we have the classification uh or not it it it wont make a difference right
-
-### Speaker 1
-
-It it should not but as I said there is this thing called conditional generation that Im not talked of right where you where you some learn to sample from P of Y given X sorry P of X given Y now suppose you have 10 categories and you know you want to lets say that you have cat images dog images whatever images and you have you have learned to the question is what is the underlying distribution that you are modeling if you are modeling remember that when I said that there is a conditional distribution it means that you are modeling
+speaker_1: It it should not but as I said there is this thing called conditional generation that Im not talked of right where you where you some learn to sample from P of Y given X sorry P of X given Y now suppose you have 10 categories and you know you want to lets say that you have cat images dog images whatever images and you have you have learned to the question is what is the underlying distribution that you are modeling if you are modeling remember that when I said that there is a conditional distribution it means that you are modeling
 
 
 y equal to a particular value right Now lets say that y equal to 1 corresponds to cats If you are modeling this distribution learning to sample from it you are only learning to sample from the cat images
 
-### Speaker 2
+speaker_2: Yes
 
-Yes
+speaker_1: You understand However if I just take this and multiply this with P by and just take a sum of all this what am I doing This is equal to P X isnt it Yes sir Now if I combine all the images from different categories and learn to estimate this distribution P X then Im sampling from all possible animal faces Thats all So it depends on what the what distribution are you modeling You get it
 
-### Speaker 1
+speaker_2: Yes sir
 
-You understand However if I just take this and multiply this with P by and just take a sum of all this what am I doing This is equal to P X isnt it Yes sir Now if I combine all the images from different categories and learn to estimate this distribution P X then Im sampling from all possible animal faces Thats all So it depends on what the what distribution are you modeling You get it
-
-### Speaker 2
-
-Yes sir
-
-### Speaker 1
-
-that those categories or those labels are are are random or I mean I should not be using this word random they are they are synthetic or they are pseudo in the sense that
+speaker_1: that those categories or those labels are are are random or I mean I should not be using this word random they are they are synthetic or they are pseudo in the sense that
 
 
 See if you can you can group all the cat images into one and call that as one distribution and estimate it so that you when you sample you only get cat images
@@ -1743,48 +1378,28 @@ If you take say images from 10 categories combine them all and call them Px and 
 
 So that categorization is a sort of you know its a its a synthetic thing right depends on like what are you calling as general end distribution and data thats all right
 
-### Speaker 2
+speaker_2: Okay sir
 
-Okay sir
+speaker_1: Okay uh yeah Manisha
 
-### Speaker 1
+speaker_3: So as an extension to this discussion and we have answered that but so basically what we are saying is we are finding the as I mean as a part one of the problem its finding the distribution the underlying distribution which will tell us which class is linked to which label in a way
 
-Okay uh yeah Manisha
+speaker_1: No no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
 
-### Speaker 4
+speaker_3: No no no no no
 
-So as an extension to this discussion and we have answered that but so basically what we are saying is we are finding the as I mean as a part one of the problem its finding the distribution the underlying distribution which will tell us which class is linked to which label in a way
-
-### Speaker 1
-
-No no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
-
-### Speaker 4
-
-No no no no no
-
-### Speaker 1
-
-See estimating the underlying distribution simply tells you that what is the likelihood of this particular image under the given distribution thats all
+speaker_1: See estimating the underlying distribution simply tells you that what is the likelihood of this particular image under the given distribution thats all
 
 
 So there is no idea of class here at all in generative modeling
 
-### Speaker 2
+speaker_2: But we still I mean the first step is to find the underlying distribution
 
-But we still I mean the first step is to find the underlying distribution
+speaker_1: Right
 
-### Speaker 1
+speaker_2: all you know are the like for the exa for example what was being discussed for all the animals you know we are kind of cate its kind of
 
-Right
-
-### Speaker 2
-
-all you know are the like for the exa for example what was being discussed for all the animals you know we are kind of cate its kind of
-
-### Speaker 1
-
-no no no its a its a its its a strict no i tell you so you have to understand what is meant by estimating the distribution in the generative modeling case and we will see examples and we will actually go deep into it but anyway at this step you need to understand it see if you are given lets say 100 images of animals okay estimating the underlying distribution means that you are trying to find out how likely or what is the likelihood of a particular
+speaker_1: no no no its a its a its its a strict no i tell you so you have to understand what is meant by estimating the distribution in the generative modeling case and we will see examples and we will actually go deep into it but anyway at this step you need to understand it see if you are given lets say 100 images of animals okay estimating the underlying distribution means that you are trying to find out how likely or what is the likelihood of a particular
 
 
 image under the distribution thats all how likely is that Im obtaining this image suppose Im conducting that random trial how likely it is to obtain this particular image is what Im finding by estimating the distribution it has nothing to do with classes here there is not even an idea of classes because there is no y here
@@ -1792,17 +1407,11 @@ image under the distribution thats all how likely is that Im obtaining this imag
 
 The way I have set up the problem there is no why here at all
 
-### Speaker 4
+speaker_3: Okay get that Okay so its just the likelihood of getting
 
-Okay get that Okay so its just the likelihood of getting
+speaker_2: a particular point in that distribution
 
-### Speaker 2
-
-a particular point in that distribution
-
-### Speaker 1
-
-Thats all thats all so if you have thousand images Im just calculating what is the likelihood of obtaining this particular image thats all
+speaker_1: Thats all thats all so if you have thousand images Im just calculating what is the likelihood of obtaining this particular image thats all
 
 
 See if you if you if you imagine obtaining an image as a roll of a die
@@ -1813,72 +1422,40 @@ So Im what Im asking is when I conduct that random experiment okay what is the w
 
 So what is the likelihood that I get this particular face Thats all I mean face of the die I mean if you take the die example there is no notion of labels in this setting
 
-### Speaker 2
+speaker_2: And then the sampling part that we are talking about is basically from
 
-And then the sampling part that we are talking about is basically from
-
-### Speaker 1
-
-is that you are obtaining a new non existent human face thats all
+speaker_1: is that you are obtaining a new non existent human face thats all
 
 
 You are actually obtaining an image that is sampling
 
-### Speaker 3
+speaker_4: Getting that yeah I think I get the notion of that yeah right
 
-Getting that yeah I think I get the notion of that yeah right
+speaker_1: There are two things here One see once you estimate the underlying distribution you can plug in any of the data points that are within your D or outside of your D as long as it is coming from PX and estimate the likelihood of that particular point using this PX
 
-### Speaker 1
+speaker_4: Absolutely yeah
 
-There are two things here One see once you estimate the underlying distribution you can plug in any of the data points that are within your D or outside of your D as long as it is coming from PX and estimate the likelihood of that particular point using this PX
+speaker_1: Sampling is that you are obtaining or you are running the random underlying random trial so that you get a point a fresh or a new point that is not a part of your D but still comes from the underlying sample space that is sampling
 
-### Speaker 3
+speaker_4: Get that sir yeah
 
-Absolutely yeah
+speaker_1: So there is no notion of labels here at all
 
-### Speaker 1
+speaker_4: Got it got it right sir
 
-Sampling is that you are obtaining or you are running the random underlying random trial so that you get a point a fresh or a new point that is not a part of your D but still comes from the underlying sample space that is sampling
+speaker_1: Right So now I still have not defined this conditional this conditional sampling Right I mean sampling from P of X given Y See as I said yeah see as I said this has a notion of you know prompting
 
-### Speaker 3
+speaker_4: Kiss
 
-Get that sir yeah
+speaker_1: Exactly So that I have not brought that notion yet I mean see now in the because that is simply confused stuff you know once you like like assimilate this idea of generating modeling and sampling no putting a conditioning here and saying that Im modeling the conditional distribution is not difficult
 
-### Speaker 1
+speaker_2: Right so that that was my point also so that is that doesnt seem difficult but now I think I get the actual problem there yep
 
-So there is no notion of labels here at all
+speaker_1: See yeah so it is not estimating y given x You want us to understand that The problem with generative modeling is not estimating y given x So that is the problem of discriminative modeling that you are estimating p of y given x
 
-### Speaker 3
+speaker_2: Im not
 
-Got it got it right sir
-
-### Speaker 1
-
-Right So now I still have not defined this conditional this conditional sampling Right I mean sampling from P of X given Y See as I said yeah see as I said this has a notion of you know prompting
-
-### Speaker 3
-
-Kiss
-
-### Speaker 1
-
-Exactly So that I have not brought that notion yet I mean see now in the because that is simply confused stuff you know once you like like assimilate this idea of generating modeling and sampling no putting a conditioning here and saying that Im modeling the conditional distribution is not difficult
-
-### Speaker 2
-
-Right so that that was my point also so that is that doesnt seem difficult but now I think I get the actual problem there yep
-
-### Speaker 1
-
-See yeah so it is not estimating y given x You want us to understand that The problem with generative modeling is not estimating y given x So that is the problem of discriminative modeling that you are estimating p of y given x
-
-### Speaker 2
-
-Im not
-
-### Speaker 1
-
-And there is no sampling here
+speaker_1: And there is no sampling here
 
 
 Okay but in generative modeling the the two things one there is no notion of labels here
@@ -1910,21 +1487,13 @@ What I am trying to say is suppose I have that data set of animals with the corr
 
 Now if I estimate P of X Y the joint distribution P of X Y and learn to sample from P of X given Y then that is another generative modeling that is conditional generation
 
-### Speaker 4
+speaker_3: get it so thats uh the joint uh uh distribution here and yeah we also get it from a single uh you know distribution of a random variable
 
-get it so thats uh the joint uh uh distribution here and yeah we also get it from a single uh you know distribution of a random variable
+speaker_1: distribution of a single data variable It depends on how do you want to view your data See if you are given thousand animal images now do you want to categorize them into subcategories and say that hey look my data is such that I have the image and the corresponding label with it or do you want to see that as simply thousand images without having labels
 
-### Speaker 1
+speaker_3: Yes and then draw sample uh
 
-distribution of a single data variable It depends on how do you want to view your data See if you are given thousand animal images now do you want to categorize them into subcategories and say that hey look my data is such that I have the image and the corresponding label with it or do you want to see that as simply thousand images without having labels
-
-### Speaker 4
-
-Yes and then draw sample uh
-
-### Speaker 1
-
-Thats all see yeah thats all its a modeling choice you know what are you drawing samples from are you drawing samples from px or are you drawing samples from px given y
+speaker_1: Thats all see yeah thats all its a modeling choice you know what are you drawing samples from are you drawing samples from px or are you drawing samples from px given y
 
 
 Right Now if you are drawing samples from P of X given Y it simply means that given these animal images and the fact that you know I want to generate from dog images or rather I want to generate the image of a dog then I know how to do it But now if I give if I I mean that needs the corresponding labels as well
@@ -1932,21 +1501,13 @@ Right Now if you are drawing samples from P of X given Y it simply means that gi
 
 Right because you are you have you want to estimate P of X given Y But I mean estimating P of X given Y and learning to sample from it also is a generative model right So suppose you estimate P of X given Y and sample from X given Y thats also generative modeling That is actually conditional generation which is which is what ChatGPT does So given Y which is a particular prompt you want to generate
 
-### Speaker 4
+speaker_3: Im like
 
-Im like
+speaker_1: And for that the kind of data that you need is pairs of x y Do you see that Because you need the underlying joint distribution
 
-### Speaker 1
+speaker_4: Absolutely yeah yeah
 
-And for that the kind of data that you need is pairs of x y Do you see that Because you need the underlying joint distribution
-
-### Speaker 3
-
-Absolutely yeah yeah
-
-### Speaker 1
-
-So depends on like what sort of data you have and what sort of density are you modeling and sampling from Thats all
+speaker_1: So depends on like what sort of data you have and what sort of density are you modeling and sampling from Thats all
 
 
 But the major difference between these two models is that in discriminative modeling see in both of the cases you have data drawn from an unknown distribution you are estimating some distribution But what is not there in discriminative modeling is that you dont learn to sample But in generative modeling you learn to sample from it Thats the only difference
@@ -1981,21 +1542,13 @@ Okay so in my clock it is 11 am Let us reconvene by 11 point 15 ish Okay Yeah se
 
 The resume
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
+speaker_1: See Kendan has just put a poll for tutorial timings so please respond to that It is I think both on WhatsApp and Teams WhatsApp I definitely saw it now I dont know if its on Teams Is it on Teams already or
 
-### Speaker 1
+speaker_3: Thats exactly what Im saying
 
-See Kendan has just put a poll for tutorial timings so please respond to that It is I think both on WhatsApp and Teams WhatsApp I definitely saw it now I dont know if its on Teams Is it on Teams already or
-
-### Speaker 4
-
-Thats exactly what Im saying
-
-### Speaker 1
-
-Okay please respond depending upon your response whatever works for most of us most of you will take that time okay
+speaker_1: Okay please respond depending upon your response whatever works for most of us most of you will take that time okay
 
 
 Okay uh let us continue
@@ -2195,69 +1748,43 @@ That is all the recipes for making the density I am not still telling you how to
 
 Okay any questions about uh
 
-### Speaker 2
+speaker_2: Sir I wanted to understand uh what is this g of theta when like when you have written g of theta g theta
 
-Sir I wanted to understand uh what is this g of theta when like when you have written g of theta g theta
+speaker_1: Its a neural network no I told you no its a neural network simply a neural network
 
-### Speaker 1
+speaker_2: Okay and Z Z
 
-Its a neural network no I told you no its a neural network simply a neural network
-
-### Speaker 2
-
-Okay and Z Z
-
-### Speaker 1
-
-There is some random variable some some arbitrary random variable that will go as an input to this neural network and whatever output this neural network is giving I model it as which you know
+speaker_1: There is some random variable some some arbitrary random variable that will go as an input to this neural network and whatever output this neural network is giving I model it as which you know
 
 
 Whatever output that neural network is giving no I take that as P theta of x
 
-### Speaker 2
+speaker_2: Okay okay
 
-Okay okay
+speaker_1: There is one way to modernize that I said no as I said there are multiple uh models that one can think of but this is one of the uh models that you can that you can design
 
-### Speaker 1
+speaker_2: Okay see
 
-There is one way to modernize that I said no as I said there are multiple uh models that one can think of but this is one of the uh models that you can that you can design
-
-### Speaker 2
-
-Okay see
-
-### Speaker 1
-
-Is that okay
+speaker_1: Is that okay
 
 
 Yeah so many questions Kartik
 
-### Speaker 4
+speaker_3: Yes sir uh I have a little um
 
-Yes sir uh I have a little um
-
-### Speaker 2
-
-I didnt understand it fully about the parametric form that we were referring can we get it based on another example maybe a little more simpler one
+speaker_2: I didnt understand it fully about the parametric form that we were referring can we get it based on another example maybe a little more simpler one
 
 
 Uh why why do we think this will happen
 
-### Speaker 1
-
-is that simply a number right yeah yeah you assume if you assume that its a gaussian distribution thats a parametric form okay that how do you how do you differentiate one gaussian distribution from the other
+speaker_1: is that simply a number right yeah yeah you assume if you assume that its a gaussian distribution thats a parametric form okay that how do you how do you differentiate one gaussian distribution from the other
 
 
 is through the parameters no mean and variance thats all so you are assuming that ah you are assuming that its a Gaussian density but you dont know what the mean and sigma are correct now how good is my assumption is a different question it can be a totally crappy assumption that you have made but that is that is I mean thats why I said all models are wrong no you have made some model assumption
 
-### Speaker 2
+speaker_2: Youre thinking
 
-Youre thinking
-
-### Speaker 1
-
-Now these are simplistic models but in places like you know GANs and GPTs etc these models are made express enough they are made huge neural networks so that they can express a large family of functions
+speaker_1: Now these are simplistic models but in places like you know GANs and GPTs etc these models are made express enough they are made huge neural networks so that they can express a large family of functions
 
 
 Basically youre expressing the density function Now you choose a parametric model such that it is expressive enough so that it can express a large family of functions And transformers and neural networks are such functions So now what differentiates one transformer from the other transformer is the weights that they have
@@ -2286,13 +1813,9 @@ has something like this a Gaussian density can never
 
 No matter what mean and variance you play with that is why you choose this
 
-### Speaker 2
+speaker_2: Im not saying it should be done
 
-Im not saying it should be done
-
-### Speaker 1
-
-GML can express this of course but right I mean you need more complex models to represent this And thats why people use neural networks Okay So thats what is meant by parametric model that you just assume that my my my my real density is one member of this family large family that my parameter parametric model can express So basically if I model that as a neural network or a transformer Im saying that my true density can be
+speaker_1: GML can express this of course but right I mean you need more complex models to represent this And thats why people use neural networks Okay So thats what is meant by parametric model that you just assume that my my my my real density is one member of this family large family that my parameter parametric model can express So basically if I model that as a neural network or a transformer Im saying that my true density can be
 
 
 represented by one set of weights of this neural network there exists one set of weights of this neural network that would represent my underlying density and Im interested in finding that one set of weights
@@ -2300,21 +1823,13 @@ represented by one set of weights of this neural network there exists one set of
 
 Now how do I find that one set of weight is simply I fix a particular weight and I compute I see how far my density that I have gotten from this particular weight is from my true density And then I adjust my weight such that you know that measure becomes lesser and lesser That is training no
 
-### Speaker 2
+speaker_2: So yeah a query here is when the when then we like try to optimize the minimize that particular variable that I understood so if it is not
 
-So yeah a query here is when the when then we like try to optimize the minimize that particular variable that I understood so if it is not
+speaker_1: Divergence not variables call it call it divergence
 
-### Speaker 1
+speaker_3: divergence so if Im minimizing that divergence say it is not minimizing up to my mark will we need to go back and change the model again I mean like is it what the new trend is a good question
 
-Divergence not variables call it call it divergence
-
-### Speaker 4
-
-divergence so if Im minimizing that divergence say it is not minimizing up to my mark will we need to go back and change the model again I mean like is it what the new trend is a good question
-
-### Speaker 1
-
-Thats a good question Of course of course you need to change And that is why you know you have like you know ResNet 30 ResNet 50 ResNet 100 Why did people make it deeper and different kinds of architectures Is because my divergence is not getting minimized
+speaker_1: Thats a good question Of course of course you need to change And that is why you know you have like you know ResNet 30 ResNet 50 ResNet 100 Why did people make it deeper and different kinds of architectures Is because my divergence is not getting minimized
 
 
 How do I know my divergence is not getting minimized Is it through some metrics evaluation metrics like you know whatever the accuracy precision et cetera They are all surrogates to measure how bad is your divergence right If its bad then go back and change your model Thats all It means that okay maybe the model assumption the parametric model assumption that you have made is not good enough If you are using neural networks as your parametric families the architecture is not good enough Change the architecture make it deeper have more neurons
@@ -2322,24 +1837,16 @@ How do I know my divergence is not getting minimized Is it through some metrics 
 
 have more hidden layers etc
 
-### Speaker 4
+speaker_3: So just to add on that point just to maybe a little bit philosophical question I mean like what if it doesnt like we cant model it using a parametric model at all Maybe its pure chaos kind of where we cant find a one which satisfies our divergence values
 
-So just to add on that point just to maybe a little bit philosophical question I mean like what if it doesnt like we cant model it using a parametric model at all Maybe its pure chaos kind of where we cant find a one which satisfies our divergence values
-
-### Speaker 1
-
-And we are doomed
+speaker_1: And we are doomed
 
 
 But it seems like all these transformers and billion parameter models are able to estimate general line divergence to a good level Thats why you have the boom of AI right I mean they are working which means that the divergence is minimizing
 
-### Speaker 4
+speaker_3: Okay yeah but I was thinking as you said initial class maybe change the math just
 
-Okay yeah but I was thinking as you said initial class maybe change the math just
-
-### Speaker 1
-
-again no no but i mean if the nature the mod see this we all this probabilistic uh way of thinking has taken us this far you see weve actually reached pretty far we have very very strong models these days models that can crack international mathematics olympiad and get a silver medal thats a very very strong model no
+speaker_1: again no no but i mean if the nature the mod see this we all this probabilistic uh way of thinking has taken us this far you see weve actually reached pretty far we have very very strong models these days models that can crack international mathematics olympiad and get a silver medal thats a very very strong model no
 
 
 In model that can crack JE I mean we have such models good things are happening right
@@ -2347,17 +1854,11 @@ In model that can crack JE I mean we have such models good things are happening 
 
 Thats how the people did research right I mean what was all this research all about is that changing the speed theta looking at different forms changing divergence metrics different divergence metrics and changing the way this optimization problem is solved Thats only the three things that you can do though Either you can change the model assumption or you change the divergence or you change the way you optimize That is all people have been doing so far
 
-### Speaker 2
+speaker_2: Oh so yeah I was thinking
 
-Oh so yeah I was thinking
+speaker_3: whether we like the more uh the parametric form itself we can define a new one kind of I mean like based on the inputs
 
-### Speaker 4
-
-whether we like the more uh the parametric form itself we can define a new one kind of I mean like based on the inputs
-
-### Speaker 1
-
-People have done that no I mean like from MLPs from logistic regressors they went to MLPs from MLPs they went to CNNs and then RNNs and transformers whatnot and all these kinds of different model assumptions right
+speaker_1: People have done that no I mean like from MLPs from logistic regressors they went to MLPs from MLPs they went to CNNs and then RNNs and transformers whatnot and all these kinds of different model assumptions right
 
 
 But the recipe itself has to be changed I mean this is by the way this is also called divergence minimization or empirical risk minimization People have tried to look at other ways of doing stuff as well But the thing that has worked the most and one which is there in practice today is this
@@ -2371,29 +1872,17 @@ Low key Kumar cant hear you
 
 Yes I can hear you now
 
-### Speaker 2
+speaker_2: Uh will we be always be able to come up with a divergence metric
 
-Uh will we be always be able to come up with a divergence metric
+speaker_1: that we define no yeah see if your question is will we always be able to evaluate the divergence metric the answer is no thats why you need a lot of trick all this GAN etc are actually kinds of tricks to evaluate this divergence metric will we be able to define a divergence metric of course I will just right now I will define a few metrics
 
-### Speaker 1
+speaker_3: I mean Im waiting
 
-that we define no yeah see if your question is will we always be able to evaluate the divergence metric the answer is no thats why you need a lot of trick all this GAN etc are actually kinds of tricks to evaluate this divergence metric will we be able to define a divergence metric of course I will just right now I will define a few metrics
+speaker_1: Evaluation No not necessary No we cant know because there is one apparent problem with this The apparent problem is that this divergence metric seems to ask for a px We dont have px Thats our whole problem
 
-### Speaker 4
+speaker_3: Oh
 
-I mean Im waiting
-
-### Speaker 1
-
-Evaluation No not necessary No we cant know because there is one apparent problem with this The apparent problem is that this divergence metric seems to ask for a px We dont have px Thats our whole problem
-
-### Speaker 4
-
-Oh
-
-### Speaker 1
-
-Right Now how do we evaluate these reversion metrics when you dont have PX is the question that we are going to answer in this course There are different tricks to do that Many people generally compute a bound on this You cant find this exactly So you compute an approximation to this which is computing a bound That is what this evidence lower bound and all this expectation maximization VAE etc do We will see all that in detail You can always define it but can you compute it always
+speaker_1: Right Now how do we evaluate these reversion metrics when you dont have PX is the question that we are going to answer in this course There are different tricks to do that Many people generally compute a bound on this You cant find this exactly So you compute an approximation to this which is computing a bound That is what this evidence lower bound and all this expectation maximization VAE etc do We will see all that in detail You can always define it but can you compute it always
 
 
 Perhaps not depending upon what divergence method you are looking at
@@ -2404,21 +1893,13 @@ Thats the I mean see in this in the rest of this course we will only do this we 
 
 Uh okay yeah
 
-### Speaker 3
+speaker_4: Yes uh the first question is um uh the choice of the original distribution right is also a model parameter
 
-Yes uh the first question is um uh the choice of the original distribution right is also a model parameter
+speaker_1: So but in this case
 
-### Speaker 1
+speaker_4: So for instance in this case choice of the distribution the original distribution that you try to fit so so here you try to fit the normal distribution
 
-So but in this case
-
-### Speaker 3
-
-So for instance in this case choice of the distribution the original distribution that you try to fit so so here you try to fit the normal distribution
-
-### Speaker 1
-
-No no no please See one again a kind request is please dont try to use the terms that I have not defined I have never told what do you mean by fitting
+speaker_1: No no no please See one again a kind request is please dont try to use the terms that I have not defined I have never told what do you mean by fitting
 
 
 So I have defined learning training models etc Please try to use my terms anyway So that that apart see there is we are not making an assumption on P x We are only saying that my P x I mean we are making an assumption on parametric form We are just saying there exists a P theta a family of P theta of which my P x is a member
@@ -2426,21 +1907,13 @@ So I have defined learning training models etc Please try to use my terms anyway
 
 You get it When I make an assumption lets say that P theta is a normal distribution Im saying that my Px is also a normal distribution with certain mean and variance That is the assumption that we are making Understand So you see its a method of
 
-### Speaker 3
+speaker_4: That is something that we need to choose appropriate right
 
-That is something that we need to choose appropriate right
+speaker_1: to choose other than right let me compete
 
-### Speaker 1
+speaker_4: There is a lot of noise
 
-to choose other than right let me compete
-
-### Speaker 3
-
-There is a lot of noise
-
-### Speaker 1
-
-Yeah somebody are muted
+speaker_1: Yeah somebody are muted
 
 
 Okay so let me complete Im saying suppose you may assume P theta to be a neural network What Im trying to say is that there exists a set of weights for this neural network which corresponds to my underlying PFs
@@ -2448,83 +1921,47 @@ Okay so let me complete Im saying suppose you may assume P theta to be a neural 
 
 Now what is your question
 
-### Speaker 3
+speaker_4: No but again here we have chosen normal right And then the parameters are only mu and sigma right But I could have chosen a different distribution also
 
-No but again here we have chosen normal right And then the parameters are only mu and sigma right But I could have chosen a different distribution also
+speaker_1: I told you right I mean that is your model choice You choose anything that you want You are going to choose
 
-### Speaker 1
+speaker_4: Yeah but yeah in general do we uh say that I mean the normal fits I mean or the normal is a better candidate
 
-I told you right I mean that is your model choice You choose anything that you want You are going to choose
+speaker_1: We cant care at all definitely not
 
-### Speaker 3
+speaker_4: It kind of was good I thought
 
-Yeah but yeah in general do we uh say that I mean the normal fits I mean or the normal is a better candidate
+speaker_1: Because you know if you take M nest and if you want to model it by normal distribution you are doomed There is absolutely no way that there exists a mu and sigma that would make I mean that that that will give you the distribution of M nest data
 
-### Speaker 1
+speaker_4: So that is something that we need to decide based on the data
 
-We cant care at all definitely not
+speaker_1: I mean today people are like you have to have a family P theta that is expressive enough that would express a large class of density functions No normal density does not express a large class of density functions at all
 
-### Speaker 3
+speaker_4: Okay
 
-It kind of was good I thought
+speaker_1: Isnt it Because it cant even express a binom I mean like bimodal distribution It can only express monom uni modal distributions and most data will be by multimodal distribution right
 
-### Speaker 1
-
-Because you know if you take M nest and if you want to model it by normal distribution you are doomed There is absolutely no way that there exists a mu and sigma that would make I mean that that that will give you the distribution of M nest data
-
-### Speaker 3
-
-So that is something that we need to decide based on the data
-
-### Speaker 1
-
-I mean today people are like you have to have a family P theta that is expressive enough that would express a large class of density functions No normal density does not express a large class of density functions at all
-
-### Speaker 3
-
-Okay
-
-### Speaker 1
-
-Isnt it Because it cant even express a binom I mean like bimodal distribution It can only express monom uni modal distributions and most data will be by multimodal distribution right
-
-### Speaker 3
-
-Okay and in case of neural network can we just go a little down
+speaker_4: Okay and in case of neural network can we just go a little down
 
 
 So so basically at the end you get a distribution but uh what youve shown here as the input is is the z the the normal standard
 
-### Speaker 1
+speaker_1: Yeah so what does that mean So you have a neural network that will take a normal distribution as an input and gives you a distribution as output
 
-Yeah so what does that mean So you have a neural network that will take a normal distribution as an input and gives you a distribution as output
+speaker_4: So so what does that mean
 
-### Speaker 3
-
-So so what does that mean
-
-### Speaker 1
-
-modeling it that way no i can choose see p theta is our p is in our hand we can choose our p theta to be anything
+speaker_1: modeling it that way no i can choose see p theta is our p is in our hand we can choose our p theta to be anything
 
 
 we we can choose it to be anything now if i choose it to be a neural network then there are large sets of the distributions that my neural network can express
 
-### Speaker 3
+speaker_4: Okay so so its its kind of showing that you are transforming the normal distribution to a some complex distribution using neural network
 
-Okay so so its its kind of showing that you are transforming the normal distribution to a some complex distribution using neural network
+speaker_1: Oh yeah theres neural network okay yes
 
-### Speaker 1
+speaker_4: Yeah okay understood
 
-Oh yeah theres neural network okay yes
-
-### Speaker 3
-
-Yeah okay understood
-
-### Speaker 1
-
-See even in the discriminative models you do the same thing no you have to estimate P of Y given X so you take a neural network
+speaker_1: See even in the discriminative models you do the same thing no you have to estimate P of Y given X so you take a neural network
 
 
 you take a neural network right that would take x as an input and gives you p of y given x this is exactly what a resident etc does know
@@ -2535,47 +1972,29 @@ Now you can either make this p of y given x 1 by 1 plus e power minus x e power 
 
 You can make any choice for it You can make it you can say that okay its a logistic regressor You can take any parametric form for that and estimate the parameters thats all yeah
 
-### Speaker 3
+speaker_4: Yeah got it
 
-Yeah got it
+speaker_1: Okay uh Rajat
 
-### Speaker 1
-
-Okay uh Rajat
-
-### Speaker 4
-
-Sir my question is if we have some ways to identify the real PX
+speaker_3: Sir my question is if we have some ways to identify the real PX
 
 
 using some tricks or methods that and you told well discuss later in this course then I didnt what we will achieve by by a mini divergence because knowing the real px is something that we all interested in right
 
-### Speaker 1
+speaker_1: No we cant I mean the whole problem is there is no way to know real pHs Every whole present
 
-No we cant I mean the whole problem is there is no way to know real pHs Every whole present
-
-### Speaker 4
-
-how we will um
+speaker_3: how we will um
 
 
 Diverge how we can create divergence
 
-### Speaker 1
+speaker_1: I have not told you that no I said yeah yeah that is one problem that is one question that I will answer in a while
 
-I have not told you that no I said yeah yeah that is one problem that is one question that I will answer in a while
+speaker_3: I told you dont know I said
 
-### Speaker 4
+speaker_4: Well directly sample from the try to sample
 
-I told you dont know I said
-
-### Speaker 3
-
-Well directly sample from the try to sample
-
-### Speaker 1
-
-Please dont jump There is a method to do There is something called law of unconscious statistician and law of large number that we will use and we will use construct some bounds Those are the things that we will do in this course I have told you that that is some question that we will answer Now how do you evaluate the divergence metric if you dont know Px is a question that I will answer I have not answered that Okay But I want you to understand the philosophy right I mean like what is happening You given data assume some parametric form on underlying Px
+speaker_1: Please dont jump There is a method to do There is something called law of unconscious statistician and law of large number that we will use and we will use construct some bounds Those are the things that we will do in this course I have told you that that is some question that we will answer Now how do you evaluate the divergence metric if you dont know Px is a question that I will answer I have not answered that Okay But I want you to understand the philosophy right I mean like what is happening You given data assume some parametric form on underlying Px
 
 
 the divergence metric and then adjust your parameters of your p theta such that this divergence metric is minimized thats all i mean is this point clear i mean this is what i wanted to uh drive home if this is clear then the next question is of course what divergence metric what form how do you compute the divergence metric etc is what we teach in this course okay
@@ -2622,24 +2041,16 @@ What we will do is
 
 I will start with one famous divergence metric Okay so here is a question that I want to ask you
 
-### Speaker 4
+speaker_3: We should start that
 
-We should start that
-
-### Speaker 1
-
-asked you that but see um as i said in this course we will be looking at uh uh models like vaes and gans and diffusion models and and so on right um which one do you want to start with you want to start with gans and then go to vaes or
+speaker_1: asked you that but see um as i said in this course we will be looking at uh uh models like vaes and gans and diffusion models and and so on right um which one do you want to start with you want to start with gans and then go to vaes or
 
 
 VAEs and then go to GANs So typically
 
-### Speaker 2
+speaker_2: No hes been good
 
-No hes been good
-
-### Speaker 1
-
-Typically I used to do that I used to start with VAEs and then goes to GANs But this time Im just thinking I should do the other way around Ill tell you the reason The reason is these diffusion models right Diffusion models are special cases of VAEs Theyre actually hierarchical VAEs with a fixed encoding process So now if I do VAEs and then do diffusion models right I mean it will be fresh in your memory and I dont have to repeat things that Ive done for VAEs So now what
+speaker_1: Typically I used to do that I used to start with VAEs and then goes to GANs But this time Im just thinking I should do the other way around Ill tell you the reason The reason is these diffusion models right Diffusion models are special cases of VAEs Theyre actually hierarchical VAEs with a fixed encoding process So now if I do VAEs and then do diffusion models right I mean it will be fresh in your memory and I dont have to repeat things that Ive done for VAEs So now what
 
 
 uh perhaps we will do is you know GANs are a very different class of models and they are sort of like out of trend now people are not looking at GANs because of the problems that it comes with so let us start with adversarial learning okay and perhaps then we will go to VAEs
@@ -2725,13 +2136,9 @@ Independent
 
 This makes sense right I mean they have to add up basically I am saying that if there are two events happening together and if they are mutually exclusive then the total information that is conveyed by both of them have to be the sum of information conveyed by individuals of them Does it make sense
 
-### Speaker 4
+speaker_3: So should it be I of A intersection B equal to null set or just A intersection B equal to null set
 
-So should it be I of A intersection B equal to null set or just A intersection B equal to null set
-
-### Speaker 1
-
-Ah yeah yeah yeah Yes Thanks This is what it is Yeah Thanks for that The typo Okay This is okay right Now in fact I mean these measures were proposed by Shannon okay great information theorist who is responsible for all the communication that we have today that he defined this thing right to be the surprisal of a particular event as the negative of logarithm of the probability okay
+speaker_1: Ah yeah yeah yeah Yes Thanks This is what it is Yeah Thanks for that The typo Okay This is okay right Now in fact I mean these measures were proposed by Shannon okay great information theorist who is responsible for all the communication that we have today that he defined this thing right to be the surprisal of a particular event as the negative of logarithm of the probability okay
 
 
 associated with that particular event A You should not be writing this as script P because we have taken the script P for
@@ -2769,13 +2176,9 @@ distribution right
 
 What do we do This is for one event right If we want to do it for the entire distribution how do we do that
 
-### Speaker 2
+speaker_2: integrate all the values
 
-integrate all the values
-
-### Speaker 1
-
-Just take an average right over all events
+speaker_1: Just take an average right over all events
 
 
 So lets say that this is a discrete disbl Ill do it in a discrete distribution in a
@@ -2819,40 +2222,24 @@ Okay yeah some people have questions here Let me take a question
 
 Yes uh go on with questions
 
-### Speaker 2
+speaker_2: Sir I didnt get why the information associated with null set is infinity and also why information associated with event A is minus log of probability A
 
-Sir I didnt get why the information associated with null set is infinity and also why information associated with event A is minus log of probability A
+speaker_1: Okay Im muted just give me a second Ill answer that
 
-### Speaker 1
+speaker_2: You can hear you sir
 
-Okay Im muted just give me a second Ill answer that
+speaker_1: Hello can you hear me
 
-### Speaker 2
+speaker_2: Yes sir we can hear you
 
-You can hear you sir
-
-### Speaker 1
-
-Hello can you hear me
-
-### Speaker 2
-
-Yes sir we can hear you
-
-### Speaker 1
-
-You never
+speaker_1: You never
 
 
 Can you hear me now
 
-### Speaker 2
+speaker_2: Yes sir we can hear you
 
-Yes sir we can hear you
-
-### Speaker 1
-
-Okay see the thing is this is our definition See what I want is I want a measure that would take very high value for less probable events It will take very low values for high probable events Okay that is the measure that I want Now
+speaker_1: Okay see the thing is this is our definition See what I want is I want a measure that would take very high value for less probable events It will take very low values for high probable events Okay that is the measure that I want Now
 
 
 The asymptotic case asymptotic case which is the extreme case is the following that if you take the entire sample space
@@ -2860,24 +2247,16 @@ The asymptotic case asymptotic case which is the extreme case is the following t
 
 take the entire sample space then that is the most probable event isnt it
 
-### Speaker 2
+speaker_2: Yes that will be
 
-Yes that will be
-
-### Speaker 1
-
-That should have zero information
+speaker_1: That should have zero information
 
 
 Okay similarly the least probable event which is the null should have infinite information
 
-### Speaker 2
+speaker_2: I understand that probability part but how come that gets reversed when we associate with the information
 
-I understand that probability part but how come that gets reversed when we associate with the information
-
-### Speaker 1
-
-That is how we want right See now what are we desiring See okay So Ill tell you some historical thing right The question that was asked is if you say that an event has happened you tell me how much information is conveyed in that is the question
+speaker_1: That is how we want right See now what are we desiring See okay So Ill tell you some historical thing right The question that was asked is if you say that an event has happened you tell me how much information is conveyed in that is the question
 
 
 Now intuitively dont you think that an event that has very high probability or which is very high which is very highly probable conveys very less information
@@ -2885,21 +2264,13 @@ Now intuitively dont you think that an event that has very high probability or w
 
 Historically what happened is the question Shannon was asking is if I have to compress the I suppose I want to you know I want to pass a message from point A to point B and I want to understand it now
 
-### Speaker 2
+speaker_2: And its good to know
 
-And its good to know
+speaker_1: Got it now
 
-### Speaker 1
+speaker_2: Its easy to understand
 
-Got it now
-
-### Speaker 2
-
-Its easy to understand
-
-### Speaker 1
-
-Yeah so I mean we defined the information this way information content associated with an event this way that it is the negative of log of probability associated with it Thats all
+speaker_1: Yeah so I mean we defined the information this way information content associated with an event this way that it is the negative of log of probability associated with it Thats all
 
 
 Okay uh artistic
@@ -2910,41 +2281,23 @@ I just look at it no the probabilities get multiplied if the events are independ
 
 Probability of A and B a pro log of A B is log A plus log B isnt it
 
-### Speaker 2
+speaker_2: Okay okay if theyre distinct okay okay yeah I understand
 
-Okay okay if theyre distinct okay okay yeah I understand
+speaker_1: Lets lets I give you a minute to just plug that yeah yeah I forgot that
 
-### Speaker 1
+speaker_2: Yeah yeah I forgot that they are disjoint also so yeah okay
 
-Lets lets I give you a minute to just plug that yeah yeah I forgot that
+speaker_1: Okay so
 
-### Speaker 2
+speaker_2: Yeah thank you
 
-Yeah yeah I forgot that they are disjoint also so yeah okay
+speaker_4: are in this average function will it be like capital P right this small p was for probability density
 
-### Speaker 1
+speaker_1: Im saying its a discrete distribution right so this is PMF probability mass function which is a probability by itself
 
-Okay so
+speaker_4: Sorry uh can you tell me
 
-### Speaker 2
-
-Yeah thank you
-
-### Speaker 3
-
-are in this average function will it be like capital P right this small p was for probability density
-
-### Speaker 1
-
-Im saying its a discrete distribution right so this is PMF probability mass function which is a probability by itself
-
-### Speaker 3
-
-Sorry uh can you tell me
-
-### Speaker 1
-
-See I said that it is a discrete distribution therefore this p is a PMF function probability mass function which is an it is actually a valid probability
+speaker_1: See I said that it is a discrete distribution therefore this p is a PMF function probability mass function which is an it is actually a valid probability
 
 
 Great thinking Paul
@@ -2952,21 +2305,13 @@ Great thinking Paul
 
 Okay some it
 
-### Speaker 2
+speaker_2: So this union property that is there basically I a union B is I a plus I b but if we consider a union of a with null set means this the intersection will also be a null but then this property will not hold no because a union null will be a itself but then if we add them up it will be infinity
 
-So this union property that is there basically I a union B is I a plus I b but if we consider a union of a with null set means this the intersection will also be a null but then this property will not hold no because a union null will be a itself but then if we add them up it will be infinity
+speaker_1: No A union null is no A union null is A okay You can still represent that as I of A plus I of null right
 
-### Speaker 1
+speaker_2: But I of null is infinity no So I of a plus I of null will be infinity
 
-No A union null is no A union null is A okay You can still represent that as I of A plus I of null right
-
-### Speaker 2
-
-But I of null is infinity no So I of a plus I of null will be infinity
-
-### Speaker 1
-
-Yeah I know
+speaker_1: Yeah I know
 
 
 are saying um I mean maybe I should just add that or
@@ -2977,20 +2322,14 @@ Yeah that will solve it thats the next case
 
 Other tier
 
-### Speaker 4
+speaker_3: Also similar just an add on to that question if B was for example an A complement over here so I of A plus I of A complement that
 
-Also similar just an add on to that question if B was for example an A complement over here so I of A plus I of A complement that
-
-### Speaker 3
-
-equal to i of omega the leg the
+speaker_4: equal to i of omega the leg the
 
 
 That should be zero
 
-### Speaker 1
-
-Yeah of course
+speaker_1: Yeah of course
 
 
 Post per definition
@@ -3004,13 +2343,9 @@ Sorry its quite
 
 So this is called the entropy yeah this is called the
 
-### Speaker 3
+speaker_4: Its quite cool
 
-Its quite cool
-
-### Speaker 1
-
-This is the entropy associated with the distribution that is its simply the average information that is associated with the distribution is called the entropy of that distribution
+speaker_1: This is the entropy associated with the distribution that is its simply the average information that is associated with the distribution is called the entropy of that distribution
 
 
 Makes sense now Makes a lot of sense So basically you define the information content for an event and just take an average over all possible events that are there and that will give you the entropy which is the average information that is conveyed by a distribution Is that fine
@@ -3066,13 +2401,9 @@ In all of these cities
 
 This also has a name do you know
 
-### Speaker 4
+speaker_3: So central piece
 
-So central piece
-
-### Speaker 1
-
-This is the cross entropy
+speaker_1: This is the cross entropy
 
 
 brain BLANK
@@ -3098,21 +2429,13 @@ In B
 
 not in cube can i call it this way
 
-### Speaker 2
+speaker_2: Sir the first term tells us about like gives us the information about Q right
 
-Sir the first term tells us about like gives us the information about Q right
+speaker_1: information about uh p like if us you know here here cross entropy is a cross entropy tells you that how much information does q has about p
 
-### Speaker 1
+speaker_2: So about means uh
 
-information about uh p like if us you know here here cross entropy is a cross entropy tells you that how much information does q has about p
-
-### Speaker 2
-
-So about means uh
-
-### Speaker 1
-
-Oh dear
+speaker_1: Oh dear
 
 
 Right and it of p tells you the information in p which will take the difference between them
@@ -3123,28 +2446,18 @@ Do you tell me how much extra information is there with P that
 
 The Q does not have
 
-### Speaker 2
+speaker_2: And it should be subtracted by HQ right
 
-And it should be subtracted by HQ right
+speaker_4: Its the terms should be reversed right
 
-### Speaker 3
+speaker_1: You mean hp minus hq z
 
-Its the terms should be reversed right
-
-### Speaker 1
-
-You mean hp minus hq z
-
-### Speaker 2
-
-HP minus HPQ
+speaker_2: HP minus HPQ
 
 
 Otherwise like this inter like this is giving a sense that the term will be negative wont it sir
 
-### Speaker 1
-
-See that is a minus log there no
+speaker_1: See that is a minus log there no
 
 
 minute la minus law also it will be
@@ -3173,13 +2486,9 @@ is correct no so theres a minus here theres a minus of minus will become plus so
 
 Do you know the name for this This is the name this is the
 
-### Speaker 3
+speaker_4: Need it to be
 
-Need it to be
-
-### Speaker 1
-
-This is one divergence metric that we will study in this course that the clear divergence between these two distributions px and qx
+speaker_1: This is one divergence metric that we will study in this course that the clear divergence between these two distributions px and qx
 
 
 Play Doh and buy
@@ -3220,13 +2529,9 @@ Okay well thats all for today see you next week
 
 Have a nice week and bye bye
 
-### Speaker 3
+speaker_4: Okay
 
-Okay
-
-### Speaker 1
-
-Okay just a second Next week next Saturday is this Ganesha Tirthi Thats okay right We can still have a class
+speaker_1: Okay just a second Next week next Saturday is this Ganesha Tirthi Thats okay right We can still have a class
 
 
 Yeah thats it
@@ -3237,6 +2542,4 @@ Okay anyway we are recording if people want to take off they can take off and se
 
 Ill have to ask my mother if that is possible but yeah Ill convince her okay see bye
 
-### Speaker 3
-
-Yes thank you sir
+speaker_4: Yes thank you sir

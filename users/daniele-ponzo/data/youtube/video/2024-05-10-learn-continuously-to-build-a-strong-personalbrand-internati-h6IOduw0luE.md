@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-put when we remove okay the the facade I think its its a great concept continuous learning because at the end of the day you never stop learning you know If you have that sort of mindset and you discover new things every day uh and then it shows when you work like for example in your case uh if youre able to write about different topics even as you said youre not an expert but it shows you know and that sort of makes a difference I believe And uh I mean this this is something that is always I think its intriguing yeah the fact that you might write about I dont know copywriting like in your case So maybe promoting your services but doing so by talking about something completely different like music
+speaker_1: put when we remove okay the the facade I think its its a great concept continuous learning because at the end of the day you never stop learning you know If you have that sort of mindset and you discover new things every day uh and then it shows when you work like for example in your case uh if youre able to write about different topics even as you said youre not an expert but it shows you know and that sort of makes a difference I believe And uh I mean this this is something that is always I think its intriguing yeah the fact that you might write about I dont know copywriting like in your case So maybe promoting your services but doing so by talking about something completely different like music

@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-The second book I recommend every supply chain manager should read is this one which is called Whale Done by Ken Blanchard Ken Blanchard is a very famous author Im pretty sure that you might have heard of his very famous book called The One Minute Manager And what I really like about this book called Whale Done is that it uses the example of whale trainers How do they energize and accentuate the positive amongst those whales and they perform their best And one of the very interesting concepts hes talked about in this book is called the ABCs of performance So A stands for activated What gets performance going Then B is the behavior So the performance that occurs as a result of that activator And then C is the consequence What is your response to that performance
+speaker_1: The second book I recommend every supply chain manager should read is this one which is called Whale Done by Ken Blanchard Ken Blanchard is a very famous author Im pretty sure that you might have heard of his very famous book called The One Minute Manager And what I really like about this book called Whale Done is that it uses the example of whale trainers How do they energize and accentuate the positive amongst those whales and they perform their best And one of the very interesting concepts hes talked about in this book is called the ABCs of performance So A stands for activated What gets performance going Then B is the behavior So the performance that occurs as a result of that activator And then C is the consequence What is your response to that performance

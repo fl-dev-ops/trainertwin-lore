@@ -8,56 +8,35 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Deep Generative Models Tutorials CNNs
 
 ## Transcript
 
+speaker_1: Uh can we clarify some questions on the assignment or at the last week and discuss because regarding the implementation
 
-### Speaker 1
+speaker_2: See let me be very frank with you I havent even read the
 
-Uh can we clarify some questions on the assignment or at the last week and discuss because regarding the implementation
+speaker_1: But uh we have some
 
-### Speaker 2
+speaker_2: But uh we have some
 
-See let me be very frank with you I havent even read the
+speaker_1: Yeah clarity or offline shall be sent in
 
-### Speaker 1
+speaker_2: Yeah you can send me a request Ill look into it and then rectify it Sorry its like sometimes no we read things on need basis So only I should be reading assignment during evaluation right So I thought of reading it So Im as lazy as you all So okay Okay then
 
-But uh we have some
+speaker_1: Okay then we then we will post all the questions to you just
 
-### Speaker 2
+speaker_2: post all the questions you just you just send me those questions on teams or else you do it that I reply okay yeah
 
-But uh we have some
+speaker_1: Oh yeah
 
-### Speaker 1
-
-Yeah clarity or offline shall be sent in
-
-### Speaker 2
-
-Yeah you can send me a request Ill look into it and then rectify it Sorry its like sometimes no we read things on need basis So only I should be reading assignment during evaluation right So I thought of reading it So Im as lazy as you all So okay Okay then
-
-### Speaker 1
-
-Okay then we then we will post all the questions to you just
-
-### Speaker 2
-
-post all the questions you just you just send me those questions on teams or else you do it that I reply okay yeah
-
-### Speaker 1
-
-Oh yeah
-
-### Speaker 2
-
-And so uh so what is todays date is 25th so 25 25th
+speaker_2: And so uh so what is todays date is 25th so 25 25th
 
 
 September two zero two four
@@ -92,20 +71,14 @@ Same model
 
 Can I assume that you know these things
 
-### Speaker 1
+speaker_1: Yeah the the o only questions and then here is the saying
 
-Yeah the the o only questions and then here is the saying
-
-### Speaker 3
-
-PGD versus the atom so everywhere it is showing in the papers or everywhere we are saying it is like atom so is there any specific reasons nowadays everybody is going to atom or
+speaker_3: PGD versus the atom so everywhere it is showing in the papers or everywhere we are saying it is like atom so is there any specific reasons nowadays everybody is going to atom or
 
 
 Optimist
 
-### Speaker 2
-
-See uh see atom is SGD there is an idea called as momentum
+speaker_2: See uh see atom is SGD there is an idea called as momentum
 
 
 Okay uh see if we go into that that is totally a different trajectory altogether but you can think of it like its a next version of SGD
@@ -113,13 +86,9 @@ Okay uh see if we go into that that is totally a different trajectory altogether
 
 SGD you know right gradient descent the idea of gradient descent is here
 
-### Speaker 1
+speaker_1: Yes yes yes yes yes yes
 
-Yes yes yes yes yes yes
-
-### Speaker 2
-
-So you can just think of it like the next version of SGD which is the which you have used That is Adam There is something that has new that has come that is AdamW People are very much skeptical about its working I havent seen anybody using it per se SGD and Adam are the ones that people will use Now sometimes when the network is quite deep what they will use they use SGD
+speaker_2: So you can just think of it like the next version of SGD which is the which you have used That is Adam There is something that has new that has come that is AdamW People are very much skeptical about its working I havent seen anybody using it per se SGD and Adam are the ones that people will use Now sometimes when the network is quite deep what they will use they use SGD
 
 
 there is okay now what do you mean by deep how do you quantify it its like uh what do you call day to day terms so if it is quite deep for example it is 20 layers 25 layers something like that you use sgd or sometimes even the the some of the problems sgd gives better answers than better predictive accuracies or better performance on whatever tasks that you are doing compared to adam so these are all very heuristic there is
@@ -130,21 +99,13 @@ no one thing to say that okay this is the what do you call silver bullet or uh w
 
 You should try it up with multiple things So I assume that you are comfortable with these basic things
 
-### Speaker 1
+speaker_1: Oh no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
 
-Oh no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
+speaker_2: Sure sure Okay Now everybodys clear with these topics Anybody has any queries on these topics specifically
 
-### Speaker 2
+speaker_4: What is CC loss
 
-Sure sure Okay Now everybodys clear with these topics Anybody has any queries on these topics specifically
-
-### Speaker 4
-
-What is CC loss
-
-### Speaker 2
-
-DCL
+speaker_2: DCL
 
 
 Categorical cross entropy loss
@@ -161,63 +122,37 @@ Okay so its a matrix so its a matrix so all x that you have its a matrix of
 
 28 cross 28 Okay you have 28 here and then you have 28 here
 
-### Speaker 1
+speaker_1: And then why cant I use my notations
 
-And then why cant I use my notations
+speaker_2: Set it up the thingy Oh okay
 
-### Speaker 2
+speaker_3: Uh just just joking yeah continue
 
-Set it up the thingy Oh okay
+speaker_2: And the thing is
 
-### Speaker 3
+speaker_3: Its okay please continue
 
-Uh just just joking yeah continue
+speaker_4: okay please continue no no please i understand please continue yes thats okay see i just came here because you know i just wanted to let you know see i have given them the assignment right so it would be good if you can quickly tell them how to implement cnns i think this is what you have planned and also the up convolutions transpose convolution kind of layers and how do you do them that is what you say
 
-### Speaker 2
-
-And the thing is
-
-### Speaker 3
-
-Its okay please continue
-
-### Speaker 4
-
-okay please continue no no please i understand please continue yes thats okay see i just came here because you know i just wanted to let you know see i have given them the assignment right so it would be good if you can quickly tell them how to implement cnns i think this is what you have planned and also the up convolutions transpose convolution kind of layers and how do you do them that is what you say
-
-### Speaker 2
-
-I found a lot of
+speaker_2: I found a lot of
 
 
 Yes yes yes sir that is the that is the plan for uh today sir yes sir okay Im just giving them why MLP is not a good idea for images now the spatial
 
-### Speaker 4
+speaker_4: See general one yeah one like you know piece of advice if I may See try to refrain from you know covering some theory because you know most of it I would have covered in the class And so because its only one hour no and its focus more on implement because previous times also what people told me is that one hour is too less and theres too much to cover Strike jump straight away into implementations and codes and show them things
 
-See general one yeah one like you know piece of advice if I may See try to refrain from you know covering some theory because you know most of it I would have covered in the class And so because its only one hour no and its focus more on implement because previous times also what people told me is that one hour is too less and theres too much to cover Strike jump straight away into implementations and codes and show them things
-
-### Speaker 2
-
-We need to take a
+speaker_2: We need to take a
 
 
 Sure sure sure sir yeah sure
 
-### Speaker 4
+speaker_4: Thanks for volunteering and yeah enjoy
 
-Thanks for volunteering and yeah enjoy
+speaker_2: Its a C yeah thank you thank you sir
 
-### Speaker 2
+speaker_4: Ill t yeah yeah
 
-Its a C yeah thank you thank you sir
-
-### Speaker 4
-
-Ill t yeah yeah
-
-### Speaker 2
-
-Yes yes Im good
+speaker_2: Yes yes Im good
 
 
 So uh lets take a very simple case lets not go into this 28 cross 28 now lets take a very simple matrix you know which is of shape 4 cross 4
@@ -372,13 +307,9 @@ Okay and the output now you can see that now this is for first filter this is fo
 
 Okay so normally so this is
 
-### Speaker 1
+speaker_1: channel correct one filter for each
 
-channel correct one filter for each
-
-### Speaker 2
-
-See okay no need to restrict for RGB now if you have four more
+speaker_2: See okay no need to restrict for RGB now if you have four more
 
 
 How much ever you have consider that you have fourth one you will have fourth one here thats all And this is for this and this will be for this okay
@@ -500,32 +431,20 @@ any questions with the operation now if there is a bias term we should add it no
 
 You should do plus one finally okay yeah go ahead Satya yeah
 
-### Speaker 4
+speaker_4: on current is like how are you designing the filter size and number of filters
 
-on current is like how are you designing the filter size and number of filters
-
-### Speaker 2
-
-Keep that question Filter size this is what filter size is Why am I deciding this And how am I deciding number of filters is your question Very good question Ill answer that in some time
+speaker_2: Keep that question Filter size this is what filter size is Why am I deciding this And how am I deciding number of filters is your question Very good question Ill answer that in some time
 
 
 Sanchez
 
-### Speaker 1
+speaker_1: You mentioned one property right Like when we started discussing about this this topic yeah local receptive fields So I could not understand this like this aspect completely here So what we are trying to say
 
-You mentioned one property right Like when we started discussing about this this topic yeah local receptive fields So I could not understand this like this aspect completely here So what we are trying to say
+speaker_2: See is this local now as of now for this the receptive field is this
 
-### Speaker 2
+speaker_1: Okay
 
-See is this local now as of now for this the receptive field is this
-
-### Speaker 1
-
-Okay
-
-### Speaker 2
-
-Okay and what why do I say weight sharing Now the same set of weights is shared across the whole thing
+speaker_2: Okay and what why do I say weight sharing Now the same set of weights is shared across the whole thing
 
 
 Now look into that LeNet paper
@@ -692,21 +611,13 @@ Is the idea of convolution operations and the parameters of that is it clear
 
 Okay one question now just yeah go ahead go ahead So this filter size you have chosen three right
 
-### Speaker 4
+speaker_4: Is there any specific reason for that like could I have chosen no like any other size
 
-Is there any specific reason for that like could I have chosen no like any other size
+speaker_2: All of these are variable you can do whatever you want
 
-### Speaker 2
+speaker_4: That would be
 
-All of these are variable you can do whatever you want
-
-### Speaker 4
-
-That would be
-
-### Speaker 2
-
-Okay now that will raise your question So why on earth is this Then I can have any number of networks right I can so this is one layer Similarly I can have any number of layers of CNNs and any of these things You go on varying things and you go on getting different different networks right And then I will say that Chanda net and you will say that Sachin net okay And then Satya will say the Satya net And so on and so forth Everybody lets go on giving each one network one and a name
+speaker_2: Okay now that will raise your question So why on earth is this Then I can have any number of networks right I can so this is one layer Similarly I can have any number of layers of CNNs and any of these things You go on varying things and you go on getting different different networks right And then I will say that Chanda net and you will say that Sachin net okay And then Satya will say the Satya net And so on and so forth Everybody lets go on giving each one network one and a name
 
 
 and lets lets uh uh destroy the whole of the thing we go on with so many names okay then what happened was there is something called as an image net computation
@@ -729,13 +640,9 @@ No no no
 
 Okay okay in the sense okay I got your point What you are saying is if the number of filter sizes is three cross three I cannot have stride more than three
 
-### Speaker 1
+speaker_1: Yeah yeah like something there should be some common
 
-Yeah yeah like something there should be some common
-
-### Speaker 2
-
-Okay Yeah yeah yeah So you cannot see if I am starting here I cannot have stride four which Ill get into here Because in middle one row will be left Okay So those are some inbuilt ideas that you should immediately get it Thats a valid point correct Now you can have either one zero So sorry it should be either one which is default two or zero Okay Now what should be the movement in each of the cases
+speaker_2: Okay Yeah yeah yeah So you cannot see if I am starting here I cannot have stride four which Ill get into here Because in middle one row will be left Okay So those are some inbuilt ideas that you should immediately get it Thats a valid point correct Now you can have either one zero So sorry it should be either one which is default two or zero Okay Now what should be the movement in each of the cases
 
 
 And then you cannot put any random numbers here and things will not work out Ill just give you one example Okay Now now tell me this I have a convolutional layer here
@@ -755,16 +662,12 @@ Now tell me what are the values that I should be giving for this FKPS
 
 Put it in the chat box is there a chat
 
-### Speaker 4
-
-Excellent
+speaker_4: Excellent
 
 
 A five cross five is the filter
 
-### Speaker 2
-
-No no just put it just just put it there just put put all the four values there put it in the chat do a calculation and put it in the chat
+speaker_2: No no just put it just just put it there just put put all the four values there put it in the chat do a calculation and put it in the chat
 
 
 I want everybody to do this calculation now because these kinds of calculations where you surely get stuck because youll be applying lot of convolutions and then you should be knowing what will be the outcome of that convolution okay
@@ -787,13 +690,9 @@ having to get it
 
 Is that clear
 
-### Speaker 4
+speaker_4: I know the creepback
 
-I know the creepback
-
-### Speaker 2
-
-See you have you can get two equations three unknowns are there Okay No even God cannot solve it Okay No I dont know There is a statement Okay One equation one unknown Any fools can solve it Okay One equation two unknowns Not even God can solve it Okay So so you have two equations three unknowns So not even God can solve it
+speaker_2: See you have you can get two equations three unknowns are there Okay No even God cannot solve it Okay No I dont know There is a statement Okay One equation one unknown Any fools can solve it Okay One equation two unknowns Not even God can solve it Okay So so you have two equations three unknowns So not even God can solve it
 
 
 So now
@@ -813,13 +712,9 @@ So so now everybody is clear with these ideas
 
 Now what you are supposed to do now
 
-### Speaker 4
+speaker_4: Can you tell that equation solving again this k is fixed after that
 
-Can you tell that equation solving again this k is fixed after that
-
-### Speaker 2
-
-K is fixed okay K is fixed okay So now you cannot have what do you call weird kind of things okay You cannot do it You cannot basically solve it right Now because you have three equations sorry three unknowns and two equations you cannot solve them So now you should fix some of the things So now lets fix S is equal to one and P is equal to zero is my proposition And lets see whether we can get something out of it Yes we got something out of it Lets use it
+speaker_2: K is fixed okay K is fixed okay So now you cannot have what do you call weird kind of things okay You cannot do it You cannot basically solve it right Now because you have three equations sorry three unknowns and two equations you cannot solve them So now you should fix some of the things So now lets fix S is equal to one and P is equal to zero is my proposition And lets see whether we can get something out of it Yes we got something out of it Lets use it
 
 
 Okay Im not saying that that is the only unique solution There can be multiple other solutions that are possible This is the one solution that I have got Ill just fix to it
@@ -905,24 +800,16 @@ So now you are getting the train loader under the test loader train set and test
 
 Okay now here youre creating a simple CNN Now first you are having a convolutional layer Now what is this convolutional layer Convolutional layer now first you should say that how many input channels are you having This is input channels How many output channels you want You want 32 Input channels now it depends on your input How many output channels I want 32 Now that means that how many filters will be there
 
-### Speaker 4
+speaker_4: I can see
 
-I can see
-
-### Speaker 2
-
-If we say that the output 32 filters will be there okay and then how many components will be there in each of the filter
+speaker_2: If we say that the output 32 filters will be there okay and then how many components will be there in each of the filter
 
 
 How many components should be there each of the filter
 
-### Speaker 4
+speaker_4: One one channel is
 
-One one channel is
-
-### Speaker 2
-
-one component correct your input has only one channel so there will be one component in each of these 32 filters and then each filter size you are saying that it is 3 that means that it is 3 cross 3
+speaker_2: one component correct your input has only one channel so there will be one component in each of these 32 filters and then each filter size you are saying that it is 3 that means that it is 3 cross 3
 
 
 Is that clear the first thing
@@ -945,24 +832,16 @@ Is this much clear
 
 Okay so now after this
 
-### Speaker 4
+speaker_4: So sorry to interrupt and then I have one question we can have non square filters also right
 
-So sorry to interrupt and then I have one question we can have non square filters also right
-
-### Speaker 2
-
-Thats what we learned
+speaker_2: Thats what we learned
 
 
 Uh no madam secretary
 
-### Speaker 4
+speaker_4: We are considering uh three cross three we can have three cross three also right
 
-We are considering uh three cross three we can have three cross three also right
-
-### Speaker 2
-
-No no no no then the whole convolutional operation will just have issues
+speaker_2: No no no no then the whole convolutional operation will just have issues
 
 
 explicitly define okay you cannot have it i guess
@@ -973,13 +852,9 @@ Okay I havent seen non square kernels as of now but I presume that it is not pos
 
 See okay lets not okay I as of now I dont know If there is anything Ill put the resource in the group okay Lets not take the deviation towards non square channels non square filters okay So now this is the convolutional layer and then there are layers called as pooling layers
 
-### Speaker 4
+speaker_4: Oh what does
 
-Oh what does
-
-### Speaker 2
-
-This pooling layer does
+speaker_2: This pooling layer does
 
 
 Zoom is far better this Microsoft Teams is there now it doesnt allow to annotate it doesnt allow many of the operations
@@ -1050,13 +925,9 @@ Okay now in that case you should you will be adding max coolings
 
 Okay and it doesnt change the number of channels right It can only change the dimension of each feature
 
-### Speaker 4
+speaker_4: I understand
 
-I understand
-
-### Speaker 2
-
-understood okay now then you are applying
+speaker_2: understood okay now then you are applying
 
 
 you are applying one more convolutional layer where in which input you have is 32 output features you are having is 64 kernel size you are having is 3 and padding you are having is 1 therefore stride will be 1 now can you tell me
@@ -1181,13 +1052,9 @@ Those are the things that you should get
 
 I presume that that is clear any questions there
 
-### Speaker 4
+speaker_4: this feature extraction is like same right the convolutional we are doing right
 
-this feature extraction is like same right the convolutional we are doing right
-
-### Speaker 2
-
-Yes yes Convolution layers are called as feature extractors You listen to this word lot of times Convolution layers are called as feature extractors And that last block of fully counted layers are there now Now they are called as the classification header Now because see there are multiple tasks right Once one you have is classification task You can have segmentation task Or you can have what do you call computing task Okay Sometimes you count number of people in the image That is called as crowd
+speaker_2: Yes yes Convolution layers are called as feature extractors You listen to this word lot of times Convolution layers are called as feature extractors And that last block of fully counted layers are there now Now they are called as the classification header Now because see there are multiple tasks right Once one you have is classification task You can have segmentation task Or you can have what do you call computing task Okay Sometimes you count number of people in the image That is called as crowd
 
 
 computing now depending on the task the head changes but the feature extractor which is there no they remain
@@ -1195,13 +1062,9 @@ computing now depending on the task the head changes but the feature extractor w
 
 And uh this cooling layer is cooling cooling layer is just
 
-### Speaker 4
+speaker_4: Oh this is
 
-Oh this is
-
-### Speaker 2
-
-to like decrease or increase or reduce the dimension reduce it
+speaker_2: to like decrease or increase or reduce the dimension reduce it
 
 
 And this will always be between two two layers of convolution
@@ -1260,62 +1123,38 @@ I dont know how many of you are using copilot github copilot
 
 Oh my God it resolves most of our problems I dont know are you allowed to use GPT How do I know whether you are using or not I dont have any
 
-### Speaker 4
+speaker_4: I mean GPT is not an animal
 
-I mean GPT is not an animal
-
-### Speaker 2
-
-DGPT is not allowed ah okay I dont know we still havent discussed the evaluation mechanisms I dont know
+speaker_2: DGPT is not allowed ah okay I dont know we still havent discussed the evaluation mechanisms I dont know
 
 
 So good So yeah we will stop at this point today We will take up the remaining discussion in the next week Now finally you will have any questions you can feel free to ping me or Suhas in the teams We will surely help you out Yes Satyajit Satya yeah
 
-### Speaker 4
+speaker_4: Uh yeah Ill send a question you can ask if you want me to answer
 
-Uh yeah Ill send a question you can ask if you want me to answer
-
-### Speaker 2
-
-Then you can watch me this time
+speaker_2: Then you can watch me this time
 
 
 If you can call me Chanzy okay
 
-### Speaker 4
+speaker_4: Yeah yeah no the first question initially asked right that how are we deciding the number of filter and the filter size because the tutorial it is just because you have to understand
 
-Yeah yeah no the first question initially asked right that how are we deciding the number of filter and the filter size because the tutorial it is just because you have to understand
-
-### Speaker 2
-
-Yeah see I think I somehow explained you but maybe you missed it The idea is very simple What should be the output you want is the question The example the numerical example I gave no this is the input this is the output so you fix the remaining things
+speaker_2: Yeah see I think I somehow explained you but maybe you missed it The idea is very simple What should be the output you want is the question The example the numerical example I gave no this is the input this is the output so you fix the remaining things
 
 
 Okay this is the output size you want so then you want to manipulate the remaining things right
 
-### Speaker 4
+speaker_4: So in between whatever the layer we can uh we can take out whichever the filters we need is it because we need only the output uh
 
-So in between whatever the layer we can uh we can take out whichever the filters we need is it because we need only the output uh
+speaker_2: You cannot take how much ever filters you want no because the output size is fixed now the number of filters and the number of dimensions they are same if you remember
 
-### Speaker 2
+speaker_4: That is output layer only right In median we can and median a lot of convolutional layers
 
-You cannot take how much ever filters you want no because the output size is fixed now the number of filters and the number of dimensions they are same if you remember
+speaker_2: Every layer every layer has an output right every layer has an output every layers output see okay
 
-### Speaker 4
+speaker_4: No no I what I ask is the output channel which you mentioned that we can decide by our own right
 
-That is output layer only right In median we can and median a lot of convolutional layers
-
-### Speaker 2
-
-Every layer every layer has an output right every layer has an output every layers output see okay
-
-### Speaker 4
-
-No no I what I ask is the output channel which you mentioned that we can decide by our own right
-
-### Speaker 2
-
-One minute one minute see the output of this is given to input as this
+speaker_2: One minute one minute see the output of this is given to input as this
 
 
 The output of convolution one is given as input to convolution two So they are not different Its a chain that you have Okay Now you should decide what is the output that you want Depending on that you decide on the values like how many kernels you what should be the size of the kernel and what should be the padding that you are using And because of this everything changes Because if you decide to go ahead with five kernel five cross five kernel
@@ -1323,32 +1162,20 @@ The output of convolution one is given as input to convolution two So they are n
 
 So the value of here will be changing right now finally the value here will be changing youll not get seven cross seven youll be getting at least four less I guess youll get 64 into three into three
 
-### Speaker 4
+speaker_4: I Im not saying that I tell where but Im thinking about the channel uh okay so I cant really tell because how we are deciding what we have to see if you change number of
 
-I Im not saying that I tell where but Im thinking about the channel uh okay so I cant really tell because how we are deciding what we have to see if you change number of
-
-### Speaker 2
-
-Im not saying that
+speaker_2: Im not saying that
 
 
 See if you change number of channels here now consider that you take 16 channels here then you should take 16 channels here you cannot have 32
 
-### Speaker 4
+speaker_4: I know my question is obviously the same as your 32 and 64
 
-I know my question is obviously the same as your 32 and 64
+speaker_2: Questions all being said
 
-### Speaker 2
+speaker_4: Okay
 
-Questions all being said
-
-### Speaker 4
-
-Okay
-
-### Speaker 2
-
-Yeah they are yours sir Your your your whims Now that is the reason why I told you there can be so many networks And then they standardized all these things And then they got some specific networks like ResNet VGG where these sizes that are there now everything is fixed Okay They fixed all those things How many channels should be there in each of the layers What should be the kernel size What should be the padding What should be the stride Everything they fixed
+speaker_2: Yeah they are yours sir Your your your whims Now that is the reason why I told you there can be so many networks And then they standardized all these things And then they got some specific networks like ResNet VGG where these sizes that are there now everything is fixed Okay They fixed all those things How many channels should be there in each of the layers What should be the kernel size What should be the padding What should be the stride Everything they fixed
 
 
 in these standard networks
@@ -1359,13 +1186,9 @@ Okay otherwise you can do whatever you want to just you should match the things 
 
 I think its
 
-### Speaker 4
+speaker_4: We can only use our own right only because its our own we can keep it any anything
 
-We can only use our own right only because its our own we can keep it any anything
-
-### Speaker 2
-
-whatever you want you can put no problem but standard networks they have some things okay and so this final classification is coming from this fully connected layer
+speaker_2: whatever you want you can put no problem but standard networks they have some things okay and so this final classification is coming from this fully connected layer
 
 
 Yes that is the classification header
@@ -1373,13 +1196,9 @@ Yes that is the classification header
 
 Chandan will you also cover this transpose convolution layer or maybe in the next two two days Yes yes In a sense I dont specifically say that I cover it but Ill give you an intuitive idea We will not be going in depth like this because the idea is exactly similar There is something called a fractional stride that we want to look into Yeah yeah thats exactly what I wanted you to clarify Thats where I could stop
 
-### Speaker 4
+speaker_4: Yeah thats exactly what I wanted you to clarify thats where I got stuck
 
-Yeah thats exactly what I wanted you to clarify thats where I got stuck
-
-### Speaker 2
-
-Yeah yeah yeah Ill be explaining what do you mean by fractional stride and then how it work there Okay that Ill explain
+speaker_2: Yeah yeah yeah Ill be explaining what do you mean by fractional stride and then how it work there Okay that Ill explain
 
 
 Yeah thank you

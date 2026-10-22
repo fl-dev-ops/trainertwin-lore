@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-ERP OMS TMS WMS APS What is all this Well guys dont worry because these are some of the most critical systems which are essential for companies to run their supply chain And in this video I will cover with you a brief description of what each of these does and who are the top players in the market offering solutions around these systems My name is Jamil Hai and Ive been working in supply chain management positions
+speaker_1: ERP OMS TMS WMS APS What is all this Well guys dont worry because these are some of the most critical systems which are essential for companies to run their supply chain And in this video I will cover with you a brief description of what each of these does and who are the top players in the market offering solutions around these systems My name is Jamil Hai and Ive been working in supply chain management positions
 
 
 across South Asia Middle East and North America for the last 20 years and my mission is to help you build real life skills for your job and career that they dont teach you in college and if you are preparing for a supply chain job interview anytime soon you should definitely book a session with me because Im going to take your resume the job description youre applying for and based on a combination of those two and my 20 years of experience will give you some laser guided tips and tricks which will maximize your chances of success so go ahead now and book your session now lets start with e
@@ -107,13 +105,9 @@ house right so once you receive stuff your store stuff and you ship stuff that i
 
 direct to customer direct to consumer stuff so thats where youre talking about delivery vans last miles and so on and so forth and then at the same time you if youre shipping to your bigger customers the Walmart and the Costcos of the world then you will be working with some of the larger carriers the 50 foot containers and so on and so forth how do you manage all this so a good transportation management system will offer you the capability of managing multiple carriers different types of equipment
 
-### Speaker 2
+speaker_2: Ability of
 
-Ability of
-
-### Speaker 1
-
-and so on and so forth So a good WMS would have route planning incorporated into it It would have freight management So it will try to optimize your freight cost your carrier management your load optimization So load optimization itself is a
+speaker_1: and so on and so forth So a good WMS would have route planning incorporated into it It would have freight management So it will try to optimize your freight cost your carrier management your load optimization So load optimization itself is a
 
 
 huge field on its own and a good tms uh will help you do that uh shipment tracking once again shipment tracking as you know especially with the e commerce uh space uh shipment tracking has become so important because now you are actually you have to share that information with your end consumer as well look at how uh sophisticated and advanced even the amazon shipment tracking has become over time and that is thanks to all these sophisticated uh tms solutions which are offered out there and then your

@@ -6,14 +6,15 @@ date: '2026-04-16'
 duration: 25:21
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 68 Introduction to Large Language Models : LLMs
 
 ## Transcript
 
-
-Welcome everyone
+speaker_1: Welcome everyone
 So in this lecture uh
 we will look at uh
 auto regressive models So we are

@@ -23,7 +23,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -31,6 +31,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-like that the way emergency situations or difficult situations push us to to actually get out there and and do things Things that you wouldnt normally do Oh no no I cant possibly talk to that lady But then when youre forced to because the alternative is oh living in that uh okay I wouldnt say bad words but living in that environment that you didnt like that was the alternative and obviously you needed to take action there And so that is that is exactly what forces us
+speaker_1: like that the way emergency situations or difficult situations push us to to actually get out there and and do things Things that you wouldnt normally do Oh no no I cant possibly talk to that lady But then when youre forced to because the alternative is oh living in that uh okay I wouldnt say bad words but living in that environment that you didnt like that was the alternative and obviously you needed to take action there And so that is that is exactly what forces us

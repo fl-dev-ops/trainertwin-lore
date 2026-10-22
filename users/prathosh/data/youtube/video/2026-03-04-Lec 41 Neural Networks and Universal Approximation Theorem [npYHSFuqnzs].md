@@ -6,14 +6,15 @@ date: '2026-03-04'
 duration: 30:42
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 41 Neural Networks and Universal Approximation Theorem
 
 ## Transcript
 
-
-Okay welcome everyone We will continue
+speaker_1: Okay welcome everyone We will continue
 our discussions uh in this course
 looking at different kinds of
 classifiers We just finished uh max

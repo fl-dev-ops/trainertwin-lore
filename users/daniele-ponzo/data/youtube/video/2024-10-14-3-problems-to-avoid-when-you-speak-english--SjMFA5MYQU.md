@@ -16,7 +16,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -24,6 +24,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-First one is pronunciation Its a bullet point Nothing to do with ballet or ballet or whatever So remember bullet points be like Red Bull bull bullet Okay
+speaker_1: First one is pronunciation Its a bullet point Nothing to do with ballet or ballet or whatever So remember bullet points be like Red Bull bull bullet Okay

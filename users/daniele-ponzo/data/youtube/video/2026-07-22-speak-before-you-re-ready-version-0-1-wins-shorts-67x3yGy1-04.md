@@ -28,7 +28,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -36,9 +36,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So tone is to build a toolkit that we need to communicate well
+speaker_1: So tone is to build a toolkit that we need to communicate well
 
 
 But that doesnt work without action So getting into action means well shipping before your product is ready right I know it sounds scary but getting into action means learning some language putting ourselves out there recording ourselves for example audio or video rewatching it starting how we use our voice

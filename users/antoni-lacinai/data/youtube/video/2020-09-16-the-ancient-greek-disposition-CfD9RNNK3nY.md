@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-About two and a half thousand years ago Aristotle and his crew decided to educate people on how to convince other people And so we have the classical rhetorical Greek way of structuring a message It starts off with a background including the problem or the challenge or the opportunity Uh thats the first step The second step is when you raise your or voice your opinion you have a suggestion
+speaker_1: About two and a half thousand years ago Aristotle and his crew decided to educate people on how to convince other people And so we have the classical rhetorical Greek way of structuring a message It starts off with a background including the problem or the challenge or the opportunity Uh thats the first step The second step is when you raise your or voice your opinion you have a suggestion
 
 
 Now since you have a suggestion you also need to somehow argue for that uh specific standpoint So you have three arguments Normally its one for logos the logic one for pathos the the passion the emotion and then one for ethos the credibility And you also fill it with proof points statistics facts and other things

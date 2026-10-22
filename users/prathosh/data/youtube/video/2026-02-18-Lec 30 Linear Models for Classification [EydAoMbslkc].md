@@ -6,14 +6,15 @@ date: '2026-02-18'
 duration: 33:29
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 30 Linear Models for Classification
 
 ## Transcript
 
-
-Okay So so far uh we saw I mean
+speaker_1: Okay So so far uh we saw I mean
 theres a slight nuance there a slight
 change Yeah Question
 Yeah

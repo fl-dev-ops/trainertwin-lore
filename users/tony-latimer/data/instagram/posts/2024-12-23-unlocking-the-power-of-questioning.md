@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Unlocking the power of questioning! 🗝️✨ Did you know that questioning use
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Where was questioning before? Number 6 used to be powerful questioning. The applicant will not receive a passing score if they are unable to move beyond standardized coaching questions or standardized models. So that means if you walk into the coaching session with a bunch of prepared questions, you're going to fail because you're just looking for a place to whack the nail with the hammer that you've got. The key is to learn to coach from the subconscious. Your brain is your mainframe processor and the database of all your knowledge and experience.
-
+speaker_1: Where was questioning before? Number 6 used to be powerful questioning. The applicant will not receive a passing score if they are unable to move beyond standardized coaching questions or standardized models. So that means if you walk into the coaching session with a bunch of prepared questions, you're going to fail because you're just looking for a place to whack the nail with the hammer that you've got. The key is to learn to coach from the subconscious. Your brain is your mainframe processor and the database of all your knowledge and experience.

@@ -6,14 +6,15 @@ date: '2026-01-16'
 duration: 30:41
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 07 IID Assumption
 
 ## Transcript
 
-
-Welcome back What is this IID
+speaker_1: Welcome back What is this IID
 So this means that this is
 Okay
 Again Ill have to um

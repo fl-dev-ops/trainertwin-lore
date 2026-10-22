@@ -12,8 +12,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -21,10 +21,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Welcome to another episode of the non native leader my video podcast series about well non native speakers of English Im Daniele Im the host and if you follow the series youve seen weve been talking to leaders in NGOs leader in Fintech IT artists and people from different backgrounds who all have one thing in common They were not born in an English speaking country Im happy today to have here with me Giannis Chatzidis from Sunny Greece anyway Giannis youre very welcome here with me
 
-Welcome to another episode of the non native leader my video podcast series about well non native speakers of English Im Daniele Im the host and if you follow the series youve seen weve been talking to leaders in NGOs leader in Fintech IT artists and people from different backgrounds who all have one thing in common They were not born in an English speaking country Im happy today to have here with me Giannis Chatzidis from Sunny Greece anyway Giannis youre very welcome here with me
-
-### Speaker 2 · Speaker 2
-
-Yeah its my pleasure Thank you so much for the invitation Daniele And yeah looking forward to it
+speaker_2: Yeah its my pleasure Thank you so much for the invitation Daniele And yeah looking forward to it

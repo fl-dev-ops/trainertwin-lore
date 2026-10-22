@@ -6,14 +6,15 @@ date: '2026-02-18'
 duration: 37:14
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 32 Bias & Variance in Practice
 
 ## Transcript
 
-
-Welcome back Lets consider an example
+speaker_1: Welcome back Lets consider an example
 Okay lets construct a distribution and
 see how things work So lets say that
 assume that lets take an example

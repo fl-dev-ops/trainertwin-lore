@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Outside today’s workplace 😃
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Det här är utanför min arbetsplats idag. Fint va?
-
+speaker_1: Det här är utanför min arbetsplats idag. Fint va?
 
 ## Comments (2)
 

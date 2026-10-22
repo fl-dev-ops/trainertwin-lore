@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 13:29
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 51 Positional Embeddings
 
 ## Transcript
 
-
-Welcome everyone Um well be continuing
+speaker_1: Welcome everyone Um well be continuing
 our discussion on transformers and then
 we will today look at some of the
 methods to train the neural networks We

@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-Now supply chain analysts or planners could be an entry level job could be a middle level job could be a senior level job and therefore the entry level salary range is somewhere between fifty thousand to sixty five thousand dollars The mid level can go anywhere between sixty five and ninety and the senior level jobs can go from ninety to one hundred twenty thousand dollars Now what are the companies and industries which are hiring heavily for supply chain analysts or planners right now Lets take a look So its all over the place Microsoft is hiring now so thats a technology company Nvidia another technology company Halliburton which is oil and gas SpaceX is hiring for supply chain analyst and planner so that must be a definitely a very exciting job Sanofi is also hiring which is a consumer goods company McKinsey is consulting and AT T is telecom
+speaker_1: Now supply chain analysts or planners could be an entry level job could be a middle level job could be a senior level job and therefore the entry level salary range is somewhere between fifty thousand to sixty five thousand dollars The mid level can go anywhere between sixty five and ninety and the senior level jobs can go from ninety to one hundred twenty thousand dollars Now what are the companies and industries which are hiring heavily for supply chain analysts or planners right now Lets take a look So its all over the place Microsoft is hiring now so thats a technology company Nvidia another technology company Halliburton which is oil and gas SpaceX is hiring for supply chain analyst and planner so that must be a definitely a very exciting job Sanofi is also hiring which is a consumer goods company McKinsey is consulting and AT T is telecom

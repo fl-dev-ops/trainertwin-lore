@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,13 +19,9 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: So what is your salary expectation
 
-So what is your salary expectation
-
-### Speaker 2
-
-I dont know whatever you think is fair I want a six figure salary because I think Im worth it I at least need 50 percent more than my previous position Oh I expect to be paid double than the industry standard for this role I think my salary should be at least two hundred fifty thousand dollars You know Im going through a very tough time financially and I need a higher salary I wont accept anything less than two hundred thousand dollars If you cant pay me that much Im not interested in this job Dont give those
+speaker_2: I dont know whatever you think is fair I want a six figure salary because I think Im worth it I at least need 50 percent more than my previous position Oh I expect to be paid double than the industry standard for this role I think my salary should be at least two hundred fifty thousand dollars You know Im going through a very tough time financially and I need a higher salary I wont accept anything less than two hundred thousand dollars If you cant pay me that much Im not interested in this job Dont give those
 
 
 answers otherwise you wont get the job Instead watch this video till the end because I will share with you why recruiters ask this question in the first place and I will give you five real life examples on how to perfectly answer this question and turn it into a strength in your next job interview My name is Jamil Hain and Ive been working in management positions across South Asia Middle East and North America for the last 20 years and my mission is to help you build real life skills for your job and career

@@ -14,7 +14,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -22,6 +22,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-in Vietnam another another major market in in Southeast Asia We talk about respect of hierarchy So if you address a middle manager talking to them hey this is how the deal is like And you thought that you will get the deal But one week later you say oh your terms are very good but now you need to present to my boss Which is probably the one someone few layers above him So so this is how decision is made in this country
+speaker_1: in Vietnam another another major market in in Southeast Asia We talk about respect of hierarchy So if you address a middle manager talking to them hey this is how the deal is like And you thought that you will get the deal But one week later you say oh your terms are very good but now you need to present to my boss Which is probably the one someone few layers above him So so this is how decision is made in this country

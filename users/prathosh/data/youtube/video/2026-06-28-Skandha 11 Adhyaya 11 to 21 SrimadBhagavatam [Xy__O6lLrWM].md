@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-श्रीभगवानुवाच
+speaker_1: श्रीभगवानुवाच
 बद्धो मुक्त इति ह्याख्या गुणतो मे न वस्तुतः
 गुणस्य माया मूलत्वान्न मे मोक्षो न बन्धनम्
 

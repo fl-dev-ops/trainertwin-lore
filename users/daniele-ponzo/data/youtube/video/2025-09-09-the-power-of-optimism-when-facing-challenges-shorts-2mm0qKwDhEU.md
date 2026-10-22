@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,10 +25,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: But if youre a little bit adventurous and youre willing to try something new and mix up with people especially otherwise youll feel lonely all the time then go for it Why not Especially if youre young you have nothing to lose You go try something new and if you dont like it then you can come back
 
-But if youre a little bit adventurous and youre willing to try something new and mix up with people especially otherwise youll feel lonely all the time then go for it Why not Especially if youre young you have nothing to lose You go try something new and if you dont like it then you can come back
-
-### Speaker 2 · Speaker 2
-
-I just love the optimism there you know Its refreshing Its refreshing to hear a younger perspective
+speaker_2: I just love the optimism there you know Its refreshing Its refreshing to hear a younger perspective

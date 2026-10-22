@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 26:07
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 17 MLE for Gaussian Distribution
 
 ## Transcript
 
-
-Okay good morning Uh welcome to this
+speaker_1: Okay good morning Uh welcome to this
 class on density estimation
 So last time when we when we met we
 discussed about uh the optimal

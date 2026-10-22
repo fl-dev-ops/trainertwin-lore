@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -20,14 +20,9 @@ perhaps I’ll post these interruptions instead of insights on communication? On
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-This is my life.
-
-### Speaker 1 · Speaker 1
+speaker_1: This is my life.
 
 This is my
-
 
 ## Comments (2)
 

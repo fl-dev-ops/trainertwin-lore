@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-शुक उवाच
+speaker_1: शुक उवाच
 निशम्य वाचं वदतो मुनेः पुण्यतमान् नृप
 भूयः प्रच्छकौरव्यो वासुदेवकथाधृतः
 

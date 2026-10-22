@@ -22,8 +22,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -31,28 +31,18 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: But then the you know uh plans shifted at the last moment So I ended up in Italy not knowing anything But since it was a Filipino company uh my colleagues uh were all Filipinos our our clientele were Filipinos So um it wasnt it wasnt that uh problematic lets say
 
-But then the you know uh plans shifted at the last moment So I ended up in Italy not knowing anything But since it was a Filipino company uh my colleagues uh were all Filipinos our our clientele were Filipinos So um it wasnt it wasnt that uh problematic lets say
-
-### Speaker 2 · Speaker 2
-
-Yeah
+speaker_2: Yeah
 
 
 No
 
-### Speaker 1 · Speaker 1
+speaker_1: My colleagues helped me So when it comes to the language they kind of uh helped me along the way and I didnt have to go through those uh um you know uh bureaucracy when it comes to the papers and stuff They handled everything for me even the the place the the the place where I stayed because I stayed with my with my boss
 
-My colleagues helped me So when it comes to the language they kind of uh helped me along the way and I didnt have to go through those uh um you know uh bureaucracy when it comes to the papers and stuff They handled everything for me even the the place the the the place where I stayed because I stayed with my with my boss
-
-### Speaker 2 · Speaker 2
-
-Sure
+speaker_2: Sure
 
 
 Of course
 
-### Speaker 1 · Speaker 1
-
-So everything was really quite smooth I
+speaker_1: So everything was really quite smooth I

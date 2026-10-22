@@ -6,14 +6,15 @@ date: '2026-03-12'
 duration: 38:05
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 45 Recurrent Neural Networks(RNNs)
 
 ## Transcript
 
-
-Welcome everyone We are now discussing
+speaker_1: Welcome everyone We are now discussing
 different architectural
 changes that that we can do to MLP to
 cater to several different topologies of

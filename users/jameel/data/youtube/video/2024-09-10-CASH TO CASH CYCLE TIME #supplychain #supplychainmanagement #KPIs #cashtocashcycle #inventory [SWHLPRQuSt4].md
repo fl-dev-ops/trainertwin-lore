@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-Now lets look at the next bucket which is also known as asset management or cash bucket Now why is asset management equal to cash Now this is where the love hate relationship between finance and supply chain starts because in most companies the biggest amount of cash which is stuck in an organizations cash flow is in inventory There are some examples where you could be holding almost 90 percent of your cash flow in inventory costs Now cash to cash cycle time basically means that how fast you turn around your cash in supply chain or in other words how much cash is tied up in your supply chain So the cash to cash cycle time is calculated by adding your days of raws and packs inventory your days of finished goods inventory your days of sales outstanding and subtracting them with your days of payables outstanding
+speaker_1: Now lets look at the next bucket which is also known as asset management or cash bucket Now why is asset management equal to cash Now this is where the love hate relationship between finance and supply chain starts because in most companies the biggest amount of cash which is stuck in an organizations cash flow is in inventory There are some examples where you could be holding almost 90 percent of your cash flow in inventory costs Now cash to cash cycle time basically means that how fast you turn around your cash in supply chain or in other words how much cash is tied up in your supply chain So the cash to cash cycle time is calculated by adding your days of raws and packs inventory your days of finished goods inventory your days of sales outstanding and subtracting them with your days of payables outstanding

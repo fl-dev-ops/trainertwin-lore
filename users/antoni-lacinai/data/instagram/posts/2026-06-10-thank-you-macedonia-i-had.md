@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -24,7 +24,4 @@ Communication shapes behavior. Behavior drives results
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Thank you Macedonia. I had a great time sharing my thoughts and insights. One of them, communication is the electricity of an organization. Cut it off and everything stops. Communication shapes behavior. Behavior drives results.
-
+speaker_1: Thank you Macedonia. I had a great time sharing my thoughts and insights. One of them, communication is the electricity of an organization. Cut it off and everything stops. Communication shapes behavior. Behavior drives results.

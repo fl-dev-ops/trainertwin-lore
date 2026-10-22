@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,16 +18,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello all welcome to Uncommon Geeks myself Fasent I hope you all are doing well Todays topic is pure functions Pure function is considered to be one of the fundamental topic of all the programming language same as JavaScript Due to its simplicity many candidates tend to ignore this topic during the interview preparation Its a fact that pure functions are straightforward but there can be small variations of pure function that can be created that candidate tend to confuse during the interview and theyll not be able to answer it
+speaker_1: Hello all welcome to Uncommon Geeks myself Fasent I hope you all are doing well Todays topic is pure functions Pure function is considered to be one of the fundamental topic of all the programming language same as JavaScript Due to its simplicity many candidates tend to ignore this topic during the interview preparation Its a fact that pure functions are straightforward but there can be small variations of pure function that can be created that candidate tend to confuse during the interview and theyll not be able to answer it
 
 
 this problem I pick the pure functions in my series and Ill be asking you all the possible questions that can be asked in the interview and how easily you can tackle it Ill guarantee you youll be thrilled to know the variation of pure functions that can be formed whether you are a beginner or a candidate who to take an interview and were unable to answer pure functions youll definitely enjoy this video series Thank you so much for watching lets get started
 
-### Speaker 2
-
-Let us understand what are pure functions with a simple example
+speaker_2: Let us understand what are pure functions with a simple example
 
 
 So let me create a function function area of a rectangle it takes two arguments length and width

@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,17 +19,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: Go work on the floor in whether its a warehouse manufacturing facility a trucking company or something thats close to you And trust me theyre always hiring So like theres no like struggle to try and find something like that you know versus like a traditional kind of internship Do that for like a winter break or in the summer or something in between your semesters
 
-Go work on the floor in whether its a warehouse manufacturing facility a trucking company or something thats close to you And trust me theyre always hiring So like theres no like struggle to try and find something like that you know versus like a traditional kind of internship Do that for like a winter break or in the summer or something in between your semesters
+speaker_2: Just yesterday I received a question from one of my subscribers who has done I think a masters in supply chain and now he was asking me should I go and do a PhD in supply chain I said no stop Just go and work in a company Just find any job even if you have to go and work in a warehouse and just lift boxes just do that because there is no parallel to experience in supply chain
 
-### Speaker 2
-
-Just yesterday I received a question from one of my subscribers who has done I think a masters in supply chain and now he was asking me should I go and do a PhD in supply chain I said no stop Just go and work in a company Just find any job even if you have to go and work in a warehouse and just lift boxes just do that because there is no parallel to experience in supply chain
-
-### Speaker 1
-
-Im finding any job
+speaker_1: Im finding any job
 
 
 you know connect with people that have similar roles to you or connect with people that have maybe the role that you want and reach out and talk to them and understand what are they doing right And look at you know YouTube or listen to podcasts or read blogs and you know if its procurement like whats the latest procurement technology So I do think theres a long way to go before we really see like mass mass adoption of this
@@ -37,27 +31,19 @@ you know connect with people that have similar roles to you or connect with peop
 
 But I dont know but every week I mean I see like some some new solution thats coming out thats uh thats really exciting but its also like you know what is gonna be the ones that stick and and are really penetrating for for the long run
 
-### Speaker 2
-
-Hello and welcome to another fantastic podcast on my channel guys and today Im very excited because Ive been trying to do this podcast for a while because Ive got someone who has not only built a successful supply chain career but he has also shown us how you can transition from a successful supply chain career into a successful social media career he runs a very great show called the new warehouse podcast which has already now completed almost 200 000 downloads which is fantastic so without further
+speaker_2: Hello and welcome to another fantastic podcast on my channel guys and today Im very excited because Ive been trying to do this podcast for a while because Ive got someone who has not only built a successful supply chain career but he has also shown us how you can transition from a successful supply chain career into a successful social media career he runs a very great show called the new warehouse podcast which has already now completed almost 200 000 downloads which is fantastic so without further
 
 
 you I would like to welcome Kevin Lawton to my podcast hi Kevin how are you
 
-### Speaker 1
+speaker_1: Im well Im well Happy to be here and happy to be uh talking to you Had you on my podcast and I guess now its my turn to come on on yours Im so excited to have this conversation with you
 
-Im well Im well Happy to be here and happy to be uh talking to you Had you on my podcast and I guess now its my turn to come on on yours Im so excited to have this conversation with you
-
-### Speaker 2
-
-Absolutely Kevin Im super excited And yeah I know last time we did an in person podcast when we were together in Florida which was an amazing experience for me And yeah and because you run such a successful podcast you go to a lot of conferences I thought we will theme this podcast more around the future of supply chain what you are seeing in terms of the trend in the industries and so on But before we get there Kevin for my audience tell us a little bit about your journey and specifically what was that turning point
+speaker_2: Absolutely Kevin Im super excited And yeah I know last time we did an in person podcast when we were together in Florida which was an amazing experience for me And yeah and because you run such a successful podcast you go to a lot of conferences I thought we will theme this podcast more around the future of supply chain what you are seeing in terms of the trend in the industries and so on But before we get there Kevin for my audience tell us a little bit about your journey and specifically what was that turning point
 
 
 point in your life where you thought like Im not going to do a day job in supply chain and Im going to transition and do these fantastic podcasts
 
-### Speaker 1
-
-Sure yeah Id love to say that this was the plan since I was a young child but it definitely was not in any way shape or form So I went to college went to school for entrepreneurial studies and I actually minored in event planning and arts administration So nothing to do with supply chain really at all And then I stayed and I got my MBA and then after that needed to work So I was kind of looking around for
+speaker_1: Sure yeah Id love to say that this was the plan since I was a young child but it definitely was not in any way shape or form So I went to college went to school for entrepreneurial studies and I actually minored in event planning and arts administration So nothing to do with supply chain really at all And then I stayed and I got my MBA and then after that needed to work So I was kind of looking around for
 
 
 job had a had a connection at a company that was looking for somebody in inventory control to be an inventory control analyst um didnt really know much about that um but thought it sounded interesting to to try it and and to start my my career and and get to work basically because i needed to work and uh and so i kind of quickly really uh grabbed onto that and really um enjoyed the the problem solving and the research
@@ -101,16 +87,12 @@ And its just been uh its been amazing Uh its been like incredible experience and
 
 this kind of came about
 
-### Speaker 2
-
-Wow thats amazing And how much do you think Kevin like some of the events which have happened globally in the last four to five years are really bringing supply chain out of the words in terms of you know this is a back office function Because Im sure if you look at marketing or finance to some extent think products like what you are doing or you know initiatives like that are more they were always more existent because of course marketing is marketing right
+speaker_2: Wow thats amazing And how much do you think Kevin like some of the events which have happened globally in the last four to five years are really bringing supply chain out of the words in terms of you know this is a back office function Because Im sure if you look at marketing or finance to some extent think products like what you are doing or you know initiatives like that are more they were always more existent because of course marketing is marketing right
 
 
 like people know finance very well but supply chain i think covid probably was a blessing in disguise now we are living in a very different world tariffs but once again tariffs bring out the supply chain aspect a lot so how much do you think some of these global events are shaping the importance of supply chain and the importance of the kind of content you are creating
 
-### Speaker 1
-
-Yeah I mean I think its huge You know the pandemic certainly I think put the biggest spotlight on the supply chain for sure So in addition to the podcast I do teach as an adjunct professor as well in supply chain specifically And I started doing that right after the pandemic I started the fall semester of 2021 which was the first semester that the students were back
+speaker_1: Yeah I mean I think its huge You know the pandemic certainly I think put the biggest spotlight on the supply chain for sure So in addition to the podcast I do teach as an adjunct professor as well in supply chain specifically And I started doing that right after the pandemic I started the fall semester of 2021 which was the first semester that the students were back
 
 
 in person and every semester the first class i asked the students like why are you interested in supply chain right like why supply chain and when i started the answers were a lot of like i dont know much about supply chain or like my dad works in supply chain uh my parents said that uh supply chain is a good career uh i heard you can make decent money in supply chain those were kind of the answers right but now like as that
@@ -127,16 +109,12 @@ in it But then you know obviously when when they cant get the things that they w
 
 um and theyre theyre entering the industry uh coming either either you know new from coming out of college or or coming from a different industry theyve got a role now in like the warehousing sector um and they want to learn more about the industry like they found my podcast right and and so i think that is very telling of you know how many people are shifting to the industry as well and seeing like opportunity within it
 
-### Speaker 2
-
-Excellent great And thats a great segue to my next question I wanted to get into Kevin which is given that you are teaching a lot of younger professionals who are coming into the industry for a variety of reasons tell me a little bit about because my channel is viewed by I would say people who are interested in supply chain Theyre you know just in college right now Theyre trying to figure out the next step in their life Or there are these mid career professionals who are trying to find out how do they move forward how do their future
+speaker_2: Excellent great And thats a great segue to my next question I wanted to get into Kevin which is given that you are teaching a lot of younger professionals who are coming into the industry for a variety of reasons tell me a little bit about because my channel is viewed by I would say people who are interested in supply chain Theyre you know just in college right now Theyre trying to figure out the next step in their life Or there are these mid career professionals who are trying to find out how do they move forward how do their future
 
 
 for the career and so on but lets stick to the younger professionals first what are lets say the two or three top skills that you would really emphasize for those young professionals wanting to come into supply chain should be focusing on
 
-### Speaker 1
-
-Yeah absolutely I think that the number one thing as a student where I think that you can get incredible value for your future as a leader in the supply chain is to go work on the floor in whether its a warehouse manufacturing facility a trucking company or something thats close to you And trust me theyre always hiring So like theres no
+speaker_1: Yeah absolutely I think that the number one thing as a student where I think that you can get incredible value for your future as a leader in the supply chain is to go work on the floor in whether its a warehouse manufacturing facility a trucking company or something thats close to you And trust me theyre always hiring So like theres no
 
 
 like struggle to try and find something like that you know versus like a traditional kind of internship Do that for like a winter break or in the summer or something in between your semesters and understanding exactly what happens on the floor That will pay so many dividends in the future to them as they go you know into the office and grow as leaders and start to you know make decisions and have influence on the things that are going to trickle down
@@ -162,35 +140,23 @@ How do I communicate better right How do I present better How do I develop relat
 
 future is going to be even more valuable as we get more more digitized and more AI focused and all those things that that is really going to set people apart and I think that is going to be like one key trait for for a leader in the supply chain
 
-### Speaker 2
+speaker_2: Absolutely And I really want to double click on the first point you mentioned that the actual experience of going and working on the floor is so important Just yesterday I received a question from one of my subscribers who has done I think a masters in supply chain and now he was asking me should I go and do a PhD in supply chain I said stop just go and work in a company just find any job even if you have to go and work in a warehouse and just lift boxes just do that because
 
-Absolutely And I really want to double click on the first point you mentioned that the actual experience of going and working on the floor is so important Just yesterday I received a question from one of my subscribers who has done I think a masters in supply chain and now he was asking me should I go and do a PhD in supply chain I said stop just go and work in a company just find any job even if you have to go and work in a warehouse and just lift boxes just do that because
+speaker_1: Just find any job
 
-### Speaker 1
-
-Just find any job
-
-### Speaker 2
-
-There is no parallel to experience in supply chain And this is such a common question that I get Kevin on this channel which is should I go for a certification Should I go for a masters degree and an MBA and this and that And I say those things are nice to have But the most critical thing which all these things basically supplement is your work experience So yes its good to have a masters in supply chain But if you are just doing it without zero you know with zero experience then its not adding any value to your
+speaker_2: There is no parallel to experience in supply chain And this is such a common question that I get Kevin on this channel which is should I go for a certification Should I go for a masters degree and an MBA and this and that And I say those things are nice to have But the most critical thing which all these things basically supplement is your work experience So yes its good to have a masters in supply chain But if you are just doing it without zero you know with zero experience then its not adding any value to your
 
 
 portfolio right so thanks thanks for sharing that and and soft skills once again so important uh in fact the fun story is that when i started this channel a few years ago before i fully you know dedicated this to supply chain uh individuals uh i used to call it the soft skills challenge because thats where i felt the biggest gap in the supply chain industry was people really dont learn those skills intentionally right you just
 
-### Speaker 1
+speaker_1: Im sorry
 
-Im sorry
-
-### Speaker 2
-
-happen to learn them some people are smarter and they learn this faster but that was my initial uh motivation to even start this channel that you know how how how can I codify that whole soft skills learning piece and you know in some shape or form its still a part of uh the channel so so thanks thanks for that advice uh Kevin lets lets talk a little bit about the more experienced professionals and I want to really pick your brains on with so many people you you talk to on these uh amazing conferences where people are really working on the leading edge
+speaker_2: happen to learn them some people are smarter and they learn this faster but that was my initial uh motivation to even start this channel that you know how how how can I codify that whole soft skills learning piece and you know in some shape or form its still a part of uh the channel so so thanks thanks for that advice uh Kevin lets lets talk a little bit about the more experienced professionals and I want to really pick your brains on with so many people you you talk to on these uh amazing conferences where people are really working on the leading edge
 
 
 in terms of technology and you kind of touched on ai briefly as well but if if im lets say uh five years into the supply chain world im working lets say in a sourcing job or a planning job what would your advice be to those people in terms of skill development based on what you are what kind of trends youre seeing
 
-### Speaker 1
-
-Yeah absolutely I think that you know the further you get in your career right sometimes the tendency you have is to is to lose curiosity a little bit And and I think you know theres so many avenues and ways like you know podcast right YouTube right to to continue to um I guess sharpen sharpen the mind in the sense of whats happening Right And and if you
+speaker_1: Yeah absolutely I think that you know the further you get in your career right sometimes the tendency you have is to is to lose curiosity a little bit And and I think you know theres so many avenues and ways like you know podcast right YouTube right to to continue to um I guess sharpen sharpen the mind in the sense of whats happening Right And and if you
 
 
 I found myself in this position I will say um in my career and and it kind of it really opened up my my mind a bit to you know what I was doing with the the podcast and and the potential value that it could deliver was that you know if if I worked for a company for you know x amount of years five years seven years ten years and you know I didnt look outside of the company at like
@@ -213,9 +179,7 @@ curious right and and continue to ask that question like why or how right ask li
 
 How did that came about and and network with those other people And I would say you know thats probably like the baseline to be able to then step in to find out you know what other directions can I go in and whats actually possible in in my role
 
-### Speaker 2
-
-Absolutely And I think this is this is another very very important point because I tell some of my coaching clients also that these podcasts and this informal learning is becoming your new MBA in supply chain or even in any other field right Because I think whats really happening and this is important to call out Kevin is that companies are adopting these new technologies faster than these become a part of lets say curriculum in the university books right So if you think about
+speaker_2: Absolutely And I think this is this is another very very important point because I tell some of my coaching clients also that these podcasts and this informal learning is becoming your new MBA in supply chain or even in any other field right Because I think whats really happening and this is important to call out Kevin is that companies are adopting these new technologies faster than these become a part of lets say curriculum in the university books right So if you think about
 
 
 AI is bringing that silent revolution And I know theres a lot of hype about AI but at the same time beneath that hype there are some things which are happening and companies are also doing it very smartly because sometimes that might result into job losses and all of that stuff But someone who I invited recently on my podcast she mentioned something very interesting that AI is not going to take jobs Somebody knowing AI is going to take your job So keeping on building that knowledge and what other companies in your
@@ -226,9 +190,7 @@ industry are doing is so important because then you might be the ambassador of b
 
 Not a surprise How do you think it is shaping the supply chain space Is it meaningful enough for people to invest their time and energy in learning whats happening What are your two cents on that
 
-### Speaker 1
-
-Yeah I mean I think its an interesting topic right I mean its certainly certainly one thats very interesting in the current moment right Because you know and especially in the US right I mean we have you know several years where theres been like a huge push right To try and be more sustainable and you know move to electrical vehicles and all this stuff And now we have new administration thats like kind of reversing a lot of that stuff So so its a very interesting kind of
+speaker_1: Yeah I mean I think its an interesting topic right I mean its certainly certainly one thats very interesting in the current moment right Because you know and especially in the US right I mean we have you know several years where theres been like a huge push right To try and be more sustainable and you know move to electrical vehicles and all this stuff And now we have new administration thats like kind of reversing a lot of that stuff So so its a very interesting kind of
 
 
 um topic right now but i i think whats interesting particularly to the supply chain when it comes to sustainability is it well as one is that we i mean as a supply chain as a whole globally i mean were a huge contributor to you know emissions and things like that you know whether its from the vehicles we use to transport products to you know the cardboard and paper we generate shipping and packaging right so so we have an opportunity to
@@ -251,9 +213,7 @@ credits just ended at the end of September and then um I think now like the uh t
 
 benefits there
 
-### Speaker 2
-
-Excellent Great Yeah And I think just staying with that AI theme for a second here as well And I want to go into two different directions here Kevin within supply chain right So we are already seeing some implementations of AI in sourcing Ive seen a number of companies are now using AI for filtering out RFQs just like the HR industry has been using that for filtering out candidates for the longest period of time Now we can see more and more examples of that So I think there is there is some good
+speaker_2: Excellent Great Yeah And I think just staying with that AI theme for a second here as well And I want to go into two different directions here Kevin within supply chain right So we are already seeing some implementations of AI in sourcing Ive seen a number of companies are now using AI for filtering out RFQs just like the HR industry has been using that for filtering out candidates for the longest period of time Now we can see more and more examples of that So I think there is there is some good
 
 
 option happening in in the sourcing side where I wanted to get your perspective on and even in the conference that we attended together Kevin we saw so many companies trying to pitch like robotics in the warehouse AGVs which can do like magical things it can pick up a parcel piece versus a full truck load piece and all of that stuff where do you think we are in that journey because I think the cost equation is still in that balance where some companies are still trying
@@ -261,9 +221,7 @@ option happening in in the sourcing side where I wanted to get your perspective 
 
 to just compare like you know do I still hire human beings to run a warehouse or is this technology cheap enough So how far do you think we are from that inflection point where there is a mass adoption of an automated warehouse
 
-### Speaker 1
-
-Yeah yeah thats a great question And you know I think its I think were still pretty far from mass adoption definitely We have adoption already for sure But its very interesting because you mentioned the conference that we were at SpotChain Point and shout out to those guys I love them there So but you know when we go to these conferences we go to these trade shows or we look on YouTube or LinkedIn right
+speaker_1: Yeah yeah thats a great question And you know I think its I think were still pretty far from mass adoption definitely We have adoption already for sure But its very interesting because you mentioned the conference that we were at SpotChain Point and shout out to those guys I love them there So but you know when we go to these conferences we go to these trade shows or we look on YouTube or LinkedIn right
 
 
 I think the average viewer based on the number of like robotics and things that you see in these arenas like would think that like the majority of warehouses probably have robots inside of them right But the reality is like thats they dont right like you know the the penetration overall is probably i think i forget like the last numbers ive seen was probably like around 30 or or so right so theres still a huge like gap where
@@ -292,16 +250,12 @@ and you know engineering and all this stuff to to kind of test and pilot differe
 
 so many different form factors applications and and ways that people are are looking at automating these processes that we do in whether its manufacturing or warehousing that thats really exciting but its also like you know what is going to be the ones that stick and and are really penetrating for for the long run
 
-### Speaker 2
-
-On that point do you think in other parts of supply chain other than logistics because the cost of adoption might be lower for example in planning right Because you dont really need expensive hardware You probably need a smart bot which can do a more repetitive job Lets say you are doing distribution planning on a daily basis out of a factory to warehouses right In your podcast are you seeing a higher level of
+speaker_2: On that point do you think in other parts of supply chain other than logistics because the cost of adoption might be lower for example in planning right Because you dont really need expensive hardware You probably need a smart bot which can do a more repetitive job Lets say you are doing distribution planning on a daily basis out of a factory to warehouses right In your podcast are you seeing a higher level of
 
 
 adoption in those parts of supply chain which are more planning oriented
 
-### Speaker 1
-
-Yeah yeah I mean I think you know anytime its more of like a software versus a hardware I think its easier to to adopt especially especially now where you know primarily most softwares and systems are are moving to cloud based right I mean that makes it much more easy to implement But you do see a lot of these system companies and software companies where theyre adding like that AI component to the existing
+speaker_1: Yeah yeah I mean I think you know anytime its more of like a software versus a hardware I think its easier to to adopt especially especially now where you know primarily most softwares and systems are are moving to cloud based right I mean that makes it much more easy to implement But you do see a lot of these system companies and software companies where theyre adding like that AI component to the existing
 
 
 right which is making it very easy I think for for that adoption because now its not like well I have to go get in a whole nother system and figure out how to do that its just kind of like all right this is a an update essentially or or its like a plug in that that we created that works with our system so I do see like further adoption with that but I do see where people are are hesitant to to to work with some of those tools because because the
@@ -315,16 +269,12 @@ reviewing contracts and things like that and extracting like the necessary infor
 
 I think to I mean to answer your question I think yes that that is much easier to adopt because its a its not as heavy of a lift as having like hardware attached to it as well but I do still think theres a little hesitancy hesitancy or or skepticism around like the viability and the the truth within it right
 
-### Speaker 2
-
-Got it Just talking a little bit about some of the more conventional technologies you know staying stepping out of AI for a second here One of the very common questions I get Kevin is I want to learn more about ERP Im working in a company lets say which uses Dynamics today but I want to upskill myself on SAP because a lot of big companies use them The biggest challenge with whether its an ERP or its a planning software or its a you know TMS or
+speaker_2: Got it Just talking a little bit about some of the more conventional technologies you know staying stepping out of AI for a second here One of the very common questions I get Kevin is I want to learn more about ERP Im working in a company lets say which uses Dynamics today but I want to upskill myself on SAP because a lot of big companies use them The biggest challenge with whether its an ERP or its a planning software or its a you know TMS or
 
 
 WMS OMS the cheapest way unfortunately to learn these systems is to work for a company that is using them right Because getting that skill level outside is very very hard and very very expensive What would your advice be to people who are trying to lets say cross fertilize their knowledge in ERP for example I know Oracle but I want to learn FTE Whats your perspective on this
 
-### Speaker 1
-
-Yeah yeah And I think I mean I think your point is like spot on Like the easiest way is to go work for a company thats using that system But thats not always the easiest thing to do or what you want to do necessarily But I find the easiest way is to to find like within those systems typically theres theres communities out there You know whether theyre user groups that are are somewhat hosted by the systems themselves
+speaker_1: Yeah yeah And I think I mean I think your point is like spot on Like the easiest way is to go work for a company thats using that system But thats not always the easiest thing to do or what you want to do necessarily But I find the easiest way is to to find like within those systems typically theres theres communities out there You know whether theyre user groups that are are somewhat hosted by the systems themselves
 
 
 or somebody independently has has created something could be non profit like I know SAP for example they have ASUG which is I think is like association supply chain or supply chain association SAP users group I think is what it stands for but theres lots of organizations like that out there where I think that you know you can join those and and you know
@@ -335,21 +285,13 @@ ask questions and and they have some some learning opportunities um or you could
 
 about it and they do some some webinars now too and things like that so so I think more and more theres stuff out there um but I think you know just trying to navigate and figure that out like finding some of those those communities and groups is is like a great way to to go and then and then get started on on that path of learning with without having to go and find a whole nother job just to learn yeah
 
-### Speaker 2
+speaker_2: No I think that thats a great piece of advice Yeah because I I did not know that there are there would be WhatsApp groups talking about these specific systems Right So thats the thing for me as well because thats such a common question I get from a lot of people Im actually starting to do like a mini series not going into a lot of detail but just comparing the different systems just to build that awareness because people like I said you know Im working for a company which
 
-No I think that thats a great piece of advice Yeah because I I did not know that there are there would be WhatsApp groups talking about these specific systems Right So thats the thing for me as well because thats such a common question I get from a lot of people Im actually starting to do like a mini series not going into a lot of detail but just comparing the different systems just to build that awareness because people like I said you know Im working for a company which
+speaker_1: Sure yeah
 
-### Speaker 1
+speaker_2: has a very small level uh erp which probably you dont need to even know the name of but then there is a desire to learn some of these more advanced solutions and uh there isnt a lot of very clear guidance available out there for people excellent great as we come towards the end of the podcast uh kevin one of the questions which i always ask to experienced professional like yourself who come is um what would your advice be to your 25 year old self
 
-Sure yeah
-
-### Speaker 2
-
-has a very small level uh erp which probably you dont need to even know the name of but then there is a desire to learn some of these more advanced solutions and uh there isnt a lot of very clear guidance available out there for people excellent great as we come towards the end of the podcast uh kevin one of the questions which i always ask to experienced professional like yourself who come is um what would your advice be to your 25 year old self
-
-### Speaker 1
-
-Ooh thats a tough one Well uh I mean I just turned 25 the other day but Im just kidding Um that was a little while ago So uh my advice uh to my 25 year old self I would say my advice would be to say yes more when I was 25 and think about it less Right I think there were some opportunities probably when I was 25 that
+speaker_1: Ooh thats a tough one Well uh I mean I just turned 25 the other day but Im just kidding Um that was a little while ago So uh my advice uh to my 25 year old self I would say my advice would be to say yes more when I was 25 and think about it less Right I think there were some opportunities probably when I was 25 that
 
 
 that I probably thought about too much and kind of like a little analysis paralysis and uh probably should have said yes and and maybe would end up with a whole different career than where I am now so so maybe I dont know if thats the right uh thing but uh I would definitely say like you know say yes to more and and think about it less because 25 is is super young and theres so much more time to to change course and and figure out something else and and I think I
@@ -357,17 +299,11 @@ that I probably thought about too much and kind of like a little analysis paraly
 
 Didnt quite think that big at that age and and that would be my advice yeah
 
-### Speaker 2
-
-Excellent Great I think that thats a great advice and I cant agree more A lot of times we become victims of the limitations of our vision and you know you by the time you realize it its sometimes a bit too late So I think thats thats a great advice Well thanks a lot Kevin I think this was very helpful I think we touched briefly but on very important topics especially on the aspect of future proofing your career and talking about the technology trends that we are seeing
+speaker_2: Excellent Great I think that thats a great advice and I cant agree more A lot of times we become victims of the limitations of our vision and you know you by the time you realize it its sometimes a bit too late So I think thats thats a great advice Well thanks a lot Kevin I think this was very helpful I think we touched briefly but on very important topics especially on the aspect of future proofing your career and talking about the technology trends that we are seeing
 
 
 So once again thanks a lot for your time and I hope we are able to do this more often
 
-### Speaker 1
+speaker_1: Absolutely Im happy to come back anytime
 
-Absolutely Im happy to come back anytime
-
-### Speaker 2
-
-Perfect thanks a lot Kevin
+speaker_2: Perfect thanks a lot Kevin

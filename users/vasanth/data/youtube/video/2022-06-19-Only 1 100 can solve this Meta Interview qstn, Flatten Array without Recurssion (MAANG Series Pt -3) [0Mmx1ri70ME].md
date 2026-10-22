@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,17 +19,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: So today I have picked up a question which is asked in Facebook or Facebook or Meta Amazon Apple Google also in Microsoft Okay five companies have asked this Dont think it is very old Even in last April 2022 April also they have asked this question
 
-So today I have picked up a question which is asked in Facebook or Facebook or Meta Amazon Apple Google also in Microsoft Okay five companies have asked this Dont think it is very old Even in last April 2022 April also they have asked this question
+speaker_2: Hi all welcome back to uncommon geeks myself Vasanth I hope you all doing well
 
-### Speaker 2
-
-Hi all welcome back to uncommon geeks myself Vasanth I hope you all doing well
-
-### Speaker 1
-
-So as you already know this is a video series where we are discussing about the most common interview questions that are asked in MANG MANG stands for Meta or Facebook Apple Amazon Netflix and Google Okay So today I have picked up a question which is asked in Facebook or Facebook or Meta Amazon Apple Google also in Microsoft Okay Five companies have asked this Dont think it is very old Even in last April 2022 April also they have asked this question Okay So its not I have already discussed
+speaker_1: So as you already know this is a video series where we are discussing about the most common interview questions that are asked in MANG MANG stands for Meta or Facebook Apple Amazon Netflix and Google Okay So today I have picked up a question which is asked in Facebook or Facebook or Meta Amazon Apple Google also in Microsoft Okay Five companies have asked this Dont think it is very old Even in last April 2022 April also they have asked this question Okay So its not I have already discussed
 
 
 solution to this question in different ways in my articles and also in one of my video but in this particular video I am gonna give a all altogether different approach towards that problem this is very very important video if you are preparing for man interviews please watch this video till the end okay without wasting further time lets get started
@@ -55,13 +49,9 @@ approach that problem what mistakes can they do how to avoid that all of that iv
 
 Custom implementation
 
-### Speaker 2
+speaker_2: So how to write your
 
-So how to write your
-
-### Speaker 1
-
-own array dot map method array dot flat method array dot concat all of this okay so please watch that series also that has become very very trendy question across all the high paying jobs now implement your own functions watch that series also and come to this as a next level of further preparations okay now without wasting further time now lets get started so crux of the logic ill explain first so you have an array a nested array
+speaker_1: own array dot map method array dot flat method array dot concat all of this okay so please watch that series also that has become very very trendy question across all the high paying jobs now implement your own functions watch that series also and come to this as a next level of further preparations okay now without wasting further time now lets get started so crux of the logic ill explain first so you have an array a nested array
 
 
 1 2 3 comma 4 okay so 3 comma 4 is a nested array

@@ -6,14 +6,15 @@ date: '2026-02-25'
 duration: 33:41
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 37 SVM Formulation
 
 ## Transcript
 
-
-So let us uh formulate this now
+speaker_1: So let us uh formulate this now
 So mathematically
 by the way um
 we are solving a constraint optimization

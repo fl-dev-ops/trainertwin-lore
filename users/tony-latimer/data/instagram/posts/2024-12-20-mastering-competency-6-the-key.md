@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So those of you who were here last year when I talked Competency 6 will know that my belief is pretty much spend your life getting good at Competency 6. That's, that's your daily practice, learning to listen from that empty-minded space so that you listen from your subconscious. So Competency 7 can't happen if Competency 6 isn't good, because if we go and look at And Competency 7, Evokes Awareness, just says, facilitates client insight and learning by using tools and techniques such as powerful questioning, silence, metaphor, or analogy. And the answer is, you can't. What you do is focus being empty-minded so that you can listen properly, so that you're listening from your subconscious. You're not empty-minded, you're not present, you're not connected.
-
+speaker_1: So those of you who were here last year when I talked Competency 6 will know that my belief is pretty much spend your life getting good at Competency 6. That's, that's your daily practice, learning to listen from that empty-minded space so that you listen from your subconscious. So Competency 7 can't happen if Competency 6 isn't good, because if we go and look at And Competency 7, Evokes Awareness, just says, facilitates client insight and learning by using tools and techniques such as powerful questioning, silence, metaphor, or analogy. And the answer is, you can't. What you do is focus being empty-minded so that you can listen properly, so that you're listening from your subconscious. You're not empty-minded, you're not present, you're not connected.

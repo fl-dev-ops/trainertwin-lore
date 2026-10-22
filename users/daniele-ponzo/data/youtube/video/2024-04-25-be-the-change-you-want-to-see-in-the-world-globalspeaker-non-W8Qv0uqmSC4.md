@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-my entire life has been from an academic perspective um dedicated to trying to rethink how the market works how the economy works Thats why you mentioned in the beginning this whole idea of a well being economy So Ive been really studying how to make sure that we can have an economy that produces well being that makes us happy that makes the world a better place that protects the environment that makes society better So itd be a very significant contradiction if in the pursuit of well being you were to sacrifice your own well being right So and that is something that Ive Ive fundamentally realized of late that is that we need to be the change to paraphrase Gandhi to be the change you want to see in the world you know like and and and if you really aspire to build a well being based society then starts from from your family starts from home You need to be able to look after yourself So thats what I would say to them like make sure that in the pursuit of happiness you dont sacrifice the very happiness that that that youre desperately looking for
+speaker_1: my entire life has been from an academic perspective um dedicated to trying to rethink how the market works how the economy works Thats why you mentioned in the beginning this whole idea of a well being economy So Ive been really studying how to make sure that we can have an economy that produces well being that makes us happy that makes the world a better place that protects the environment that makes society better So itd be a very significant contradiction if in the pursuit of well being you were to sacrifice your own well being right So and that is something that Ive Ive fundamentally realized of late that is that we need to be the change to paraphrase Gandhi to be the change you want to see in the world you know like and and and if you really aspire to build a well being based society then starts from from your family starts from home You need to be able to look after yourself So thats what I would say to them like make sure that in the pursuit of happiness you dont sacrifice the very happiness that that that youre desperately looking for

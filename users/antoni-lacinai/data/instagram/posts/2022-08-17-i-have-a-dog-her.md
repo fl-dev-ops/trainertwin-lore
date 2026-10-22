@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ I have a dog. Her name is ms Waffle. She works in the HR department making sure 
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-M.
-
+speaker_1: M.
 
 ## Comments (2)
 

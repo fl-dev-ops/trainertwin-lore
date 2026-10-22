@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-The latest version that people will hear about and probably come across is going to be whats called the SAP HANA S4 HANA platform and that is the more the latest edition Theres additional one which is called SAP IDES so IDES is Internet Demonstration and Evaluation System but you can download a system which you can install on your own computer and that one I believe is for free and it comes with some amount of company data so its stuff its an implementation that has data that you can play around with
+speaker_1: The latest version that people will hear about and probably come across is going to be whats called the SAP HANA S4 HANA platform and that is the more the latest edition Theres additional one which is called SAP IDES so IDES is Internet Demonstration and Evaluation System but you can download a system which you can install on your own computer and that one I believe is for free and it comes with some amount of company data so its stuff its an implementation that has data that you can play around with
 
 
 So if a business is trying to take on SAP I would honestly recommend businesses make that choice saying okay I want to change the way I do things today Because if youre not trying to do that maybe youre better off not taking SAP because you will customize it so much that you will lose value in it And if youre looking at the overall supply chain I would say have an understanding of demand forecasting statistical models how does it work how does SNOP work inventory management concepts production plan
@@ -35,24 +33,16 @@ is the item how many cartons what location now that is a pretty simple ai becaus
 
 Now that is also an important thing when it comes to going back to SAP People tend to go and focus on one module only So theyll do MM only but if you dont understand how MM affects the picking and packing and dispatch operation or how MM will affect the finance side of things you will not benefit from this
 
-### Speaker 2
-
-Hello and welcome to another very exciting podcast on my channel because today we will talk about a very common question I get from a lot of you which is how to supply chain professionals upskill themselves on SAP tools And to talk about that Ive got someone who is probably one of the best people to talk about it He is a very seasoned supply chain professional and leader who has worked in the consumer goods industry in the healthcare industry has worked as a consultant and
+speaker_2: Hello and welcome to another very exciting podcast on my channel because today we will talk about a very common question I get from a lot of you which is how to supply chain professionals upskill themselves on SAP tools And to talk about that Ive got someone who is probably one of the best people to talk about it He is a very seasoned supply chain professional and leader who has worked in the consumer goods industry in the healthcare industry has worked as a consultant and
 
 
 Apparently he is working with a startup so without further ado I would like to welcome Arsalan Sheikh to this podcast hello Arsalan how are you
 
-### Speaker 1
+speaker_1: Good thanks Shami thank you for having me
 
-Good thanks Shami thank you for having me
+speaker_2: So Arslan before we get into the actual nuts and bolts of this podcast which is about the SAP tools why dont you give the audience a little bit of a quick introduction about yourself and your career journey
 
-### Speaker 2
-
-So Arslan before we get into the actual nuts and bolts of this podcast which is about the SAP tools why dont you give the audience a little bit of a quick introduction about yourself and your career journey
-
-### Speaker 1
-
-Sure Okay thats hopefully not gonna be too long I by background Im a chemical engineer I started my career way back in 1996 with Procter Gamble And it was an odd one So I was not a supply chain person I got hired in a role which evolved me into a supply chain person So supply chain is not a planned event It kind of happened But I look back at it with a lot of pride and a lot of learning So
+speaker_1: Sure Okay thats hopefully not gonna be too long I by background Im a chemical engineer I started my career way back in 1996 with Procter Gamble And it was an odd one So I was not a supply chain person I got hired in a role which evolved me into a supply chain person So supply chain is not a planned event It kind of happened But I look back at it with a lot of pride and a lot of learning So
 
 
 I started my career with Procter Gamble in the production floor on the production floor and worked in production then moved to maintenance and reliability process reliability which people now refer to more as OEE managed those programs then got moved into engineering and health and safety so managed capital projects health and safety programs then moved into QA quality assurance quality control packaging and product development So I spent about six and a half years with Procter then moved to
@@ -69,16 +59,12 @@ uh obviously covering all the different aspects of supply chain and operations a
 
 Canada in January 2025 with a startup where were developing currently a solution using drones and AI for automating the process of inventory counting
 
-### Speaker 2
-
-Excellent Thats a fantastic career journey Arslan And I know this podcast is about SAP but maybe if youve got time I would love to also ask you a few questions about your experience of moving from consumer to healthcare and then from healthcare to becoming a consultant and then from the world of consultancy evolving into the cool stuff that youre doing with AI and drones But before I get there lets just talk a little bit about SAP So I mean Ive made several videos about this Arslan but just
+speaker_2: Excellent Thats a fantastic career journey Arslan And I know this podcast is about SAP but maybe if youve got time I would love to also ask you a few questions about your experience of moving from consumer to healthcare and then from healthcare to becoming a consultant and then from the world of consultancy evolving into the cool stuff that youre doing with AI and drones But before I get there lets just talk a little bit about SAP So I mean Ive made several videos about this Arslan but just
 
 
 you know for the sake of educating our young supply chain professionals they hear all these different terms like you know flying around sap apollo ibp so educate us a little bit about what are the different modules in sap because its basically an erp but then what are the key tools one should know and have awareness about from a supply chain standpoint
 
-### Speaker 1
-
-Okay so SAP has evolved I guess over the years So SAP the latest version that people will hear about and probably come across is going to be whats called the SAP HANA S4 HANA platform And that is the more the latest edition You still will find people probably running a slightly older model of SAP Its called ECC And between these two I would say you probably find both of these
+speaker_1: Okay so SAP has evolved I guess over the years So SAP the latest version that people will hear about and probably come across is going to be whats called the SAP HANA S4 HANA platform And that is the more the latest edition You still will find people probably running a slightly older model of SAP Its called ECC And between these two I would say you probably find both of these
 
 
 floating about Customers that are not wanting to migrate are still sticking on the old platform A lot of the customers have moved on to the new platform The modules pretty much remain the same in terms of nomenclature So typically supply chain guys will come across modules called MM which is materials management which is all the procurement activities the goods receiving goods issuing inventory management The main thing over there is that the inventory is is like a black box You know
@@ -125,27 +111,19 @@ So those I would say are the key modules supply chain resources or plans or folk
 
 sap is continually evolving i will probably talk about a little bit more in terms of other functionality that theyre coming up with in the future
 
-### Speaker 2
+speaker_2: Just a question I mean and Ive always been curious about this R Sivanathan based on your experience on working with these things right Ariba and ABP how well do they perform if your entire ecosystem is SAP oriented So lets say you have got ECC or S4HANA at the back end and these tools are used for planning and procurement Or if youre using a completely different ERP and youre still using the SAP suite So what differences have you experienced
 
-Just a question I mean and Ive always been curious about this R Sivanathan based on your experience on working with these things right Ariba and ABP how well do they perform if your entire ecosystem is SAP oriented So lets say you have got ECC or S4HANA at the back end and these tools are used for planning and procurement Or if youre using a completely different ERP and youre still using the SAP suite So what differences have you experienced
-
-### Speaker 1
-
-So if you are sitting on SAP core platform the connectivity with the SAP products is obviously going to be easier Its like Microsoft right If youre within the Microsoft platform or ecosystem its easier to kind of move data around So I would say implementation wise IBP and Ariba SAP IBP and Ariba would be easier if you have SAP as your core ERP They do work with other ERP systems as well So functionality wise they will still perform the same function
+speaker_1: So if you are sitting on SAP core platform the connectivity with the SAP products is obviously going to be easier Its like Microsoft right If youre within the Microsoft platform or ecosystem its easier to kind of move data around So I would say implementation wise IBP and Ariba SAP IBP and Ariba would be easier if you have SAP as your core ERP They do work with other ERP systems as well So functionality wise they will still perform the same function
 
 
 But there will be specific data translation requirements integration requirements which would be different But functionality wise they can work I dont expect I dont believe that there is a problem there
 
-### Speaker 2
-
-Excellent Great And just because you know most of my audience and the content I create is about like skill building and all of that right So anyone who is trying to upskill themselves on lets say something like IBP which is the bread and butter of supply chain what kind of resources are available based on your experience I mean one of the common answers I give when I get this question is that work for a company which is using this because thats probably the easiest way to get trained
+speaker_2: Excellent Great And just because you know most of my audience and the content I create is about like skill building and all of that right So anyone who is trying to upskill themselves on lets say something like IBP which is the bread and butter of supply chain what kind of resources are available based on your experience I mean one of the common answers I give when I get this question is that work for a company which is using this because thats probably the easiest way to get trained
 
 
 But are there any other opportunities or avenues for people to get themselves upskilled
 
-### Speaker 1
-
-Okay so for as you said I mean the ideal one is you get a job in a company that is running SAP But if thats not the case then there are few ways to get the exposure to SAP prior The one thing that Ive seen a lot more in Canada is universities or colleges that have their own alliances with SAP and they offer access to SAP systems and some levels of training on that So Im aware of examples like George Brown
+speaker_1: Okay so for as you said I mean the ideal one is you get a job in a company that is running SAP But if thats not the case then there are few ways to get the exposure to SAP prior The one thing that Ive seen a lot more in Canada is universities or colleges that have their own alliances with SAP and they offer access to SAP systems and some levels of training on that So Im aware of examples like George Brown
 
 
 I have met with a couple of students from there that have talked about training that they got in SAP while at the university or college Beyond that there are kind of two three different areas So SAP itself has certain content that it is making available for free Mostly I would say the most extensive one is SAP Learning Hub It is probably the most expensive of all the options You pay a substantial amount of money could be a few thousand dollars to get access to the training as well
@@ -165,27 +143,19 @@ There are training providers that Ive come across that are mostly out of India t
 
 So those are the other two ways two three ways that you can get around But primarily outside of a working environment I would say that probably the most reasonably costed ones are the sandbox environments that I mentioned and the professorsoftcom So theres two examples
 
-### Speaker 2
+speaker_2: Got you And lets say someone is working in a company that is already running the system Are there any like certifications or designations or so offered by SAP or how does that thing work
 
-Got you And lets say someone is working in a company that is already running the system Are there any like certifications or designations or so offered by SAP or how does that thing work
-
-### Speaker 1
-
-Yeah so SAP offers certifications and in my experience Ive seen implementation partners some of them had certifications some of them didnt But usually the certification just confirms at most that you are aware of the theory And when you are actually trying to do implementation as an example the implementation companies will look for how many implementation life cycles youve been a part of So there are people that youll find that have two or three or five
+speaker_1: Yeah so SAP offers certifications and in my experience Ive seen implementation partners some of them had certifications some of them didnt But usually the certification just confirms at most that you are aware of the theory And when you are actually trying to do implementation as an example the implementation companies will look for how many implementation life cycles youve been a part of So there are people that youll find that have two or three or five
 
 
 implementation lifecycle experience but dont have the certification from sap so the certification will help you get the initial entry in but getting assignments and evolving is going to be based on the exposure that youve had in implementation
 
-### Speaker 2
-
-Got it So for someone who is getting involved in the first implementation right because of course people someone who has gone through like four or five implementations they are already an expert regardless of the certification So for them to even get a job in an implementation will be easier But for someone who is starting new and is a part of an implementation project for instance what are the key skills in your opinion are that are a that are a must or they are like nice to have for us
+speaker_2: Got it So for someone who is getting involved in the first implementation right because of course people someone who has gone through like four or five implementations they are already an expert regardless of the certification So for them to even get a job in an implementation will be easier But for someone who is starting new and is a part of an implementation project for instance what are the key skills in your opinion are that are a that are a must or they are like nice to have for us
 
 
 supply chain person involved in an SAP implementation in some shape or form
 
-### Speaker 1
-
-Um so I would say look okay so there are two kinds of uh SAP uh roles that you will have right One is a user right The other one is an implementation partner or a team that is going to implement uh in a client environment So as a user I would say the roles the expectations are a bit different And as an implementation it would be different That said I have typically seen implementation folks that come in to do implementations dont have a strong
+speaker_1: Um so I would say look okay so there are two kinds of uh SAP uh roles that you will have right One is a user right The other one is an implementation partner or a team that is going to implement uh in a client environment So as a user I would say the roles the expectations are a bit different And as an implementation it would be different That said I have typically seen implementation folks that come in to do implementations dont have a strong
 
 
 necessarily of of of supply chain management theyve gone and done a certification they know what capabilities exist in sap but the the challenge really is on how they translate uh that business requirement mapping to a functionality or capability from sap so the way i would explain sap and maybe this is my experience and my understanding of it so if i were to compare something like sap with an oracle my experience has been that saps core strength is
@@ -208,24 +178,16 @@ at functionalities that you can activate in SAP which would meet your intent bef
 
 uh the logistics network you know distribution centers how what kind of transportation modes uh and then the the aspects related to i would say order management and warehouse operations as pick pack shipping these conceptual understandings will help you when it comes to looking at using sap because sap has a lot of these pre configured but you should know which ones to select to meet your business intent
 
-### Speaker 2
+speaker_2: All right So is it safe for me to say Arsalan that lets say just talking about SAP and Oracle Oracle is more customization friendly and SAP is more configuration friendly Is that fair to say
 
-All right So is it safe for me to say Arsalan that lets say just talking about SAP and Oracle Oracle is more customization friendly and SAP is more configuration friendly Is that fair to say
-
-### Speaker 1
-
-Well okay so my experience and again its going back a few years hopefully Oracle has evolved but SAP was always the strength of SAP was the processes in the box and Oracles strength was the flexibility
+speaker_1: Well okay so my experience and again its going back a few years hopefully Oracle has evolved but SAP was always the strength of SAP was the processes in the box and Oracles strength was the flexibility
 
 
 But at the same time it can be restricting in terms of and again pros and cons both ways right So if a business is trying to take on SAP I would honestly recommend businesses make that choice saying okay I want to change the way I do things today Because if youre not trying to do that maybe youre better off not taking SAP because you will customize it so much that you lose value in it
 
-### Speaker 2
+speaker_2: The buzzword these days Arslan is S4HANA right Everybodys talking about S4HANA So tell us a little bit about how does it differentiate versus the basic core model the ECC
 
-The buzzword these days Arslan is S4HANA right Everybodys talking about S4HANA So tell us a little bit about how does it differentiate versus the basic core model the ECC
-
-### Speaker 1
-
-Okay so one of the painful things about SAP prior version was the the user interface SAP was pretty poor at that And thats where Oracle used to always be a little bit better I would say substantially better than than SAP So the user interface was pretty clunky You had to basically know the the form numbers where you call t codes and you have to jump between t codes to try and complete a whole process So it was clunky You needed to literally learn the sequence of steps
+speaker_1: Okay so one of the painful things about SAP prior version was the the user interface SAP was pretty poor at that And thats where Oracle used to always be a little bit better I would say substantially better than than SAP So the user interface was pretty clunky You had to basically know the the form numbers where you call t codes and you have to jump between t codes to try and complete a whole process So it was clunky You needed to literally learn the sequence of steps
 
 
 So it was not used it was not user friendly I would say the most fundamental thing that the change that people will see when they move to Asperhanna is the user interface has changed dramatically The the graphical user interface is now web based Theyve got what they call an application layer called fury F I O R I and its made its made to to allow people to interact with a lot more easily using a web interface
@@ -242,27 +204,19 @@ capabilities in SAP S4 HANA Mainly I would say the major chunks that have happen
 
 system which would then need to be integrated separately for the data to move across Theyve moved a lot of other APO functionality like especially the detailed scheduling capability from APO into S4 HANA So S4 HANA is truly a step change in terms of user experience functionality and speed
 
-### Speaker 2
+speaker_2: Got it And is IBP also benefiting from some of these newer user interfaces
 
-Got it And is IBP also benefiting from some of these newer user interfaces
-
-### Speaker 1
-
-Yeah so the new interfaces that SAP are using are coming across all of the layers of SAP So all modules pretty much you will find the interface has changed to the Fury platform So IBP has the Fury but IBP has also offered a slight twist on it So theyre also allowing an integration with Excel So planners for the most part there are some things that youll have to go use the Fury layer to actually interact with the system But typically the day to day activities the planners are mostly able to do them
+speaker_1: Yeah so the new interfaces that SAP are using are coming across all of the layers of SAP So all modules pretty much you will find the interface has changed to the Fury platform So IBP has the Fury but IBP has also offered a slight twist on it So theyre also allowing an integration with Excel So planners for the most part there are some things that youll have to go use the Fury layer to actually interact with the system But typically the day to day activities the planners are mostly able to do them
 
 
 directly using a Microsoft Excel with a connector built into it So youll get all of your data out there You can do the the planning runs directly from Excel You can see the results in Excel You can do the analytics and graphics in Excel So IDP offers both And thats one place where I would say IDP is different to the typical SAP interface
 
-### Speaker 2
-
-Got it And I dont know if you have got any specific experience in this space Arslan but I want to ask you that all of the because I think the non user friendliness of the previous versions of SAP at least this is my opinion so I might be completely wrong here right So please feel free to correct me if Im wrong has given the rise to some of the more user friendly more customizable APSs like OMP 09 more recently and those kind of things right
+speaker_2: Got it And I dont know if you have got any specific experience in this space Arslan but I want to ask you that all of the because I think the non user friendliness of the previous versions of SAP at least this is my opinion so I might be completely wrong here right So please feel free to correct me if Im wrong has given the rise to some of the more user friendly more customizable APSs like OMP 09 more recently and those kind of things right
 
 
 Do you think all these upgrades done by SAP now brings the software in bar with competing with some of these more innovative solutions
 
-### Speaker 1
-
-Um look SAP is not always going to be best of breed right But SAP offers or tries to offer a more holistic end to end platform So
+speaker_1: Um look SAP is not always going to be best of breed right But SAP offers or tries to offer a more holistic end to end platform So
 
 
 I would call it an ecosystem So SAP is offering an ecosystem which over time is evolving I think if you refer to Gartner as an example when it comes to planning IBP is not as good as a few others So it will be it is not being seen as that high end but SAP is has got the deep pockets and it is investing heavily in trying to evolve it For companies that are specialized obviously theyre best of breed So O9 OMP Kinaxis Blue Yonder I mean theyre pretty much doing
@@ -279,24 +233,16 @@ functionality announcements that are happening
 
 And now I would say the probably the most aggressive which is now trying to bring AI into play as well So now theres a platform the SAP has developed I believe already called SAP JUUL which theyre now trying to bring into the ERP and the IBP layer which should make it a lot more capable as well
 
-### Speaker 2
-
-All right That was thats a great segue or something because thats what I was going to go next anyways Right So AI is another buzzword And this is not just you know specific to supply chain or ERPs but its across the board I mean in your extensive experience and working in different industries and in consulting and now you you know this is also a good opportunity for you to talk a little bit about the the fantastic startup youre working with Right So tell us a little bit about like some practical
+speaker_2: All right That was thats a great segue or something because thats what I was going to go next anyways Right So AI is another buzzword And this is not just you know specific to supply chain or ERPs but its across the board I mean in your extensive experience and working in different industries and in consulting and now you you know this is also a good opportunity for you to talk a little bit about the the fantastic startup youre working with Right So tell us a little bit about like some practical
 
 
 implementations of AI that you have seen which you think are going to be successful in the long term and how how do people really upskill to to learn these
 
-### Speaker 1
+speaker_1: Look I think were already seeing the advent of AI when it comes to and its kind of democratized right So AI now is available to people Everyone has access to ChatGPT and its not just ChatGPT I mean there are theres Grok you know theres OpenAI theres Claude theres
 
-Look I think were already seeing the advent of AI when it comes to and its kind of democratized right So AI now is available to people Everyone has access to ChatGPT and its not just ChatGPT I mean there are theres Grok you know theres OpenAI theres Claude theres
+speaker_2: perplexity
 
-### Speaker 2
-
-perplexity
-
-### Speaker 1
-
-Perplexity is a packaging So there are people who develop AI platforms or AI solutions and then there are people who are packaging these to offer as a consolidated layer So Perplexity I dont believe has its own AI It actually backend connects with ChatGPT and Sonnet Cloud and all of these to offer you one interface to access different ones So there are AI solution providers and there are what I would call front end packages right So theyre just an interface layer
+speaker_1: Perplexity is a packaging So there are people who develop AI platforms or AI solutions and then there are people who are packaging these to offer as a consolidated layer So Perplexity I dont believe has its own AI It actually backend connects with ChatGPT and Sonnet Cloud and all of these to offer you one interface to access different ones So there are AI solution providers and there are what I would call front end packages right So theyre just an interface layer
 
 
 And maybe perplexity eventually will go there as well But the amount of money needed to build an AI model and to train it and then to provide the compute capability to then answer questions is very capital intensive at this point in time So theres a lot more packaging companies that are coming through Now when it comes to supply chain I would say theres quite a bit of work that has happened in terms of this but it has been pretty high end and only I would say companies that have deep pockets
@@ -334,21 +280,13 @@ me how do I go around it do I go above it do I go below it do I go on the side u
 
 in real time how it handles new challenges right
 
-### Speaker 2
+speaker_2: Excellent
 
-Excellent
+speaker_1: So its I said its so there are two different applications one is more a static one which is not that uh interesting I would put it this way its its more straightforward another one which is a little bit more challenging
 
-### Speaker 1
+speaker_2: Got it Yeah Yeah And of course like you know anyone would love to see drones in a warehouse because its like you know not only sounds cool but you know imagine like if drones can do the regular cycle counting autonomously how much time it saves right How much manpower
 
-So its I said its so there are two different applications one is more a static one which is not that uh interesting I would put it this way its its more straightforward another one which is a little bit more challenging
-
-### Speaker 2
-
-Got it Yeah Yeah And of course like you know anyone would love to see drones in a warehouse because its like you know not only sounds cool but you know imagine like if drones can do the regular cycle counting autonomously how much time it saves right How much manpower
-
-### Speaker 1
-
-I mean look the application is amazing So the idea itself is great The challenge is obviously is in the physical work of getting it out there right But it is it is and again going back its not a new technology What were trying to do is not brand new Others have done it The way were trying to come to the problem is to say this problem someone has solved but were not seeing adoption And one of the things that we figured out was the adoption is missing because the price point is still tricky Its still a
+speaker_1: I mean look the application is amazing So the idea itself is great The challenge is obviously is in the physical work of getting it out there right But it is it is and again going back its not a new technology What were trying to do is not brand new Others have done it The way were trying to come to the problem is to say this problem someone has solved but were not seeing adoption And one of the things that we figured out was the adoption is missing because the price point is still tricky Its still a
 
 
 heavy capex projects So companies have kind of shied away from it because it requires as if you if you imagine yourself as a white house ops guy someone comes and says you know what I have the solution Its going to cost you 150 to 250 thousand dollars Youll have to go and make a capex approval Youll have to go convince people then wait for the next time the budget is issued And again you lose the fizzle It kind of fizzle out completely Right What we were trying to do and were hoping to achieve is that we are trying to get it to a price point which is comparable to the cost of an FTE
@@ -362,16 +300,12 @@ The business level is only when it actually gives you value and is competitive I
 
 So the equation becomes more reasonable
 
-### Speaker 2
-
-Excellent And maybe getting you know translating all this to like the skill building point right So when I look at for instance generative AI like for me the easiest example to think about you know how the skills will transform is because Ive been a planner for the longest amount of time in my life right So when we even interview today for lets say jobs in planning or data analysis right You ask those cliched questions around Excel right You know do you know VLOOKUPS HLOOKUPS
+speaker_2: Excellent And maybe getting you know translating all this to like the skill building point right So when I look at for instance generative AI like for me the easiest example to think about you know how the skills will transform is because Ive been a planner for the longest amount of time in my life right So when we even interview today for lets say jobs in planning or data analysis right You ask those cliched questions around Excel right You know do you know VLOOKUPS HLOOKUPS
 
 
 and you know pivot tables and all of that stuff and I can clearly see now with what co pilot and Microsoft is like doing with co pilot right very soon those questions are going to get transformed to like you know hey can you write a prompt in Excel with co pilot which will generate a pivot table versus asking pivot table questions themselves right how do you see what is the what is the robotics and AI version of that upskilling going to look like inside a warehouse or for an ERP like SAP going back to our original talk
 
-### Speaker 1
-
-When you look at what AI can do AI basically can speed up the work of analysis It can speed up the work of and its now getting towards more thinking capability right So the challenge I would say is we dont know where how far AI will go right Now what technology seems to be capable of and its not just AI and again the conversation is now gonna shift probably substantially away from SAP I guess but
+speaker_1: When you look at what AI can do AI basically can speed up the work of analysis It can speed up the work of and its now getting towards more thinking capability right So the challenge I would say is we dont know where how far AI will go right Now what technology seems to be capable of and its not just AI and again the conversation is now gonna shift probably substantially away from SAP I guess but
 
 
 Weve got classical computers right now running AI algorithms right Were actually using a
@@ -400,16 +334,12 @@ A real game changer
 
 And hopefully that doesnt happen soon
 
-### Speaker 2
-
-Thats right So uh just as we come towards the end of the broadcast uh Aslan and I mean with your experience I want to go back to you know your initial introduction where I think you are one of those very few uh you know experienced individuals in supply chain who have worked in a CPG who have worked as a consultant in healthcare now working with a startup So as you have moved from these different industries and different types of uh you know works um what is your advice to someone fresh
+speaker_2: Thats right So uh just as we come towards the end of the broadcast uh Aslan and I mean with your experience I want to go back to you know your initial introduction where I think you are one of those very few uh you know experienced individuals in supply chain who have worked in a CPG who have worked as a consultant in healthcare now working with a startup So as you have moved from these different industries and different types of uh you know works um what is your advice to someone fresh
 
 
 who is coming into supply chain uh in 2025
 
-### Speaker 1
-
-So depending on how companies have structured their supply chain model it is a pretty wide spectrum of roles and functions and capabilities right The only way to learn all of this is by being curious Now at the time when I came into the career there was no degree for it right Now there are degrees where you can actually go and go and get a supply chain certification program or a masters degree program That didnt exist when I came into the career
+speaker_1: So depending on how companies have structured their supply chain model it is a pretty wide spectrum of roles and functions and capabilities right The only way to learn all of this is by being curious Now at the time when I came into the career there was no degree for it right Now there are degrees where you can actually go and go and get a supply chain certification program or a masters degree program That didnt exist when I came into the career
 
 
 into the role and for me I would say curiosity was the most important thing
@@ -426,17 +356,11 @@ the supply chain as a kind of a continuum and not just focusing on where you sit
 
 So curiosity connectivity and lastly I would say persistence Supply chain is a job where there are days youd get beaten down because things didnt go well A lot of days That can happen That can happen a lot So having the ability to get out of bed the next day and say you know what Im going to go get this fixed
 
-### Speaker 2
+speaker_2: A lot of business
 
-A lot of business
+speaker_1: and keep at it So persistence patience perseverance Those are the combination of qualities that I would suggest
 
-### Speaker 1
-
-and keep at it So persistence patience perseverance Those are the combination of qualities that I would suggest
-
-### Speaker 2
-
-Excellent I like the three Ps right So this is this is awesome Great Excellent Now uh once again Arsalan I think thanks a lot for uh coming on this uh this channel Uh Im sure like what you have shared in the context of general ERP SAP and I know towards the end a discussion uh you know went into uh AI and a lot of different interesting stuff that you are doing was super helpful And the reason I keep asking you know these questions that these are the kind of questions I get every single day
+speaker_2: Excellent I like the three Ps right So this is this is awesome Great Excellent Now uh once again Arsalan I think thanks a lot for uh coming on this uh this channel Uh Im sure like what you have shared in the context of general ERP SAP and I know towards the end a discussion uh you know went into uh AI and a lot of different interesting stuff that you are doing was super helpful And the reason I keep asking you know these questions that these are the kind of questions I get every single day
 
 
 Like you know its even on my channel as Ive started focusing on supply chain every morning I wake up to like 10 different questions Some of them are about Hey all of this is changing What does that mean for you All the way to OK Im just starting in supply chain I just graduated And to your point even in my time like there was no degree offered Right So now uh younger professionals who are aspiring to take supply chain as a career theyve got much better options to study supply chain as a subject which of course gives them a good opportunity to learn but
@@ -444,6 +368,4 @@ Like you know its even on my channel as Ive started focusing on supply chain eve
 
 are still things you and I know very well Nobodys going to teach you in a university And that is where people like myself and yourself come in Like we are trying to create this content which is going to be helpful for people about things which are not typically taught in educational institutions So on that note Rusalan thanks a lot for your time again I really appreciate you taking the time to come on the show And Im sure you know as the questions come out of this podcast well probably set up another session sometime soon
 
-### Speaker 1
-
-Sure great Javial thank you for having me
+speaker_1: Sure great Javial thank you for having me

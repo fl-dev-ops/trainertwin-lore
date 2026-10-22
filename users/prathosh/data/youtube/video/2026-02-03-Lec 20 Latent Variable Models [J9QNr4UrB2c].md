@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 33:22
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 20 Latent Variable Models
 
 ## Transcript
 
-
-Welcome everyone Let us continue on our
+speaker_1: Welcome everyone Let us continue on our
 discussion
 about the mixture densities Uh the last
 class we entered the last class by

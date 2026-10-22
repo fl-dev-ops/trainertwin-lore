@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Tänk dig att du ska ha en kickoff nu eller en konferens och du vill få upp den här härliga energin och du vill också få nya tankar som kan göra att vi kan samarbeta bättre jobba ihop bättre trivas ihop bättre Ja om du har den känslan då ska du lyssna på min föreläsning
+speaker_1: Tänk dig att du ska ha en kickoff nu eller en konferens och du vill få upp den här härliga energin och du vill också få nya tankar som kan göra att vi kan samarbeta bättre jobba ihop bättre trivas ihop bättre Ja om du har den känslan då ska du lyssna på min föreläsning
 
 
 Jag kan ta ganska komplicerade psykologiska historier och göra om dem till konkreta enkla beskrivningar Jag är bra på att förenkla saker och ting och leverera det med hög energi och hög tydlighet med andra ord

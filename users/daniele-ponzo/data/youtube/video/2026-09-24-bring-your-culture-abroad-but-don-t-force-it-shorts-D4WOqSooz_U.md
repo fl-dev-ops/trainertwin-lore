@@ -28,7 +28,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -36,6 +36,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-the way I decides to show up the way I decided to engage the way I decided to embrace that culture And I never left Brazil behind but once again I put Brazil where it belongs Which was a home country It will always be and Im very proud of being Brazilian But that moment I was living in Colombia and it was unfair with them to bring Brazil into Colombia Of course that I needs to bring to the table my assets of being Brazilian because this will complement the culture the country that Im living in But trying to push or try to yeah try to force Brazil into another country is the biggest mistake that I was committing back then
+speaker_1: the way I decides to show up the way I decided to engage the way I decided to embrace that culture And I never left Brazil behind but once again I put Brazil where it belongs Which was a home country It will always be and Im very proud of being Brazilian But that moment I was living in Colombia and it was unfair with them to bring Brazil into Colombia Of course that I needs to bring to the table my assets of being Brazilian because this will complement the culture the country that Im living in But trying to push or try to yeah try to force Brazil into another country is the biggest mistake that I was committing back then

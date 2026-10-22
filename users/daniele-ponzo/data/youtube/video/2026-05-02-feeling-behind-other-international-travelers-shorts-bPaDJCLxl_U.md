@@ -23,8 +23,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -32,14 +32,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And the second one was about of course this traveling thing I still remember because for example you just meet people from different countries and they say okay how many countries have you been to And you say only one
 
-And the second one was about of course this traveling thing I still remember because for example you just meet people from different countries and they say okay how many countries have you been to And you say only one
+speaker_2: Well I mean thats thats the first impression of course yeah so
 
-### Speaker 2 · Speaker 2
-
-Well I mean thats thats the first impression of course yeah so
-
-### Speaker 1 · Speaker 1
-
-Yes Its yeah yeah yeah yeah So yeah its strange So at that time it was like quite um how do we say bitter sweet for me And so then I just um understood of course so they they were all coming from you know different parts of Europe So they have their own IDs and they can travel wherever they want to and but but like we had I remember we had the passport and also visa process and everything And that was quite um impressive thing for me
+speaker_1: Yes Its yeah yeah yeah yeah So yeah its strange So at that time it was like quite um how do we say bitter sweet for me And so then I just um understood of course so they they were all coming from you know different parts of Europe So they have their own IDs and they can travel wherever they want to and but but like we had I remember we had the passport and also visa process and everything And that was quite um impressive thing for me

@@ -6,14 +6,15 @@ date: '2026-02-11'
 duration: 17:32
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 27 Nearest Neighbor Classifier
 
 ## Transcript
 
-
-So lets look at the other uh way to do
+speaker_1: So lets look at the other uh way to do
 it which is uh okay by the way u see
 using this smoother kernel also avoids
 this uh this problem of getting a very

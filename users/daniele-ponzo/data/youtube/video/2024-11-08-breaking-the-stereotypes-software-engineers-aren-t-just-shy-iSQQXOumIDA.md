@@ -18,8 +18,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -27,14 +27,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: That was effect of me getting onto the communication skill hype train Ive been the angry engineer you may hear about who always talks about uh technology
 
-That was effect of me getting onto the communication skill hype train Ive been the angry engineer you may hear about who always talks about uh technology
+speaker_2: Okay Yeah Ive seen it in memes and stereotypes you know
 
-### Speaker 2 · Speaker 2
-
-Okay Yeah Ive seen it in memes and stereotypes you know
-
-### Speaker 1 · Speaker 1
-
-Yeah this is I I was the stereotypical uh engineer who is good at code but not as great at communication
+speaker_1: Yeah this is I I was the stereotypical uh engineer who is good at code but not as great at communication

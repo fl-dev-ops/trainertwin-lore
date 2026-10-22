@@ -8,36 +8,25 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec1 - Deep Generative Models Intro to Probability theory 1
 
 ## Transcript
 
+speaker_1: A couple of logistic things uh the registration deadline is done right
 
-### Speaker 1
+speaker_2: No sir it extended till 20 X
 
-A couple of logistic things uh the registration deadline is done right
+speaker_1: They extend it
 
-### Speaker 2
+speaker_2: So you may s hit a century there
 
-No sir it extended till 20 X
-
-### Speaker 1
-
-They extend it
-
-### Speaker 2
-
-So you may s hit a century there
-
-### Speaker 1
-
-I dont want that
+speaker_1: I dont want that
 
 
 Okay so we still have the last class is not yet
@@ -84,51 +73,31 @@ Automatize it is one note thing so struggling just a second now so where do I go
 
 Welcome to one more okay
 
-### Speaker 2
+speaker_2: So youre not shading this
 
-So youre not shading this
-
-### Speaker 1
-
-Read only to edit tap the one not icon where is the one not icon here this one No
+speaker_1: Read only to edit tap the one not icon where is the one not icon here this one No
 
 
 Okay yeah if I share it you can help me perhaps
 
-### Speaker 3
+speaker_3: Will be on the top right side
 
-Will be on the top right side
+speaker_1: Ah let me just see I think youre using some good notes
 
-### Speaker 1
+speaker_3: No
 
-Ah let me just see I think youre using some good notes
-
-### Speaker 3
-
-No
-
-### Speaker 1
-
-Share screen start broadcast
+speaker_1: Share screen start broadcast
 
 
 Here is it to edit tap one note icon
 
-### Speaker 3
+speaker_3: On the other hand
 
-On the other hand
+speaker_1: It is a dragon oh this one oh I see I see I see got it
 
-### Speaker 1
+speaker_3: Oh this one right there just behind you
 
-It is a dragon oh this one oh I see I see I see got it
-
-### Speaker 3
-
-Oh this one right there just behind you
-
-### Speaker 1
-
-Okay great thank you
+speaker_1: Okay great thank you
 
 
 So
@@ -136,13 +105,9 @@ So
 
 So shall we have like uh one different page for every day I think lets do it that way
 
-### Speaker 4
+speaker_4: Yes uh that will be better
 
-Yes uh that will be better
-
-### Speaker 1
-
-The date will always be here I suppose right I mean it will be Saturday August 10th it is so Ill have to delete this how do I delete this
+speaker_1: The date will always be here I suppose right I mean it will be Saturday August 10th it is so Ill have to delete this how do I delete this
 
 
 This maybe we will rename this as
@@ -150,41 +115,23 @@ This maybe we will rename this as
 
 Oh
 
-### Speaker 4
+speaker_4: So within the file itself just mention the name of this page
 
-So within the file itself just mention the name of this page
+speaker_1: Where if you cant
 
-### Speaker 1
+speaker_3: On top the title
 
-Where if you cant
+speaker_4: Here on top the title Saturday Saturday 10 just above that mention this page title
 
-### Speaker 3
+speaker_1: So well do OCR now
 
-On top the title
+speaker_3: Oh yeah yeah I think it does
 
-### Speaker 4
+speaker_1: Its a boat
 
-Here on top the title Saturday Saturday 10 just above that mention this page title
+speaker_3: So both will work both will work keyboard and OCR both
 
-### Speaker 1
-
-So well do OCR now
-
-### Speaker 3
-
-Oh yeah yeah I think it does
-
-### Speaker 1
-
-Its a boat
-
-### Speaker 3
-
-So both will work both will work keyboard and OCR both
-
-### Speaker 1
-
-I need two three minutes for this pencil to be charged anyway so Ill write that so todays agenda is the following
+speaker_1: I need two three minutes for this pencil to be charged anyway so Ill write that so todays agenda is the following
 
 
 Ill start with the basics of probability theory the probability theory that we would need to continue in this course in the first half The second half Ill introduce you to the
@@ -225,16 +172,12 @@ we will put ash
 
 It doesnt seem to do a good job here
 
-### Speaker 4
-
-A keyboard will be better though yeah
+speaker_4: A keyboard will be better though yeah
 
 
 A keyboard script will be better it will be more simple
 
-### Speaker 1
-
-Youre saying you have to
+speaker_1: Youre saying you have to
 
 
 Toggle the keyboard
@@ -248,13 +191,9 @@ So this we will see in pro
 
 Introduction to
 
-### Speaker 3
+speaker_3: So at the beginning can you put the lecture number as well
 
-So at the beginning can you put the lecture number as well
-
-### Speaker 1
-
-Okay so lets get started
+speaker_1: Okay so lets get started
 
 
 Okay so what is the as I said what are the kind of questions that we are interested in in this statistical branch of statistical statistics for machine learning in this
@@ -274,24 +213,16 @@ Everybodys going to control that
 
 You must
 
-### Speaker 4
+speaker_4: So you can enable the second last option right next to drawing mode
 
-So you can enable the second last option right next to drawing mode
-
-### Speaker 1
-
-This one
+speaker_1: This one
 
 
 What is this
 
-### Speaker 4
+speaker_4: So that will allow only the pencil to write
 
-So that will allow only the pencil to write
-
-### Speaker 1
-
-This palmajipal great thank you it should be there but I dont know where it is okay fundamentally most problems in in science and engineering
+speaker_1: This palmajipal great thank you it should be there but I dont know where it is okay fundamentally most problems in in science and engineering
 
 
 C I E N C E
@@ -386,13 +317,9 @@ Its still happening
 
 When I place my hand it is taking me everywhere
 
-### Speaker 4
+speaker_4: if youre not comfortable we can switch to good notes also
 
-if youre not comfortable we can switch to good notes also
-
-### Speaker 1
-
-Its okay I I I cant really understand this Uh how do I get this
+speaker_1: Its okay I I I cant really understand this Uh how do I get this
 
 
 Im in this thing no no I dont want this
@@ -400,29 +327,17 @@ Im in this thing no no I dont want this
 
 So this uh side pane will always be there is that I want this to disappear
 
-### Speaker 4
+speaker_4: Oh no you can remove it and here the settings icon the full screen button that should do
 
-Oh no you can remove it and here the settings icon the full screen button that should do
+speaker_1: Where is it on
 
-### Speaker 1
+speaker_4: Im not exactly sitting there
 
-Where is it on
+speaker_1: Sitting sitting okay
 
-### Speaker 4
+speaker_4: Uh next to it uh not in settings next to settings
 
-Im not exactly sitting there
-
-### Speaker 1
-
-Sitting sitting okay
-
-### Speaker 4
-
-Uh next to it uh not in settings next to settings
-
-### Speaker 1
-
-This one oh yes full screen okay great
+speaker_1: This one oh yes full screen okay great
 
 
 keep educating me okay with all this ive never used this uh like one note its quite the issue i like get used to it no problem yeah im saying see this thing is a d dimensional real vector right so this is called in general this is called
@@ -565,13 +480,9 @@ Okay so suppose I give you I measure acceleration of a particular moving body an
 
 That was asked by uh right do you know how are they related these two things
 
-### Speaker 3
+speaker_3: I think thats acceleration
 
-I think thats acceleration
-
-### Speaker 1
-
-set they are linearly related right so now the lets if i call the acceleration of a body denoted by a which is a scalar so note that set a here is set of real numbers because in fact positive real numbers acceleration cannot be negative and
+speaker_1: set they are linearly related right so now the lets if i call the acceleration of a body denoted by a which is a scalar so note that set a here is set of real numbers because in fact positive real numbers acceleration cannot be negative and
 
 
 be negative right because also has a direction of say force can also be negative so yeah so force exerted on it is another real number and they are
@@ -585,29 +496,17 @@ Take questions in a while okay So the algorithm to think of another example
 
 Somebody give me an example of a case where the function is not linear
 
-### Speaker 3
+speaker_3: Im not even
 
-Im not even
+speaker_4: Im not even
 
-### Speaker 4
+speaker_2: And its kind of
 
-Im not even
+speaker_1: Okay
 
-### Speaker 2
+speaker_3: Yeah yeah yeah
 
-And its kind of
-
-### Speaker 1
-
-Okay
-
-### Speaker 3
-
-Yeah yeah yeah
-
-### Speaker 1
-
-Okay how are they related kinetic energy and velocity
+speaker_1: Okay how are they related kinetic energy and velocity
 
 
 uh velocity is v and energy is p okay we can do that
@@ -633,13 +532,9 @@ the underlying problem is to find out or identify what the underlying function i
 
 Somebody tell me why is that important Why do you have to relate quantities measured quantities
 
-### Speaker 4
+speaker_4: predictions
 
-predictions
-
-### Speaker 1
-
-Exactly right so one one of the things is function approximations
+speaker_1: Exactly right so one one of the things is function approximations
 
 
 Approximation okay enables predictions
@@ -683,45 +578,25 @@ Textual orientation
 
 Does anybody know that no
 
-### Speaker 4
+speaker_4: So there is no pointer
 
-So there is no pointer
+speaker_1: Theres no black to here
 
-### Speaker 1
+speaker_4: No you can maybe use the assistive touch button on the right side to
 
-Theres no black to here
+speaker_2: of circle around things but thats about it
 
-### Speaker 4
+speaker_1: I see but its just there we go I mean I dont want that to stay I just want to point out to that thing yeah somebody
 
-No you can maybe use the assistive touch button on the right side to
+speaker_4: Yeah somebody should use NS pointer if you click on the pen itself
 
-### Speaker 2
+speaker_1: Meaning I didnt read that
 
-of circle around things but thats about it
+speaker_4: And if you click on it then I guess youre supposed to get some menu
 
-### Speaker 1
+speaker_1: But this ones not
 
-I see but its just there we go I mean I dont want that to stay I just want to point out to that thing yeah somebody
-
-### Speaker 4
-
-Yeah somebody should use NS pointer if you click on the pen itself
-
-### Speaker 1
-
-Meaning I didnt read that
-
-### Speaker 4
-
-And if you click on it then I guess youre supposed to get some menu
-
-### Speaker 1
-
-But this ones not
-
-### Speaker 4
-
-no I mean Im gonna on the pen itself like the whatever you have it highlighted
+speaker_4: no I mean Im gonna on the pen itself like the whatever you have it highlighted
 
 
 If you happen to click it again
@@ -729,9 +604,7 @@ If you happen to click it again
 
 Do you see any options on top Can you click and hold that pen once
 
-### Speaker 1
-
-Nothing happens
+speaker_1: Nothing happens
 
 
 Anyway so find it out I mean if anyone of you want to find that out let me know or just tell Microsoft to have that feature in the next version Its very very useful For example Ill show you in good notes
@@ -745,48 +618,28 @@ so nice
 
 just go with it so if there is something that i write i can go back and you know just mark this and talk about this and it was very very useful for me you see that red mark here it is not there at all
 
-### Speaker 3
+speaker_3: If you go back to the pen gallery I think there is an option
 
-If you go back to the pen gallery I think there is an option
+speaker_1: Hes dead okay
 
-### Speaker 1
+speaker_3: So there is a plus button next to the pans right
 
-Hes dead okay
+speaker_1: I like that
 
-### Speaker 3
+speaker_3: Select the pen mode
 
-So there is a plus button next to the pans right
+speaker_2: It says that
 
-### Speaker 1
+speaker_3: To use pen as a pointer I dont know where to get this
 
-I like that
-
-### Speaker 3
-
-Select the pen mode
-
-### Speaker 2
-
-It says that
-
-### Speaker 3
-
-To use pen as a pointer I dont know where to get this
-
-### Speaker 1
-
-Fine okay fine whatever so Ill have to maybe just go back its not very optimal because I keep using this pointer so many times while I was teaching it was very useful for me
+speaker_1: Fine okay fine whatever so Ill have to maybe just go back its not very optimal because I keep using this pointer so many times while I was teaching it was very useful for me
 
 
 And okay
 
-### Speaker 3
+speaker_3: You can use the other
 
-You can use the other
-
-### Speaker 1
-
-Well thats also fine thats what I was doing but uh people suggested this one also and I just thought that its okay
+speaker_1: Well thats also fine thats what I was doing but uh people suggested this one also and I just thought that its okay
 
 
 Okay no problem lets move on Yeah so what I was saying is that you are
@@ -812,13 +665,9 @@ Right uh any questions so far show points
 
 Yes
 
-### Speaker 4
+speaker_4: So is this also called as inverse problem that that we talk about
 
-So is this also called as inverse problem that that we talk about
-
-### Speaker 1
-
-Yeah you can call it a use problem better
+speaker_1: Yeah you can call it a use problem better
 
 
 See Im actually going to you know pair basics of stuff Im sure that all of you know this already but yeah so I want to call it from an approximation given these pairs of observations and data rather observations from two particular sets I want to understand what the inverse problem is yes of course it is inverse problem see its not quite the inverse problem because in typical inverse problems what happens is you only have access to output without having access to input
@@ -829,13 +678,9 @@ Or rather you dont have elements of range set at all Sorry domain set at all in 
 
 Okay uh Regit
 
-### Speaker 4
+speaker_4: Sir one question I have why do you use this word approximation
 
-Sir one question I have why do you use this word approximation
-
-### Speaker 1
-
-Commission is this I
+speaker_1: Commission is this I
 
 
 Fine
@@ -843,32 +688,20 @@ Fine
 
 Please stop writing
 
-### Speaker 4
+speaker_4: Why do you have this
 
-Why do you have this
+speaker_1: No who is talking
 
-### Speaker 1
+speaker_4: Im not a surgeon
 
-No who is talking
+speaker_1: See we have a bit of rule in this class that if you want to talk please raise your hands because otherwise no too many people it becomes a bit chaotic Please raise your hands Ill call out your name and you can ask questions Okay thank you Yeah Ill come Ill go in the order Arjit
 
-### Speaker 4
-
-Im not a surgeon
-
-### Speaker 1
-
-See we have a bit of rule in this class that if you want to talk please raise your hands because otherwise no too many people it becomes a bit chaotic Please raise your hands Ill call out your name and you can ask questions Okay thank you Yeah Ill come Ill go in the order Arjit
-
-### Speaker 2
-
-Sir one question that till now whatever a function relation we saw between two elements is like kind of a proportional light being it linear or non linear So one is increasing other is increasing or inversely proportional also But suppose the relationship is very complex For example if it is too cold I may not go out If it is little hot I will go out But if it is too hot again I will come back to my home right So this kind of relation where you cannot directly make it proportional or inversely proportional
+speaker_2: Sir one question that till now whatever a function relation we saw between two elements is like kind of a proportional light being it linear or non linear So one is increasing other is increasing or inversely proportional also But suppose the relationship is very complex For example if it is too cold I may not go out If it is little hot I will go out But if it is too hot again I will come back to my home right So this kind of relation where you cannot directly make it proportional or inversely proportional
 
 
 So how our I mean this prediction will work there I mean generative model maybe too early to ask this just asking
 
-### Speaker 1
-
-Good question very good question And yes you see that is why we need other mathematical tools The linearity or proportionality doesnt work See for instance suppose you need to suppose you just measure the lets say that you measure the temperature you just heat a body okay you just heat a metal and measure the temperature of that metal at different points along the material Now if you want to ask me this question
+speaker_1: Good question very good question And yes you see that is why we need other mathematical tools The linearity or proportionality doesnt work See for instance suppose you need to suppose you just measure the lets say that you measure the temperature you just heat a body okay you just heat a metal and measure the temperature of that metal at different points along the material Now if you want to ask me this question
 
 
 that if I measure temperature at one point okay I need to know how the temperature varies across the body you know how do you model it you measure temperatures I want to know what the temperatures are at other points in the body as well given some heat now you cant there is no way that you can write it as a linear equation you have to express that as a differential equation isnt it right so thats why you need another branch of mathematics right which is differential calculus and you need to express it as differential equation but the kind of question that you are asking
@@ -882,13 +715,9 @@ questions that cannot be answered uh with with with these kinds of things right 
 
 Okay uh Pat
 
-### Speaker 4
+speaker_4: So my question is more about the terminology So we are using the word prediction here And from what we study in probability predictions its about an estimation of numbers right But in this case functions we are mostly talking about absolute values and were getting absolute answers So why is the word prediction and approximation being used here
 
-So my question is more about the terminology So we are using the word prediction here And from what we study in probability predictions its about an estimation of numbers right But in this case functions we are mostly talking about absolute values and were getting absolute answers So why is the word prediction and approximation being used here
-
-### Speaker 1
-
-Okay see thats a definition right I mean people use different terminology for different things right I am using this word prediction Thats why I define whenever I use a term I define what it is To me prediction here is simply finding an element in the range corresponding to any element in the domain In fact even in statistics and probability theory when we talk of prediction we actually are evaluating a particular function at a point I will talk about it in a while Okay so
+speaker_1: Okay see thats a definition right I mean people use different terminology for different things right I am using this word prediction Thats why I define whenever I use a term I define what it is To me prediction here is simply finding an element in the range corresponding to any element in the domain In fact even in statistics and probability theory when we talk of prediction we actually are evaluating a particular function at a point I will talk about it in a while Okay so
 
 
 We are not theres no I mean theres no quote unquote uncertainty right Well discuss all that in a while right I mean probability theories are very uh
@@ -1037,21 +866,13 @@ flying an aircraft But to find out right whether somebody is a male or a female 
 
 See by the way look at this How many parameters that this model has I have not defined what a model is yet but still this F equal to MA how many parameters does this have Can somebody tell me
 
-### Speaker 2
+speaker_2: Two point three
 
-Two point three
+speaker_1: One three one it has one parameter m is the only one parameter that it has
 
-### Speaker 1
+speaker_2: One second
 
-One three one it has one parameter m is the only one parameter that it has
-
-### Speaker 2
-
-One second
-
-### Speaker 1
-
-And the other example that we saw is also one single parameter model Or if you take a second order differential equation or a third order differential equation all it has are three four parameters So as I said to explain nature of you only need two three parameter models But to understand and predict things that human beings constructed you need billions of parameters It only shows how complicated we are as human beings Ill give you another example for that Lets say that you have a document
+speaker_1: And the other example that we saw is also one single parameter model Or if you take a second order differential equation or a third order differential equation all it has are three four parameters So as I said to explain nature of you only need two three parameter models But to understand and predict things that human beings constructed you need billions of parameters It only shows how complicated we are as human beings Ill give you another example for that Lets say that you have a document
 
 
 These are the typical day to day ML problems that we solve right You have a document
@@ -1260,13 +1081,9 @@ appreciating the fact that you need uh with the existing mathematical tools do n
 
 is often measured the range set is not measured not measurable its its a its a very abstract idea now how do you solve these problems is the question and thats why probability theory or statistics becomes extremely uh relevant ill tell you what is the underlying paradigm of solving these problems uh in in in uh from a probability theory perspective in a while okay so ill stop here for a while and take questions um
 
-### Speaker 4
+speaker_4: Yes the example which you just gave that using traditional techniques like suppose you know the speech example which you gave that suppose it has been modeled using one in for a certain set of population it is not going to work with a different population if it has been modeled with the classical techniques But even with modern machine learning techniques we have observed the same behavior Like if a model has been
 
-Yes the example which you just gave that using traditional techniques like suppose you know the speech example which you gave that suppose it has been modeled using one in for a certain set of population it is not going to work with a different population if it has been modeled with the classical techniques But even with modern machine learning techniques we have observed the same behavior Like if a model has been
-
-### Speaker 1
-
-Agreed agreed Im not disagreeing at all But thing is overall right empirically the statistical statistics based method have given you much much better performance compared to these things I mean Im not saying that this is I mean as people keep saying no all models are wrong Actually all models are wrong but some are useful So these have become more useful right more mainstream more useful If you have any metric that will measure the goodness of these functions okay which is the performance
+speaker_1: Agreed agreed Im not disagreeing at all But thing is overall right empirically the statistical statistics based method have given you much much better performance compared to these things I mean Im not saying that this is I mean as people keep saying no all models are wrong Actually all models are wrong but some are useful So these have become more useful right more mainstream more useful If you have any metric that will measure the goodness of these functions okay which is the performance
 
 
 metrics the functions that people have found out using statistical tools have shown better performance in terms of those metrics compared to classical techniques thats all
@@ -1280,21 +1097,13 @@ The commercially available techniques do right I mean all our phones have face r
 
 Okay uh I did it
 
-### Speaker 2
+speaker_2: Sir just the assumption I made the example you gave for image classification like house or maybe spam no spam does did it fail because it is more of a rule based system than ML because we are directly identifying whether there is a rectangle or not whether this is required or not
 
-Sir just the assumption I made the example you gave for image classification like house or maybe spam no spam does did it fail because it is more of a rule based system than ML because we are directly identifying whether there is a rectangle or not whether this is required or not
+speaker_1: Exactly yeah thats what I told you right I mean what do you mean by rule based uh what do you mean by rule based system by rule based system I mean that you have found that approximated that underlying function using some rules
 
-### Speaker 1
+speaker_2: Okay
 
-Exactly yeah thats what I told you right I mean what do you mean by rule based uh what do you mean by rule based system by rule based system I mean that you have found that approximated that underlying function using some rules
-
-### Speaker 2
-
-Okay
-
-### Speaker 1
-
-right and those rules are not the again lets go not call them rules i mean uh see one other suggestion or rather request that i have is as we are as well be moving uh like ahead in the classes please okay two things one dont try to force fit uh your already existing terminologies and knowledge in the class okay uh because what happens is you know im i want to build it the brick by brick and i at the end of this course i want to start
+speaker_1: right and those rules are not the again lets go not call them rules i mean uh see one other suggestion or rather request that i have is as we are as well be moving uh like ahead in the classes please okay two things one dont try to force fit uh your already existing terminologies and knowledge in the class okay uh because what happens is you know im i want to build it the brick by brick and i at the end of this course i want to start
 
 
 using uh you know my language which is the language of uh ml community so please try to use the the the definitions and the techniques that we have discussed in the class as much as possible thats one thing the other request that i have maybe its too early for a test but suppose im teaching you lets say adversarial networks or diffusions please dont ask questions on things uh that i have not covered in the class
@@ -1326,20 +1135,14 @@ Okay now the question the bigger question is what other way can one think of whe
 
 Okay uh she wont
 
-### Speaker 3
+speaker_3: Well yes I think
 
-Well yes I think
-
-### Speaker 2
-
-uh you have partially answered to my question but yeah again to understand when we do a function approximation for any particular input how do we come to a point like we do an experiment and we say that okay uh this function is not working well for this particular input and we try to increase the complexity by increasing the number of parameters or trying out different approach but is there any initial study which shows that its a good start uh that we should take these number of parameters and try this particular approximation technique
+speaker_2: uh you have partially answered to my question but yeah again to understand when we do a function approximation for any particular input how do we come to a point like we do an experiment and we say that okay uh this function is not working well for this particular input and we try to increase the complexity by increasing the number of parameters or trying out different approach but is there any initial study which shows that its a good start uh that we should take these number of parameters and try this particular approximation technique
 
 
 for this particular input or it just on the trial basis we we do
 
-### Speaker 1
-
-Yeah see that is more of yeah there is no I mean there are a few techniques right where okay there are see for instance neural networks there is one large class of functions that you can try out which are universal function approximators see
+speaker_1: Yeah see that is more of yeah there is no I mean there are a few techniques right where okay there are see for instance neural networks there is one large class of functions that you can try out which are universal function approximators see
 
 
 Right So that is why neural networks are so popular Well come to that in a while So why are neural networks so popular is because the functions that these neural networks approximate right are a large class of functions So now instead of trying out different lets say you try out a parabola you try a third degree polynomial you try an nth degree polynomial et cetera These neural networks are class of functions that can approximate any function to arbitrary closeness So thats why you can try neural networks In fact that is the reason why theyre so popular
@@ -1374,13 +1177,9 @@ Okay so I think let us take a short break It is 10 point 40 now in my clock Lets
 
 Shall we resume
 
-### Speaker 2
+speaker_2: Its your fault
 
-Its your fault
-
-### Speaker 1
-
-So yeah so we were talking about uh
+speaker_1: So yeah so we were talking about uh
 
 
 function approximations and we want to find functions right even pairs of elements from the domain and range and we saw that in in some of the scenarios finding all these relationships are non trivial so its different kinds of approach for it so uh this motivation right so what is done in this branch called the probability probability theory
@@ -1496,81 +1295,49 @@ The function learning right and these the approximation that you do of all these
 
 So what do I mean by allowing uncertainty How do you do it actually is something that I that Im going to talk about in a while But yeah before that uh in the philosophical idea any questions
 
-### Speaker 3
+speaker_3: Answer here domain range means the input values
 
-Answer here domain range means the input values
-
-### Speaker 1
-
-Please raise your hands before you talk okay Ill call out your names
+speaker_1: Please raise your hands before you talk okay Ill call out your names
 
 
 Yes uh Kartik
 
-### Speaker 3
+speaker_3: to the preview
 
-to the preview
-
-### Speaker 1
-
-No no no no no see mathematically looking at it there is nothing called exception if there is a domain set there is a range set it is a function that maps the elements from here to elements from there
+speaker_1: No no no no no see mathematically looking at it there is nothing called exception if there is a domain set there is a range set it is a function that maps the elements from here to elements from there
 
 
 So theres theres no idea of exception right in deterministic function learning
 
-### Speaker 3
+speaker_3: Look you know is it
 
-Look you know is it
+speaker_1: Isnt it So like you know f equal to ma f equal to ma thats all Theres no no exception per se
 
-### Speaker 1
+speaker_3: No yeah there can be scenarios like what we say right when f equal to ma but given that mass is constant if mass is not constant thats an exception to this So something like that
 
-Isnt it So like you know f equal to ma f equal to ma thats all Theres no no exception per se
+speaker_1: Well well its not really because see when if you if you make mass not a constant or whatever the conditions are then the domain and the range set completely changes you see as well as the domain and ranges are fixed right Its a deterministic function No there is there is no inherent uncertainty in the model per se or the function
 
-### Speaker 3
+speaker_3: Okay sure
 
-No yeah there can be scenarios like what we say right when f equal to ma but given that mass is constant if mass is not constant thats an exception to this So something like that
+speaker_1: Hey yeah uh Aditya
 
-### Speaker 1
+speaker_2: Is there one rather comment not a question is that if there is an inherent uncertainty in the system we cannot use these kind of systems to make any control decisions or any any any such decisions is that correct
 
-Well well its not really because see when if you if you make mass not a constant or whatever the conditions are then the domain and the range set completely changes you see as well as the domain and ranges are fixed right Its a deterministic function No there is there is no inherent uncertainty in the model per se or the function
-
-### Speaker 3
-
-Okay sure
-
-### Speaker 1
-
-Hey yeah uh Aditya
-
-### Speaker 2
-
-Is there one rather comment not a question is that if there is an inherent uncertainty in the system we cannot use these kind of systems to make any control decisions or any any any such decisions is that correct
-
-### Speaker 1
-
-That is why right now people are uh uh skeptic about using these tag GBDs for all this See why do you think people are talking about explainability and safety biases of these systems Just because they are probabilistically built
+speaker_1: That is why right now people are uh uh skeptic about using these tag GBDs for all this See why do you think people are talking about explainability and safety biases of these systems Just because they are probabilistically built
 
 
 Right so thats why people are touchy about these things
 
-### Speaker 2
+speaker_2: Got it And one more observation on when we say functions right functions are well defined which maps each input to its outputs right If you look at f is equal to ma So when we talk about these n dimensional functions with parameters which are in billions is that something which is I cant visualize that how that function is going to look like
 
-Got it And one more observation on when we say functions right functions are well defined which maps each input to its outputs right If you look at f is equal to ma So when we talk about these n dimensional functions with parameters which are in billions is that something which is I cant visualize that how that function is going to look like
-
-### Speaker 1
-
-Well you cant I mean because human beings cant visualize anything beyond three dimensions So you cant visualize those functions correct Yeah But you I mean you can imagine functions right that would take a billion dimensional vectors as inputs and gives you a scalar Thats very much possible
+speaker_1: Well you cant I mean because human beings cant visualize anything beyond three dimensions So you cant visualize those functions correct Yeah But you I mean you can imagine functions right that would take a billion dimensional vectors as inputs and gives you a scalar Thats very much possible
 
 
 Right But of course those functions cannot be visualized because you cant we cant visualize as human beings beyond three dimensions Thats thats there
 
-### Speaker 2
+speaker_2: Cheers
 
-Cheers
-
-### Speaker 1
-
-Yeah so now lets come to this point that is how do you allow uncertainty by construction Thats the point Now the first thing that is done is see remember that we had sets right I mean set A the way we called it as
+speaker_1: Yeah so now lets come to this point that is how do you allow uncertainty by construction Thats the point Now the first thing that is done is see remember that we had sets right I mean set A the way we called it as
 
 
 know xi all the observations that we make no x1 x2 all these observations that we make which are the elements from the domain the first thing that is done is now each of these observations are the sets that we look at okay
@@ -1662,44 +1429,26 @@ Is a random experiment Can you visualize taking a picture of a person as a rando
 
 Let me tell you what I mean by this Now imagine that you know you can there are there are there are infinite people that are there right and you taking a particular sensor and shining light on a particular person and measuring the reflectance of that particular person becomes a random experiment Now what is the sample space can somebody tell me what would be the sample space
 
-### Speaker 4
+speaker_4: The same picture can never repeat twice
 
-The same picture can never repeat twice
+speaker_1: No no no Im simply asking what is the sample space Okay so let me just go back to definition So what is sample space
 
-### Speaker 1
+speaker_4: All fixed color value combinations
 
-No no no Im simply asking what is the sample space Okay so let me just go back to definition So what is sample space
-
-### Speaker 4
-
-All fixed color value combinations
-
-### Speaker 1
-
-Sample space is simply the enumeration of all possible outcomes of a random experiment
+speaker_1: Sample space is simply the enumeration of all possible outcomes of a random experiment
 
 
 Now the example right in tossing a coin the headtail are the sample space Enrolling an n phase die the 1 2 3 et cetera n are the sample space Now if you take a picture of a person what is the possible sample space Yeah the persons image
 
-### Speaker 3
+speaker_3: I like the fancy letters
 
-I like the fancy letters
+speaker_2: all pixel combination male female and third gender
 
-### Speaker 2
+speaker_1: No its not that because Im talking about
 
-all pixel combination male female and third gender
+speaker_2: All the people of
 
-### Speaker 1
-
-No its not that because Im talking about
-
-### Speaker 2
-
-All the people of
-
-### Speaker 1
-
-Yeah so its actually Ill write it as person one person two person three And if there are whatever right If you have like lets say seven billion people in this world you have seven billion possible outcomes
+speaker_1: Yeah so its actually Ill write it as person one person two person three And if there are whatever right If you have like lets say seven billion people in this world you have seven billion possible outcomes
 
 
 Can you see this So basically this is the way you are modeling it You understand So now the random experiment that is happening is simply taking a picture okay of a person is a random experiment Its simply like rolling a dice When I see this is the world view that you should slowly develop when you are dealing with machine learning that reading an image from one of these open CV libraries or something is nothing different than tossing
@@ -1749,13 +1498,9 @@ A1 and A2 which are both subsets of R
 
 I tell you what is the relevance of this with sample space in a while but yeah so let me take some uh like opinions here if I have subsets of real numbers how do I compare subsets of real numbers
 
-### Speaker 2
+speaker_2: Maybe what is the common numbers between two sets
 
-Maybe what is the common numbers between two sets
-
-### Speaker 1
-
-Okay so how does how does that how does that tell me uh how I mean anything about these two sets
+speaker_1: Okay so how does how does that how does that tell me uh how I mean anything about these two sets
 
 
 Okay so Ill tell you what do I mean by compare it and I want to I want to ask questions like which one is
@@ -1769,24 +1514,16 @@ or smaller
 
 something of this sort so how do I do that I think people have raised their hands Harsha
 
-### Speaker 4
+speaker_4: Yes sir so one way to compare is uh like if you are able to map each element in this set to another element in the uh other set we are comparing and if we are able to map
 
-Yes sir so one way to compare is uh like if you are able to map each element in this set to another element in the uh other set we are comparing and if we are able to map
-
-### Speaker 1
-
-I cant no I cant because here I cant find a function that would are you saying that I have to find a function that would map elements in set A1 to A2 See again when I say compare right I mean please take this as the question I want to know which one is bigger and which one is smaller
+speaker_1: I cant no I cant because here I cant find a function that would are you saying that I have to find a function that would map elements in set A1 to A2 See again when I say compare right I mean please take this as the question I want to know which one is bigger and which one is smaller
 
 
 You all know the answer to this question but I just want to hear from you Yeah Nirmith
 
-### Speaker 4
+speaker_4: Finding the cardinality of the set
 
-Finding the cardinality of the set
-
-### Speaker 1
-
-Both of these sets have infinite cardinality no these are subsets of real numbers Cardinality of both of these are infinity is it right
+speaker_1: Both of these sets have infinite cardinality no these are subsets of real numbers Cardinality of both of these are infinity is it right
 
 
 You see that in the month Because these are subsets of real numbers So cardinality wont give you anything If its a discrete set of course but its a subset of real numbers cardinality wont help
@@ -1794,21 +1531,13 @@ You see that in the month Because these are subsets of real numbers So cardinali
 
 Okay biology
 
-### Speaker 4
+speaker_4: No so you can find like mean median
 
-No so you can find like mean median
+speaker_1: How does taking me tell you which one is bigger and which one is smaller
 
-### Speaker 1
+speaker_3: We got the
 
-How does taking me tell you which one is bigger and which one is smaller
-
-### Speaker 3
-
-We got the
-
-### Speaker 1
-
-But there are only its a set you understand that its a set no So there are infinite numbers so now how do you take mean of infinite numbers
+speaker_1: But there are only its a set you understand that its a set no So there are infinite numbers so now how do you take mean of infinite numbers
 
 
 See there are infinite elements in both of these sets Does all of you agree with that You can respond with an emoji or something right Does all of you agree that there are infinite numbers in both these sets The cardinality of both these sets are infinity So the average doesnt make sense here I just want to know if you can tell me which one is bigger Thats all Maybe Ill make the question easier right Tell me which one is bigger Okay So lets ask me this Lets ask this question Which one is bigger in these two sets
@@ -1816,32 +1545,20 @@ See there are infinite elements in both of these sets Does all of you agree with
 
 Aditya and by the way when I ask you a question right and when you when you raise your hands to answer I would randomly call out names okay so please dont take uh it otherwise if we I mean when I ask you I mean if there are any questions then Ill go one by one when I ask you questions then I just take random order okay so here is the question the question is which one of these two is bigger Abhiram
 
-### Speaker 4
+speaker_4: If we apply the length measured then the set on the right hand side seems to be bigger
 
-If we apply the length measured then the set on the right hand side seems to be bigger
-
-### Speaker 1
-
-Okay what can you expand that okay lets say use this word measure
+speaker_1: Okay what can you expand that okay lets say use this word measure
 
 
 What do you mean by that Thats exactly where Im coming to
 
-### Speaker 4
+speaker_4: So
 
-So
+speaker_1: You said length measure what is length measure
 
-### Speaker 1
+speaker_4: Yeah length length measure is a function which maps the number of sigma algebras in a set to a number
 
-You said length measure what is length measure
-
-### Speaker 4
-
-Yeah length length measure is a function which maps the number of sigma algebras in a set to a number
-
-### Speaker 1
-
-that you seem to know things so now I didnt talk about sigma algebra yet okay so yeah so yeah what is what is the measure so basically what he is saying is just look at the length of these two sets
+speaker_1: that you seem to know things so now I didnt talk about sigma algebra yet okay so yeah so yeah what is what is the measure so basically what he is saying is just look at the length of these two sets
 
 
 okay so now you represent these two set the i mean the the these two sets on a on a number line so this is 0 to 2 and this is 3 to 8
@@ -1861,13 +1578,9 @@ Does all of you agree
 
 Well if you agree with this right I mean so basically what we are saying is that associate how do you generalize this idea
 
-### Speaker 3
+speaker_3: It is so
 
-It is so
-
-### Speaker 1
-
-Associate okay a scale of a positive function
+speaker_1: Associate okay a scale of a positive function
 
 
 a non zero function
@@ -1944,25 +1657,15 @@ is I write it as capital X which is X1 comma X2 okay this is an element now supp
 
 measure on R2 you people already know this
 
-### Speaker 2
+speaker_2: So the tens cost is one square per extra score
 
-So the tens cost is one square per extra score
+speaker_3: Okay
 
-### Speaker 3
+speaker_4: Okay
 
-Okay
+speaker_2: a magnitude root of x one square plus x two square that can be used to
 
-### Speaker 4
-
-Okay
-
-### Speaker 2
-
-a magnitude root of x one square plus x two square that can be used to
-
-### Speaker 1
-
-Yeah but thats an element right Im talking about a subset If I take a subset of R2 okay see remember that measures are defined on subsets
+speaker_1: Yeah but thats an element right Im talking about a subset If I take a subset of R2 okay see remember that measures are defined on subsets
 
 
 See in R1 what happened We represented every subset as a line segment Okay So now if I write R2
@@ -1970,29 +1673,17 @@ See in R1 what happened We represented every subset as a line segment Okay So no
 
 How are each subsets represented here
 
-### Speaker 4
+speaker_4: areas
 
-areas
+speaker_1: How are these substances represented
 
-### Speaker 1
+speaker_4: rectangles
 
-How are these substances represented
+speaker_1: Thank you very much
 
-### Speaker 4
+speaker_2: 45 48
 
-rectangles
-
-### Speaker 1
-
-Thank you very much
-
-### Speaker 2
-
-45 48
-
-### Speaker 1
-
-yeah then can be it can be any uh uh irregular shape it doesnt matter but for now yeah so this is a subset right a subset in r2 okay now what can be a measure that you already know on subsets of r2
+speaker_1: yeah then can be it can be any uh uh irregular shape it doesnt matter but for now yeah so this is a subset right a subset in r2 okay now what can be a measure that you already know on subsets of r2
 
 
 area of interest
@@ -2003,13 +1694,9 @@ So every subset has a measure called area now
 
 Okay now if you extend this to a d dimensional real space what is the measure
 
-### Speaker 3
+speaker_3: Volume
 
-Volume
-
-### Speaker 1
-
-Theyre volumes right I mean theyre hyper volumes You cant call them volumes theyre hyper volumes So this measure that we know of right which is you know which is length in one dimension area in two dimension and hyper volumes in three dimension it has a name Do you know what the name for this measure is
+speaker_1: Theyre volumes right I mean theyre hyper volumes You cant call them volumes theyre hyper volumes So this measure that we know of right which is you know which is length in one dimension area in two dimension and hyper volumes in three dimension it has a name Do you know what the name for this measure is
 
 
 Does anybody know the name of this measure See there can be this is not the only measure that you can have You see given subsets of any sets you can come up with any measure And theres a definition of measure right Okay that if you have a set with zero cardinality the measure has to be zero So if you have two non overlapping subsets the measures have to add up The measures of the individual subsets has to be equal to the measure of the union of those subsets Okay so these are
@@ -2038,13 +1725,9 @@ Hello am I already going are you dead
 
 Okay uh yeah there are a few questions but no case for me on
 
-### Speaker 2
+speaker_2: the measure
 
-the measure
-
-### Speaker 1
-
-Good question Its by definition See the thing is because we perceive measures as you know something that is that we can compare So we cant compare negative numbers you see We can only compare the positive numbers See if you perceive these things as lengths there cannot be negative length
+speaker_1: Good question Its by definition See the thing is because we perceive measures as you know something that is that we can compare So we cant compare negative numbers you see We can only compare the positive numbers See if you perceive these things as lengths there cannot be negative length
 
 
 I mean its only a convenient definition convenience so the way the measures are defined they have to be non neglected
@@ -2199,25 +1882,15 @@ Theres one other piece that I have to talk about which is the idea of random var
 
 Any questions here
 
-### Speaker 2
+speaker_2: Oh sir if we take the set of all subsets
 
-Oh sir if we take the set of all subsets
+speaker_4: of a set and assign a probability uncertainty for each of those subsets is that what we are talking about about
 
-### Speaker 4
+speaker_1: All right
 
-of a set and assign a probability uncertainty for each of those subsets is that what we are talking about about
+speaker_4: And thats called a sigma algebra right
 
-### Speaker 1
-
-All right
-
-### Speaker 4
-
-And thats called a sigma algebra right
-
-### Speaker 1
-
-Thats the same of course if you just need my library no
+speaker_1: Thats the same of course if you just need my library no
 
 
 If we actually have a signal
@@ -2225,24 +1898,16 @@ If we actually have a signal
 
 Thats also called the event set here because Im not teaching probability theory Im not going deep into this A first course on probability theory should start from this So what you said is correct F is a sigma algebra and the measures are only defined on sigma algebra This is the sigma algebra defined on top of or obtained from the sample space Thats correct
 
-### Speaker 2
+speaker_2: Not just
 
-Not just
-
-### Speaker 1
-
-Uh Harish Gautam see I dont want you to overburden with terminologies you see Ill Im only defining what is absolutely necessary
+speaker_1: Uh Harish Gautam see I dont want you to overburden with terminologies you see Ill Im only defining what is absolutely necessary
 
 
 Arise dont
 
-### Speaker 2
+speaker_2: Uh so is the sample space same as domain
 
-Uh so is the sample space same as domain
-
-### Speaker 1
-
-Not yet okay not yet I will not say that because hold on to that question Thats a very good question I will come to that in a while
+speaker_1: Not yet okay not yet I will not say that because hold on to that question Thats a very good question I will come to that in a while
 
 
 For now I would say no they are not exactly the same See because look at this See if we are looking at taking the picture of a person as the random experiment and we are looking at every person as the outcome right Then where is the domain of the function that we actually talk of See because see what we measure I mean not the measure theory measure I mean English measure what we observe lets say what I observe are real numbers
@@ -2259,24 +1924,16 @@ So now the biggest challenge is which I will talk about in a while is that you n
 
 say okay thats a very good question by the way nice observation yeah have a look
 
-### Speaker 4
+speaker_4: Yeah so how do we extend this notion Like you gave the example that you know if we consider the set of all people as the set of sample space and then if we are assigning uncertainties to certain sets of people
 
-Yeah so how do we extend this notion Like you gave the example that you know if we consider the set of all people as the set of sample space and then if we are assigning uncertainties to certain sets of people
+speaker_1: All subsets all possible subsets All possible subsets Exactly Yeah So you take any possible subset it can be a singleton also in the sense that you can take a particular person and that particular person which happens to be a subset also has a measure associated with it
 
-### Speaker 1
-
-All subsets all possible subsets All possible subsets Exactly Yeah So you take any possible subset it can be a singleton also in the sense that you can take a particular person and that particular person which happens to be a subset also has a measure associated with it
-
-### Speaker 4
-
-All possible subsets of people
+speaker_4: All possible subsets of people
 
 
 Yeah so yeah so my question is that how is this notion is going to help us to figure out whether that particular person is a male or female I mean
 
-### Speaker 1
-
-You have to be
+speaker_1: You have to be
 
 
 Thats a good question well well well see that well see that yeah
@@ -2284,43 +1941,27 @@ Thats a good question well well well see that well see that yeah
 
 Uh yeah I did it
 
-### Speaker 2
+speaker_2: Uh so what I understood the complete theory is based on the correctness of the sample space right now
 
-Uh so what I understood the complete theory is based on the correctness of the sample space right now
+speaker_1: No no hold on hold on hold on No no dont jump What do you mean by correctness of sample space I never defined that
 
-### Speaker 1
-
-No no hold on hold on hold on No no dont jump What do you mean by correctness of sample space I never defined that
-
-### Speaker 2
-
-I mean uh I mean to say that suppose uh the random exa random experiment I am doing defining a sample space and from there we are taking the subsets and all this theory is based on that that is not it now suppose if we dont know the sample space or suppose we are talking about the planet in the universe multiple planets so on those case it is very tough to define a complete sample space right so on those cases if they are a
+speaker_2: I mean uh I mean to say that suppose uh the random exa random experiment I am doing defining a sample space and from there we are taking the subsets and all this theory is based on that that is not it now suppose if we dont know the sample space or suppose we are talking about the planet in the universe multiple planets so on those case it is very tough to define a complete sample space right so on those cases if they are a
 
 
 Parallel line here above probability
 
-### Speaker 1
-
-All those cases is
+speaker_1: All those cases is
 
 
 Okay see in fact we never go to sample space because of this exact reason We never care about sample spaces We only work with random variables Just hold on a minute Ill come to the idea in a while
 
-### Speaker 2
+speaker_2: Yeah
 
-Yeah
+speaker_1: Yeah yeah
 
-### Speaker 1
+speaker_4: So why does it have to uh include every subset of uh yeah I mean
 
-Yeah yeah
-
-### Speaker 4
-
-So why does it have to uh include every subset of uh yeah I mean
-
-### Speaker 1
-
-definition of measure right yeah because thats how we defined it right i mean given any subset it has to assign a value non zero value
+speaker_1: definition of measure right yeah because thats how we defined it right i mean given any subset it has to assign a value non zero value
 
 
 Because think of I mean you look at the Lebesgue measure right you take the real line given any subset of this I want to associate a length with it isnt it
@@ -2328,13 +1969,9 @@ Because think of I mean you look at the Lebesgue measure right you take the real
 
 You get it
 
-### Speaker 4
+speaker_4: Yeah but it need not be pairs right say for example if I consider 0 2 3 ah I mean does it also work on that because so now you have three three elements in that
 
-Yeah but it need not be pairs right say for example if I consider 0 2 3 ah I mean does it also work on that because so now you have three three elements in that
-
-### Speaker 1
-
-Im not sure
+speaker_1: Im not sure
 
 
 no no oh okay okay see its not a subset you see see when you write what do you mean by 0 2 3 is im talking about three element subset yes see 0 2 3 is not a subset of r you should always remember that we are talking about the subset of a given particular set 0 comma 2 comma 3 is not a subset of r
@@ -2342,13 +1979,9 @@ no no oh okay okay see its not a subset you see see when you write what do you m
 
 You see that
 
-### Speaker 4
+speaker_4: It is right Or
 
-It is right Or
-
-### Speaker 1
-
-0 comma 2 comma 3 is it a subset of R the discrete set I mean is it a subset of R single term right I mean if you take two elements you are talking about this
+speaker_1: 0 comma 2 comma 3 is it a subset of R the discrete set I mean is it a subset of R single term right I mean if you take two elements you are talking about this
 
 
 See note that Im not putting square brackets here If I put a square bracket then its a subset Now if I write 0 2 3 is it a subset Let me just confirm
@@ -2365,67 +1998,39 @@ Okay its like this right I mean even if you write this
 
 Do you see that
 
-### Speaker 4
+speaker_4: Yeah so thats where Im confused so when I say a measure of A
 
-Yeah so thats where Im confused so when I say a measure of A
+speaker_1: Amazing
 
-### Speaker 1
+speaker_4: Wouldnt measure of A so I mean
 
-Amazing
+speaker_1: So
 
-### Speaker 4
+speaker_4: what all do we really consider in that a and also if you if you scroll down below
 
-Wouldnt measure of A so I mean
+speaker_1: See it can be any subset See any subset right from the set of real numbers has an associated measure But level measure of this particular singleton or like discrete subsets of R is 0 thats all
 
-### Speaker 1
+speaker_4: If you come to this 2D picture right uh I mean there we said that uh
 
-So
+speaker_1: Yeah if you take the measure if you take the area of a line it is zero
 
-### Speaker 4
+speaker_4: Yeah but in lets stay with this example So when we say that element x1 x2 right I mean its again a point in
 
-what all do we really consider in that a and also if you if you scroll down below
-
-### Speaker 1
-
-See it can be any subset See any subset right from the set of real numbers has an associated measure But level measure of this particular singleton or like discrete subsets of R is 0 thats all
-
-### Speaker 4
-
-If you come to this 2D picture right uh I mean there we said that uh
-
-### Speaker 1
-
-Yeah if you take the measure if you take the area of a line it is zero
-
-### Speaker 4
-
-Yeah but in lets stay with this example So when we say that element x1 x2 right I mean its again a point in
-
-### Speaker 1
-
-Yeah yeah thats why I said no measure is defined on subsets of R2 This is not a subset of it can be a subset of R2 but this is again a set that has zero measure
+speaker_1: Yeah yeah thats why I said no measure is defined on subsets of R2 This is not a subset of it can be a subset of R2 but this is again a set that has zero measure
 
 
 You get it This kind of thing has innovation
 
-### Speaker 4
-
-Thats great Pam
+speaker_4: Thats great Pam
 
 
 Any example where the the measure is non zero
 
-### Speaker 1
+speaker_1: This this thing no this rectangle
 
-This this thing no this rectangle
+speaker_4: Okay so we we choose a region in the uh in in the space and then we associate
 
-### Speaker 4
-
-Okay so we we choose a region in the uh in in the space and then we associate
-
-### Speaker 1
-
-And R be associated Yeah In R2 you take a subset of R2 Okay So its like this Okay Let me write down So this particular set
+speaker_1: And R be associated Yeah In R2 you take a subset of R2 Okay So its like this Okay Let me write down So this particular set
 
 
 1 point 1 comma 2
@@ -2442,45 +2047,25 @@ Welcome to
 
 This has an unzipped machine
 
-### Speaker 4
+speaker_4: Yeah because it defines a rectangle right
 
-Yeah because it defines a rectangle right
+speaker_1: Exactly exactly exactly
 
-### Speaker 1
+speaker_4: And and if you can if you if you go back again to the one dimensional case I think even there we can say the same stuff right So so length is a measure when we define it over a range
 
-Exactly exactly exactly
+speaker_1: No see thats what Im saying See if you take a subset you take any subset the way the measure is defined it doesnt tell you what subset you have to take You take a point here you take three points here okay Thats also a subset of R Now the question is what is the measure of that particular subset The measure of that particular subset is zero thats all It does have a measure but it has zero measure
 
-### Speaker 4
+speaker_4: So you need a kind of an interval to define to get a non zero measure
 
-And and if you can if you if you go back again to the one dimensional case I think even there we can say the same stuff right So so length is a measure when we define it over a range
+speaker_1: Leaving questions Leaving questions Okay
 
-### Speaker 1
+speaker_4: Okay
 
-No see thats what Im saying See if you take a subset you take any subset the way the measure is defined it doesnt tell you what subset you have to take You take a point here you take three points here okay Thats also a subset of R Now the question is what is the measure of that particular subset The measure of that particular subset is zero thats all It does have a measure but it has zero measure
+speaker_1: Leibniz measure is defined that way
 
-### Speaker 4
+speaker_4: Bit of an elbow there
 
-So you need a kind of an interval to define to get a non zero measure
-
-### Speaker 1
-
-Leaving questions Leaving questions Okay
-
-### Speaker 4
-
-Okay
-
-### Speaker 1
-
-Leibniz measure is defined that way
-
-### Speaker 4
-
-Bit of an elbow there
-
-### Speaker 1
-
-In fact in fact the definition of Leibniz measure is so yeah so if you have a if you have a subset of R right which is a closed subset of R then the the the absolute difference between the final element and the initial element is the definition of Leibniz measure
+speaker_1: In fact in fact the definition of Leibniz measure is so yeah so if you have a if you have a subset of R right which is a closed subset of R then the the the absolute difference between the final element and the initial element is the definition of Leibniz measure
 
 
 It is an interval right
@@ -2488,21 +2073,13 @@ It is an interval right
 
 So thats why if you take a discrete set the measure is zero isnt it
 
-### Speaker 4
+speaker_4: If you take individual points yeah if you take individual points the measure is zero but if you take an interval then we have a a valid measure
 
-If you take individual points yeah if you take individual points the measure is zero but if you take an interval then we have a a valid measure
+speaker_1: But it was non zero right
 
-### Speaker 1
+speaker_4: No non zero magic
 
-But it was non zero right
-
-### Speaker 4
-
-No non zero magic
-
-### Speaker 1
-
-See that is why its a very good question See if you have a continuous random variable or a continuous sample space the probability measured for a particular point is zero For instance if we are looking at this particular example right of people the probability associated with one particular person is zero
+speaker_1: See that is why its a very good question See if you have a continuous random variable or a continuous sample space the probability measured for a particular point is zero For instance if we are looking at this particular example right of people the probability associated with one particular person is zero
 
 
 see that its actually like you know finding the Lebesgue measure of a of a point its similar to that so thats why if you have you know if you have studied probability theory before people would say that for a continuous random variable you should not
@@ -2621,13 +2198,9 @@ And do you know what this function is called
 
 Does anyone know what this function is called
 
-### Speaker 2
+speaker_2: Random variable
 
-Random variable
-
-### Speaker 1
-
-Thats the most unfortunate thing that has happened this function X is called a random variable
+speaker_1: Thats the most unfortunate thing that has happened this function X is called a random variable
 
 
 The biggest misnomer of all times So this is
@@ -2701,48 +2274,28 @@ Is this clear
 
 Okay uh questions uh Ragoenta
 
-### Speaker 4
+speaker_4: So this is just one function which maps it right I mean there could be many functions or many random variables defined over the same sample space so exactly
 
-So this is just one function which maps it right I mean there could be many functions or many random variables defined over the same sample space so exactly
+speaker_1: Many random variables defined over the same over the same sample space so
 
-### Speaker 1
+speaker_4: A and in this example say for example uh the l uh the set of persons was our sample space right
 
-Many random variables defined over the same over the same sample space so
+speaker_1: And you can define multiple random variables on top of it
 
-### Speaker 4
-
-A and in this example say for example uh the l uh the set of persons was our sample space right
-
-### Speaker 1
-
-And you can define multiple random variables on top of it
-
-### Speaker 4
-
-I cant
+speaker_4: I cant
 
 
 Yeah for example some gene profile or something of that so so that can also become a a random variable
 
-### Speaker 1
+speaker_1: no no no no no again yeah see there is no physical connotation to random variables you see those functions because uh oh what you are saying is that uh what what we measure may not be um the picture it could be any total
 
-no no no no no again yeah see there is no physical connotation to random variables you see those functions because uh oh what you are saying is that uh what what we measure may not be um the picture it could be any total
+speaker_4: the picture it could be in a totally different domain
 
-### Speaker 4
+speaker_1: Absolutely you measure the height weight of that person that becomes a relevant variable yes
 
-the picture it could be in a totally different domain
+speaker_4: Okay its a mapping from the sample space to real some of some r some real space
 
-### Speaker 1
-
-Absolutely you measure the height weight of that person that becomes a relevant variable yes
-
-### Speaker 4
-
-Okay its a mapping from the sample space to real some of some r some real space
-
-### Speaker 1
-
-Yes yes thats a random variable Now what happens is well the next step is because we have a measure that we have defined on these as the sample space right or the subset of sample space that measure gets translated right into some sort of function under this random variable x also
+speaker_1: Yes yes thats a random variable Now what happens is well the next step is because we have a measure that we have defined on these as the sample space right or the subset of sample space that measure gets translated right into some sort of function under this random variable x also
 
 
 You see what Im saying
@@ -2753,13 +2306,9 @@ Under the random variable the measure that was defined on subset of omega now wi
 
 Look at it
 
-### Speaker 4
+speaker_4: Yes yes
 
-Yes yes
-
-### Speaker 1
-
-Thats called an induced measure and but that measure has a very very famous name that all of you know of that is called the cumulative distribution function
+speaker_1: Thats called an induced measure and but that measure has a very very famous name that all of you know of that is called the cumulative distribution function
 
 
 probability measure that gets translated right via a random variable the induced measure that is defined on what is called as borel sigma algebra the subsets of r are actually called probability distribution functions now the story is complete ill write all that down because you asked im asking im saying the story is that now instead of working with deterministic functions we work with probability measures okay now those probability measures get translated into
@@ -2770,24 +2319,16 @@ distribution functions under random variables Now because we get to see random v
 
 random variable observations from a particular outcome of a random variable estimate the underlying distribution function that is all underlying probability measure actually Ill come to that in a while Okay um such in
 
-### Speaker 4
+speaker_4: Hi sir so uh I I did not understand this range space what what does this exactly mean
 
-Hi sir so uh I I did not understand this range space what what does this exactly mean
-
-### Speaker 1
-
-See a a a function has a domain and a range no
+speaker_1: See a a a function has a domain and a range no
 
 
 The range is this nothing this isnt the domain
 
-### Speaker 4
+speaker_4: Okay for this function this is the domain and this will be the range space
 
-Okay for this function this is the domain and this will be the range space
-
-### Speaker 1
-
-Yeah ranges are PQ
+speaker_1: Yeah ranges are PQ
 
 
 it okay and in this particular example here the the domain is again this this is the domain
@@ -2804,21 +2345,13 @@ What we see are the elements of the range space under this random variable corre
 
 Add it here
 
-### Speaker 2
+speaker_2: So we cannot have a random variable which is non measurable is that statement correct
 
-So we cannot have a random variable which is non measurable is that statement correct
+speaker_1: See non measurable in the sense of uh measurability is it I mean you are talking about the measurability of a particular set are you talking about that Yes
 
-### Speaker 1
+speaker_2: Yes yes
 
-See non measurable in the sense of uh measurability is it I mean you are talking about the measurability of a particular set are you talking about that Yes
-
-### Speaker 2
-
-Yes yes
-
-### Speaker 1
-
-You cant know because
+speaker_1: You cant know because
 
 
 it is the this the because there is already a an underlying measure that is defined on the domain of random variable again please be very very conscious of the fact that random variable is a function so whenever i talk of random variable its a function that im talking about okay now because there is an underlying measure that is uh that is defined that that has been defined on the domain of this random variable okay theres always an induced measure that comes with it and that induced measure itself
@@ -2832,13 +2365,9 @@ See you have defined the probability measure of the sample space already right
 
 Because of that when you define a function on top of that particular set theres always an induced induced measure that comes on along with it
 
-### Speaker 2
+speaker_2: And we have a set which is non measurable meaning there is no
 
-And we have a set which is non measurable meaning there is no
-
-### Speaker 1
-
-Yes there can be I mean this is like its a topic of its own There is this branch called measure theoretic measure theory You had study that And by the way if anyone of you is interested in this kind of a treatment right there is one very good NPTEL course by Professor Krishna Jagannathan Its a good friend of mine from IT Madras So I think introduction to probability for engineers or something thats the course name If you have interest in this kind of treatment of probability theory please have a look at it This is the last
+speaker_1: Yes there can be I mean this is like its a topic of its own There is this branch called measure theoretic measure theory You had study that And by the way if anyone of you is interested in this kind of a treatment right there is one very good NPTEL course by Professor Krishna Jagannathan Its a good friend of mine from IT Madras So I think introduction to probability for engineers or something thats the course name If you have interest in this kind of treatment of probability theory please have a look at it This is the last
 
 
 time that ill be talking about measures and all this okay at the moment we go to distribution functions and density functions well work with density functions i mean i just wanted to make the footing solid right because you know people dont often understand where are these probability density functions coming into picture because when you are given some data and what is data data is simply some 10 000 images or some documents or some speech signals etc the thing is we talk of probability uh
@@ -2864,13 +2393,9 @@ like if you have any comments concerns etc theres always that like anonymous fee
 
 okay so any questions uh on todays content any comments i think sachin has something to say sachin uh yes sir just one question in this context of images so like one image has multiple pixels right now this random variable function which uh like takes a sample space element and converts it into this rpq so like this random variable is will be for the all the pixels of that image or like okay sir i think
 
-### Speaker 4
+speaker_4: Okay
 
-Okay
-
-### Speaker 1
-
-was apparent anyway see we we say that our pq you know what are the what are these pq pq are the dimensions of the image so if youre looking at a 400 cross 200 image p is 400 q is 300 so basically we are saying that every image is a point in a 12 000 dimensional space okay and that becomes the the the range of the rating variable
+speaker_1: was apparent anyway see we we say that our pq you know what are the what are these pq pq are the dimensions of the image so if youre looking at a 400 cross 200 image p is 400 q is 300 so basically we are saying that every image is a point in a 12 000 dimensional space okay and that becomes the the the range of the rating variable
 
 
 Make sense
@@ -2878,32 +2403,20 @@ Make sense
 
 Okay uh anything with Arigato
 
-### Speaker 2
+speaker_2: So maybe just a logistic question the same book like Ian Goodfellow which explains all the theory
 
-So maybe just a logistic question the same book like Ian Goodfellow which explains all the theory
+speaker_1: And see this good film book does not have any of this
 
-### Speaker 1
+speaker_2: Okay okay
 
-And see this good film book does not have any of this
+speaker_1: So see again as I said no this is not a part of the course because you know this is supposed to be some fundamentals but as I said just to ensure that everybody knows whats exactly happening under the hood I do this So next class we will we go to well go to the contents input for us book okay
 
-### Speaker 2
-
-Okay okay
-
-### Speaker 1
-
-So see again as I said no this is not a part of the course because you know this is supposed to be some fundamentals but as I said just to ensure that everybody knows whats exactly happening under the hood I do this So next class we will we go to well go to the contents input for us book okay
-
-### Speaker 2
-
-Okay cheers
+speaker_2: Okay cheers
 
 
 So any books uh if we want to follow along with the lectures
 
-### Speaker 1
-
-before you know is if you see for this particular treatment of probability theory you look at uh professor krishnas lectures this is not needed i mean meaning uh okay i mean if you know this its great right but this this is bare bare bone fundamentals yes after after you know this then uh then we will move on to distribution functions and so on
+speaker_1: before you know is if you see for this particular treatment of probability theory you look at uh professor krishnas lectures this is not needed i mean meaning uh okay i mean if you know this its great right but this this is bare bare bone fundamentals yes after after you know this then uh then we will move on to distribution functions and so on
 
 
 Okay uh person Yeah class is over I mean people can leave here
@@ -2917,25 +2430,15 @@ The Prasanna are you there You want to say something
 
 Perhaps its not there Okay Uh so thank you everyone Uh see you next week Bye bye
 
-### Speaker 2
+speaker_2: Thank you
 
-Thank you
+speaker_3: It should be clear to watch out
 
-### Speaker 3
+speaker_1: Should we create a WhatsApp group Should we create a WhatsApp group
 
-It should be clear to watch out
+speaker_4: How many orders do you have
 
-### Speaker 1
-
-Should we create a WhatsApp group Should we create a WhatsApp group
-
-### Speaker 4
-
-How many orders do you have
-
-### Speaker 1
-
-No
+speaker_1: No
 
 
 Let me just create a whatsapp group and send you the link
@@ -2943,39 +2446,25 @@ Let me just create a whatsapp group and send you the link
 
 Yes
 
-### Speaker 2
+speaker_2: I think someone asked the question that if the
 
-I think someone asked the question that if the
+speaker_4: is images and what would be the range so on continuing on the same question so what kind of probability measure we should consider in that case is it like hyper volume kind of thing
 
-### Speaker 4
-
-is images and what would be the range so on continuing on the same question so what kind of probability measure we should consider in that case is it like hyper volume kind of thing
-
-### Speaker 1
-
-what youre gonna do yeah thats thats the entire question that you ask in machine learning what is the underlying distribution that defines this particular image space nobody knows no thats what we model using neural networks isnt it
+speaker_1: what youre gonna do yeah thats thats the entire question that you ask in machine learning what is the underlying distribution that defines this particular image space nobody knows no thats what we model using neural networks isnt it
 
 
 Didnt see a
 
-### Speaker 4
+speaker_4: So we need to find out that property measure itself
 
-So we need to find out that property measure itself
-
-### Speaker 1
-
-Absolutely because you know if you do that then you have solved the problem isnt it then you know everything about it
+speaker_1: Absolutely because you know if you do that then you have solved the problem isnt it then you know everything about it
 
 
 The entire machine learning is finding out that underlying measure the entire machine learning is finding out the underlying measure
 
-### Speaker 4
+speaker_4: I think its fine
 
-I think its fine
-
-### Speaker 1
-
-Particulate
+speaker_1: Particulate
 
 
 Ill establish that connection in the next class I wanted to do that in this class itself but we ran out of time I underestimated the time that I would take to do all this So Ill do it in the next class Please maybe you can ask that question But anyway Ill start the next class with the answer to that question
@@ -2986,35 +2475,23 @@ I was asking if we have to create uh this thing uh
 
 Whats up group
 
-### Speaker 2
+speaker_2: I think Shibam has created one already sir along I mean including you
 
-I think Shibam has created one already sir along I mean including you
-
-### Speaker 1
-
-Oh that group is there I think no everybody is not there in that group so maybe Shivan can you put it in the in that teams group
+speaker_1: Oh that group is there I think no everybody is not there in that group so maybe Shivan can you put it in the in that teams group
 
 
 I think he is not there yes sir
 
-### Speaker 4
+speaker_4: Yes sir Ill ping the link on the Teams group
 
-Yes sir Ill ping the link on the Teams group
-
-### Speaker 1
-
-Please do it huh
+speaker_1: Please do it huh
 
 
 So that everybody is there I mean I think thats the easiest way to communicate you see some resources etc we can quickly communicate and so on
 
-### Speaker 4
+speaker_4: Yes but it might have a mix of people who have not opted for the course not sure
 
-Yes but it might have a mix of people who have not opted for the course not sure
-
-### Speaker 1
-
-Its okay
+speaker_1: Its okay
 
 
 We are not you know some doing some dark state activities here so fine
@@ -3025,18 +2502,10 @@ And then you can say now that the people who are not enrolled in the course may 
 
 Okay see you next week then Bye bye I think you know this long weekend no its heartening to see that all of you are here for a long weekend
 
-### Speaker 4
+speaker_4: Thank you so much
 
-Thank you so much
+speaker_1: Thank you
 
-### Speaker 1
+speaker_4: Thank you
 
-Thank you
-
-### Speaker 4
-
-Thank you
-
-### Speaker 2
-
-I see what youre saying
+speaker_2: I see what youre saying

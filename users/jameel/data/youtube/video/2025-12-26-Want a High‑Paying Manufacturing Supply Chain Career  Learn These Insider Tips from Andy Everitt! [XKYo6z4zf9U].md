@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-But I dont think that a strict manufacturing sorry engineering background is critical It can be helpful right But I think its just another one of those things I mean youve got to deal with so many people in manufacturing to get stuff done that you know having that ability to communicate and collaborate is just as important or more important I think than a technical background Building a foundation and supply chain to understand the business allows you to do things and to connect with people and to explain things to folks at factories that
+speaker_1: But I dont think that a strict manufacturing sorry engineering background is critical It can be helpful right But I think its just another one of those things I mean youve got to deal with so many people in manufacturing to get stuff done that you know having that ability to communicate and collaborate is just as important or more important I think than a technical background Building a foundation and supply chain to understand the business allows you to do things and to connect with people and to explain things to folks at factories that
 
 
 I dont think you get unless youve had those experiences Because I think its not understood well by people who havent worked at factories is that theres so much going on at a plant that you have to do constantly to keep production running in a safe and you know in a safe safe associate safety quality and food safety and then just you know running the operation that its easy to get to forget that thats the job right and but to be able to experience that and understand how to get things done
@@ -32,9 +30,7 @@ while this operation is going on is critical right I think over time and thats w
 
 The obvious ones which which can be kind of hard to get are the you know tap into the the internal programs in the university get a um get a uh internship most schools and a couple that we work with have a specific kind of a senior level class that is to collaborate with a company like Mars that brings them a real world problem
 
-### Speaker 2
-
-Hello supply chain friends and welcome to another fantastic podcast on my channel and one of the topics which I havent talked about enough on the channel is manufacturing We have talked about procurement we have talked about planning and demand planning and supply planning those kind of skills But manufacturing is a very critical pillar of the supply chain process if you think about the score model also And within manufacturing there are certain areas which are very much connected to supply chain
+speaker_2: Hello supply chain friends and welcome to another fantastic podcast on my channel and one of the topics which I havent talked about enough on the channel is manufacturing We have talked about procurement we have talked about planning and demand planning and supply planning those kind of skills But manufacturing is a very critical pillar of the supply chain process if you think about the score model also And within manufacturing there are certain areas which are very much connected to supply chain
 
 
 instance materials management quality assurance operations management And then there are some areas which are not directly linked to supply chain but they are key enablers like engineering or like maintenance and reliability and so on And in order to talk about that today Ive got someone who has who is probably one of the best people to talk about it because he has not only got a very deep and rich experience on manufacturing he started in that space but then more lately he has
@@ -42,25 +38,15 @@ instance materials management quality assurance operations management And then t
 
 also done some great end to end supply chain roles So I think hes my guest today and we can definitely ask him all the right questions about manufacturing So without further ado I want to welcome Andy Everett on the podcast Hi Andy how are you
 
-### Speaker 1
+speaker_1: Im doing great Jamil How are you doing Thanks for the invite
 
-Im doing great Jamil How are you doing Thanks for the invite
+speaker_2: Awesome Now Im doing great Andy except for the cold weather And I know you are you know suffering from the same thing because you are in Chicago Im in Toronto But you know its one of those things where we dont have a choice I guess
 
-### Speaker 2
+speaker_1: Yes and its early so its just beginning of December weve already got snow on the ground but Im prep Im digging in for another long winter but youre Im sure youre doing the same
 
-Awesome Now Im doing great Andy except for the cold weather And I know you are you know suffering from the same thing because you are in Chicago Im in Toronto But you know its one of those things where we dont have a choice I guess
+speaker_2: Absolutely I am So Andy as we get into this just tell us the viewers a little bit about your journey how you started as an operator at a plant and then made your way to some high senior roles like plant managers and so on
 
-### Speaker 1
-
-Yes and its early so its just beginning of December weve already got snow on the ground but Im prep Im digging in for another long winter but youre Im sure youre doing the same
-
-### Speaker 2
-
-Absolutely I am So Andy as we get into this just tell us the viewers a little bit about your journey how you started as an operator at a plant and then made your way to some high senior roles like plant managers and so on
-
-### Speaker 1
-
-Sure yeah happy to talk about it So Im one of those sort of rare people these days right Ive been with one company Mars for now 33 years right And Ive had the opportunity to do lots of different things including manufacturing right So I spent just about exactly a third of my career in manufacturing but the other roles that we may get into briefly are like one step away right So whether its planning or system implementations or ERP implementations or some of the innovation stuff that Im doing now
+speaker_1: Sure yeah happy to talk about it So Im one of those sort of rare people these days right Ive been with one company Mars for now 33 years right And Ive had the opportunity to do lots of different things including manufacturing right So I spent just about exactly a third of my career in manufacturing but the other roles that we may get into briefly are like one step away right So whether its planning or system implementations or ERP implementations or some of the innovation stuff that Im doing now
 
 
 spent time at three different Mars factories and I think as you kind of alluded to what I think helps give me a lot of perspective is that Ive spent time doing a lot of the sort of direct operational jobs so I was an operator in Burr Ridge many many years ago full disclosure it wasnt that great of an operator right so Im not all that that uh technically inclined but went on to be a um a scheduler there where I was sort of bit by the planning bug but then spent five years in Mattoon where I was an industrial site industrial engineer and then a shift manager with you know lots of great
@@ -71,27 +57,19 @@ there really understanding how manufacturing works how to connect with our assoc
 
 Although were at the same company it gave me a lot of sort of different experiences and things to talk about that I take into every single role Ive had since then
 
-### Speaker 2
+speaker_2: Awesome thats great Now one of the most common questions I get Andy whenever people ask me questions about manufacturing is that common conception out there is that an engineering background is absolutely necessary for you to start in a plant Whats your perspective on that
 
-Awesome thats great Now one of the most common questions I get Andy whenever people ask me questions about manufacturing is that common conception out there is that an engineering background is absolutely necessary for you to start in a plant Whats your perspective on that
-
-### Speaker 1
-
-Uh you know I dont believe that to be the case right I mean I am an industrial engineer by training Um so whether you call me an engineer or not thats kind of up to you right Um but I think its its you know the the comfort around numbers because theres so many numbers and calculations going to manufacturing certainly helps So I think an affinity for that but I dont think that a strict manufacturing uh sorry engineering background is is critical Its it can be helpful right But I think uh its just another one of those things I mean youve got to
+speaker_1: Uh you know I dont believe that to be the case right I mean I am an industrial engineer by training Um so whether you call me an engineer or not thats kind of up to you right Um but I think its its you know the the comfort around numbers because theres so many numbers and calculations going to manufacturing certainly helps So I think an affinity for that but I dont think that a strict manufacturing uh sorry engineering background is is critical Its it can be helpful right But I think uh its just another one of those things I mean youve got to
 
 
 deal with so many people in manufacturing to get stuff done that you know having that ability to communicate and collaborate is just as important or more important I think than a technical background
 
-### Speaker 2
-
-That is so true And this actually you know hits really on the point And one of the pieces I talk a lot about on my channel is that a lot of times people ask me oh Ive done a bachelors Now should I do a masters Should I do like a PhD in supply chain in order to enter the industry And then my common feedback is that supply chain unlike some of the other industries out there is a very experiential industry so the sooner you get real time experience whether its on a factory shop floor or in a warehouse thats more valuable than any degree of course
+speaker_2: That is so true And this actually you know hits really on the point And one of the pieces I talk a lot about on my channel is that a lot of times people ask me oh Ive done a bachelors Now should I do a masters Should I do like a PhD in supply chain in order to enter the industry And then my common feedback is that supply chain unlike some of the other industries out there is a very experiential industry so the sooner you get real time experience whether its on a factory shop floor or in a warehouse thats more valuable than any degree of course
 
 
 course degree certifications do help you um but uh the the experience of actually running the the operations is is very very important uh just one follow up question there and you like i know that there are some engineering specific roles uh inside the plants as well right so for example if youre building a factory or youre doing cvs like commissioning validation those kinds of those kind of roles um just tell us a little bit about those because those are the ones which probably then do require some kind of an engineering background dont they
 
-### Speaker 1
-
-In many cases yes But you know my experience is you know those have gone in terminology from like site industrial engineers to continuous improving managers to tech services right But I think what youre getting at is the roles that really support the operation and drive change whether its new equipment or new processes that are going on And again its very helpful to be able to tap into some more analytical stuff in your background And I think those roles may be more so than like a shift manager or even a
+speaker_1: In many cases yes But you know my experience is you know those have gone in terminology from like site industrial engineers to continuous improving managers to tech services right But I think what youre getting at is the roles that really support the operation and drive change whether its new equipment or new processes that are going on And again its very helpful to be able to tap into some more analytical stuff in your background And I think those roles may be more so than like a shift manager or even a
 
 
 a site manager its nice to have that background So I would put you know its a bit more helpful to have that sort of background when youre in those roles But again you still got to you know to get stuff done and demand has changed and drive change you still got to be able to collaborate And I mean one of the most important things for me is to connect with people on the floor right Because you know theyre typically hardworking people You know maybe this job isnt the biggest thing
@@ -99,13 +77,9 @@ a site manager its nice to have that background So I would put you know its a bi
 
 their life right They want to they want to work hard They want to get the job done and then they want to go home right So but being able to have credibility with them and connect with them and not to think that youre just there to you know put an automation in thats going to take their job away or you know be able to explain how they can whats in it for them to help make their jobs easier is I would say as critical as getting as knowing that technical background if that makes sense
 
-### Speaker 2
+speaker_2: Absolutely And I think you are hitting on some of the very very important points there So thats a great segue into my next question which is you talked about collaboration You talked about getting the stuff done Just maybe to summarize that like what in your opinion and based on your experience are the top three technical skills and then the top three lets call it human skills I dont want to use the word soft skills but it kind of undermines the importance So what are the top three on the technical side and top three on the human side lets say
 
-Absolutely And I think you are hitting on some of the very very important points there So thats a great segue into my next question which is you talked about collaboration You talked about getting the stuff done Just maybe to summarize that like what in your opinion and based on your experience are the top three technical skills and then the top three lets call it human skills I dont want to use the word soft skills but it kind of undermines the importance So what are the top three on the technical side and top three on the human side lets say
-
-### Speaker 1
-
-Well Im not sure if I can come up with three on the technical side but for me and what worked pretty well for me is understanding the operation right is really getting into the details Like for instance I worked in a dry pet food factory I wanted to know when we unloaded you know the grains from when we were putting stuff out the door on the on a onto a truck what the processing was right How what the conveyance the conveyance was because you know everything moves around a lot it gets processed and really to understand how that works
+speaker_1: Well Im not sure if I can come up with three on the technical side but for me and what worked pretty well for me is understanding the operation right is really getting into the details Like for instance I worked in a dry pet food factory I wanted to know when we unloaded you know the grains from when we were putting stuff out the door on the on a onto a truck what the processing was right How what the conveyance the conveyance was because you know everything moves around a lot it gets processed and really to understand how that works
 
 
 And again that sort of crosses over You got to talk to people to do that So thats back to the to the I do like the soft skills Thats probably out of touch to say like that So I would say but a hardcore understanding of the of the operation is helpful was helpful for me because then I could talk intelligently about it right And being able to get get some credibility Another technical one I guess is is you know kind of that engineering thing you were talking about earlier Its going to help you right
@@ -125,16 +99,12 @@ And then you know on the human side again straight back Im gonna hit that collab
 
 feedback right and i want to know how im doing those types of things i tap into to this day in terms of some of the innovation projects were working on that require the operators do things differently i i can kind of put myself back in that that um that role from over 30 years ago
 
-### Speaker 2
-
-Excellent Yeah And you mentioned collaboration and there is something which I want to ask you Andy is about like cross functional collaboration So if you now look back at your journey from lets say from an operator to a plan manager how important do you think has been the knowledge of other functions And not just within the four walls of the factory Im not just talking about reliability maintenance and engineering and all those things but even understanding the business side of things working like with the other part
+speaker_2: Excellent Yeah And you mentioned collaboration and there is something which I want to ask you Andy is about like cross functional collaboration So if you now look back at your journey from lets say from an operator to a plan manager how important do you think has been the knowledge of other functions And not just within the four walls of the factory Im not just talking about reliability maintenance and engineering and all those things but even understanding the business side of things working like with the other part
 
 
 supply chain or even with marketing or sales like how how much of a role it has played in your journey to get to the top position in the plant
 
-### Speaker 1
-
-Yeah its its its a good interesting question right Because I didnt do a lot of career planning right Myself it just kind of worked out that way But uh I started a factory I started two factories and got some great sort of workings of how the factory is how the factory works but youre pretty isolated in a factory right So you kind of hear about things like you know the forecast the changes that now have to run over time And its like you dont understand how that stuff works So I was able to go into some sort of corporate roles and planning and system implementations where I got a lot
+speaker_1: Yeah its its its a good interesting question right Because I didnt do a lot of career planning right Myself it just kind of worked out that way But uh I started a factory I started two factories and got some great sort of workings of how the factory is how the factory works but youre pretty isolated in a factory right So you kind of hear about things like you know the forecast the changes that now have to run over time And its like you dont understand how that stuff works So I was able to go into some sort of corporate roles and planning and system implementations where I got a lot
 
 
 of insight into how we run the business on the demand side and how tough it is for instance to forecast and sell things and so you know being able to leverage that opportunity when i went back to a factory to to provide not only to provide the associates hey this is why were being asked to do this right because you know this is this is what we need to drive the business forward i come back to perspective time and time again is that what i was able to get through you know fortune fortunate roles that i was able to get you know and thats
@@ -142,9 +112,7 @@ of insight into how we run the business on the demand side and how tough it is f
 
 thats the other thing Im sure well touch on right Building a foundation and supply chain to understand the business allows you to do things and to connect with people and to explain things to folks at factories that I dont think you get unless youve had those experiences
 
-### Speaker 2
-
-to you and then uh one theres theres a theres a very im not sure i should i should call it like a disturbing trend but one very common question im getting and this is from very young people uh andy is about i want to establish a career in supply chain but i want to do like a remote job or if somebody has started working in an operation there is a very strong desire to move into like an office desk kind of a position and i have a very strong opinion about it but i want to
+speaker_2: to you and then uh one theres theres a theres a very im not sure i should i should call it like a disturbing trend but one very common question im getting and this is from very young people uh andy is about i want to establish a career in supply chain but i want to do like a remote job or if somebody has started working in an operation there is a very strong desire to move into like an office desk kind of a position and i have a very strong opinion about it but i want to
 
 
 love to hear from you because in my opinion like you learn supply chain on the factory floor or in the warehouse floor uh what what would you want to tell people especially now with in the post ovid environment where a lot of jobs have become remote but i think when it comes to manufacturing and supply chain if youre in your early days its so important to feel and you know be on like thats like one of the one of the principles we see in the in the uh manufacturing space as well as gemba or like go and
@@ -152,9 +120,7 @@ love to hear from you because in my opinion like you learn supply chain on the f
 
 those kind of things how important that is
 
-### Speaker 1
-
-Yeah I mean Im you know I guess I call myself old school right But but you know for me if youre going to work in supply chain that you need to spend time at a factory right Working at a factory right And you know experiencing some of those roles they may not be direct manufacturing roles but to be able physically on site where you understand the cadence and the rhythm because I think its not understood well by people who havent worked at factories is that theres so much going on at a plant that you have to do constantly to keep production running in a safe and
+speaker_1: Yeah I mean Im you know I guess I call myself old school right But but you know for me if youre going to work in supply chain that you need to spend time at a factory right Working at a factory right And you know experiencing some of those roles they may not be direct manufacturing roles but to be able physically on site where you understand the cadence and the rhythm because I think its not understood well by people who havent worked at factories is that theres so much going on at a plant that you have to do constantly to keep production running in a safe and
 
 
 you know in a safe safe associate safety quality and food safety and then just you know running the operation that its easy to get um to forget that thats the job right And but to be able to experience that and understand how to get things done while this operation is going on is critical right Um and then my my next point is that when you are not at a factory but youre working with supply chain and factory people
@@ -165,13 +131,9 @@ you gotta go and see right When opportunity comes up right And so you know somet
 
 gives you perspective and and and you know that same being able to talk the talk that you dont get and i think that what and people understood they can smell that out very quickly right that if you really know like if you can experience or if youre using you know jargon or things like that they know that if youve experienced you know a role or at their time at a factory that that it comes through very quickly and clearly
 
-### Speaker 2
+speaker_2: Got you Now you have spent like more than 30 years in the industry Andy What are some of the key challenges you see people face as theyre trying to move across different roles in their careers Like what are some of the blockers you see people probably put ahead of themselves which kind of hinder their vertical or horizontal growth in an organization
 
-Got you Now you have spent like more than 30 years in the industry Andy What are some of the key challenges you see people face as theyre trying to move across different roles in their careers Like what are some of the blockers you see people probably put ahead of themselves which kind of hinder their vertical or horizontal growth in an organization
-
-### Speaker 1
-
-Well again its gonna sound a little bit like a cranky old man right But I think that putting the time in and building your foundation right is always gonna pay off at the end because theres a everybody wants to get or most people wanna get promoted as soon as possible right And do a maybe more vertical thing But the people that Ive seen really have an impact and really do well have got a foundation right So so whether its do you know doing a
+speaker_1: Well again its gonna sound a little bit like a cranky old man right But I think that putting the time in and building your foundation right is always gonna pay off at the end because theres a everybody wants to get or most people wanna get promoted as soon as possible right And do a maybe more vertical thing But the people that Ive seen really have an impact and really do well have got a foundation right So so whether its do you know doing a
 
 
 at a factory and then going to like like I did to a corporate office and doing some planning or doing some engineering some central engineering or some lean work or even you know further out of the way like youve done you talked about procurement some buying stuff that sort of gets you experience up and down the supply chain maybe a customer facing role right
@@ -182,16 +144,12 @@ I think that just helped that helps right And then you can go back and get that 
 
 that can guide you through this thing about hey this would be a good role for you because there are many different ways you can do it but just staying at one factory and and hoping that you get your bosss job is usually not a very effective tactic right
 
-### Speaker 2
-
-Absolutely Thats great Thanks Thanks Andy And now I want to just switch gears and move a little bit about like what you now see from your vantage point in a global role you know looking at end to end supply chain Of course like AI is a big buzzword right now And I of course you know I keep reminding people each time this topic comes up is that AI is not new to supply chain AI has been around in supply chain from the day we first you know used optical character recognition to scan the first BOLs to
+speaker_2: Absolutely Thats great Thanks Thanks Andy And now I want to just switch gears and move a little bit about like what you now see from your vantage point in a global role you know looking at end to end supply chain Of course like AI is a big buzzword right now And I of course you know I keep reminding people each time this topic comes up is that AI is not new to supply chain AI has been around in supply chain from the day we first you know used optical character recognition to scan the first BOLs to
 
 
 convert them into digital documents So its been around for a while of course it has evolved a lot and now its evolving much faster than before What are some of the common themes you see as we try to like separate the hype from the actual stuff that is going to transform manufacturing in the next lets say five years
 
-### Speaker 1
-
-Yeah I mean lets yeah a couple of themes are gonna be repeating themselves here right Because youre youre right AI or you call it something different You know when I first started in my career I worked with a controls engineer when I was an IE an industrial engineer And we built this thing using an access database which basically just pulled manufacturing data and built hey this is whats going on in the factory based on this is the state that this equipment is in And it was very I didnt really consider it revolutionary at the time but it was a very effective way to figure out how the plant was running and figure out how we can improve it in the efficiency
+speaker_1: Yeah I mean lets yeah a couple of themes are gonna be repeating themselves here right Because youre youre right AI or you call it something different You know when I first started in my career I worked with a controls engineer when I was an IE an industrial engineer And we built this thing using an access database which basically just pulled manufacturing data and built hey this is whats going on in the factory based on this is the state that this equipment is in And it was very I didnt really consider it revolutionary at the time but it was a very effective way to figure out how the plant was running and figure out how we can improve it in the efficiency
 
 
 And over time you know computing power has gone up So we you know rather than taking a snapshot every 10 seconds which is I think what we did then you can do a lot more and you can gather a lot more information But its still you know the same thing And whether you call it advanced analytics which you know Ive been a part of a lot or AI which were doing a lot of work in right now To me its and this is oversimplifying greatly which I have a bad habit of doing but its all about the computing power right Its all about being able to get the information to your fingertips quicker
@@ -211,9 +169,7 @@ Again we talk about the automated worker or the touchless planning or all that s
 
 then you know theres still gonna be work right but you just you need to be part of the of the solution rather than the temptation is to almost be a roadblock right and and just to not sabotage but you know to to not embrace the change because you feel threatened to me thats thats one of the keys to the whole thing
 
-### Speaker 2
-
-Yeah and I just want to go a little bit deeper into that Andy and love to get your perspective right So and I think some of the fear is also driven by and now in the last two years more than ever before there are some real examples in other industries right So for example theres a lot of you can see a lot of job losses happening in the IT industry right now because some of the things which were deemed extremely pivotal a couple of years ago lets say code writing for example a lot of that work is getting
+speaker_2: Yeah and I just want to go a little bit deeper into that Andy and love to get your perspective right So and I think some of the fear is also driven by and now in the last two years more than ever before there are some real examples in other industries right So for example theres a lot of you can see a lot of job losses happening in the IT industry right now because some of the things which were deemed extremely pivotal a couple of years ago lets say code writing for example a lot of that work is getting
 
 
 automated right we were talking about just a couple of years ago we were talking about oh if you want to be good in lets say computer science you need to know python you need now chat gpd is helping you improve your own code right so clearly and then there are some very obvious cases like very highly repetitive jobs uh in in some of the other industries are getting replaced like for example like another classical example is call centers right so uh when you used to have a call center with 100 people now you probably can run it with five because
@@ -224,9 +180,7 @@ data suggests that most people ask like you know 99 of the calls are around thes
 
 for uh warehouses right and this was an interesting conversation like you know and his perspective was that of course someone whose job was just to go and scan a pallet and then move inventory physically like those jobs might be at risk but then you will need people who can now manage lets say a fleet of drones in a warehouse or a fleet of these robots so people will have to upskill themselves but i would love to get your perspective andy on all of this
 
-### Speaker 1
-
-Yeah I mean theres no doubt that technology is going to help automate some in my mind is going to help automate It already does obviously a lot of things in the repetitive work But in you know high speed manufacturing consumer product goods right
+speaker_1: Yeah I mean theres no doubt that technology is going to help automate some in my mind is going to help automate It already does obviously a lot of things in the repetitive work But in you know high speed manufacturing consumer product goods right
 
 
 Its an evolution right Its not gonna be Im snapping my fingers and then somebodys gonna replace me So in between you know replacing a warehouse worker with you know somebody just managing the drones theres a lot of work that and I think what we discover what I discover in a lot of innovation is that humans add so much value at so at so much point trying to understand how they add value so that you can maybe um help make that more efficient I mean theres still a lot of human interaction thats thats needed right So I think over time
@@ -240,13 +194,9 @@ Um
 
 plant just maybe not as much but but again itll be a better job because it will be more impactful on whats happening in the operation and taking that sort of um redundant repetitive uh task away which most people dont like anyway right
 
-### Speaker 2
+speaker_2: Thats true Now just staying on this topic and you like one of one of the common things which we also see once again like you know if I just strictly stick to factories Internet of Things and digital twins lots of discussions have happened Have you seen some good example of how this has been implemented And where do you see like challenges or opportunities with those concepts as we think about those
 
-Thats true Now just staying on this topic and you like one of one of the common things which we also see once again like you know if I just strictly stick to factories Internet of Things and digital twins lots of discussions have happened Have you seen some good example of how this has been implemented And where do you see like challenges or opportunities with those concepts as we think about those
-
-### Speaker 1
-
-Yeah I mean to be honest Ive seen excellent attempts and I think early attempts but a lot of lack of adoption right Because of kind of what weve been talking about earlier right Because the digital twin again is I mean its fun to say right But its not any different than what I was describing earlier and Im sure what youve done with experience at factories right Its just you could call it a simulation you could call it a spreadsheet whatever Its like Im trying to figure out whats going on so that I can help make the actual operation better And if its on a big screen
+speaker_1: Yeah I mean to be honest Ive seen excellent attempts and I think early attempts but a lot of lack of adoption right Because of kind of what weve been talking about earlier right Because the digital twin again is I mean its fun to say right But its not any different than what I was describing earlier and Im sure what youve done with experience at factories right Its just you could call it a simulation you could call it a spreadsheet whatever Its like Im trying to figure out whats going on so that I can help make the actual operation better And if its on a big screen
 
 
 its got flashing lights and it it and thats great i mean its thats progress right but its not that much different um
@@ -269,16 +219,12 @@ So I answered it kind of a negative negatively there right Ive seen stuff work b
 
 Thats great for innovation and for driving change but it also can hold you back right So I think finding that balance is the key And were not very good at accountability in general So just finding the right way not with a stick necessarily but finding the right way to drive accountability to the new processes is critical
 
-### Speaker 2
-
-Right And I think and this is my observation is sometimes like that cross industry knowledge sharing is not that easy within organizations right So finding out like whats the best out there trying to see what has worked what has not worked Like this is something which I feel like conferences sometimes end up becoming like these dog and pony shows more than anything else
+speaker_2: Right And I think and this is my observation is sometimes like that cross industry knowledge sharing is not that easy within organizations right So finding out like whats the best out there trying to see what has worked what has not worked Like this is something which I feel like conferences sometimes end up becoming like these dog and pony shows more than anything else
 
 
 Uh and I guess this is where an opportunity lies that how do we create these external events where people can actually learn and bring back knowledge which can be replicated in the organization easily Whats your thoughts on that
 
-### Speaker 1
-
-Yeah well youre again youre spot on right Ive Ive gone to a lot of fair amount of conferences right Uh Im a I have a license at a very you know visible you know you know uh firm to to do this And what I always push them on to do is what these called peer connects right Is to find the person in the company who is willing to be vulnerable and say this is what worked this did because youre right the conference is usually look at how great we are You know we just did all this stuff And theres some good
+speaker_1: Yeah well youre again youre spot on right Ive Ive gone to a lot of fair amount of conferences right Uh Im a I have a license at a very you know visible you know you know uh firm to to do this And what I always push them on to do is what these called peer connects right Is to find the person in the company who is willing to be vulnerable and say this is what worked this did because youre right the conference is usually look at how great we are You know we just did all this stuff And theres some good
 
 
 stuff in there but I look at that through a very cynical eye because you know youre just basically what are you going to tell people that you failed right but but I think you know understanding peoples learnings along the way is just as critical as understanding their successes right so thats what I always seek out is the people who are willing to talk and you know from some non competitors and the people who are like hey whatever you do dont do this or make sure you do this thats where thats the tremendous value I get in what we at Mars
@@ -289,16 +235,12 @@ talk about is outside in thinking right because traditionally we didnt do that v
 
 whats real and what is somebody just trying to you know impress you
 
-### Speaker 2
-
-Sure Now one question I will ask you Andy and I know you know because you and I had some conversation like in your current role also youve probably looked at like some of the youve been working with some of the universities because a lot of audience on my channel are undergrad students thinking about adopting supply chain as a career profession What would be what in your opinion their strategy should be as they are lets say in their you know their four year program and they want to
+speaker_2: Sure Now one question I will ask you Andy and I know you know because you and I had some conversation like in your current role also youve probably looked at like some of the youve been working with some of the universities because a lot of audience on my channel are undergrad students thinking about adopting supply chain as a career profession What would be what in your opinion their strategy should be as they are lets say in their you know their four year program and they want to
 
 
 to explain the industry itself
 
-### Speaker 1
-
-Well I mean the obvious ones which can be kind of hard to get are that you know tap into the internal programs within the university and get a internship Most schools and a couple that we work with have a specific kind of a senior level class that is to collaborate with a company like Mars that brings them a real world problem right And so we do five or six of those a year right And theyre typically very good We give them a small well defined well scoped project
+speaker_1: Well I mean the obvious ones which can be kind of hard to get are that you know tap into the internal programs within the university and get a internship Most schools and a couple that we work with have a specific kind of a senior level class that is to collaborate with a company like Mars that brings them a real world problem right And so we do five or six of those a year right And theyre typically very good We give them a small well defined well scoped project
 
 
 we see something that could be scaled to Mars that could be really good And then we get but we coach them you know we we give them data but they we expect them to come back with with things So many of them who are not in the workforce I think it opens their eyes because you know just one example as a student as we recall we basically got all the information we needed on a problem and and you know go calculate this and go tell me what the answer is Thats not the case right So so opening students eyes in that case to say well they say I need this data Its like nope sorry
@@ -312,16 +254,12 @@ through your classwork anything because
 
 until you get there until you do that go and see you know its hard Its hard to picture what a manufacturing environment looks like Theres so much variability in it versus what you think I said oh look it just runs all the time and spits out all this stuff Its like no it doesnt You know theres always things that need to be worked on So thats the number one thing is just that gambo like you said
 
-### Speaker 2
-
-Awesome Thats great And then as we come towards the end of the podcast and this is a question I ask almost everyone who I invite as a guest and I think its very relevant to you because you have got such a wealth of experience What would be your advice to lets say your 25 year old self Like you know what are some of the things you would repeat what you did or you would do differently Because I think this the answer to this question generally reveals very good insights for people to action especially who are young professionals
+speaker_2: Awesome Thats great And then as we come towards the end of the podcast and this is a question I ask almost everyone who I invite as a guest and I think its very relevant to you because you have got such a wealth of experience What would be your advice to lets say your 25 year old self Like you know what are some of the things you would repeat what you did or you would do differently Because I think this the answer to this question generally reveals very good insights for people to action especially who are young professionals
 
 
 entering this uh this space
 
-### Speaker 1
-
-Yeah I mean itd be a little repetitive here because again Im very fortunate that I was able to build that foundation right without sort of going vertically but get as many experiences as you can as early as you can right And you know if youre in supply chain and maybe you dont have aspirations to go be a plant manager but youre going to work with people that make stuff all the time get that get that opportunity if you can You know sometimes its hard because you got to do shift work or because you got to move to a place where you dont want to move to
+speaker_1: Yeah I mean itd be a little repetitive here because again Im very fortunate that I was able to build that foundation right without sort of going vertically but get as many experiences as you can as early as you can right And you know if youre in supply chain and maybe you dont have aspirations to go be a plant manager but youre going to work with people that make stuff all the time get that get that opportunity if you can You know sometimes its hard because you got to do shift work or because you got to move to a place where you dont want to move to
 
 
 You gotta balance that with your with your personal and family life But if you get that opportunity I would definitely grab that
@@ -341,13 +279,9 @@ I would that I would say if I was looking back and or somebody and I do work wit
 
 Thats it about it
 
-### Speaker 2
-
-Um Andy its been a pleasure I think some of the questions I dont know you you give very sharp answers and I think but they are like super to the point and very very actionable for the audience I think we covered like most of the stuff that I often get questions around not only about manufacturing but overall about supply chain in general So I think Im sure the audience will will get a lot of benefits from these last 30 minutes of conversations you and I had Thanks for thanks for coming in
+speaker_2: Um Andy its been a pleasure I think some of the questions I dont know you you give very sharp answers and I think but they are like super to the point and very very actionable for the audience I think we covered like most of the stuff that I often get questions around not only about manufacturing but overall about supply chain in general So I think Im sure the audience will will get a lot of benefits from these last 30 minutes of conversations you and I had Thanks for thanks for coming in
 
 
 And really appreciate her time
 
-### Speaker 1
-
-Yeah no problem Jemima I enjoyed it tremendously
+speaker_1: Yeah no problem Jemima I enjoyed it tremendously

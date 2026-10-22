@@ -31,8 +31,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -40,10 +40,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Um so if you had to think like what what has been the main challenge for you in your international experience
 
-Um so if you had to think like what what has been the main challenge for you in your international experience
-
-### Speaker 2 · Speaker 2
-
-The my main challenge Um I think I think it sometimes finding that sense of belonging has been challenged sometimes right So um and I I dont think it has I think language is a is part of it but like its about culture right So um I Im very interested you know I love you know exchanging culture and uh you know and uh have working in a in a in a very international environment is very is a lot of fun right But sometimes you miss that you know that comfort of your own language and culture and and um that yeah and that that has sometimes challenged Its quite challenged right
+speaker_2: The my main challenge Um I think I think it sometimes finding that sense of belonging has been challenged sometimes right So um and I I dont think it has I think language is a is part of it but like its about culture right So um I Im very interested you know I love you know exchanging culture and uh you know and uh have working in a in a in a very international environment is very is a lot of fun right But sometimes you miss that you know that comfort of your own language and culture and and um that yeah and that that has sometimes challenged Its quite challenged right

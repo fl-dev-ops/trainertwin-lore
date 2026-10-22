@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-Tell me about yourself This is a question which is most frequently asked at the start of an interview and how you answer this question can make or break the way the rest of the interview is gonna work Lets say in this case you are applying for an IT manager role in the banking sector and the role requires you to have experience in management problem solving and implementing IT solutions You cannot give a very long winded answer to this question Remember this is a question which is asked at the beginning of the interview so its normally like a conversation starter or just something to get the interview going so if you just give like a five or ten minute answer and its a 30 minute interview of course you know you have lost your interviewer because like you know they just ask for a summary and you have just given them the whole novel thats not the objective so now lets just try to rehearse this and im going to put a timer to see if we can really answer this in two minutes or less hello everyone my name is jameel hai and im an it professional with experience in the banking industry
+speaker_1: Tell me about yourself This is a question which is most frequently asked at the start of an interview and how you answer this question can make or break the way the rest of the interview is gonna work Lets say in this case you are applying for an IT manager role in the banking sector and the role requires you to have experience in management problem solving and implementing IT solutions You cannot give a very long winded answer to this question Remember this is a question which is asked at the beginning of the interview so its normally like a conversation starter or just something to get the interview going so if you just give like a five or ten minute answer and its a 30 minute interview of course you know you have lost your interviewer because like you know they just ask for a summary and you have just given them the whole novel thats not the objective so now lets just try to rehearse this and im going to put a timer to see if we can really answer this in two minutes or less hello everyone my name is jameel hai and im an it professional with experience in the banking industry

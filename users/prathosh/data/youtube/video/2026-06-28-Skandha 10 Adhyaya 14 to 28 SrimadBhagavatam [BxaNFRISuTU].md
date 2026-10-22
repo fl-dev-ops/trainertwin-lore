@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-श्रीशुक उवाच
+speaker_1: श्रीशुक उवाच
 विलोक्य दूषितां कृष्णां कृष्णः कृष्णा हिना विभुः
 तस्या विशुद्धिमन्विच्छन् सर्पन्तमुदवासयत्
 

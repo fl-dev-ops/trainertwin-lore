@@ -33,8 +33,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -42,22 +42,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And I mean how do you get there Like is it like practice is it experience is it self motivation So how do you get to that
 
-And I mean how do you get there Like is it like practice is it experience is it self motivation So how do you get to that
+speaker_2: I think you see I
 
-### Speaker 2 · Speaker 2
+speaker_1: Or is it spontaneous you know like I dont know
 
-I think you see I
+speaker_2: And um also lets also journey back The most important thing is to scout the ground first for everything to me Scout the ground learn stuff about the company or whatever it is When you move to a country learn something about the country When I moved to Ireland I had issues because of that too But one should always scout the ground take a few months there go check the territory start studying a little of the local history and folklore Thatll help on leaving it in a harmony when you move over and that is the same for I think everything when it comes to jobs at places you want to move in Youd have to know where youre going You have to have a plan
 
-### Speaker 1 · Speaker 1
-
-Or is it spontaneous you know like I dont know
-
-### Speaker 2 · Speaker 2
-
-And um also lets also journey back The most important thing is to scout the ground first for everything to me Scout the ground learn stuff about the company or whatever it is When you move to a country learn something about the country When I moved to Ireland I had issues because of that too But one should always scout the ground take a few months there go check the territory start studying a little of the local history and folklore Thatll help on leaving it in a harmony when you move over and that is the same for I think everything when it comes to jobs at places you want to move in Youd have to know where youre going You have to have a plan
-
-### Speaker 1 · Speaker 1
-
-Absolutely Yeah yeah yeah Do your homework Yeah do your homework and
+speaker_1: Absolutely Yeah yeah yeah Do your homework Yeah do your homework and

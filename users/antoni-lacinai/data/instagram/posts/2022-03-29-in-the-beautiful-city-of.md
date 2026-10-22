@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -21,10 +21,7 @@ Wish me luck 🙂
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Soon time to fill this beautiful space. I'm going to talk about hybrid leadership.
-
+speaker_1: Soon time to fill this beautiful space. I'm going to talk about hybrid leadership.
 
 ## Comments (5)
 

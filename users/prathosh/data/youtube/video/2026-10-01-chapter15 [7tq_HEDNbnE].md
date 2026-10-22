@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-अथ पञ्चदशोऽध्यायः
+speaker_1: अथ पञ्चदशोऽध्यायः
 पुरुषोत्तमयोगः
 श्रीभगवानुवाच
 ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्

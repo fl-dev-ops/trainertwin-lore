@@ -36,7 +36,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -44,6 +44,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I I have two two learnings there Um so even though I am not an employed person so um that makes maybe a difference but I know a lot of people who are actually employed And the interesting part is as soon as you go on the international market um it is actually that is um especially when it comes to certifications I dont see a big need for certifications in the English speaking market Um which is a huge market actually Uh because its actually your native market as well because many Germans for example speak English many companies as well these days so you can even you know be employed in Germany as an English speaking person And um that that created this new layer in between where people are actually more looking toward what can you actually do and not what certifications do you have because well there are so many certifications out there you cant trust all of them and theres not really confidence and theres not credibility at all these days so you need to be able to show it
+speaker_1: I I have two two learnings there Um so even though I am not an employed person so um that makes maybe a difference but I know a lot of people who are actually employed And the interesting part is as soon as you go on the international market um it is actually that is um especially when it comes to certifications I dont see a big need for certifications in the English speaking market Um which is a huge market actually Uh because its actually your native market as well because many Germans for example speak English many companies as well these days so you can even you know be employed in Germany as an English speaking person And um that that created this new layer in between where people are actually more looking toward what can you actually do and not what certifications do you have because well there are so many certifications out there you cant trust all of them and theres not really confidence and theres not credibility at all these days so you need to be able to show it

@@ -14,7 +14,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -22,6 +22,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Stay humble and flexible Whatever that works in your country might not work in their country So always be willing to adjust your style and fit the local context And last but not least keep reflecting Every culture every market every challenge is a chance for you to grow
+speaker_1: Stay humble and flexible Whatever that works in your country might not work in their country So always be willing to adjust your style and fit the local context And last but not least keep reflecting Every culture every market every challenge is a chance for you to grow

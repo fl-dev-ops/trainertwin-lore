@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-and right now Im working with uh with an assignment for uh Stockholm public transport company So its quite an interesting experience because you know um I know that my work affects people and I can apply my knowledge to make life everyday life of most of the people in Stockholm region a little bit better and more comfortable
+speaker_1: and right now Im working with uh with an assignment for uh Stockholm public transport company So its quite an interesting experience because you know um I know that my work affects people and I can apply my knowledge to make life everyday life of most of the people in Stockholm region a little bit better and more comfortable

@@ -9,13 +9,13 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 7
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
-  '3': Speaker 3
-  '4': Speaker 4
-  '5': Speaker 5
-  '6': Speaker 6
-  '7': Speaker 7
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
+  speaker_5: null
+  speaker_6: null
+  speaker_7: null
 ---
 
 
@@ -23,34 +23,18 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Thank you Anthony for the brilliant presentation Truly charismatic
 
-Thank you Anthony for the brilliant presentation Truly charismatic
+speaker_2: us then Anthony was very very energetic
 
-### Speaker 2 · Speaker 2
+speaker_3: And today I had the pleasure of listening to Anthony and he managed to deliver a very good speech in a short frame of time
 
-us then Anthony was very very energetic
+speaker_4: So thank you very much It was really lovely having you today
 
-### Speaker 3 · Speaker 3
+speaker_5: Anthony was a highlight for me
 
-And today I had the pleasure of listening to Anthony and he managed to deliver a very good speech in a short frame of time
+speaker_6: his keynote should be watched or seen from everyone I think because communication is a basic part of our daily life
 
-### Speaker 4 · Speaker 4
+speaker_7: And I had the privilege of watching Anthony today He is as always amazing Get in contact with him
 
-So thank you very much It was really lovely having you today
-
-### Speaker 5 · Speaker 5
-
-Anthony was a highlight for me
-
-### Speaker 6 · Speaker 6
-
-his keynote should be watched or seen from everyone I think because communication is a basic part of our daily life
-
-### Speaker 7 · Speaker 7
-
-And I had the privilege of watching Anthony today He is as always amazing Get in contact with him
-
-### Speaker 6 · Speaker 6
-
-He gives great examples He is somebody that you should see I encourage you to pay attention to Anthony
+speaker_6: He gives great examples He is somebody that you should see I encourage you to pay attention to Anthony

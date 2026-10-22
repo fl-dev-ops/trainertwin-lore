@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Have we made them think? The really important thing you've got to do is be able to detect when you have made them think. And when the thinking finishes, that's when it's time for you to ask whatever next you want to ask. So this, this actually ties into the whole thing about silence. You've got to— as a coach, you've got to get really comfortable with silence, because if they're saying nothing, there's a good chance they're thinking. And if they're thinking, you want to leave them there. You don't want to interrupt. This isn't about you.
-
+speaker_1: Have we made them think? The really important thing you've got to do is be able to detect when you have made them think. And when the thinking finishes, that's when it's time for you to ask whatever next you want to ask. So this, this actually ties into the whole thing about silence. You've got to— as a coach, you've got to get really comfortable with silence, because if they're saying nothing, there's a good chance they're thinking. And if they're thinking, you want to leave them there. You don't want to interrupt. This isn't about you.

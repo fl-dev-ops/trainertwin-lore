@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 48:59
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 5 :  Neyman Pearson Classifier
 
 ## Transcript
 
-
-Hello all welcome to this tutorial in
+speaker_1: Hello all welcome to this tutorial in
 which we will be looking at
  one more specific uh
 special group of classifiers

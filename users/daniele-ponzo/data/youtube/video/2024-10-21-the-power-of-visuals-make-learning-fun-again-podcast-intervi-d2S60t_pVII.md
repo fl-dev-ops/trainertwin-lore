@@ -16,7 +16,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Reanne Besa
+  speaker_1: 'Reanne Besa'
 ---
 
 
@@ -24,6 +24,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Reanne Besa
-
-Because I find that people remember visuals more like we think visually and we digest it really faster than text Because for text for example we have to reread it multiple times to understand it But with visual we just have to glance and we understand it already So it really helps you to just you know bring complex ideas to the core and really like dive deep and understand the concept
+speaker_1: Because I find that people remember visuals more like we think visually and we digest it really faster than text Because for text for example we have to reread it multiple times to understand it But with visual we just have to glance and we understand it already So it really helps you to just you know bring complex ideas to the core and really like dive deep and understand the concept

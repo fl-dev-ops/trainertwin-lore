@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-So I thought I am practicing in front of a mirror I am practicing recording myself in a mobile phone What if I can automate that experience and have real time feedback and analytics of my facial expressions of my speech expressions via an AI tool And that led me to the idea of building this product
+speaker_1: So I thought I am practicing in front of a mirror I am practicing recording myself in a mobile phone What if I can automate that experience and have real time feedback and analytics of my facial expressions of my speech expressions via an AI tool And that led me to the idea of building this product
 
 
 We also provide real time feedback to the user so while you are practicing you can see a smiley face or a sad face there and that is our way of of obquing or or triggering the user to change the facial expressions we did some research and I think our research suggested that
@@ -28,16 +26,12 @@ We also provide real time feedback to the user so while you are practicing you c
 
 recruiter or hiring manager loses or in the system the whole system of recruitment the value chain loses about four to eight hundred dollars if an underconfident candidate is rejected
 
-### Speaker 2
-
-Hi friends and welcome to my channel How much can AI help us in preparing for job interviews Im not just talking about chat GPT which is a great tool where you can get answers to a lot of interview questions but Im talking about a more advanced app where you not only get those questions but it also comes with a fantastic AI enabled tool that can help you rehearse for your next job interview and provide you some great feedback on your facial expressions your rehearsal style and so on this app is called confidenceai and is developed by Fasadfair
+speaker_2: Hi friends and welcome to my channel How much can AI help us in preparing for job interviews Im not just talking about chat GPT which is a great tool where you can get answers to a lot of interview questions but Im talking about a more advanced app where you not only get those questions but it also comes with a fantastic AI enabled tool that can help you rehearse for your next job interview and provide you some great feedback on your facial expressions your rehearsal style and so on this app is called confidenceai and is developed by Fasadfair
 
 
 Rose is whom Ill be talking in this podcast Fassad is passionate about innovation entrepreneurship and is on a mission to create a level playing field for all job interview candidates around the world So lets talk to him So first tell us a little bit about the confidenceai the product that you have built and at what moments of lets say an individuals life it can help them So just tell us a little bit about that
 
-### Speaker 1
-
-Yeah so we have conceived Confidence AI as a coach as an AI coach The initial use case we thought and its a coach for people who struggle in with soft skills specifically in high stake social interactions So people who struggle in high stake social interactions the category or the use case we thought of those social interactions or high stake social interactions were job interviews
+speaker_1: Yeah so we have conceived Confidence AI as a coach as an AI coach The initial use case we thought and its a coach for people who struggle in with soft skills specifically in high stake social interactions So people who struggle in high stake social interactions the category or the use case we thought of those social interactions or high stake social interactions were job interviews
 
 
 We started off with use case but of course the technology that we have built have can impact other other use cases as well where high stick social interactions occur Again as I said I started off with this concept of confidence AI based on my my experiences as I moved to Australia and have to reimagine my career in Australia
@@ -48,13 +42,9 @@ a non native english speaker as a migrant as an introvert i had to struggle to s
 
 If I can automate that experience and have real time feedback and analytics of my facial expressions of my speech expressions via an AI tool and that led me to the idea of building this product
 
-### Speaker 2
+speaker_2: Excellent And by the way I actually used that particular feature you just mentioned for SAD which is pretty cool So as you introduced me to the product I downloaded it and I took one of the job interview questions and I practiced it And then at the end of it it gave me some very nice analytics about my facial language my body language and all of that So tell us a little bit about how does that tool work really
 
-Excellent And by the way I actually used that particular feature you just mentioned for SAD which is pretty cool So as you introduced me to the product I downloaded it and I took one of the job interview questions and I practiced it And then at the end of it it gave me some very nice analytics about my facial language my body language and all of that So tell us a little bit about how does that tool work really
-
-### Speaker 1
-
-Um so tool is very simple It there are um there are universal expressions um that are defined by your lip movement your eyebrows your eyes uh movement Um and there are specific points which AI or facial analysis AI track on your face to determine um in probabilistic sense that which expression or emotion is showing on your face So um
+speaker_1: Um so tool is very simple It there are um there are universal expressions um that are defined by your lip movement your eyebrows your eyes uh movement Um and there are specific points which AI or facial analysis AI track on your face to determine um in probabilistic sense that which expression or emotion is showing on your face So um
 
 
 What the tool in our app does is take every frame of that video that is being recorded We can take every frame as well We can take every 10th frame or every 20th frame depending on how much processing is available or how much quality that we want to build in the tool or how much quality is required And we analyze or we let the tool analyze the expression on the face
@@ -77,16 +67,12 @@ a sad smiley would appear on your on your uh during your practice session so its
 
 So thats the hypothesis that we have built into our into our product
 
-### Speaker 2
-
-thats thats thats fantastic and i mean its its its really amazing to see how you can use uh you know the frames and the technology which is available and then you know use the ai algorithms to uh help improve that high stake experience as you mentioned uh does this tool also factor in and this is always a question that comes to my mind because uh ive made so many excuse me made so many videos about this topic and a lot of uh you know candidates send me a lot of questions as well as
+speaker_2: thats thats thats fantastic and i mean its its its really amazing to see how you can use uh you know the frames and the technology which is available and then you know use the ai algorithms to uh help improve that high stake experience as you mentioned uh does this tool also factor in and this is always a question that comes to my mind because uh ive made so many excuse me made so many videos about this topic and a lot of uh you know candidates send me a lot of questions as well as
 
 
 watch their the content um i did make a video some time ago about digital body language right so when you are interviewing uh on in a virtual setting on on skype or teams and those kind of things so does the tool also factor in the fact that you are either interviewing in person or virtually
 
-### Speaker 1
-
-Yeah again the tool has and again it depends on how many parameters of that frame you are analyzing So if you are analyzing just the facial expressions or you are analyzing the movement of head
+speaker_1: Yeah again the tool has and again it depends on how many parameters of that frame you are analyzing So if you are analyzing just the facial expressions or you are analyzing the movement of head
 
 
 how Im my posture so you know you can you can analyze different elements of um the
@@ -97,9 +83,7 @@ uh in that in that image every image of that or every frame of that video the mo
 
 you know we can we can track whether you are wearing glasses um and you know all sort of things but again the more we track or analyze the heavier the app becomes
 
-### Speaker 2
-
-Excellent This is fantastic No I think this is already a very useful tool for the candidates So well done on developing this And Im sure as the technology further evolves and you get a lot of feedback this is going to improve One question which I was thinking about I was as I was browsing through the app itself was I think its very evident that how this helps the candidates How do you think the app in its current shape or maybe you know in the future based on your knowledge about the technology can also help
+speaker_2: Excellent This is fantastic No I think this is already a very useful tool for the candidates So well done on developing this And Im sure as the technology further evolves and you get a lot of feedback this is going to improve One question which I was thinking about I was as I was browsing through the app itself was I think its very evident that how this helps the candidates How do you think the app in its current shape or maybe you know in the future based on your knowledge about the technology can also help
 
 
 recruiters because I know theres a lot of AI enabled lets say application tracking systems now actually Ive made a video about this recently on how these ATS systems are becoming more AI enabled and how the format of the resume that you submit becomes very very important so I think we covered that topic but as this technology on like you know facial expressions and in general that high stake moment of job interviews becomes you know even more
@@ -107,9 +91,7 @@ recruiters because I know theres a lot of AI enabled lets say application tracki
 
 through AI how do you think this technology can help the recruiters
 
-### Speaker 1
-
-Well it it is its its gonna take a lot of load of of recruiters imagine that if after an interview you get a very sophisticated polished report of candidates body language or personality type or you know confidence and and and you know the the recruiter can very well based his or her judgment based on uh on that
+speaker_1: Well it it is its its gonna take a lot of load of of recruiters imagine that if after an interview you get a very sophisticated polished report of candidates body language or personality type or you know confidence and and and you know the the recruiter can very well based his or her judgment based on uh on that
 
 
 report So a lot of investment has already been happening on the B2B or business to business application of this particular technology I initially conceived this to be a B2C application and its still very much the case We are helping users before going to such AI assisted interviews to become familiar with the AI technology itself and practice
@@ -132,16 +114,12 @@ this tool or or on any other tool and then go into this uh um go for interview i
 
 benefit from this too
 
-### Speaker 2
-
-Excellent Thats fantastic And yeah I mean I just want to also reiterate the point you made that recruitment is a very important a very expensive process right A lot of people dont realize this but that is one of the reasons why a lot of times which is you know something which is also a challenge at the same time that a lot of recruitment ends up happening internally especially in bigger companies because Id rather hire someone I know well and take less of a risk with that candidate as compared to going outside And thats why you know networking becomes so important
+speaker_2: Excellent Thats fantastic And yeah I mean I just want to also reiterate the point you made that recruitment is a very important a very expensive process right A lot of people dont realize this but that is one of the reasons why a lot of times which is you know something which is also a challenge at the same time that a lot of recruitment ends up happening internally especially in bigger companies because Id rather hire someone I know well and take less of a risk with that candidate as compared to going outside And thats why you know networking becomes so important
 
 
 because at the end of the day its a very expensive process and you know after like like i just you mentioned after three or four rounds if a candidate is rejected thats already a lot of salaries uh who have been involved in uh vetting through that whole process and that whole money is is gone to waste so thanks for uh sharing that statistic uh facade now one last question i had was that is this app uh available like universally or is it only available in uh certain parts of the world right now
 
-### Speaker 1
-
-No its available on all app stores or Google Play stores universally Yeah so you person sitting in Ghana can download it or person sitting in Canada can download it and use it So its available equally to everyone As I said we its just been launched Its a couple of weeks old So we are not really advertising it So no
+speaker_1: No its available on all app stores or Google Play stores universally Yeah so you person sitting in Ghana can download it or person sitting in Canada can download it and use it So its available equally to everyone As I said we its just been launched Its a couple of weeks old So we are not really advertising it So no
 
 
 marketing budget like you know big budget is is backing this app and one of the reasons is that we want to learn from user feedback before we really you know spend money on growing it so through thank you very much for all the feedback that you have provided it really you know helped helped me to think about this app and and yes through your podcast the people who are connected
@@ -152,9 +130,7 @@ um can also can use the application its as i said theres its free to use its fre
 
 us through our our website um confidenceai is our website where you can find the links for downloading um the application so yeah so right now it is available to everyone um and it is free and um and and we are really looking for user feedback
 
-### Speaker 2
-
-Excellent excellent No thanks Thanks a lot for coming on the show again Faisal And its great to know that this app is universally available because although we are doing this podcast in North America but a lot of my viewers are in India and Pakistan and Bangladesh and a lot of those countries on the other side of the planet So its great that its available universally And Im sure and I really encourage whoever is watching this podcast to use this app and provide us some valuable feedback as well And Im sure like that that
+speaker_2: Excellent excellent No thanks Thanks a lot for coming on the show again Faisal And its great to know that this app is universally available because although we are doing this podcast in North America but a lot of my viewers are in India and Pakistan and Bangladesh and a lot of those countries on the other side of the planet So its great that its available universally And Im sure and I really encourage whoever is watching this podcast to use this app and provide us some valuable feedback as well And Im sure like that that
 
 
 whole moment of a job interview and the process of preparing for an interview is uh is high stakes as Fazal has mentioned and its uh its very nervous emotional process as well and thats why like I Ive made a lot of videos and I continue to intend to make uh even more videos uh on the topic of like you know different job interview questions and now uh with the technologies like the one that Fazal has introduced this is great news uh for all those job candidates out there for all of you all of you because
@@ -165,13 +141,9 @@ how you can also harness the power of technology to maximize your chances to lan
 
 This app also evolves with time we will uh invite you more on this show again
 
-### Speaker 1
-
-Thank you very much Jemil for the invite And I really admire your passion That is the reason that I said yes were coming because our passions are the same We want to change how and that is our vision as well We want to level the playing field for people with which may not have the adequate soft skills required in the corporate world or in the world in general
+speaker_1: Thank you very much Jemil for the invite And I really admire your passion That is the reason that I said yes were coming because our passions are the same We want to change how and that is our vision as well We want to level the playing field for people with which may not have the adequate soft skills required in the corporate world or in the world in general
 
 
 questions in line so Id be Id be glad to to to come to your uh podcast anytime in future as well thank you for the info
 
-### Speaker 2
-
-Absolutely okay thanks a lot for saath
+speaker_2: Absolutely okay thanks a lot for saath

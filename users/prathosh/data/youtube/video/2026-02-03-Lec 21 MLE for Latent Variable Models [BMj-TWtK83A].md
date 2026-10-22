@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 16:08
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 21 MLE for Latent Variable Models
 
 ## Transcript
 
-
-Welcome back to the lecture So the
+speaker_1: Welcome back to the lecture So the
 question is uh maximum likelihood
 estimation for ML estimation for latent
 variable models

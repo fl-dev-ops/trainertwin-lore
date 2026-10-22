@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,17 +19,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: Very first question for you guys would be which is the user effect that will be executed first Sure At least half of you would have not able to answer this properly Okay Hello all Welcome back to Kareem with Vasants YouTube channel My name is Vasant I hope you all doing well This is a very important video where Im going to answer and explain 10 important Reactjs hard difficulty question for freshers So if youre a mid range or a senior developer this is going to be around a moderate difficulty questions for you So despite your experience level this video is going to be very helpful And most of the questions
 
-Very first question for you guys would be which is the user effect that will be executed first Sure At least half of you would have not able to answer this properly Okay Hello all Welcome back to Kareem with Vasants YouTube channel My name is Vasant I hope you all doing well This is a very important video where Im going to answer and explain 10 important Reactjs hard difficulty question for freshers So if youre a mid range or a senior developer this is going to be around a moderate difficulty questions for you So despite your experience level this video is going to be very helpful And most of the questions
+speaker_2: Hello
 
-### Speaker 2
-
-Hello
-
-### Speaker 1
-
-asked here are very thought provoking despite you are using react js in cs you will definitely struggle to answer some of the question that ill ask and these are very important from the interview point of view so please watch the video till the end all the questions ill be answering in detail and if you see me first time on the internet im vasanth i basically help candidates who clear their interview i make interviews about front end and interview preparation okay if youre not subscribed to my channel please subscribe without waiting for the time lets get started so i have created as you can see a simple project and right side i have the browser and i have created all the 10 xss
+speaker_1: asked here are very thought provoking despite you are using react js in cs you will definitely struggle to answer some of the question that ill ask and these are very important from the interview point of view so please watch the video till the end all the questions ill be answering in detail and if you see me first time on the internet im vasanth i basically help candidates who clear their interview i make interviews about front end and interview preparation okay if youre not subscribed to my channel please subscribe without waiting for the time lets get started so i have created as you can see a simple project and right side i have the browser and i have created all the 10 xss
 
 
 ready with me okay lets put the first exercise

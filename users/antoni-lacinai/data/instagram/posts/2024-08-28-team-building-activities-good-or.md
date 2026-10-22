@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Team building activities. Good or bad?
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Team building can be really fun or somewhat painful. I'm in Helsinki, outside of Helsinki right now and I'm tomorrow I will have a full day of leadership communication training for a group of financial executives. But today, this night, we have cooked together. And it's a really fun way to get to know people and teamwork so that we feel that we are one team. What do you do when you want to have a one team feeling?
-
+speaker_1: Team building can be really fun or somewhat painful. I'm in Helsinki, outside of Helsinki right now and I'm tomorrow I will have a full day of leadership communication training for a group of financial executives. But today, this night, we have cooked together. And it's a really fun way to get to know people and teamwork so that we feel that we are one team. What do you do when you want to have a one team feeling?

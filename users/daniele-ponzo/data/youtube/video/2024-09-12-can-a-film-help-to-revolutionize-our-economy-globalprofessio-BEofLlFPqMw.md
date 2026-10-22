@@ -51,7 +51,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -59,6 +59,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Um and thats simply because I think the promises people were made are no longer being fulfilled and thats largely due to the way our economies are being run And if we talk about nature and the environment we know that our economies and Im not even talking about the climate crisis Im talking about everything else too our economies are are wrecking the planet And these two people um I followed for for a few years and who have been making this film about they are fighting the political fight to change our economies
+speaker_1: Um and thats simply because I think the promises people were made are no longer being fulfilled and thats largely due to the way our economies are being run And if we talk about nature and the environment we know that our economies and Im not even talking about the climate crisis Im talking about everything else too our economies are are wrecking the planet And these two people um I followed for for a few years and who have been making this film about they are fighting the political fight to change our economies

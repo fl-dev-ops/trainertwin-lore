@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Yes Mr Client I know it may look like the market has stopped but reality is the market shifted Now people are buying very smart Demand didnt disappear buyers became more selective
+speaker_1: Yes Mr Client I know it may look like the market has stopped but reality is the market shifted Now people are buying very smart Demand didnt disappear buyers became more selective

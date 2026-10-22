@@ -17,7 +17,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -25,6 +25,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-you see I I I think that its very important also to know how to drink because with certain people you need to know how to drink With the English with the Chinese it was incredible I didnt stop drinking white wine they call it Its its a its a like a killer but its 75 degrees of alcohol We went to China in a group I was the oldest one the old guys and everybody needed to drink with me
+speaker_1: you see I I I think that its very important also to know how to drink because with certain people you need to know how to drink With the English with the Chinese it was incredible I didnt stop drinking white wine they call it Its its a its a like a killer but its 75 degrees of alcohol We went to China in a group I was the oldest one the old guys and everybody needed to drink with me

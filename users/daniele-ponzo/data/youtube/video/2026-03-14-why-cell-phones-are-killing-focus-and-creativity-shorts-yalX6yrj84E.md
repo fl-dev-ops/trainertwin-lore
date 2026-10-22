@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,14 +24,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: He goes you know why we dont innovate anymore Because we have cell phones that steal our attention And since we are not bored anymore we cannot see where are the problems that we can solve
 
-He goes you know why we dont innovate anymore Because we have cell phones that steal our attention And since we are not bored anymore we cannot see where are the problems that we can solve
+speaker_2: Yes So we get distracted and we dont focus anymore We dont get bored anymore so we cant create Okay Yes I really like this take
 
-### Speaker 2 · Speaker 2
-
-Yes So we get distracted and we dont focus anymore We dont get bored anymore so we cant create Okay Yes I really like this take
-
-### Speaker 1 · Speaker 1
-
-Exactly Boredom is the key to creation
+speaker_1: Exactly Boredom is the key to creation

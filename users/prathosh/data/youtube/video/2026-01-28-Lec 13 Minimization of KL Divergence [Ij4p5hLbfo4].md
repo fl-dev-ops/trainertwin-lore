@@ -6,14 +6,15 @@ date: '2026-01-28'
 duration: 24:51
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 13 Minimization of KL Divergence
 
 ## Transcript
 
-
-Welcome back So now that we have uh a
+speaker_1: Welcome back So now that we have uh a
 way to
 quantify the distance between the
 density functions or distributions we

@@ -10,7 +10,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,6 +18,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So its hone action And then C is for collaboration so you dont need to do it alone Like we live in an interconnected world so you can find a community you can find someone and ask for feedback You can find a coach You know you can get the the essential part is that you get feedback and that you sort of share the burden
+speaker_1: So its hone action And then C is for collaboration so you dont need to do it alone Like we live in an interconnected world so you can find a community you can find someone and ask for feedback You can find a coach You know you can get the the essential part is that you get feedback and that you sort of share the burden

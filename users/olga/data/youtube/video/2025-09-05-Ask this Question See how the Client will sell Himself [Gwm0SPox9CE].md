@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I will give you the exact structure of what should be in your online presentation at least in the first one so you will be able to kind of channel down the client into his decision making process into closing the deal And my first and foremost favorite the budget The next one decision making process timeframe for investment and the past experience Saying this the most important is why they decided to invest
+speaker_1: I will give you the exact structure of what should be in your online presentation at least in the first one so you will be able to kind of channel down the client into his decision making process into closing the deal And my first and foremost favorite the budget The next one decision making process timeframe for investment and the past experience Saying this the most important is why they decided to invest

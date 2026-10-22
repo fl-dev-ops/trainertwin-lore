@@ -6,14 +6,15 @@ date: '2026-03-12'
 duration: 29:27
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 46 Back Prapogation in RNNs and Vanishing Gradients Problem
 
 ## Transcript
 
-
-Welcome everyone to the class Okay So
+speaker_1: Welcome everyone to the class Okay So
 now we have to look at how to
 perform back propagation uh in in for
 this sort of an architecture So what

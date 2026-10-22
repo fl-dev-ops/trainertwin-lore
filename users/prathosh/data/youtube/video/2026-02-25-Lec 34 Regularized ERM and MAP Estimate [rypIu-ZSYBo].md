@@ -6,14 +6,15 @@ date: '2026-02-25'
 duration: 26:57
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 34 Regularized ERM and MAP Estimate
 
 ## Transcript
 
-
-So the next question is right why should
+speaker_1: So the next question is right why should
 this increase bias Now we said that oh
 this kind of uh regularizer
 regularization is a technique that would

@@ -16,7 +16,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -24,6 +24,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And also you mentioned another great thing which is sports Again a lot of friends a lot of people started connecting through sports So playing five aside football is the best way to go there and meet people Also career wise it helps you know to when you meet people who are maybe like in a different company or they have a good position you you really connect through sports especially football
+speaker_1: And also you mentioned another great thing which is sports Again a lot of friends a lot of people started connecting through sports So playing five aside football is the best way to go there and meet people Also career wise it helps you know to when you meet people who are maybe like in a different company or they have a good position you you really connect through sports especially football

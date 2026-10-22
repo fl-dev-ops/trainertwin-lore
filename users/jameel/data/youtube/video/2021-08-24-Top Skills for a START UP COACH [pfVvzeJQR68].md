@@ -8,9 +8,9 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 3
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
 ---
 
 
@@ -19,16 +19,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-So in this video I spoke to Raheel Bodla who is a startup and success coach based out of California Raheel studied business management at Harvard and then went over to MIT where he did his masters and was then hired by Tesla where he worked on the Model X line He then went ahead and started his own consulting business where he has so far provided success coaching to a wide variety of companies across Asia Middle East and North America and has helped business grow by as much as four times their original size
+speaker_1: So in this video I spoke to Raheel Bodla who is a startup and success coach based out of California Raheel studied business management at Harvard and then went over to MIT where he did his masters and was then hired by Tesla where he worked on the Model X line He then went ahead and started his own consulting business where he has so far provided success coaching to a wide variety of companies across Asia Middle East and North America and has helped business grow by as much as four times their original size
 
 
 Thats quite impressive isnt it So I asked Raheel two simple questions First one was what are the technical skills or hard skills to be a good startup coach And then what are the top soft skills to be successful in this space Lets find out what he said
 
-### Speaker 2
-
-So this would be actually seven different areas that we cover or that I would advise any business owner or startup founder to go through this framework Like for example having that clarity of the business plan where we are today whether we are starting a business from scratch or where we are today to where we want to go how we are positioning the product or service like how Im positioning myself as a business owner or a startup founder and also how Im positioning my product and service
+speaker_2: So this would be actually seven different areas that we cover or that I would advise any business owner or startup founder to go through this framework Like for example having that clarity of the business plan where we are today whether we are starting a business from scratch or where we are today to where we want to go how we are positioning the product or service like how Im positioning myself as a business owner or a startup founder and also how Im positioning my product and service
 
 
 in the eyes of my potential clients or anyone that I interact with how we are doing over marketing sales operation finance and customer success so with mindset and strategies a lot of work that we do and this is what I would suggest and would love to share with the audience that if youre a business owner or if youre a startup founder these are the seven areas that I would highly suggest you to go through and develop your skills in that like had an opportunity to work with
@@ -36,17 +32,11 @@ in the eyes of my potential clients or anyone that I interact with how we are do
 
 CEOs of big companies and or small companies or startups then if I would say that I have I can do the marketing part but its definitely difficult for me for me to understand finance to go through the numbers these are the seven skills I need to be a CEO of the company I would be just like Elon Musk he does the marketing and sales for his company he has a lot of depth and the breadth to lead the company in all these seven dimensions so this is what I would love to share with you
 
-### Speaker 1
+speaker_1: So
 
-So
+speaker_3: So just you know tell me a little bit about as you started your journey as a success coach and thanks a lot for sharing this whole structure right Which was the most difficult area for you to become an expert on Because you know if somebody wants to follow your footsteps and they want to you know pursue a career similar to yours what would you advise them in this with regards to this particular skill set
 
-### Speaker 3
-
-So just you know tell me a little bit about as you started your journey as a success coach and thanks a lot for sharing this whole structure right Which was the most difficult area for you to become an expert on Because you know if somebody wants to follow your footsteps and they want to you know pursue a career similar to yours what would you advise them in this with regards to this particular skill set
-
-### Speaker 2
-
-Thank you Jamil Thats so interesting The hardest area for me was let me go back to the journey Out of the 20 years of work experience 17 years were basically starting within engineering and different areas of business management like supply chain management project management operation lean six sigma So however these three years the last three years that I did in sales that was a very humbling experience for me
+speaker_2: Thank you Jamil Thats so interesting The hardest area for me was let me go back to the journey Out of the 20 years of work experience 17 years were basically starting within engineering and different areas of business management like supply chain management project management operation lean six sigma So however these three years the last three years that I did in sales that was a very humbling experience for me
 
 
 Understand that Raheel you are going through a lot of that engineering analysis paralysis and it does not apply in sales In sales its for me to connect heart to heart to understand what the client is looking for And these were like not different products or services These were millions of dollars of products that I was selling and got a very good opportunity to be a supplier of Tesla through that startup company
@@ -75,6 +65,4 @@ People are going to forgive and forget what we said but they will never forgive 
 
 So thats thats something that Ive done a lot that I learned through my Humbling experiences through which I understood that I knew nothing about heart mind heart and thats what we do with the business owner startup founders And that is something I would love to share because that gave us the traction and gave us the results in what were trying to do and what we were looking for
 
-### Speaker 1
-
-So I hope you enjoyed this video If there are other professions you want to learn more about or there are other soft skills you have questions on feel free to reach out to me on LinkedIn TikTok Instagram or Facebook Thanks for watching
+speaker_1: So I hope you enjoyed this video If there are other professions you want to learn more about or there are other soft skills you have questions on feel free to reach out to me on LinkedIn TikTok Instagram or Facebook Thanks for watching

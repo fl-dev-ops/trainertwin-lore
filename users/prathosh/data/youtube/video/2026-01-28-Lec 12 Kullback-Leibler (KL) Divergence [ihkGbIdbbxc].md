@@ -6,14 +6,15 @@ date: '2026-01-28'
 duration: 16:49
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 12 Kullback-Leibler (KL) Divergence
 
 ## Transcript
 
-
-Welcome back Now remember what our
+speaker_1: Welcome back Now remember what our
 objective was or our objective was to
 quantify
 the distance between a pair of

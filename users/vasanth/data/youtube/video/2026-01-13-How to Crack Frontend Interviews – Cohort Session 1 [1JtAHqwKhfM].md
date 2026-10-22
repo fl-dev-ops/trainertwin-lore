@@ -8,10 +8,10 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 
@@ -20,16 +20,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello all welcome back to Kedari with Person QD channel and some of you know like Im starting a cohort and today was the day one of my cohort followed by my video youre going to see the complete cohort recording So I thought of making the first one video public so that you know how the cohort works how the people are interacting how we are building the things together how it is helping the interview process As at the session one there is one chance if you still want to be part of the cohort we have like around five slots left and you could message us on the number shown on the screen also in the description section on the WhatsApp If youre still interested
+speaker_1: Hello all welcome back to Kedari with Person QD channel and some of you know like Im starting a cohort and today was the day one of my cohort followed by my video youre going to see the complete cohort recording So I thought of making the first one video public so that you know how the cohort works how the people are interacting how we are building the things together how it is helping the interview process As at the session one there is one chance if you still want to be part of the cohort we have like around five slots left and you could message us on the number shown on the screen also in the description section on the WhatsApp If youre still interested
 
 
 Said you can part of the cohort otherwise still you can watch the first content for free thank you so much watch the rest of the content
 
-### Speaker 2
-
-So this uh how lets me let me first talk about how this session is going to be As you all know roughly the session duration is up for two hours So to begin with what were gonna do is well spend around 15 20 minutes about introduction of the cohort and about the introduction of all the participants here Followed by basically well be getting started and theres a concept for the today will be like a JavaScript execution context and the runtime environment Well be covering that In the middle of the session theres gonna be one quiz and after the session you will be shared with a few questions as well
+speaker_2: So this uh how lets me let me first talk about how this session is going to be As you all know roughly the session duration is up for two hours So to begin with what were gonna do is well spend around 15 20 minutes about introduction of the cohort and about the introduction of all the participants here Followed by basically well be getting started and theres a concept for the today will be like a JavaScript execution context and the runtime environment Well be covering that In the middle of the session theres gonna be one quiz and after the session you will be shared with a few questions as well
 
 
 the preparation okay so without wasting further time lets get started if there is any problem of video audio in middle you have to unmute yourself and you can help me okay let me share my screen
@@ -178,35 +174,23 @@ then we would end the execution Okay If you look at the execution flow A is push
 
 as I told JavaScript engine has memory heap call stack garbage collector event loop in regarding the these side things like web API event loop this Im going to discuss in a while now just now we discuss this part okay JavaScript engine has two parts memory engine and call stack these two things I suppose you guys are clear
 
-### Speaker 3
+speaker_3: So our sense here in the VT engine so the compiler and interpreter are part of that engine right
 
-So our sense here in the VT engine so the compiler and interpreter are part of that engine right
-
-### Speaker 2
-
-Correct
+speaker_2: Correct
 
 
 Yeah so everything these two things are part of engine See one thing I want to make a differentiating thing right Engine and browser are different I know all of you know but Im just making it very explicit Browser does so many things and engine is a part of that also Its not browser is not only responsible for running the JavaScript
 
-### Speaker 3
+speaker_3: Okay so first the all code in our function line by line got executed right and then it got compiled
 
-Okay so first the all code in our function line by line got executed right and then it got compiled
-
-### Speaker 2
-
-thats a good question actually so there are like two different ways to look at it uh i did not get your name im sorry
+speaker_2: thats a good question actually so there are like two different ways to look at it uh i did not get your name im sorry
 
 
 is asking now so there are like quite a few different ways to look at it as i told javascript is not by default from the definition point of view it is neither interpreted nor compiled
 
-### Speaker 3
+speaker_3: Im vision Im vision
 
-Im vision Im vision
-
-### Speaker 2
-
-there used to be a definition which i saw on mdn very long back which said said it was interpreted now they dont officially say it is an interpreted sort of a language so it all depends on how engine want to process the language like if you see like modern whenever youre coding now vs code or any other engines right if you create if you try to create a variable and dont use try to use it before that we get warnings now on that way uh like now the engines are the whatever the ids that are being they are quite brilliant so javascript right now depends
+speaker_2: there used to be a definition which i saw on mdn very long back which said said it was interpreted now they dont officially say it is an interpreted sort of a language so it all depends on how engine want to process the language like if you see like modern whenever youre coding now vs code or any other engines right if you create if you try to create a variable and dont use try to use it before that we get warnings now on that way uh like now the engines are the whatever the ids that are being they are quite brilliant so javascript right now depends
 
 
 on how engine is executing them so it is very difficult to call an interpretation the reason being there is two phase of execution as you all know one is a memory allocation phase another one is the actual execution so if something that executed like this then certainly it is not getting interpreted but what i think there could be certain engines where if they want to make a javascript as an interpreted language its possible to do that some languages cannot be interpreted at all for example languages like c or c plus plus those are always compiled languages javascript
@@ -214,21 +198,13 @@ on how engine is executing them so it is very difficult to call an interpretatio
 
 If engines want them to be interpreted it can be interpreted If engines want them to be compiled they can be compiled So these engines are written in the pursuit of the product Like for example if we had which is a Chromes engine whatever is best required for them or however they want to use the language thats the way they are executing it or using it
 
-### Speaker 3
+speaker_3: So is it diff uh is it different in different different engines or the same structure or behavior they have
 
-So is it diff uh is it different in different different engines or the same structure or behavior they have
+speaker_2: Today all the modern engines that I gave ago like V8 Chakra and other engines they all actually compile your code So because of it if there are any issues or something theyll be able to detect earlier only So theres no line by line execution happening here
 
-### Speaker 2
+speaker_3: They directly we compiled our code
 
-Today all the modern engines that I gave ago like V8 Chakra and other engines they all actually compile your code So because of it if there are any issues or something theyll be able to detect earlier only So theres no line by line execution happening here
-
-### Speaker 3
-
-They directly we compiled our code
-
-### Speaker 2
-
-Perfect exactly yes
+speaker_2: Perfect exactly yes
 
 
 So now the temperament I was talking right Like the why temperament At this point in time is any question coming to your mind Definitely Well discuss further about web APIs and other things At this point in time any why like why we are doing something any why come to your mind Like you can be stupid here because its a very small group of people and nobodys here to judge anything because everybody is in pursuit of basically going to the next level So if any why came to your mind youre free to tell me
@@ -242,43 +218,27 @@ Any why like why they are doing like this or any any any questions around that a
 
 You could unmute yourself and talk if there anything
 
-### Speaker 4
+speaker_4: So wasnt what is the advantage of either compiled or interpreted is there any
 
-So wasnt what is the advantage of either compiled or interpreted is there any
+speaker_2: Interpreter is fast
 
-### Speaker 2
+speaker_4: The interpreter is
 
-Interpreter is fast
-
-### Speaker 4
-
-The interpreter is
-
-### Speaker 2
-
-If you look interpretation is always faster than the compilation because its a line by line execution right If you open any old Python IDs where you could just write a code and whenever you write the next line that execution will complete So interpretation is faster But the problem is on a production grid application right The interpretation is not easier because you have a lot of code block right And every time you will not be able to run line by line Also what if there is some issue in some part of the code like syntactical issues or something like that
+speaker_2: If you look interpretation is always faster than the compilation because its a line by line execution right If you open any old Python IDs where you could just write a code and whenever you write the next line that execution will complete So interpretation is faster But the problem is on a production grid application right The interpretation is not easier because you have a lot of code block right And every time you will not be able to run line by line Also what if there is some issue in some part of the code like syntactical issues or something like that
 
 
 So compilation makes your your overall code like much more safer for the production deployment So if you ask my opinion if I build an engine today for JavaScript I will make it like compiled sort of a one not the interpretation one
 
-### Speaker 4
+speaker_4: Okay go ahead
 
-Okay go ahead
-
-### Speaker 2
-
-Suitable interpretation suitable for smaller like its not like it is really unsuitable for bigger application but with mind leave interpretation is very ideal for smaller apps
+speaker_2: Suitable interpretation suitable for smaller like its not like it is really unsuitable for bigger application but with mind leave interpretation is very ideal for smaller apps
 
 
 Any questions on this This question was also good but anything that came to your mind why we are doing something here
 
-### Speaker 3
+speaker_3: So uh so as we know that JavaScript is a single threaded and synchronous language why that is actually
 
-So uh so as we know that JavaScript is a single threaded and synchronous language why that is actually
-
-### Speaker 2
-
-Synchronous single thread yeah single threaded is more like the design principle uh there is no answer to thats the good question that came to your mind and the answer that luckily i know the answer i could tell so sing making a javascript single thread is basically the whoever invented it right im not getting the name who are invented that is basically learning from the different languages that they have if you even if you go and talk to any of your java developer or you by yourself know java multi threading even today in java is not that very friendly concept for themselves
+speaker_2: Synchronous single thread yeah single threaded is more like the design principle uh there is no answer to thats the good question that came to your mind and the answer that luckily i know the answer i could tell so sing making a javascript single thread is basically the whoever invented it right im not getting the name who are invented that is basically learning from the different languages that they have if you even if you go and talk to any of your java developer or you by yourself know java multi threading even today in java is not that very friendly concept for themselves
 
 
 And end of the day if you see the processor like whatever the processor is there that is remained the same how many other threads you create right So it is the the inventors thought that having a single threaded and giving it an asynchrony by different ways will make the performance and other things faster Thats the thought process of making it a single threaded language Or the synchronous language again I think most languages are synchronous by nature If youre whether you look at Java CC plus plus all the languages are synchronous by nature JavaScript is also synchronous
@@ -286,21 +246,13 @@ And end of the day if you see the processor like whatever the processor is there
 
 by nature but as it is single threaded to give an asynchrony they come up with quite a few other things like web APIs and browser capabilities and all of that
 
-### Speaker 3
+speaker_3: Okay and thats observing that single thread we need to uh we need to uh verify the cost tag
 
-Okay and thats observing that single thread we need to uh we need to uh verify the cost tag
+speaker_2: Yeah so yeah that is maybe the next topic so because theres a single thread there it can execute only from one point right it will not be able to multiple insert one so everything in the call stack is only what get executed yeah
 
-### Speaker 2
+speaker_3: Okay
 
-Yeah so yeah that is maybe the next topic so because theres a single thread there it can execute only from one point right it will not be able to multiple insert one so everything in the call stack is only what get executed yeah
-
-### Speaker 3
-
-Okay
-
-### Speaker 2
-
-Okay in the interest of time see if I were to look at this the call stack explanation right First question that I would ask may not be the day one of when I started learning JavaScript but now with little bit of experience if I look at it the first question that I would ask is why the call stack is a stack Okay as you all know stack is a data structure I told its an arrangement of things like a plate Its a last in first out Why not some other data structure Why not its a linked list Why not its a tree Correct Why it is stack
+speaker_2: Okay in the interest of time see if I were to look at this the call stack explanation right First question that I would ask may not be the day one of when I started learning JavaScript but now with little bit of experience if I look at it the first question that I would ask is why the call stack is a stack Okay as you all know stack is a data structure I told its an arrangement of things like a plate Its a last in first out Why not some other data structure Why not its a linked list Why not its a tree Correct Why it is stack
 
 
 Ill answer in a while but when you look at it tomorrow you should also like start getting things like this in in your mind so thats the reason Im saying why we are using stack as a data structure basically for uh executing okay and maybe one of the common uh one of the common thing that I get also is lets say there are two consolelog statements okay consolelog hello one and hello two Ill ask candidates like how how actually this executed with the help of them uh with the help of call stack they would say like consolelog one
@@ -341,13 +293,9 @@ by using this queue microtask Another one is a mutation observer is a built in J
 
 Macro task queue are set timeout set interval and DOM image Micro tasks are always executed before the macro task So this is about the micro task queue and the macro task queue We are going to discuss about the event loop So far we have finished the call stack web API micro task queue and macro task queue Are there any questions on the queue part
 
-### Speaker 3
+speaker_3: So here I wasnt while explaining the loop in the interview actually so do we need to uh just need to give example or interview give us the example and we need to uh draw something like this or we just need to explain which one execute first which one is within the two
 
-So here I wasnt while explaining the loop in the interview actually so do we need to uh just need to give example or interview give us the example and we need to uh draw something like this or we just need to explain which one execute first which one is within the two
-
-### Speaker 2
-
-Yes yes I think the most common example will be in the interview around the event loop I suppose some of you might have been asked this in the interview is like line number one consolelog line number two is a set timeout Line number three is a consolelog All right The interviewer would ask how these three statements would execute Like the consolelog where does it go How does it execute Then the second statement which is a set timeout Where does it go How does it execute And the third statement Are you required to draw No nobody would ask you
+speaker_2: Yes yes I think the most common example will be in the interview around the event loop I suppose some of you might have been asked this in the interview is like line number one consolelog line number two is a set timeout Line number three is a consolelog All right The interviewer would ask how these three statements would execute Like the consolelog where does it go How does it execute Then the second statement which is a set timeout Where does it go How does it execute And the third statement Are you required to draw No nobody would ask you
 
 
 draw if you can explain the components what are the important components and how they work thats all theyll be looking for but the more nuances you would add and try to explain it in depth the more points that you would get like instead of you saying like it simply goes into call stack microtasking microtask queue if you can explain quite in depth thats all the interviewer would look for no need to draw
@@ -364,48 +312,34 @@ event loop itself Like what I want to say is its not like event loop this entire
 
 So there are some tasks in stack there are some tasks in the like micro task queue and some tasks in the macro task queue So if you have to explain me the execution order right how it will execute Anybody wants to answer that You would unmute you you can unmute yourself and you can answer Lets say as the same example I gave right consolelog set timeout consolelog which goes where and how they get executed Or you could also answer the way how the things in stack executed how the things in queue and how the loop would repeat Anybody can unmute and answer
 
-### Speaker 3
+speaker_3: Sorry uh person can you um repeat the question again Yes
 
-Sorry uh person can you um repeat the question again Yes
-
-### Speaker 2
-
-So my question is event loop as a concept as you all know there are certain things in stack certain things in web API certain things happen in microtask and microtask queue right There is sequence of tasks that are continuously executed Like some are executed on stack some will be picked from queue microtask queue and microtask queue My question is what is the way how each event loop would work Like which is executed first which is executed next How does the loop repeat Anybody know that That is my question
+speaker_2: So my question is event loop as a concept as you all know there are certain things in stack certain things in web API certain things happen in microtask and microtask queue right There is sequence of tasks that are continuously executed Like some are executed on stack some will be picked from queue microtask queue and microtask queue My question is what is the way how each event loop would work Like which is executed first which is executed next How does the loop repeat Anybody know that That is my question
 
 
 Yeah she could please go ahead
 
-### Speaker 1
-
-tool commands
+speaker_1: tool commands
 
 
 All the signals are coming from the pulse radar
 
-### Speaker 3
-
-and then okay and how does incorporating it and theres uh like the things from the web based like Im on
+speaker_3: and then okay and how does incorporating it and theres uh like the things from the web based like Im on
 
 
 And we would be get uh it would be for this promise
 
-### Speaker 2
-
-operations
+speaker_2: operations
 
 
 gets completed
 
-### Speaker 3
-
-empty or not so if at all there is anything pending in the microtask queue not even to bring those particular things in an order to call stack so once this microtask queue gets empty now it would be ticking the macro task queue and then it would be executing in an otherwise like in a p for first in first out otherwise from the microtask queue it would be moving to call stack and the things would be getting executed so from the question like a sample question right it would be get first executing the console log and the when it identifies the particular set timeout it would be going to the
+speaker_3: empty or not so if at all there is anything pending in the microtask queue not even to bring those particular things in an order to call stack so once this microtask queue gets empty now it would be ticking the macro task queue and then it would be executing in an otherwise like in a p for first in first out otherwise from the microtask queue it would be moving to call stack and the things would be getting executed so from the question like a sample question right it would be get first executing the console log and the when it identifies the particular set timeout it would be going to the
 
 
 particular micro micro task queue after a particular n seconds mentioned so it would be staying in the web case section for the n seconds it would be mentioned then after that would be going to the micro task queue and if in the meantime if we uh recognize any other synchronous operation in the call stack it would be executing once it is empty then it would be moving the particular set time out console log from the micro task queue to call stack uh queue and it would be executing that person
 
-### Speaker 2
-
-Thats correct Shaker So thats a small thing I mean again you could answer and anybody else can also answer See as you told everything in cost tag is executed Then there are certain things in microtask queue and microtask queue which needs to be executed Both have something What is the order in which they picked Definitely microtask has a priority and microtask has lesser priority How these are picked
+speaker_2: Thats correct Shaker So thats a small thing I mean again you could answer and anybody else can also answer See as you told everything in cost tag is executed Then there are certain things in microtask queue and microtask queue which needs to be executed Both have something What is the order in which they picked Definitely microtask has a priority and microtask has lesser priority How these are picked
 
 
 Propagating
@@ -413,70 +347,42 @@ Propagating
 
 Now these are picked as in like stack is once the stack is empty till the stack is empty we will not like the event loop will not check for anything correct But the stack should become empty once after the stack is empty So we go to the microtask queue How we execute microtask queue Well be execute all the things in microtask queue or we execute only one and then go to call stack again Then we go to the microtask queue how it would work
 
-### Speaker 3
+speaker_3: I guess its really going one after one I guess like all at once into console thats what my assumption is but Im not aware of this particular thing as of now so what I imagine
 
-I guess its really going one after one I guess like all at once into console thats what my assumption is but Im not aware of this particular thing as of now so what I imagine
+speaker_2: So anybody else wants to answer this I think my question is clear Somebody Harshita do you want to answer Yeah
 
-### Speaker 2
-
-So anybody else wants to answer this I think my question is clear Somebody Harshita do you want to answer Yeah
-
-### Speaker 1
-
-So event loop basically checks first the microtask queue okay that to uh the stack wise first in the priority one will event loop check that and put it into the false stack first one the priority one
+speaker_1: So event loop basically checks first the microtask queue okay that to uh the stack wise first in the priority one will event loop check that and put it into the false stack first one the priority one
 
 
 And in the strike order
 
-### Speaker 2
+speaker_2: Uh if I understand your answer correctly first uh itll exhibit everything in the call stack then it look at a microtask queue picks one and goes into a call stack correct
 
-Uh if I understand your answer correctly first uh itll exhibit everything in the call stack then it look at a microtask queue picks one and goes into a call stack correct
+speaker_1: Yes
 
-### Speaker 1
+speaker_2: And then after that
 
-Yes
+speaker_1: After that it executed and then again you want to check for if there is something more it will report it if there is something it will take it from the microtask or else it will take from the
 
-### Speaker 2
+speaker_2: Okay got it I get what I can Ill repeat you can cut me if Im wrong So everything in the call stack executed first Once the call stack is empty the loop will look if there is anything in the micro task queue itll pick from there Like itll pick first one and itll go to call stack and execute and itll continuously keep on doing that until there is micro task queue is empty Am I right Ashrita
 
-And then after that
+speaker_1: Yes
 
-### Speaker 1
+speaker_2: And then after that what about the macro task queue How does that work
 
-After that it executed and then again you want to check for if there is something more it will report it if there is something it will take it from the microtask or else it will take from the
-
-### Speaker 2
-
-Okay got it I get what I can Ill repeat you can cut me if Im wrong So everything in the call stack executed first Once the call stack is empty the loop will look if there is anything in the micro task queue itll pick from there Like itll pick first one and itll go to call stack and execute and itll continuously keep on doing that until there is micro task queue is empty Am I right Ashrita
-
-### Speaker 1
-
-Yes
-
-### Speaker 2
-
-And then after that what about the macro task queue How does that work
-
-### Speaker 1
-
-Again microdots new there would be like
+speaker_1: Again microdots new there would be like
 
 
 In this tech order it would be and the first it will put and put it in this tick
 
-### Speaker 2
+speaker_2: Okay you say basically both are executed in the same way but first priority is given to microtask queue followed by microtask queue Am I right Yes yes Okay it is slightly different Anybody else wants to answer Maybe Sonu raised his hand Sonu you want to answer Or your answer was same
 
-Okay you say basically both are executed in the same way but first priority is given to microtask queue followed by microtask queue Am I right Yes yes Okay it is slightly different Anybody else wants to answer Maybe Sonu raised his hand Sonu you want to answer Or your answer was same
-
-### Speaker 1
-
-Yeah I mean I guess JavaScript engine maintains the order of the execution You know in JavaScript the order matters So even if its microtask and microtask So as I said event loop will observe you know the call stack first when its empty The first priority will be microtask and the second priority will be macrotask And in the microtask we will have the you know tasks by order
+speaker_1: Yeah I mean I guess JavaScript engine maintains the order of the execution You know in JavaScript the order matters So even if its microtask and microtask So as I said event loop will observe you know the call stack first when its empty The first priority will be microtask and the second priority will be macrotask And in the microtask we will have the you know tasks by order
 
 
 and it will push each other and same to microtask as well so from you know some way they maintain the order i mean i dont know what exact way
 
-### Speaker 2
-
-Sure Ill take answer from one last person then I then explain by myself Does anybody else wants to answer The answer so far so told is not fully correct The pieces of it are correct Anybody wants to answer You could raise your hand
+speaker_2: Sure Ill take answer from one last person then I then explain by myself Does anybody else wants to answer The answer so far so told is not fully correct The pieces of it are correct Anybody wants to answer You could raise your hand
 
 
 Okay sure See you could consider like this is an example of the depth that you need to go through and probably not beyond this So in system design there is a concept You design a system as simpler as required and not simpler than that You dont want to oversimplify this or you want to like overcomplicate it Try to keep it as simple as required Same way So everything in the call stack is executed first like as Harshita Sonu and others also explained Shikha explained So that is the first priority
@@ -487,24 +393,16 @@ that we pick task from micro task queue and every task is from here well move he
 
 repeat the cycle remember this very very carefully if you can really say this in interview when interviewer asks you about the event loop consider like probably you have attracted that interviewer very much so next question that you would ask she would ask like you are already in the good books of them okay so call stack must be empty executes all micro task executes one macro task repeat the cycle okay before i go to the next topic if there are any question on this pay off execution please ask me
 
-### Speaker 1
+speaker_1: Uh why thats one microtask at a time why why not you know just execute all of the microtasks here
 
-Uh why thats one microtask at a time why why not you know just execute all of the microtasks here
-
-### Speaker 2
-
-Any questions similar to that I could collectively take the end answer anybody else with a question
+speaker_2: Any questions similar to that I could collectively take the end answer anybody else with a question
 
 
 Yeah same question So to be very honest there is no I mean straight answer to why for this why it only picks one from here and not all from here at once But Ill tell you from the implementation details point of view So as I already mentioned everything that could be executed synchronously is already part of call stack
 
-### Speaker 4
+speaker_4: Yeah same question
 
-Yeah same question
-
-### Speaker 2
-
-Point number one anything that should need to be executed in parallel already executed Now anything of higher priority after that is kept in microtask queue And least priority things are kept in microtask queue As you all know call stack is like when once after while its executing the microtask queue which is according to the priority the next priority after the call stack If it start executing everything from the microtask queue which is of least priority there could be some some other synchronous tasks by then theyve come and sit in the call stack Correct
+speaker_2: Point number one anything that should need to be executed in parallel already executed Now anything of higher priority after that is kept in microtask queue And least priority things are kept in microtask queue As you all know call stack is like when once after while its executing the microtask queue which is according to the priority the next priority after the call stack If it start executing everything from the microtask queue which is of least priority there could be some some other synchronous tasks by then theyve come and sit in the call stack Correct
 
 
 So if it wants to execute this then the particular order of those synchronous tasks might get affected So because those were the things that were supposed to be executed on priority but instead we are picking something which was not so priority Okay So thats the reason this is the priority one This is the priority two priority three After priority one we are giving priority two the highest and we are executing all of that And priority three we are not giving like all the things We are only picking one and executing One line answer why Because call stack is meant for executing things
@@ -572,56 +470,32 @@ Each environment powers its own APIs its own event loop implementation Event loo
 
 and different than the event loop that we together see right like even as a concept also this is called event loop but that event loop in isolation also has an existence which is basically a scheduler program so are there any questions on this youre free to unmute yourself and you can ask me
 
-### Speaker 4
+speaker_4: Yeah oh me so I mean even to continuously tell JS engine that this task can execute thats the definition
 
-Yeah oh me so I mean even to continuously tell JS engine that this task can execute thats the definition
-
-### Speaker 2
-
-Correct So in a very simple words OM or event loop is a scheduler program Like in very simple words its a poll you can consider If lets say you want to make a polling API every three seconds and get some data right Event loop is does also the same way It will nurture the JS engine Hey there are certain things here Because JavaScript as an engine ecosystem is only having as I told the memory heap and the memory heap and the call stacks These are the only two things that JavaScript engine has It doesnt have any other capability because all of them are handled by browser like web
+speaker_2: Correct So in a very simple words OM or event loop is a scheduler program Like in very simple words its a poll you can consider If lets say you want to make a polling API every three seconds and get some data right Event loop is does also the same way It will nurture the JS engine Hey there are certain things here Because JavaScript as an engine ecosystem is only having as I told the memory heap and the memory heap and the call stacks These are the only two things that JavaScript engine has It doesnt have any other capability because all of them are handled by browser like web
 
 
 and whatever the API calls everything set time out geolocation all of that now it needs a way where this call stack and this browser capabilities interact together so event for pack test that nudge hey JavaScript engine there are certain things in microtask queue do you want to pick there are certain things in the microtask queue do you want to pick JavaScript engine takes a call of picking them
 
-### Speaker 4
+speaker_4: All right
 
-All right
+speaker_2: Yeah Arpan you had some question
 
-### Speaker 2
+speaker_4: Yes I wanted to understand the interval one which you explained now
 
-Yeah Arpan you had some question
+speaker_2: Yeah which one happened sorry I did not hear you fully
 
-### Speaker 4
+speaker_4: know about set interval uh so uh means why we cannot be used to make stock
 
-Yes I wanted to understand the interval one which you explained now
+speaker_1: changing shape and size
 
-### Speaker 2
+speaker_2: Uh sorry uh maybe I did not hear fully Arpan Like I got the question regarding set interval Yeah
 
-Yeah which one happened sorry I did not hear you fully
+speaker_1: Yeah it is regarding the stop watch which you
 
-### Speaker 4
+speaker_4: I mean why you say it cannot be made accurate thats
 
-know about set interval uh so uh means why we cannot be used to make stock
-
-### Speaker 1
-
-changing shape and size
-
-### Speaker 2
-
-Uh sorry uh maybe I did not hear fully Arpan Like I got the question regarding set interval Yeah
-
-### Speaker 1
-
-Yeah it is regarding the stop watch which you
-
-### Speaker 4
-
-I mean why you say it cannot be made accurate thats
-
-### Speaker 2
-
-Yeah white cannot be accurate I told right From the architecture point of view if you see this is our architecture of the overall event loop right So call stack has the highest priority followed by we have here Ive written call by queue and priority queue but here we have like microtask and microtask our common convention So we have a call stack we have a microtask and microtask queue So the order of the execution you guys already saw like how itll executed is first call stack must be empty executes all microtask executes one microtask repeat the cycle
+speaker_2: Yeah white cannot be accurate I told right From the architecture point of view if you see this is our architecture of the overall event loop right So call stack has the highest priority followed by we have here Ive written call by queue and priority queue but here we have like microtask and microtask our common convention So we have a call stack we have a microtask and microtask queue So the order of the execution you guys already saw like how itll executed is first call stack must be empty executes all microtask executes one microtask repeat the cycle
 
 
 understood this correctly that means until the call stack is empty no macro task is picked or no micro task is picked right so what do i mean by call stack is empty so lets say there is certain uh synchronous activity thats happening i gave an example of for loop right lets say you are running a for loop for a million times definitely its going to take some time correct so by the time that much time is taken uh you you also had written a set interval which is supposed to execute every one second now that has to be ideally picked from the macro
@@ -644,29 +518,17 @@ Now are there any question Other is we have a small quiz maybe a matter of 10 mi
 
 Any questions
 
-### Speaker 1
+speaker_1: So if you have 10 microtests all at once it executes all the 10 microtests then it come back to call step and then go back to a micro is it it
 
-So if you have 10 microtests all at once it executes all the 10 microtests then it come back to call step and then go back to a micro is it it
+speaker_2: Correct First all the things in call stack executed Then once it comes to the microtask everything in the microtask is executed And then I can go back to call stack
 
-### Speaker 2
+speaker_1: So does not seem as macro test if macro test has 10 from a half execution it just its only one thing at a time
 
-Correct First all the things in call stack executed Then once it comes to the microtask everything in the microtask is executed And then I can go back to call stack
+speaker_2: Correct correct yes thats how it is built
 
-### Speaker 1
+speaker_4: Actually I want to ask how we can get the set
 
-So does not seem as macro test if macro test has 10 from a half execution it just its only one thing at a time
-
-### Speaker 2
-
-Correct correct yes thats how it is built
-
-### Speaker 4
-
-Actually I want to ask how we can get the set
-
-### Speaker 2
-
-Yeah I mean that is something that I wanted to give as a take home assignment But in a nutshell Chirag with so much of expression that I did you cannot solve that problem Okay Because this is how Navasig executes You cannot make it accurate Okay get my point So but what we can make probably we can make it more accurate That is you can have an interval for a very short duration So the chances that it executes is quite high And you can nullify
+speaker_2: Yeah I mean that is something that I wanted to give as a take home assignment But in a nutshell Chirag with so much of expression that I did you cannot solve that problem Okay Because this is how Navasig executes You cannot make it accurate Okay get my point So but what we can make probably we can make it more accurate That is you can have an interval for a very short duration So the chances that it executes is quite high And you can nullify
 
 
 some differences ill give you an example lets see instead of run you want to have a timer for one second okay instead of you running an interval for one second you will run it at every hundred millisecond so to achieve that one second of interval you are running the interval for 10 times and you can have some date object used within that interval so that like you could check the start date and end date if there are any nuanced differences you can try to subtract it and add it to the next interval like for example the first interval was supposed to execute lets say started from zero it was supposed to be
@@ -677,59 +539,35 @@ execute at 100 right lets say it executed 120 now the next interval you could ma
 
 Even if youre not connected to internet you you even if you turn off your laptop and turn it on how does always the accurate time comes up Because there are crystals that are moving even when you close the laptop The quartz crystal is one of the most popular crystals that is used There are many other crystals as well Correct So if there is any way you could use that device crystal capability there could be some way but I havent explored that deep Only then we could make the timer very accurate
 
-### Speaker 4
+speaker_4: Okay thank you
 
-Okay thank you
+speaker_2: Any thoughts or questions before we go to the quiz
 
-### Speaker 2
+speaker_4: so in the interview us create the accurate time also we can answer if we cannot get on i mean try to make it accurate
 
-Any thoughts or questions before we go to the quiz
-
-### Speaker 4
-
-so in the interview us create the accurate time also we can answer if we cannot get on i mean try to make it accurate
-
-### Speaker 2
-
-Right
+speaker_2: Right
 
 
 So if the question like if lets say somebody like me asked this question to you my suggestion is like try to understand for the question what do they mean by accurate So if thats accurate then if you could really say I cannot build an accurate clock then you already are in the right track But you could only make it more accurate than the traditional approach Thats it
 
-### Speaker 4
+speaker_4: Okay thanks
 
-Okay thanks
+speaker_2: Any other questions
 
-### Speaker 2
+speaker_4: Yeah not related to JavaScript If something is related to use case like if we cant build some application which is most accurate with JavaScript at that point we need to choose some other languages or anything right
 
-Any other questions
+speaker_2: This is a good question Anas Lets say we want to build something like a timer that has required for example space mission and all right So that has to be like super critical Like you cannot even a millisecond delay is not acceptable In such situations I would say definitely the client JavaScript should not be the approach for each time So what you could do is you could have certain time that you relearn backend or some time which comes from the crystal that theyre looking for If you read about a time its a very very interesting subject
 
-### Speaker 4
+speaker_4: Thats funny
 
-Yeah not related to JavaScript If something is related to use case like if we cant build some application which is most accurate with JavaScript at that point we need to choose some other languages or anything right
-
-### Speaker 2
-
-This is a good question Anas Lets say we want to build something like a timer that has required for example space mission and all right So that has to be like super critical Like you cannot even a millisecond delay is not acceptable In such situations I would say definitely the client JavaScript should not be the approach for each time So what you could do is you could have certain time that you relearn backend or some time which comes from the crystal that theyre looking for If you read about a time its a very very interesting subject
-
-### Speaker 4
-
-Thats funny
-
-### Speaker 2
-
-So quad crystal I told it basically its a crystal that resonates at a frequency today if you see most watches have a crystal that that that whatever the frequency at which it is resonating that we are considering as a second So if you use some other crystals which are more accurate than quad we might get more accurate time So if its a very time critical then theyll have that way of like basically ideal implementation of this to answer your question should be running in the back end
+speaker_2: So quad crystal I told it basically its a crystal that resonates at a frequency today if you see most watches have a crystal that that that whatever the frequency at which it is resonating that we are considering as a second So if you use some other crystals which are more accurate than quad we might get more accurate time So if its a very time critical then theyll have that way of like basically ideal implementation of this to answer your question should be running in the back end
 
 
 And those back end should be deriving their time from some crystals like this like which are like giving the very accurate frequency for their use cases Quad probably something suitable for most of our day to day timing purpose but there are like very efficient crystals which give us more predictable and very close to very close data
 
-### Speaker 4
+speaker_4: Thank you
 
-Thank you
-
-### Speaker 2
-
-Thank you guys
+speaker_2: Thank you guys
 
 
 Any thoughts or questions
@@ -755,21 +593,13 @@ Is it visible
 
 Anybody on the call not speaking to me
 
-### Speaker 4
+speaker_4: I want to say
 
-I want to say
+speaker_2: Okay sure it may get here
 
-### Speaker 2
+speaker_4: Yeah it is good now
 
-Okay sure it may get here
-
-### Speaker 4
-
-Yeah it is good now
-
-### Speaker 2
-
-Okay sure All of you have responded 18 responses I see Well go through the answers Once after we see the answer then we look at the leaderboard how everybody have performed The whole purpose of me showing your scores to yourself some of you might already know just like if somebody scored less is not inferior or somebody scored more is not superior So that there is a healthy competition among the group to pursue for the excellence Thats the only reason Now I will go through all of the questions very quickly and well go through the answer and you by yourself would
+speaker_2: Okay sure All of you have responded 18 responses I see Well go through the answers Once after we see the answer then we look at the leaderboard how everybody have performed The whole purpose of me showing your scores to yourself some of you might already know just like if somebody scored less is not inferior or somebody scored more is not superior So that there is a healthy competition among the group to pursue for the excellence Thats the only reason Now I will go through all of the questions very quickly and well go through the answer and you by yourself would
 
 
 know have you answered it correctly or not so consider this as a quiz thats probably least useful for your interview okay this as you also know its like more like the easy questions are only asked here the chances that these questions will be asked are very less this is only just like quick refresher for the session there is another quiz which will be shared tomorrow if you could answer that without taking any help quite well consider you are like very good okay now if youre done well here youre like okay so which of the following best describe the javascript execution in the browser
@@ -819,13 +649,9 @@ Okay so you tell the UN yes
 
 Yes many are told yes
 
-### Speaker 3
+speaker_3: Maybe maybe uh 8 8 30 to uh 10 30
 
-Maybe maybe uh 8 8 30 to uh 10 30
-
-### Speaker 2
-
-No no I thought of that But again I think beyond 10 probably people may not like wait to have breakfast They could wake up and come to session and 10 by then like everybody will be hungry If you can buy 10 by 10 then they can go and have their breakfast So two reasons I do I think even as mentoring also used to do this I used to take an early session So two reasons One definitely you get rest of the day for your preparation Now with this type of session like first half is gone Now you have your lunch and take some rest or then you by the time you start the day is almost over
+speaker_2: No no I thought of that But again I think beyond 10 probably people may not like wait to have breakfast They could wake up and come to session and 10 by then like everybody will be hungry If you can buy 10 by 10 then they can go and have their breakfast So two reasons I do I think even as mentoring also used to do this I used to take an early session So two reasons One definitely you get rest of the day for your preparation Now with this type of session like first half is gone Now you have your lunch and take some rest or then you by the time you start the day is almost over
 
 
 eight to ten you get complete day for yourself and second is definitely you all have some personal time also required all complete weekend you cannot only dedicate for this so sometime at least you get on sundays so lets try between eight to ten and if things do not work out again you are always free to message me on whatsapp like the number whatever we are coordinating with you right anytime you message i get notification anything non technical support staff will respond anything technical i myself will check it or any suggestions you have you can always message me i i dont know im good dont because it is important
@@ -839,25 +665,15 @@ Because I suppose like very few here might be using Discord for their activities
 
 I know
 
-### Speaker 3
+speaker_3: And uh wasnt make sure that discord has only registered members that we have in the sessions yes because telegram is having a lot of uh
 
-And uh wasnt make sure that discord has only registered members that we have in the sessions yes because telegram is having a lot of uh
+speaker_2: yeah basically anywhere you would have a group its going to be only for this cohort members only nobody else except that me and one more my support staff theres not going to be anybody else yeah
 
-### Speaker 2
+speaker_3: Yeah and request all of us to not send that link or invite to anybody right yeah
 
-yeah basically anywhere you would have a group its going to be only for this cohort members only nobody else except that me and one more my support staff theres not going to be anybody else yeah
+speaker_2: Yeah exactly No well monitor that Abhijit If we see anybody who are not a part of the joined it we are going to like if its basically it comes to your email it is an invite right So we would invite only the board members yeah
 
-### Speaker 3
-
-Yeah and request all of us to not send that link or invite to anybody right yeah
-
-### Speaker 2
-
-Yeah exactly No well monitor that Abhijit If we see anybody who are not a part of the joined it we are going to like if its basically it comes to your email it is an invite right So we would invite only the board members yeah
-
-### Speaker 3
-
-Okay
+speaker_3: Okay
 
 
 Okay correct yeah
@@ -865,40 +681,24 @@ Okay correct yeah
 
 So upload details and upload the link will be shared there yes no uh
 
-### Speaker 2
+speaker_2: So after the end of this session maybe we will take couple of hours because this recording needs to be uploaded and comes So this recording the notion document and even the summary of the the Germanies running here when Im talking right It will give a summary of the overall meeting Those all of this will be shared to you over email And I will also add all of that in the notion document also Okay So how how trying to right now how the plan to share the video content is all of these videos will be uploaded to YouTube and theyll be unlisted Unlisted means
 
-So after the end of this session maybe we will take couple of hours because this recording needs to be uploaded and comes So this recording the notion document and even the summary of the the Germanies running here when Im talking right It will give a summary of the overall meeting Those all of this will be shared to you over email And I will also add all of that in the notion document also Okay So how how trying to right now how the plan to share the video content is all of these videos will be uploaded to YouTube and theyll be unlisted Unlisted means
+speaker_3: So how it
 
-### Speaker 3
-
-So how it
-
-### Speaker 2
-
-registered email id people can actually be built so those email ids will be shared with your email id is whatever you have been communicating it to those email ids we have access and same link is taken and added into the notion document so anytime future also you are referring a notion document you will have a session recording to go through you want something or any info like that okay
+speaker_2: registered email id people can actually be built so those email ids will be shared with your email id is whatever you have been communicating it to those email ids we have access and same link is taken and added into the notion document so anytime future also you are referring a notion document you will have a session recording to go through you want something or any info like that okay
 
 
 Okay
 
-### Speaker 4
+speaker_4: So the reason why they have this is do I need to refactor or to move specific implementation or
 
-So the reason why they have this is do I need to refactor or to move specific implementation or
+speaker_1: That is a question
 
-### Speaker 1
+speaker_2: No you took like if I if I heard it correctly like you shared the resume and you wanted if there any changes need to be done with that am I right
 
-That is a question
+speaker_1: no no no like uh for this cohort we are mainly focusing on front end right i i work uh as a full stack with front end heavy so how do you like project ourselves on the internet as a front end uh youre a front end developer or a full time developer
 
-### Speaker 2
-
-No you took like if I if I heard it correctly like you shared the resume and you wanted if there any changes need to be done with that am I right
-
-### Speaker 1
-
-no no no like uh for this cohort we are mainly focusing on front end right i i work uh as a full stack with front end heavy so how do you like project ourselves on the internet as a front end uh youre a front end developer or a full time developer
-
-### Speaker 2
-
-good question victor like if you would i mean any of your personal question i would have asked you to stay back and after the meeting i would have taken but this is a question that probably applicable for all so i request you guys also to stay in so all all i suggest is in fact i made a lot of videos about it full stack is basically becomes very tricky in terms of interview okay uh the reason being what is the right full stack combination react you can use for front end angular you can use on for the front end view or plain html css all of this you can use on front end back end you could use c sharp java
+speaker_2: good question victor like if you would i mean any of your personal question i would have asked you to stay back and after the meeting i would have taken but this is a question that probably applicable for all so i request you guys also to stay in so all all i suggest is in fact i made a lot of videos about it full stack is basically becomes very tricky in terms of interview okay uh the reason being what is the right full stack combination react you can use for front end angular you can use on for the front end view or plain html css all of this you can use on front end back end you could use c sharp java
 
 
 or their dot net or python many languages so right footstep combination becomes slightly difficult though predominantly we could say java and react is being the common combination but it is not guaranteed in the companies that you are applying a lot of enterprise companies would use c sharp and c sharp and dot net framework and second the interview right you should be good at both front end and back end especially if you are a cyclus user of experience you will undergo one round of bsa one round of testing your front end skill one round of testing your back end skill one round of system design so integrate
@@ -915,13 +715,9 @@ That would be my suggestion
 
 Any other thoughts or questions from anyone
 
-### Speaker 4
+speaker_4: Yes considering the system design round for the front end developers so when company took a system design they consider system design and system design or back end and front end system design because I see many content on the back end many content on the front end but the interview point of view as a front end developer if someone goes into the system design round how they should prepare they should prepare as a whole system or only the front end
 
-Yes considering the system design round for the front end developers so when company took a system design they consider system design and system design or back end and front end system design because I see many content on the back end many content on the front end but the interview point of view as a front end developer if someone goes into the system design round how they should prepare they should prepare as a whole system or only the front end
-
-### Speaker 2
-
-A good question Yeah So many have this doubt actually like any of you are going to have a system design dedicated session but to give an overview about the system design and with my experience of giving many interviews in almost now if you are having like five to six years of experience applying for senior or staff role youll be asked to have a good knowledge on system design And there are two levels of system design you can broke down One actually is where a system design or some intricate questions on a system will be asked For example they can ask questions about autocomplete you
+speaker_2: A good question Yeah So many have this doubt actually like any of you are going to have a system design dedicated session but to give an overview about the system design and with my experience of giving many interviews in almost now if you are having like five to six years of experience applying for senior or staff role youll be asked to have a good knowledge on system design And there are two levels of system design you can broke down One actually is where a system design or some intricate questions on a system will be asked For example they can ask questions about autocomplete you
 
 
 you video streaming etc another thing could be more like not well being deep into systems but a combination of multiple different systems like one way like you pick pick youtube and ask different questions on youtube how does autocomplete works how does video streaming works how does the commenting works and all of this is one way and the thing is you pick a slices of different systems like for example you could ask how does the video streaming works and probably in another system you could pick and ask like how does the seed selection works in book my show or uh make my trip how do you select the
@@ -935,44 +731,26 @@ you whatever the solution that you propose that should not be practically unimpl
 
 but then interacting in a synchronous way the overall scalability would improve in a nutshell do you know to are you required to have a good understanding of the backend system design like in depth understanding of implementation no but you need to have a fair understanding how system together works how backend will interact content will interact with backend how many backend systems are there im going to cover that in our code as well but a fair understanding of backend isnt required only
 
-### Speaker 4
+speaker_4: Okay got it thanks for the clarification
 
-Okay got it thanks for the clarification
-
-### Speaker 2
-
-Yes yes Any any thoughts or questions before we end todays call
+speaker_2: Yes yes Any any thoughts or questions before we end todays call
 
 
 Sure uh yeah anybody has questions
 
-### Speaker 3
+speaker_3: Uh yeah actually I just want to like uh I mean I dont know like uh uh today only like I just had some emergency whenever somebody came to me and I was a bit heavy so yeah I was just not able to concentrate so I just cant like that I just want to inform you about that sure yeah yeah that that is what reflected in the quiz as well where I just got confused between microtask and microtask queue and uh like yeah so yeah
 
-Uh yeah actually I just want to like uh I mean I dont know like uh uh today only like I just had some emergency whenever somebody came to me and I was a bit heavy so yeah I was just not able to concentrate so I just cant like that I just want to inform you about that sure yeah yeah that that is what reflected in the quiz as well where I just got confused between microtask and microtask queue and uh like yeah so yeah
+speaker_2: Shall I do it
 
-### Speaker 2
+speaker_1: Yeah that is it yeah sure but Ill catch up with that report
 
-Shall I do it
-
-### Speaker 1
-
-Yeah that is it yeah sure but Ill catch up with that report
-
-### Speaker 2
-
-No no no worries Ankita Yeah again the coding will be shared with you You can certainly watch it Yeah Any any questions or thoughts before we end
+speaker_2: No no no worries Ankita Yeah again the coding will be shared with you You can certainly watch it Yeah Any any questions or thoughts before we end
 
 
 Okay so if there are any feedbacks about the session you that probably you think could have been done better you can always message us on the WhatsApp So again I dont want to take anyones time Things that you feel like hadnt done correctly here so that Ill be more than happy to like make those changes Its something that is practical to do Okay Thank you all for joining See you tomorrow Okay at eight oclock Bye
 
-### Speaker 4
+speaker_4: Thank you guys
 
-Thank you guys
+speaker_2: Thank you
 
-### Speaker 2
-
-Thank you
-
-### Speaker 3
-
-Thank you guys
+speaker_3: Thank you guys

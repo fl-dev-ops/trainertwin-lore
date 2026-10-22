@@ -6,14 +6,15 @@ date: '2026-03-25'
 duration: 30:23
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 57 Gradient Boosting Algorithm
 
 ## Transcript
 
-
-Welcome back
+speaker_1: Welcome back
 So we will see a principled way of
 doing it which is called the gradient
 boosting mechanism

@@ -9,7 +9,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-skil HOW TO DELIVER A
+speaker_1: skil HOW TO DELIVER A
 
 
  KILLER PRESENTATION

@@ -22,8 +22,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -31,26 +31,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: you just think okay wait a minute Your question thinks maybe why everything was just before this is the way we do things You might think well why do they why do we do things this way You know theres another way to do thing which is okay You not see it you can do it in a different way
 
-you just think okay wait a minute Your question thinks maybe why everything was just before this is the way we do things You might think well why do they why do we do things this way You know theres another way to do thing which is okay You not see it you can do it in a different way
+speaker_2: Yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: Yes but if you suggest it to many people uh you know back to if theyve not had that experience they might look at you and think whats happened to you you know Youve gone native
 
-Yeah
+speaker_2: Exactly
 
-### Speaker 1 · Speaker 1
+speaker_1: Exactly
 
-Yes but if you suggest it to many people uh you know back to if theyve not had that experience they might look at you and think whats happened to you you know Youve gone native
-
-### Speaker 2 · Speaker 2
-
-Exactly
-
-### Speaker 1 · Speaker 1
-
-Exactly
-
-### Speaker 2 · Speaker 2
-
-And I suppose it also plays with your identity at a deep level because uh like first you start questioning
+speaker_2: And I suppose it also plays with your identity at a deep level because uh like first you start questioning

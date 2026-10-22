@@ -16,7 +16,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -24,6 +24,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-because I believe that you know like methods that work for other people doesnt mean itll work for you Its I think all about experimenting and trying new things out pushing yourself your boundaries and seeing what youre capable of because you know everyones different you know we learn differently and we have different levels and you know you cant really compare yourself Its about building your own path and seeing you know what works for you
+speaker_1: because I believe that you know like methods that work for other people doesnt mean itll work for you Its I think all about experimenting and trying new things out pushing yourself your boundaries and seeing what youre capable of because you know everyones different you know we learn differently and we have different levels and you know you cant really compare yourself Its about building your own path and seeing you know what works for you

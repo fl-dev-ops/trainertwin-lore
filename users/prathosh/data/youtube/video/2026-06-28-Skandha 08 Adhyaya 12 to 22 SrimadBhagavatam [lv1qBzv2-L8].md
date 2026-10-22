@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-श्रीशुक उवाच
+speaker_1: श्रीशुक उवाच
 मनुर्विवस्वतः पुत्रः श्राद्धदेव इति श्रुतः
 सप्तमो वर्तमानो यस्तदपत्यानि मे शृणु
 

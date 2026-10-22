@@ -9,20 +9,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 13 - Deep Generative Models Self supervised learning Noise contrastive
 
 ## Transcript
 
-
-### Speaker 1
-
-See well its not opening calendar CCC exam and
+speaker_1: See well its not opening calendar CCC exam and
 
 
 Course grade entry 311 to 1812 IC
@@ -33,32 +30,20 @@ which means that we can do the assignment by us after your exam will that be oka
 
 First week of December
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-Okay let us do it then then what we can do is after the final exam is done on 30th the first week of December we will do because 12th is when I need to submit the grade sorry 18th is the last date for me to submit the grades so Ill have enough time to consolidate and discuss and all that oh no no no this is 2023 Im sorry Im sorry I need to look at 2024 calendar
+speaker_1: Okay let us do it then then what we can do is after the final exam is done on 30th the first week of December we will do because 12th is when I need to submit the grade sorry 18th is the last date for me to submit the grades so Ill have enough time to consolidate and discuss and all that oh no no no this is 2023 Im sorry Im sorry I need to look at 2024 calendar
 
 
 Just a second ah sorry sorry this is my mistake
 
-### Speaker 3
+speaker_3: I think it is twelfth sir
 
-I think it is twelfth sir
+speaker_1: Twelfth of December ah how do you know
 
-### Speaker 1
+speaker_3: I think in reinforcement learning salaried nagars are told that 12th is the final date to put grades we have a project pending there in reinforcement learning also
 
-Twelfth of December ah how do you know
-
-### Speaker 3
-
-I think in reinforcement learning salaried nagars are told that 12th is the final date to put grades we have a project pending there in reinforcement learning also
-
-### Speaker 1
-
-Okay okay so there is this link its not opening yeah
+speaker_1: Okay okay so there is this link its not opening yeah
 
 
 Yeah I am just opening hold on yeah
@@ -72,13 +57,9 @@ Its enough for me if I have one week So yeah let us do it on the week of 2nd Dec
 
 Okay so then thats it yeah I think Ill continue with the class
 
-### Speaker 4
+speaker_4: So what is the format of the VIVA exam going to be I mean how much time is that going to take and what will be the schedule
 
-So what is the format of the VIVA exam going to be I mean how much time is that going to take and what will be the schedule
-
-### Speaker 1
-
-I we will let you know all of that
+speaker_1: I we will let you know all of that
 
 
 See Im thinking of uh like uh about uh 20 minutes per group uh or rather half an hour per group
@@ -89,71 +70,41 @@ And we have 20 groups no We are like three of us four of us three TAs and myself
 
 That that you can adjust no problem yeah whatever works for you
 
-### Speaker 4
+speaker_4: I just wanted to request for some flexibility as I will be traveling due to some official work so Ill be in a different time zone at that time
 
-I just wanted to request for some flexibility as I will be traveling due to some official work so Ill be in a different time zone at that time
+speaker_1: No no okay see those requests we can always accommodate no problem yeah
 
-### Speaker 1
+speaker_4: John thank you
 
-No no okay see those requests we can always accommodate no problem yeah
+speaker_1: Okay so shall we get back to the business Shall we start Sir one question
 
-### Speaker 4
-
-John thank you
-
-### Speaker 1
-
-Okay so shall we get back to the business Shall we start Sir one question
-
-### Speaker 2
-
-So one question I had
+speaker_2: So one question I had
 
 
 This is something related to the quiz five we just did So if you allow I wanted to ask a question
 
-### Speaker 1
+speaker_1: And tell me what is that
 
-And tell me what is that
+speaker_2: So sir there was a question It says in DDPM the variance schedule alpha t for each time step is carefully designed to satisfy which of the following criteria The answer marked is it should increase gradually to prevent complete information loss in early steps But as per my understanding like alpha t is the product of from alpha 1 till that particular time
 
-### Speaker 2
-
-So sir there was a question It says in DDPM the variance schedule alpha t for each time step is carefully designed to satisfy which of the following criteria The answer marked is it should increase gradually to prevent complete information loss in early steps But as per my understanding like alpha t is the product of from alpha 1 till that particular time
-
-### Speaker 1
-
-No no no see that we call as alpha bar
+speaker_1: No no no see that we call as alpha bar
 
 
 This is the variant schedule alpha
 
-### Speaker 4
+speaker_4: But even alpha should reduce right because we want the variance to increase as we go forward in the steps
 
-But even alpha should reduce right because we want the variance to increase as we go forward in the steps
+speaker_1: Variation should reduce no
 
-### Speaker 1
+speaker_4: Variance is one minus alpha t right
 
-Variation should reduce no
+speaker_1: Now alpha is what we called as the variance isnt it in our in our treatment
 
-### Speaker 4
+speaker_4: I suppose it was one minus alpha was the
 
-Variance is one minus alpha t right
+speaker_2: Select alpha we are drawing it from a zero from these samples from zero comma one space right
 
-### Speaker 1
-
-Now alpha is what we called as the variance isnt it in our in our treatment
-
-### Speaker 4
-
-I suppose it was one minus alpha was the
-
-### Speaker 2
-
-Select alpha we are drawing it from a zero from these samples from zero comma one space right
-
-### Speaker 1
-
-No no they are simply linearly varying let me just check it once hold on
+speaker_1: No no they are simply linearly varying let me just check it once hold on
 
 
 So small alphas are
@@ -164,24 +115,16 @@ So beta 1 minus alpha would increase So which means alpha should decrease gradua
 
 Electro
 
-### Speaker 4
-
-The selected option was alpha alpha increases
+speaker_4: The selected option was alpha alpha increases
 
 
 Uh the correct option was marked as alpha should in increase
 
-### Speaker 1
+speaker_1: No one minus alpha should increase
 
-No one minus alpha should increase
+speaker_4: Yeah I mean for the last options that are very gradually decrease
 
-### Speaker 4
-
-Yeah I mean for the last options that are very gradually decrease
-
-### Speaker 1
-
-That will gradually decrease Yeah that should be the correct one Because
+speaker_1: That will gradually decrease Yeah that should be the correct one Because
 
 
 Yeah because the variance was 1 minus alpha right The variance term in Xt that is 1 minus alpha the variance should gradually increase
@@ -189,13 +132,9 @@ Yeah because the variance was 1 minus alpha right The variance term in Xt that i
 
 Its correct
 
-### Speaker 2
+speaker_2: Our variance should increase eventually because we want the final x of t of normal distribution correct
 
-Our variance should increase eventually because we want the final x of t of normal distribution correct
-
-### Speaker 1
-
-Yeah yeah the thing is
+speaker_1: Yeah yeah the thing is
 
 
 Only when the variance slowly increases you can guarantee that the Markov chain converges to a normal 0 1 So variance should gradually increase
@@ -203,91 +142,51 @@ Only when the variance slowly increases you can guarantee that the Markov chain 
 
 Bendon are you there
 
-### Speaker 2
+speaker_2: Yes sir Im there yes sir
 
-Yes sir Im there yes sir
+speaker_1: variance schedule I mean of course variance schedule is 1 minus alpha but yeah you can the parameter is alpha so variance schedule alpha so if you are looking at alpha as the variance schedule then the alpha should gradually decrease
 
-### Speaker 1
+speaker_4: Yes sir Ill make the necessary change yes sir
 
-variance schedule I mean of course variance schedule is 1 minus alpha but yeah you can the parameter is alpha so variance schedule alpha so if you are looking at alpha as the variance schedule then the alpha should gradually decrease
+speaker_1: Beta should increase basically yeah
 
-### Speaker 4
+speaker_4: Um just a thing sir in the option it says it should decrease exponentially the one that is being debated right now um so is is it supposed to really decrease exponentially or was that the case
 
-Yes sir Ill make the necessary change yes sir
+speaker_1: Isnt there an option that would say it would linearly decrease
 
-### Speaker 1
+speaker_2: No sir
 
-Beta should increase basically yeah
+speaker_1: No
 
-### Speaker 4
+speaker_2: I have I I really have no access to the quiz I really dont know
 
-Um just a thing sir in the option it says it should decrease exponentially the one that is being debated right now um so is is it supposed to really decrease exponentially or was that the case
+speaker_4: What is the challenge of
 
-### Speaker 1
+speaker_2: Chandan I have pasted this screenshot in the chat if you could have a look
 
-Isnt there an option that would say it would linearly decrease
+speaker_1: Thats okay if if if there is no linear decrease option
 
-### Speaker 2
-
-No sir
-
-### Speaker 1
-
-No
-
-### Speaker 2
-
-I have I I really have no access to the quiz I really dont know
-
-### Speaker 4
-
-What is the challenge of
-
-### Speaker 2
-
-Chandan I have pasted this screenshot in the chat if you could have a look
-
-### Speaker 1
-
-Thats okay if if if there is no linear decrease option
-
-### Speaker 4
-
-Thats okay
+speaker_4: Thats okay
 
 
 Uh decrease option well give it to
 
-### Speaker 1
-
-It should be see yesterday what happened as I looked at the quiz and there was beta there I told them that beta is not something that I have used so change it to alpha so I think they just change beta to alpha without changing the options
+speaker_1: It should be see yesterday what happened as I looked at the quiz and there was beta there I told them that beta is not something that I have used so change it to alpha so I think they just change beta to alpha without changing the options
 
 
 You guys you do What can I say See I told you to change beta to alpha in a meaningful way and just not replace alpha beta by alpha Right If alpha is 1 minus beta then the options have to like
 
-### Speaker 4
+speaker_4: Ill know it has to be flipped
 
-Ill know it has to be flipped
+speaker_1: Anyway so any other question you have about the add plus one feature okay
 
-### Speaker 1
+speaker_4: Oh yeah yeah yeah
 
-Anyway so any other question you have about the add plus one feature okay
+speaker_1: Thanks for checking it out yeah
 
-### Speaker 4
+speaker_2: are one more question so we we said that we are choosing alpha alpha alpha as from zero to one but on what basis are we selecting like what is the predefined logic for that
 
-Oh yeah yeah yeah
-
-### Speaker 1
-
-Thanks for checking it out yeah
-
-### Speaker 2
-
-are one more question so we we said that we are choosing alpha alpha alpha as from zero to one but on what basis are we selecting like what is the predefined logic for that
-
-### Speaker 1
-
-I told you in the class already in the previous class it is designed in such a way that the forward macro chain that we do that we construct has to be
+speaker_1: I told you in the class already in the previous class it is designed in such a way that the forward macro chain that we do that we construct has to be
 
 
 designed in such a way that the stationary distribution converges to normal 0 1
@@ -298,21 +197,13 @@ So that is why the variance has to slowly decrease
 
 And also if you look at it its all huh huh
 
-### Speaker 2
+speaker_2: Variance has to slowly increase
 
-Variance has to slowly increase
+speaker_1: What do you what do you call by variance
 
-### Speaker 1
+speaker_4: minus alpha
 
-What do you what do you call by variance
-
-### Speaker 4
-
-minus alpha
-
-### Speaker 1
-
-If you call one minus alpha as variable then it should increase yeah
+speaker_1: If you call one minus alpha as variable then it should increase yeah
 
 
 Depends on what you call by variance so it is uh if its alpha then the alpha should gradually decrease which means that 1 minus alpha should increase okay
@@ -332,13 +223,9 @@ Okay then you should have started it already
 
 Anything else shall we get started in the class
 
-### Speaker 4
+speaker_4: Oh okay can I take this
 
-Oh okay can I take this
-
-### Speaker 1
-
-I oh
+speaker_1: I oh
 
 
 It says working offline to me do you see my screen
@@ -397,31 +284,21 @@ Nope my audio is off
 
 Any questions
 
-### Speaker 2
+speaker_2: Maybe well cover it later Just a query here The pretext tasks are defined I mean like based on how it should perform in the end right I mean
 
-Maybe well cover it later Just a query here The pretext tasks are defined I mean like based on how it should perform in the end right I mean
-
-### Speaker 1
-
-Well not necessarily um not necessarily see
+speaker_1: Well not necessarily um not necessarily see
 
 
 I will tell you what the fundamental idea behind this thing and in fact how to define a pretext task is a question that people have been asking right and different ways have been looked at okay I will talk about it we will talk about it yeah
 
-### Speaker 2
+speaker_2: Good thank you
 
-Good thank you
-
-### Speaker 4
-
-Worry like is there any methodology like if we define this pretext then the embedding well get well have you know some kind of structures which will be helpful for other features like what I mean is if suppose I use the pretext as in painting then it will be helpful in classification or segmentation but if I use some other pretext then it wont be much helpful for classification or any other segmentation task
+speaker_4: Worry like is there any methodology like if we define this pretext then the embedding well get well have you know some kind of structures which will be helpful for other features like what I mean is if suppose I use the pretext as in painting then it will be helpful in classification or segmentation but if I use some other pretext then it wont be much helpful for classification or any other segmentation task
 
 
 Theyre any such kind of thing
 
-### Speaker 1
-
-Um
+speaker_1: Um
 
 
 Not theoretically but there are some empirical ideas on what sort of predicate tasks would help We will discuss all that just lets see give some time
@@ -561,16 +438,12 @@ Has anybody used this airdrop thing between two Mac devices Do you know how that
 
 Am I audible
 
-### Speaker 4
-
-So you can also also share it between two teams instances if you have it on both the instances
+speaker_4: So you can also also share it between two teams instances if you have it on both the instances
 
 
 Share it to yourself
 
-### Speaker 1
-
-you can just right click on the file and share and then youll see airdrop there
+speaker_1: you can just right click on the file and share and then youll see airdrop there
 
 
 Oh this is very good okay I just came from a math
@@ -584,13 +457,9 @@ Okay so you see my screen now
 
 You see my screen
 
-### Speaker 2
+speaker_2: So theres a file transfer pop up
 
-So theres a file transfer pop up
-
-### Speaker 1
-
-No no no Im writing on my official stamps no
+speaker_1: No no no Im writing on my official stamps no
 
 
 Let me know when you can see my screen
@@ -598,37 +467,21 @@ Let me know when you can see my screen
 
 Can you see my screen
 
-### Speaker 2
+speaker_2: Not yet
 
-Not yet
+speaker_1: Its a computer
 
-### Speaker 1
+speaker_2: Mm yes it is visible now
 
-Its a computer
+speaker_1: Im writing do you see that no
 
-### Speaker 2
+speaker_4: No no it is stuck at the NC provides an alternative for ML estimation I think its stuck there
 
-Mm yes it is visible now
+speaker_1: Can you please let me know if its coming
 
-### Speaker 1
+speaker_4: Yes sir we can see suppose that youre not
 
-Im writing do you see that no
-
-### Speaker 4
-
-No no it is stuck at the NC provides an alternative for ML estimation I think its stuck there
-
-### Speaker 1
-
-Can you please let me know if its coming
-
-### Speaker 4
-
-Yes sir we can see suppose that youre not
-
-### Speaker 1
-
-Okay so hopefully
+speaker_1: Okay so hopefully
 
 
 not misbehavior Now we have noise contrastive estimation provides an alternative for ML estimation where the goal is to estimate the underlying distribution Now how does NCE does this Now we have data
@@ -720,17 +573,11 @@ Four
 
 H theta is a function that takes data from d dimensional space and maps it to the 0 1
 
-### Speaker 2
+speaker_2: So the submission
 
-So the submission
+speaker_4: is common right for both
 
-### Speaker 4
-
-is common right for both
-
-### Speaker 1
-
-Assessment is common for both of them yes
+speaker_1: Assessment is common for both of them yes
 
 
 Okay so this J T theta okay is called the noise contrastive estimator
@@ -798,60 +645,34 @@ Now the question is why should solving the claim that we are making here is that
 
 Is the story clear so far Now we should see why doing solving this sort of an objective using this technique should give us should implicitly estimate px that is what we are going to answer now But is the is the is the story clear so far what we are trying to do
 
-### Speaker 4
+speaker_4: Yes only DN were not sure how it is
 
-Yes only DN were not sure how it is
+speaker_1: Only what
 
-### Speaker 1
+speaker_4: DN DN
 
-Only what
+speaker_1: It is it is yeah it is some distribution yeah it is totally random it is some distribution that is not px so we will
 
-### Speaker 4
+speaker_4: Code to this action
 
-DN DN
-
-### Speaker 1
-
-It is it is yeah it is some distribution yeah it is totally random it is some distribution that is not px so we will
-
-### Speaker 4
-
-Code to this action
-
-### Speaker 1
-
-It does not
+speaker_1: It does not
 
 
 So Pn is just a distribution that is not the same as Px
 
-### Speaker 2
+speaker_2: So if the noise is input
 
-So if the noise is input
+speaker_1: Are there any noises in
 
-### Speaker 1
+speaker_2: Theyre not
 
-Are there any noises in
+speaker_4: Theta will return a zero
 
-### Speaker 2
+speaker_1: Lets see lets lets see what it returns okay
 
-Theyre not
+speaker_4: Look at the seat
 
-### Speaker 4
-
-Theta will return a zero
-
-### Speaker 1
-
-Lets see lets lets see what it returns okay
-
-### Speaker 4
-
-Look at the seat
-
-### Speaker 1
-
-But yeah its in for now its simply a function from uh the data or noise space to 0 1
+speaker_1: But yeah its in for now its simply a function from uh the data or noise space to 0 1
 
 
 Alright is that okay
@@ -952,13 +773,9 @@ We have
 
 What is the posterior of u given t equal to 1 what is this equal to
 
-### Speaker 2
+speaker_2: Data
 
-Data
-
-### Speaker 1
-
-This is Px correct Yeah good So now the distribution P
+speaker_1: This is Px correct Yeah good So now the distribution P
 
 
 of u given t equal to 0 is p n
@@ -999,13 +816,9 @@ equal to one here you have p
 
 Just open it
 
-### Speaker 2
+speaker_2: Word one
 
-Word one
-
-### Speaker 1
-
-E of t equal to one no
+speaker_1: E of t equal to one no
 
 
 This is Bayes law right Now because all the priors are equal we can just cancel the priors All of these are half Just cancel them This is equal to P of U given T equal to 1 which is
@@ -1055,13 +868,9 @@ given you
 
 Can somebody tell me what sort of a random variable T given U is What is the the what is the form of T given U
 
-### Speaker 2
+speaker_2: Indicator random variable
 
-Indicator random variable
-
-### Speaker 1
-
-Yeah its yeah indicator random variable all binary classification I mean all binary random variables right they are
+speaker_1: Yeah its yeah indicator random variable all binary classification I mean all binary random variables right they are
 
 
 is a Bernoulli random variable also indicate random variable
@@ -1078,13 +887,9 @@ h theta h theta of u isnt it I mean h theta of u is the success probability of t
 
 Suppose we want to find the set theta of u by finding out the I mean by maximizing the likelihood So now lets write the maximum likelihood estimate
 
-### Speaker 2
+speaker_2: So how is this parameter h theta of u
 
-So how is this parameter h theta of u
-
-### Speaker 1
-
-See that is what we have done no this h we have modeled p of t t equal to 1 given u using a parametric function So this h theta of u is giving you that probability of t being equal to 1 given u
+speaker_1: See that is what we have done no this h we have modeled p of t t equal to 1 given u using a parametric function So this h theta of u is giving you that probability of t being equal to 1 given u
 
 
 In fact right all binary classifiers does the same thing All binary classifiers what do they do The output of it is actually the estimate for the success probability of a Bernoulli random variable which is the conditional random variable of label given data correct
@@ -1161,13 +966,9 @@ when t equal to zero
 
 product of these two
 
-### Speaker 2
+speaker_2: it is p to the power t plus 1 minus p to the power 1 minus t
 
-it is p to the power t plus 1 minus p to the power 1 minus t
-
-### Speaker 1
-
-Its theta right there that is what it is so you have
+speaker_1: Its theta right there that is what it is so you have
 
 
 The distribution of Bernoulli random variable is given by
@@ -1244,13 +1045,9 @@ Okay
 
 So this is good So what we are actually doing by in noise contrastive estimation is that given data we just define some noise distribution We take samples from some noise distribution that is not the data distribution and trying to learn to classify between them
 
-### Speaker 2
+speaker_2: So so but somehow it seems the
 
-So so but somehow it seems the
-
-### Speaker 4
-
-This depends on how well we give it the noise
+speaker_4: This depends on how well we give it the noise
 
 
 So how do we ensure that the entire I mean like uh
@@ -1258,9 +1055,7 @@ So how do we ensure that the entire I mean like uh
 
 So how big is non data distribution Like it is the entire universe right What can we do
 
-### Speaker 1
-
-Yes that is good that is a good question that is a good question we will answer that we will answer that eventually in this class In fact I mean to
+speaker_1: Yes that is good that is a good question that is a good question we will answer that we will answer that eventually in this class In fact I mean to
 
 
 Not to make you wait see the point is its very difficult to come up with that noise distribution and that is why you might have heard this term called hard negative mining right In contrastive learning or self supervised learning techniques There is this term called hard negative mining
@@ -1292,13 +1087,9 @@ And continue from here see you in fifteen twenty minutes
 
 Ill get a zoom
 
-### Speaker 4
+speaker_4: Yes so we can hear you
 
-Yes so we can hear you
-
-### Speaker 1
-
-Shall we continue
+speaker_1: Shall we continue
 
 
 I was just reading some news Do you know the name of this Elon Musks son
@@ -1306,13 +1097,9 @@ I was just reading some news Do you know the name of this Elon Musks son
 
 People dont create
 
-### Speaker 2
+speaker_2: Im a glorzzer
 
-Im a glorzzer
-
-### Speaker 1
-
-No its not code I mean its
+speaker_1: No its not code I mean its
 
 
 Some X A A 12 or something like that
@@ -1326,24 +1113,16 @@ Imagine the plight of that kid when he goes to school
 
 actually not very a big fan of these complicated I mean even its today you know young parents in India they are also doing these weird things you know they name see because naming happens only once in lifetime and they want it to be exotic they name children with all kinds of random things you know I I keep thinking especially when these kids grow to be like older adults how do you call them with such weird names
 
-### Speaker 4
+speaker_4: Theyll be traumatized thats what I am
 
-Theyll be traumatized thats what I am
-
-### Speaker 1
-
-So
+speaker_1: So
 
 
 And so many you know names that mean nothing simply theyll see somewhere and theyll say that its a Sanskrit name I mean studied you know Sanskrit to identify that most of these names are not Sanskrit so what
 
-### Speaker 4
+speaker_4: Usually in India people base the names on like movies and all those places but this pyramid kind of name is A A 12 some 1 to 14 I dont know what it is
 
-Usually in India people base the names on like movies and all those places but this pyramid kind of name is A A 12 some 1 to 14 I dont know what it is
-
-### Speaker 1
-
-for business okay lets get back uh yeah so we were looking at the noise contrastive estimation and we saw that its a binary classifier between samples of two distributions
+speaker_1: for business okay lets get back uh yeah so we were looking at the noise contrastive estimation and we saw that its a binary classifier between samples of two distributions
 
 
 Okay now we will continue So now okay finally the question is finally do a binary classification between these two distributions Whats great about it right There is this very nice result that would say the following So property two of in noise contrastive estimation is
@@ -1489,13 +1268,9 @@ So with this what happens is your J theta now can be written as a function of F 
 
 Because we yeah question
 
-### Speaker 2
+speaker_2: So in the first term this r for this function r the argument is just fx or fx minus log pn of x
 
-So in the first term this r for this function r the argument is just fx or fx minus log pn of x
-
-### Speaker 1
-
-So it is R of f of x here So R is a logistic sigmoid right So it is R of f of x right And R of f of n minus log p n n into n correct Yeah the bracket was missing
+speaker_1: So it is R of f of x here So R is a logistic sigmoid right So it is R of f of x right And R of f of n minus log p n n into n correct Yeah the bracket was missing
 
 
 So now you represent this entire see what did we do I mean we represented the ah ah the log likelihood of the underlying distribution using some function f So I mean strictly speaking this is f theta right and we present we represented the noise contrast f estimator in terms of f theta
@@ -1620,13 +1395,9 @@ Hello are you
 
 Is it there Am I audible
 
-### Speaker 4
+speaker_4: Yes it is you would
 
-Yes it is you would
-
-### Speaker 1
-
-This is a very powerful result right I mean it is saying that I mean all you need is to simply classify between the data distribution and some noise distribution And if you do it please note that these results are asymptotic in the sense that this will give you an estimate for the log likelihood of the underlying data distribution only if you have enough samples Now as Vivek was asking before the break now how do you know what noise distribution would help it
+speaker_1: This is a very powerful result right I mean it is saying that I mean all you need is to simply classify between the data distribution and some noise distribution And if you do it please note that these results are asymptotic in the sense that this will give you an estimate for the log likelihood of the underlying data distribution only if you have enough samples Now as Vivek was asking before the break now how do you know what noise distribution would help it
 
 
 what can be shown while doing this proof is that the larger is the divergence between px and pn the better it is to estimate the underlying data distribution okay now getting those noise samples is is very important now that is why we have so many methods on how do you define the hard negatives how do you how do you come up with the negative samples okay but yeah so this is the fundamental idea of why should solving a pretext task okay or a
@@ -1643,13 +1414,9 @@ not able to sample from PX
 
 Its a non generative
 
-### Speaker 2
+speaker_2: if we are not able to generate some samples then how can we say that we have learnt the original data distribution
 
-if we are not able to generate some samples then how can we say that we have learnt the original data distribution
-
-### Speaker 1
-
-And thats what we saw so far right
+speaker_1: And thats what we saw so far right
 
 
 See what we showed was that see we are not able to sample from this thing but
@@ -1657,29 +1424,17 @@ See what we showed was that see we are not able to sample from this thing but
 
 Solving this classification task what we are getting is at the penultimate layer of this classifier we are learning the log of the underlying distribution is what we just showed isnt it The entire todays class was on that
 
-### Speaker 2
+speaker_2: So
 
-So
+speaker_1: So we can learn the underlying data distribution even without sampling from a distribution is what we should
 
-### Speaker 1
+speaker_4: So from this if we connect it to a sampler it can ideally sample it right I mean we got the distribution right data
 
-So we can learn the underlying data distribution even without sampling from a distribution is what we should
+speaker_1: So we didnt know not explicitly right See given an x it will see what is this penultimate layer giving you given an x as an input it is giving you log of px of x thats all right It is not telling you what px of x is
 
-### Speaker 4
+speaker_4: So there is no way to
 
-So from this if we connect it to a sampler it can ideally sample it right I mean we got the distribution right data
-
-### Speaker 1
-
-So we didnt know not explicitly right See given an x it will see what is this penultimate layer giving you given an x as an input it is giving you log of px of x thats all right It is not telling you what px of x is
-
-### Speaker 4
-
-So there is no way to
-
-### Speaker 1
-
-There is no way absolutely no way no But what is what is important is that if you know log of px of x for all samples then you know everything about the data That is why these features are powerful
+speaker_1: There is no way absolutely no way no But what is what is important is that if you know log of px of x for all samples then you know everything about the data That is why these features are powerful
 
 
 See why do you think bird embeddings are so in fact bird also does exactly this thing we will come to that in a while Why do you think those are so powerful is because if you do this well ok with a large number of samples so that the log large number is is is respected then the the representations or the embeddings that you are getting from this classifier are actually estimating the log likelihood of the data right that is all So you know everything about the data so you can use it for anything that you want that is the idea but you are not able to sample
@@ -1708,13 +1463,9 @@ Can somebody tell me what abilities does it have
 
 It can generate it can generate it cant find out D it cant do posterior inference
 
-### Speaker 4
+speaker_4: Yeah
 
-Yeah
-
-### Speaker 1
-
-But we did see some examples right In your assignment I had asked you to did I ask you to do that or not Like build a classifier or an inverter over the generator and solve a reconstruction task over the latent space Did I ask you to do that
+speaker_1: But we did see some examples right In your assignment I had asked you to did I ask you to do that or not Like build a classifier or an inverter over the generator and solve a reconstruction task over the latent space Did I ask you to do that
 
 
 So you have done that right So now you can you can improvise GAN to to to do an inversion or a embedding extraction as well ok
@@ -1722,21 +1473,13 @@ So you have done that right So now you can you can improvise GAN to to to do an 
 
 All right service
 
-### Speaker 4
+speaker_4: So so in this case so this f theta for this discriminant will it be a scalar single number
 
-So so in this case so this f theta for this discriminant will it be a scalar single number
+speaker_1: Youre supposed to get that
 
-### Speaker 1
+speaker_2: getting only one output one or zero so
 
-Youre supposed to get that
-
-### Speaker 2
-
-getting only one output one or zero so
-
-### Speaker 1
-
-Yeah thats a very good question Yeah it will be scalar and thats why people said okay lets move away from this Why only do a binary classification problem Let us solve an n class classification problem which is what is called as info NC
+speaker_1: Yeah thats a very good question Yeah it will be scalar and thats why people said okay lets move away from this Why only do a binary classification problem Let us solve an n class classification problem which is what is called as info NC
 
 
 Okay where the idea is to extend and see
@@ -1747,13 +1490,9 @@ Whoa
 
 Multi class classification study
 
-### Speaker 2
+speaker_2: so that we can get a vector of embeddings
 
-so that we can get a vector of embeddings
-
-### Speaker 1
-
-So what InfoNCD does is that it is simply a multi class classification problem so given a data point
+speaker_1: So what InfoNCD does is that it is simply a multi class classification problem so given a data point
 
 
 data point x i ok defined
@@ -1851,32 +1590,20 @@ from the other classes and you solve the K class classification problem
 
 Does it make sense
 
-### Speaker 3
+speaker_3: Yes sure
 
-Yes sure
+speaker_1: Any questions on this
 
-### Speaker 1
-
-Any questions on this
-
-### Speaker 4
-
-So this one will result in a k plus 1 vector outright
+speaker_4: So this one will result in a k plus 1 vector outright
 
 
 I mean the the the the the dimension of the
 
-### Speaker 1
+speaker_1: Not not necessarily the representative see the way no no the way they have done it
 
-Not not necessarily the representative see the way no no the way they have done it
+speaker_4: that our presentation
 
-### Speaker 4
-
-that our presentation
-
-### Speaker 1
-
-they have taken the the penultimate layer to be of some d dimensions Now the loss function will take those d dimensional vectors and compute the dot product between those representations here That is how they implement this f k
+speaker_1: they have taken the the penultimate layer to be of some d dimensions Now the loss function will take those d dimensional vectors and compute the dot product between those representations here That is how they implement this f k
 
 
 So you can you can actually customize it
@@ -1899,17 +1626,11 @@ in terms of dot products right or inner products between the pre logit layers ok
 
 Is this alright
 
-### Speaker 4
+speaker_4: Oh yes sir but uh there is no noise in
 
-Oh yes sir but uh there is no noise in
+speaker_3: Hold here now right
 
-### Speaker 3
-
-Hold here now right
-
-### Speaker 1
-
-Well you can see all the negative samples that you get here right I mean is actually the noise See if you look at the algorithm what they do is they take one sample okay one data data example okay and create all the augmentations of it and call it the positive example
+speaker_1: Well you can see all the negative samples that you get here right I mean is actually the noise See if you look at the algorithm what they do is they take one sample okay one data data example okay and create all the augmentations of it and call it the positive example
 
 
 And then what they do is they sample randomly Ill just show you that
@@ -1917,29 +1638,17 @@ And then what they do is they sample randomly Ill just show you that
 
 See here they say that we do not sample negative examples explicitly Instead given a positive pair we treat the other 2 n minus 1 augmented examples with a mini batch as negative examples This is the way they define the noise here
 
-### Speaker 4
+speaker_4: Okay okay
 
-Okay okay
+speaker_1: But again as I said there are lots of improvisations over it I mean then people came up with something called MOCO right momentum update contrastive encoding yeah
 
-### Speaker 1
+speaker_4: So what effect does this re actually have this just tries to push away the vectors from each other like if youre going to say the dot product
 
-But again as I said there are lots of improvisations over it I mean then people came up with something called MOCO right momentum update contrastive encoding yeah
+speaker_1: So what is what this what does it do is whenever you have the positive pairs it will try to cluster them together whenever they are they are they are negative pairs they will try to push them apart that is what a classifier also does isnt it
 
-### Speaker 4
+speaker_3: Right yeah so
 
-So what effect does this re actually have this just tries to push away the vectors from each other like if youre going to say the dot product
-
-### Speaker 1
-
-So what is what this what does it do is whenever you have the positive pairs it will try to cluster them together whenever they are they are they are negative pairs they will try to push them apart that is what a classifier also does isnt it
-
-### Speaker 3
-
-Right yeah so
-
-### Speaker 1
-
-That is exactly what a classifier does It is trying to cluster the points that are from one category It is trying to push the points from the other categories away Thats all Now what is the intuition See I did the math because I mean you might have probably known from the course so far is that I I mean I get convinced better if I am shown some mathematical guarantees of whats actually happening But I can give you some intuition also So what is actually happening
+speaker_1: That is exactly what a classifier does It is trying to cluster the points that are from one category It is trying to push the points from the other categories away Thats all Now what is the intuition See I did the math because I mean you might have probably known from the course so far is that I I mean I get convinced better if I am shown some mathematical guarantees of whats actually happening But I can give you some intuition also So what is actually happening
 
 
 with all these methodologies is that suppose you know how to uh like
@@ -1956,24 +1665,16 @@ Right So thats the whole point So now as means you do you recall these uh uh the
 
 what the semantics are isnt it
 
-### Speaker 4
+speaker_4: Yes yes
 
-Yes yes
-
-### Speaker 1
-
-Thats the whole point In fact the all these language LLMs today are learned using that technique or this technique only which is that yeah which is the mass reconstruction So you have data you mass some parts of it and try to reconstruct it back So which is nothing but classifying between the data sample and the noise sample
+speaker_1: Thats the whole point In fact the all these language LLMs today are learned using that technique or this technique only which is that yeah which is the mass reconstruction So you have data you mass some parts of it and try to reconstruct it back So which is nothing but classifying between the data sample and the noise sample
 
 
 Okay so any other question on this
 
-### Speaker 4
+speaker_4: So there is a two into n minus one images right So what is that two indicates here Is that two augmentations only we do or images
 
-So there is a two into n minus one images right So what is that two indicates here Is that two augmentations only we do or images
-
-### Speaker 1
-
-No no no no given a an image you take n augmentations
+speaker_1: No no no no given a an image you take n augmentations
 
 
 And you sample another random point
@@ -1984,32 +1685,20 @@ Okay so that will make it 2 n minus 1 isnt it I mean they count from 0 thats why
 
 Basically its 2n So you take an image or a data point you take n augmentations of it and call all of them as positive right And then you sample n negative samples from the data set So that will make it 2n no 2 capital N thats all it is
 
-### Speaker 2
+speaker_2: Sir and negative samples here means can you clarify
 
-Sir and negative samples here means can you clarify
+speaker_1: You need samples from the noise distribution right
 
-### Speaker 1
+speaker_2: Yes
 
-You need samples from the noise distribution right
-
-### Speaker 2
-
-Yes
-
-### Speaker 1
-
-Now what is done is that you take a dog image and you take n augmentation that will give you the positive ones
+speaker_1: Now what is done is that you take a dog image and you take n augmentation that will give you the positive ones
 
 
 You need samples from the noise distribution as well So what is done is people just sample n random points from the data set itself and call them the samples from the noise
 
-### Speaker 2
+speaker_2: from this dog data set itself
 
-from this dog data set itself
-
-### Speaker 1
-
-Not dog this data set has all kinds of objects
+speaker_1: Not dog this data set has all kinds of objects
 
 
 This data set has all kinds of objects So now if you randomly do a sampling from all objects the other n samples that you have gotten hopefully are not from the dog category Thats a good point that you made See what happens is these methods especially SimCLR has been shown to work well only if you have a very very large batch size
@@ -2026,43 +1715,27 @@ What happens is if you take if you sample a very large number of samples then mo
 
 Okay uh questions on this yeah we wait
 
-### Speaker 4
+speaker_4: So uh one question so is the noise contrastive estimation the same as out of data distribution detection
 
-So uh one question so is the noise contrastive estimation the same as out of data distribution detection
-
-### Speaker 1
-
-Uh sort of yeah you can you can you can view it as uh like outlier detection actually yeah
+speaker_1: Uh sort of yeah you can you can you can view it as uh like outlier detection actually yeah
 
 
 See if you if you are solving the binary classification problem yes it is outlier detection If you are solving the k class classification problem then like detecting outliers from multiple distributions Okay what is it
 
-### Speaker 4
+speaker_4: No so outlier is a very specific case what I mean is something like out of distribution detection which means
 
-No so outlier is a very specific case what I mean is something like out of distribution detection which means
+speaker_1: Agreed Agreed You want to you you are classifying between the the set of samples samples of the data distribution and everything that is not data Yes
 
-### Speaker 1
-
-Agreed Agreed You want to you you are classifying between the the set of samples samples of the data distribution and everything that is not data Yes
-
-### Speaker 4
-
-I agree I agree
+speaker_4: I agree I agree
 
 
 Yes yes yes yeah
 
-### Speaker 1
+speaker_1: See that thats how human beings also learn no if you know how to classify between you know what is important what is not important then
 
-See that thats how human beings also learn no if you know how to classify between you know what is important what is not important then
+speaker_4: So
 
-### Speaker 4
-
-So
-
-### Speaker 1
-
-Then you have learned the tricks of the life thats what they say
+speaker_1: Then you have learned the tricks of the life thats what they say
 
 
 Okay so let me come back get back to this So as I said there are multiple improvisations over it So now one question that people ask is now how do you reduce the batch size in SimCIRR So one way to do it is that whenever you are sampling from the noise distribution as Vivek was asking
@@ -2145,24 +1818,16 @@ anchor point or the data point at over interest okay of interest so all the cont
 
 Its a funny
 
-### Speaker 4
+speaker_4: So but in this uh current context we do not have the labels right so thats why we dont
 
-So but in this uh current context we do not have the labels right so thats why we dont
-
-### Speaker 1
-
-We dont we dont we dont Exactly exactly So now see what might happen no Like one particular sample from the same class might creep up here right Thats why you need a large batch size Thats what Im saying So these examples have to be negative enough for this to work because they have to actually come from PN Now thats why if you have very large batch size then the likelihood of having samples not from the same class or semantic
+speaker_1: We dont we dont we dont Exactly exactly So now see what might happen no Like one particular sample from the same class might creep up here right Thats why you need a large batch size Thats what Im saying So these examples have to be negative enough for this to work because they have to actually come from PN Now thats why if you have very large batch size then the likelihood of having samples not from the same class or semantic
 
 
 Label as that of the anchor point is less the idea
 
-### Speaker 4
+speaker_4: You need some kind of balanced data set here right as well
 
-You need some kind of balanced data set here right as well
-
-### Speaker 1
-
-Uh not balance you need a l yeah I mean you can say balance or you need a lot of negative samples thats all
+speaker_1: Uh not balance you need a l yeah I mean you can say balance or you need a lot of negative samples thats all
 
 
 Okay now uh
@@ -2182,21 +1847,13 @@ What is the other thing called it is a world toek
 
 All these are variants of this NCE and info NCE okay
 
-### Speaker 4
+speaker_4: So how do we click
 
-So how do we click
+speaker_1: Clip is also there but clip is for uh like its for multi its for multi uh multi modal data but the idea idea is exactly the same I can add it yeah
 
-### Speaker 1
+speaker_4: Im sorry
 
-Clip is also there but clip is for uh like its for multi its for multi uh multi modal data but the idea idea is exactly the same I can add it yeah
-
-### Speaker 4
-
-Im sorry
-
-### Speaker 1
-
-I will write it so for speech you have the wave to like for image plus
+speaker_1: I will write it so for speech you have the wave to like for image plus
 
 
 Next you have
@@ -2210,13 +1867,9 @@ Contrastive pre training for images and languages it thats what it
 
 Just opening the clip paper
 
-### Speaker 2
+speaker_2: Contrastive language image pre training
 
-Contrastive language image pre training
-
-### Speaker 1
-
-Yeah contrastive language image pretraining okay
+speaker_1: Yeah contrastive language image pretraining okay
 
 
 That we spoke of clip no Maybe I can also talk about it So you know how it is done
@@ -2257,21 +1910,13 @@ You have an image comma text that is the kind of data that you have Okay Now uh
 
 Do you need the pair I dont think you need the pair
 
-### Speaker 4
+speaker_4: We need the persons
 
-We need the persons
+speaker_1: Do we
 
-### Speaker 1
+speaker_4: Yes very much and in very large numbers
 
-Do we
-
-### Speaker 4
-
-Yes very much and in very large numbers
-
-### Speaker 1
-
-Let me just think about that
+speaker_1: Let me just think about that
 
 
 Contrastive pre training you have the
@@ -2279,32 +1924,20 @@ Contrastive pre training you have the
 
 done let me just see
 
-### Speaker 4
+speaker_4: In a given batch there is a set of images and their captions
 
-In a given batch there is a set of images and their captions
+speaker_1: You need the corresponding captions also no
 
-### Speaker 1
-
-You need the corresponding captions also no
-
-### Speaker 4
-
-Yes
+speaker_4: Yes
 
 
 And the only thing is in that uh
 
-### Speaker 1
+speaker_1: Yeah you do need uh pairs
 
-Yeah you do need uh pairs
+speaker_4: I mean it has to be a set and in that set whatever belongs to that image that only those dot products should be maximized and all the others should be minimized
 
-### Speaker 4
-
-I mean it has to be a set and in that set whatever belongs to that image that only those dot products should be maximized and all the others should be minimized
-
-### Speaker 1
-
-So what is good is I will tell you yeah You do the same thing no for every text you get you get and I just yeah what will happen is for text let us say that you get some t1 t2 corresponding to some tn there are embeddings for n possible text and similarly for images suppose there are n images right you get image 1 image 2 up to image n okay So you take n embeddings from the
+speaker_1: So what is good is I will tell you yeah You do the same thing no for every text you get you get and I just yeah what will happen is for text let us say that you get some t1 t2 corresponding to some tn there are embeddings for n possible text and similarly for images suppose there are n images right you get image 1 image 2 up to image n okay So you take n embeddings from the
 
 
 Uh
@@ -2441,13 +2074,9 @@ This is what I have asked you to implement okay So when you dont have to do it u
 
 Can you confirm if you see my screen
 
-### Speaker 4
+speaker_4: Those are not visible
 
-Those are not visible
-
-### Speaker 1
-
-Thats cool
+speaker_1: Thats cool
 
 
 Yeah I will take questions in a while
@@ -2455,13 +2084,9 @@ Yeah I will take questions in a while
 
 Now do you see the screen
 
-### Speaker 4
+speaker_4: This
 
-This
-
-### Speaker 1
-
-This is what they do right They taken a given image given an image they divide the image into non overlapping patches or yeah non overlapping patches and they randomly take some patches as target patches okay And then take some other patches as context patches Now the task is that if you are given context patches they have two encoders one they call as context encoder and target encoder which share the weights Now given the context
+speaker_1: This is what they do right They taken a given image given an image they divide the image into non overlapping patches or yeah non overlapping patches and they randomly take some patches as target patches okay And then take some other patches as context patches Now the task is that if you are given context patches they have two encoders one they call as context encoder and target encoder which share the weights Now given the context
 
 
 patches the task is to predict the target patches
@@ -2496,131 +2121,77 @@ lies in Nash Kantor estimation
 
 Okay questions Its a survey
 
-### Speaker 4
+speaker_4: The assignment we are implementing IJPEGG so it is a typo right
 
-The assignment we are implementing IJPEGG so it is a typo right
+speaker_1: I J E
 
-### Speaker 1
+speaker_4: PG in the 70s
 
-I J E
-
-### Speaker 4
-
-PG in the 70s
-
-### Speaker 1
-
-The second one should be yeah yeah of course yeah
+speaker_1: The second one should be yeah yeah of course yeah
 
 
 the other
 
-### Speaker 4
+speaker_4: So when choosing the patches they are completely random or there is some yeah
 
-So when choosing the patches they are completely random or there is some yeah
-
-### Speaker 1
-
-Theyre random theyre random
+speaker_1: Theyre random theyre random
 
 
 They are random but what they do know they will ensure that the patches for the context and the target are non overlapping
 
-### Speaker 4
-
-Answer the
+speaker_4: Answer the
 
 
 Youre talking about
 
-### Speaker 1
+speaker_1: Oh
 
-Oh
+speaker_4: Choosing that
 
-### Speaker 4
+speaker_1: So that they have that that that is a hyper that is actually a hyper parameter okay and they have experimented with multiple of them
 
-Choosing that
+speaker_4: So in the IJPA uh net I mean method uh what how does the decoder and encoder look like uh like what is no decoder
 
-### Speaker 1
-
-So that they have that that that is a hyper that is actually a hyper parameter okay and they have experimented with multiple of them
-
-### Speaker 4
-
-So in the IJPA uh net I mean method uh what how does the decoder and encoder look like uh like what is no decoder
-
-### Speaker 1
-
-There is no decoder
+speaker_1: There is no decoder
 
 
 There is no decoder there there are two encoders one is the context encoder the other is called the target encoder
 
-### Speaker 4
+speaker_4: Then what are we learning there I mean what is learned is it a network
 
-Then what are we learning there I mean what is learned is it a network
+speaker_1: the network no the encoder that is MF theta network that would take a pair of I mean that would take a a a patch as an input and gives you some vector as an output
 
-### Speaker 1
+speaker_4: okay okay okay fine fine fine only okay so its not generating anything it is not generating anything no no
 
-the network no the encoder that is MF theta network that would take a pair of I mean that would take a a a patch as an input and gives you some vector as an output
+speaker_1: Hes not generating anything
 
-### Speaker 4
+speaker_4: Okay
 
-okay okay okay fine fine fine only okay so its not generating anything it is not generating anything no no
+speaker_2: Is that an assignment or a question
 
-### Speaker 1
+speaker_1: you can you can say that there is also a a a predictor right what which will do is that will take the see what they use for f theta is a is a vision transformer so this transformer would give you the embeddings okay they also have a predictor network that would take these embeddings right from the true target patch and predict the yeah
 
-Hes not generating anything
+speaker_4: Okay predict the I mean the entire image with the with the field in
 
-### Speaker 4
+speaker_1: Not the image not the image it will predict the uh it will take as input the the embedding corresponding to the context yeah embeddings of the context is taken as input and it will predict the embeddings of the target
 
-Okay
-
-### Speaker 2
-
-Is that an assignment or a question
-
-### Speaker 1
-
-you can you can say that there is also a a a predictor right what which will do is that will take the see what they use for f theta is a is a vision transformer so this transformer would give you the embeddings okay they also have a predictor network that would take these embeddings right from the true target patch and predict the yeah
-
-### Speaker 4
-
-Okay predict the I mean the entire image with the with the field in
-
-### Speaker 1
-
-Not the image not the image it will predict the uh it will take as input the the embedding corresponding to the context yeah embeddings of the context is taken as input and it will predict the embeddings of the target
-
-### Speaker 4
-
-Youre building a
+speaker_4: Youre building a
 
 
 Okay without ever having to generate anything it can There is no generation there is no generation Okay okay okay
 
-### Speaker 1
-
-There is no generation there is no generation okay okay okay so there are two encoders basically let me just show you the figure again hold on
+speaker_1: There is no generation there is no generation okay okay okay so there are two encoders basically let me just show you the figure again hold on
 
 
 Is my screen visible
 
-### Speaker 4
+speaker_4: Yes yes
 
-Yes yes
+speaker_1: See there are two encoders one is called the context encoder and the target encoder okay So what will give is this con context encoder will give you a vector target encoder will give you another vector right
 
-### Speaker 1
+speaker_4: Yes
 
-See there are two encoders one is called the context encoder and the target encoder okay So what will give is this con context encoder will give you a vector target encoder will give you another vector right
-
-### Speaker 4
-
-Yes
-
-### Speaker 1
-
-Now what would this there is another network called the predictor network What would this predictor network do It will take the embedding corresponding to the context encoder
+speaker_1: Now what would this there is another network called the predictor network What would this predictor network do It will take the embedding corresponding to the context encoder
 
 
 Right
@@ -2628,13 +2199,9 @@ Right
 
 and predict the the target the embeddings of the target encoder
 
-### Speaker 4
+speaker_4: Yeah embeddings of the target yeah okay
 
-Yeah embeddings of the target yeah okay
-
-### Speaker 1
-
-embeddings of the target encoder and the loss for this G right So basically how does the loss go So there are two networks like this F theta and F theta cat Both of these are vision transformers The context network will take some patches from the context It will take context patches Target encoder will take target patches So you get two embeddings right Corresponding to target and the context Now you take a predictor network that would take as input the encoding embedding
+speaker_1: embeddings of the target encoder and the loss for this G right So basically how does the loss go So there are two networks like this F theta and F theta cat Both of these are vision transformers The context network will take some patches from the context It will take context patches Target encoder will take target patches So you get two embeddings right Corresponding to target and the context Now you take a predictor network that would take as input the encoding embedding
 
 
 correspond I mean output of the context encoder okay and predicts the output of the target encoder
@@ -2642,84 +2209,52 @@ correspond I mean output of the context encoder okay and predicts the output of 
 
 It clear
 
-### Speaker 4
+speaker_4: Yes thank you
 
-Yes thank you
+speaker_1: there is an L2 loss between them thats what you need to implement as I said no for for your implementation purposes uh you can either use a uh a vision transformer here if you if you can otherwise you can use a simple CNN also here no problem
 
-### Speaker 1
+speaker_4: Do we need two networks here to be trained separately
 
-there is an L2 loss between them thats what you need to implement as I said no for for your implementation purposes uh you can either use a uh a vision transformer here if you if you can otherwise you can use a simple CNN also here no problem
-
-### Speaker 4
-
-Do we need two networks here to be trained separately
-
-### Speaker 1
-
-I mean what is done in practice is that they take you actually need two networks but you can share the weights between them You need one network for target encoding the other for the context encoding
+speaker_1: I mean what is done in practice is that they take you actually need two networks but you can share the weights between them You need one network for target encoding the other for the context encoding
 
 
 Okay so great I think we have to took lot more time than usual Okay so thats it for today Uh we will reconvene again next week
 
-### Speaker 2
-
-Answer one question In question number nine it says distilled the above resonate on a small sized MLP
+speaker_2: Answer one question In question number nine it says distilled the above resonate on a small sized MLP
 
 
 What do we mean by distilling it
 
-### Speaker 1
+speaker_1: Not taught you distillation right
 
-Not taught you distillation right
+speaker_4: So take a smaller network and show it a lot of uh
 
-### Speaker 4
+speaker_1: No no no I have to I have to teach distillation
 
-So take a smaller network and show it a lot of uh
+speaker_4: Little rat
 
-### Speaker 1
-
-No no no I have to I have to teach distillation
-
-### Speaker 4
-
-Little rat
-
-### Speaker 1
-
-Let me do it next week if I do it next week then I have to extend the assignment deadline for one more week
+speaker_1: Let me do it next week if I do it next week then I have to extend the assignment deadline for one more week
 
 
 This is a small topic that I wanted to said that should be
 
-### Speaker 2
-
-So that should be helpful sir
+speaker_2: So that should be helpful sir
 
 
 That should be helpful
 
-### Speaker 1
+speaker_1: I will do that too much
 
-I will do that too much
+speaker_4: Its our equal ending our
 
-### Speaker 4
-
-Its our equal ending our
-
-### Speaker 1
-
-Meaning the uh assignment deadline you are saying huh
+speaker_1: Meaning the uh assignment deadline you are saying huh
 
 
 Its okay no I mean Ill just give you maybe one more week till 30th
 
-### Speaker 2
+speaker_2: Yes sir yes sir its okay
 
-Yes sir yes sir its okay
-
-### Speaker 1
-
-38 should be okay no Let me do it right away So thats it
+speaker_1: 38 should be okay no Let me do it right away So thats it
 
 
 Signments

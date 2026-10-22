@@ -10,7 +10,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-CV W RITING ERED I OUR YOU
+speaker_1: CV W RITING ERED I OUR YOU
 
 
 WORDS 3 IMPROVED

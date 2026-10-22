@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Andra gången i Stockholm på fem dagar. Dessförinnan sex månader sedan. Är a
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Andra gången i Stockholm på fem dagar. Dessförinnan sex månader sedan. Är allt normalt nu? Njae, inte riktigt. Färre på tågen. Mer handsprit. Viss distansering. Annorlunda men nästan samma ändå.
-
+speaker_1: Andra gången i Stockholm på fem dagar. Dessförinnan sex månader sedan. Är allt normalt nu? Njae, inte riktigt. Färre på tågen. Mer handsprit. Viss distansering. Annorlunda men nästan samma ändå.
 
 ## Comments (1)
 

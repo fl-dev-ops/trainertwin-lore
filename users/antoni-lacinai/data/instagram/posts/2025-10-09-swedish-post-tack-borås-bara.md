@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -24,7 +24,4 @@ Borås - ni rockar!
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Tack Borås. Bara en vecka sedan, men fortfarande varm om hjärtat. Tack Charlotte på Booky och Annika på näringslivsenheten som bjöd in mig. Borås, ni rockar.
-
+speaker_1: Tack Borås. Bara en vecka sedan, men fortfarande varm om hjärtat. Tack Charlotte på Booky och Annika på näringslivsenheten som bjöd in mig. Borås, ni rockar.

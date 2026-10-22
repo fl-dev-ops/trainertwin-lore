@@ -20,8 +20,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -29,10 +29,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So I was on your podcast you were on our podcast on the one that I have with Dennis on our tech journey and now youre on my podcast So were sharing a lot of podcast sessions I think
 
-So I was on your podcast you were on our podcast on the one that I have with Dennis on our tech journey and now youre on my podcast So were sharing a lot of podcast sessions I think
-
-### Speaker 2 · Speaker 2
-
-Yes I think its great you know like uh we have so many channels opportunities so I think its great And Im super happy to be here so as Adrian said any questions as we go through the flow any questions you might have I would be happy to answer them
+speaker_2: Yes I think its great you know like uh we have so many channels opportunities so I think its great And Im super happy to be here so as Adrian said any questions as we go through the flow any questions you might have I would be happy to answer them

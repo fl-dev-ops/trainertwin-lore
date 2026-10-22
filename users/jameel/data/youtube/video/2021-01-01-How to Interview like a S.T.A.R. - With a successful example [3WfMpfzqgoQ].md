@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,17 +18,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: In this video I will share with you a very simple tool to prepare for your next interview The tool Im about to share with you is used by a vast majority of companies around the world for their interviewing process
 
-In this video I will share with you a very simple tool to prepare for your next interview The tool Im about to share with you is used by a vast majority of companies around the world for their interviewing process
+speaker_2: Lets get started
 
-### Speaker 2
-
-Lets get started
-
-### Speaker 1
-
-So in most of the job descriptions you will come across as you are preparing for an interview you will see that these job descriptions typically have a list of competencies or skills mentioned
+speaker_1: So in most of the job descriptions you will come across as you are preparing for an interview you will see that these job descriptions typically have a list of competencies or skills mentioned
 
 
 These skills could be soft skills like teamwork problem solving developing others conflict management drive for change drive for results Or these could be hard skills like accounting project management advertising logistics management and so on Of course it depends on what job youre applying for So the first thing you need to do is make a list of all those skills or competencies which are mentioned on the job description for the job that youre applying for

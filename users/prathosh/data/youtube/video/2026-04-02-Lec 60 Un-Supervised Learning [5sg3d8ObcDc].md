@@ -6,14 +6,15 @@ date: '2026-04-02'
 duration: 20:43
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 60 Un-Supervised Learning
 
 ## Transcript
 
-
-Welcome everyone to this course Now
+speaker_1: Welcome everyone to this course Now
 lets go to the next paradigm in machine
 learning which is called unsupervised
 learning

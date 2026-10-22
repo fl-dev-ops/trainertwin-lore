@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,18 +30,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Yeah
 
-Yeah
+speaker_2: They couldnt switch off their camera They were there right in front of me So okay Maybe maybe I need to change approach Maybe I need to you know change my pace intonation whatever but I get this instant feedback Whereas yeah when we are here and Im happy that we are both on camera here so if I switch that off
 
-### Speaker 2 · Speaker 2
+speaker_1: Yeah its like if I switch that off Yeah like lets lets run podcast without cameras That that wouldnt be enjoyable
 
-They couldnt switch off their camera They were there right in front of me So okay Maybe maybe I need to change approach Maybe I need to you know change my pace intonation whatever but I get this instant feedback Whereas yeah when we are here and Im happy that we are both on camera here so if I switch that off
-
-### Speaker 1 · Speaker 1
-
-Yeah its like if I switch that off Yeah like lets lets run podcast without cameras That that wouldnt be enjoyable
-
-### Speaker 2 · Speaker 2
-
-No absolutely not Okay that is weve talked about anger fighter flight So a whole series of emotions And and I guess you know like at the beginning you were feeling a lot of them because you know youre in a new environment youre trying to communicate and you get this feedback
+speaker_2: No absolutely not Okay that is weve talked about anger fighter flight So a whole series of emotions And and I guess you know like at the beginning you were feeling a lot of them because you know youre in a new environment youre trying to communicate and you get this feedback

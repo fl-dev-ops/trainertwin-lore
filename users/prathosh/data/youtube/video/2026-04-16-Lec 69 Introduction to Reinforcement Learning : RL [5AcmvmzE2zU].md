@@ -6,14 +6,15 @@ date: '2026-04-16'
 duration: 31:13
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 69 Introduction to Reinforcement Learning : RL
 
 ## Transcript
 
-
-Welcome everyone
+speaker_1: Welcome everyone
 So the last topic that I wanted to touch
 upon today was RL reinforcement learning
 and as I said reinforcement learning is

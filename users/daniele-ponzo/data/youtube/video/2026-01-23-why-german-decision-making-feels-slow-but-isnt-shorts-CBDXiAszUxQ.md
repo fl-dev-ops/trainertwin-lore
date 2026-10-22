@@ -19,8 +19,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -28,14 +28,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: confronts difficulties
 
-confronts difficulties
+speaker_2: Sure
 
-### Speaker 2 · Speaker 2
-
-Sure
-
-### Speaker 1 · Speaker 1
-
-So I asked I asked the German guy the German guy what if you had something uh something a difficulty in your life that you need to confront and and to decide what to do and things like that that you can tell me not not about sickness or something a difficult situation that you need to to deal with and The guy in Germany told me yes I needed to to to decide if I do the PhD or not And for me I thought the guy was joking with me But no it was a genuine it was a genuine
+speaker_1: So I asked I asked the German guy the German guy what if you had something uh something a difficulty in your life that you need to confront and and to decide what to do and things like that that you can tell me not not about sickness or something a difficult situation that you need to to deal with and The guy in Germany told me yes I needed to to to decide if I do the PhD or not And for me I thought the guy was joking with me But no it was a genuine it was a genuine

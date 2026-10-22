@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,20 +18,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-if you create lets say you will use this memory location first the one
+speaker_1: if you create lets say you will use this memory location first the one
 
 
 Then you will not use to you will use the second memory locations So lets say you stored 10 value 10 here Okay Then you have stored value 20 here Correct And you have a link from this to this
 
-### Speaker 2
+speaker_2: Hi all welcome back to uncommon geeks myself Faustin I hope you all doing well as you know theres a video series where were discussing about data section algorithm Ive already made one in
 
-Hi all welcome back to uncommon geeks myself Faustin I hope you all doing well as you know theres a video series where were discussing about data section algorithm Ive already made one in
-
-### Speaker 1
-
-introduction video clearly explained how difficult or how painful the data structures and algorithm for front end developers and how this series is going to be Please watch the introduction video if you have not watched so that you will be more prepared mentally when coming to this video Okay So what is this video is about So this video is about introduction to linked list Okay So one important trivia Ill tell Actually JavaScript it doesnt have a linked list of its own Okay What do I mean by that So why JavaScript doesnt have a linked list of its own Somewhere in the video Im going to decode that
+speaker_1: introduction video clearly explained how difficult or how painful the data structures and algorithm for front end developers and how this series is going to be Please watch the introduction video if you have not watched so that you will be more prepared mentally when coming to this video Okay So what is this video is about So this video is about introduction to linked list Okay So one important trivia Ill tell Actually JavaScript it doesnt have a linked list of its own Okay What do I mean by that So why JavaScript doesnt have a linked list of its own Somewhere in the video Im going to decode that
 
 
 So this is also one of the very important interview questions So please do watch the video till the end Okay Without wasting further time lets get started with the linked list introduction Okay Ive created a small presentation Okay to show uh about the linked list so im just starting with that so linked list is a linear data structure in which elements are not stored at a contiguous memory location the elements in a linked list are linked using the pointers so this definition is not mine as most of you guess this ive taken from the gix for gix and this is a typical definition anybody would write similar so since ive read by

@@ -6,14 +6,15 @@ date: '2026-02-18'
 duration: 25:18
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 29 Generalized Least Squares (GLS)
 
 ## Transcript
 
-
-Welcome back In the case of generalized
+speaker_1: Welcome back In the case of generalized
 linear models here is the idea Now in
 the knife linear model we assume that
 the h theta or the hypothesis function

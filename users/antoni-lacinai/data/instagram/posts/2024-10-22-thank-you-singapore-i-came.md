@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Thank you Singapore. I came. I spoke. I leave. Next time I’ll be here longer �
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-When I met you in the summer
-
+speaker_1: When I met you in the summer

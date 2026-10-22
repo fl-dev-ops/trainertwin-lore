@@ -23,8 +23,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -32,10 +32,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: honestly we play a very important role
 
-honestly we play a very important role
-
-### Speaker 2 · Speaker 2
-
-I I I mean I strongly agree with you Donna And you know the fact that sometimes you see kids like very interested in their shoes and their clothes and how expensive their gifts are But then you know this part like the teaching the the growing somehow gets forgotten And and I dont think its right you know So there is a whole uh perspective that needs to be shifted you know in my opinion And uh but thats you know thats a long story but you know its uh it is it is like this and I and I totally agree you know So like we should go like teachers need to be recognized for the value they bring you know Thats
+speaker_2: I I I mean I strongly agree with you Donna And you know the fact that sometimes you see kids like very interested in their shoes and their clothes and how expensive their gifts are But then you know this part like the teaching the the growing somehow gets forgotten And and I dont think its right you know So there is a whole uh perspective that needs to be shifted you know in my opinion And uh but thats you know thats a long story but you know its uh it is it is like this and I and I totally agree you know So like we should go like teachers need to be recognized for the value they bring you know Thats

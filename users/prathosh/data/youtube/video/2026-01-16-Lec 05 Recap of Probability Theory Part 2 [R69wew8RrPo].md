@@ -6,14 +6,15 @@ date: '2026-01-16'
 duration: 21:42
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 05 Recap of Probability Theory Part 2
 
 ## Transcript
 
-
-Welcome to this class uh in the course
+speaker_1: Welcome to this class uh in the course
 mathematical foundations of uh machine
 learning In this class we will
 continue with our discussions on the

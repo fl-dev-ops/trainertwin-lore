@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 26:33
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 4 : Minmax Classifier
 
 ## Transcript
 
-
-Hello all welcome to this tutorial in
+speaker_1: Hello all welcome to this tutorial in
 which we will be going ahead and looking
 at one specific classifier known as the
 minmax classifier

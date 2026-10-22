@@ -26,7 +26,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -34,6 +34,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-but there is slow because clarity is what truly matters especially when you are in an international context So yeah slow down start you know being easier on yourself take your pauses um articulate clearly Thats all okay you know especially at the beginning Its a process its a journey
+speaker_1: but there is slow because clarity is what truly matters especially when you are in an international context So yeah slow down start you know being easier on yourself take your pauses um articulate clearly Thats all okay you know especially at the beginning Its a process its a journey

@@ -11,8 +11,8 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 ## Caption
@@ -20,15 +20,8 @@ Candellight concert på Eric Ericssonhallen med @rosakvartetten 🕯️🕯️�
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: match.
 
-match.
+speaker_2: Exactly. Okay.
 
-### Speaker 2 · Speaker 2
-
-Exactly. Okay.
-
-### Speaker 1 · Speaker 1
-
-Okay.
-
+speaker_1: Okay.

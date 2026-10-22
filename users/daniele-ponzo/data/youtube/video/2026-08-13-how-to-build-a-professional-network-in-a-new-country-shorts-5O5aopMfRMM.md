@@ -27,7 +27,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -35,6 +35,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-and um I almost said yes but thankfully I had my three seconds of wisdom and I said you know what Thank you very much for the opportunity but moreover thank you very much for the insight because thats exactly what I needed And from that moment on I completely changed how I engaged with people how I I how I purposefully grew my network the events that I was attending absolutely everything And from that moment on my life changed for the better And again I really want to highlight that it was not someone elses change Nothing around me changed
+speaker_1: and um I almost said yes but thankfully I had my three seconds of wisdom and I said you know what Thank you very much for the opportunity but moreover thank you very much for the insight because thats exactly what I needed And from that moment on I completely changed how I engaged with people how I I how I purposefully grew my network the events that I was attending absolutely everything And from that moment on my life changed for the better And again I really want to highlight that it was not someone elses change Nothing around me changed

@@ -41,7 +41,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -49,6 +49,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So my recommendations for people who wants an international experience whether in Singapore or some other parts of the world I will share three things This is three things that I usually share Stay curious is number one So international experience is not just about going there travel Its really about making an effort to learn how different people think and leave Because that will involve a lot of factor And second is to develop self awareness As we are conversation you know conversation so far I think you will realize that Im someone that go into awareness Im aware of this Im aware of that So when you understand about your own values strengths and motivations you will be able to adapt to the changing environment the new environment without losing yourself And thats where you are standing aligned with who you are
+speaker_1: So my recommendations for people who wants an international experience whether in Singapore or some other parts of the world I will share three things This is three things that I usually share Stay curious is number one So international experience is not just about going there travel Its really about making an effort to learn how different people think and leave Because that will involve a lot of factor And second is to develop self awareness As we are conversation you know conversation so far I think you will realize that Im someone that go into awareness Im aware of this Im aware of that So when you understand about your own values strengths and motivations you will be able to adapt to the changing environment the new environment without losing yourself And thats where you are standing aligned with who you are

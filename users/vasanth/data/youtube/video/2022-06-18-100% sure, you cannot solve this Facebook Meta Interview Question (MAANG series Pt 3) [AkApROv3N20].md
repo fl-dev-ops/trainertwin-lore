@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,17 +19,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: Most of you would be thinking this is very easy So there is a function called clear all timeout and we can use that to clear all timeouts Correct Unfortunately there is nothing no function called clear all timeout
 
-Most of you would be thinking this is very easy So there is a function called clear all timeout and we can use that to clear all timeouts Correct Unfortunately there is nothing no function called clear all timeout
+speaker_2: What is it They come
 
-### Speaker 2
-
-What is it They come
-
-### Speaker 1
-
-to uncommon geeks myself first and i hope you are all doing well so as you know this is a video series where we are discussing about a mang interview questions mang refers to metas slash facebook and apple amazon netflix and google the most common question that are asked in the front end developer interview in these questions im going to discuss in this particular video series so its highly beneficial if you are someone who targeting for these tire one companies they require you to prepare in a altogether different way the way have you prepared for a service company or a less paying product company and
+speaker_1: to uncommon geeks myself first and i hope you are all doing well so as you know this is a video series where we are discussing about a mang interview questions mang refers to metas slash facebook and apple amazon netflix and google the most common question that are asked in the front end developer interview in these questions im going to discuss in this particular video series so its highly beneficial if you are someone who targeting for these tire one companies they require you to prepare in a altogether different way the way have you prepared for a service company or a less paying product company and
 
 
 these companies is totally different so the questions they ask is also different so unfortunately i have not interviewed by meta so far i have gathered a lot of interview questions from the interviewing platforms like glassdoor and cora and other stuffs and ill be discussing a lot of such questions along with tagging the companies which company is has asked these questions in the recent past and how to tackle it okay so first question in this series um in this particular video is from the facebook okay the question is

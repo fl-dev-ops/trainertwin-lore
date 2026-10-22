@@ -18,8 +18,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -27,10 +27,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I do that because sometimes words in Dutch are for me quite difficult to pronounce And yeah then I just rephrase my sentence and I dont have to use that word anymore
 
-I do that because sometimes words in Dutch are for me quite difficult to pronounce And yeah then I just rephrase my sentence and I dont have to use that word anymore
-
-### Speaker 2 · Speaker 2
-
-Exactly I mean I think okay that I use Exactly So I think apart from the uh dyslexia obviously uh which is I mean something that uh creates even more color to the in the picture But I think its a great process uh anyway So like uh all of us we we all forget words And I suppose we have two choices there We can either keep silent and and freeze because we cant remember the word or we go around it We rephrase as you were saying Yeah So so yeah I think its Or just use that word Well I dont know like put yeah put a put a different word in there But you know like going around it is just uh its just the best approach I think so that we avoid the worst thing ever which is we dont speak
+speaker_2: Exactly I mean I think okay that I use Exactly So I think apart from the uh dyslexia obviously uh which is I mean something that uh creates even more color to the in the picture But I think its a great process uh anyway So like uh all of us we we all forget words And I suppose we have two choices there We can either keep silent and and freeze because we cant remember the word or we go around it We rephrase as you were saying Yeah So so yeah I think its Or just use that word Well I dont know like put yeah put a put a different word in there But you know like going around it is just uh its just the best approach I think so that we avoid the worst thing ever which is we dont speak

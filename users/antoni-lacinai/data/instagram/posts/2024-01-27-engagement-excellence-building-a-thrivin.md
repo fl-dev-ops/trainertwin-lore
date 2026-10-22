@@ -12,7 +12,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -27,10 +27,7 @@ Boost engagement with open communication, regular recognition, and professional 
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I was about 20 years old when I had my first real job, selling office supplies in a store. And at one point of time, it was really stressful. A lot of people were sick and and I was the only one in the store and people just came in one after another wanting stuff. And many times I had to just find the stuff in the warehouse. The warehouse was one floor up for some reason. And at one point I looked directly into the customer and he wanted something, I don't know what it was, and I said, you know what? I would love to help you, but the stuff is in the warehouse. Of course, the customer left without the products. Now, the purchasing director heard this conversation between me and the customer. And he came to me when it was a bit quiet and he said, you know what, Anthony, when you trash talk our colleagues at the warehouse, you actually trash talk the whole organization. That was one of the most embarrassing moments in my career, also one of the most useful ones, because I was only 20 something years old. I've been carrying that with me ever since.
-
+speaker_1: I was about 20 years old when I had my first real job, selling office supplies in a store. And at one point of time, it was really stressful. A lot of people were sick and and I was the only one in the store and people just came in one after another wanting stuff. And many times I had to just find the stuff in the warehouse. The warehouse was one floor up for some reason. And at one point I looked directly into the customer and he wanted something, I don't know what it was, and I said, you know what? I would love to help you, but the stuff is in the warehouse. Of course, the customer left without the products. Now, the purchasing director heard this conversation between me and the customer. And he came to me when it was a bit quiet and he said, you know what, Anthony, when you trash talk our colleagues at the warehouse, you actually trash talk the whole organization. That was one of the most embarrassing moments in my career, also one of the most useful ones, because I was only 20 something years old. I've been carrying that with me ever since.
 
 ## Comments (1)
 

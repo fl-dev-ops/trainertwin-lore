@@ -18,7 +18,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -26,6 +26,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Um but if you want to work um as I do now with the Swedish company I work as a freelancer and you can find freelance platforms where you can be hired by anyone from anywhere in the world as long as you have a skill set and youre able to perform and do something that solves a specific problem Uh you can work with people like myself from Sweden being based in the UK have most of my friends in Morocco You can mix and match things and uh thats just the way it is Uh but on the other hand if you decide to move out physically move out which I believe its a great experience whatever it is I had a an experience going to Russia for one year which didnt go as great as the UK My still an experience though you know you get to meet people try a few things
+speaker_1: Um but if you want to work um as I do now with the Swedish company I work as a freelancer and you can find freelance platforms where you can be hired by anyone from anywhere in the world as long as you have a skill set and youre able to perform and do something that solves a specific problem Uh you can work with people like myself from Sweden being based in the UK have most of my friends in Morocco You can mix and match things and uh thats just the way it is Uh but on the other hand if you decide to move out physically move out which I believe its a great experience whatever it is I had a an experience going to Russia for one year which didnt go as great as the UK My still an experience though you know you get to meet people try a few things

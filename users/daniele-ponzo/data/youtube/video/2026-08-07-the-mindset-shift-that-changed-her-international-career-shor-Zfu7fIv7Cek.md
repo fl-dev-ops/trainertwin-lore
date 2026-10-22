@@ -28,7 +28,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -36,9 +36,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So first of all before moving making sure that you do a kind of a a thorough review of the place you were going to right Um to at least map the things that you may like or may not like But once you are there instead of focusing or putting your energy on what is not necessarily the way you expected shift that energy to be grateful to what you have conquered or to what you what you have
+speaker_1: So first of all before moving making sure that you do a kind of a a thorough review of the place you were going to right Um to at least map the things that you may like or may not like But once you are there instead of focusing or putting your energy on what is not necessarily the way you expected shift that energy to be grateful to what you have conquered or to what you what you have
 
 
 And thats kind of a the mindset shift that completely changed my experience in Colombia

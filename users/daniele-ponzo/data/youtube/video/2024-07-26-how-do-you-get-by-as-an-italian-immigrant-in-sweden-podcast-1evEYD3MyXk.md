@@ -24,8 +24,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -33,34 +33,18 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Except they didnt know
 
-Except they didnt know
+speaker_2: Why
 
-### Speaker 2 · Speaker 2
+speaker_1: Except they didnt know Except they didnt know and except and except that I was actually living in Sweden So that international bubble kind of burst but nonetheless uh in Sweden particularly in Stockholm you can get by in English Very very well So that was not that was not a big a big problem
 
-Why
+speaker_2: I remember when I traveled there yeah I I had English and that was enough Uh but yeah
 
-### Speaker 1 · Speaker 1
+speaker_1: Absolutely
 
-Except they didnt know Except they didnt know and except and except that I was actually living in Sweden So that international bubble kind of burst but nonetheless uh in Sweden particularly in Stockholm you can get by in English Very very well So that was not that was not a big a big problem
+speaker_2: I was just curious yeah because living there and yeah not speaking the language so its something that uh yeah thats something that that is not common so yeah I was I was actually curious
 
-### Speaker 2 · Speaker 2
+speaker_1: Its not common It is not that uncommon in in Sweden unfortunately
 
-I remember when I traveled there yeah I I had English and that was enough Uh but yeah
-
-### Speaker 1 · Speaker 1
-
-Absolutely
-
-### Speaker 2 · Speaker 2
-
-I was just curious yeah because living there and yeah not speaking the language so its something that uh yeah thats something that that is not common so yeah I was I was actually curious
-
-### Speaker 1 · Speaker 1
-
-Its not common It is not that uncommon in in Sweden unfortunately
-
-### Speaker 2 · Speaker 2
-
-Id say so
+speaker_2: Id say so

@@ -20,8 +20,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -29,25 +29,15 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And Karuna one thing that uh I dont know that fascinates me is this concept of grammar as a bridge I mean were all were all scared of grammar
 
-And Karuna one thing that uh I dont know that fascinates me is this concept of grammar as a bridge I mean were all were all scared of grammar
+speaker_2: When youre teaching grammar to connect not to correct And thats why I always advocate to teach grammar because if you dont teach grammar to you know to to to learners like how you should write how you should expect them to write correctly So you have to teach them first
 
-### Speaker 2 · Speaker 2
+speaker_1: And so by not by being non judgmental you you embrace that and at the same time you use it as a way to connect not correct
 
-When youre teaching grammar to connect not to correct And thats why I always advocate to teach grammar because if you dont teach grammar to you know to to to learners like how you should write how you should expect them to write correctly So you have to teach them first
+speaker_2: So you have to take that approach first to teach them grammar
 
-### Speaker 1 · Speaker 1
-
-And so by not by being non judgmental you you embrace that and at the same time you use it as a way to connect not correct
-
-### Speaker 2 · Speaker 2
-
-So you have to take that approach first to teach them grammar
-
-### Speaker 1 · Speaker 1
-
-Thats the right approach you know And and thats the one that I that I think is the most effective when youre there youre there with them So and then you share the journey with them So and thats thats the right approach to grammar
+speaker_1: Thats the right approach you know And and thats the one that I that I think is the most effective when youre there youre there with them So and then you share the journey with them So and thats thats the right approach to grammar
 
 
 I think we can say that grammar is not this evil monster were all afraid

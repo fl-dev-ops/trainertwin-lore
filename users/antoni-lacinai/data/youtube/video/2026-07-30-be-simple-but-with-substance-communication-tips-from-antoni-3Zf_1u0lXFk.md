@@ -10,7 +10,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I was coaching an executive within supply chain and she complained that she didnt have the best connections with the sales people They didnt understand what she was doing really and it created a problem for her So I asked her what is it that you say when they ask you what your job is And this is what she put up
+speaker_1: I was coaching an executive within supply chain and she complained that she didnt have the best connections with the sales people They didnt understand what she was doing really and it created a problem for her So I asked her what is it that you say when they ask you what your job is And this is what she put up
 
 
 Im not even going to read it to you but you can see that its a lot of fancy words corporate jargon going on here And I said to her what if you instead said this

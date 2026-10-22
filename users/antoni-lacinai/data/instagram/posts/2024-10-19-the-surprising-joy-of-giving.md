@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -21,7 +21,4 @@ What will you give?
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Did you know that if you give something to another person, you will actually be even happier than the person who got your gift, even if it was a great gift. Think about that for a moment.
-
+speaker_1: Did you know that if you give something to another person, you will actually be even happier than the person who got your gift, even if it was a great gift. Think about that for a moment.

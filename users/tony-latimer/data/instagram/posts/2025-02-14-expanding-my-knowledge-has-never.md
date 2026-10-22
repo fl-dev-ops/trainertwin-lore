@@ -11,8 +11,8 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 ## Caption
@@ -20,11 +20,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: How does this program then compare to other courses that you have either experienced or you looked at when you were looking at expanding your knowledge?
 
-How does this program then compare to other courses that you have either experienced or you looked at when you were looking at expanding your knowledge?
-
-### Speaker 2 · Speaker 2
-
-You know, this program is absolutely different because all materials are already recorded. They are, as I said, very structured. So small pieces, like 3-5 minutes lessons. And I made a conspect of the information and it's, you know, it's— I've got around 2 or 3 pieces A4, so, and that's it. It's really very good structured information and you can just go and use it.
-
+speaker_2: You know, this program is absolutely different because all materials are already recorded. They are, as I said, very structured. So small pieces, like 3-5 minutes lessons. And I made a conspect of the information and it's, you know, it's— I've got around 2 or 3 pieces A4, so, and that's it. It's really very good structured information and you can just go and use it.

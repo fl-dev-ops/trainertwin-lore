@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-sometimes we dont consider that I mean we are in a global world ultimately and uh were there is there are some aspects that are common are shared across countries across cultures But then again when you travel a lot like you did you understand that its not exactly like that So there are still differences And I think its the beauty of it you know the fact that uh wherever you go you see difference
+speaker_1: sometimes we dont consider that I mean we are in a global world ultimately and uh were there is there are some aspects that are common are shared across countries across cultures But then again when you travel a lot like you did you understand that its not exactly like that So there are still differences And I think its the beauty of it you know the fact that uh wherever you go you see difference

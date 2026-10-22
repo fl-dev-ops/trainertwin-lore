@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 40:16
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 7A : MLE for Gaussian Distribution
 
 ## Transcript
 
-
-Hello all welcome to this tutorials in
+speaker_1: Hello all welcome to this tutorials in
 which we will be looking at obtaining
 the analytical situation anal analytical
 solutions for some of the MLE estimates

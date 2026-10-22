@@ -25,7 +25,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -33,6 +33,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Yeah its first of all let me say its not an an easy one of course because uh you know communication is complex right And and its complex and its scary So the fact that you called it asynchronous it really means that its the safe option right Because it gives us time to think to react to absorb information and then it at the same time you know uh give our feedback in a safe and well thought manner
+speaker_1: Yeah its first of all let me say its not an an easy one of course because uh you know communication is complex right And and its complex and its scary So the fact that you called it asynchronous it really means that its the safe option right Because it gives us time to think to react to absorb information and then it at the same time you know uh give our feedback in a safe and well thought manner

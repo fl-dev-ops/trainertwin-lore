@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-But the actual skill sets that I even talk to my clients and everyone is looking for people who are accustomed to the digital skill sets the technical and digital skill sets that do they understand and they are very specific about their requirements that have they worked on this ERP have they worked on this WMS what is the environment that they are working on because right now the companies do not have the time to teach anymore
+speaker_1: But the actual skill sets that I even talk to my clients and everyone is looking for people who are accustomed to the digital skill sets the technical and digital skill sets that do they understand and they are very specific about their requirements that have they worked on this ERP have they worked on this WMS what is the environment that they are working on because right now the companies do not have the time to teach anymore
 
 
 You need to be plug and play kind of a model right now for employees as well Those days were gone Jamil when you and I were you know young and we were given yeah you have six months to prove yourself No you do not even have one day to prove your you need to deliver from day one And I tell this to people you do not need to go for fancy courses You have Udemy you have LinkedIn learning centers you have you know so many other things available as an
@@ -35,21 +33,13 @@ so that is there so this is what im saying for the fresher expat the jobs are th
 
 So its a very very concerned market right now
 
-### Speaker 2
+speaker_2: Hello and welcome to another podcast on my channel and today Ive got a very special guest who is an expert on supply chain in the Middle East region He is the founder and CEO of Supply Chain Talks and is also running a number of other companies and is a great resource to speak to when it comes to supply chain skills talent development and so on So without further ado I would like to welcome Noman Ali on my podcast Hello Noman how are you
 
-Hello and welcome to another podcast on my channel and today Ive got a very special guest who is an expert on supply chain in the Middle East region He is the founder and CEO of Supply Chain Talks and is also running a number of other companies and is a great resource to speak to when it comes to supply chain skills talent development and so on So without further ado I would like to welcome Noman Ali on my podcast Hello Noman how are you
+speaker_1: Assalamu alaikum Im doing well Jamil thank you for the kind introduction uh I would not say that Im I consider myself still a student in supply chain so Im learning as I go
 
-### Speaker 1
+speaker_2: Excellent I think that thats very humble of you Roman So maybe you know that might be a good starting point Let me let me ask you if you can just walk my audience through a little bit of your career journey How did you start How did you end up in supply chain And what are you doing right now
 
-Assalamu alaikum Im doing well Jamil thank you for the kind introduction uh I would not say that Im I consider myself still a student in supply chain so Im learning as I go
-
-### Speaker 2
-
-Excellent I think that thats very humble of you Roman So maybe you know that might be a good starting point Let me let me ask you if you can just walk my audience through a little bit of your career journey How did you start How did you end up in supply chain And what are you doing right now
-
-### Speaker 1
-
-Sure definitely So first of all a big welcome to all your audience I see Mashal that you have a pretty almost you are touching 10K on your YouTube subscribers So I wish you all the best to touch that milestone very soon Hopefully with this podcast you are able to do that Coming to my journey Im an engineer by academia And then I did my MBA from Institute of Business Administration
+speaker_1: Sure definitely So first of all a big welcome to all your audience I see Mashal that you have a pretty almost you are touching 10K on your YouTube subscribers So I wish you all the best to touch that milestone very soon Hopefully with this podcast you are able to do that Coming to my journey Im an engineer by academia And then I did my MBA from Institute of Business Administration
 
 
 So originally from Pakistan living now in Saudi Arabia based completely on Saudi Arabia now Chittagong My career started as a pure hardcore engineer in a software engineering house but somehow one thing or the other led me into the world of supply chain where I went to give an interview to Adventist now known as Sir Nofi for the position of instrumentation engineer but the interviewers thought that I am more suited for the world of supply chain They saw something
@@ -60,24 +50,16 @@ in me and here I am and 23 years forward now Im running my own consultancy so my
 
 head fine for course PLC for Sherwin Williams in USA and Canada is pretty well known in the things and chemicals so for them for Sandoz Pharma then I worked in Oman so I worked in Pakistan Oman and Saudi so and five years back or six years back to be exact I decided to say goodbye to the corporate life to the nine to five and I decided to dwell into a 24 7 career
 
-### Speaker 2
+speaker_2: Ha ha
 
-Ha ha
-
-### Speaker 1
-
-And ever since Ive been doing my own thing so Supply Chain Talks is a consultancy that I form In Supply Chain Talks we work in the traditional consultancy operational excellence consultancy advisory roles then we have training and development then we work in headhunting and recruitment That is where most of your audience would be interested in that we look into supply chain roles for a lot of clients here in Saudi Arabia Then we have
+speaker_1: And ever since Ive been doing my own thing so Supply Chain Talks is a consultancy that I form In Supply Chain Talks we work in the traditional consultancy operational excellence consultancy advisory roles then we have training and development then we work in headhunting and recruitment That is where most of your audience would be interested in that we look into supply chain roles for a lot of clients here in Saudi Arabia Then we have
 
 
 digital transformation then we have robotics automation as well as a bit vertical and six is something that we do as a tech startup uh known as mx in sustainability again our own supply chain so this is a very quick and short introduction
 
-### Speaker 2
+speaker_2: Excellent I think you have done a lot of great work and a lot of different verticals in a rather short span of time which is amazing Anuman So maybe because you mentioned recruitment you talked about talent which is really the core of the kind of content I create Let me start you with my first question there which is based on your extensive experience in supply chain in the Middle East where do you see the biggest skill gaps today
 
-Excellent I think you have done a lot of great work and a lot of different verticals in a rather short span of time which is amazing Anuman So maybe because you mentioned recruitment you talked about talent which is really the core of the kind of content I create Let me start you with my first question there which is based on your extensive experience in supply chain in the Middle East where do you see the biggest skill gaps today
-
-### Speaker 1
-
-See the biggest skill gaps that I can see right so let me put it this way that
+speaker_1: See the biggest skill gaps that I can see right so let me put it this way that
 
 
 supply chain and the world has moved on from the traditional roles in supply chain So and when I look around myself when I look at what academics are being taught you know the traditional the bachelors program and these things they are more focused on the traditional supply chain They are still teaching the books which were probably written 20 years back Fine so they are not there They do not understand what the world is looking for right now So having said that so basically from my perspective
@@ -94,41 +76,29 @@ inventories if youre looking at assets supply chain finance what your decisions 
 
 So we try to design trainings so that we can upskill work with the tradition but take them to the next level of how you need to think forward So that would be my quick response on that
 
-### Speaker 2
+speaker_2: Great No I think you have covered some good skills and I would like to go a little bit deeper into some of those No one but let me ask you one question And and you know one of the interesting things I was noticing while you were introducing yourself is I think I was saying is that just like you you went and applied for an instrumentation job and got into supply chain I I applied for a plant job in you know in Procter Gambles hub plant back then where they used to manufacture parson and they they they interviewed me for the job
 
-Great No I think you have covered some good skills and I would like to go a little bit deeper into some of those No one but let me ask you one question And and you know one of the interesting things I was noticing while you were introducing yourself is I think I was saying is that just like you you went and applied for an instrumentation job and got into supply chain I I applied for a plant job in you know in Procter Gambles hub plant back then where they used to manufacture parson and they they they interviewed me for the job
-
-### Speaker 1
-
-Its a battery flow
+speaker_1: Its a battery flow
 
 
 Before the HaPlan then sorry Im cutting if you because I like this podcast and sessions very candid that is how I then you would be knowing our dear friend from the HaPlan
 
-### Speaker 2
-
-I think thats it
+speaker_2: I think thats it
 
 
 Uh no so so here is my story right so I never worked in the plant I interviewed for a job there uh the guy who like you know the guy who interviewed me was Wally Khan at the time he was running
 
-### Speaker 1
-
-The guy who
+speaker_1: The guy who
 
 
 Thats our mutual friend
 
-### Speaker 2
-
-Yes yes yes So so then uh you know after they did the interview Oli came back to me and said that you know we dont have a job for you at the plan but we have got this job called supply planning manager And I had no clue what supply planning meant at the time And they said that dont worry we will teach you And you know P G like we train people from bottom up So thats how I got into supply chain One question I wanted to ask you know Manan this one because what you mentioned is very interesting for me Back like 20 25 years ago supply chain was not
+speaker_2: Yes yes yes So so then uh you know after they did the interview Oli came back to me and said that you know we dont have a job for you at the plan but we have got this job called supply planning manager And I had no clue what supply planning meant at the time And they said that dont worry we will teach you And you know P G like we train people from bottom up So thats how I got into supply chain One question I wanted to ask you know Manan this one because what you mentioned is very interesting for me Back like 20 25 years ago supply chain was not
 
 
 even taught as a formal subject now you know universities are offering bachelors program masters program in this yet you are saying that what they are teaching is kind of out of sync because the world of supply chain is evolving so fast why do you think the institutions or the academia has draw like missed the missed the mark on this one
 
-### Speaker 1
-
-Good question See not all of them have Mr Mark see I am very sure that what I was talking about is more of my experience connecting and interacting with the universities in Pakistan fine with my alma mater as well and I try to talk to them that how you know we need to bring in the professionals to coach the students What is being done right now is that
+speaker_1: Good question See not all of them have Mr Mark see I am very sure that what I was talking about is more of my experience connecting and interacting with the universities in Pakistan fine with my alma mater as well and I try to talk to them that how you know we need to bring in the professionals to coach the students What is being done right now is that
 
 
 The people who are teaching supply chain supply chain is an operations course Its not like engineering Its not like finance Its not like that A lot of things you know Jamil a lot of things that you read in the books and what you have learned in the books and case study You need to be flexible and agile about dosing and You know build up a new solution based on the parameters of the scenarios that you are based up You know every day in supply chain is a challenge right now
@@ -151,24 +121,16 @@ Data analytics is the thing to go Understanding what automation is And I give th
 
 Beautiful you know you are thinking uh futuristic robotic when I went there they did not even have a WMS and they are talking about robotics
 
-### Speaker 2
+speaker_2: I know no I totally get you And this is the other challenge right Like a lot of people want to do nice and fancy things in the companies but at the end of the day the ROI model should work And one very easy analogy I give to people even in my own company is that look at the example of Concorde Concorde was the most beautiful thing in aviation It was built in the 1950s like it was designed in the 50s It was way ahead of its time Why did it fail Because the economics never made sense on that aircraft right
 
-I know no I totally get you And this is the other challenge right Like a lot of people want to do nice and fancy things in the companies but at the end of the day the ROI model should work And one very easy analogy I give to people even in my own company is that look at the example of Concorde Concorde was the most beautiful thing in aviation It was built in the 1950s like it was designed in the 50s It was way ahead of its time Why did it fail Because the economics never made sense on that aircraft right
+speaker_1: Thats me
 
-### Speaker 1
-
-Thats me
-
-### Speaker 2
-
-So thats the best example especially when just last week Nomana was at a conference in Florida Lots of cool stuff right You know and some things are really very impactful whats happening in the world of lets say parcel picking you know from all the way from robotic arms to AGVs to everything Im sure you know this better than I do But then at the end of the day when they are selling those products and my reaction is that okay it has to make economies the economies of scale
+speaker_2: So thats the best example especially when just last week Nomana was at a conference in Florida Lots of cool stuff right You know and some things are really very impactful whats happening in the world of lets say parcel picking you know from all the way from robotic arms to AGVs to everything Im sure you know this better than I do But then at the end of the day when they are selling those products and my reaction is that okay it has to make economies the economies of scale
 
 
 have to make sense I mean I cant just go and tell my GM that hey I want to have a robot in my warehouse thats a very cool concept but hes going to ask me okay what is the return on investment right so thats the key point
 
-### Speaker 1
-
-So true Posh So true and that is true And you know you were talking about Concorde I give two other examples Fine and this is where you need to be there with the market trends what the market needs And the classic example for that are two Nokia and Kodak They were the iconic they were the one who built the technologies Fine and they are not there anymore
+speaker_1: So true Posh So true and that is true And you know you were talking about Concorde I give two other examples Fine and this is where you need to be there with the market trends what the market needs And the classic example for that are two Nokia and Kodak They were the iconic they were the one who built the technologies Fine and they are not there anymore
 
 
 So and this is what Im saying that when you talk about resources fine you know people are resources and they need to turn into assets fine human assets management So when we talk about even HR it used to be people management or you know simple how would I put it admin department Then it became a human resource and became people management And then I would say it needs to be people and asset management because employees are assets to the company
@@ -176,16 +138,12 @@ So and this is what Im saying that when you talk about resources fine you know p
 
 And you will only be a viable asset till the time that you bring something to the table What is your value add to your organization to your department to the success and the profit of the company
 
-### Speaker 2
-
-Absolutely absolutely Now now one thing Noman of course you mentioned about like you know crisis and I mean you mentioned that in the context of the Middle East but I think like this decade is turning out to be a very cursed decade right Started with COVID then there was a Ukraine war now there is war happening in the Middle East like who knows what is next There are tariffs going in the middle of all this right So just just a jinx decade overall Tell me one thing Noman like because you are also very closely associated to the world of recruitment How have the
+speaker_2: Absolutely absolutely Now now one thing Noman of course you mentioned about like you know crisis and I mean you mentioned that in the context of the Middle East but I think like this decade is turning out to be a very cursed decade right Started with COVID then there was a Ukraine war now there is war happening in the Middle East like who knows what is next There are tariffs going in the middle of all this right So just just a jinx decade overall Tell me one thing Noman like because you are also very closely associated to the world of recruitment How have the
 
 
 Like what when companies in the Middle East are recruiting now and when this backdrop how have like what are the changes in the way the skills are being looked at especially with supply chain professionals What are some of the recruiters looking at more which they were not looking at like you know maybe five years ago So how is that whole landscape changing
 
-### Speaker 1
-
-See good question So see you will find the traditional skill set people all along and they are diamondizen you know But the actual skill sets that I even talk to my clients and everyone is looking for people who are accustomed to the digital skill sets the technical and digital skill sets that do they understand and they are very specific about their requirements that have they worked on this ERP have they worked on this WMS what is the environment that they are working on because right
+speaker_1: See good question So see you will find the traditional skill set people all along and they are diamondizen you know But the actual skill sets that I even talk to my clients and everyone is looking for people who are accustomed to the digital skill sets the technical and digital skill sets that do they understand and they are very specific about their requirements that have they worked on this ERP have they worked on this WMS what is the environment that they are working on because right
 
 
 Right now the companies do not have the time to teach anymore
@@ -205,9 +163,7 @@ So these are the technical and the digital skill sets are very important nowaday
 
 So its a very very controlled market right now
 
-### Speaker 2
-
-right what would your advice be uh noman and lets lets stick to this point for a second right because you mentioned uh you know erps wms oms and so on um of course you know when it comes when you think about erp uh sap is probably like the biggest base market right but how is that changing because i know as theres a lot of companies the big companies are right everybodys busy moving to s4 hana because of course you know there are a lot of uh advantages of that platform versus other but when i you know you think about like
+speaker_2: right what would your advice be uh noman and lets lets stick to this point for a second right because you mentioned uh you know erps wms oms and so on um of course you know when it comes when you think about erp uh sap is probably like the biggest base market right but how is that changing because i know as theres a lot of companies the big companies are right everybodys busy moving to s4 hana because of course you know there are a lot of uh advantages of that platform versus other but when i you know you think about like
 
 
 supply chain is not just about ERP its about the overall ecosystem What is your WMS Are you working on Manhattan or Blue Yonder or whatever right And then another I think because my comment might be really biased because Ive grown really in supply chain in the world of planning One of the most underestimated systems is APS right So are you working on Blue Yonder as SAP APO or whatever right And now you have got all these newer ones coming up O9 OMP they are also
@@ -218,17 +174,11 @@ trying to like you know get a market what would your advice be because one of th
 
 Blue yonder um there is not like a cheaper easier solution what would your advice be on this one
 
-### Speaker 1
+speaker_1: Okay good question So I like the cheaper easier solution Fine so see I will be up straight Im a partner to Blue Yonder in this region by the way
 
-Okay good question So I like the cheaper easier solution Fine so see I will be up straight Im a partner to Blue Yonder in this region by the way
+speaker_2: Okay excellent
 
-### Speaker 2
-
-Okay excellent
-
-### Speaker 1
-
-So I will not say anything bad about them They are amazing people Just a couple of days back I was with the global sales head for the retail business It was his first trip to Saudi Arabia So we were having lunch together And I told him that and he liked my comment that for me Blue Yonder is the ERP of the SCM world So when you talk about SAP HANA Oracle Dynamic these are financial systems
+speaker_1: So I will not say anything bad about them They are amazing people Just a couple of days back I was with the global sales head for the retail business It was his first trip to Saudi Arabia So we were having lunch together And I told him that and he liked my comment that for me Blue Yonder is the ERP of the SCM world So when you talk about SAP HANA Oracle Dynamic these are financial systems
 
 
 And even when we talk about the OTS the Oracle or the IBP from SAP and the EWMS and these things you know these are built for a certain environment and they lack the flexibility I might be biased against them but this is what I believe in that they are not built for the agile supply chain They are built for structured supply chain that you have your own warehouses and orders coming in and going out But as soon as you move into an agile structure where youre doing last mile where youre doing
@@ -248,9 +198,7 @@ Unfortunately people only know about SAP because this is what they know and uh a
 
 from capability perspective cost perspective value perspective all three all has to be plugged in so again so this needs to be there
 
-### Speaker 2
-
-Absolutely Thats great Yeah And I think the piece around really having a knowledge of like you know what are the what are the right systems to have knowledge on What is an order management system What are the WMS systems is very important Now there is one very common question I get and Im just going to you know shift gears from the technology piece in a second here which is I get a lot of messages almost I get at least five a day from people outside the middle especially in
+speaker_2: Absolutely Thats great Yeah And I think the piece around really having a knowledge of like you know what are the what are the right systems to have knowledge on What is an order management system What are the WMS systems is very important Now there is one very common question I get and Im just going to you know shift gears from the technology piece in a second here which is I get a lot of messages almost I get at least five a day from people outside the middle especially in
 
 
 India Pakistan Bangladesh and so on who are fresh graduates They have done some certifications in supply chain and they want to come to the Middle East And I my my default advice first of all to those people is that hey Middle East is not a market for fresh graduates I mean its a its a good market for fresh graduates If you are a Saudi or if you are an Emirati because of course thats your home base But if you are coming from another region and you are coming in as an expatriate right This is not the market to go and get an entry level job on Build your skills
@@ -258,9 +206,7 @@ India Pakistan Bangladesh and so on who are fresh graduates They have done some 
 
 it define what is your technical base and based on that maybe in three four years you your your job takes you to a direction where you maybe become you become an ERP expert or you become a planning expert and then you can pitch yourself would you first of all first part of my question do you agree with that and if if yes or no what are your additional comments to this
 
-### Speaker 1
-
-Okay so I agree to that 100 percent without doubt See at the end of the day and I will just take the example of Saudi Arabia right now and supply chain By default the expats or the non Saudis are at a disadvantage when it comes to supply chain jobs because and this is a beautiful thing that the Saudi government has done for their own people in the sense that all the international certifications
+speaker_1: Okay so I agree to that 100 percent without doubt See at the end of the day and I will just take the example of Saudi Arabia right now and supply chain By default the expats or the non Saudis are at a disadvantage when it comes to supply chain jobs because and this is a beautiful thing that the Saudi government has done for their own people in the sense that all the international certifications
 
 
 You name it and they are free for the Saudis
@@ -274,13 +220,9 @@ you go register you do the course so you pay for yourself first fine you pay for
 
 will get the reimbursement
 
-### Speaker 2
+speaker_2: Its amazing
 
-Its amazing
-
-### Speaker 1
-
-So just imagine young lads girls and boys they are young and they already have the APIC certification they have the CPM they have the CIFD you name it they have it
+speaker_1: So just imagine young lads girls and boys they are young and they already have the APIC certification they have the CPM they have the CIFD you name it they have it
 
 
 Fine So for me as an employer first of all I would like to hire people on whom I do not need to spend on training because I get reimbursed by the government by default See fine Secondly they also have the apprenticeship or training programs in which the government pays for the internship for the students
@@ -294,13 +236,9 @@ And you are right the market is for experienced people who are bringing somethin
 
 Well talk about it right now
 
-### Speaker 2
+speaker_2: Exactly those people I think probably end up staying in that very lower cadre for a very very long time because they never get promoted
 
-Exactly those people I think probably end up staying in that very lower cadre for a very very long time because they never get promoted
-
-### Speaker 1
-
-time because they never get promoted just imagine they will there I know people who are accepting jobs in Saudi Arabia for four thousand five thousand riyal
+speaker_1: time because they never get promoted just imagine they will there I know people who are accepting jobs in Saudi Arabia for four thousand five thousand riyal
 
 
 Right just to exit
@@ -308,16 +246,12 @@ Right just to exit
 
 Mind so that is the whole scenario so definitely yes uh Saudi market is more for the experience and you are able to negotiate a better uh net value for yourself if you are experienced
 
-### Speaker 2
-
-Got it And then also help me define Noman like what is the extraordinary even for a slightly more experienced professionals right Because so here is a classical situation now because all this amazing investment the Saudi government is doing on their local people which is fantastic And now you know the awareness around supply chain is also increasing So Im sure a lot of Saudi local talent is getting those certifications as well So if someone from
+speaker_2: Got it And then also help me define Noman like what is the extraordinary even for a slightly more experienced professionals right Because so here is a classical situation now because all this amazing investment the Saudi government is doing on their local people which is fantastic And now you know the awareness around supply chain is also increasing So Im sure a lot of Saudi local talent is getting those certifications as well So if someone from
 
 
 outside the region wants to target that market and its a supply chain professional what is that extraordinary skill that you will is it robotics is it um you know high end automation in supply chain or is it just you know having in depth knowledge of an ERP or an OMS
 
-### Speaker 1
-
-in depth knowledge of or the experience that you bring see i have been saying this what do you bring to the table right what is the different experience for example uh jameel uh if you target the saudi market for example if i take your example you are bringing if i look at your linkedin your resume on the linkedin right your linkedin is your resume at the end of the day uh i see procter gamble how you have risen in the procter gamble world then you move to mars then you rose in different functions both horizontally and vertically as well so you
+speaker_1: in depth knowledge of or the experience that you bring see i have been saying this what do you bring to the table right what is the different experience for example uh jameel uh if you target the saudi market for example if i take your example you are bringing if i look at your linkedin your resume on the linkedin right your linkedin is your resume at the end of the day uh i see procter gamble how you have risen in the procter gamble world then you move to mars then you rose in different functions both horizontally and vertically as well so you
 
 
 carry with yourself a certain skill set and an experience across multiple verticals multiple functions so you bring something valuable to the table you are not someone that someone needs to teach but you are someone who will come and teach them and will just carry on and improve things
@@ -331,16 +265,12 @@ that shes applying for she will be doing in supply chain her bachelors in Saudi
 
 Congratulations Yes Thank you
 
-### Speaker 2
-
-Oh wow congratulations
+speaker_2: Oh wow congratulations
 
 
 I hope you didnt influence our thinking so
 
-### Speaker 1
-
-I did it took me one year
+speaker_1: I did it took me one year
 
 
 Right But having said that the point is that there are so many programs that even I got shocked when I started researching that which universities offer supply chain as a in the bachelors program Every almost every university in Saudi Arabia has a supply chain program right now
@@ -354,13 +284,9 @@ So just imagine that
 
 The amount of supply chain young links which are graduating the Saudi fresh mind book I recently met one girl right fresh graduate and I was talking to her and she said I do not want to work in an office I want to work in a warehouse
 
-### Speaker 2
+speaker_2: Wow this is so so good
 
-Wow this is so so good
-
-### Speaker 1
-
-So does a girl want to work in a warehouse
+speaker_1: So does a girl want to work in a warehouse
 
 
 And I can show you over here forklift Saudi girls who are driving forklifts in their houses as well
@@ -371,35 +297,23 @@ So the perception of the outside world about Saudi Arabia is completely flawed o
 
 to the people
 
-### Speaker 2
+speaker_2: No this is fantastic you know and for any countrys development I think this is the most important thing that theyre how much they invest in their young talent and then how much they are able to retain that talent So because you know I mean we both come from Pakistan and we keep hearing about the complaint or like you know talent flight and brain drain and all that So I think the government is you know doing some amazing work there which for the longest period of time
 
-No this is fantastic you know and for any countrys development I think this is the most important thing that theyre how much they invest in their young talent and then how much they are able to retain that talent So because you know I mean we both come from Pakistan and we keep hearing about the complaint or like you know talent flight and brain drain and all that So I think the government is you know doing some amazing work there which for the longest period of time
-
-### Speaker 1
-
-How much did it
+speaker_1: How much did it
 
 
 For the longest period of time I am sorry Im cutting you and I are two examples of brain drain
 
-### Speaker 2
+speaker_2: Yeah thats true Thats true One in Saudi one in Canada Thats absolutely true
 
-Yeah thats true Thats true One in Saudi one in Canada Thats absolutely true
+speaker_1: Its all
 
-### Speaker 1
-
-Its all
-
-### Speaker 2
-
-So so this is this is fantastic And and just I know for the longest period of time Noma like the Saudi supply chain industry of course because of the oil wells there was a lot of oil and gas jobs in certain parts of the country and the region And then there was this rise of consumer products as consumers became more you know wealthy and so on And therefore like companies like Procter Company did really well
+speaker_2: So so this is this is fantastic And and just I know for the longest period of time Noma like the Saudi supply chain industry of course because of the oil wells there was a lot of oil and gas jobs in certain parts of the country and the region And then there was this rise of consumer products as consumers became more you know wealthy and so on And therefore like companies like Procter Company did really well
 
 
 Where is this going So I mean we keep hearing a lot about sustainability as well but then at the same time theres a lot of construction happening new cities are being built When you think about industry verticals right where is going to be the growth in the next five years And please answer my question not only in the Saudi context Noman but also in the wider Middle East context like Dubai and you know some of the other places
 
-### Speaker 1
-
-See the growth that I see in Saudi Arabia right now see if I look at purely on the vision 2030 and because that is what is driving Saudi Arabia right now so logistics next five years because 2030 still is five years away for that target to be there so logistics is definitely one of the strongest area then you have tourism which is a very strong area in Saudi Arabia then you have the construction of the infrastructure development that is there you have FIFA coming in my
+speaker_1: See the growth that I see in Saudi Arabia right now see if I look at purely on the vision 2030 and because that is what is driving Saudi Arabia right now so logistics next five years because 2030 still is five years away for that target to be there so logistics is definitely one of the strongest area then you have tourism which is a very strong area in Saudi Arabia then you have the construction of the infrastructure development that is there you have FIFA coming in my
 
 
 No FIFA is there so uh how many oh in just Riyadh if I remember the correct number in Riyadh alone in one city there will be eight stadiums
@@ -413,20 +327,14 @@ they drive the growth of all the other markets right so and uh with this skill s
 
 And I was like
 
-### Speaker 2
+speaker_2: Interesting thing is like from from like construction industry is a classical client of the supply chain world right especially in the logistics space because when you are building stadiums you are transporting a lot of
 
-Interesting thing is like from from like construction industry is a classical client of the supply chain world right especially in the logistics space because when you are building stadiums you are transporting a lot of
-
-### Speaker 1
-
-a lot of fun
+speaker_1: a lot of fun
 
 
 You need to move the word for them
 
-### Speaker 2
-
-Exactly
+speaker_2: Exactly
 
 
 Absolutely absolutely So as we come towards my final few questions on this one Noman I think because now we have got this very pretty big pool of local Saudi Marathi talent as well
@@ -434,9 +342,7 @@ Absolutely absolutely So as we come towards my final few questions on this one N
 
 Tell me what would your advice be to those people because Im gonna ask you two separate questions What is your advice for the young talent who is Saudi Emirati and other other nationalities in the region if they want to grow a career in supply chain and then give me the same advice for expatriates trying to you know target jobs in in that part of the world
 
-### Speaker 1
-
-see if i talk about the young talent the local talent fine so for me um i would say that they need to future proof themselves that they need to understand what the skills are needed in the next five years and they need to start building on those skills from today power bi used to be a specialized subject now its a job requirement im saying that do you understand power bi do you understand reporting do you understand dashboard fine uh you need
+speaker_1: see if i talk about the young talent the local talent fine so for me um i would say that they need to future proof themselves that they need to understand what the skills are needed in the next five years and they need to start building on those skills from today power bi used to be a specialized subject now its a job requirement im saying that do you understand power bi do you understand reporting do you understand dashboard fine uh you need
 
 
 be uh technically and digitally skilled fine do you understand these different uh erp tools or these different supply chain digital tools or not but on this is the technical side on the other side as well another thing which is very important for supply chain professionals and that is uh you know the soft skills uh which is needed uh for people and not just for the you know the young uh professions for us as well
@@ -456,9 +362,7 @@ you can synergize with your partners as well So that is there and at the end of 
 
 Fine so threatening or that I will put a fine on you you were delayed and everything these do not work They might work on the short term but we all know that once we are rigid with our partners they eventually move away from us
 
-### Speaker 2
-
-Absolutely They do And how do you think Raman like how do you think AI is shaping this whole conversation around skill development Like one one very simple example or something which Im trying to also build my skills on is and I know Copilot on Microsoft is still not really there because it came with a lot of promises I saw some videos about six months ago that hey youll write a prompt in Copilot and its going to build out of a very fast
+speaker_2: Absolutely They do And how do you think Raman like how do you think AI is shaping this whole conversation around skill development Like one one very simple example or something which Im trying to also build my skills on is and I know Copilot on Microsoft is still not really there because it came with a lot of promises I saw some videos about six months ago that hey youll write a prompt in Copilot and its going to build out of a very fast
 
 
 see pivot table for you its not there yet but im sure there are very smart engineers working in microsoft and other companies to to master that and some point in time even in interviews i can foresee maybe in the next five years you might not be asking questions about do you know how to build a pivot table but you might be asking some prompt writing questions but thats maybe just one very simple and like scratching the surface kind of a question right how do you think in the supply chain context ai is changing the needs of skill requirement because there is a lot of fear as well right now i keep hearing every now and
@@ -466,9 +370,7 @@ see pivot table for you its not there yet but im sure there are very smart engin
 
 then I get a message on whatsapp or on like some of the other social media hey AI is coming to take on your jobs and all of that but I really dont think its like this but what is your perspective on all of this
 
-### Speaker 1
-
-Okay you you talk about co pilot Yes so Im a Microsoft User so I have the access to co pilot as well but then theres Gemini now you open your WhatsApp Theres an AI chat box in your WhatsApp as well So everything and anything everything has AI embedded right now I am a very strong user of chat GPT for example fine and Will AI replace Yes it will replace the non
+speaker_1: Okay you you talk about co pilot Yes so Im a Microsoft User so I have the access to co pilot as well but then theres Gemini now you open your WhatsApp Theres an AI chat box in your WhatsApp as well So everything and anything everything has AI embedded right now I am a very strong user of chat GPT for example fine and Will AI replace Yes it will replace the non
 
 
 productive job roles
@@ -494,13 +396,9 @@ A lot of them where I need support if I need to send something to my clients I b
 
 Mind nobody talks about there was a time Jameel when you and I were fresh out of university writing on our resume Microsoft Office was a very sound skill set
 
-### Speaker 2
+speaker_2: Yeah true
 
-Yeah true
-
-### Speaker 1
-
-It is not now
+speaker_1: It is not now
 
 
 Fine so this is why it needs to be there that you need to continuously upskill yourself
@@ -508,16 +406,12 @@ Fine so this is why it needs to be there that you need to continuously upskill y
 
 At AI an AI is a tool as a support tool that you should use to upskill yourself
 
-### Speaker 2
-
-Uh
+speaker_2: Uh
 
 
 Totally agreed And just like you said even my content writing work has like simplified at least 50 percent because I would do 70 percent of the writing through AI and then I would add my 30 percent because you have to humanize the AI output Otherwise you know it can be a double edged sword
 
-### Speaker 1
-
-Ill be right back
+speaker_1: Ill be right back
 
 
 You are 110 percent correct and this is where a lot of companies and you know this is where when we talk about WMS when we talk about TMS you know at the other day now these are all built in with the planning tools the slim stocks and the you know the blue yonders and the red lex and all of the world they are all AI based tools but are they replacing humans No they are not they are just supporting the human element they are fine tuning your work and they are improving your work and at the
@@ -525,16 +419,12 @@ You are 110 percent correct and this is where a lot of companies and you know th
 
 of day you need to be smart enough to understand how they operate and you still need to manage the AI we are still we are still not in the phase where Terminator will be taking over or you know that will happen we are still not there
 
-### Speaker 2
-
-I know yeah yeah absolutely And this is what I keep telling whenever I say look at a fear mongering statement by somebody in like a social gathering or something that oh AI is coming for your job And I said no I mean lets lets lets be honest here Now my last question to you Noman and this is a question I ask every expert I invite because and hopefully someday Im going to compile all those and maybe you know make a specific video out of this What is the one advice you would like to give your 25 year old self Imagine you went back in time you just graduated
+speaker_2: I know yeah yeah absolutely And this is what I keep telling whenever I say look at a fear mongering statement by somebody in like a social gathering or something that oh AI is coming for your job And I said no I mean lets lets lets be honest here Now my last question to you Noman and this is a question I ask every expert I invite because and hopefully someday Im going to compile all those and maybe you know make a specific video out of this What is the one advice you would like to give your 25 year old self Imagine you went back in time you just graduated
 
 
 on your first job what is the advice and experience Noman will give to a young Noman
 
-### Speaker 1
-
-Oh good good good good question do not worry about the future uh it will pan out uh all you need to do is ensure that you are honest and you are hardworking uh hurdles will always come in your way and uh one way or the other if you are honest if you are hardworking and if you are able to handle those smartly those hurdles will eventually show you opportunities that you need to grab
+speaker_1: Oh good good good good question do not worry about the future uh it will pan out uh all you need to do is ensure that you are honest and you are hardworking uh hurdles will always come in your way and uh one way or the other if you are honest if you are hardworking and if you are able to handle those smartly those hurdles will eventually show you opportunities that you need to grab
 
 
 where I am today if I look back and I say I did a wrong decision I am here because of those combination of wrong and right decisions Im standing over here the experience of the bad decisions also has made me what I am today as well fine the learnings from those bad decisions it has made me what I am today so and this is what I am this morning I posted something on LinkedIn that if your day off uh gives you anxiety uh
@@ -551,16 +441,12 @@ even in the best of the best organization toxicity is there right so you just ne
 
 Because I have taken my share of I have taken my share of tensions in my young days as well now I dont I dont worry about things anymore
 
-### Speaker 2
-
-Perfect Excellent Yeah And I and I and I think really want to underscore a point you mentioned that we really I think we learn the most from our mistakes And instead of constantly like being guilty and cursing ourselves on the mistakes I think we should think about okay what we have learned from this And because I think that is where the biggest improvement curves comes by Okay You know what do I do differently so that I dont fall in the same trap again And I think thats where I mean there are always these visuals shared on LinkedIn all the time right You learn this much from theory this much from
+speaker_2: Perfect Excellent Yeah And I and I and I think really want to underscore a point you mentioned that we really I think we learn the most from our mistakes And instead of constantly like being guilty and cursing ourselves on the mistakes I think we should think about okay what we have learned from this And because I think that is where the biggest improvement curves comes by Okay You know what do I do differently so that I dont fall in the same trap again And I think thats where I mean there are always these visuals shared on LinkedIn all the time right You learn this much from theory this much from
 
 
 from books but this much from mistakes and that is why in anyones career regardless of supply chain making mistakes is important because thats where you learn the most so uh
 
-### Speaker 1
-
-See let me just give you a small example over here This was from my university days right It was a subject you know a class exam was happening and we had not prepared for it at all Me and a few of friends of mine and we were sitting in the lecture hall at the back row Fine And we all had these books in our laps Fine And our professor he was an old guy He was a his name was Dr Karimov
+speaker_1: See let me just give you a small example over here This was from my university days right It was a subject you know a class exam was happening and we had not prepared for it at all Me and a few of friends of mine and we were sitting in the lecture hall at the back row Fine And we all had these books in our laps Fine And our professor he was an old guy He was a his name was Dr Karimov
 
 
 uh amazing person you know uh one of the best professors that i ever had in my engineering school and uh he he was an old guy so he could not always uh come up the stairs this is why we were sitting at the back because we had no idea how to answer the quiz and the exam so we were cheating fine uh in very plain words so the ta the teaching assistant entered the lecture hall and he simply saw us sitting at the back he knew who we are and he just came up there and he looked at us and he said dr karim
@@ -568,33 +454,19 @@ uh amazing person you know uh one of the best professors that i ever had in my e
 
 the books open and the response that Dr Cunningham gave at least they have the books open now
 
-### Speaker 2
+speaker_2: I think that thats thats a very good summary of that discussion so
 
-I think that thats thats a very good summary of that discussion so
+speaker_1: Exactly see he knew what we were doing but he was content that at least now they are actually reading and trying to figure it out now
 
-### Speaker 1
+speaker_2: No that was a great story Well thanks a lot Noman I really appreciate your time I think some of the advice you have given is going to be really instrumental in people trying to build their supply chain careers especially in the Middle East region And I think I know some of the advice you gave is not only limited to the Middle East region but its applicable to anybody in supply chain working around the world Thanks a lot for your time And I hope we are able to also invite you again on one of our future podcasts
 
-Exactly see he knew what we were doing but he was content that at least now they are actually reading and trying to figure it out now
-
-### Speaker 2
-
-No that was a great story Well thanks a lot Noman I really appreciate your time I think some of the advice you have given is going to be really instrumental in people trying to build their supply chain careers especially in the Middle East region And I think I know some of the advice you gave is not only limited to the Middle East region but its applicable to anybody in supply chain working around the world Thanks a lot for your time And I hope we are able to also invite you again on one of our future podcasts
-
-### Speaker 1
-
-Definitely it was an honor Jamil I have seen you grow you know LinkedIn is a very good medium where you get to know people without getting to know them And Ive seen you Ive heard about you as well before this and Ive seen how your podcast have grown and how you are helping people So its a commendable job that you are doing And I wish that I can do something similar of what you are doing as well And lets stay connected A big thank you for Jamil for considering me for your on your platform for inviting
+speaker_1: Definitely it was an honor Jamil I have seen you grow you know LinkedIn is a very good medium where you get to know people without getting to know them And Ive seen you Ive heard about you as well before this and Ive seen how your podcast have grown and how you are helping people So its a commendable job that you are doing And I wish that I can do something similar of what you are doing as well And lets stay connected A big thank you for Jamil for considering me for your on your platform for inviting
 
 
 Its a definitely a great honour for me
 
-### Speaker 2
+speaker_2: Likewise thanks a lot Numan
 
-Likewise thanks a lot Numan
+speaker_1: My pleasure to take it
 
-### Speaker 1
-
-My pleasure to take it
-
-### Speaker 2
-
-Excellent
+speaker_2: Excellent

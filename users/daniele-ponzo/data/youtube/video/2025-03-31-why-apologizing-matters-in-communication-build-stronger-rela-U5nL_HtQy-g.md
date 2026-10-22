@@ -14,8 +14,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -23,22 +23,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I am making an effort to speak in your language So give me a break You know
 
-I am making an effort to speak in your language So give me a break You know
+speaker_2: Yes You know Yes Yes Im out here Yeah I love this I love it And yes this is this is it This is like mindset at play Yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: Its all about mindset
 
-Yes You know Yes Yes Im out here Yeah I love this I love it And yes this is this is it This is like mindset at play Yeah
+speaker_2: Yeah
 
-### Speaker 1 · Speaker 1
-
-Its all about mindset
-
-### Speaker 2 · Speaker 2
-
-Yeah
-
-### Speaker 1 · Speaker 1
-
-Its the way you frame the communicate the act of communication If you try to communicate putting the burden on you and the and the fear of oh my God I may make a mistake
+speaker_1: Its the way you frame the communicate the act of communication If you try to communicate putting the burden on you and the and the fear of oh my God I may make a mistake

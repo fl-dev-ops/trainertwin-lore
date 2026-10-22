@@ -18,8 +18,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -27,10 +27,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And and at the same time you confirm the the general idea that if you if youre exposed to the language earlier in your life uh then you know things somehow get easier you know
 
-And and at the same time you confirm the the general idea that if you if youre exposed to the language earlier in your life uh then you know things somehow get easier you know
-
-### Speaker 2 · Speaker 2
-
-Yeah yeah it does I see that a lot with my son Hes now 18 Um he started speaking English when he was 10 11 mainly through gaming and and things like that
+speaker_2: Yeah yeah it does I see that a lot with my son Hes now 18 Um he started speaking English when he was 10 11 mainly through gaming and and things like that

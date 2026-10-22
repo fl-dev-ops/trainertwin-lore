@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,18 +30,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: it was such an amazing teacher to to have And then on top of that I had I had the chance to to study from uh uh like really uh so many so many good journalists with experience writing for the Guardian um uh the Times Financial Times and all this
 
-it was such an amazing teacher to to have And then on top of that I had I had the chance to to study from uh uh like really uh so many so many good journalists with experience writing for the Guardian um uh the Times Financial Times and all this
+speaker_2: Thats great
 
-### Speaker 2 · Speaker 2
+speaker_1: That was amazing That was
 
-Thats great
-
-### Speaker 1 · Speaker 1
-
-That was amazing That was
-
-### Speaker 2 · Speaker 2
-
-Yeah its great to have like those mentors you know who are like a guide for the rest of your life I mean because thats thats what makes a difference right Because youre studying and you mentioned you know that uh educational system So it gives you knowledge gives you theory but then the opportunity to work with someone who can be your mentor who can guide you through the uh the insights and to the different shades and shades uh that writing can take Absolutely is a is a key in my opinion
+speaker_2: Yeah its great to have like those mentors you know who are like a guide for the rest of your life I mean because thats thats what makes a difference right Because youre studying and you mentioned you know that uh educational system So it gives you knowledge gives you theory but then the opportunity to work with someone who can be your mentor who can guide you through the uh the insights and to the different shades and shades uh that writing can take Absolutely is a is a key in my opinion

@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -25,7 +25,4 @@ Learn how at https://simplicityofmastery.com
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So you're, when you make the shift to mastery, you stop consciously coaching, right? Very often you will see an early stage PCC consciously coaching their way through the checklist of the PCC markers. For MCC, for mastery, you've gotta be just present, connected, In the moment. So you've got to learn to just let go and flow, which is why you need the framework of Competency 3, because that's the framework that you're going to flow through.
-
+speaker_1: So you're, when you make the shift to mastery, you stop consciously coaching, right? Very often you will see an early stage PCC consciously coaching their way through the checklist of the PCC markers. For MCC, for mastery, you've gotta be just present, connected, In the moment. So you've got to learn to just let go and flow, which is why you need the framework of Competency 3, because that's the framework that you're going to flow through.

@@ -17,8 +17,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -26,10 +26,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: it was not difficult but it was very strange to work with the Americans I did not work with them too much
 
-it was not difficult but it was very strange to work with the Americans I did not work with them too much
-
-### Speaker 2 · Speaker 2
-
-But it was something yeah something that challenged you in a way Yeah Probably it was yeah probably the impact with a big corporate world It was uh I dont know it was something yeah something new something that uh could be could be shocking in a way
+speaker_2: But it was something yeah something that challenged you in a way Yeah Probably it was yeah probably the impact with a big corporate world It was uh I dont know it was something yeah something new something that uh could be could be shocking in a way

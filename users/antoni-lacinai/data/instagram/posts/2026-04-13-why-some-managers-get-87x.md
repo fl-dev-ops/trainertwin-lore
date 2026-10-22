@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Why some managers get 8.7x more from their teams — Gallup explains it
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Well, according to the recent Gallup study, there's one behavior, one thing that managers do that will increase performance, team performance by 8.7 times. What is that? Is that the manager cares. They show up, they tell their people, I got your back. I'm here for you. I'm going to help you support you. I also will give you directions, clarity, and purpose. This is the key for high engagement, and that's the bridge between communication and behavior. Behavior then leads to good results. So if you want your team to perform 8.5, no, 8.7 times better, start caring more for your people.
-
+speaker_1: Well, according to the recent Gallup study, there's one behavior, one thing that managers do that will increase performance, team performance by 8.7 times. What is that? Is that the manager cares. They show up, they tell their people, I got your back. I'm here for you. I'm going to help you support you. I also will give you directions, clarity, and purpose. This is the key for high engagement, and that's the bridge between communication and behavior. Behavior then leads to good results. So if you want your team to perform 8.5, no, 8.7 times better, start caring more for your people.

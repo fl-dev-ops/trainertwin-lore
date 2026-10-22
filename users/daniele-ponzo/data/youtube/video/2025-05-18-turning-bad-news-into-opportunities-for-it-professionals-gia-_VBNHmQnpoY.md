@@ -14,8 +14,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -23,10 +23,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And there is no such thing as bad news Yeah some people say that and I and then you go like no its incorrect point you know in your case it was it was bad news but it was also good news in a way
 
-And there is no such thing as bad news Yeah some people say that and I and then you go like no its incorrect point you know in your case it was it was bad news but it was also good news in a way
-
-### Speaker 2 · Speaker 2
-
-Yeah yeah you know sounds cliche I agree really common but on the other hand is like we make our destiny We we make our choices and we are our choices So I could I could easily run away when I was like the only employee in the company and say okay guys I I quit Yeah so I made my choice to put yourself in into this uncertainty and to explore it These are all our inner enemies in a way
+speaker_2: Yeah yeah you know sounds cliche I agree really common but on the other hand is like we make our destiny We we make our choices and we are our choices So I could I could easily run away when I was like the only employee in the company and say okay guys I I quit Yeah so I made my choice to put yourself in into this uncertainty and to explore it These are all our inner enemies in a way

@@ -29,8 +29,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -38,10 +38,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So when you think when you think I suppose when you think about uh Stefano 20 years ago and Stefano today So what would be like the biggest the biggest change in your life
 
-So when you think when you think I suppose when you think about uh Stefano 20 years ago and Stefano today So what would be like the biggest the biggest change in your life
-
-### Speaker 2 · Speaker 2
-
-Well the biggest change for me is now that uh I really really value what I do and I Im really proud of what I do Well before you know I I was doing a job and it was fine but it didnt really make me proud and it didnt like you know there was no like the the passion was different you know I Im very I feel like Im very lucky because Im working in a field that I really care about and Im really passionate about And you know its an NGO were a very small team Its its crazy busy all the time but it doesnt feel like work at times It feel like Im Im doing what Im meant to be doing and feeling like Im happy with what Im doing
+speaker_2: Well the biggest change for me is now that uh I really really value what I do and I Im really proud of what I do Well before you know I I was doing a job and it was fine but it didnt really make me proud and it didnt like you know there was no like the the passion was different you know I Im very I feel like Im very lucky because Im working in a field that I really care about and Im really passionate about And you know its an NGO were a very small team Its its crazy busy all the time but it doesnt feel like work at times It feel like Im Im doing what Im meant to be doing and feeling like Im happy with what Im doing

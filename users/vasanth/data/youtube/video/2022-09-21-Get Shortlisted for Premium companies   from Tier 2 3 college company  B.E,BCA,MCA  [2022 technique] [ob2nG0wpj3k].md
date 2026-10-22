@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-all welcome back to uncommon geeks myself vasanth i hope youre all doing well in case if youre seeing me first time on the internet im a content creator i help people to clear their interview i made a lot of beautiful series in the past which has been appreciated by many link to those videos is in the description also in the ill put on the screen please do watch all the series in case if youre preparing for interview now without wasting further time lets get started with the content of the video this is one of the super important topic and i get lot of questions regarding this in my lingan medium youtube everywhere like vasanth how come your resumes are
+speaker_1: all welcome back to uncommon geeks myself vasanth i hope youre all doing well in case if youre seeing me first time on the internet im a content creator i help people to clear their interview i made a lot of beautiful series in the past which has been appreciated by many link to those videos is in the description also in the ill put on the screen please do watch all the series in case if youre preparing for interview now without wasting further time lets get started with the content of the video this is one of the super important topic and i get lot of questions regarding this in my lingan medium youtube everywhere like vasanth how come your resumes are
 
 
 shortlisted for a lot of big firms how we are able to give an interview at big firms uh and what is there in your resume that we are not having and these people also ask wasant i have studied in some tier three college i have worked on service companies i still want to apply for very big firms but my resume is not getting shortlisted or some have actually some premiumness in in their lifestyle like they either worked on a very big firms or they have worked studied in a premium college but still their resume is not getting shortlisted for the premium companies
@@ -122,13 +120,9 @@ So somehow find something that is unique about your product that is worth mentio
 
 So this is as you can see here its a July 2014 passout So its more like for now it is close to eight years of experience I can tell you its a senior resume correct Senior persons resume Where if he starts mentioning he can mention a lot in the under companies and the projects But so they kept it minimal so that and to the point
 
-### Speaker 2
+speaker_2: Whatever they have
 
-Whatever they have
-
-### Speaker 1
-
-See I assume you enjoyed my first resume walkthrough Now Im going to walk you through the second resume which is very very important from the fresher or the junior point of view how your resume has to be framed Correct So in case if youre liking the content whatever Im making please like the video and comment whatever youre feeling This is very very important for me because more likes and comments my video becomes more popular A lot of people get to see it And when a lot of people get to see I can Ill be reaching my goal of helping people to clear their interview much faster So please like and comment before watching first
+speaker_1: See I assume you enjoyed my first resume walkthrough Now Im going to walk you through the second resume which is very very important from the fresher or the junior point of view how your resume has to be framed Correct So in case if youre liking the content whatever Im making please like the video and comment whatever youre feeling This is very very important for me because more likes and comments my video becomes more popular A lot of people get to see it And when a lot of people get to see I can Ill be reaching my goal of helping people to clear their interview much faster So please like and comment before watching first
 
 
 Now Im going for the second resume This is again one of the most common questions that people ask me in LinkedIn and YouTube Like Im a fresher and I want to apply for the premium companies How should my resume be So this is the right template for you guys So this is the resume template for both medium mid level and the senior So this is the template for fresher and the maybe one year experienced Okay So here how they have done is again top section is always dedicated for mentioning your email phone number

@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello supply chain friends so since I made the video on how to find entry level jobs in supply chain and consequently I also made videos on how to make hundred thousand dollars or two hundred thousand dollars in supply chain jobs I get this question very commonly that tell us about those entry level jobs which will help us make fifty thousand US dollars or more so in this video I will cover with you the five jobs in supply chain which are entry level and they will help you make at least fifty thousand dollars or more so watch this video till the end my name is Jameel
+speaker_1: Hello supply chain friends so since I made the video on how to find entry level jobs in supply chain and consequently I also made videos on how to make hundred thousand dollars or two hundred thousand dollars in supply chain jobs I get this question very commonly that tell us about those entry level jobs which will help us make fifty thousand US dollars or more so in this video I will cover with you the five jobs in supply chain which are entry level and they will help you make at least fifty thousand dollars or more so watch this video till the end my name is Jameel
 
 
 And Ive been working in supply chain management positions across South Asia Middle East and North America for more than 20 years now And my mission is to help supply chain professionals like you build real life skills for your job and career that they dont teach you in college And if you are preparing for a supply chain job interview anytime soon you should definitely book a session with me because Im going to take your resume the job description you are applying for and based on a combination of those two and my 20 plus years of experience well give you some laser guided tips and tricks which will maximize your
@@ -76,13 +74,9 @@ and reliability so gives you a lot of fundamental skills in the manufacturing sp
 
 But in this job you could have people reporting to you and getting that experience of managing people really early in your career can take you a long way So shift manager I mean these jobs once again titles could be different Some companies call them shift manager Some company call them operation junior manager or something like that But basically these are jobs where you are not responsible for an entire factory but you are responsible for one line and a set of shifts which are going there
 
-### Speaker 2
+speaker_2: And the final entry level job that will help you make 50K
 
-And the final entry level job that will help you make 50K
-
-### Speaker 1
-
-or more is an IT support specialist job Now this job belongs to the enable function of supply chain and it may not even sound like a supply chain job but if you are in an entry level IT job where you are supporting lets say a warehouse management system or a transportation management system or an order management system or an ERP covered all these different systems in a dedicated video which you can watch by clicking over here and if you are supporting one of these systems
+speaker_1: or more is an IT support specialist job Now this job belongs to the enable function of supply chain and it may not even sound like a supply chain job but if you are in an entry level IT job where you are supporting lets say a warehouse management system or a transportation management system or an order management system or an ERP covered all these different systems in a dedicated video which you can watch by clicking over here and if you are supporting one of these systems
 
 
 So lets say you graduated as an IT professional from university you did your hardware engineering or software engineering something in that space and you get an entry level job where you are supporting some of these systems This is another great way to start that blended supply chain and IT career Because one of the things which I also covered in my video where how do you move from another profession to supply chain and I talked about how IT professionals can move into supply chain roles is to work on projects which involve one of

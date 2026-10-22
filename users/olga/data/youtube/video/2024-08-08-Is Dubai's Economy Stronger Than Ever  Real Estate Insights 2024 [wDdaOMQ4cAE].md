@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So what is actually happening in Dubai Stability of economy means diversification within different sectors So not only real estate tourism trade Now were bringing up the first casino in the region And I dont want to say it doesnt matter that its not in Dubai
+speaker_1: So what is actually happening in Dubai Stability of economy means diversification within different sectors So not only real estate tourism trade Now were bringing up the first casino in the region And I dont want to say it doesnt matter that its not in Dubai

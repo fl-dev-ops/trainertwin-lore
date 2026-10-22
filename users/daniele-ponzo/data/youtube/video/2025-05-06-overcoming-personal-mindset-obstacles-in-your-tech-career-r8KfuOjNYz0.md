@@ -12,8 +12,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -21,10 +21,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And after that you know uh I went to mindset coaching simply because I wanted to help myself to overcome all of my mindset obstacles Because I realized that even if you want to change a career to start a business to you know to get out of a tough life situation I dont know what it is put everything you want here Its like yeah you you really want to overcome your biggest enemy And who is our biggest enemy Our mind Wow So you started coaching yourself in a way Yeah in a way yes In a way yes because we do have so many insecurities right Its like Yeah running away imposter syndrome self doubts second thoughts perfectionism You know its like and this is just a short list
 
-And after that you know uh I went to mindset coaching simply because I wanted to help myself to overcome all of my mindset obstacles Because I realized that even if you want to change a career to start a business to you know to get out of a tough life situation I dont know what it is put everything you want here Its like yeah you you really want to overcome your biggest enemy And who is our biggest enemy Our mind Wow So you started coaching yourself in a way Yeah in a way yes In a way yes because we do have so many insecurities right Its like Yeah running away imposter syndrome self doubts second thoughts perfectionism You know its like and this is just a short list
-
-### Speaker 2 · Speaker 2
-
-Yeah yeah
+speaker_2: Yeah yeah

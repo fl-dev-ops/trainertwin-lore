@@ -10,7 +10,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-TIP 1
+speaker_1: TIP 1
 
 
 CREATE A SAFE ENVIRONMENT

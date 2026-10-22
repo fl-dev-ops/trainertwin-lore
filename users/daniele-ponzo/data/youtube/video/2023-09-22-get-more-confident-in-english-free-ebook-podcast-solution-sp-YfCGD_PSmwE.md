@@ -31,7 +31,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -39,9 +39,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Hey everyone I hope September has been treating you well so far and youre working on some exciting projects Im here today because I want to share some great news with you And so are you ready So the first thing I want to share is that I have nearly finished working on my ebook about speaking English with confidence for IT professionals
+speaker_1: Hey everyone I hope September has been treating you well so far and youre working on some exciting projects Im here today because I want to share some great news with you And so are you ready So the first thing I want to share is that I have nearly finished working on my ebook about speaking English with confidence for IT professionals
 
 
 Uh so its going to be packed with uh ideas tips templates that you can use straight away to you know give you to make you more comfortable in international settings and when you need to present be in a meeting be in a call and super actionable and so watch this space because I am going to publish some news very soon The second thing Id like to share with you is that I am uh working on a video podcast series called The Non Native Leader

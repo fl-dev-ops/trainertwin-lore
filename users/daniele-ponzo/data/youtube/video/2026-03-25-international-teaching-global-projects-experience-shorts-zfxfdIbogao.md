@@ -24,8 +24,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -33,10 +33,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So Gulbin you do a lot of things You teach you study you do international projects Its quite fascinating because you know when people think about teachers they say okay those people who go into a room and they talk other people listen and thats it But you know actually we do a lot of things and and youre the living proof obviously that we do a lot of things Um So you work in your native country like Turkey yeah Am I pronouncing it Am I pronouncing it well
 
-So Gulbin you do a lot of things You teach you study you do international projects Its quite fascinating because you know when people think about teachers they say okay those people who go into a room and they talk other people listen and thats it But you know actually we do a lot of things and and youre the living proof obviously that we do a lot of things Um So you work in your native country like Turkey yeah Am I pronouncing it Am I pronouncing it well
-
-### Speaker 2 · Speaker 2
-
-Yes Yeah yeah yeah yeah very well very well
+speaker_2: Yes Yeah yeah yeah yeah very well very well

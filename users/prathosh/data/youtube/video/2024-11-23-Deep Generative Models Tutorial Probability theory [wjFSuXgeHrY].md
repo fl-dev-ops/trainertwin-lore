@@ -8,20 +8,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Deep Generative Models Tutorial Probability theory
 
 ## Transcript
 
-
-### Speaker 1
-
-You know
+speaker_1: You know
 
 
 Only the weight of network two will be updated
@@ -35,40 +32,24 @@ He takes a specific sigmoid node and then he explains how to do the back propaga
 
 Yeah to that specific signal node
 
-### Speaker 2
+speaker_2: To that specific signal
 
-To that specific signal
+speaker_1: Its in the course notes of the link that I have given
 
-### Speaker 1
+speaker_2: Okay well check that
 
-Its in the course notes of the link that I have given
-
-### Speaker 2
-
-Okay well check that
-
-### Speaker 1
-
-Now this is yeah this is one of the very good resources on CNNs Okay Now they have really given a very good resource on CNNs Now to understand CNN this is one of the best resource that I have come across I am not saying that there might be some other good resources but this is one of the notes that I have come across And apart from that one other resource that I have come across is a three blue one brown channel
+speaker_1: Now this is yeah this is one of the very good resources on CNNs Okay Now they have really given a very good resource on CNNs Now to understand CNN this is one of the best resource that I have come across I am not saying that there might be some other good resources but this is one of the notes that I have come across And apart from that one other resource that I have come across is a three blue one brown channel
 
 
 three blue and brown
 
-### Speaker 2
+speaker_2: Yeah at least I know that
 
-Yeah at least I know that
+speaker_1: Yeah three blue one brown channel now there you can look at the convolution and so he has a specific chapters on neural networks now there you can look at it now in which the queries will be resolved
 
-### Speaker 1
+speaker_2: Yeah sure sure Chandan I think maybe we can yeah continue with the
 
-Yeah three blue one brown channel now there you can look at the convolution and so he has a specific chapters on neural networks now there you can look at it now in which the queries will be resolved
-
-### Speaker 2
-
-Yeah sure sure Chandan I think maybe we can yeah continue with the
-
-### Speaker 1
-
-So any other questions you have any others
+speaker_1: So any other questions you have any others
 
 
 So things are going on comfortably no issues are there
@@ -163,209 +144,113 @@ And its
 
 Inverse inverse which and then
 
-### Speaker 3
+speaker_3: Shandun
 
-Shandun
+speaker_1: Yes sir Yes sir
 
-### Speaker 1
+speaker_3: Uh sorry I interrupted you uh Professor
 
-Yes sir Yes sir
+speaker_1: Yes sir yes sir I got it
 
-### Speaker 3
+speaker_3: Yeah I I I mean if you can maybe just solve the midterm exam questions no that would I think be useful
 
-Uh sorry I interrupted you uh Professor
+speaker_1: I I I myself did not prepare for it
 
-### Speaker 1
+speaker_2: So can we have a separate tutorial for it this week maybe for that
 
-Yes sir yes sir I got it
+speaker_3: Yeah yeah no problem maybe next week yeah maybe next week
 
-### Speaker 3
+speaker_1: Yeah sure sure sure sir
 
-Yeah I I I mean if you can maybe just solve the midterm exam questions no that would I think be useful
+speaker_2: Or even I think maybe that that that I mean going through the mid term is also something which we wanted to go through so
 
-### Speaker 1
-
-I I I myself did not prepare for it
-
-### Speaker 2
-
-So can we have a separate tutorial for it this week maybe for that
-
-### Speaker 3
-
-Yeah yeah no problem maybe next week yeah maybe next week
-
-### Speaker 1
-
-Yeah sure sure sure sir
-
-### Speaker 2
-
-Or even I think maybe that that that I mean going through the mid term is also something which we wanted to go through so
-
-### Speaker 1
-
-Yeah
+speaker_1: Yeah
 
 
 Sure uh we we will surely do it uh uh in the next session yeah
 
-### Speaker 3
+speaker_3: And then one other thing here Im sorry I did that
 
-And then one other thing here Im sorry I did that
+speaker_1: Yes sir yeah no no no no no problems yes sir
 
-### Speaker 1
+speaker_3: This is Saturday I will take the class between 8 pm and 11 am
 
-Yes sir yeah no no no no no problems yes sir
+speaker_1: Yes Im 11 yeah yeah yeah I saw the message
 
-### Speaker 3
+speaker_3: Yeah so you have the quiz at 11 oclock okay Sure after 11
 
-This is Saturday I will take the class between 8 pm and 11 am
+speaker_1: Sure after sure sure yeah your sons interview is there
 
-### Speaker 1
+speaker_3: Oh yeah I mean sh
 
-Yes Im 11 yeah yeah yeah I saw the message
-
-### Speaker 3
-
-Yeah so you have the quiz at 11 oclock okay Sure after 11
-
-### Speaker 1
-
-Sure after sure sure yeah your sons interview is there
-
-### Speaker 3
-
-Oh yeah I mean sh
-
-### Speaker 1
-
-So all the all the best with the interview
+speaker_1: So all the all the best with the interview
 
 
 See the guy cannot talk they want to interview him I dont know
 
-### Speaker 4
-
-See the guy cannot talk they have want to interview him why dont
+speaker_4: See the guy cannot talk they have want to interview him why dont
 
 
 I mean these Bangalore schools right I dont know what theyre
 
-### Speaker 3
+speaker_3: Anyway
 
-Anyway
+speaker_1: Will you interview your son or you like you also I mean I dont know
 
-### Speaker 1
+speaker_4: Otherwise why would I go no I mean my wife could have gone so they have asked to specifically ask both the parents to be present with the child so
 
-Will you interview your son or you like you also I mean I dont know
+speaker_3: Yeah
 
-### Speaker 4
+speaker_4: Yeah go ahead and do that and then you have the
 
-Otherwise why would I go no I mean my wife could have gone so they have asked to specifically ask both the parents to be present with the child so
+speaker_3: Its called
 
-### Speaker 3
+speaker_4: of these schools in the south bank but yeah so
 
-Yeah
+speaker_1: So it has uh the sixth the sixth crosser DBJ road
 
-### Speaker 4
+speaker_4: Or Tatas will be at me
 
-Yeah go ahead and do that and then you have the
+speaker_1: That is the link for him yeah yeah
 
-### Speaker 3
+speaker_4: Yeah so have that quiz on 11 oclock okay 11 oclock
 
-Its called
+speaker_1: Im loving it yeah
 
-### Speaker 4
+speaker_4: And one other thing somebody asked me to not have the quiz on 2nd of November right Because thats like a series of holidays and yeah sort of Diwali right So what we can do no 19th we will have a quiz 26th we will have another quiz okay
 
-of these schools in the south bank but yeah so
+speaker_1: Just a
 
-### Speaker 1
+speaker_4: Then maybe I discuss that in today I mean the Saturdays lecture I just wanted to let you know that that one of these tutorials no you can see
 
-So it has uh the sixth the sixth crosser DBJ road
+speaker_3: Maybe or you can do another thing why dont you just solve the midterm
 
-### Speaker 4
+speaker_4: questions and just upload it in the group you dont have to spend time
 
-Or Tatas will be at me
+speaker_1: That Ill do yeah
 
-### Speaker 1
+speaker_3: I think that would be easier
 
-That is the link for him yeah yeah
+speaker_1: be easier sure sure sure that and we can we can ask doubts if any i mean
 
-### Speaker 4
+speaker_3: Oh yeah you can ask them to do it for you too
 
-Yeah so have that quiz on 11 oclock okay 11 oclock
+speaker_1: Itll be easier later
 
-### Speaker 1
+speaker_3: Sorry gentlemen I disturbed you please continue
 
-Im loving it yeah
-
-### Speaker 4
-
-And one other thing somebody asked me to not have the quiz on 2nd of November right Because thats like a series of holidays and yeah sort of Diwali right So what we can do no 19th we will have a quiz 26th we will have another quiz okay
-
-### Speaker 1
-
-Just a
-
-### Speaker 4
-
-Then maybe I discuss that in today I mean the Saturdays lecture I just wanted to let you know that that one of these tutorials no you can see
-
-### Speaker 3
-
-Maybe or you can do another thing why dont you just solve the midterm
-
-### Speaker 4
-
-questions and just upload it in the group you dont have to spend time
-
-### Speaker 1
-
-That Ill do yeah
-
-### Speaker 3
-
-I think that would be easier
-
-### Speaker 1
-
-be easier sure sure sure that and we can we can ask doubts if any i mean
-
-### Speaker 3
-
-Oh yeah you can ask them to do it for you too
-
-### Speaker 1
-
-Itll be easier later
-
-### Speaker 3
-
-Sorry gentlemen I disturbed you please continue
-
-### Speaker 1
-
-No no no no yeah no problems no problem yeah
+speaker_1: No no no no yeah no problems no problem yeah
 
 
 Sorry to interrupt you
 
-### Speaker 4
+speaker_4: Sorry Chandra before going into mathematics detail can you just suggest what is the intuition why we are doing this law of unconscious guidance
 
-Sorry Chandra before going into mathematics detail can you just suggest what is the intuition why we are doing this law of unconscious guidance
+speaker_1: Ill Ill Ill come to that and Ill exactly come to that okay see uh for example Ill give you a very simple idea to calculate it comes up in
 
-### Speaker 1
+speaker_4: It comes up in reparameterization it came up in reparameterization
 
-Ill Ill Ill come to that and Ill exactly come to that okay see uh for example Ill give you a very simple idea to calculate it comes up in
-
-### Speaker 4
-
-It comes up in reparameterization it came up in reparameterization
-
-### Speaker 1
-
-reparameterization so even a simple idea is to calculate the variance you want expectation of x square
+speaker_1: reparameterization so even a simple idea is to calculate the variance you want expectation of x square
 
 
 x square is a function of x We know how to calculate the expectation of x How to calculate the expectation of x square We need the idea of lotus Thats the simplest example that we can think of
@@ -373,16 +258,12 @@ x square is a function of x We know how to calculate the expectation of x How to
 
 In addition to reparametrization thats what Sir said but the simplest idea that we can think of is
 
-### Speaker 4
-
-Ooh
+speaker_4: Ooh
 
 
 Good example I like it yeah
 
-### Speaker 1
-
-Thank you
+speaker_1: Thank you
 
 
 So my my internet got disconnected just just give me one minute
@@ -396,21 +277,13 @@ are in between what will be the syllabus for the next quiz will it be the last t
 
 whatever has been covered till the pre previous quiz and then see you we cannot compartmentalize things like that for example if i ask you a simple question on probability now you cannot say that this is the quiz ones topics and this is not limited right
 
-### Speaker 4
+speaker_4: But Chandra dont ask things that Im going to know no no no
 
-But Chandra dont ask things that Im going to know no no no
+speaker_1: No no no no no no no no no no
 
-### Speaker 1
+speaker_4: You can be Markovian you should be ergodic
 
-No no no no no no no no no no
-
-### Speaker 4
-
-You can be Markovian you should be ergodic
-
-### Speaker 1
-
-No no no no no no that Ill not do sir
+speaker_1: No no no no no no that Ill not do sir
 
 
 So now the idea is see the first of all lets try to understand the name itself So now it is called as law of the unconscious statistician Okay Now you will be able to understand why it is called such in some time Okay So it is not like simply they just use that name Okay It has a very deeper meaning to it So the idea is you apply it in a totally in an unconscious way
@@ -493,16 +366,12 @@ y into fy of y
 
 This is how I write it right
 
-### Speaker 4
-
-sorry its g dash of g inverse of y right one y i mean we should take the differential of g
+speaker_4: sorry its g dash of g inverse of y right one y i mean we should take the differential of g
 
 
 I am wrong sorry
 
-### Speaker 1
-
-No no no just just go ahead and on this is correct
+speaker_1: No no no just just go ahead and on this is correct
 
 
 Now what is the
@@ -546,13 +415,9 @@ Now I know the distribution function of y in terms of x I know see what is my as
 
 Once I know the distribution once I know the distribution yeah Ive got it
 
-### Speaker 4
+speaker_4: I have a question So when you invert the g right to the other side x would be greater than g inverse of y right
 
-I have a question So when you invert the g right to the other side x would be greater than g inverse of y right
-
-### Speaker 1
-
-A is less than B
+speaker_1: A is less than B
 
 
 1 over A is greater than 1 over B
@@ -563,21 +428,13 @@ A is less than B
 
 answers your question
 
-### Speaker 4
+speaker_4: Uh I think Ill have to Ill Ill take a look
 
-Uh I think Ill have to Ill Ill take a look
+speaker_1: Hey no no no no no no there is nothing there yes okay
 
-### Speaker 1
+speaker_4: Yes a chain of supplies one
 
-Hey no no no no no no there is nothing there yes okay
-
-### Speaker 4
-
-Yes a chain of supplies one
-
-### Speaker 1
-
-See what is this is A okay let us come back here No this is A this is B cut
+speaker_1: See what is this is A okay let us come back here No this is A this is B cut
 
 
 Apply this idea you will get this exactly the same steps
@@ -600,13 +457,9 @@ Now okay whatever questions you have you can stop me anytime Okay See what is wh
 
 that time we should take simple ideas like this to understand intuitively what is the steps that we are doing okay so now now now finally now i know the distribution function now if i know the distribution function can i get the density function
 
-### Speaker 4
+speaker_4: Yes differentiate
 
-Yes differentiate
-
-### Speaker 1
-
-Differentiated thats all effects of
+speaker_1: Differentiated thats all effects of
 
 
 Green versus whitey
@@ -716,43 +569,27 @@ Only for this specific case have considered it
 
 Not for any other case
 
-### Speaker 4
+speaker_4: And then one question
 
-And then one question
+speaker_1: Go ahead
 
-### Speaker 1
-
-Go ahead
-
-### Speaker 4
-
-How are we getting uh the derivative of g inverse of phi
+speaker_4: How are we getting uh the derivative of g inverse of phi
 
 
 Can you please elaborate a bit on this
 
-### Speaker 1
+speaker_1: You okay Uh you you you remember inverse function rule You know inverse function rule
 
-You okay Uh you you you remember inverse function rule You know inverse function rule
+speaker_3: Maybe Im missing out on that
 
-### Speaker 3
-
-Maybe Im missing out on that
-
-### Speaker 1
-
-Okay
+speaker_1: Okay
 
 
 So now to do so we should go on some more ideas
 
-### Speaker 2
+speaker_2: Is it the same as Janes rule gentlemen or
 
-Is it the same as Janes rule gentlemen or
-
-### Speaker 1
-
-Now it is basically the derivative of inverse
+speaker_1: Now it is basically the derivative of inverse
 
 
 Okay now how do you okay uh uh yes yes it is chain rule It is basically chain rule only Now how do you how do you calculate uh so
@@ -766,13 +603,9 @@ See okay uh
 
 How do you do it
 
-### Speaker 2
+speaker_2: x square inverse and then
 
-x square inverse and then
-
-### Speaker 1
-
-In the same way you proceed
+speaker_1: In the same way you proceed
 
 
 So it is basically d by dx of x to the power of minus 2
@@ -780,61 +613,33 @@ So it is basically d by dx of x to the power of minus 2
 
 And how do you proceed Tell me the full equation How do you do it
 
-### Speaker 2
+speaker_2: Find the one that fits
 
-Find the one that fits
+speaker_4: So this is minus 2x minus 3
 
-### Speaker 4
+speaker_3: Still extra
 
-So this is minus 2x minus 3
+speaker_1: Yeah so fine So always confusions will be there You would have left all this differentiation integration some time ago because of which so well be rusty about the formulas but that is fine But the intuition is clear Now now does that answer your question Whoever asked this
 
-### Speaker 3
+speaker_4: not completely so if we are trying to relate inverse in terms of a reciprocal then maybe i am not able to understand that
 
-Still extra
+speaker_2: I think Sanchit you can just check for this chain rule then you will get to know that how it works
 
-### Speaker 1
+speaker_1: How do you how do you do it Okay No okay This rather than that my previous example was much more simpler D by DX of 1 over X square How do you solve this
 
-Yeah so fine So always confusions will be there You would have left all this differentiation integration some time ago because of which so well be rusty about the formulas but that is fine But the intuition is clear Now now does that answer your question Whoever asked this
+speaker_4: So this is x to the power of minus 2 The rule will be d by dx of x to the power n which is n x n minus 1 So in our case n is minus 2 It will be minus
 
-### Speaker 4
+speaker_1: 10 is minus 2 it will be minus If you dont if you dont want to use that is there any other way of doing it
 
-not completely so if we are trying to relate inverse in terms of a reciprocal then maybe i am not able to understand that
+speaker_2: It is uh I think f of g of x right I mean how do you evaluate
 
-### Speaker 2
+speaker_4: Do you want to edit your file for me
 
-I think Sanchit you can just check for this chain rule then you will get to know that how it works
+speaker_2: Yeah
 
-### Speaker 1
+speaker_4: F P of P of P by Q
 
-How do you how do you do it Okay No okay This rather than that my previous example was much more simpler D by DX of 1 over X square How do you solve this
-
-### Speaker 4
-
-So this is x to the power of minus 2 The rule will be d by dx of x to the power n which is n x n minus 1 So in our case n is minus 2 It will be minus
-
-### Speaker 1
-
-10 is minus 2 it will be minus If you dont if you dont want to use that is there any other way of doing it
-
-### Speaker 2
-
-It is uh I think f of g of x right I mean how do you evaluate
-
-### Speaker 4
-
-Do you want to edit your file for me
-
-### Speaker 2
-
-Yeah
-
-### Speaker 4
-
-F P of P of P by Q
-
-### Speaker 1
-
-So now in a similar manner you can obtain it for the previous case also
+speaker_1: So now in a similar manner you can obtain it for the previous case also
 
 
 Makes sense
@@ -842,21 +647,13 @@ Makes sense
 
 Any other questions
 
-### Speaker 2
+speaker_2: Watch out for the next question
 
-Watch out for the next question
+speaker_1: You look next
 
-### Speaker 1
+speaker_2: Why that monotonically not increasing I mean where does that come into picture
 
-You look next
-
-### Speaker 2
-
-Why that monotonically not increasing I mean where does that come into picture
-
-### Speaker 1
-
-So
+speaker_1: So
 
 
 that comes into picture in these steps
@@ -864,13 +661,9 @@ that comes into picture in these steps
 
 Okay now that is something that I have put it under rug I have put it under rug So now first you should understand what is monotonic sequence for that Now since we havent discussed monotonic sequence and other stuff so lets not go there Okay I mean is it coming from
 
-### Speaker 2
+speaker_2: I mean is it coming from the definition of CDF that it should always be increasing monotonically non decreasing
 
-I mean is it coming from the definition of CDF that it should always be increasing monotonically non decreasing
-
-### Speaker 1
-
-decrease yes yes yeah it is non decreasing it is not increasing okay cdf is monotonically non increasing monotonically uh non decreasing
+speaker_1: decrease yes yes yeah it is non decreasing it is not increasing okay cdf is monotonically non increasing monotonically uh non decreasing
 
 
 Okay Yeah So its its like you have multiple layers of stuff Okay How much ever you peel no there will be something that is below it Okay Now we should somewhere put a stop So now Ill always give this example Now this example may be like So there is something called as real analysis
@@ -983,13 +776,9 @@ So when I mean discrete now what do I mean by discrete
 
 in this case
 
-### Speaker 4
+speaker_4: The random variable is discrete
 
-The random variable is discrete
-
-### Speaker 1
-
-Random variable is discrete Okay Now please remember that both of them share the same sample space
+speaker_1: Random variable is discrete Okay Now please remember that both of them share the same sample space
 
 
 So it is not like they have different sample space
@@ -1069,24 +858,16 @@ How does the log x graph look like
 
 Is this a concave function
 
-### Speaker 3
+speaker_3: Yeah
 
-Yeah
-
-### Speaker 1
-
-Okay what is a convex function then
+speaker_1: Okay what is a convex function then
 
 
 How to how to get the convex function from log x now do you know any ways of doing getting it
 
-### Speaker 2
+speaker_2: Minus
 
-Minus
-
-### Speaker 1
-
-Okay this is some good idea Let me put that minus
+speaker_1: Okay this is some good idea Let me put that minus
 
 
 Logics
@@ -1097,16 +878,12 @@ Is this a convex function
 
 How do you know that it is a convex function
 
-### Speaker 2
-
-I think if you take any two points then they are always above the curve
+speaker_2: I think if you take any two points then they are always above the curve
 
 
 I mean the line segment joining the two points is always above the
 
-### Speaker 1
-
-The idea is called as epigraph Okay That is the next idea that we will be discussing in the next tutorials Okay The idea is called as epigraph We will come to that specific point in the next session that thats rightly correct Okay Now log is a concave function
+speaker_1: The idea is called as epigraph Okay That is the next idea that we will be discussing in the next tutorials Okay The idea is called as epigraph We will come to that specific point in the next session that thats rightly correct Okay Now log is a concave function
 
 
 And then I invoke something that I havent proved yet will be proving it explicitly
@@ -1129,13 +906,9 @@ No not the inequality in the society
 
 In mathematics have you heard of any other inequality
 
-### Speaker 2
+speaker_2: Triangular inequality
 
-Triangular inequality
-
-### Speaker 1
-
-triangle inequality apart from that in probability do you hear anything
+speaker_1: triangle inequality apart from that in probability do you hear anything
 
 
 there is something called as Chernoff bounds okay uh that is idea called as Markov inequalities these things will come they are very wonderful inequality to get the bounds okay now we will be discussing them in time now the Jensens inequality basically says log of expectation of x is always less than expectation of log x
@@ -1164,28 +937,18 @@ Why did I take this symbol
 
 Okay there is a negative symbol here now because of which I have taken the other other inequality now because of which I can cancel of this and this
 
-### Speaker 2
+speaker_2: Then I have a query here
 
-Then I have a query here
+speaker_1: Morning
 
-### Speaker 1
-
-Morning
-
-### Speaker 2
-
-We said e log x
+speaker_2: We said e log x
 
 
 Less than or equal to log EX right So in the previous example it is not E
 
-### Speaker 3
+speaker_3: log x right i mean expectation is px if it was px no this is this is
 
-log x right i mean expectation is px if it was px no this is this is
-
-### Speaker 1
-
-No this is this is eLogix
+speaker_1: No this is this is eLogix
 
 
 Okay now this is expectation of log x
@@ -1193,13 +956,9 @@ Okay now this is expectation of log x
 
 Now how do you get expectation of log x
 
-### Speaker 3
+speaker_3: a a summation of x into log x right thats what expectation of log x is right
 
-a a summation of x into log x right thats what expectation of log x is right
-
-### Speaker 1
-
-Whom did you leave the density function for me
+speaker_1: Whom did you leave the density function for me
 
 
 Okay happens dont worry all these things we all of us will do these kinds of mistakes
@@ -1216,27 +975,19 @@ What is Q
 
 Or to be even more specific we are considering a discrete case in discrete case what is Q
 
-### Speaker 4
+speaker_4: Yeah
 
-Yeah
-
-### Speaker 1
-
-Now this is summation over all the x what will be this
+speaker_1: Now this is summation over all the x what will be this
 
 
 this is
 
-### Speaker 4
-
-This should be one
+speaker_4: This should be one
 
 
 Log one is zero
 
-### Speaker 1
-
-The log one is zero correct
+speaker_1: The log one is zero correct
 
 
 See okay let me let this not confuse you when I say again and again here Im just carry forwarding this Im not saying this this quantity is less than this quantity that is not what I mean So if you are confusing with that You can always write this
@@ -1295,105 +1046,61 @@ I thought Ill be con starting with Jensens inequality today
 
 yeah we dont have much time yeah any questions we will stop for the day
 
-### Speaker 2
+speaker_2: Chandan in the mid term there was one question that whether DKL is symmetric or not and if it is not symmetric what are the consequences of it so shall we cover this now or in the mid term review
 
-Chandan in the mid term there was one question that whether DKL is symmetric or not and if it is not symmetric what are the consequences of it so shall we cover this now or in the mid term review
-
-### Speaker 1
-
-Ill what Ill do is Ill write the answers for everything see to be very frank I havent seen the mid sem questions at all let me be very frank okay now Im a very what do you call this that that this will be there no so I I havent seen I should start even so we should come up with answer script now what Ill do is Ill come up with an key solutions and then Ill put it out and then in the next tutorials that is next Wednesday if you have got any questions well surely take it
+speaker_1: Ill what Ill do is Ill write the answers for everything see to be very frank I havent seen the mid sem questions at all let me be very frank okay now Im a very what do you call this that that this will be there no so I I havent seen I should start even so we should come up with answer script now what Ill do is Ill come up with an key solutions and then Ill put it out and then in the next tutorials that is next Wednesday if you have got any questions well surely take it
 
 
 Okay
 
-### Speaker 2
+speaker_2: Yeah thats fine
 
-Yeah thats fine
-
-### Speaker 1
-
-Okay sorry I I so if Sarah has told me I would have looked into it even it did not come to me also sorry for that
+speaker_1: Okay sorry I I so if Sarah has told me I would have looked into it even it did not come to me also sorry for that
 
 
 We will look it up in the next session
 
-### Speaker 3
+speaker_3: And one more question
 
-And one more question
+speaker_1: Black guys
 
-### Speaker 1
+speaker_4: So this probability density function right So thats a function from R to R you mentioned Its basically the if you differentiate the CDF you get the probability density function right
 
-Black guys
+speaker_1: Yeah if if X is a continuous random variable
 
-### Speaker 4
+speaker_4: if x is a continuous random variable so that can be looked at as a likelihood of the value taking x right x taking the value x
 
-So this probability density function right So thats a function from R to R you mentioned Its basically the if you differentiate the CDF you get the probability density function right
+speaker_1: Why are you looking lightly here Okay fine then
 
-### Speaker 1
+speaker_4: Uh would it go beyond zero and one in in so basically my question is like yeah would that uh value of px the density function go beyond zero and one Yes yes yes that is what I said r2r
 
-Yeah if if X is a continuous random variable
+speaker_1: Yes yes yes that is what you said yes yes yes
 
-### Speaker 4
+speaker_4: Yes please can you give an example
 
-if x is a continuous random variable so that can be looked at as a likelihood of the value taking x right x taking the value x
-
-### Speaker 1
-
-Why are you looking lightly here Okay fine then
-
-### Speaker 4
-
-Uh would it go beyond zero and one in in so basically my question is like yeah would that uh value of px the density function go beyond zero and one Yes yes yes that is what I said r2r
-
-### Speaker 1
-
-Yes yes yes that is what you said yes yes yes
-
-### Speaker 4
-
-Yes please can you give an example
-
-### Speaker 1
-
-It takes Gaussian distribution
+speaker_1: It takes Gaussian distribution
 
 
 Take take any Gaussian how is the density of the Gaussian distribution is
 
-### Speaker 4
+speaker_4: Yeah this is the density of the hose
 
-Yeah this is the density of the hose
-
-### Speaker 1
-
-This is the density of the Gaussian distribution
+speaker_1: This is the density of the Gaussian distribution
 
 
 Okay now so if you make it sharper or larger no it will exceed the zero one You can do it easily
 
-### Speaker 4
+speaker_4: Yeah yeah yeah I yeah so for example even if you take a uniform distribution between zero and half
 
-Yeah yeah yeah I yeah so for example even if you take a uniform distribution between zero and half
+speaker_1: Im not sure
 
-### Speaker 1
+speaker_4: And that can have a value two right and any point between zero and okay
 
-Im not sure
+speaker_1: can have a value two right at any point between zero and
 
-### Speaker 4
+speaker_4: Okay got it
 
-And that can have a value two right and any point between zero and okay
-
-### Speaker 1
-
-can have a value two right at any point between zero and
-
-### Speaker 4
-
-Okay got it
-
-### Speaker 2
-
-But it is not defined for a particular point right it has to be always I mean the density function is it defined for any given point
+speaker_2: But it is not defined for a particular point right it has to be always I mean the density function is it defined for any given point
 
 
 We have to always take an interval right
@@ -1401,20 +1108,14 @@ We have to always take an interval right
 
 So we can we cannot evaluate PDF at a particular point right
 
-### Speaker 1
-
-We cannot evaluate
+speaker_1: We cannot evaluate
 
 
 no no no no what his question is correct your point is correct what his question basically is at any given point what will be the value you are correct it will be zero at at a single point correct but at any given interval also it can take more than uh uh zero one is my point
 
-### Speaker 2
+speaker_2: I think the question is like uh I mean how does it relate to the likelihood
 
-I think the question is like uh I mean how does it relate to the likelihood
-
-### Speaker 1
-
-No see okay dont dont bring in likelihood at all
+speaker_1: No see okay dont dont bring in likelihood at all
 
 
 Okay so now it is much more simpler now without looking into likelihood and then see it as an R2R function
@@ -1422,13 +1123,9 @@ Okay so now it is much more simpler now without looking into likelihood and then
 
 Okay now that will be even simpler
 
-### Speaker 2
+speaker_2: Yeah
 
-Yeah
-
-### Speaker 1
-
-Okay and it is much more simpler and say that this is not a probability function It is not probability Your mass is a probability your distribution function is a probability but your density is not probability
+speaker_1: Okay and it is much more simpler and say that this is not a probability function It is not probability Your mass is a probability your distribution function is a probability but your density is not probability
 
 
 No questions no further questions

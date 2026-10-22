@@ -6,14 +6,15 @@ date: '2026-01-28'
 duration: 40:13
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 15 Risk Minimization Framework
 
 ## Transcript
 
-
-Welcome everyone Last time we saw the
+speaker_1: Welcome everyone Last time we saw the
 recipe that is used to solve any machine
 learning problem and we cast the problem
 as that of uh

@@ -6,14 +6,15 @@ date: '2026-01-16'
 duration: 08:05
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 09 Density Function
 
 ## Transcript
 
-
-Welcome back So given
+speaker_1: Welcome back So given
 uh a continuous random variable with
 a distribution function
 px

@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -28,10 +28,7 @@ PS - what are your best presentation tips?
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And you know how you have those pivotal moments in your life? I'm looking at the word presentation from from a present. It's a presentation. And obviously, if you have a present to give, you want to have a nice gift wrapping. The gift wrapping is your non-verbal communication. It's your body language, it's your voice, it's the way you move, it's the energy you project. But if if it's nothing inside for them, if it's not relevant enough, or if there's not good good examples, whatever it was, it was just empty inside. So all he looked at was the gift wrapping. There was nothing inside. Because there is a saying that most of us adhere to that we really like, and that saying is, I have learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel. Do you remember this? Have you seen this? Do you like it? I don't. This is not good enough. This is the gift wrapping. Yeah.
-
+speaker_1: And you know how you have those pivotal moments in your life? I'm looking at the word presentation from from a present. It's a presentation. And obviously, if you have a present to give, you want to have a nice gift wrapping. The gift wrapping is your non-verbal communication. It's your body language, it's your voice, it's the way you move, it's the energy you project. But if if it's nothing inside for them, if it's not relevant enough, or if there's not good good examples, whatever it was, it was just empty inside. So all he looked at was the gift wrapping. There was nothing inside. Because there is a saying that most of us adhere to that we really like, and that saying is, I have learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel. Do you remember this? Have you seen this? Do you like it? I don't. This is not good enough. This is the gift wrapping. Yeah.
 
 ## Comments (2)
 

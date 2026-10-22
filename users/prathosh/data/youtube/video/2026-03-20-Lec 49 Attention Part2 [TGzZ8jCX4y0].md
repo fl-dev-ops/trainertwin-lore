@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 33:56
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 49 Attention Part2
 
 ## Transcript
 
-
-Welcome back So now let us define what
+speaker_1: Welcome back So now let us define what
 is called as the attention vector
 So given a row of Q
 okay

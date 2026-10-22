@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 23:31
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 48 Attention Part1
 
 ## Transcript
 
-
-Welcome everyone
+speaker_1: Welcome everyone
 In this lecture we will look at
 another architecture that is often used
 in the modern deep learning or machine

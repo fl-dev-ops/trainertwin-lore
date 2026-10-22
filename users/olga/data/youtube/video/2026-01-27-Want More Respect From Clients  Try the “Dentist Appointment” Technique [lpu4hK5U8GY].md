@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Guys do you know that the dentist and I checked it with them with several they dont actually have all of these booked appointments but they force you to come 2 PM on Thursday Do you know why They have other slots open They want you to value that appointment like oh my God Thats why were gonna look how as well to become an actual authority for them and step into relationship from the higher status
+speaker_1: Guys do you know that the dentist and I checked it with them with several they dont actually have all of these booked appointments but they force you to come 2 PM on Thursday Do you know why They have other slots open They want you to value that appointment like oh my God Thats why were gonna look how as well to become an actual authority for them and step into relationship from the higher status

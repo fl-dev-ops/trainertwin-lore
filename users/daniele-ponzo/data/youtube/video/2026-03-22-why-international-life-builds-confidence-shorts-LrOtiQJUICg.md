@@ -23,7 +23,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -31,6 +31,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-different people different perspectives different cultures Its just what makes life colorful And I have to say thats the thats the first time I hear it probably but thats the the best definition because come on uh when you can have this kind of exchanges when you can have this kind of uh uh enrichment and also uh taste something new not only the food of course the music as you said the traditions the culture the language of course Uh I think its invaluable you know And and the fact that you kept doing it so not only by traveling but also hosting people in your uh native country in Turkey its wow quite impressive
+speaker_1: different people different perspectives different cultures Its just what makes life colorful And I have to say thats the thats the first time I hear it probably but thats the the best definition because come on uh when you can have this kind of exchanges when you can have this kind of uh uh enrichment and also uh taste something new not only the food of course the music as you said the traditions the culture the language of course Uh I think its invaluable you know And and the fact that you kept doing it so not only by traveling but also hosting people in your uh native country in Turkey its wow quite impressive

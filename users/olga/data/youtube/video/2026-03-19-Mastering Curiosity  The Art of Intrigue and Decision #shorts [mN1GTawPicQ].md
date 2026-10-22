@@ -9,8 +9,8 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,18 +18,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: This call is not about that Do you want me to tell you why Im calling And then you decide should we continue or you want to hang up now
 
-This call is not about that Do you want me to tell you why Im calling And then you decide should we continue or you want to hang up now
+speaker_2: Yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: You see if I am giving you this I am increasing your curiosity Im pulling you up Youre curious
 
-Yeah
-
-### Speaker 1 · Speaker 1
-
-You see if I am giving you this I am increasing your curiosity Im pulling you up Youre curious
-
-### Speaker 2 · Speaker 2
-
-Yeah
+speaker_2: Yeah

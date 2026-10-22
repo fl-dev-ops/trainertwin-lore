@@ -14,8 +14,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -23,14 +23,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: because moving to different country its not only the language changes also communication patterns
 
-because moving to different country its not only the language changes also communication patterns
+speaker_2: True
 
-### Speaker 2 · Speaker 2
-
-True
-
-### Speaker 1 · Speaker 1
-
-What I mean is in Poland and in most of Eastern Europe we are pretty straight to the point Uh in here its called rude Sometimes we oops we are just for us its just fun Its just just how Poland are Its efficient Uh and uh yeah It took me quite a while to soften my approach lets put it this way And learn like you said Daniel like the diplomacy and more softer approach uh British have to conversations
+speaker_1: What I mean is in Poland and in most of Eastern Europe we are pretty straight to the point Uh in here its called rude Sometimes we oops we are just for us its just fun Its just just how Poland are Its efficient Uh and uh yeah It took me quite a while to soften my approach lets put it this way And learn like you said Daniel like the diplomacy and more softer approach uh British have to conversations

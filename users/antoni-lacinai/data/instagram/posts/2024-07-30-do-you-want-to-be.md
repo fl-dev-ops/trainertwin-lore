@@ -11,8 +11,8 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 ## Caption
@@ -21,15 +21,8 @@ Match people
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-The next question would be what are the best practices for matching our client's communication style to make them more aligned with us.
-
-### Speaker 1 · Speaker 1
+speaker_1: The next question would be what are the best practices for matching our client's communication style to make them more aligned with us.
 
 So is there any specific
 
-### Speaker 2 · Speaker 2
-
-So yeah, if if I'm like you, I tend to like you. If I'm not like you, I tend to not like you. So what you do here is that you do match them. Uh you find out quickly what kind of tempo they have, what kind of words they use and you match them out of respect. I know that this sounds very manipulative, but this is also out of respect. Then you match them also in in the in the tonality, in the pacing and in the words. Uh that is the best way to get a good connection. If you feel that you don't have a good connection, that you have a disconnect, this might be the problem.
-
+speaker_2: So yeah, if if I'm like you, I tend to like you. If I'm not like you, I tend to not like you. So what you do here is that you do match them. Uh you find out quickly what kind of tempo they have, what kind of words they use and you match them out of respect. I know that this sounds very manipulative, but this is also out of respect. Then you match them also in in the in the tonality, in the pacing and in the words. Uh that is the best way to get a good connection. If you feel that you don't have a good connection, that you have a disconnect, this might be the problem.

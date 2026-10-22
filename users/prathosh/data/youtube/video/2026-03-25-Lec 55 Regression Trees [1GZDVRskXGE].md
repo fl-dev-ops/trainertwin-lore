@@ -6,14 +6,15 @@ date: '2026-03-25'
 duration: 34:09
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 55 Regression Trees
 
 ## Transcript
 
-
-Welcome back So so far we looked at
+speaker_1: Welcome back So so far we looked at
 decision trees for classification What
 do we do for regression
 Any ideas

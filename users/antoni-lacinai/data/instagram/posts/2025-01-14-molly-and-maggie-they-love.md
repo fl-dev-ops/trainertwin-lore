@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Molly and Maggie. They love my books I guess…
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I'm so happy to be here. Yeah. I'm just happy to
-
+speaker_1: I'm so happy to be here. Yeah. I'm just happy to

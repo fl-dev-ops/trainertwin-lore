@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-शौनक उवाच
+speaker_1: शौनक उवाच
 हत्वा स्वरिक्थस्पृध आततायिनो युधिष्ठिरो धर्मभृताङ्गविस्थितः
 सहानुजैः प्रत्यवरुद्धभोजनः कथं प्रवृत्तः किमकार्षीत्ततः
 

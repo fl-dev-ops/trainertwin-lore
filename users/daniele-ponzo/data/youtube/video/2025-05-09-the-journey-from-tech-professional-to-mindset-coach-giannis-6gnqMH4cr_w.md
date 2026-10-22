@@ -13,8 +13,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -22,14 +22,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: uh but through team coaching I think the bonding that you finally achieve its huge
 
-uh but through team coaching I think the bonding that you finally achieve its huge
+speaker_2: Yeah So its not its not just a buzzword then when you talk about team bonding is it Is it something real
 
-### Speaker 2 · Speaker 2
-
-Yeah So its not its not just a buzzword then when you talk about team bonding is it Is it something real
-
-### Speaker 1 · Speaker 1
-
-Yeah its something real exactly something real because inside your busy inside your business in in your daily business you dont have the time to realize who is like in front of you at the office who is on the other side of the call And through team coaching you you play games You have fun You realize some things You meet the other the other person in more depth you know So all of this beautiful stuff And um after that you know uh I went to mindset coaching simply because I wanted to help myself to overcome all of my mindset obstacles
+speaker_1: Yeah its something real exactly something real because inside your busy inside your business in in your daily business you dont have the time to realize who is like in front of you at the office who is on the other side of the call And through team coaching you you play games You have fun You realize some things You meet the other the other person in more depth you know So all of this beautiful stuff And um after that you know uh I went to mindset coaching simply because I wanted to help myself to overcome all of my mindset obstacles

@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Unlock the secret to coaching success! 🚀 When you master emptying your consci
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So you've got to learn to empty your conscious awareness and just coach from your subconscious. So the good news is the more you know, the better, the more stuff you've learned, the better, because then you've got more tools in the tool bag. So when you stop the conscious thinking and just focus on connecting with the client, Your subconscious can just reach in. Everything they say goes straight to your subconscious, and then your subconscious will respond. All you've got to do is open your mouth and see what comes out.
-
+speaker_1: So you've got to learn to empty your conscious awareness and just coach from your subconscious. So the good news is the more you know, the better, the more stuff you've learned, the better, because then you've got more tools in the tool bag. So when you stop the conscious thinking and just focus on connecting with the client, Your subconscious can just reach in. Everything they say goes straight to your subconscious, and then your subconscious will respond. All you've got to do is open your mouth and see what comes out.

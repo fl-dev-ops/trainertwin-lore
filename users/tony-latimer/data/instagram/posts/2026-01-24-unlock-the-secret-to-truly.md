@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Unlock the secret to truly coaching from within ✨ Your subconscious is the key
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-You do it by coaching from your subconscious. You've got to coach with an empty mind, because the human body has one major failing. And that is, your mouth and your ears do not work at the same time. And that's your internal mouth as well. So if you're consciously thinking, have you ever watched a video recording of yourself coaching somebody? And watch your face. You know those signals, the muscle movements, the eye movements that tell you the client's thinking? Well, if you see yourself thinking as the coach, you're getting it wrong.
-
+speaker_1: You do it by coaching from your subconscious. You've got to coach with an empty mind, because the human body has one major failing. And that is, your mouth and your ears do not work at the same time. And that's your internal mouth as well. So if you're consciously thinking, have you ever watched a video recording of yourself coaching somebody? And watch your face. You know those signals, the muscle movements, the eye movements that tell you the client's thinking? Well, if you see yourself thinking as the coach, you're getting it wrong.

@@ -14,7 +14,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -22,6 +22,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So Im in a very small island in the middle of the Mediterranean called Cyprus Um Europeans usually know what Im talking about but uh Im not sure if you know the rest of the world knows about Cyprus because its so small And we are a divided island uh unfortunately Uh theres local strife but weve had peace uh for over 50 years for less than 50 years actually uh 49 years Yep But its a beautiful island Its very safe by the way if you want to come feel free
+speaker_1: So Im in a very small island in the middle of the Mediterranean called Cyprus Um Europeans usually know what Im talking about but uh Im not sure if you know the rest of the world knows about Cyprus because its so small And we are a divided island uh unfortunately Uh theres local strife but weve had peace uh for over 50 years for less than 50 years actually uh 49 years Yep But its a beautiful island Its very safe by the way if you want to come feel free

@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-श्रीशुक उवाच
+speaker_1: श्रीशुक उवाच
 दुर्योधनसुतां राजन् लक्षणां समितिं जयः
 स्वयंवरस्थामहरत्साम्बो जाम्बवतीसुतः
 

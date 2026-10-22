@@ -18,7 +18,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -26,6 +26,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-the impact with the corporate world Yeah it was they they they dont in Brazil you drink the coffee and you have small talk and you get the United States is to work work work Its they they dont have any any personal contact of something like that It was Okay It was okay it was not difficult but it was very strange to work with the Americans
+speaker_1: the impact with the corporate world Yeah it was they they they dont in Brazil you drink the coffee and you have small talk and you get the United States is to work work work Its they they dont have any any personal contact of something like that It was Okay It was okay it was not difficult but it was very strange to work with the Americans

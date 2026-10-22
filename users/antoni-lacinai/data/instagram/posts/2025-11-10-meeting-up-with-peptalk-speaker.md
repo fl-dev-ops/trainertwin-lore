@@ -12,7 +12,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -20,10 +20,7 @@ Meeting up with Peptalk speaker bureau. All is well. All is good.
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-She won't go to jail.
-
+speaker_1: She won't go to jail.
 
 ## Comments (1)
 

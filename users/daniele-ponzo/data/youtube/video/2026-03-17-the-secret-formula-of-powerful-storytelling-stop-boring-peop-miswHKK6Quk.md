@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Yeah storytelling storytelling for me its powerful I learned it in private life I learned it in professional life You have events you have facts but the way you tell those things makes all the difference I lived many years in Ireland right And Ireland is famous for telling stories People are famous there for telling stories Its its true They think about theater think about the comedy You have certain events that when you reduce when you strip them to the bones theyre similar One thing may happen to me to you but the way you tell it makes all the difference And this is valid also in the professional life
+speaker_1: Yeah storytelling storytelling for me its powerful I learned it in private life I learned it in professional life You have events you have facts but the way you tell those things makes all the difference I lived many years in Ireland right And Ireland is famous for telling stories People are famous there for telling stories Its its true They think about theater think about the comedy You have certain events that when you reduce when you strip them to the bones theyre similar One thing may happen to me to you but the way you tell it makes all the difference And this is valid also in the professional life

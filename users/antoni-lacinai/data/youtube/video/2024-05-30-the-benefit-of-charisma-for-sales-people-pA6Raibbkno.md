@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-had this phenomenal kind of energy going on that some people call charisma Charisma is that invisible energy that people are drawn to If you have charisma they want to be around you they want to listen to you they want to buy from you
+speaker_1: had this phenomenal kind of energy going on that some people call charisma Charisma is that invisible energy that people are drawn to If you have charisma they want to be around you they want to listen to you they want to buy from you

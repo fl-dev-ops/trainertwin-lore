@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-इत्थं सोनुगृहीतोङ्गकृष्णेनेक्ष्वाकुनन्दनः तं परिक्रम्य सन्नम्य निश्चक्रामगुहामुखात्
+speaker_1: इत्थं सोनुगृहीतोङ्गकृष्णेनेक्ष्वाकुनन्दनः तं परिक्रम्य सन्नम्य निश्चक्रामगुहामुखात्
 
 
 सवीक्ष क्षुल्लकान् मर्त्यान् पशून् वीरुद्वनस्पतीन्

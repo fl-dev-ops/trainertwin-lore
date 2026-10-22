@@ -20,7 +20,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -28,6 +28,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-But also its very fair to say having a multilingual you know teacher in any educational setting is a blessing for them I can tell you Yeah and I have a valid reason for that you know and uh yes because we are ready to blend with a new technique teaching technique and at the same time we incorporate our you know previous uh you know experience uh in our educational you can say or in our you know uh instructional design
+speaker_1: But also its very fair to say having a multilingual you know teacher in any educational setting is a blessing for them I can tell you Yeah and I have a valid reason for that you know and uh yes because we are ready to blend with a new technique teaching technique and at the same time we incorporate our you know previous uh you know experience uh in our educational you can say or in our you know uh instructional design

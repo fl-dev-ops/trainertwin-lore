@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,18 +24,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So what impact did COVID have on your I dont know dream life in Scotland
 
-So what impact did COVID have on your I dont know dream life in Scotland
+speaker_2: So it it really was not COVID Because COVID was bearable I think the thing that impacted me the most was um was Brexit So during that period of time the harassment from JK Rowling spiraled The Brexit spiraled because Boris Johnson was elected it was confirmed there was a hard Brexit
 
-### Speaker 2 · Speaker 2
+speaker_1: So things started to change obviously and the mood the whole
 
-So it it really was not COVID Because COVID was bearable I think the thing that impacted me the most was um was Brexit So during that period of time the harassment from JK Rowling spiraled The Brexit spiraled because Boris Johnson was elected it was confirmed there was a hard Brexit
-
-### Speaker 1 · Speaker 1
-
-So things started to change obviously and the mood the whole
-
-### Speaker 2 · Speaker 2
-
-Exactly I moved back to Italy So I spent my 20s learning and moving and exploring Europe and after three years of freelancing Im starting my own business my own consultancy company
+speaker_2: Exactly I moved back to Italy So I spent my 20s learning and moving and exploring Europe and after three years of freelancing Im starting my own business my own consultancy company

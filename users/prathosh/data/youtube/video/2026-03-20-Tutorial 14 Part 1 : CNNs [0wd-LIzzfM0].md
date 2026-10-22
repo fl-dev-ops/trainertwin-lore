@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 33:52
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 14 Part 1 : CNNs
 
 ## Transcript
 
-
-Hello all
+speaker_1: Hello all
 welcome to this tutorial
 in which we will be looking at
 convolutional neural networks its

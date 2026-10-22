@@ -26,7 +26,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -34,6 +34,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-because um what I what I also mentioned earlier on were using for example normally were using a different language a second language were using English which for many of us is not first language So we might be extrovert in our native language but all of a sudden in the other in the second language were not extrovert anymore So you see its not like one sided theres more Its uh its actually theres nuance theres different things there to consider And so you need to address whatever you think is the the barrier the the problem there So if its language then we work on the language
+speaker_1: because um what I what I also mentioned earlier on were using for example normally were using a different language a second language were using English which for many of us is not first language So we might be extrovert in our native language but all of a sudden in the other in the second language were not extrovert anymore So you see its not like one sided theres more Its uh its actually theres nuance theres different things there to consider And so you need to address whatever you think is the the barrier the the problem there So if its language then we work on the language

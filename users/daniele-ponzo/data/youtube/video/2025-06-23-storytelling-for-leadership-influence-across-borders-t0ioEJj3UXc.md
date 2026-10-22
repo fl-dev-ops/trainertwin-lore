@@ -33,7 +33,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -41,6 +41,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-But thats actually the interesting part of it is when you do that then you learn how to communicate correctly because you have learned to communicate in the language you were basically raised right As a child you learned that from from the early stages You know exactly how to communicate There are a lot of patterns you basically all of the patterns you know natively That thats the point And that thats the big difference between languages you have learned later So some people are more talented some are not And the point is communicating correctly is basically not or should not be dedicated to a specific language And that is my biggest learning So if you want to lead be a leadership person it is important to learn English in a way that you can communicate in English like you would do in any other language
+speaker_1: But thats actually the interesting part of it is when you do that then you learn how to communicate correctly because you have learned to communicate in the language you were basically raised right As a child you learned that from from the early stages You know exactly how to communicate There are a lot of patterns you basically all of the patterns you know natively That thats the point And that thats the big difference between languages you have learned later So some people are more talented some are not And the point is communicating correctly is basically not or should not be dedicated to a specific language And that is my biggest learning So if you want to lead be a leadership person it is important to learn English in a way that you can communicate in English like you would do in any other language

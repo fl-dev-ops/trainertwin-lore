@@ -6,14 +6,15 @@ date: '2026-01-28'
 duration: 59:52
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorail 3 : Risk Minimization Framework
 
 ## Transcript
 
-
-Hello all welcome to this tutorials in
+speaker_1: Hello all welcome to this tutorials in
 which we shall be looking into the
 extension of the base classifier that we
 saw during our previous session

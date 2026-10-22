@@ -14,7 +14,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -22,6 +22,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So we want to become friend make friend with your fear I dont know how we can explain it but at the same time you know its fear is there So we might as well embrace it if you allow this buzzword And and then its just it shouldnt prevent us but it should help us to do things
+speaker_1: So we want to become friend make friend with your fear I dont know how we can explain it but at the same time you know its fear is there So we might as well embrace it if you allow this buzzword And and then its just it shouldnt prevent us but it should help us to do things

@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-LinkedIn is not a job search platform If you treat it only as a job search platform then it is something like Indeed You cant compare Indeed with LinkedIn LinkedIn provides you lot more opportunities to become more visible You are a supply chain professional and in your industry for instance you have cosmetics because you are a supply chain professional in the cosmetic industry So youre thinking putting cosmetics would work It would not work
+speaker_1: LinkedIn is not a job search platform If you treat it only as a job search platform then it is something like Indeed You cant compare Indeed with LinkedIn LinkedIn provides you lot more opportunities to become more visible You are a supply chain professional and in your industry for instance you have cosmetics because you are a supply chain professional in the cosmetic industry So youre thinking putting cosmetics would work It would not work
 
 
 Because it it has to be logistics and supply chain because this is what you are Thats how important these keywords are
@@ -38,24 +36,16 @@ The recruiters is looking for you they are using a tool called LinkedIn Recruite
 
 LinkedIn Recruiter is not what you see on LinkedIn its a very different tool
 
-### Speaker 2
-
-Hello and welcome to another podcast on my channel where my mission is to help supply chain professionals like you build real life skills for your job and career that they dont teach you in college And today we will talk about the importance of LinkedIn profile optimization So to talk about that Ive invited someone who is an expert in this space He has a platform called CareerGuruco where he has about 44000 followers and he helps a lot of professionals in order to optimize their LinkedIn profile
+speaker_2: Hello and welcome to another podcast on my channel where my mission is to help supply chain professionals like you build real life skills for your job and career that they dont teach you in college And today we will talk about the importance of LinkedIn profile optimization So to talk about that Ive invited someone who is an expert in this space He has a platform called CareerGuruco where he has about 44000 followers and he helps a lot of professionals in order to optimize their LinkedIn profile
 
 
 So uh without further ado I would like to introduce Ahmad Siddiqui hello Ahmad how are you
 
-### Speaker 1
+speaker_1: Im doing well how are you
 
-Im doing well how are you
+speaker_2: Im doing very well Ahmad so thanks for coming to the show first of all and tell us Ahmad what are the common things people get wrong when it comes to LinkedIn profile
 
-### Speaker 2
-
-Im doing very well Ahmad so thanks for coming to the show first of all and tell us Ahmad what are the common things people get wrong when it comes to LinkedIn profile
-
-### Speaker 1
-
-There are many I think we need to really start from the basics The fundamental we need to really understand the fundamental The fundamental is that LinkedIn is not a job search platform
+speaker_1: There are many I think we need to really start from the basics The fundamental we need to really understand the fundamental The fundamental is that LinkedIn is not a job search platform
 
 
 If you treat it only as a job search platform then it is something like Indeed You cant compare Indeed with LinkedIn LinkedIn provides you a lot more opportunities to become more visible and connect directly with recruiters potential opportunities companies that are on your target or on your radar connect with the content thats been put out Whereas Indeed and similar job portals are pretty much a straight jacket So thats the fundamental
@@ -69,16 +59,12 @@ professionals we build up a network we connect with opportunities and often its 
 
 The the you are limiting yourself or youre youre being victim of self limiting beliefs I say is it because we dont really know about LinkedIn as much
 
-### Speaker 2
-
-Great And just elaborate on this a little bit more Amada and thanks for bringing that up because like you are absolutely right that people think of LinkedIn okay I need to find a job Only then most of the people become active on it And once they have a job and they are in the comfort zone they might not even go and be active on this right So tell us a little bit about in todays time and age when lets say the average life of a job is shrinking because there is high turnover and the
+speaker_2: Great And just elaborate on this a little bit more Amada and thanks for bringing that up because like you are absolutely right that people think of LinkedIn okay I need to find a job Only then most of the people become active on it And once they have a job and they are in the comfort zone they might not even go and be active on this right So tell us a little bit about in todays time and age when lets say the average life of a job is shrinking because there is high turnover and the
 
 
 you know situation of the around the world keeps changing all the time So job security is almost like a myth So tell us a little bit more about the importance of staying active on LinkedIn even if you dont if you are not looking for a job
 
-### Speaker 1
-
-So and this is such a beautiful question Jamil You know this is what I call short sightedness The opportunities are out there and the opportunities for growth are out there as well which means that you know before a company asks you to leave you can also leave a company if you find a better opportunity as simple as that The other thing is that what is the guarantee that you would continue in a company for an extended period of time you know three years four years five years
+speaker_1: So and this is such a beautiful question Jamil You know this is what I call short sightedness The opportunities are out there and the opportunities for growth are out there as well which means that you know before a company asks you to leave you can also leave a company if you find a better opportunity as simple as that The other thing is that what is the guarantee that you would continue in a company for an extended period of time you know three years four years five years
 
 
 Turnover is pretty high now in the market generally speaking and the way this particular industry supply chain is evolving and growing globally a lot more people are switching jobs
@@ -95,13 +81,9 @@ Successful people keep looking for new opportunities They may not switch but the
 
 So I always say do not treat LinkedIn as your resume You use your resume only when you need it
 
-### Speaker 2
+speaker_2: This is a great point Ahmad and I want you to elaborate also on how is LinkedIn a platform to constantly upskill yourself Because there are a lot of jobs in the supply chain industry which are kind of repetitive right So you could be lets say a data entry clerk in a warehouse or you could be doing some other kind of repetitive job in a different part of supply chain So how can people use LinkedIn as a source of constantly upgrading their skillset
 
-This is a great point Ahmad and I want you to elaborate also on how is LinkedIn a platform to constantly upskill yourself Because there are a lot of jobs in the supply chain industry which are kind of repetitive right So you could be lets say a data entry clerk in a warehouse or you could be doing some other kind of repetitive job in a different part of supply chain So how can people use LinkedIn as a source of constantly upgrading their skillset
-
-### Speaker 1
-
-I mean the first thing first which means that you need to know what kind of skill sets are required
+speaker_1: I mean the first thing first which means that you need to know what kind of skill sets are required
 
 
 And its a choice you can you can keep searching on different platforms that you know typical jobs that are out there or you stay active on LinkedIn connect with those people who are in the industry the industry leaders because they talk about what is changing often at the back end when we are sitting in a in an office environment or in a warehouse environment in a professional environment we are not really aware of what is changing outside so one of my clients
@@ -124,16 +106,12 @@ And that will change the conversation completely And that one piece of conversat
 
 LinkedIn is one of the source for that knowledge
 
-### Speaker 2
-
-that um tell us a little bit more about networking because uh i get a lot of questions a month from people who are lets say trying to move from one geography to the other one of the advantages of supply chain industry and the jobs are that these skills are very transferable in fact just yesterday i was having a coaching call with uh one of my mentees uh where uh he hes trying to move from one country to another country and those kind of things right so and of course um a lot of times people start the right way so for instance they are not just
+speaker_2: that um tell us a little bit more about networking because uh i get a lot of questions a month from people who are lets say trying to move from one geography to the other one of the advantages of supply chain industry and the jobs are that these skills are very transferable in fact just yesterday i was having a coaching call with uh one of my mentees uh where uh he hes trying to move from one country to another country and those kind of things right so and of course um a lot of times people start the right way so for instance they are not just
 
 
 becoming active to seek a job they start with networking but networking is mostly for a lot of people like easier said than done right so how can people what are like some of the things that people dont do right on networking and what are the things they should do
 
-### Speaker 1
-
-the fundamental of networking is creating a win win situation thats the fundamental if im only a seeker a job seeker or someone whos looking for business leads then im almost doing a cold call
+speaker_1: the fundamental of networking is creating a win win situation thats the fundamental if im only a seeker a job seeker or someone whos looking for business leads then im almost doing a cold call
 
 
 And people dont like cold calling I mean how many times and this is something that I always ask people how many times will you pick up a phone call if a call is coming from a number that you are not aware of Its not into your directory 99 percent youre not gonna pick it up right So if youre doing cold calling then of course you have to do at least 200 calls before one person picks it up Whereas if youre building conversation and youre building that trust credibility
@@ -150,9 +128,7 @@ the first part of networking is actually thinking about relationship building an
 
 Its pretty much a missing misconception here that the bigger the network better it is Yeah it is only if its relevant If it is not relevant then you know regardless of how big your network is you know its not going to help
 
-### Speaker 2
-
-Absolutely And I think you said something very important there which I want to repeat that your network is your network And your network is not just people that you know but its basically the people who know other people So its like a mesh Its not just your immediate connections Its your extended network as well So thats great Ama Thanks for touching on the networking piece Can you just tell us a little bit before I move on to my next question
+speaker_2: Absolutely And I think you said something very important there which I want to repeat that your network is your network And your network is not just people that you know but its basically the people who know other people So its like a mesh Its not just your immediate connections Its your extended network as well So thats great Ama Thanks for touching on the networking piece Can you just tell us a little bit before I move on to my next question
 
 
 and just staying with networking Like what are kind of you know some of the most obvious things people can do in order to start believe you know the first few steps in this journey are the hardest right So what would your advice be to someone who is just you know learning about this platform and they are like we already covered that you know they dont see this anymore as just as a job finding platform but as a networking platform What would your advice be to
@@ -160,9 +136,7 @@ and just staying with networking Like what are kind of you know some of the most
 
 Such people
 
-### Speaker 1
-
-Okay so Jack Ma in one of his speech said nothing is easy
+speaker_1: Okay so Jack Ma in one of his speech said nothing is easy
 
 
 Even coming on a podcast this morning Saturday I just completed one training program for a client Joining this podcast was not easy right But I was committed You were committed Its a Saturday nice weather outside We could have been out there doing something else
@@ -203,13 +177,9 @@ So there has to be a holistic picture around what needs to be done But commentin
 
 Which means often you have to start your conversation You have to say hello to people right And then slowly and then once you say hello you dont immediately go and say this is what I do this is what Im looking for No you dont do that Start creating that conversation
 
-### Speaker 2
+speaker_2: So um you you mentioned uh the profile optimization uh in in this response Ahmad and um that is I think also one of the topics I wanted to cover on this uh podcast is um when you talk to your clients and uh Im sure you get tons of questions about like profile optimization Tell us a little bit about like you know what are the three common mistakes people do and how they can avoid them
 
-So um you you mentioned uh the profile optimization uh in in this response Ahmad and um that is I think also one of the topics I wanted to cover on this uh podcast is um when you talk to your clients and uh Im sure you get tons of questions about like profile optimization Tell us a little bit about like you know what are the three common mistakes people do and how they can avoid them
-
-### Speaker 1
-
-I think it will again Ill go back to the fundamentals I think the smallest things are very important we need to understand the smallest thing is that we dont know that LinkedIn is a search engine
+speaker_1: I think it will again Ill go back to the fundamentals I think the smallest things are very important we need to understand the smallest thing is that we dont know that LinkedIn is a search engine
 
 
 Okay when the recruiter comes in and because we are talking purely from job seekers perspective when the recruiter is looking for you they are using a tool called LinkedIn Recruiter
@@ -265,13 +235,9 @@ And that actually starts generating opportunities It is not a quick fix It is a 
 
 So be brave enough run that marathon
 
-### Speaker 2
+speaker_2: Excellent So this is a very good segue Mattu one of the last questions I wanted to ask you is there is a lot of talk going around you know this concept called personal branding right And I think its kind of also the control narrative piece you talked about like and it also feeds into it So first of all you know for my audience tell us a little bit about what is personal branding and why is it so important in the context of LinkedIn
 
-Excellent So this is a very good segue Mattu one of the last questions I wanted to ask you is there is a lot of talk going around you know this concept called personal branding right And I think its kind of also the control narrative piece you talked about like and it also feeds into it So first of all you know for my audience tell us a little bit about what is personal branding and why is it so important in the context of LinkedIn
-
-### Speaker 1
-
-I would say not only in the context of LinkedIn within your own organization see I mean particularly relatively larger organizations there are people people dont like and there are people people love
+speaker_1: I would say not only in the context of LinkedIn within your own organization see I mean particularly relatively larger organizations there are people people dont like and there are people people love
 
 
 why why why that happens we are human beings right we like to relate to people using some uh you know parameters
@@ -291,16 +257,12 @@ leader or if you are not a good player you know your utility is pretty much clos
 
 going back to to what you asked is how people know you is in your hand and thats what personal branding means
 
-### Speaker 2
-
-Excellent Ahmad thanks for touching on personal branding because thats such an important concept and its being talked about more and more So I really wanted to ask you around that So thanks for answering that question So my last question Ahmad is really about keywords Keywords are always the question when it comes to LinkedIn profile or people also ask me a lot of questions about these automatic tracking systems when theyre submitting their job applications and those kind of things So and even when I make my videos about
+speaker_2: Excellent Ahmad thanks for touching on personal branding because thats such an important concept and its being talked about more and more So I really wanted to ask you around that So thanks for answering that question So my last question Ahmad is really about keywords Keywords are always the question when it comes to LinkedIn profile or people also ask me a lot of questions about these automatic tracking systems when theyre submitting their job applications and those kind of things So and even when I make my videos about
 
 
 certain uh jobs I do uh mention like you know what are the some of the keywords mentioned in the job descriptions and all that stuff so tell us about the importance of keywords and from a LinkedIn perspective
 
-### Speaker 1
-
-Oh great question See everything is based on algorithms right And people do searches relevances you know the way we see recommendations about different things on LinkedIn
+speaker_1: Oh great question See everything is based on algorithms right And people do searches relevances you know the way we see recommendations about different things on LinkedIn
 
 
 All these things comes through keywords
@@ -317,28 +279,18 @@ Suppose theyre theyre learning what kind of uh what kind of specialization you h
 
 Just just keep everything in mind It is again Jack Ma its not easy But it will become easy when you when we learn it when we know this
 
-### Speaker 2
-
-Yeah no thanks a lot for sharing that Even I didnt know that you know the algorithm is now becoming powerful enough not just to pick what I put on my profile but also what Im posting which basically also like you know emphasizing on the importance of the frequency of posting and the relevance of the content that you post some of the things that you already covered in the past So even for example what I think the key message for the audience on this piece is that when you post something try to post something which is relevant to your industry
+speaker_2: Yeah no thanks a lot for sharing that Even I didnt know that you know the algorithm is now becoming powerful enough not just to pick what I put on my profile but also what Im posting which basically also like you know emphasizing on the importance of the frequency of posting and the relevance of the content that you post some of the things that you already covered in the past So even for example what I think the key message for the audience on this piece is that when you post something try to post something which is relevant to your industry
 
 
 uh and to your maybe no sub niche so for example lets say uh if i think about a supply chain uh equivalent of this if you are a supply planning manager and your aspiration is to become a supply planning director or uh specialize furthermore in this space then you may want to find content available out there on that specific sub niche in supply chain because that will make your profile even more relevant with some of these newer algorithms youre talking about is that fair to say
 
-### Speaker 1
+speaker_1: Afraid to say Absolutely absolutely every time youre doing something stay relevant
 
-Afraid to say Absolutely absolutely every time youre doing something stay relevant
+speaker_2: Perfect Excellent So thanks a lot Amath for your time again I really appreciate it I think those were like some of the key points I wanted to cover with you Im sure like the podcast this podcast will be super helpful for my supply chain audience I got a lot of questions about LinkedIn and I think you have answered most of them So thanks a lot once again for your time And I really wish you best of luck in whatever you are doing
 
-### Speaker 2
+speaker_1: Thank you very much for inviting me and I wish best of luck to everyone who is in supply chain industry because thats apparently is growing rapidly and and transformation is happening I think probably extremely fast be part of what is happening and if you are not then you know you will miss the boat and Im sure we dont want to miss the boat
 
-Perfect Excellent So thanks a lot Amath for your time again I really appreciate it I think those were like some of the key points I wanted to cover with you Im sure like the podcast this podcast will be super helpful for my supply chain audience I got a lot of questions about LinkedIn and I think you have answered most of them So thanks a lot once again for your time And I really wish you best of luck in whatever you are doing
-
-### Speaker 1
-
-Thank you very much for inviting me and I wish best of luck to everyone who is in supply chain industry because thats apparently is growing rapidly and and transformation is happening I think probably extremely fast be part of what is happening and if you are not then you know you will miss the boat and Im sure we dont want to miss the boat
-
-### Speaker 2
-
-Absolutely I would just like to conclude this with something that one of my regional presidents recently said to me that supply chain is becoming the new marketing right Because think about like the number of times in the old days people would look at a product on a TV ad where like of course marketing was super important right And how you the first moment of truth as what a lot of companies call that where people see your product But now with e commerce becoming so dominant the number of touch points supply chain has on those
+speaker_2: Absolutely I would just like to conclude this with something that one of my regional presidents recently said to me that supply chain is becoming the new marketing right Because think about like the number of times in the old days people would look at a product on a TV ad where like of course marketing was super important right And how you the first moment of truth as what a lot of companies call that where people see your product But now with e commerce becoming so dominant the number of touch points supply chain has on those
 
 
 customer experiences are much higher right So when you place an order lets say on Amazon or any other platform it will tell you okay you know it will get delivered in one or two days That is supply chain for you How you receive the package at your doorstep that is supply chain for you So the number of times a consumer feels supply chain now has improved has increased versus 10 or 15 years ago And that is why I I really am you know Im a proud member of this community At the same time my mission as I always say at the start of every video is to help
@@ -346,6 +298,4 @@ customer experiences are much higher right So when you place an order lets say o
 
 chain professional build real life skills which are typically not taught in carriers in fact supply chain was something which was not even taught formally in colleges and universities until very very recently that is why building those skills on the job are important and uh and if you have any questions around that do subscribe to my channel and you can always reach out to me on linkedin and other social media platforms so thanks a lot once again ahmad and lets stay connected
 
-### Speaker 1
-
-Definitely
+speaker_1: Definitely

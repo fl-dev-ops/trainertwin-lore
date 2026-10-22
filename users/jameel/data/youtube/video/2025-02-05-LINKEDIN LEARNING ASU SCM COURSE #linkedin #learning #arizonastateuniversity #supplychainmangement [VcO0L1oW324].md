@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-On number two I want to recommend to you a free course on LinkedIn Learning Now LinkedIn Learning will basically give you these free courses if you sign up for their one month free trial So the course Im about to recommend to you for free on LinkedIn Learning is called Supply Chain Fundamentals and designed and delivered by a guy named Eddie DeVilla He is the associate chair of the Supply Chain Management program at the Arizona State University And look at the US news ranking which is considered to be the most I would say reliable ranking you will always find that Arizona State University is up there in the top three so it
+speaker_1: On number two I want to recommend to you a free course on LinkedIn Learning Now LinkedIn Learning will basically give you these free courses if you sign up for their one month free trial So the course Im about to recommend to you for free on LinkedIn Learning is called Supply Chain Fundamentals and designed and delivered by a guy named Eddie DeVilla He is the associate chair of the Supply Chain Management program at the Arizona State University And look at the US news ranking which is considered to be the most I would say reliable ranking you will always find that Arizona State University is up there in the top three so it

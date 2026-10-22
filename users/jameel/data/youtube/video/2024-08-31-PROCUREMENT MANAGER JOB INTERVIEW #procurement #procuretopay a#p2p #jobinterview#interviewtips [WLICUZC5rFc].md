@@ -8,7 +8,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,4 +17,4 @@ speakers:
 
 ## Transcript
 
-Now lets move to the operational and tactical questions bucket The first question that can come in this space is can you outline your procurement process from sourcing to payment Now when the recruiter is asking this question they are basically trying to gauge your knowledge and command on the famous P2P or procure to pay process Now the procure to pay process just to give you a very high level overview basically starts from requirements planning then you go to the RFQ or the request for quotation stage then you create the purchase order goods receipt manage invoices and process payments and of course this is a cyclical process try to give this overview and try to demonstrate your command over this you may want to talk about lets say if you have experience with SAP Ariba talk about the procure to pay module within SAP Ariba which will then give also the recruiter the confidence that okay you know not only how the P2P process works but you also know how it works in a specific software environment
+speaker_1: Now lets move to the operational and tactical questions bucket The first question that can come in this space is can you outline your procurement process from sourcing to payment Now when the recruiter is asking this question they are basically trying to gauge your knowledge and command on the famous P2P or procure to pay process Now the procure to pay process just to give you a very high level overview basically starts from requirements planning then you go to the RFQ or the request for quotation stage then you create the purchase order goods receipt manage invoices and process payments and of course this is a cyclical process try to give this overview and try to demonstrate your command over this you may want to talk about lets say if you have experience with SAP Ariba talk about the procure to pay module within SAP Ariba which will then give also the recruiter the confidence that okay you know not only how the P2P process works but you also know how it works in a specific software environment

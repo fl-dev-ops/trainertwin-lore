@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,14 +25,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So thats why its C for collaboration because it is impossible to do it alone okay So where there is I dont know colleagues peers mentors coach AI even like you could have an AI body these days you know So so is you always try to collaborate so you have a network For example there are like the I love the IT people yeah software developers engineers because they have they have great communities right
 
-So thats why its C for collaboration because it is impossible to do it alone okay So where there is I dont know colleagues peers mentors coach AI even like you could have an AI body these days you know So so is you always try to collaborate so you have a network For example there are like the I love the IT people yeah software developers engineers because they have they have great communities right
+speaker_2: Community Another C yeah
 
-### Speaker 2 · Speaker 2
-
-Community Another C yeah
-
-### Speaker 1 · Speaker 1
-
-Yeah well you could go on forever Dont get me started Pauline Dont get me started on acronyms and letters But you know that that is true communities and collaborations you know because theyre very open and then you know you could get for example into a Discord And then you can start interacting with people there you know Theyre very open And and nobodys interested in your mistakes but theyre more interested in the contribution
+speaker_1: Yeah well you could go on forever Dont get me started Pauline Dont get me started on acronyms and letters But you know that that is true communities and collaborations you know because theyre very open and then you know you could get for example into a Discord And then you can start interacting with people there you know Theyre very open And and nobodys interested in your mistakes but theyre more interested in the contribution

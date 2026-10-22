@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So out of 100 percent how much of a persons engagement level is based on the closest managers communication and behavior
+speaker_1: So out of 100 percent how much of a persons engagement level is based on the closest managers communication and behavior
 
 
 The answer is pretty stable Its 70 percent More than two thirds of the reason for any employee to be engaged is about you if youre the manager if youre the leader

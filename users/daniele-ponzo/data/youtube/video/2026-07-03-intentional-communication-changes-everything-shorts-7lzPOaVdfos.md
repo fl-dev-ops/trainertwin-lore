@@ -51,8 +51,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -60,14 +60,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: But what is the intention behind the speech You have to be wary and mindful that we need to make the right speech Because the right speech will get us where we want to go If we make the intention that to make the right speech to make the right effort to listen to people that makes the whole conversation much more easier
 
-But what is the intention behind the speech You have to be wary and mindful that we need to make the right speech Because the right speech will get us where we want to go If we make the intention that to make the right speech to make the right effort to listen to people that makes the whole conversation much more easier
+speaker_2: So it all starts with listening then And yeah we go back to the to a position of curiosity and empathy So what is the goal What do I want to achieve with my conversation with the other person
 
-### Speaker 2 · Speaker 2
-
-So it all starts with listening then And yeah we go back to the to a position of curiosity and empathy So what is the goal What do I want to achieve with my conversation with the other person
-
-### Speaker 1 · Speaker 1
-
-Yeah like I mentioned earlier um I communicate not just to impress you I communicate to connect with you and that will help me to set intention
+speaker_1: Yeah like I mentioned earlier um I communicate not just to impress you I communicate to connect with you and that will help me to set intention

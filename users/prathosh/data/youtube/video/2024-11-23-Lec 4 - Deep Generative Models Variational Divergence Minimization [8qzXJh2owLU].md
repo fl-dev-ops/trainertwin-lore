@@ -8,73 +8,48 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 4 - Deep Generative Models Variational Divergence Minimization
 
 ## Transcript
 
+speaker_1: Okay there will be 15 questions 15 to 20 questions and well give you 20 25 minutes to solve it Okay multi choice questions The first quiz will happen next week Is that okay
 
-### Speaker 1
+speaker_2: Is it possible sir if you can share some sample questions
 
-Okay there will be 15 questions 15 to 20 questions and well give you 20 25 minutes to solve it Okay multi choice questions The first quiz will happen next week Is that okay
-
-### Speaker 2
-
-Is it possible sir if you can share some sample questions
-
-### Speaker 1
-
-Well its it simply can but its when there are factual questions on things that has been covered so far in the class So if you brush up whatever has been covered in the class that should be enough
+speaker_1: Well its it simply can but its when there are factual questions on things that has been covered so far in the class So if you brush up whatever has been covered in the class that should be enough
 
 
 Okay let us start now todays class
 
-### Speaker 3
+speaker_3: Sorry for interrupting just one question So you said next Sunday is next Sunday or Saturday
 
-Sorry for interrupting just one question So you said next Sunday is next Sunday or Saturday
+speaker_1: I mean yeah my bad yeah next Saturday next week
 
-### Speaker 1
+speaker_4: Um so one more question I have So uh whatever we cover in todays class is also gonna be included
 
-I mean yeah my bad yeah next Saturday next week
+speaker_1: Boss
 
-### Speaker 4
+speaker_4: Okay and sir I remember we have already discussed this in length but on the first class there was a lot of back and forth between what was our final decided grading policy If you can just summarize it quickly once again for the sake of clarity it will be really hard
 
-Um so one more question I have So uh whatever we cover in todays class is also gonna be included
-
-### Speaker 1
-
-Boss
-
-### Speaker 4
-
-Okay and sir I remember we have already discussed this in length but on the first class there was a lot of back and forth between what was our final decided grading policy If you can just summarize it quickly once again for the sake of clarity it will be really hard
-
-### Speaker 1
-
-It will be done that no please dont do this we have done this no there is it is documented it is written look at this
+speaker_1: It will be done that no please dont do this we have done this no there is it is documented it is written look at this
 
 
 So yes of course I voted and said that this is funny and we are not going to disclose it anymore please dont do this
 
-### Speaker 4
+speaker_4: Of course
 
-Of course
-
-### Speaker 1
-
-Okay so it is there it is written lets have a look at it
+speaker_1: Okay so it is there it is written lets have a look at it
 
 
 I see another hand raised Dermot lets go on
 
-### Speaker 4
-
-Uh yeah so uh so for the quiz will there be
+speaker_4: Uh yeah so uh so for the quiz will there be
 
 
 So will there be calculation for this or only as you said factual
@@ -82,32 +57,20 @@ So will there be calculation for this or only as you said factual
 
 Uh am I audible
 
-### Speaker 1
+speaker_1: Brush up whatevers uh
 
-Brush up whatevers uh
+speaker_3: So the audio is not very clear
 
-### Speaker 3
+speaker_2: Yes sir we are uh you are breaking
 
-So the audio is not very clear
-
-### Speaker 2
-
-Yes sir we are uh you are breaking
-
-### Speaker 1
-
-Hello is this it okay I think I should do some problem with my internet today just a minute give me a minute
+speaker_1: Hello is this it okay I think I should do some problem with my internet today just a minute give me a minute
 
 
 Hello am I audible
 
-### Speaker 3
+speaker_3: Yes sir now you are
 
-Yes sir now you are
-
-### Speaker 1
-
-internet explores yeah i said it is just here its about testing what you have understood
+speaker_1: internet explores yeah i said it is just here its about testing what you have understood
 
 
 From whatever has been taught okay It will mostly be factual with
@@ -142,13 +105,9 @@ Somebody tell me whats wrong
 
 Im not seeing any of these outcomes
 
-### Speaker 4
+speaker_4: Are you not able to scroll
 
-Are you not able to scroll
-
-### Speaker 1
-
-Im able to scroll yeah Im actually not able to scroll on so now
+speaker_1: Im able to scroll yeah Im actually not able to scroll on so now
 
 
 And now we can scroll
@@ -273,45 +232,25 @@ Now what is happening here is that okay so let me before I move on I am assuming
 
 And then I will just make it a do we do we need yeah Nirmal you raised your hand
 
-### Speaker 3
+speaker_3: I mean I dont know uh but if we can have tutorial on that that would be good
 
-I mean I dont know uh but if we can have tutorial on that that would be good
+speaker_1: I can but thats why Im asking right do we need a tutorial on backpropagation algorithms
 
-### Speaker 1
+speaker_3: I mean I c yeah
 
-I can but thats why Im asking right do we need a tutorial on backpropagation algorithms
+speaker_1: Okay tactics
 
-### Speaker 3
+speaker_3: Yes
 
-I mean I c yeah
+speaker_1: So well see
 
-### Speaker 1
+speaker_3: Yeah it was just
 
-Okay tactics
+speaker_1: You havent tried neural networks before is it
 
-### Speaker 3
+speaker_4: So sir were uh were broadly aware of how it like what its supposed to do but not with the same level of mathematical rigor that this course is uh going on with
 
-Yes
-
-### Speaker 1
-
-So well see
-
-### Speaker 3
-
-Yeah it was just
-
-### Speaker 1
-
-You havent tried neural networks before is it
-
-### Speaker 4
-
-So sir were uh were broadly aware of how it like what its supposed to do but not with the same level of mathematical rigor that this course is uh going on with
-
-### Speaker 1
-
-Okay so let us make that a
+speaker_1: Okay so let us make that a
 
 
 an item of tutorial then we will
@@ -391,13 +330,9 @@ g squared okay then g squared
 
 Can you see my screen
 
-### Speaker 2
+speaker_2: So if youre writing something then I dont think we are able to see
 
-So if youre writing something then I dont think we are able to see
-
-### Speaker 1
-
-Oh is it I think it is stuck
+speaker_1: Oh is it I think it is stuck
 
 
 Okay I think yeah z squared will not be in the song
@@ -405,17 +340,11 @@ Okay I think yeah z squared will not be in the song
 
 Do you see my writing now
 
-### Speaker 4
+speaker_4: Yes sir
 
-Yes sir
+speaker_3: Yes uh
 
-### Speaker 3
-
-Yes uh
-
-### Speaker 1
-
-Okay right Yeah this is what it is right I mean if you have lets say uniform random variable and you take the square root of it it will not be uniform It will have some other distribution than uniform distribution Do you all get this idea So basically what Im saying is that you take a random variable that has a particular distribution okay And then if you pass that through a deterministic function the output random variable will have a different distribution compared
+speaker_1: Okay right Yeah this is what it is right I mean if you have lets say uniform random variable and you take the square root of it it will not be uniform It will have some other distribution than uniform distribution Do you all get this idea So basically what Im saying is that you take a random variable that has a particular distribution okay And then if you pass that through a deterministic function the output random variable will have a different distribution compared
 
 
 to the input random variable is this idea clear and the distribution of the output random variable depends on what sort of function uh you are passing the input random variable through is this is this clear
@@ -507,21 +436,13 @@ I hope this is clear to all of you
 
 I see some questions here yeah
 
-### Speaker 4
+speaker_4: Ah yes sir I mean you just mentioned W four so there is no sigma applied to W four or
 
-Ah yes sir I mean you just mentioned W four so there is no sigma applied to W four or
+speaker_1: Ah you can I mean that depends no I mean if final layer is linear in the k in the network that I have written you can put a hit one here
 
-### Speaker 1
+speaker_3: Okay thanks
 
-Ah you can I mean that depends no I mean if final layer is linear in the k in the network that I have written you can put a hit one here
-
-### Speaker 3
-
-Okay thanks
-
-### Speaker 1
-
-Yeah I mean that depends Thats a design choice Now now if this is G theta what is theta Theta has all the set of parameters you know W1 W2 W3 and W4 This is what I am calling from calling by G theta
+speaker_1: Yeah I mean that depends Thats a design choice Now now if this is G theta what is theta Theta has all the set of parameters you know W1 W2 W3 and W4 This is what I am calling from calling by G theta
 
 
 that all right okay so Im going to try this again so now training a neural network will be finding out these w1 w2 w3 w4 through solving an optimization problem and what problem do we solve in the case of generative models are we is this is something that we will see now and how do we solve it is through error back propagation okay maybe Ill just mention it quickly when we formulate the optimization problem but anyway so now do you understand this now when I write this
@@ -556,21 +477,13 @@ And this has the distribution V theta This is our setting
 
 Okay well take questions here Um Abeeru
 
-### Speaker 3
+speaker_3: Yeah so the in theta is the you are considering theta as the set of parameters So in that set of parameters since Z itself is a random variable following normal distribution so those parameters the mu and sigma they will not be considered in theta
 
-Yeah so the in theta is the you are considering theta as the set of parameters So in that set of parameters since Z itself is a random variable following normal distribution so those parameters the mu and sigma they will not be considered in theta
+speaker_1: No no no thats fixed no Z is from normal 0i 0 1 So that is fixed
 
-### Speaker 1
+speaker_3: Okay okay
 
-No no no thats fixed no Z is from normal 0i 0 1 So that is fixed
-
-### Speaker 3
-
-Okay okay
-
-### Speaker 1
-
-Z is not the Z does not have any parameter no its the input random variable
+speaker_1: Z is not the Z does not have any parameter no its the input random variable
 
 
 typically what happens no we assume that we know how to sample from z we can we know right because if you have i mean there are these functions called rand n and random number generators in all these uh like programming languages right what do they do they actually sample from a gaussian distribution correct so we assume that we know how to sample from a gaussian distribution and therefore we can generate this z as much as we want
@@ -581,17 +494,11 @@ And that has no parameters What is parameterized is this function V theta of Z o
 
 Is this okay Yeah yeah okay yeah uh
 
-### Speaker 2
+speaker_2: Yeah hi sir uh this is uh the Gaussian distribution of this random variable Z
 
-Yeah hi sir uh this is uh the Gaussian distribution of this random variable Z
+speaker_1: The random variable z has a Gaussian distribution
 
-### Speaker 1
-
-The random variable z has a Gaussian distribution
-
-### Speaker 2
-
-And uh sir in this uh W three can you uh scroll up a little bit
+speaker_2: And uh sir in this uh W three can you uh scroll up a little bit
 
 
 In this uh so w3 will be a this matrix of L3 cross L2 right
@@ -599,41 +506,23 @@ In this uh so w3 will be a this matrix of L3 cross L2 right
 
 Yeah yeah
 
-### Speaker 1
+speaker_1: A week
 
-A week
+speaker_3: this Z the Z did it uh is it actually representative of the data or was some
 
-### Speaker 3
+speaker_1: Translation
 
-this Z the Z did it uh is it actually representative of the data or was some
+speaker_3: Optional
 
-### Speaker 1
+speaker_1: no no no no no no no so z is just uh uh an input random variable okay it can be anything you take it to be normal distribution normally distributed okay okay you take it to be normally distributed it has nothing to do with data
 
-Translation
+speaker_3: Okay something was done to bring the data time to Z form I mean like
 
-### Speaker 3
+speaker_1: So no it has nothing to do with data it has zero connection with data
 
-Optional
+speaker_4: No okay
 
-### Speaker 1
-
-no no no no no no no so z is just uh uh an input random variable okay it can be anything you take it to be normal distribution normally distributed okay okay you take it to be normally distributed it has nothing to do with data
-
-### Speaker 3
-
-Okay something was done to bring the data time to Z form I mean like
-
-### Speaker 1
-
-So no it has nothing to do with data it has zero connection with data
-
-### Speaker 4
-
-No okay
-
-### Speaker 1
-
-It has nothing to do with data okay
+speaker_1: It has nothing to do with data okay
 
 
 So it is just that we are okay So I tell you the like maybe the high level story or maybe its just a mistake See basically what we are trying to do is we are trying to transform okay an arbitrary random variable to some random variable that has same distribution and has our input data
@@ -641,13 +530,9 @@ So it is just that we are okay So I tell you the like maybe the high level story
 
 Is that okay
 
-### Speaker 3
+speaker_3: Right yes
 
-Right yes
-
-### Speaker 1
-
-Now this z is an arbitrary random variable and we know that if you pass an arbitrary random variable through a function the output random variable will have a different distribution Now the goal is to choose these parameters theta such that the transformation that this arbitrary random variable goes through will be such that the output random variable that you get will have the same distribution as that of input theta
+speaker_1: Now this z is an arbitrary random variable and we know that if you pass an arbitrary random variable through a function the output random variable will have a different distribution Now the goal is to choose these parameters theta such that the transformation that this arbitrary random variable goes through will be such that the output random variable that you get will have the same distribution as that of input theta
 
 
 So now the goal is to set this d theta set the parameters of the neural network such that distribution p theta matches with px which means that I want the distribution of x cap to be same as the distribution of x which is my input data Z has nothing to do with the data It is just the input seed It is seed
@@ -655,45 +540,25 @@ So now the goal is to set this d theta set the parameters of the neural network 
 
 It is the random CNN that you start with You pass it through a neural network okay And output of the neural network will have some distribution I want the distribution of that output to match to the input the distribution of given data
 
-### Speaker 4
+speaker_4: Yes in that case the creation or the finding out of the distribution of Z is also as equally important as G theta of Z right
 
-Yes in that case the creation or the finding out of the distribution of Z is also as equally important as G theta of Z right
+speaker_1: No no because
 
-### Speaker 1
+speaker_3: I want to say
 
-No no because
+speaker_1: Yeah this is a random seed you can start with any this is the first
 
-### Speaker 3
+speaker_3: Nothing was done there so we are just picking something a random seed
 
-I want to say
+speaker_1: It is random stuff it is nothing but random stuff
 
-### Speaker 1
+speaker_2: Okay okay fine
 
-Yeah this is a random seed you can start with any this is the first
+speaker_1: Also transform this normal distribution into distribution of interest via neural networks
 
-### Speaker 3
+speaker_2: Okay okay okay yes thank you
 
-Nothing was done there so we are just picking something a random seed
-
-### Speaker 1
-
-It is random stuff it is nothing but random stuff
-
-### Speaker 2
-
-Okay okay fine
-
-### Speaker 1
-
-Also transform this normal distribution into distribution of interest via neural networks
-
-### Speaker 2
-
-Okay okay okay yes thank you
-
-### Speaker 1
-
-The astic
+speaker_1: The astic
 
 
 So it is not in a classifier what happens is the data will have a larger dimension where you give images and you reduce the dimensionality and the final layer will be equal to the number of classes
@@ -701,13 +566,9 @@ So it is not in a classifier what happens is the data will have a larger dimensi
 
 But in generative models it is the other way around because the dimensionality of X cap here the output should be equal to the dimensionality of the input image because the final goal is to sample isnt it Now if you want to sample pictures of dimensional dimensionality 200 by 200 pixels then the output of this neural network has to be of dimensions 200 cross 200
 
-### Speaker 4
+speaker_4: Okay and what would be the input dimension in this case uh if the num uh image size is 200 plus 200
 
-Okay and what would be the input dimension in this case uh if the num uh image size is 200 plus 200
-
-### Speaker 1
-
-Typically it is it will be of size lets say 16 32 and so on So thats why if you look at the shape of the neural network that I have written it will have increasing dimensionality as you move deeper onto the network
+speaker_1: Typically it is it will be of size lets say 16 32 and so on So thats why if you look at the shape of the neural network that I have written it will have increasing dimensionality as you move deeper onto the network
 
 
 example
@@ -715,40 +576,24 @@ example
 
 See input is of 16 dimensions and you keep increasing so see it is all in setting up this L1 L2 etc right you choose those are the hyperparameters that are in your control as a designer
 
-### Speaker 2
+speaker_2: Yeah that is fine
 
-Yeah that is fine
-
-### Speaker 1
-
-like our output should be a image and input is also a image right so no no no no it is not an image it is a random seed that is what im trying to say input is not an image
+speaker_1: like our output should be a image and input is also a image right so no no no no it is not an image it is a random seed that is what im trying to say input is not an image
 
 
 So this is a generative model
 
-### Speaker 4
+speaker_4: Okay okay yeah yeah yeah
 
-Okay okay yeah yeah yeah
+speaker_1: You understood the setup it is see it is not you are giving an image and you are asking for a class you are including the random seed and you are expecting the neural network to give you an image from the data distribution
 
-### Speaker 1
+speaker_4: Yeah yeah yeah its a generative
 
-You understood the setup it is see it is not you are giving an image and you are asking for a class you are including the random seed and you are expecting the neural network to give you an image from the data distribution
+speaker_1: So we the course is deep generative modeling
 
-### Speaker 4
+speaker_3: Just joking
 
-Yeah yeah yeah its a generative
-
-### Speaker 1
-
-So we the course is deep generative modeling
-
-### Speaker 3
-
-Just joking
-
-### Speaker 1
-
-Its okay you understand now
+speaker_1: Its okay you understand now
 
 
 Thats why the shape look at the shape right the shape of the neural network that I have drawn is that you start from a lower dimension and go to a higher dimension as you move across the network Okay
@@ -756,40 +601,24 @@ Thats why the shape look at the shape right the shape of the neural network that
 
 As a shield
 
-### Speaker 4
+speaker_4: understand we are not using the input but somewhere we will have to relate with the input distribution like that is how we will calculate the loss and all
 
-understand we are not using the input but somewhere we will have to relate with the input distribution like that is how we will calculate the loss and all
+speaker_1: Come again
 
-### Speaker 1
+speaker_4: Like I understand we are not using the actual input here but what Im saying is how we will relate with the actual input distribution
 
-Come again
+speaker_1: I am not saying that we are not using the input I am saying that the input distribution does not matter because you can start with any random seed and then convert that into distribution of interest using your own
 
-### Speaker 4
+speaker_4: Okay sir so where we use the input here
 
-Like I understand we are not using the actual input here but what Im saying is how we will relate with the actual input distribution
-
-### Speaker 1
-
-I am not saying that we are not using the input I am saying that the input distribution does not matter because you can start with any random seed and then convert that into distribution of interest using your own
-
-### Speaker 4
-
-Okay sir so where we use the input here
-
-### Speaker 1
-
-Okay see how do you get X cap here
+speaker_1: Okay see how do you get X cap here
 
 
 X cap is gotten by taking a sample from Z okay and passing through So basically what you do in practice Ive written this no Z is sampled via random number generator which means that you run rand N once okay you get one number that is your Z You pass that Z through this neural network D theta you get an X cap that is how you use the input
 
-### Speaker 3
+speaker_3: From the data set
 
-From the data set
-
-### Speaker 1
-
-you mean okay so please dont call it as input you know its a bit confusing input to this setup is z okay and uh the data okay is x1 through xn we are i mean everything that we do is using data we will see that right we have not still told you how to set the parameters of g theta right the parameters of g theta is set by using the data
+speaker_1: you mean okay so please dont call it as input you know its a bit confusing input to this setup is z okay and uh the data okay is x1 through xn we are i mean everything that we do is using data we will see that right we have not still told you how to set the parameters of g theta right the parameters of g theta is set by using the data
 
 
 I thought I mean yeah I think you know there is a confusion Z is what is an input to this setup Okay And let us let us call the lets call x1 x2 x3 as input sorry data
@@ -806,94 +635,54 @@ I mean thats a huge confusion if you had that confusion is this clear
 
 Okay yeah I think theres one more question Sanjit
 
-### Speaker 4
+speaker_4: I understand that we are just taking a random uh sample Z from the normal distribution and passing
 
-I understand that we are just taking a random uh sample Z from the normal distribution and passing
+speaker_1: Mm
 
-### Speaker 1
+speaker_4: What are we taking it
 
-Mm
+speaker_2: Comparing it
 
-### Speaker 4
+speaker_4: Like Im saying it
 
-What are we taking it
+speaker_1: I have not told you that yet I have not told you that yet Im just saying x hat has a distribution Lets call it p theta That is what Ive told you so far I have not told you how to make this p theta close to px Anyway because youre asking Im telling you So evaluate the divergence between p theta and px and set the parameters of this g theta such that that divergence is minimized
 
-### Speaker 2
-
-Comparing it
-
-### Speaker 4
-
-Like Im saying it
-
-### Speaker 1
-
-I have not told you that yet I have not told you that yet Im just saying x hat has a distribution Lets call it p theta That is what Ive told you so far I have not told you how to make this p theta close to px Anyway because youre asking Im telling you So evaluate the divergence between p theta and px and set the parameters of this g theta such that that divergence is minimized
-
-### Speaker 2
-
-I understand that flow like you had explained it in the last class what Im trying to relate to is like lets say for like supervised learning when we have the
+speaker_2: I understand that flow like you had explained it in the last class what Im trying to relate to is like lets say for like supervised learning when we have the
 
 
 Lets say we are going for
 
-### Speaker 1
+speaker_1: Hold on hold on hold on hold on You are asking me how to do it practically right How do you basically what you are saying is how do you minimize the divergence practically right Yes sir I have not answered that question Hold on Ill answer it in this class
 
-Hold on hold on hold on hold on You are asking me how to do it practically right How do you basically what you are saying is how do you minimize the divergence practically right Yes sir I have not answered that question Hold on Ill answer it in this class
+speaker_4: Focus on sure thank you
 
-### Speaker 4
+speaker_1: Okay yeah Harish
 
-Focus on sure thank you
+speaker_2: So the sampling of the data the normal distribution one so do we can why do we consider it for a normal distribution or can we consider with any other distribution so for the for the side here
 
-### Speaker 1
-
-Okay yeah Harish
-
-### Speaker 2
-
-So the sampling of the data the normal distribution one so do we can why do we consider it for a normal distribution or can we consider with any other distribution so for the for the side here
-
-### Speaker 1
-
-Yes you can but generally normal distribution is chosen because normal distribution has infinite support which means that like it has I mean for the entire space Rd the density function is not zero if you take uniform distribution for example right the density function vanishes out of I mean outside of a window but in normal distribution the density function is is existing when its non zero over the entire space no thats why you
+speaker_1: Yes you can but generally normal distribution is chosen because normal distribution has infinite support which means that like it has I mean for the entire space Rd the density function is not zero if you take uniform distribution for example right the density function vanishes out of I mean outside of a window but in normal distribution the density function is is existing when its non zero over the entire space no thats why you
 
 
 Take normal distribution
 
-### Speaker 2
+speaker_2: And one more question on the dimension of K here so the dimension K here is dimension of
 
-And one more question on the dimension of K here so the dimension K here is dimension of
+speaker_1: Yeah typically it is tend to be 16 32 if I mean if youre working with images
 
-### Speaker 1
+speaker_2: So does it matter So you have mentioned that the D is much much greater than K here right So does it matter based on the data size So we need we choose 16 or 32 or is it also random
 
-Yeah typically it is tend to be 16 32 if I mean if youre working with images
+speaker_1: Yeah thats a good question Its a hyperparameter but like in some of our research we have we have actually found out that the dimensionality matters Right There is an optimal dimensionality is what we show in some of our papers But yeah like in general its a hyperparameter
 
-### Speaker 2
+speaker_2: And so we we choose that once like for example we take an initial of 16 or 32 and then based on the training and how it works so do we change that based on
 
-So does it matter So you have mentioned that the D is much much greater than K here right So does it matter based on the data size So we need we choose 16 or 32 or is it also random
-
-### Speaker 1
-
-Yeah thats a good question Its a hyperparameter but like in some of our research we have we have actually found out that the dimensionality matters Right There is an optimal dimensionality is what we show in some of our papers But yeah like in general its a hyperparameter
-
-### Speaker 2
-
-And so we we choose that once like for example we take an initial of 16 or 32 and then based on the training and how it works so do we change that based on
-
-### Speaker 1
-
-Typically that is not a happy parameter that people do norm that is kept fixed
+speaker_1: Typically that is not a happy parameter that people do norm that is kept fixed
 
 
 Yeah yeah
 
-### Speaker 4
+speaker_4: So the real application of this function I want to understand my assumption is correct or not if we give some few text like a cup on table then it will give me a picture of the cup on table
 
-So the real application of this function I want to understand my assumption is correct or not if we give some few text like a cup on table then it will give me a picture of the cup on table
-
-### Speaker 1
-
-one table no no no see for for now i have not told you the conditional part of it what you are saying is a conditional generating model well come to that in a while it is not it is not conditional generating modeling right now right now what happens is after you train it you give a random number as an input to this okay it will give you a picture from the distribution
+speaker_1: one table no no no see for for now i have not told you the conditional part of it what you are saying is a conditional generating model well come to that in a while it is not it is not conditional generating modeling right now right now what happens is after you train it you give a random number as an input to this okay it will give you a picture from the distribution
 
 
 Now that you are asking me let me just show you that as well
@@ -913,33 +702,19 @@ see my screen no see these are pictures of like non existent people so what is h
 
 Right now Im not looking at conditional generation Im simply looking at this is called unconditional generation where you generate images from the underlying distribution or generate data from the underlying distribution without conditioning
 
-### Speaker 3
+speaker_3: Got it
 
-Got it
+speaker_1: I will also talk of conditional generation but I am skipping a lot We will do that one step at a time We will understand the unconditional part and then adding conditioning is a trivial extension to this okay
 
-### Speaker 1
+speaker_4: Yeah so uh I know sorry you have not explained this but in the
 
-I will also talk of conditional generation but I am skipping a lot We will do that one step at a time We will understand the unconditional part and then adding conditioning is a trivial extension to this okay
+speaker_3: terms of picture we got a p theta but then uh how to measure like between p theta and p x
 
-### Speaker 4
+speaker_1: Dean Ive told you that Ill do this in this class please dont repeat the questions that Ive answered already
 
-Yeah so uh I know sorry you have not explained this but in the
+speaker_4: Yes yes
 
-### Speaker 3
-
-terms of picture we got a p theta but then uh how to measure like between p theta and p x
-
-### Speaker 1
-
-Dean Ive told you that Ill do this in this class please dont repeat the questions that Ive answered already
-
-### Speaker 4
-
-Yes yes
-
-### Speaker 1
-
-That is the next thing that we will do No see okay So let me tell you my philosophy of teaching When I teach I just I mean like open it layer by layer So now what is happening is I am trying to give you an abstraction of what is happening We will go to the details So now at the level of abstraction what you need to understand is that the idea is that you start with an arbitrary random variable g pass it through a function g theta and you get another random variable which has a distribution p theta
+speaker_1: That is the next thing that we will do No see okay So let me tell you my philosophy of teaching When I teach I just I mean like open it layer by layer So now what is happening is I am trying to give you an abstraction of what is happening We will go to the details So now at the level of abstraction what you need to understand is that the idea is that you start with an arbitrary random variable g pass it through a function g theta and you get another random variable which has a distribution p theta
 
 
 Now the next thing is you tweak the parameters of this d theta such that the distribution of the output of this network x dot is same as the distribution of p x Now how do we do that is a question that Ill answer in a while But now you ask me questions at this level of abstraction If you have difficulty in understanding this level of abstraction sure ask me questions
@@ -971,21 +746,13 @@ There are this neural net I mean neural network layers called upsampling or also
 
 Okay that will take as an input a lower dimensional feature and give you a higher dimensional feature vector as output Just like you have convolutional layers there are transpose convolutional layers that would increase the dimensionality of neural networks Okay
 
-### Speaker 3
+speaker_3: Okay so okay thank you
 
-Okay so okay thank you
+speaker_1: But but dont worry about architecture for now I mean these for us g theta is simply a function I mean it need not be a neural network also but now because in in practice we are only looking at neural networks Ive said that its a neural network So for now let us assume that these are all fully connected neural networks which are I mean no fancy network architecture here right I mean they are all multi layer perceptrons or simply fully connected neural networks Is that okay For now
 
-### Speaker 1
+speaker_3: Yeah yeah sir correct correct words
 
-But but dont worry about architecture for now I mean these for us g theta is simply a function I mean it need not be a neural network also but now because in in practice we are only looking at neural networks Ive said that its a neural network So for now let us assume that these are all fully connected neural networks which are I mean no fancy network architecture here right I mean they are all multi layer perceptrons or simply fully connected neural networks Is that okay For now
-
-### Speaker 3
-
-Yeah yeah sir correct correct words
-
-### Speaker 1
-
-Okay uh any other question is the problem setting clear to all of you
+speaker_1: Okay uh any other question is the problem setting clear to all of you
 
 
 I didnt expect so many questions at this stage anyway no problem its good that youre asking questions okay lets move on so now what is the objective so now the objective
@@ -1116,13 +883,9 @@ given data D now samples
 
 from P theta how do you get that
 
-### Speaker 2
+speaker_2: sampling choosing different z
 
-sampling choosing different z
-
-### Speaker 1
-
-Correct choose
+speaker_1: Correct choose
 
 
 Different Z
@@ -1154,37 +917,21 @@ Even data and samples from P data how to compute the underlying development metr
 
 Is this clear so far Any questions here Okay I see some hands raised Kartik
 
-### Speaker 4
+speaker_4: Yes sir So I have a query So we set about when we have samples of RK then we get the sigma algebra using like L1 L2 all those parameters right
 
-Yes sir So I have a query So we set about when we have samples of RK then we get the sigma algebra using like L1 L2 all those parameters right
+speaker_1: Ive never used the word sigma algebra here
 
-### Speaker 1
+speaker_4: Sorry
 
-Ive never used the word sigma algebra here
+speaker_1: Very
 
-### Speaker 4
+speaker_4: Yeah sigma of what we wrote right
 
-Sorry
+speaker_1: Design a neural network okay you start with a k dimensional vector and you keep increasing the dimensionality till you go to d dimensional vector yeah
 
-### Speaker 1
+speaker_4: But so we dont have any control over whatever is written in RL1 RL2 other than our input right So these are fixed Thats what we are saying right now
 
-Very
-
-### Speaker 4
-
-Yeah sigma of what we wrote right
-
-### Speaker 1
-
-Design a neural network okay you start with a k dimensional vector and you keep increasing the dimensionality till you go to d dimensional vector yeah
-
-### Speaker 4
-
-But so we dont have any control over whatever is written in RL1 RL2 other than our input right So these are fixed Thats what we are saying right now
-
-### Speaker 1
-
-dimensionality are these are hyperparameters no L1 L2 L3 are hyperparameters that you fix
+speaker_1: dimensionality are these are hyperparameters no L1 L2 L3 are hyperparameters that you fix
 
 
 But you fix other designer
@@ -1192,72 +939,40 @@ But you fix other designer
 
 So when you say see when people say that its a billion parameter model it is some you know 70 billion parameter model what are they saying They are referring to these L1 L2 L3 So thats a design choice Okay
 
-### Speaker 4
+speaker_4: Yeah sorry sir but what I wanted to know was what are the whatever is the value of omega one or like omega two
 
-Yeah sorry sir but what I wanted to know was what are the whatever is the value of omega one or like omega two
-
-### Speaker 1
-
-Im sorry
+speaker_1: Im sorry
 
 
 Uh
 
-### Speaker 4
+speaker_4: uh those things are no w1 w2 sorry uh w1 w2 those things are not in our control right away right other than the
 
-uh those things are no w1 w2 sorry uh w1 w2 those things are not in our control right away right other than the
+speaker_1: No no no okay okay so have you tried a neural network before
 
-### Speaker 1
+speaker_4: Yeah in pictorial forms only sir
 
-No no no okay okay so have you tried a neural network before
+speaker_1: Okay see how do you drive a neural network You start with some random initialization problem W1 W2 W3 W4 okay
 
-### Speaker 4
+speaker_4: Okay
 
-Yeah in pictorial forms only sir
+speaker_1: And then solve this optimization problem So now you start with some W1 W2 W3 W4 and then you know you keep on changing these W1 W2 all these parameters till you reach a point where your objective is optimized Thats okay try new approach
 
-### Speaker 1
+speaker_4: So not just said we will be trying with variable various values from W1 W2 also like we can change
 
-Okay see how do you drive a neural network You start with some random initialization problem W1 W2 W3 W4 okay
+speaker_1: All we change are W1 W2 W3 W4 only no Thats the only thing that we would change nothing else
 
-### Speaker 4
+speaker_4: Okay yeah
 
-Okay
+speaker_1: When we solve this optimization problem that we have we have written here what I mean what do you mean by optimizing over theta optimizing over theta actually means setting up these Ws you know
 
-### Speaker 1
+speaker_4: Okay so the final
 
-And then solve this optimization problem So now you start with some W1 W2 W3 W4 and then you know you keep on changing these W1 W2 all these parameters till you reach a point where your objective is optimized Thats okay try new approach
+speaker_1: Do all the fighting
 
-### Speaker 4
+speaker_4: The final changes will be in uh w1 w2 w3 w4 whatever is the value
 
-So not just said we will be trying with variable various values from W1 W2 also like we can change
-
-### Speaker 1
-
-All we change are W1 W2 W3 W4 only no Thats the only thing that we would change nothing else
-
-### Speaker 4
-
-Okay yeah
-
-### Speaker 1
-
-When we solve this optimization problem that we have we have written here what I mean what do you mean by optimizing over theta optimizing over theta actually means setting up these Ws you know
-
-### Speaker 4
-
-Okay so the final
-
-### Speaker 1
-
-Do all the fighting
-
-### Speaker 4
-
-The final changes will be in uh w1 w2 w3 w4 whatever is the value
-
-### Speaker 1
-
-Of course right I mean when you optimize over theta you want theta star what is theta theta is collection of all w w and w 3 w 3 all the parameters of the neural network what you change are the see learning or training of a neural network is nothing but changing the parameters of it thats why Im asking you right okay uh here is a a small request the next class uh you please study about you know uh what do you mean by training the neural network
+speaker_1: Of course right I mean when you optimize over theta you want theta star what is theta theta is collection of all w w and w 3 w 3 all the parameters of the neural network what you change are the see learning or training of a neural network is nothing but changing the parameters of it thats why Im asking you right okay uh here is a a small request the next class uh you please study about you know uh what do you mean by training the neural network
 
 
 I mean I I assume that all of you know what training a neural network is
@@ -1268,154 +983,84 @@ See I told you that the first four chapters of that Ian Goodfellows machine lear
 
 And did you go through it Did you go through training neural network general backpropagation and so on
 
-### Speaker 3
+speaker_3: just started like first two chapters are random process and linear algebra
 
-just started like first two chapters are random process and linear algebra
+speaker_1: Okay okay
 
-### Speaker 1
+speaker_3: Im going to move
 
-Okay okay
-
-### Speaker 3
-
-Im going to move
-
-### Speaker 1
-
-Yeah so please you know quickly ramp up See now we have sort of come through the come through the meat of the course okay Like I expect all of you to know what training neural networks mean So please go through those chapters and that those are actually sort of very strict prerequisites Otherwise see I cant teach how to like training neural network in this course you see So please have a look at that
+speaker_1: Yeah so please you know quickly ramp up See now we have sort of come through the come through the meat of the course okay Like I expect all of you to know what training neural networks mean So please go through those chapters and that those are actually sort of very strict prerequisites Otherwise see I cant teach how to like training neural network in this course you see So please have a look at that
 
 
 Okay are we ready
 
-### Speaker 4
+speaker_4: So so when we look at the KL divergence formula
 
-So so when we look at the KL divergence formula
+speaker_2: The clear divergence
 
-### Speaker 2
+speaker_1: by the way no no i mean like yeah clear divergence is one of the multiple possible divergences i will define now a family of divergence metrics okay okay that will be minimal now but anyway you go on okay clear divergence is one of them
 
-The clear divergence
+speaker_4: Why did we get different
 
-### Speaker 1
+speaker_2: Yeah my question was so you can can you really in that formula it is like there is a closed form form of two probability distributions
 
-by the way no no i mean like yeah clear divergence is one of the multiple possible divergences i will define now a family of divergence metrics okay okay that will be minimal now but anyway you go on okay clear divergence is one of them
+speaker_1: But in this setup that youre not given
 
-### Speaker 4
+speaker_4: But in this setup that youre not doing
 
-Why did we get different
+speaker_1: No even in KL divergence see what is KL divergence between Px and P theta Let me write that down KL between Px and P theta is given by integral of Px evaluated at x log of Px evaluated at x divided by P theta evaluated at x to integrate this out This is the definition of KL divergence right
 
-### Speaker 2
+speaker_4: Right yes sir
 
-Yeah my question was so you can can you really in that formula it is like there is a closed form form of two probability distributions
+speaker_1: Now you dont know P x you dont know P theta
 
-### Speaker 1
+speaker_4: Great yeah
 
-But in this setup that youre not given
+speaker_1: And how do we compute this That is the whole question
 
-### Speaker 4
+speaker_4: Okay okay okay
 
-But in this setup that youre not doing
+speaker_1: The question is that when we dont have underlying distribution density functions but we only have samples from it
 
-### Speaker 1
+speaker_4: Hopefully
 
-No even in KL divergence see what is KL divergence between Px and P theta Let me write that down KL between Px and P theta is given by integral of Px evaluated at x log of Px evaluated at x divided by P theta evaluated at x to integrate this out This is the definition of KL divergence right
+speaker_1: Do we compute the divergence metric is the whole question
 
-### Speaker 4
-
-Right yes sir
-
-### Speaker 1
-
-Now you dont know P x you dont know P theta
-
-### Speaker 4
-
-Great yeah
-
-### Speaker 1
-
-And how do we compute this That is the whole question
-
-### Speaker 4
-
-Okay okay okay
-
-### Speaker 1
-
-The question is that when we dont have underlying distribution density functions but we only have samples from it
-
-### Speaker 4
-
-Hopefully
-
-### Speaker 1
-
-Do we compute the divergence metric is the whole question
-
-### Speaker 2
-
-The another question is
+speaker_2: The another question is
 
 
 Any such metric how can we have parallels for a single point for a single sample at a time
 
-### Speaker 4
+speaker_4: In the sense like
 
-In the sense like
+speaker_1: So none of the metrics none of these metrics are doing I mean like theyre theyre theyre theyre they are at their point wise
 
-### Speaker 1
+speaker_4: Okay theyre like a group of examples
 
-So none of the metrics none of these metrics are doing I mean like theyre theyre theyre theyre they are at their point wise
+speaker_1: Like a group open
 
-### Speaker 4
+speaker_4: We will see no I okay
 
-Okay theyre like a group of examples
-
-### Speaker 1
-
-Like a group open
-
-### Speaker 4
-
-We will see no I okay
-
-### Speaker 1
-
-so we will see no i have okay okay okay see how do you compute these divergences when you dont have distributions and only have samples is a question that i have not answered it i will answer it in a while okay if you have questions on the setup ask me
+speaker_1: so we will see no i have okay okay okay see how do you compute these divergences when you dont have distributions and only have samples is a question that i have not answered it i will answer it in a while okay if you have questions on the setup ask me
 
 
 Okay so these are things that Ill discuss in a while so any questions on this setup
 
-### Speaker 4
+speaker_4: Okay no
 
-Okay no
+speaker_1: Okay yeah Aamir up
 
-### Speaker 1
+speaker_3: Yes sir I have a question on the last statement So samples from P theta choose different Zs and pass them through G theta Now Z is a random variable which you are passing through a neural network So my question is why do we have to pass different Zs random variable being a function if we pass a different point belonging to the range space of random
 
-Okay yeah Aamir up
+speaker_1: Yes yes that is what we do when we say different zs thats exactly what we mean to sample from the range space of the random variable and then cost always that see whenever I say that there are points from random variable they always mean that its from the range space of the random variable
 
-### Speaker 3
+speaker_3: Always okay
 
-Yes sir I have a question on the last statement So samples from P theta choose different Zs and pass them through G theta Now Z is a random variable which you are passing through a neural network So my question is why do we have to pass different Zs random variable being a function if we pass a different point belonging to the range space of random
+speaker_1: I think we settled this we settled this in the first class itself right I told you that I say that when I say that there are we have n samples from a random variable I said that they are always I always mean that there are n samples in the range space of the random variable with a distribution I think that we have settled no
 
-### Speaker 1
+speaker_3: Yeah that is subtle I was I thought that since youve written choose different zs I thought you were choosing a different random variable altogether
 
-Yes yes that is what we do when we say different zs thats exactly what we mean to sample from the range space of the random variable and then cost always that see whenever I say that there are points from random variable they always mean that its from the range space of the random variable
-
-### Speaker 3
-
-Always okay
-
-### Speaker 1
-
-I think we settled this we settled this in the first class itself right I told you that I say that when I say that there are we have n samples from a random variable I said that they are always I always mean that there are n samples in the range space of the random variable with a distribution I think that we have settled no
-
-### Speaker 3
-
-Yeah that is subtle I was I thought that since youve written choose different zs I thought you were choosing a different random variable altogether
-
-### Speaker 1
-
-I need an SOS message
+speaker_1: I need an SOS message
 
 
 No yeah Okay Uh
@@ -1651,33 +1296,19 @@ Okay uh any questions here
 
 Uh
 
-### Speaker 2
+speaker_2: She wont
 
-She wont
+speaker_1: Four
 
-### Speaker 1
+speaker_2: Yes
 
-Four
+speaker_4: Yes sir on the F divergence side as we have said we can have infinite combinations of F divergence function and
 
-### Speaker 2
+speaker_1: No no no no there are there are no combinations here you can have infinite f divergences by changing f
 
-Yes
+speaker_3: Yes Yes So yeah but we are talking about the three variations the KLI divergence GS divergence So is there any specific benefit does they bring into the table or
 
-### Speaker 4
-
-Yes sir on the F divergence side as we have said we can have infinite combinations of F divergence function and
-
-### Speaker 1
-
-No no no no there are there are no combinations here you can have infinite f divergences by changing f
-
-### Speaker 3
-
-Yes Yes So yeah but we are talking about the three variations the KLI divergence GS divergence So is there any specific benefit does they bring into the table or
-
-### Speaker 1
-
-Good question Yes they do They do In fact Ill
+speaker_1: Good question Yes they do They do In fact Ill
 
 
 After we look at how to minimize this now I will tell you like advantages and disadvantages of lets say at least scale and density channel divergence okay
@@ -1685,13 +1316,9 @@ After we look at how to minimize this now I will tell you like advantages and di
 
 But yeah so different divergences have different properties Thats a good point that you made Why do we need so many divergence metric Why cant we look at one of them is because different divergence metric offer different properties I will talk about it right I mean just after we look at this algorithm right Remind me if I forget it just remind me to bring out the lets say properties of at least one or two divergences here
 
-### Speaker 2
+speaker_2: Thank you
 
-Thank you
-
-### Speaker 1
-
-But yeah so thats the point I mean why do we need so many divergences In fact if you come up with a different divergence which has good properties you can name it C1 divergence Thats how people have done it Different people have come up with different divergences and called them with their own name But you will have to ensure that these things are there You will have to ensure that this is a convex function to be mathematically precise This is actually a left semi continuous function
+speaker_1: But yeah so thats the point I mean why do we need so many divergences In fact if you come up with a different divergence which has good properties you can name it C1 divergence Thats how people have done it Different people have come up with different divergences and called them with their own name But you will have to ensure that these things are there You will have to ensure that this is a convex function to be mathematically precise This is actually a left semi continuous function
 
 
 left semi continuous function and also f of 0 has to be equal to 1 So convex left semi continuous functions are with f of 0 equal to 1 So if you can come up with such a function that becomes a new divergence metric and if it has favorable properties you can use that in your generative models
@@ -1702,13 +1329,9 @@ Put that back in the room
 
 Its just that it should
 
-### Speaker 4
+speaker_4: Its just that it should
 
-Its just that it should
-
-### Speaker 1
-
-no we are not doing argument here anything right i mean it is optimized uh we do optimization over dfs we minimize the divergence metric no we dont we have nothing to do with f f is a f is actually a hyper parameter right you fix s yeah yeah okay choose an f divergence it has nothing to do with the optimization
+speaker_1: no we are not doing argument here anything right i mean it is optimized uh we do optimization over dfs we minimize the divergence metric no we dont we have nothing to do with f f is a f is actually a hyper parameter right you fix s yeah yeah okay choose an f divergence it has nothing to do with the optimization
 
 
 It is just a definition of for the F values
@@ -1737,13 +1360,9 @@ Im not there
 
 Yes can I hear you
 
-### Speaker 2
+speaker_2: Yes yes yes
 
-Yes yes yes
-
-### Speaker 1
-
-Okay any other question on the definition of
+speaker_1: Okay any other question on the definition of
 
 
 this needs uh an uninterrupted to answer this question right you know we need
@@ -1760,40 +1379,24 @@ I see you in about 14 20 minutes
 
 Hello shall we resume
 
-### Speaker 3
+speaker_3: Yes
 
-Yes
-
-### Speaker 1
-
-One of the most challenging parts of this online teaching is that I dont get to see you at all right I mean I all I get to see is this stupid screen and as a as a teacher Ive been we would have developed this ability to look at the face of your audience and kind of mostly discern what is going on I mean are they appreciating what you are saying are they understanding what is said you know when to repeat you know when to stop
+speaker_1: One of the most challenging parts of this online teaching is that I dont get to see you at all right I mean I all I get to see is this stupid screen and as a as a teacher Ive been we would have developed this ability to look at the face of your audience and kind of mostly discern what is going on I mean are they appreciating what you are saying are they understanding what is said you know when to repeat you know when to stop
 
 
 not to repeat etc the complete feedback mechanism is gone now here it is only me talking dont even know whether the people exist or not yeah its such a challenging thing to do that online anyway okay i see a couple of hands rise uh yeah ask it
 
-### Speaker 3
+speaker_3: Uh so so you mentioned some properties about this f function for f divergences can you move a little up
 
-Uh so so you mentioned some properties about this f function for f divergences can you move a little up
+speaker_1: It should be convex lower semi continuous and at zero it should evaluate to one
 
-### Speaker 1
+speaker_3: Uh but this is not uh uh following in this uh these three functions that we write right this F zero
 
-It should be convex lower semi continuous and at zero it should evaluate to one
+speaker_1: Hold on I think I just thanks
 
-### Speaker 3
+speaker_3: It should be I think F one is a good one
 
-Uh but this is not uh uh following in this uh these three functions that we write right this F zero
-
-### Speaker 1
-
-Hold on I think I just thanks
-
-### Speaker 3
-
-It should be I think F one is a good one
-
-### Speaker 1
-
-F1 and F2 correct correct Yeah thanks Yeah roof top correct its correct It should evaluate to zero at one correct thanks
+speaker_1: F1 and F2 correct correct Yeah thanks Yeah roof top correct its correct It should evaluate to zero at one correct thanks
 
 
 Okay shall we continue
@@ -1867,13 +1470,9 @@ the function values evaluated at all those x is coming from v x Now a special ca
 
 What is this thing called this is
 
-### Speaker 2
+speaker_2: Expectation
 
-Expectation
-
-### Speaker 1
-
-This is the expectation of
+speaker_1: This is the expectation of
 
 
 This is the expectation of X right Now in fact this is the expectation of H of X with respect to this density pH Okay this is the definition Now this is the expectation of X with respect to pH Now this can be approximated using
@@ -2007,13 +1606,9 @@ Any questions on this
 
 So dont ask me how do we do it that is what we will see but yeah on the philosophy yeah somebody
 
-### Speaker 2
+speaker_2: That will be an approximation right
 
-That will be an approximation right
-
-### Speaker 1
-
-Correct correct that will be an approximation but unfortunately thats the best that we can do
+speaker_1: Correct correct that will be an approximation but unfortunately thats the best that we can do
 
 
 Because you know that like the fundamental problem is that we dont have access to pH and p theta you see If we do not have access to pH and p theta this is the best that we can do
@@ -2024,37 +1619,21 @@ But yeah what you said is true its an approximation you will you will not get th
 
 Any yeah no case
 
-### Speaker 4
+speaker_4: Yeah So so if we are minimizing the lower bound does that mean it does not
 
-Yeah So so if we are minimizing the lower bound does that mean it does not
+speaker_1: All right so
 
-### Speaker 1
+speaker_4: Lets understand the Lord
 
-All right so
+speaker_1: Correct correct correct that is correct that is correct that is why no its better to thats very good question actually you know that is why we need a tighter lower bound
 
-### Speaker 4
+speaker_4: Shes not active
 
-Lets understand the Lord
+speaker_1: Right I mean the tighter the boundary is the better your model is We will crave to have a tighter lower bound See if you know what a GAN is right generative adversarial network you will have two networks there right One is the generator network that we already wrote There will be another network called discriminator network You are aware of it
 
-### Speaker 1
+speaker_4: Yeah yeah
 
-Correct correct correct that is correct that is correct that is why no its better to thats very good question actually you know that is why we need a tighter lower bound
-
-### Speaker 4
-
-Shes not active
-
-### Speaker 1
-
-Right I mean the tighter the boundary is the better your model is We will crave to have a tighter lower bound See if you know what a GAN is right generative adversarial network you will have two networks there right One is the generator network that we already wrote There will be another network called discriminator network You are aware of it
-
-### Speaker 4
-
-Yeah yeah
-
-### Speaker 1
-
-See that is actually to carve this lower bound We will see that in a while So why do we say that the discriminator has to be very good is because the lower bound that we compute has to be very tight Otherwise you know it doesnt I mean it would be a very loose approximation which will not lead to a good generative model
+speaker_1: See that is actually to carve this lower bound We will see that in a while So why do we say that the discriminator has to be very good is because the lower bound that we compute has to be very tight Otherwise you know it doesnt I mean it would be a very loose approximation which will not lead to a good generative model
 
 
 But this is the best that we can do Why is this problem arising is because we dont know px and p theta Since we do not have px and p theta we need to do something What do we do We will carve out the lower bound on f divergence and then minimize that Now this lower bound can be computed using the expectations over I mean using the samples of px and p theta Thats the point
@@ -2062,13 +1641,9 @@ But this is the best that we can do Why is this problem arising is because we do
 
 So the lower
 
-### Speaker 2
+speaker_2: So the lower bound is in terms of is for the term EPX minus EP theta right
 
-So the lower bound is in terms of is for the term EPX minus EP theta right
-
-### Speaker 1
-
-It will take that form It will take that form of like differences in expectations That is what were going to show now Thats the whole result The lower bound that we carved now that can be expressed in terms of expectations over these two distributions that we have
+speaker_1: It will take that form It will take that form of like differences in expectations That is what were going to show now Thats the whole result The lower bound that we carved now that can be expressed in terms of expectations over these two distributions that we have
 
 
 Excuse me once we express them as expectations right over these two distributions we can compute that using samples
@@ -2079,13 +1654,9 @@ Excellent yeah
 
 Any other question
 
-### Speaker 4
+speaker_4: Yeah sir Sir if you dont know P x and P theta as you have said we know the samples from it And above you have applied law of large number to find the expectations using the samples So why cant we just directly apply into KL while we calculate divergence Like we can apply the same tactic while finding the divergence as well right
 
-Yeah sir Sir if you dont know P x and P theta as you have said we know the samples from it And above you have applied law of large number to find the expectations using the samples So why cant we just directly apply into KL while we calculate divergence Like we can apply the same tactic while finding the divergence as well right
-
-### Speaker 1
-
-what im saying you know these divergences for instance if you take this some like Jensen channel divergence right you cant express that in terms of expectations if you can express that in terms of expectations then great but you cant the whole point is that you cant write this f divergence this this f divergence right is that this definition of f divergence in terms of expectations over p theta and px if you can then thats it i mean its its an exact approximate exact
+speaker_1: what im saying you know these divergences for instance if you take this some like Jensen channel divergence right you cant express that in terms of expectations if you can express that in terms of expectations then great but you cant the whole point is that you cant write this f divergence this this f divergence right is that this definition of f divergence in terms of expectations over p theta and px if you can then thats it i mean its its an exact approximate exact
 
 
 computation but you cannot represent that thats the problem because of that we need to do something what do we do we cause a lower bound on a dividend which can be represented as expectations right which can be
@@ -2096,37 +1667,21 @@ Computer yeah thats the whole point
 
 Understand that
 
-### Speaker 4
+speaker_4: So just a small extension so we cant do it because its not a h of x right but it is its depend because if you see the form it is very similar to expectation
 
-So just a small extension so we cant do it because its not a h of x right but it is its depend because if you see the form it is very similar to expectation
+speaker_1: Not necessarily no you have f see it is not see h of x right it is not h of p of x you see this is
 
-### Speaker 1
+speaker_3: Yeah exactly
 
-Not necessarily no you have f see it is not see h of x right it is not h of p of x you see this is
+speaker_1: Yeah so there is there are there are ratios of densities here right This cannot this is not equal to for instance expectation of f of that with respect to p theta This is not equal to that Understand
 
-### Speaker 3
+speaker_4: Because the it itself depends on the PN
 
-Yeah exactly
+speaker_1: has a dependence on p and p theta it is not equal to the expectation right we need to do something else to write it as an expectation of functions over these two distributions the way to do it is to carve a lower bound on it and then express that as uh expectation which can be computed
 
-### Speaker 1
+speaker_4: Definitely
 
-Yeah so there is there are there are ratios of densities here right This cannot this is not equal to for instance expectation of f of that with respect to p theta This is not equal to that Understand
-
-### Speaker 4
-
-Because the it itself depends on the PN
-
-### Speaker 1
-
-has a dependence on p and p theta it is not equal to the expectation right we need to do something else to write it as an expectation of functions over these two distributions the way to do it is to carve a lower bound on it and then express that as uh expectation which can be computed
-
-### Speaker 4
-
-Definitely
-
-### Speaker 1
-
-Anything else anybody else
+speaker_1: Anything else anybody else
 
 
 Okay now yeah as I said now the classes now will get a little denser So please focus and know as much as possible and remember whats going on Otherwise you know its very easy to get lost I mean there are too many things that we will do right I mean unless you know what the storyline is you will kind of
@@ -2254,54 +1809,34 @@ That is the value of that convex conjugate at that t
 
 You get it
 
-### Speaker 2
+speaker_2: Sir one question
 
-Sir one question
-
-### Speaker 1
-
-Its actually not the tangent right its actually the slope
+speaker_1: Its actually not the tangent right its actually the slope
 
 
 that particular point now if you collate all these at different points of view you get another function right its a collection of slope of this function at all points that becomes the
 
-### Speaker 2
-
-Sir one question
+speaker_2: Sir one question
 
 
 Sir its basically the function value f of u right Even if we are denoting we are getting that through the tangent the maximum value will be f of u only
 
-### Speaker 1
+speaker_1: No no maximum of maximum of ut minus f of u Thats what Im saying Not f of u
 
-No no maximum of maximum of ut minus f of u Thats what Im saying Not f of u
+speaker_2: Oh okay no Im what Im you are explaining about this this concept right Like we can have infinitely possible lines at a particular you one of them will be that
 
-### Speaker 2
-
-Oh okay no Im what Im you are explaining about this this concept right Like we can have infinitely possible lines at a particular you one of them will be that
-
-### Speaker 1
-
-Okay no I
+speaker_1: Okay no I
 
 
 So that are that are that are less than this at all points right
 
-### Speaker 2
+speaker_2: Got it got it
 
-Got it got it
+speaker_1: I thought less than that at all points So now Im considering out of all of those possible lines Im considering the one that has the maximum value of that particular u and that Im considering as the value of that conjugate function on that particular p
 
-### Speaker 1
+speaker_2: So that value is corresponding to f f star of t like that
 
-I thought less than that at all points So now Im considering out of all of those possible lines Im considering the one that has the maximum value of that particular u and that Im considering as the value of that conjugate function on that particular p
-
-### Speaker 2
-
-So that value is corresponding to f f star of t like that
-
-### Speaker 1
-
-That is that is the value of correct that is the value of s star up t at that particular point
+speaker_1: That is that is the value of correct that is the value of s star up t at that particular point
 
 
 See ut I mean f of u is a what does ut minus f of u represent f of u minus f of u right this f of u is the
@@ -2315,13 +1850,9 @@ Yeah hold on this f of u is the intercept right
 
 The given point is f of u this is this is like mx plus c isnt it
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-This is the intercept okay Now you see I mean t is the slope and u is the value of the domain at that point So basically ut minus f of u will give you a line
+speaker_1: This is the intercept okay Now you see I mean t is the slope and u is the value of the domain at that point So basically ut minus f of u will give you a line
 
 
 At any f of u ut minus f of u will give you a line okay whose intercept is f of u
@@ -2329,13 +1860,9 @@ At any f of u ut minus f of u will give you a line okay whose intercept is f of 
 
 Okay
 
-### Speaker 2
+speaker_2: Okay
 
-Okay
-
-### Speaker 1
-
-Now Im saying out of all these possible lines that are less than the function value at that particular point Im looking at that line which is maximum
+speaker_1: Now Im saying out of all these possible lines that are less than the function value at that particular point Im looking at that line which is maximum
 
 
 Do you understand
@@ -2343,25 +1870,15 @@ Do you understand
 
 Oh yeah
 
-### Speaker 4
+speaker_4: So it lead to one confusion that the distance should be minimum right like the value at f of u and ut minus f of u the line which you have it should be very close to f of u to get
 
-So it lead to one confusion that the distance should be minimum right like the value at f of u and ut minus f of u the line which you have it should be very close to f of u to get
+speaker_2: tighter bond right so it should be the line should be the minimum of it
 
-### Speaker 2
+speaker_1: the maximum value of the value no the maximum value of that function see we are looking at the value of this function itself for this u t minus f of f f of u is a value that evaluates to something
 
-tighter bond right so it should be the line should be the minimum of it
+speaker_4: My duty is
 
-### Speaker 1
-
-the maximum value of the value no the maximum value of that function see we are looking at the value of this function itself for this u t minus f of f f of u is a value that evaluates to something
-
-### Speaker 4
-
-My duty is
-
-### Speaker 1
-
-So looking at the maximum of that and the maximization is over all possible u see the optimization is over the u domain you look at all possible us here
+speaker_1: So looking at the maximum of that and the maximization is over all possible u see the optimization is over the u domain you look at all possible us here
 
 
 Okay so amongst all possible us you look at that u which will maximize this entire thing ut minus f of u
@@ -2417,13 +1934,9 @@ another line and this is
 
 straight lines theres another line theres another line and so on these are the lines that we are talking about is this clear i think now it is correct
 
-### Speaker 2
+speaker_2: Yes yes sense
 
-Yes yes sense
-
-### Speaker 1
-
-yeah these are use correct yes amongst all these possible lines i am looking at that particular line okay which would maximize that at that list this is the u that we are talking about
+speaker_1: yeah these are use correct yes amongst all these possible lines i am looking at that particular line okay which would maximize that at that list this is the u that we are talking about
 
 
 Okay so amongst all possible lines okay that would be a lower bound for this function at that particular u I am looking at
@@ -2434,13 +1947,9 @@ which would maximize the resistance value U t minus F of t
 
 Is that clear
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-By the way it may not be a tangent though at all times it may not be the tangent
+speaker_1: By the way it may not be a tangent though at all times it may not be the tangent
 
 
 Okay
@@ -2454,21 +1963,13 @@ So these are multiple lower bounds that are possible for that for the convex fun
 
 Are you clear on this Any questions
 
-### Speaker 4
+speaker_4: So the quantity which we are maximizing can you show it on graph
 
-So the quantity which we are maximizing can you show it on graph
+speaker_1: U is fixed U is fixed or
 
-### Speaker 1
+speaker_4: Thank you guys
 
-U is fixed U is fixed or
-
-### Speaker 4
-
-Thank you guys
-
-### Speaker 1
-
-And yeah u t minus f of u is the line no This is one u t minus f of u Lets call this t1 This is like u t2 minus f of u and so on right Amongst all possible lines we are taking that line which has the maximum value
+speaker_1: And yeah u t minus f of u is the line no This is one u t minus f of u Lets call this t1 This is like u t2 minus f of u and so on right Amongst all possible lines we are taking that line which has the maximum value
 
 
 At that you at you
@@ -2479,35 +1980,23 @@ at u this line has this particular value right at u this line has this particula
 
 Yeah does it make sense now
 
-### Speaker 4
+speaker_4: Is it the value of u that maximizes uh u of t minus f of u
 
-Is it the value of u that maximizes uh u of t minus f of u
+speaker_1: minus f of u correct or a given or a given or for a given
 
-### Speaker 1
-
-minus f of u correct or a given or a given or for a given
-
-### Speaker 4
-
-For a given for a given for a for a given value of t right
+speaker_4: For a given for a given for a for a given value of t right
 
 
 You choose a t and then find the maximum of u uh f uh find a u that maximizes ut minus f of u
 
-### Speaker 1
-
-That would be the value of m star of t at that particular point okay
+speaker_1: That would be the value of m star of t at that particular point okay
 
 
 Its a point wise definition
 
-### Speaker 4
+speaker_4: So this is
 
-So this is
-
-### Speaker 1
-
-So this is this has nothing to do with like you know divergences or anything This is just the definition of a convex conjugate of any convex function This is true for any convex function Okay Its also called the Fenchel conjugate Basically the definition of the conjugate function Okay Shall we move on
+speaker_1: So this is this has nothing to do with like you know divergences or anything This is just the definition of a convex conjugate of any convex function This is true for any convex function Okay Its also called the Fenchel conjugate Basically the definition of the conjugate function Okay Shall we move on
 
 
 Okay now um
@@ -2584,54 +2073,34 @@ Sorry I think I wrote it incorrectly it should be P theta
 
 Okay so this is a convex function which means that this f now I can replace this L lets say I use this yeah
 
-### Speaker 2
+speaker_2: Yes sir either the initial one should have PX or the and the last the last one should have PX because once we replace
 
-Yes sir either the initial one should have PX or the and the last the last one should have PX because once we replace
-
-### Speaker 1
-
-I can follow
+speaker_1: I can follow
 
 
 Theta x times f of p x by p theta right thats the definition
 
-### Speaker 2
+speaker_2: Once we replace uh Px by P theta we have
 
-Once we replace uh Px by P theta we have
-
-### Speaker 1
-
-Speed of place
+speaker_1: Speed of place
 
 
 So we have a break
 
-### Speaker 2
+speaker_2: So
 
-So
-
-### Speaker 1
-
-Just called it as this ratio I called as U thats all
+speaker_1: Just called it as this ratio I called as U thats all
 
 
 Its a scalar no I just called it as a scalar U f of U
 
-### Speaker 2
+speaker_2: Okay okay
 
-Okay okay
+speaker_1: Nothing complicated right I just am representing that as some scalar right yeah
 
-### Speaker 1
+speaker_2: Yes sir yes sir
 
-Nothing complicated right I just am representing that as some scalar right yeah
-
-### Speaker 2
-
-Yes sir yes sir
-
-### Speaker 1
-
-Now if of you we have this result right can be written as max of
+speaker_1: Now if of you we have this result right can be written as max of
 
 
 u minus
@@ -2666,13 +2135,9 @@ Is it okay
 
 Is it
 
-### Speaker 2
+speaker_2: Yes it is
 
-Yes it is
-
-### Speaker 1
-
-Now Ill just expand this this is integral p theta of x
+speaker_1: Now Ill just expand this this is integral p theta of x
 
 
 So were A
@@ -2725,13 +2190,9 @@ Can you see that
 
 Can we take that
 
-### Speaker 2
+speaker_2: X out
 
-X out
-
-### Speaker 1
-
-are hold on Im just saying if you can I mean you cant I will tell you how what happens if you take the max out but if you can lets say right then it will become like this now this is an expectation right over px and this is an expectation over p theta you understand that thats all now all this exercise that we did right in representing the f function using its conjugate all that was to ensure that we can somehow write the x
+speaker_1: are hold on Im just saying if you can I mean you cant I will tell you how what happens if you take the max out but if you can lets say right then it will become like this now this is an expectation right over px and this is an expectation over p theta you understand that thats all now all this exercise that we did right in representing the f function using its conjugate all that was to ensure that we can somehow write the x
 
 
 these in terms of expectations Now we are almost there We just have to somehow push this max out And if we can push this max out then we achieve whatever we want that we can write our F divergence in terms of differences in expectations over P x and P theta which we know how to compute And you see the point
@@ -2748,13 +2209,9 @@ So that needs I need some half an hour to complete this proof now So what shall 
 
 We have uh
 
-### Speaker 2
+speaker_2: Sir we have time until 1215
 
-Sir we have time until 1215
-
-### Speaker 1
-
-will obtain ten more words
+speaker_1: will obtain ten more words
 
 
 minutes might be lesser to do this anyway i will quickly run through it and do it again in the next class perhaps okay
@@ -2864,13 +2321,9 @@ See star of X
 
 It is the maximum of
 
-### Speaker 4
+speaker_4: So that way px by p theta right t star of x into px by p theta
 
-So that way px by p theta right t star of x into px by p theta
-
-### Speaker 1
-
-Is it px almost made this mistake yeah its px by p data sorry
+speaker_1: Is it px almost made this mistake yeah its px by p data sorry
 
 
 Now suppose I replace this you know this t right I solve this optimization problem and replace it with t star of x Then its okay no Both the integrals are okay I can take out d max Do you agree Because Im solving the optimization problem in EMA right At all points in x Im taking out Im finding solving that optimization problem
@@ -2950,13 +2403,9 @@ B of X times
 
 theta of x by x of x minus f of the f star of the f star f star of t of x
 
-### Speaker 2
+speaker_2: So P x of x divided by P theta of x
 
-So P x of x divided by P theta of x
-
-### Speaker 1
-
-Every time I make that mistake
+speaker_1: Every time I make that mistake
 
 
 Now lets say that let there is a Tx okay which is not equal to p star of x okay
@@ -2973,13 +2422,9 @@ disintegral and somebody tell me
 
 You understand instead of having t star of x which gives me a solution for the inner optimization at all points of x if I replace that with another function t of x what would that be
 
-### Speaker 2
+speaker_2: It slightly be smaller than the previous one
 
-It slightly be smaller than the previous one
-
-### Speaker 1
-
-will be smaller do you agree
+speaker_1: will be smaller do you agree
 
 
 It will be this will be this will be greater than or equal to
@@ -2993,24 +2438,16 @@ Because
 
 It will be either equal to d of x or less than d of x Theyre not equal to d of x
 
-### Speaker 2
+speaker_2: Sir other way around right we like t star is corresponding to the maximum value
 
-Sir other way around right we like t star is corresponding to the maximum value
-
-### Speaker 1
-
-Max p star is corresponding to the max so this is lesser and rp everything here all of these are density functions that are positive so p is p is lesser p can be lesser at all points which means that yeah its the other way around should be you know
+speaker_1: Max p star is corresponding to the max so this is lesser and rp everything here all of these are density functions that are positive so p is p is lesser p can be lesser at all points which means that yeah its the other way around should be you know
 
 
 is that this is greater correct so lower bound no correct is that okay
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-Its correct now this integral is over x Now now I can say that dx is greater than or equal to the maximum value okay that you can get
+speaker_1: Its correct now this integral is over x Now now I can say that dx is greater than or equal to the maximum value okay that you can get
 
 
 out of all Tx that belongs to this class of functions of this particular integral
@@ -3129,43 +2566,27 @@ This I will redo but yeah I will look at it and come back okay
 
 Thats all for today then so for people who are celebrating happy 10th anniversary so we can wait next class next uh
 
-### Speaker 4
+speaker_4: So just one question um for this uh theory that you covered any reference material that we can refer to
 
-So just one question um for this uh theory that you covered any reference material that we can refer to
+speaker_1: gave you no thats exactly what I
 
-### Speaker 1
+speaker_4: No no no no I mean especially on this convex optimizations and and such stuff if you have anything handy
 
-gave you no thats exactly what I
-
-### Speaker 4
-
-No no no no I mean especially on this convex optimizations and and such stuff if you have anything handy
-
-### Speaker 1
-
-Convex optimization is a standard stuff even Wikipedia says the convex conjugate and the convex functions
+speaker_1: Convex optimization is a standard stuff even Wikipedia says the convex conjugate and the convex functions
 
 
 Yeah any convex optimization book would do but you dont need I mean we are not doing convex optimization here right Beyond just defining the conjugates we are not doing anything So that I think you know standard articles in Wikipedia would suffice
 
-### Speaker 4
+speaker_4: Okay and the uh the paper that you referred I think that that would be good for reference
 
-Okay and the uh the paper that you referred I think that that would be good for reference
-
-### Speaker 1
-
-And my I have I have given you some references in my handwritten notes So now please have a look at it For instance right I mean the final conjugates and the related stuff no I have put in some of the references at the end of my handwritten notes Start reading them
+speaker_1: And my I have I have given you some references in my handwritten notes So now please have a look at it For instance right I mean the final conjugates and the related stuff no I have put in some of the references at the end of my handwritten notes Start reading them
 
 
 Okay anything else
 
-### Speaker 4
+speaker_4: I just want other questions sir sir this uh quiz will be on Moodle or
 
-I just want other questions sir sir this uh quiz will be on Moodle or
-
-### Speaker 1
-
-No no no we will do it on this thing uh Microsoft forms okay we will not use the models
+speaker_1: No no no we will do it on this thing uh Microsoft forms okay we will not use the models
 
 
 We will let you know okay again you know we will intimate that in teams and whatsapp
@@ -3179,9 +2600,7 @@ This is from the online student and you can just put in your thoughts if you hav
 
 Okay see you next week
 
-### Speaker 4
-
-Think as a my
+speaker_4: Think as a my
 
 
 Thank you sir

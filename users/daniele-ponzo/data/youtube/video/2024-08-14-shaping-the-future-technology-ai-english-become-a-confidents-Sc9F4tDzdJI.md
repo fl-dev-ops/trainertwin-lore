@@ -22,8 +22,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -31,10 +31,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So business academia and education So three main areas we could say Uh okay my obvious question would be which ones do you prefer Well feel free not to answer it
 
-So business academia and education So three main areas we could say Uh okay my obvious question would be which ones do you prefer Well feel free not to answer it
-
-### Speaker 2 · Speaker 2
-
-Oh uh it is difficult Um Ill be absolutely honest because were creating some really amazing stuff Um in terms of both the technology and experiences Um but the which one is more my favorite is difficult because I love working with people Um Ive been very lucky I have to say that uh because you know me moving from Poland very early on with English actually based on Stargate TV series or watching Star Wars over and over and over So my English was extremely bad and I was lucky to to land in Ireland and have opportunities with people that were looking at it
+speaker_2: Oh uh it is difficult Um Ill be absolutely honest because were creating some really amazing stuff Um in terms of both the technology and experiences Um but the which one is more my favorite is difficult because I love working with people Um Ive been very lucky I have to say that uh because you know me moving from Poland very early on with English actually based on Stargate TV series or watching Star Wars over and over and over So my English was extremely bad and I was lucky to to land in Ireland and have opportunities with people that were looking at it

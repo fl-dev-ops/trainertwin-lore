@@ -10,7 +10,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-Dont steal CV others Keep it genuine skil
+speaker_1: Dont steal CV others Keep it genuine skil
 
 
 ON TAIS TOPIC

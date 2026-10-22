@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,14 +24,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So the first is how do you adjust to a culture where you know the government has like strict regulations on speech and But I suppose it it takes time also to come up with a way so that you can adjust to to the way you speak the way you act
 
-So the first is how do you adjust to a culture where you know the government has like strict regulations on speech and But I suppose it it takes time also to come up with a way so that you can adjust to to the way you speak the way you act
+speaker_2: Well you mirror you see and of course a lot of these people are are very courageous as well Um when one of the times I left um Chad my passport was taken away And so uh
 
-### Speaker 2 · Speaker 2
-
-Well you mirror you see and of course a lot of these people are are very courageous as well Um when one of the times I left um Chad my passport was taken away And so uh
-
-### Speaker 1 · Speaker 1
-
-Mhm
+speaker_1: Mhm

@@ -28,8 +28,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -37,18 +37,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: But to be honest again thats the trap right Because Chileans they have a completely different culture compared to Colombians
 
-But to be honest again thats the trap right Because Chileans they have a completely different culture compared to Colombians
+speaker_2: Yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: And I can see companies and businesses and and leaders committing that mistake as well thinking that expanding throughout Latin America is the same from country to country and its not
 
-Yeah
-
-### Speaker 1 · Speaker 1
-
-And I can see companies and businesses and and leaders committing that mistake as well thinking that expanding throughout Latin America is the same from country to country and its not
-
-### Speaker 2 · Speaker 2
-
-Nope Yeah
+speaker_2: Nope Yeah

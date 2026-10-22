@@ -23,8 +23,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -32,10 +32,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: But I still you know um used that Russian in Antalya because in Antalya we have residents from Russia and Ukraine So so yeah obviously improve my language skills at that time But there was one thing and that was quite touching for me at that time and still maybe its touching And so the best thing was about um having classes from different kind of professors and different kind of uh lecturers lets say at that time Because we didnt have any chance to um take a lesson or you know listen to a a lecture from another professor That was the university and a small university at the time and the department like I think consisted of um five lecturers and two professors at the time I dont know But there you could go and choose your own professor or own lecturer or own lecture even
 
-But I still you know um used that Russian in Antalya because in Antalya we have residents from Russia and Ukraine So so yeah obviously improve my language skills at that time But there was one thing and that was quite touching for me at that time and still maybe its touching And so the best thing was about um having classes from different kind of professors and different kind of uh lecturers lets say at that time Because we didnt have any chance to um take a lesson or you know listen to a a lecture from another professor That was the university and a small university at the time and the department like I think consisted of um five lecturers and two professors at the time I dont know But there you could go and choose your own professor or own lecturer or own lecture even
-
-### Speaker 2 · Speaker 2
-
-So you can still use that Of course Yes
+speaker_2: So you can still use that Of course Yes

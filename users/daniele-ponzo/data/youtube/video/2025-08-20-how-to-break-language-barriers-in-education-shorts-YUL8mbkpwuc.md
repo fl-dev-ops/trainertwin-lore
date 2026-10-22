@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,14 +30,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Its not like I didnt speak English but its something to know about how they speak and you know um relate to to their uh speaking is one of the I guess challenges Yeah
 
-Its not like I didnt speak English but its something to know about how they speak and you know um relate to to their uh speaking is one of the I guess challenges Yeah
+speaker_2: And it is challenging because you want to blend in but at the same time you dont want to lose your identity So Yes How how do you get yourself understood and at the same time you know how do you retain who you are So thats thats one of the I suppose one of the
 
-### Speaker 2 · Speaker 2
-
-And it is challenging because you want to blend in but at the same time you dont want to lose your identity So Yes How how do you get yourself understood and at the same time you know how do you retain who you are So thats thats one of the I suppose one of the
-
-### Speaker 1 · Speaker 1
-
-Yes
+speaker_1: Yes

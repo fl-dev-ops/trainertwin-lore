@@ -18,8 +18,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -27,14 +27,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So obviously when youre on the field uh you have like a group of players and you want them to do something uh you have to work hard on motivation and and I suppose
 
-So obviously when youre on the field uh you have like a group of players and you want them to do something uh you have to work hard on motivation and and I suppose
+speaker_2: And you have to you have to under trust Yes Especially in coaching yeah if you say guys youre going to do A or B it doesnt really matter what it is They have to see that oh if I really do it it helps
 
-### Speaker 2 · Speaker 2
-
-And you have to you have to under trust Yes Especially in coaching yeah if you say guys youre going to do A or B it doesnt really matter what it is They have to see that oh if I really do it it helps
-
-### Speaker 1 · Speaker 1
-
-Aha So you see the benefits and then after that they then you build that trust
+speaker_1: Aha So you see the benefits and then after that they then you build that trust

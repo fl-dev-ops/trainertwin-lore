@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -23,7 +23,4 @@ your questions need to respond directly to what the client just said. let your s
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-When you do the right things, everything that you bring into a conversation, every question you ask, shouldn't be prepared. If you ever go into a coaching session and you ask the same questions in the same sequence, you're doing it wrong. The question you ask must come in response to something that the client has just communicated. And then the things that you bring out, your subconscious, when it hears something coming from the client, If you're allowing it to work properly, we'll then just go, okay, ask them this, and it will pick up a technique you haven't used in five years. So you're being truly responsive.
-
+speaker_1: When you do the right things, everything that you bring into a conversation, every question you ask, shouldn't be prepared. If you ever go into a coaching session and you ask the same questions in the same sequence, you're doing it wrong. The question you ask must come in response to something that the client has just communicated. And then the things that you bring out, your subconscious, when it hears something coming from the client, If you're allowing it to work properly, we'll then just go, okay, ask them this, and it will pick up a technique you haven't used in five years. So you're being truly responsive.

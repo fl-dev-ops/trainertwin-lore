@@ -6,14 +6,15 @@ date: '2026-03-12'
 duration: 42:47
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 12 : Pytorch - Building MLP and Auto Grad
 
 ## Transcript
 
-
-Hello all welcome to this uh second
+speaker_1: Hello all welcome to this uh second
 part of our uh PyTorch tutorial Now
 earlier uh part of our PyTorch tutorial
 in which we understood the idea of

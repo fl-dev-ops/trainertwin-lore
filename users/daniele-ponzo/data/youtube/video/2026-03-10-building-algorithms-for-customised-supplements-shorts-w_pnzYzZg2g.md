@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,26 +24,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: we called artificial intelligence at the time We we were a seed startup it was not artificial intelligence
 
-we called artificial intelligence at the time We we were a seed startup it was not artificial intelligence
+speaker_2: You were ahead of the time In a way
 
-### Speaker 2 · Speaker 2
+speaker_1: I mean I mean it was a real technology it was just not boom like it boom recently But uh it was a series of of cascading if and else a series of cascading conditions a very complex algorithm I wrote for um analyzing the user input from a 10 question form into understanding what kind of supplements was best for them
 
-You were ahead of the time In a way
+speaker_2: Sure So
 
-### Speaker 1 · Speaker 1
+speaker_1: And this we collaborated with um one of the co founder who was uh who already had um a food supplement brand and with a biologist
 
-I mean I mean it was a real technology it was just not boom like it boom recently But uh it was a series of of cascading if and else a series of cascading conditions a very complex algorithm I wrote for um analyzing the user input from a 10 question form into understanding what kind of supplements was best for them
-
-### Speaker 2 · Speaker 2
-
-Sure So
-
-### Speaker 1 · Speaker 1
-
-And this we collaborated with um one of the co founder who was uh who already had um a food supplement brand and with a biologist
-
-### Speaker 2 · Speaker 2
-
-Okay Well so it was like yeah full on
+speaker_2: Okay Well so it was like yeah full on

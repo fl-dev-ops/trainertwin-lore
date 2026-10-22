@@ -22,8 +22,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -31,14 +31,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: 25 years of keeping up the same the same um profession in the same environment which builds a huge comfort zone for you
 
-25 years of keeping up the same the same um profession in the same environment which builds a huge comfort zone for you
+speaker_2: Oh yeah
 
-### Speaker 2 · Speaker 2
-
-Oh yeah
-
-### Speaker 1 · Speaker 1
-
-Uh thats thats a great obstacle I mean the comfort zone what we define as comfort zones can also be considered as cages and from from another perspective So thats what it was
+speaker_1: Uh thats thats a great obstacle I mean the comfort zone what we define as comfort zones can also be considered as cages and from from another perspective So thats what it was

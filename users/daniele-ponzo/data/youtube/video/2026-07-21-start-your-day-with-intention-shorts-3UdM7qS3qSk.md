@@ -50,8 +50,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -59,22 +59,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So the wake up moment is so important because it going to set the rest of your day
 
-So the wake up moment is so important because it going to set the rest of your day
+speaker_2: I dont know about you you know but for me it has been a routine and a habit that every time I wake up now in the morning I Im thankful for Im awake Im alive and painlessly because these days tomorrow you dont know which one come first And Ive learned to make an intention I always make sure I wake up at the right side of the bed and make an intention that today is another beautiful day
 
-### Speaker 2 · Speaker 2
+speaker_1: I think thats the best approach Again going back to the optimism to the energy and I guess thats the same energy you bring with you in your job in your private life And and then yeah moving from their place of optimism to connection to listening to empathy So I think its the best the perfect recipe
 
-I dont know about you you know but for me it has been a routine and a habit that every time I wake up now in the morning I Im thankful for Im awake Im alive and painlessly because these days tomorrow you dont know which one come first And Ive learned to make an intention I always make sure I wake up at the right side of the bed and make an intention that today is another beautiful day
+speaker_2: Thank you
 
-### Speaker 1 · Speaker 1
-
-I think thats the best approach Again going back to the optimism to the energy and I guess thats the same energy you bring with you in your job in your private life And and then yeah moving from their place of optimism to connection to listening to empathy So I think its the best the perfect recipe
-
-### Speaker 2 · Speaker 2
-
-Thank you
-
-### Speaker 1 · Speaker 1
-
-I would say
+speaker_1: I would say

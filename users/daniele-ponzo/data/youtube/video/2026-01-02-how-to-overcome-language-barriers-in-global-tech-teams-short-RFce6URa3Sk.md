@@ -10,7 +10,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,6 +18,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I remember a few months ago someone came to me saying look I am there in this team and everybody is chatting using whatever slack or whatever they making jokes and then everybody starts laughing and Im there caught in the middle left behind the only one whos not laughing you know So I have two choices I laugh pretending I understand I ask them to explain it and then its not funny anymore Or I finally try to understand whats going on
+speaker_1: I remember a few months ago someone came to me saying look I am there in this team and everybody is chatting using whatever slack or whatever they making jokes and then everybody starts laughing and Im there caught in the middle left behind the only one whos not laughing you know So I have two choices I laugh pretending I understand I ask them to explain it and then its not funny anymore Or I finally try to understand whats going on

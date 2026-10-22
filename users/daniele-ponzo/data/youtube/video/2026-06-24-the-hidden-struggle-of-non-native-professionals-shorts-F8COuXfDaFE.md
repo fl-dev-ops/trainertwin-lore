@@ -25,8 +25,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -34,18 +34,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I work with non native English speaking professionals helping them improve their language skills but in order to to do a job usually in order to improve their career whether communicate with people whether thats clients or you know colleagues or whoever it is But Ive realized that its more than just the language them itself Its not just about getting everything perfect using the perfect word getting the grammar exactly right I know were going to get into that in a moment but
 
-I work with non native English speaking professionals helping them improve their language skills but in order to to do a job usually in order to improve their career whether communicate with people whether thats clients or you know colleagues or whoever it is But Ive realized that its more than just the language them itself Its not just about getting everything perfect using the perfect word getting the grammar exactly right I know were going to get into that in a moment but
+speaker_2: Yeah yeah you are really bringing a lot of the monsters here to the table the perfectionism the fear
 
-### Speaker 2 · Speaker 2
+speaker_1: Lets get them all out then
 
-Yeah yeah you are really bringing a lot of the monsters here to the table the perfectionism the fear
-
-### Speaker 1 · Speaker 1
-
-Lets get them all out then
-
-### Speaker 2 · Speaker 2
-
-But there are many monsters indeed
+speaker_2: But there are many monsters indeed

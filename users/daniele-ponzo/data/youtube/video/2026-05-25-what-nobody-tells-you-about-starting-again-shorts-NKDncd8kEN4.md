@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-out the systems uh which were slowing down my process So I was sometimes stuck But on the other hand I always had the uh this this encouragement of um being supported by professionals who experienced the same thing Um the transition never happens out of a sudden You always have to adopt yourself you have to experience and face uh with some certain emotions up and the ups and downs And but the thing is that keeping on the track being persistent and keeping always determined and also being surrounded um by the people who have already experienced who have already been there That is truly encouraging
+speaker_1: out the systems uh which were slowing down my process So I was sometimes stuck But on the other hand I always had the uh this this encouragement of um being supported by professionals who experienced the same thing Um the transition never happens out of a sudden You always have to adopt yourself you have to experience and face uh with some certain emotions up and the ups and downs And but the thing is that keeping on the track being persistent and keeping always determined and also being surrounded um by the people who have already experienced who have already been there That is truly encouraging

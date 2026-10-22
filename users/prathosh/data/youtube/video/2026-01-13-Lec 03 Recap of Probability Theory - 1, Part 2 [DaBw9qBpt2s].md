@@ -6,14 +6,15 @@ date: '2026-01-13'
 duration: 14:30
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 03 Recap of Probability Theory - 1, Part 2
 
 ## Transcript
 
-
-So now you have the probability measure
+speaker_1: So now you have the probability measure
 So what do you do with this Uh youll
 have to finally solve that problem of as
 I say as as he asked where does it fit

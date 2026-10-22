@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,20 +19,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-So imagine you have identified a major problem at work It could be a problem with your operations or any other major challenge you are facing You have a pretty good idea on why this problem is happening and what are the implications to the business and you do have a little bit of an idea on how to solve the problem But hold on there is one big question you need to still ask yourself How will you tell the boss
+speaker_1: So imagine you have identified a major problem at work It could be a problem with your operations or any other major challenge you are facing You have a pretty good idea on why this problem is happening and what are the implications to the business and you do have a little bit of an idea on how to solve the problem But hold on there is one big question you need to still ask yourself How will you tell the boss
 
 
 Well in this video I will share with you a basic storytelling structure which will help you in framing communication to your leadership or to your line manager especially when the news is not so good
 
-### Speaker 2
+speaker_2: My name is Jamil Hai and Ive been working in supply chain management positions across South Asia Middle East and North America for the last two decades and my mission is to help you build real life skills for your job and career that they dont teach you in college
 
-My name is Jamil Hai and Ive been working in supply chain management positions across South Asia Middle East and North America for the last two decades and my mission is to help you build real life skills for your job and career that they dont teach you in college
-
-### Speaker 1
-
-So the framework Im about to share with you is called the Situation Complication and Resolution Framework or SCR I will share with you how this framework works and also give you a real life example from my own industry So the way this works is that you start by sharing whats happening give an assessment of the situation try to be as balanced as possible take the emotions out use more facts Once you have shared the assessment of the situation the next thing you do is you talk about the complication
+speaker_1: So the framework Im about to share with you is called the Situation Complication and Resolution Framework or SCR I will share with you how this framework works and also give you a real life example from my own industry So the way this works is that you start by sharing whats happening give an assessment of the situation try to be as balanced as possible take the emotions out use more facts Once you have shared the assessment of the situation the next thing you do is you talk about the complication
 
 
 You have the situation that you have but what are the complications associated with this and what are the implications associated with this So you further explain the challenge and once again you use as much data as possible to explain it so that your claims or your assessment of the situation and the complications you are sharing are backed up by strong data Once you have done that then you move to the final step of this process which is the resolution which is where you share your proposed solution and why do you think

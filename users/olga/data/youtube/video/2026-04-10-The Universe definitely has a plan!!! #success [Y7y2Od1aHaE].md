@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Is this the real weather of Dubai in the almost mid of April when you need some sort of a jacket and the skies are like this I think were all in the middle of the scene of some horror movie Whats gonna happen to Dubai Will we be the one who survived that
+speaker_1: Is this the real weather of Dubai in the almost mid of April when you need some sort of a jacket and the skies are like this I think were all in the middle of the scene of some horror movie Whats gonna happen to Dubai Will we be the one who survived that

@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Here’s a different definition of leaders vs managers. Do you agree?
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Here's the definition of leadership versus management that you might not have heard of. A leader serves a cause, a vision, and they invite people to that journey. If people tag along, they are leaders. If they don't, sorry, they're not. A manager serves the team who helps us get to that cause, to that vision. The team is never there for the manager. It's always the other way around. Do you agree with this definition? Let me know.
-
+speaker_1: Here's the definition of leadership versus management that you might not have heard of. A leader serves a cause, a vision, and they invite people to that journey. If people tag along, they are leaders. If they don't, sorry, they're not. A manager serves the team who helps us get to that cause, to that vision. The team is never there for the manager. It's always the other way around. Do you agree with this definition? Let me know.
 
 ## Comments (1)
 

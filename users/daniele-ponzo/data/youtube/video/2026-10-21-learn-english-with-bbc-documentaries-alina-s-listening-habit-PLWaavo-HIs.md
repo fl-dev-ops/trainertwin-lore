@@ -30,7 +30,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -38,6 +38,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And another thing I found a lot of BBC documentaries I you know I love uh David Attenborough Uh from my point of view hes just amazing person amazing narrator And I uh I watched uh his documentaries every evening Instead of just some uh films I watched documentaries with him And his clear uh pronunciation and his clear language uh helped me a lot and I enjoyed a lot
+speaker_1: And another thing I found a lot of BBC documentaries I you know I love uh David Attenborough Uh from my point of view hes just amazing person amazing narrator And I uh I watched uh his documentaries every evening Instead of just some uh films I watched documentaries with him And his clear uh pronunciation and his clear language uh helped me a lot and I enjoyed a lot

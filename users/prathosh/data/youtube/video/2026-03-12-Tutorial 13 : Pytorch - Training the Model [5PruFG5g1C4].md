@@ -6,14 +6,15 @@ date: '2026-03-12'
 duration: 33:36
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 13 : Pytorch - Training the Model
 
 ## Transcript
 
-
-Hello all Welcome
+speaker_1: Hello all Welcome
 to the third part of the tutorials on
 PyTorch
 In this part now we shall be looking at

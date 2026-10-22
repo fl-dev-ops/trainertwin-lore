@@ -17,7 +17,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -25,6 +25,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-This is precious advice Uh Luther thank you very much for that Um look its been a pleasure talking to you I Im going to take notes because I I love this thing about emotions and thats something that not everybody mentions so I thank you for that And yeah its really its been a pleasure Luther Thank you very much for being here with me
+speaker_1: This is precious advice Uh Luther thank you very much for that Um look its been a pleasure talking to you I Im going to take notes because I I love this thing about emotions and thats something that not everybody mentions so I thank you for that And yeah its really its been a pleasure Luther Thank you very much for being here with me

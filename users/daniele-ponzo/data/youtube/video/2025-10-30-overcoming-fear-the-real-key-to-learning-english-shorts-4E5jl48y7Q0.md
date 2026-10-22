@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,22 +25,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Um and actually there is a logical and biological explanation to this because your fear system is so powerful that once you once you have it like all your internal organs they go into this safe mode you know like fight or flight and your inner ear is affected by this So sometimes when you dont dont hear someone talking to you in English its just that youre feeling so much fear that it prevents you from understanding from even hearing the person properly
 
-Um and actually there is a logical and biological explanation to this because your fear system is so powerful that once you once you have it like all your internal organs they go into this safe mode you know like fight or flight and your inner ear is affected by this So sometimes when you dont dont hear someone talking to you in English its just that youre feeling so much fear that it prevents you from understanding from even hearing the person properly
+speaker_2: Youre going to emergency mode in a way
 
-### Speaker 2 · Speaker 2
+speaker_1: So working on emotions can really help our learners you know in in so many ways
 
-Youre going to emergency mode in a way
+speaker_2: So that proves that you know its not only vocabulary or grammar but theres more to be done And thats great you know to have that sort of experience so that you can go and say look uh we can work on emotions as well which is a big part of any learning path any learning journey in my opinion
 
-### Speaker 1 · Speaker 1
-
-So working on emotions can really help our learners you know in in so many ways
-
-### Speaker 2 · Speaker 2
-
-So that proves that you know its not only vocabulary or grammar but theres more to be done And thats great you know to have that sort of experience so that you can go and say look uh we can work on emotions as well which is a big part of any learning path any learning journey in my opinion
-
-### Speaker 1 · Speaker 1
-
-I I feel that its in a way it frees my students a little bit Its not you its your emotions What what makes you stressed you know whats the reason for this
+speaker_1: I I feel that its in a way it frees my students a little bit Its not you its your emotions What what makes you stressed you know whats the reason for this

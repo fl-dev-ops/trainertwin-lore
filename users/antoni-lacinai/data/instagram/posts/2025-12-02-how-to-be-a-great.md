@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -24,7 +24,4 @@ Get a copy and read it ^_^
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Do you want to lead conferences, seminars, panel discussions, but you don't really know how to do it? Here's the book, moderate great with all the insights and tips you can have from an experienced moderator, namely me. I've been doing this since the late 90s myself, so I know the tricks, I know the ropes, and I've put everything in that book for you. So, buy it, but most of all, read it so that you can become a world-class moderator yourself.
-
+speaker_1: Do you want to lead conferences, seminars, panel discussions, but you don't really know how to do it? Here's the book, moderate great with all the insights and tips you can have from an experienced moderator, namely me. I've been doing this since the late 90s myself, so I know the tricks, I know the ropes, and I've put everything in that book for you. So, buy it, but most of all, read it so that you can become a world-class moderator yourself.

@@ -6,14 +6,15 @@ date: '2026-02-18'
 duration: 30:58
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 10 Part B : Numerical Example on MLE and MAP Estimate
 
 ## Transcript
 
-
-Hello all welcome to the second part of
+speaker_1: Hello all welcome to the second part of
 this tutorial in which we will be
 solving question on MLE and map
 estimate In the previous uh uh part of

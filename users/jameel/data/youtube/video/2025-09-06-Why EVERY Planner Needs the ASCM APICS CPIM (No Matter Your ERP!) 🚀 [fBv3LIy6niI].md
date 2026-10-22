@@ -8,7 +8,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,4 +17,4 @@ speakers:
 
 ## Transcript
 
-Now what is the ASCM CPIM model So CPIM stands for Certified in Planning and Inventory Management So as the name goes it is a certification that takes you into the very depths of planning and inventory management And that is why I think its such a good certification for the planners And what CPIM helps you do better at your job is things like increasing inventory accuracy reducing inventory improving forecasting improving the SNOP or the sales and operations planning process managing capacity and resource planning and most importantly work more productively with your companys ERP system and whether your ERP system is SAP based or Oracle based doesnt matter It gives you a general framework of how ERPs work and I think thats why its such a good certification
+speaker_1: Now what is the ASCM CPIM model So CPIM stands for Certified in Planning and Inventory Management So as the name goes it is a certification that takes you into the very depths of planning and inventory management And that is why I think its such a good certification for the planners And what CPIM helps you do better at your job is things like increasing inventory accuracy reducing inventory improving forecasting improving the SNOP or the sales and operations planning process managing capacity and resource planning and most importantly work more productively with your companys ERP system and whether your ERP system is SAP based or Oracle based doesnt matter It gives you a general framework of how ERPs work and I think thats why its such a good certification

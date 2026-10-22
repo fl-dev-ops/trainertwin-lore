@@ -6,14 +6,15 @@ date: '2026-04-02'
 duration: 40:08
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 58 Ada-Boosting
 
 ## Transcript
 
-
-Welcome everyone to this course
+speaker_1: Welcome everyone to this course
 Uh in this lecture we will continue our
 discussions on the boosting algorithms
 So last time uh we started from the

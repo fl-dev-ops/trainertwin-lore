@@ -11,8 +11,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -20,18 +20,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: with many different age levels I realized that learning is not only about learning vocabulary or grammar It is also about how people structure ideas how they think how they approach learning language how confidently they communicate complex thoughts So all these insights particularly in COVID 19 period somehow the period accelerated my professional development I stepped into a second bachelors degree and I finished it and I also finished my masters degree in English language teaching and an international university and also gained some new skills which opened new doors and leading me to new paths like mind mapping
 
-with many different age levels I realized that learning is not only about learning vocabulary or grammar It is also about how people structure ideas how they think how they approach learning language how confidently they communicate complex thoughts So all these insights particularly in COVID 19 period somehow the period accelerated my professional development I stepped into a second bachelors degree and I finished it and I also finished my masters degree in English language teaching and an international university and also gained some new skills which opened new doors and leading me to new paths like mind mapping
+speaker_2: Youre not doing youre not doing teaching these days are you
 
-### Speaker 2 · Speaker 2
+speaker_1: No Im not
 
-Youre not doing youre not doing teaching these days are you
-
-### Speaker 1 · Speaker 1
-
-No Im not
-
-### Speaker 2 · Speaker 2
-
-Exactly Yeah this is why Im curious Yeah so tell us a bit more yeah about that yeah
+speaker_2: Exactly Yeah this is why Im curious Yeah so tell us a bit more yeah about that yeah

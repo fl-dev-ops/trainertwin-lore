@@ -39,7 +39,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -47,6 +47,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And if you cannot do that if you cannot sell yourself you will never be happy with your job because you cant be free like an entrepreneur or you cant find your dream job as an employee Because you will stick with what you have in some way or another or youll stay unemployed for quite a while because you cant you cant do it right Because especially in economic economic crisis or something like that you will have the problem that people will um basically stuck where they are because they they cant make the leap into another role which is most often the problem of communication So you of course it is a little bit like marketing then its a form of sales So you can write a lot of these CVs and but this is not how you find your dream job And to define a dream job you need to be more present
+speaker_1: And if you cannot do that if you cannot sell yourself you will never be happy with your job because you cant be free like an entrepreneur or you cant find your dream job as an employee Because you will stick with what you have in some way or another or youll stay unemployed for quite a while because you cant you cant do it right Because especially in economic economic crisis or something like that you will have the problem that people will um basically stuck where they are because they they cant make the leap into another role which is most often the problem of communication So you of course it is a little bit like marketing then its a form of sales So you can write a lot of these CVs and but this is not how you find your dream job And to define a dream job you need to be more present

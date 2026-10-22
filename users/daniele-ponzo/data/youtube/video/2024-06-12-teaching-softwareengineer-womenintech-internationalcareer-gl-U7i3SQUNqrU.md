@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,10 +30,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And and one thing that I suppose is is particularly uh interesting is the fact that you share your knowledge but uh and whatever you share is not limited obviously to the to the region you are working on but you share uh with everybody who has an interest in these topics Um and so like why Why do you do that Why do you share your knowledge
 
-And and one thing that I suppose is is particularly uh interesting is the fact that you share your knowledge but uh and whatever you share is not limited obviously to the to the region you are working on but you share uh with everybody who has an interest in these topics Um and so like why Why do you do that Why do you share your knowledge
-
-### Speaker 2 · Speaker 2
-
-Why Why Well I mean I dont have any reasonable explanation but uh it kind of comes from inside so I need to share my my knowledge so that uh I know that it kind of it doesnt die with that within me Wow Rather um yeah continues living in um uh in the others work
+speaker_2: Why Why Well I mean I dont have any reasonable explanation but uh it kind of comes from inside so I need to share my my knowledge so that uh I know that it kind of it doesnt die with that within me Wow Rather um yeah continues living in um uh in the others work

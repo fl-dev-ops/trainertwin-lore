@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Arbetsglädje. Vad är det egentligen?
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Hej, hälsningar från Ystad trakten där vi har den här utsikten utanför arbetsplats. Hör ni, arbetsglädje. Vad betyder det? Betyder det glad i arbetet eller betyder det att arbeta för att få glädje? Jag tror att det betyder det sista att vi behöver arbeta, jobba för vår glädje. Det är mycket lättare att vara negativ, grinig, kritisk än att vara glad, positiv, konstruktiv. Så ja, jag tror att jag fick det från Thomas Eriksson, en kollega till mig. Arbetsglädje lika med arbeta sig fram till glädje. Vad tror du om det?
-
+speaker_1: Hej, hälsningar från Ystad trakten där vi har den här utsikten utanför arbetsplats. Hör ni, arbetsglädje. Vad betyder det? Betyder det glad i arbetet eller betyder det att arbeta för att få glädje? Jag tror att det betyder det sista att vi behöver arbeta, jobba för vår glädje. Det är mycket lättare att vara negativ, grinig, kritisk än att vara glad, positiv, konstruktiv. Så ja, jag tror att jag fick det från Thomas Eriksson, en kollega till mig. Arbetsglädje lika med arbeta sig fram till glädje. Vad tror du om det?
 
 ## Comments (2)
 

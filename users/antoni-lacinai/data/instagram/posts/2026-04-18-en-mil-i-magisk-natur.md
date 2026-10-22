@@ -10,7 +10,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -18,7 +18,4 @@ En mil i magisk natur 🌳🌿🌱🌼💚
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-When I was young, I lived in a world of dreams of moods and myths and illusionary schemes. Though now I'm much more grown up, I fear that I must own up to the fact that I'm in doubt of what the modern cynics shout. They say it's spring. This feeling light as a feather. They say this thing, this magic we share together came with the weather too. They say it's May. That's made me daft as a daisy. It's May, they say, that gave the whole world this crazy, heaven
-
+speaker_1: When I was young, I lived in a world of dreams of moods and myths and illusionary schemes. Though now I'm much more grown up, I fear that I must own up to the fact that I'm in doubt of what the modern cynics shout. They say it's spring. This feeling light as a feather. They say this thing, this magic we share together came with the weather too. They say it's May. That's made me daft as a daisy. It's May, they say, that gave the whole world this crazy, heaven

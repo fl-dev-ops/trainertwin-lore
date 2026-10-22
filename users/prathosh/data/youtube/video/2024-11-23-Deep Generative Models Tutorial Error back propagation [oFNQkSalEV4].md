@@ -8,20 +8,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Deep Generative Models Tutorial Error back propagation
 
 ## Transcript
 
-
-### Speaker 1
-
-And you can see my screen right Okay
+speaker_1: And you can see my screen right Okay
 
 
 Yeah I hope you can see my screen So what well be doing today is well be talking about back propagation
@@ -287,13 +284,9 @@ So this is known as the mean squared error and this is what we want to minimize
 
 So uh in order to minimize any function the the most yeah uh there is a hand raised so
 
-### Speaker 2
+speaker_2: Yeah I have a question Can you please just tell me what the theta denotes Sorry I mean I did not understand it fully
 
-Yeah I have a question Can you please just tell me what the theta denotes Sorry I mean I did not understand it fully
-
-### Speaker 1
-
-Okay yeah sure So theta is the set of all weights these connections I told you right These neural connections this connection from A12 to A21 to A12 So things like these are connections between nodes of the neural network And these are parameterized by some weight So those weights are what if you collect all those weights and put them into one set those are
+speaker_1: Okay yeah sure So theta is the set of all weights these connections I told you right These neural connections this connection from A12 to A21 to A12 So things like these are connections between nodes of the neural network And these are parameterized by some weight So those weights are what if you collect all those weights and put them into one set those are
 
 
 Yeah sorry sorry Yeah so I was saying the theta is the collection of all weight weights of the neural network So Ill write theta as
@@ -310,13 +303,9 @@ the weight connecting node one of layer one to node one of layer two is going to
 
 So its just a set of connections that we want to learn in the neural network So Ill come to how we learn these So does that answer your question
 
-### Speaker 2
+speaker_2: Yes thank you
 
-Yes thank you
-
-### Speaker 1
-
-Okay so moving forward like I said our goal is to minimize this loss function
+speaker_1: Okay so moving forward like I said our goal is to minimize this loss function
 
 
 And that helps us reduce our error and learn a particular task properly By learning a task I mean these predictions why that we get we want them to be as we want them to be very good or close to what we desire So that is the goal of learning a neural network
@@ -414,21 +403,13 @@ Okay so lets not call it output Lets just keep it as node output
 
 Uh this is yeah uh one question yeah or two questions
 
-### Speaker 3
+speaker_3: Hi sorry am I on the
 
-Hi sorry am I on the
+speaker_1: Yeah yeah yeah tell me
 
-### Speaker 1
+speaker_3: Yeah yeah tell me I just wanted to know about why we in the middle layer right Can we scroll a little up I wanted to see that figure Yeah why is there no connection between A1 2 and A2 1 Can that also be called as a neural network I mean
 
-Yeah yeah yeah tell me
-
-### Speaker 3
-
-Yeah yeah tell me I just wanted to know about why we in the middle layer right Can we scroll a little up I wanted to see that figure Yeah why is there no connection between A1 2 and A2 1 Can that also be called as a neural network I mean
-
-### Speaker 1
-
-No typically thats not how Okay so let me give you the Let me give you a real life example So every living being has a nervous system right
+speaker_1: No typically thats not how Okay so let me give you the Let me give you a real life example So every living being has a nervous system right
 
 
 In that nervous system uh you have you you have some neurons that are like this
@@ -436,13 +417,9 @@ In that nervous system uh you have you you have some neurons that are like this
 
 And then you have these synaptic connections connecting one nerve to another
 
-### Speaker 3
+speaker_3: Okay
 
-Okay
-
-### Speaker 1
-
-So okay I think my screen is yeah okay So what these nodes are is actually this point
+speaker_1: So okay I think my screen is yeah okay So what these nodes are is actually this point
 
 
 the starting of the branch that connects one node to another node So these nodes are typically like lets take the optic nerve for example So the optic nerve is typically a bunch of nerves So these bunch of nerves have separate nodes in each of them and they are typically when you have multiple connect when you have a bunch of nerves like this you dont really
@@ -456,37 +433,21 @@ because the the main reason is if lets say lets say some problem happens with th
 
 Like essentially what we are trying to do is we are trying to parallelize these nodes so that if one thing goes wrong you can you can always have you can always learn with another node or things like that But of course
 
-### Speaker 3
+speaker_3: Okay
 
-Okay
+speaker_1: This is this is not not an exact answer to your question but this the typically this is the convention that you follow in in deep learning and in and neural networks the you dont have Okay so you dont have connection between these because you have a you have a very nice dense connection between these nodes between layers of nodes
 
-### Speaker 1
+speaker_3: But to the end of the day
 
-This is this is not not an exact answer to your question but this the typically this is the convention that you follow in in deep learning and in and neural networks the you dont have Okay so you dont have connection between these because you have a you have a very nice dense connection between these nodes between layers of nodes
+speaker_1: Oh yeah
 
-### Speaker 3
+speaker_3: Sorry just to follow up And the difference between A12 and A22 is actually the weights currently right Because both are giving the same inputs but with a different weight
 
-But to the end of the day
+speaker_1: He hasnt
 
-### Speaker 1
+speaker_3: But the bait can differ right thats it right
 
-Oh yeah
-
-### Speaker 3
-
-Sorry just to follow up And the difference between A12 and A22 is actually the weights currently right Because both are giving the same inputs but with a different weight
-
-### Speaker 1
-
-He hasnt
-
-### Speaker 3
-
-But the bait can differ right thats it right
-
-### Speaker 1
-
-Okay
+speaker_1: Okay
 
 
 Yeah correct So you can notice that if x1 and x2 are different then a12 and a22 are different right Because if you look at a12 it is some function of w11a1 and w21a2 But if you look at a22 it is the activation of so a22 is this one right So a22 is this one And it comes from
@@ -509,13 +470,9 @@ W uh two two one
 
 A21 Okay So you can see that these two are different right
 
-### Speaker 3
+speaker_3: Sure yeah
 
-Sure yeah
-
-### Speaker 1
-
-Yeah so
+speaker_1: Yeah so
 
 
 Yeah okay So basically this is how we go forward in a neural network which is taking the input to the output And this entire process is known as the forward process
@@ -565,13 +522,9 @@ Copy this once again
 
 Yeah sure go ahead
 
-### Speaker 3
+speaker_3: an additive property where g of w112 a12 can we can we move uh w weights like can we apply the function on the different weights then add them like g of w11 a1 plus g of w21 a2
 
-an additive property where g of w112 a12 can we can we move uh w weights like can we apply the function on the different weights then add them like g of w11 a1 plus g of w21 a2
-
-### Speaker 1
-
-Sure you can definitely It is possible but generally in neural networks for a particular layer you have a particular G
+speaker_1: Sure you can definitely It is possible but generally in neural networks for a particular layer you have a particular G
 
 
 So for example layer one so okay maybe this layer could have a ReLU activation function and maybe this can have a sigmoid
@@ -582,21 +535,13 @@ So g is equal to ReLU here g is equal to sigmoid and you can you you you general
 
 Theres another question
 
-### Speaker 2
+speaker_2: Uh just a small query that how initially we are assigning these weights I mean I understand later maybe through the backpropagation we correct it but initially we have to assign some numbers against these weights right
 
-Uh just a small query that how initially we are assigning these weights I mean I understand later maybe through the backpropagation we correct it but initially we have to assign some numbers against these weights right
+speaker_1: Yeah yeah so I I was so that is gonna be my follow up discussion okay
 
-### Speaker 1
+speaker_2: Okay okay sorry
 
-Yeah yeah so I I was so that is gonna be my follow up discussion okay
-
-### Speaker 2
-
-Okay okay sorry
-
-### Speaker 1
-
-These beta yeah no its okay its a good question actually so
+speaker_1: These beta yeah no its okay its a good question actually so
 
 
 So one important note is that weights are initialized
@@ -619,13 +564,9 @@ Or I should say initialized randomly
 
 So uh yeah uh I have a couple more questions yeah
 
-### Speaker 4
+speaker_4: Uh sir what is the significance of this activation function like will it be covered later on
 
-Uh sir what is the significance of this activation function like will it be covered later on
-
-### Speaker 1
-
-Uh yeah I mean okay so the role of the activation function is to limit the these outputs these node outputs to be in a certain range So you dont
+speaker_1: Uh yeah I mean okay so the role of the activation function is to limit the these outputs these node outputs to be in a certain range So you dont
 
 
 Yeah sorry I got cut off Yeah so I was saying the role of these activation functions is to somewhat limit the values of these node outputs So you have these node outputs right A1 2 8 A2 2 and all these things So you want to limit them to certain range For example if you take the sigmoid activation so g of x is lets say sigmoid of x which is 1 by 1 plus e power minus x what
@@ -645,17 +586,11 @@ Okay y is equal to sigma of x what this does is that it takes all your values fr
 
 from minus infinity to infinity and it brings it to the range of zero to one okay so in in neural networks you dont want your values to blow up so that your y hat becomes like one lakh ten lakhs and all so you you dont want that to happen so you want to control your you want to control
 
-### Speaker 3
+speaker_3: Im not sure what that means
 
-Im not sure what that means
+speaker_4: We want to like contain it in some range
 
-### Speaker 4
-
-We want to like contain it in some range
-
-### Speaker 1
-
-Good yes
+speaker_1: Good yes
 
 
 And so activations basically control your node output
@@ -696,29 +631,17 @@ which is basically anything less than zero it gives zero and anything greater th
 
 So this is so depending on your application you will choose you will decide to choose different activation functions So hope thats clear Yeah theres another question
 
-### Speaker 2
+speaker_2: they are very small in number theyre not big I believe the reason you just say you dont want to blow it up is that correct or and when so
 
-they are very small in number theyre not big I believe the reason you just say you dont want to blow it up is that correct or and when so
+speaker_1: And when so yeah I your voice was breaking in the middle can you repeat the first part of your question
 
-### Speaker 1
+speaker_2: generally
 
-And when so yeah I your voice was breaking in the middle can you repeat the first part of your question
+speaker_1: what I have seen the weight and biases for this neural network they are very small in numbers they are not pretty big correct correct so so there has to be a reason behind that I believe you just explained we dont want to explode the final y hat correct okay and second thing is that when we initialize it randomly do we also define what kind of thing Im looking
 
-### Speaker 2
+speaker_3: Fine
 
-generally
-
-### Speaker 1
-
-what I have seen the weight and biases for this neural network they are very small in numbers they are not pretty big correct correct so so there has to be a reason behind that I believe you just explained we dont want to explode the final y hat correct okay and second thing is that when we initialize it randomly do we also define what kind of thing Im looking
-
-### Speaker 3
-
-Fine
-
-### Speaker 1
-
-Using your voice I cant hear
+speaker_1: Using your voice I cant hear
 
 
 Let me try once again
@@ -819,48 +742,28 @@ Gradient descent
 
 Yeah thats a question
 
-### Speaker 4
+speaker_4: Uh so in this mini uh loss minimize loss function this y hat is also the output of this neural network
 
-Uh so in this mini uh loss minimize loss function this y hat is also the output of this neural network
+speaker_1: Yeah
 
-### Speaker 1
+speaker_4: I had is also the output of neural network right
 
-Yeah
+speaker_1: Yeah I was wondering
 
-### Speaker 4
+speaker_4: So cool
 
-I had is also the output of neural network right
+speaker_1: Yeah yeah I sorry I missed the Y hat I wanted it to be Y
 
-### Speaker 1
+speaker_4: Why not Yeah
 
-Yeah I was wondering
+speaker_1: So yeah yeah yeah sorry sorry sorry my mistake This should be white Yeah okay thank you
 
-### Speaker 4
-
-So cool
-
-### Speaker 1
-
-Yeah yeah I sorry I missed the Y hat I wanted it to be Y
-
-### Speaker 4
-
-Why not Yeah
-
-### Speaker 1
-
-So yeah yeah yeah sorry sorry sorry my mistake This should be white Yeah okay thank you
-
-### Speaker 3
-
-Sir I have one question So I have a general doubt So when we calculate the loss in a network the network is not aware of the loss function right Initially we just calculate a numerical loss and its some numerical data which we have
+speaker_3: Sir I have one question So I have a general doubt So when we calculate the loss in a network the network is not aware of the loss function right Initially we just calculate a numerical loss and its some numerical data which we have
 
 
 Correct And then how do we calculate the gradient on some numerical data with respect to a parameter Just wondering
 
-### Speaker 1
-
-So okay yeah thats a good question The laws is what we define
+speaker_1: So okay yeah thats a good question The laws is what we define
 
 
 is user defined so this this is a function and it is a function of x and theta correct so uh regardless of regardless of uh whether your data is numerical or or synthesized or analytical whatever it may be you can always compute the derivative of your loss with respect to your parameters so this since this is what we define and it is a we define we can we can compute the gradient of
@@ -871,21 +774,13 @@ this and we can and we can use that to update our neural network okay
 
 Uh is that clear or no
 
-### Speaker 3
+speaker_3: Yes sir
 
-Yes sir
+speaker_1: Yeah another question
 
-### Speaker 1
+speaker_2: you obviously
 
-Yeah another question
-
-### Speaker 2
-
-you obviously
-
-### Speaker 1
-
-So you have your prediction right Y hat from the network So this is the prediction And what is Y hat Y hat is actually F theta of X It is what your neural network gives you So what your neural network gives you is the prediction And what you have is your training data X X I Y I And what youll do is youll compare
+speaker_1: So you have your prediction right Y hat from the network So this is the prediction And what is Y hat Y hat is actually F theta of X It is what your neural network gives you So what your neural network gives you is the prediction And what you have is your training data X X I Y I And what youll do is youll compare
 
 
 Youll compare prediction
@@ -917,25 +812,15 @@ So ground truth is what we desire and prediction is what your neural network has
 
 Uh is that clear
 
-### Speaker 3
+speaker_3: Uh yes but the loss will be the same like even if the F F naught the prediction is higher for
 
-Uh yes but the loss will be the same like even if the F F naught the prediction is higher for
+speaker_2: example by five compared to the truth or if its lower by five the loss function will be will give you the same value right
 
-### Speaker 2
+speaker_1: Yes it will yeah
 
-example by five compared to the truth or if its lower by five the loss function will be will give you the same value right
+speaker_2: So then how do we know like we have to increase the weights or we have to decrease the weights and thats enough
 
-### Speaker 1
-
-Yes it will yeah
-
-### Speaker 2
-
-So then how do we know like we have to increase the weights or we have to decrease the weights and thats enough
-
-### Speaker 1
-
-So that is what so the moment you have some error that is not zero that is greater than zero it means that you are off from your ground truth correct So you gave the example that f theta of xi might be five higher or five lower It means that your loss is half into five square 25 square by sorry 25 by two thats 12 point 5 That means that there is some difference between your
+speaker_1: So that is what so the moment you have some error that is not zero that is greater than zero it means that you are off from your ground truth correct So you gave the example that f theta of xi might be five higher or five lower It means that your loss is half into five square 25 square by sorry 25 by two thats 12 point 5 That means that there is some difference between your
 
 
 yi and f theta of xi that you want to minimize You want your f theta of xi to be as close to yi as possible So that is when you have a loss that is non zero that is what you want to minimize as much as possible And that is what will update your weights and it will tell those weights See here with your current value you are giving an error of 12 point 5 but can you can you update it so that that 12 point 5 becomes lower Okay
@@ -943,24 +828,16 @@ yi and f theta of xi that you want to minimize You want your f theta of xi to be
 
 Is that clear
 
-### Speaker 3
+speaker_3: Oh yes thank you
 
-Oh yes thank you
-
-### Speaker 1
-
-Okay sure Okay great Lets go ahead So we so this was our back propagation equation maybe
+speaker_1: Okay sure Okay great Lets go ahead So we so this was our back propagation equation maybe
 
 
 So this is
 
-### Speaker 4
+speaker_4: where this alpha is some constant
 
-where this alpha is some constant
-
-### Speaker 1
-
-Yeah Ill Ill come to yeah so this alpha over here
+speaker_1: Yeah Ill Ill come to yeah so this alpha over here
 
 
 This is a constant
@@ -1007,29 +884,17 @@ Meaning that every weight is updated by some constant times the rate of change o
 
 So I hope this much is clear If you have any questions you can ask until now Ill go on to Ill go on to derive the
 
-### Speaker 3
+speaker_3: One query
 
-One query
+speaker_1: Yeah yeah go ahead
 
-### Speaker 1
+speaker_3: This constant will be common for all layers
 
-Yeah yeah go ahead
+speaker_1: Yes yes it will be constant for all layers all weights
 
-### Speaker 3
+speaker_3: And how do we find that Thats what we are going to discuss today Sorry
 
-This constant will be common for all layers
-
-### Speaker 1
-
-Yes yes it will be constant for all layers all weights
-
-### Speaker 3
-
-And how do we find that Thats what we are going to discuss today Sorry
-
-### Speaker 1
-
-No no no this is this is not found This is something that we set OK And parameters that a user sets are known as hyper parameters
+speaker_1: No no no this is this is not found This is something that we set OK And parameters that a user sets are known as hyper parameters
 
 
 and these are fixed by a user
@@ -1037,46 +902,30 @@ and these are fixed by a user
 
 Okay there
 
-### Speaker 4
+speaker_4: So Im not a shot
 
-So Im not a shot
-
-### Speaker 1
-
-So
+speaker_1: So
 
 
 Yeah
 
-### Speaker 4
-
-In one back propagation like every weight is reduced this derivative is with respect to each separate weight or like its a
+speaker_4: In one back propagation like every weight is reduced this derivative is with respect to each separate weight or like its a
 
 
 City and governorship
 
-### Speaker 1
-
-A good question The this weight update is done usually for all the weights of the network So every Wijl will have its own update because one is you have the weight itself and then this term is specific to the weight Wij So every weight is going to be updated in a neural network typically
+speaker_1: A good question The this weight update is done usually for all the weights of the network So every Wijl will have its own update because one is you have the weight itself and then this term is specific to the weight Wij So every weight is going to be updated in a neural network typically
 
 
 So for every weight you will have this update equation You will have a different update equation And the gradient in the update equation is going to be with respect to a particular weight that you are choosing
 
-### Speaker 3
+speaker_3: Yeah one follow up question on that So just assume that for some of the layers the gradients is really small and I have to freeze those layers I dont want to calculate derivative for some of the weights but only to the initial layers of the network So will that also be allowed
 
-Yeah one follow up question on that So just assume that for some of the layers the gradients is really small and I have to freeze those layers I dont want to calculate derivative for some of the weights but only to the initial layers of the network So will that also be allowed
+speaker_1: Sorry I think I lost your voice
 
-### Speaker 1
+speaker_3: yeah i would repeat uh so just assume that uh in case our gradients are very small for the deeper layers of the network and i i dont want to calculate the derivatives for the deeper layers i only want to calculate the derivatives for the initial layers so is there a freezing of the weights or freezing of the layers allowed during the back propagation that if i can just freeze the weights for some of the layers and only get to a back propagation on few of the layers
 
-Sorry I think I lost your voice
-
-### Speaker 3
-
-yeah i would repeat uh so just assume that uh in case our gradients are very small for the deeper layers of the network and i i dont want to calculate the derivatives for the deeper layers i only want to calculate the derivatives for the initial layers so is there a freezing of the weights or freezing of the layers allowed during the back propagation that if i can just freeze the weights for some of the layers and only get to a back propagation on few of the layers
-
-### Speaker 1
-
-Of course you can do that Of course you can So and typically this is done in many applications where you freeze a portion of your network and only update certain weights It could be the later part of the weights later part of the network It could be the earlier part of the network You could definitely do anything you want And what weights you choose to update is completely up to you And it depends on the application that you are trying to
+speaker_1: Of course you can do that Of course you can So and typically this is done in many applications where you freeze a portion of your network and only update certain weights It could be the later part of the weights later part of the network It could be the earlier part of the network You could definitely do anything you want And what weights you choose to update is completely up to you And it depends on the application that you are trying to
 
 
 Learn a neural network for okay
@@ -1201,16 +1050,12 @@ And what we want to calculate is this second term over here So derivative of A13
 
 respect to one one two of sigmoid of this term over here w112 a12 plus w212 a22 and uh uh
 
-### Speaker 3
-
-Here you go Y cap right sorry
+speaker_3: Here you go Y cap right sorry
 
 
 Here also DEL of D
 
-### Speaker 1
-
-of oh sorry lets keep making this yeah sorry thanks for pointing that out so it is y minus a13 and uh so we have derivative of a13 with respect to w11 of 2 which is the derivative of the sigmoid with respect sig sigmoid of the net input at node a13
+speaker_1: of oh sorry lets keep making this yeah sorry thanks for pointing that out so it is y minus a13 and uh so we have derivative of a13 with respect to w11 of 2 which is the derivative of the sigmoid with respect sig sigmoid of the net input at node a13
 
 
 And uh you could try this as an exercise
@@ -1287,21 +1132,13 @@ So as you keep training the neural network this gradient is going to become smal
 
 this uh so the this i hope this was helpful in explaining back propagation and how it helps uh neural how how it helps learn neural networks so yeah uh any questions before we break for the day
 
-### Speaker 4
+speaker_4: So one equation like even for the one data one x y
 
-So one equation like even for the one data one x y
+speaker_1: Or vanilla
 
-### Speaker 1
+speaker_4: This adaptation will happen multiple times right
 
-Or vanilla
-
-### Speaker 4
-
-This adaptation will happen multiple times right
-
-### Speaker 1
-
-Correct yes So yeah okay thats a good point Maybe I should mention that also The training is done
+speaker_1: Correct yes So yeah okay thats a good point Maybe I should mention that also The training is done
 
 
 Training
@@ -1330,13 +1167,9 @@ Meaning your yi is close to f theta of xi for all the xis and yis in that batch 
 
 Uh doesnt look
 
-### Speaker 4
+speaker_4: So this means that if if you are able to pass the batch of data you said that the weight updation happened properly it means if you are passing the whole data set at once during a forward pass it will it will adjust the weight even more better way instead of dividing the data into batches Correct your abs
 
-So this means that if if you are able to pass the batch of data you said that the weight updation happened properly it means if you are passing the whole data set at once during a forward pass it will it will adjust the weight even more better way instead of dividing the data into batches Correct your abs
-
-### Speaker 1
-
-youre absolutely right so actually having a larger batch size means it reduces the variance of the error so that is there is some math involved in that and Im hoping Protosh will cover that in class so basically what youre saying is right if you if you have a if you have some data set of
+speaker_1: youre absolutely right so actually having a larger batch size means it reduces the variance of the error so that is there is some math involved in that and Im hoping Protosh will cover that in class so basically what youre saying is right if you if you have a if you have some data set of
 
 
 in examples and you pass all of them in the forward pass and then update your weight it will typically lead to better learning and faster convergence of your neural network yeah so youre right yes if you use more examples the weights will be updated better
@@ -1344,13 +1177,9 @@ in examples and you pass all of them in the forward pass and then update your we
 
 Yeah uh any more questions
 
-### Speaker 3
+speaker_3: So uh there is a quiz being mentioned on Saturday do you know anything about it what we should prepare or something relevant to that
 
-So uh there is a quiz being mentioned on Saturday do you know anything about it what we should prepare or something relevant to that
-
-### Speaker 1
-
-Typically it will be whatever syllabus that has been covered till the till the class before the quiz
+speaker_1: Typically it will be whatever syllabus that has been covered till the till the class before the quiz
 
 
 But Im not sure if he has mentioned any specific portions
@@ -1358,24 +1187,16 @@ But Im not sure if he has mentioned any specific portions
 
 If you want I can I can ask Pratosh and let you know again Ill let you know on the group Okay
 
-### Speaker 3
+speaker_3: So thank you
 
-So thank you
+speaker_1: So the quiz is at 9 am on Saturday
 
-### Speaker 1
-
-So the quiz is at 9 am on Saturday
-
-### Speaker 3
-
-So
+speaker_3: So
 
 
 And can you uh upload your notes onto the teams what you are writing today
 
-### Speaker 1
-
-Sure sure yeah I will up Ill upload it yeah
+speaker_1: Sure sure yeah I will up Ill upload it yeah
 
 
 Well Ill post it on the group as a PDF
@@ -1383,9 +1204,7 @@ Well Ill post it on the group as a PDF
 
 Okay I think we can stop for today So yeah all the best for the quiz on Saturday
 
-### Speaker 3
-
-Thank you so much
+speaker_3: Thank you so much
 
 
 Thank you

@@ -75,7 +75,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -83,6 +83,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And so and we use this to connect ideas Now the table the way I imagine it is in this way you see We have three main ideas lets say Then we have the linker and then we have extra ideas 1 point 1 1 point 2 etcetera and we keep expanding Okay And this is useful yes if things are in a chronological order if you want to explain a process if you want to explain a procedure if you want to talk about the stages of a project okay So thats thats what you can do If you want to talk about something personal this this table this approach normally works yeah in a in a situation like that Okay And we put ideally we put information in into sorry into each box And then we connect it and then we explain things logically This is the best way to avoid getting lost basically All is not to get lost and to make sure that I want to listen to you so that I get interested in what youre saying okay Later this exercise will become automatic in your mind So your mind will have this idea of the table of the grid will populate it and then youll be free to speak
+speaker_1: And so and we use this to connect ideas Now the table the way I imagine it is in this way you see We have three main ideas lets say Then we have the linker and then we have extra ideas 1 point 1 1 point 2 etcetera and we keep expanding Okay And this is useful yes if things are in a chronological order if you want to explain a process if you want to explain a procedure if you want to talk about the stages of a project okay So thats thats what you can do If you want to talk about something personal this this table this approach normally works yeah in a in a situation like that Okay And we put ideally we put information in into sorry into each box And then we connect it and then we explain things logically This is the best way to avoid getting lost basically All is not to get lost and to make sure that I want to listen to you so that I get interested in what youre saying okay Later this exercise will become automatic in your mind So your mind will have this idea of the table of the grid will populate it and then youll be free to speak

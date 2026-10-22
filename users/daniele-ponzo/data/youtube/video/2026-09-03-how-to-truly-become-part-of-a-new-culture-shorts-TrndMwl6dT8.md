@@ -26,8 +26,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -35,17 +35,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So
 
-So
-
-### Speaker 2 · Speaker 2
-
-Yeah
+speaker_2: Yeah
 
 
 And then when I was in love with Colombia because again I completely shifted my mindset I one of my best friends um is from Colombia I start kind of traveling and exploring and allowing myself to almost be a Colombian Up to a point that even my my Colombian accent my Spanish accent was very Colombian And um up to a point that people start asking me if I was Colombian when I travel abroad um across Latin America because of my Spanish accent was very Colombian they start asking me if I was Colombian
 
-### Speaker 1 · Speaker 1
-
-Right
+speaker_1: Right

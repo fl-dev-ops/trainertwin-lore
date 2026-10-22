@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-So the first job that will help you make 50k or more at an entry level is the supply chain analyst job Ive covered this job in a number of different videos in the past as well but at a very high level this job belongs to the planning family typically these are jobs which are entry level jobs for the route of planning because once you become a supply chain analyst then you can have a very good chances becoming a supply chain planner or a demand planner and so on and these jobs of course require a lot of analytical skills a lot of number crunching skills you have to be really good at Excel you have to be really good at Power BI Python coding as well you also have to be very good at using AI tools like ChatGPT and generative AI tools which are available in the market
+speaker_1: So the first job that will help you make 50k or more at an entry level is the supply chain analyst job Ive covered this job in a number of different videos in the past as well but at a very high level this job belongs to the planning family typically these are jobs which are entry level jobs for the route of planning because once you become a supply chain analyst then you can have a very good chances becoming a supply chain planner or a demand planner and so on and these jobs of course require a lot of analytical skills a lot of number crunching skills you have to be really good at Excel you have to be really good at Power BI Python coding as well you also have to be very good at using AI tools like ChatGPT and generative AI tools which are available in the market

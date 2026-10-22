@@ -12,7 +12,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -20,14 +20,9 @@ First part of the travel. Check. On my way to Rome for a gig and then to Dublin 
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Check.
-
-### Speaker 1 · Speaker 1
+speaker_1: Check.
 
 On my way to Rome for a gig and then to Dublin for another. People really want to meet again.
-
 
 ## Comments (3)
 

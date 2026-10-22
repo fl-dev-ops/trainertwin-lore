@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-We dont need better strategies We need better Mondays 67 percent of all strategies fail And its very seldom because the strategy is wrong It turns out that only 5 percent of employees really understand the strategy You dont have a strategy problem You have a communication problem dressed in a strategy suit You cannot upskill your culture but you can upskill your communication The leaders communication shapes the employees behavior and that drives the organizational results
+speaker_1: We dont need better strategies We need better Mondays 67 percent of all strategies fail And its very seldom because the strategy is wrong It turns out that only 5 percent of employees really understand the strategy You dont have a strategy problem You have a communication problem dressed in a strategy suit You cannot upskill your culture but you can upskill your communication The leaders communication shapes the employees behavior and that drives the organizational results

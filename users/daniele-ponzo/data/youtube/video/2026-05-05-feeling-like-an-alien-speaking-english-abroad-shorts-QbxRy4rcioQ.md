@@ -23,8 +23,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -32,14 +32,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: But then he just started to look into my eyes but in way he just meant nothing because I said could you put 5 pounds or 10 pounds I dont know 10 pounds on this card please And he was looking at me like I was stupid
 
-But then he just started to look into my eyes but in way he just meant nothing because I said could you put 5 pounds or 10 pounds I dont know 10 pounds on this card please And he was looking at me like I was stupid
+speaker_2: Oh come on Why was I just why was that
 
-### Speaker 2 · Speaker 2
-
-Oh come on Why was I just why was that
-
-### Speaker 1 · Speaker 1
-
-I I started to you know observe other people because I felt myself like an alien or What am I doing wrong here What I am doing wrong And he was not speaking to me He was not talking and he was like you know um he kept his silence and I started to observe other people because you know I was at at that time I think I was just uh at a intern at a museum cartoon museum at that time
+speaker_1: I I started to you know observe other people because I felt myself like an alien or What am I doing wrong here What I am doing wrong And he was not speaking to me He was not talking and he was like you know um he kept his silence and I started to observe other people because you know I was at at that time I think I was just uh at a intern at a museum cartoon museum at that time

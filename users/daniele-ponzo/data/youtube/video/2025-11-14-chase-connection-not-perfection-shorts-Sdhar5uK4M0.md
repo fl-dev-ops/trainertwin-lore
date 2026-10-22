@@ -16,7 +16,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -24,6 +24,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-and I would say dont dont chase perfection you know chase connection Instead of aiming at being perfect all the time aim at connecting to others you know speak up even if your voice shakes even if you arent sure about your grammar uh no one is going to notice you know most probably Let people see your story your accent your personality This is something that is going to create trust And yeah aim at really getting to know the other person Once you shift this perspective once you shift the focus from yourself my English my mistakes my pronunciation my Russian accent
+speaker_1: and I would say dont dont chase perfection you know chase connection Instead of aiming at being perfect all the time aim at connecting to others you know speak up even if your voice shakes even if you arent sure about your grammar uh no one is going to notice you know most probably Let people see your story your accent your personality This is something that is going to create trust And yeah aim at really getting to know the other person Once you shift this perspective once you shift the focus from yourself my English my mistakes my pronunciation my Russian accent

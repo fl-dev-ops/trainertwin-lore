@@ -27,8 +27,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -36,14 +36,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And one kind of uh one uh another example is your service providers like for women your hair stylist your manicure doctors right
 
-And one kind of uh one uh another example is your service providers like for women your hair stylist your manicure doctors right
+speaker_2: Yeah
 
-### Speaker 2 · Speaker 2
-
-Yeah
-
-### Speaker 1 · Speaker 1
-
-Um so the Colombian women they are very well known for taking a lot of care of themselves which is not the case for the Chilean women So when I moved from Colombia to um to Chile I was used to go to my hair stylist every week do my manicure and so because thats their culture Which was completely different in Chile and then I struggled to find a hair stylist Because this is not part of their culture so you dont have many out there So again you just assume that youre going to land and youre going to have youre going to look for referrals and youre going to have the services and thats not true
+speaker_1: Um so the Colombian women they are very well known for taking a lot of care of themselves which is not the case for the Chilean women So when I moved from Colombia to um to Chile I was used to go to my hair stylist every week do my manicure and so because thats their culture Which was completely different in Chile and then I struggled to find a hair stylist Because this is not part of their culture so you dont have many out there So again you just assume that youre going to land and youre going to have youre going to look for referrals and youre going to have the services and thats not true

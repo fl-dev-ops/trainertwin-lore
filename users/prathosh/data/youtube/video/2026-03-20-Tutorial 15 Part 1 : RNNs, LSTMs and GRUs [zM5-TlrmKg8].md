@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 34:06
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 15 Part 1 : RNNs, LSTMs and GRUs
 
 ## Transcript
 
-
-Hello all welcome to this tutorials in
+speaker_1: Hello all welcome to this tutorials in
 which we will be running through
 the recurrent neural networks RNNs
 LSTMs and GRUs

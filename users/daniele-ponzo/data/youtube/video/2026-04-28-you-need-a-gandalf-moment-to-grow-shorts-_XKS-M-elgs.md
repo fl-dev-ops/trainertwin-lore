@@ -17,8 +17,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -26,26 +26,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Yeah but we all need that kind of Gandalf moment dont we
 
-Yeah but we all need that kind of Gandalf moment dont we
+speaker_2: You do
 
-### Speaker 2 · Speaker 2
+speaker_1: Yes Yes Yes Look thats a push to to put yourself out there and to make the most of it But yeah one thing Im going I want to I dont know to communicate to share is this Gandalf moment
 
-You do
+speaker_2: Uh so the thing is also with language is the same right So you you need that moment in which you you try
 
-### Speaker 1 · Speaker 1
+speaker_1: But thats the bottom line you know if you dont use a language like even if you get proficient if you stop using it then you kind of lose it you know Which is which is its a pity you know because its a pity Uh it doesnt take that much and it doesnt take that much to to like to keep it alive in a way But at the same time if you never do if you dont have opportunities and why you lose it This is something that you know I say it very often because people tell me look I dont live in an English speaking country so Id love to keep my English alive but how can I do it
 
-Yes Yes Yes Look thats a push to to put yourself out there and to make the most of it But yeah one thing Im going I want to I dont know to communicate to share is this Gandalf moment
-
-### Speaker 2 · Speaker 2
-
-Uh so the thing is also with language is the same right So you you need that moment in which you you try
-
-### Speaker 1 · Speaker 1
-
-But thats the bottom line you know if you dont use a language like even if you get proficient if you stop using it then you kind of lose it you know Which is which is its a pity you know because its a pity Uh it doesnt take that much and it doesnt take that much to to like to keep it alive in a way But at the same time if you never do if you dont have opportunities and why you lose it This is something that you know I say it very often because people tell me look I dont live in an English speaking country so Id love to keep my English alive but how can I do it
-
-### Speaker 2 · Speaker 2
-
-Find somebody who speaks it better than you
+speaker_2: Find somebody who speaks it better than you

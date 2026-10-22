@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,10 +25,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So I spent my 20s learning and moving and exploring Europe And now that Im 30 years old I am settling here in Rome and after three years of freelancing Im starting my own business my own consultancy company because in these three years I built a reputation of being that freelancer that is not reliable about meetings but is reliable about output
 
-So I spent my 20s learning and moving and exploring Europe And now that Im 30 years old I am settling here in Rome and after three years of freelancing Im starting my own business my own consultancy company because in these three years I built a reputation of being that freelancer that is not reliable about meetings but is reliable about output
-
-### Speaker 2 · Speaker 2
-
-So you can deliver though youre late for meetings Is that the way it works Okay okay Exactly I think we can all accept that Yeah
+speaker_2: So you can deliver though youre late for meetings Is that the way it works Okay okay Exactly I think we can all accept that Yeah

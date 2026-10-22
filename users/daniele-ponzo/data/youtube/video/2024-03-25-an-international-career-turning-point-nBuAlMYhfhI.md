@@ -19,7 +19,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -27,6 +27,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-and I was associating this uh with my career as well Yeah Because my way of thinking was hold on I have actually the English Ive been offered a job If I am actually giving my best in this job or because uh between brackets if you work you have to give your best and that thats thats thats the right Uh you know thats the deal thats the deal And uh I was like that will give me actually more competencies more confidence uh which will give me actually the possibility to really have that international profile And I was thinking if you stay in France and no offense to France no I I Im just on you know Im just talking about the way I was thinking
+speaker_1: and I was associating this uh with my career as well Yeah Because my way of thinking was hold on I have actually the English Ive been offered a job If I am actually giving my best in this job or because uh between brackets if you work you have to give your best and that thats thats thats the right Uh you know thats the deal thats the deal And uh I was like that will give me actually more competencies more confidence uh which will give me actually the possibility to really have that international profile And I was thinking if you stay in France and no offense to France no I I Im just on you know Im just talking about the way I was thinking

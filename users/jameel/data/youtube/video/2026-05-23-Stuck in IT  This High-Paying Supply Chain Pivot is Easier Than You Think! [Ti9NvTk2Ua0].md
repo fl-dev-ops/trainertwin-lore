@@ -8,7 +8,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,4 +17,4 @@ speakers:
 
 ## Transcript
 
-It becomes how can you apply the skills that you already have into maybe a project or or kind of parlay into into some of those things so an example Id say Weve worked before with a third party to build dashboards where its a lot of IT and and again Theyve got the technical skills to build the dashboard but they dont necessarily have the supply chain knowledge So in those cases Ive been in calls where they want to learn about the supply chain background because it not only makes them more effective But it also helps to open up an avenue for them should they decide to pivot to give the experience and understanding um what you can do to show that you understand because again you are kind of competing with others that have a little more credibility with a backlog of of experience in that space
+speaker_1: It becomes how can you apply the skills that you already have into maybe a project or or kind of parlay into into some of those things so an example Id say Weve worked before with a third party to build dashboards where its a lot of IT and and again Theyve got the technical skills to build the dashboard but they dont necessarily have the supply chain knowledge So in those cases Ive been in calls where they want to learn about the supply chain background because it not only makes them more effective But it also helps to open up an avenue for them should they decide to pivot to give the experience and understanding um what you can do to show that you understand because again you are kind of competing with others that have a little more credibility with a backlog of of experience in that space

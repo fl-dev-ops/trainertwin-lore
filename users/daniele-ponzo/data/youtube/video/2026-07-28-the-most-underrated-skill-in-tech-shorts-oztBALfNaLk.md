@@ -25,7 +25,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -33,9 +33,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So invisible bottlenecks So what is really stopping us from communicating effectively in an international environment
+speaker_1: So invisible bottlenecks So what is really stopping us from communicating effectively in an international environment
 
 
 The communication as architecture We hear a lot about soft skills these days but I consider communication a key skill not just a soft skill And I want to illustrate why communication can be considered infrastructure You know we are here in a tech fair so were going to talk about communication as a tech infrastructure

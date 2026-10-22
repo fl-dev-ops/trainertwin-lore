@@ -6,14 +6,15 @@ date: '2026-04-09'
 duration: 35:36
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 64 NCE, Info-NCE, SimCLR, JEPA
 
 ## Transcript
 
-
-Welcome to this lecture Now the final
+speaker_1: Welcome to this lecture Now the final
 NC estimator consider
 an estimator
 J theta as follows

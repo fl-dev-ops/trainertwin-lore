@@ -6,14 +6,15 @@ date: '2026-04-02'
 duration: 36:10
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 61 K-Means Clustering
 
 ## Transcript
 
-
-Welcome all
+speaker_1: Welcome all
 We will continue our discussion on
 unsupervised learning
 Last class

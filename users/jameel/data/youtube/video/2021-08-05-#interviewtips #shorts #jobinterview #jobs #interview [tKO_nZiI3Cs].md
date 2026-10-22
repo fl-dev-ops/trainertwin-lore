@@ -9,7 +9,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-to my YouTube channel to watch how you can interview like a
+speaker_1: to my YouTube channel to watch how you can interview like a
 
 
 Real life skills they don t feach you in college

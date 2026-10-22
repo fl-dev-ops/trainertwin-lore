@@ -12,7 +12,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -20,7 +20,4 @@ Behind the scenes. Staying at a hotel with an odd and super charming elevator. I
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Mmm.
-
+speaker_1: Mmm.

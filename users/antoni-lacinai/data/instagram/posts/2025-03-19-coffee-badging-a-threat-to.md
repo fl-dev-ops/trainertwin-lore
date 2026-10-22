@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -24,7 +24,4 @@ Is it important where you are or what you do?
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Have you heard about the term coffee badging? Basically goes like this. You are not forced to the office, but it's very clear that the boss encourages you to be there, otherwise you won't get promoted or you won't get, you know, all the perks that you might get otherwise. So people swipe their badge, come into the office, do nothing, but show up and then leave. It's not what you do, it's where you do it. Or is it? Coffee badging is a phenomenon, very close to what I, not what I call, but what people call quiet quitting. You do what you have to in order to not get fired. This is one of those activities. Being forced to do something, make people do less of it, but just enough to get by.
-
+speaker_1: Have you heard about the term coffee badging? Basically goes like this. You are not forced to the office, but it's very clear that the boss encourages you to be there, otherwise you won't get promoted or you won't get, you know, all the perks that you might get otherwise. So people swipe their badge, come into the office, do nothing, but show up and then leave. It's not what you do, it's where you do it. Or is it? Coffee badging is a phenomenon, very close to what I, not what I call, but what people call quiet quitting. You do what you have to in order to not get fired. This is one of those activities. Being forced to do something, make people do less of it, but just enough to get by.

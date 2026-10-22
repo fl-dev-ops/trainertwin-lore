@@ -9,7 +9,7 @@ content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: On-screen text
+  speaker_1: 'On-screen text'
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### On-screen text
-
-SOFT SKILLS MODEL LEVEL 2 LEARNING AGILITY Finding yourself in a new situation and not knowing what to do but havlng the ij ablllty and resources to figure It out more about thls skill
+speaker_1: SOFT SKILLS MODEL LEVEL 2 LEARNING AGILITY Finding yourself in a new situation and not knowing what to do but havlng the ij ablllty and resources to figure It out more about thls skill
 
 
 Subscrlbe to the Youtube Channel In the profile to learn

@@ -17,8 +17,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -26,14 +26,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: its uh I dont know its precious advice and uh I think thats one one thing that Ive learned is this kind of relaxed approach easy going You need to do it You just do it you know
 
-its uh I dont know its precious advice and uh I think thats one one thing that Ive learned is this kind of relaxed approach easy going You need to do it You just do it you know
+speaker_2: Yeah Its very easy to get to there and you dont need to to to to to be born in Brazil so
 
-### Speaker 2 · Speaker 2
-
-Yeah Its very easy to get to there and you dont need to to to to to be born in Brazil so
-
-### Speaker 1 · Speaker 1
-
-We can all learn this approach right So easy take it easy I mean you have to do it I think its also its also great take away for the listeners Take it easy and embrace differences embrace challenges but you are uh you will get there Ive learned a lot and Im surely going to worry a bit less about my challenges after this
+speaker_1: We can all learn this approach right So easy take it easy I mean you have to do it I think its also its also great take away for the listeners Take it easy and embrace differences embrace challenges but you are uh you will get there Ive learned a lot and Im surely going to worry a bit less about my challenges after this

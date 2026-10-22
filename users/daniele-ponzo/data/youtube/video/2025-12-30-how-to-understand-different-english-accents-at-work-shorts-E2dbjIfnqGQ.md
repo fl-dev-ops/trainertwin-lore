@@ -17,8 +17,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -26,14 +26,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: sometimes its its its really hard to understand them uh um if you for example people from India they have a really specific sound to their English And sometimes its really hard to understand the different dialects that people speak
 
-sometimes its its its really hard to understand them uh um if you for example people from India they have a really specific sound to their English And sometimes its really hard to understand the different dialects that people speak
+speaker_2: Yeah And thats the beauty of it I suppose So
 
-### Speaker 2 · Speaker 2
-
-Yeah And thats the beauty of it I suppose So
-
-### Speaker 1 · Speaker 1
-
-But but sometimes its its its really hard if somebody really has a uh national accent in their English
+speaker_1: But but sometimes its its its really hard if somebody really has a uh national accent in their English

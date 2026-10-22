@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -20,7 +20,4 @@ Join simplicityofmastery.com
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So from a pure coaching perspective, things have to move faster. I'll give you 2 examples. I work a lot with coaches who in their earlier years are saying, you know, I'm struggling with sort of pinning down like what's the goal and how they're going to get there, whatever. And they're talking about client comes to a coaching session And it takes several coaching sessions to really establish what they're working on and make some progress. My clients come to their coaching sessions with the list of the 4 or 5 things they need to resolve in this next hour. They have to move faster. Corporate people don't have the time. As you said, everything's moving faster. They don't have the time.
-
+speaker_1: So from a pure coaching perspective, things have to move faster. I'll give you 2 examples. I work a lot with coaches who in their earlier years are saying, you know, I'm struggling with sort of pinning down like what's the goal and how they're going to get there, whatever. And they're talking about client comes to a coaching session And it takes several coaching sessions to really establish what they're working on and make some progress. My clients come to their coaching sessions with the list of the 4 or 5 things they need to resolve in this next hour. They have to move faster. Corporate people don't have the time. As you said, everything's moving faster. They don't have the time.

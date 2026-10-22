@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 20:40
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 19 Density Estimation for Mixed Distribution
 
 ## Transcript
 
-
-Welcome back So lets move on to
+speaker_1: Welcome back So lets move on to
 another interesting algorithm which is
 density estimation
 for our mixture distributions

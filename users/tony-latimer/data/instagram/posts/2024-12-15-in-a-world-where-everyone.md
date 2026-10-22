@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ In a world where everyone is eager to speak, true listening is a rare gem. We of
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-In life, nobody actually listens to anybody. You know, we're hearing, we're waiting for that verbal full stop that says, you've finished, now it's my turn. And learning to empty your conscious awareness, get into that clear meditative space so that you're listening from your subconscious, gives people a communication experience like they've never had before. Yeah, that shifts. And it is the one thing that once you practice it starts to trigger the ability to start working with that energy and getting that energy connection with people.
-
+speaker_1: In life, nobody actually listens to anybody. You know, we're hearing, we're waiting for that verbal full stop that says, you've finished, now it's my turn. And learning to empty your conscious awareness, get into that clear meditative space so that you're listening from your subconscious, gives people a communication experience like they've never had before. Yeah, that shifts. And it is the one thing that once you practice it starts to trigger the ability to start working with that energy and getting that energy connection with people.

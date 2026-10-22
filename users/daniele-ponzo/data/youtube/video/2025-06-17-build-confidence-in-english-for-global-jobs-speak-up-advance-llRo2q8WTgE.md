@@ -35,7 +35,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -43,6 +43,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I mean becoming getting confident in English in a different language doesnt matter Were talking about English now Is its just a matter of practice so getting into action really And this is why I love your story Adrian because this is exactly what you did So you decided you wanted to go international and the best way was to start communicating in English And the best way to start communicating in English well is communicating in English So this is exactly what you did
+speaker_1: I mean becoming getting confident in English in a different language doesnt matter Were talking about English now Is its just a matter of practice so getting into action really And this is why I love your story Adrian because this is exactly what you did So you decided you wanted to go international and the best way was to start communicating in English And the best way to start communicating in English well is communicating in English So this is exactly what you did

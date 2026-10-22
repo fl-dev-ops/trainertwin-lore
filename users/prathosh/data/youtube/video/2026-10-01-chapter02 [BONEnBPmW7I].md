@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-अथ द्वितीयोऽध्यायः साङ्ख्ययोगः
+speaker_1: अथ द्वितीयोऽध्यायः साङ्ख्ययोगः
 सञ्जय उवाच
 तन्तथा कृपयाविष्टम् अश्रुपूर्णाकुलेक्षणम्
 

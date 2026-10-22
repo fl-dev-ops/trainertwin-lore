@@ -6,14 +6,15 @@ date: '2026-02-25'
 duration: 22:02
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 35 Stochastic Gradient Descent as a Regularizer
 
 ## Transcript
 
-
-Now consider so Ill say another example
+speaker_1: Now consider so Ill say another example
 of regularizer
 suppose
 so the data is uh x comma y i

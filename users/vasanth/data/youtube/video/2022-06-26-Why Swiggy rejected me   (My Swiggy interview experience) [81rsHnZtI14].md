@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,17 +18,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: asked very common javascript questions like closure nesting function nesting function currying and some snippet driven questions also overall this round went very well in fact this round only went very well compared to the other rounds
 
-asked very common javascript questions like closure nesting function nesting function currying and some snippet driven questions also overall this round went very well in fact this round only went very well compared to the other rounds
+speaker_2: Pause
 
-### Speaker 2
-
-Pause
-
-### Speaker 1
-
-Welcome back to Uncommon Geeks myself Vasant I hope youre all doing well So if youre seeing me for the first time on the internet or my videos first time on the YouTube So basically Im a content creator in the YouTube So where Ill help interview to clear their content related interviews I made a lot of beautiful series for that and I got huge appreciation by the folks So thats all about myself and coming to the video Yes what you saw on thumbnail was right I got rejected by Sweggy few months back Okay And there is nothing shame in accepting that I got rejected because every interview
+speaker_1: Welcome back to Uncommon Geeks myself Vasant I hope youre all doing well So if youre seeing me for the first time on the internet or my videos first time on the YouTube So basically Im a content creator in the YouTube So where Ill help interview to clear their content related interviews I made a lot of beautiful series for that and I got huge appreciation by the folks So thats all about myself and coming to the video Yes what you saw on thumbnail was right I got rejected by Sweggy few months back Okay And there is nothing shame in accepting that I got rejected because every interview
 
 
 we apply definitely will not be selected okay the purpose of making this video is to explain what are the mistakes that i made in this biggie so that you guys dont make that mistake going forward in the interview okay so ill be sharing a very important details that is what is the salary that they offered me in swiggy in terms of percentage somewhere in the video so please do watch the video until the end to get that information

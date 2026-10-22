@@ -8,23 +8,18 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 3
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
 ---
 
 # Asking questions for a career - Prof. Prathosh, IISc, Bengaluru.
 
 ## Transcript
 
+speaker_1: This is Beyond the Science a podcast from the Office of Communications Indian Institute of Science
 
-### Speaker 1
-
-This is Beyond the Science a podcast from the Office of Communications Indian Institute of Science
-
-### Speaker 2
-
-Today we have Pratosh AP Assistant Professor at the Division of Electrical Electronics and Computer Science This conversation goes from the water pump that lit up his scientific curiosity to the question of intelligence of AI and its ethical dilemma going forward So all you curious minds give this a listen
+speaker_2: Today we have Pratosh AP Assistant Professor at the Division of Electrical Electronics and Computer Science This conversation goes from the water pump that lit up his scientific curiosity to the question of intelligence of AI and its ethical dilemma going forward So all you curious minds give this a listen
 
 
 Thank you Dr Pratosh for taking time to be here We really really appreciate it Pleasure Yeah thanks for having me Yes Can we get back to your early years and how your interest in science started and then how it turned into the sort of stream that you are doing right now Yeah its a long story As with many people who take science as a career option So curiosity is something that is a prerequisite to do science as they say So I was curious
@@ -32,9 +27,7 @@ Thank you Dr Pratosh for taking time to be here We really really appreciate it P
 
 Curious about things curious about almost everything
 
-### Speaker 3
-
-And this was when I grew up there was no internet and there was no LLMs and GPTs So the only way to quench your curiosity is to read books or talk to people who know better than you So I used to read a lot of stuff experiment and interact with people and ask them questions and so on So this has been my journey since my school days I mean I still remember multiple times when I was sent out of the classrooms
+speaker_3: And this was when I grew up there was no internet and there was no LLMs and GPTs So the only way to quench your curiosity is to read books or talk to people who know better than you So I used to read a lot of stuff experiment and interact with people and ask them questions and so on So this has been my journey since my school days I mean I still remember multiple times when I was sent out of the classrooms
 
 
 Because I asked questions that my teachers could not answer them right so this has happened so I was curious all all my life What happened when I went to BTEC I come from a small city Its called Mysore Its only a few hundred kilometers from here So I grew up there I went to bachelors when I was pursuing my undergrad in engineering So it so happened that there was a small problem in our household you know my which is that my
@@ -57,21 +50,13 @@ using technology so then you know uh one of those summers i spent with a profess
 
 turn with and thats how it all it all started
 
-### Speaker 2
+speaker_2: So I found that uh you did PhD straight after BITP
 
-So I found that uh you did PhD straight after BITP
+speaker_3: Thats correct
 
-### Speaker 3
+speaker_2: And thats not a usual path right for people to follow and and that you finished your PhD in three years which is also very very unusual
 
-Thats correct
-
-### Speaker 2
-
-And thats not a usual path right for people to follow and and that you finished your PhD in three years which is also very very unusual
-
-### Speaker 3
-
-Its also very very unusual Yeah that is true I told you right What happened is when I was interning in his laboratory and universities good universities in the world have this program called a direct PhD program where they universities admit people for a PhD program right out after undergrad degrees So we have it even today in ISE In fact a couple of my students right now in ISE are direct PhD students who have joined after BTech So if you are clear about doing research
+speaker_3: Its also very very unusual Yeah that is true I told you right What happened is when I was interning in his laboratory and universities good universities in the world have this program called a direct PhD program where they universities admit people for a PhD program right out after undergrad degrees So we have it even today in ISE In fact a couple of my students right now in ISE are direct PhD students who have joined after BTech So if you are clear about doing research
 
 
 search then its better that you start with a PhD right You know why go for a masters two years and then go for a PhD You can directly go for a PhD I think I was lucky that my professor told me that something like this exists So I joined for a PhD program So you said I finished it in three years I was partly lucky and partly planned my thesis very meticulously So I decided that I should join for a PhD in the pre final year of my undergrad itself
@@ -79,13 +64,9 @@ search then its better that you start with a PhD right You know why go for a mas
 
 So technically
 
-### Speaker 2
+speaker_2: So third year of your engineering when generally people are still figuring out what they are doing or in engineering itself you have already planned the next stage
 
-So third year of your engineering when generally people are still figuring out what they are doing or in engineering itself you have already planned the next stage
-
-### Speaker 3
-
-Yeah I told you right I had that research mindset that I had to do research in life you know take science as a career So PhD was the path towards it right Without a PhD degree formally So you cant do science in todays world So that becomes a prerequisite So I knew that I had to do a PhD and the work the ground preparation started in my third year of my undergrad So by the time I had joined ISE and by the way I also happened to be a student of ISE a long time back So when I by the time I joined ISE I had
+speaker_3: Yeah I told you right I had that research mindset that I had to do research in life you know take science as a career So PhD was the path towards it right Without a PhD degree formally So you cant do science in todays world So that becomes a prerequisite So I knew that I had to do a PhD and the work the ground preparation started in my third year of my undergrad So by the time I had joined ISE and by the way I also happened to be a student of ISE a long time back So when I by the time I joined ISE I had
 
 
 my problem defined very meticulously so day one i start working right so every six years i every six months i had a paper submitted and the luck part comes here that all my papers got accepted in the first shot right so i didnt have to struggle a lot with that long review cycle so thats it i mean i got four or five papers accepted in three years and my advisor was generous enough to say that the moment you have four or five papers accepted you can write your thesis and thats how i could submit in three years
@@ -93,13 +74,9 @@ my problem defined very meticulously so day one i start working right so every s
 
 So its its as I said no its partly good planning and partly luck Yeah I dont take a lot of pride in finishing it in three years right I mean sometimes if youre lucky itll happen quickly if youre not lucky itll take a couple of more years It doesnt matter right So what matters is your convictions Are you convinced enough that you have to do research in your life as a career So that is what is more important
 
-### Speaker 2
+speaker_2: Yeah thats a very interesting way to look at it I also wanted to ask because you mentioned about your the work that you did with your mothers request is that what turned you into you know this whole line of language models and signal processing and AI and all these things
 
-Yeah thats a very interesting way to look at it I also wanted to ask because you mentioned about your the work that you did with your mothers request is that what turned you into you know this whole line of language models and signal processing and AI and all these things
-
-### Speaker 3
-
-Thats correct Those days AI was not a fashionable term We used to call it pattern recognition So its called uh yeah And then people started calling it money right You know what used to be only science fiction when we were PG students is now a reality right I mean we wanted machines that could think In fact Now they have become so conversant and so capable that this entire conversation that we are doing can be generated using an AI right In my voice and your voice So these kinds of things were only
+speaker_3: Thats correct Those days AI was not a fashionable term We used to call it pattern recognition So its called uh yeah And then people started calling it money right You know what used to be only science fiction when we were PG students is now a reality right I mean we wanted machines that could think In fact Now they have become so conversant and so capable that this entire conversation that we are doing can be generated using an AI right In my voice and your voice So these kinds of things were only
 
 
 subject of fiction a decade back now it has become a reality so yeah so those days signal processing and pattern recognition were the the foundational bedrocks for building all these in fact it they they they remain to be the foundational ideas even today to build these ai technology and pattern recognition technologies so yeah i mean these kinds of problems i always wanted to make machines think look hear feel my phd was technically
@@ -107,13 +84,9 @@ subject of fiction a decade back now it has become a reality so yeah so those da
 
 on speech right you know the the models that you t that you see right now where you can speak to a machine and it recognizes what you are speaking those were the kinds of questions that we are asking so yeah so the fun for fundamental idea was to make machines see think hear feel and respond so thats exactly what we are seeing these days
 
-### Speaker 2
+speaker_2: So how far along are we in that because while we say artificial intelligence its is it intelligence or are they regurgitating what is already out there Well now is that intelligence in itself
 
-So how far along are we in that because while we say artificial intelligence its is it intelligence or are they regurgitating what is already out there Well now is that intelligence in itself
-
-### Speaker 3
-
-Well is that intelligence in itself People have defined certain tests to ascertain whether a machine thinks or not In most of the tests that human beings have devised to answer this question these machines have cleared those tests with flying colors So in that sense we are having artificial intelligence Now at a philosophical level are these machines intelligent I mean you can argue both sides My take on that matter is that they are intelligent you know So Ill give you a few examples You know it can write poems
+speaker_3: Well is that intelligence in itself People have defined certain tests to ascertain whether a machine thinks or not In most of the tests that human beings have devised to answer this question these machines have cleared those tests with flying colors So in that sense we are having artificial intelligence Now at a philosophical level are these machines intelligent I mean you can argue both sides My take on that matter is that they are intelligent you know So Ill give you a few examples You know it can write poems
 
 
 So ask yourself this question right What do you think are the traits of human intelligence Creativity is one good trait of human intelligence right Which is you take creativity writing poems creating pictures you know new pictures All these kinds of things are now being done by these LLMs Now analysis analytical mind is one other trait of human intelligence Now it is now solving questions of IMO level international mathematics olympia
@@ -121,21 +94,13 @@ So ask yourself this question right What do you think are the traits of human in
 
 cracking JEE right it is it is solving the questions that I set in my class so this is analysis and it is it is doing literature survey for you it is generating ideas so this is and it is writing production level codes so this is analysis if if all of this combined does not lead to human intelligence then what is
 
-### Speaker 2
+speaker_2: Its a very good question
 
-Its a very good question
+speaker_3: Right So in my opinion they are very very uh more intelligent than an average human being
 
-### Speaker 3
+speaker_2: Yeah so thats my take I wanted to talk about this later in the episode but since we are here anyway so where does this go now Like if all the thinking can be given up to a machine how does like basically AI ethics of it right How do we
 
-Right So in my opinion they are very very uh more intelligent than an average human being
-
-### Speaker 2
-
-Yeah so thats my take I wanted to talk about this later in the episode but since we are here anyway so where does this go now Like if all the thinking can be given up to a machine how does like basically AI ethics of it right How do we
-
-### Speaker 3
-
-So thats my
+speaker_3: So thats my
 
 
 Honestly I dont know that this is anybodys guess So as humanity we are staring at a question that we cannot handle right now right This is intellectually far more superior than all of us put together Now how do we deal this as humanity is a question that is to be addressed asked and answered Perhaps I mean my take on this is that maybe intelligence is not what makes us humans humans right Maybe you know the fact that we can work in groups
@@ -149,13 +114,9 @@ Yeah now that is taken off Now what sort of jobs exist Nobody knows And you know
 
 a manger but it is going to be difficult
 
-### Speaker 2
+speaker_2: So how how d how how do somebody like you who works in this field at the frontier as you said how do you look at this uh situation
 
-So how how d how how do somebody like you who works in this field at the frontier as you said how do you look at this uh situation
-
-### Speaker 3
-
-So it scares me as well because like I have a seven year old and a four year old at home so I have my children I dont know what to teach them actually Now everything that we teach in schools and colleges etc have become irrelevant in todays world Now what do I what do I teach them Now perhaps this is this is I mean this is a dystopian way of looking at things and if you want to look into the world and everything thats happening in a rather utopian world view
+speaker_3: So it scares me as well because like I have a seven year old and a four year old at home so I have my children I dont know what to teach them actually Now everything that we teach in schools and colleges etc have become irrelevant in todays world Now what do I what do I teach them Now perhaps this is this is I mean this is a dystopian way of looking at things and if you want to look into the world and everything thats happening in a rather utopian world view
 
 
 Then then good things are happening in the sense that never in the history of human civilization that there existed something Which could which could make everyone in this world have access to the entirety of human knowledge You I mean lets say theres somebody on street right who is a whos a street vendor can now build an app in their own language To to administrate their trade in five minutes Yeah Well this is superpower Yes Yes now if you put
@@ -172,32 +133,20 @@ Yeah Right So I think people will start now asking higher order questions questi
 
 I think thats a good way of looking at it
 
-### Speaker 2
+speaker_2: Yeah I mean I think I guess you have more faith in humanity than I do
 
-Yeah I mean I think I guess you have more faith in humanity than I do
+speaker_3: Yeah
 
-### Speaker 3
+speaker_2: No no no
 
-Yeah
+speaker_3: But well survive you know because we have that survival gene as they say right of course there will be bad actors and uh we will have to come up with a policy well have to see how to control this and all that its already happening like you see a lot of fake news I think Ive seen it in medicine
 
-### Speaker 2
-
-No no no
-
-### Speaker 3
-
-But well survive you know because we have that survival gene as they say right of course there will be bad actors and uh we will have to come up with a policy well have to see how to control this and all that its already happening like you see a lot of fake news I think Ive seen it in medicine
-
-### Speaker 2
-
-Because I said
+speaker_2: Because I said
 
 
 I think I should mention because previously whenever technology has changed dramatically industrial revolution or before that maybe when we went from stone age to the next age or whatever there might be a lot of jobs that are lost Correct But new jobs have always sort of come up
 
-### Speaker 3
-
-Yeah I have an interesting take on this right All of us know about the second law of thermodynamics Yeah Entropy doesnt decrease Yeah So what does that translate to It translates to the fact that no matter what universe will throw chaos and problems towards us The only thing that will change is the flavor of the problem it throws us Yeah Like 10000 years back it was surviving you know tomorrow you just survive otherwise youll get eaten by some predator Now 1000 years back it is okay youll have to protect yourself
+speaker_3: Yeah I have an interesting take on this right All of us know about the second law of thermodynamics Yeah Entropy doesnt decrease Yeah So what does that translate to It translates to the fact that no matter what universe will throw chaos and problems towards us The only thing that will change is the flavor of the problem it throws us Yeah Like 10000 years back it was surviving you know tomorrow you just survive otherwise youll get eaten by some predator Now 1000 years back it is okay youll have to protect yourself
 
 
 from plague right 500 years back it was some bacteria is going to eat you some tooth infection you are dead because you know there are no antibiotics now today there are different problems right you know how do you how do you stop a war for instance we are now living in a time where wars are waged for for reasons only people a few people understand now how do you ensure that these things dont exist i mean dont happen now this is a extremely powerful tool a tool that is you know nothing like nothing like this existed right so this is only
@@ -205,21 +154,13 @@ from plague right 500 years back it was some bacteria is going to eat you some t
 
 is as as powerful as it can get now it is left to human imagination uh uh so as to how to use this effectively now there will society will always have good players and bad players around the good ones will use it to betterment and the bad ones will try to misuse it and the the the struggle continues because of law of thermodynamics
 
-### Speaker 2
+speaker_2: Thats a very interesting way of linking the two This makes me wonder what do you think of this commodification of AI now
 
-Thats a very interesting way of linking the two This makes me wonder what do you think of this commodification of AI now
+speaker_3: The way of linking the doh
 
-### Speaker 3
+speaker_2: Package test you know Claude or Chad GPT
 
-The way of linking the doh
-
-### Speaker 2
-
-Package test you know Claude or Chad GPT
-
-### Speaker 3
-
-The commodity and something gets commoditized What will happen is commodification will make it accessible So once it gets accessible to a lot of people Ill give you my own example So Ive been a researcher for 15 years now I know how to write research level codes and makes algorithms work and so on What I didnt know is writing software end to end software that can actually go in the hands of users That always crippled me
+speaker_3: The commodity and something gets commoditized What will happen is commodification will make it accessible So once it gets accessible to a lot of people Ill give you my own example So Ive been a researcher for 15 years now I know how to write research level codes and makes algorithms work and so on What I didnt know is writing software end to end software that can actually go in the hands of users That always crippled me
 
 
 that I could build algorithms and systems and prototypes that can work at the prototype level but to make a prototype actually go into a users hand you need that you know the final mile push that was the job of a software engineer I I had to always go and talk to a software engineer and ask him or her to realize my idea put it make it into a product that people can use now if you go back to my my explanation that I gave in the case of my
@@ -233,21 +174,13 @@ have been commoditized now just two weeks back i built an app all by myself in i
 
 I could do it Now real people are using and real people are happy So what matters at the end of the day is that I mean how do you define impact Impact is simply defined as how many people how many lives did you touch and how many people did you make happy by whatever endeavors that you take up Lot of people want to actually help and solve problems in their society Making it a commodity will give you that power that now you know what problem exists You have a tool that is a commodity Use the tool solve the problem make people happy The loop is closed
 
-### Speaker 2
+speaker_2: Yeah again the roof was closed thats a very interesting uh you know uh recurring factor here
 
-Yeah again the roof was closed thats a very interesting uh you know uh recurring factor here
+speaker_3: Exactly yeah
 
-### Speaker 3
+speaker_2: Yeah I just wanted to bring this up from the two sort of startups that you worked for One was with the healthcare and now youre working on language models Can we just have a little bit of what those two were about
 
-Exactly yeah
-
-### Speaker 2
-
-Yeah I just wanted to bring this up from the two sort of startups that you worked for One was with the healthcare and now youre working on language models Can we just have a little bit of what those two were about
-
-### Speaker 3
-
-This comes from looking at problems that people are facing and asking the same question whether technology can be used to solve the problem So the first startup that I recently exit from is called Cognable This was created and this was run while I was a faculty at IIT Delhi So by the way my career progression is that after my PhD I was with industry for a few years then went to IIT Delhi as a faculty
+speaker_3: This comes from looking at problems that people are facing and asking the same question whether technology can be used to solve the problem So the first startup that I recently exit from is called Cognable This was created and this was run while I was a faculty at IIT Delhi So by the way my career progression is that after my PhD I was with industry for a few years then went to IIT Delhi as a faculty
 
 
 And then came back to ISC So when I was in IIT Delhi there was a student of mine a senior student of mine We were just chatting one day So children diagnosed with autism will do will not have what is called as a neurotypical brain Theyll have a neurodivergent brain where they dont see the world the same way that we see a lot of human beings do They see the world in a very very different way And this impacts their communication their interaction with the society their social skills
@@ -267,13 +200,9 @@ one such center the the moment i saw that i thought a lot of the ai and computer
 
 during COVID because parents could not take their children to therapy centers so we built systems and algorithms where parents can themselves administer these therapies at home
 
-### Speaker 2
+speaker_2: And its very high
 
-And its very high
-
-### Speaker 3
-
-So basically the technology wise there was a camera there is a there is a there is a microphone and every interaction that you are having with your child is being recorded with a camera and the microphone is is recording your speech And depending upon what sort of response that the child is giving to a particular type of command or a stimulus the algorithm will suggest what to do next So this is the this is the product at a very high level So we built a product we partnered with a lot of hospitals made a lot of parents use this and so on
+speaker_3: So basically the technology wise there was a camera there is a there is a there is a microphone and every interaction that you are having with your child is being recorded with a camera and the microphone is is recording your speech And depending upon what sort of response that the child is giving to a particular type of command or a stimulus the algorithm will suggest what to do next So this is the this is the product at a very high level So we built a product we partnered with a lot of hospitals made a lot of parents use this and so on
 
 
 Startup success are typically measured using economic outcomes We did get some economic outcomes We were acquired by one of the big companies in the US So that way we did have some consolation economic consolation as well But yeah we had a lot of patents filed around it We got a lot of publications from the work that we did And of course seeing real people use it and saying thank you that your technology is helping my son or daughter was actually priceless So that actually happened
@@ -281,68 +210,44 @@ Startup success are typically measured using economic outcomes We did get some e
 
 And then we took that into a logical end and I moved to ISE And then just last year I started another company So this works purely on agentic AI which is creating committee of these AI LLMs that would solve a particular task So a lot of these companies sit on legacy code I mean code that has been written 20 years back Thanks to banking
 
-### Speaker 2
+speaker_2: Like the banking uh systems and all yeah
 
-Like the banking uh systems and all yeah
-
-### Speaker 3
-
-systems and all yeah yeah so they dont know uh like how to if you want to add a new feature uh the systems are so old you know they are written like a a monolith youll have to break down break it down as microservices and pour that pour that into a new ecosystem and so on so we are building ai systems to assist those kinds of work as well so we also raise some venture capital money and so on so this is a this is slightly different in in the sense that we are catering to businesses not to not to individuals theres this term right b2s
+speaker_3: systems and all yeah yeah so they dont know uh like how to if you want to add a new feature uh the systems are so old you know they are written like a a monolith youll have to break down break it down as microservices and pour that pour that into a new ecosystem and so on so we are building ai systems to assist those kinds of work as well so we also raise some venture capital money and so on so this is a this is slightly different in in the sense that we are catering to businesses not to not to individuals theres this term right b2s
 
 
 C and B to B yeah so the previous thing was a B2C venture this is a B2B venture that we have uh gotten into
 
-### Speaker 2
-
-Yeah yeah
+speaker_2: Yeah yeah
 
 
 Yes Ask about la language models that you create Is does it become more complicated when uh in a place like India where you have so many different languages and
 
-### Speaker 3
-
-It definitely does but now they tweak language models right and its a matter of collecting more data India was always a neglected geography in the sense that nobody bothered about creating technology for native Indian people in their languages but its no longer the case because we are one sixth of worlds population thats a huge number so if any of these people have to thrive it has to the technology has to go in the hands of everybody in this in this world and Indians surprisingly
+speaker_3: It definitely does but now they tweak language models right and its a matter of collecting more data India was always a neglected geography in the sense that nobody bothered about creating technology for native Indian people in their languages but its no longer the case because we are one sixth of worlds population thats a huge number so if any of these people have to thrive it has to the technology has to go in the hands of everybody in this in this world and Indians surprisingly
 
 
 uh are extremely open to adapting new technology so the example is our UPI so this does not exist anywhere in the world yeah right even in the in the in the so called uh uh first world economies people still use physical cash and change and all that you know for a transaction but here we seldom when I have stopped using cash
 
-### Speaker 2
-
-Mm
+speaker_2: Mm
 
 
 Me too yeah
 
-### Speaker 3
-
-Yeah we never use cash So even for buying a grocery and all that we never use cash So Indians are very open to adapting technology So given that all these big companies who are building LLMs have now realized that that they have to build for Indians and it is happening And there have been a lot of sovereign and native efforts within the country that are backed by government and other startups where people have realized that there is economic value too in building for Indian population language Technically it does become a challenge because
+speaker_3: Yeah we never use cash So even for buying a grocery and all that we never use cash So Indians are very open to adapting technology So given that all these big companies who are building LLMs have now realized that that they have to build for Indians and it is happening And there have been a lot of sovereign and native efforts within the country that are backed by government and other startups where people have realized that there is economic value too in building for Indian population language Technically it does become a challenge because
 
 
 These these models are mostly built for uh English and other Western languages but no longer the case because now we are collecting data we are building uh good stuff around these things and even big companies and the startups have realized that there is value in in building for India
 
-### Speaker 2
+speaker_2: As we wind down the conversation because you had mentioned earlier and I had it in my notes as well after PhD you were working a little bit for I think three years or something three years yeah in industry right in corporate industries
 
-As we wind down the conversation because you had mentioned earlier and I had it in my notes as well after PhD you were working a little bit for I think three years or something three years yeah in industry right in corporate industries
+speaker_3: It is yeah
 
-### Speaker 3
+speaker_2: So how what is because we live in uh in this institution now where we work when there is a certain kind of rhythm to our life here and so on and work that happens I thought corporate was rhythm more
 
-It is yeah
+speaker_3: Oh really I thought corporate was the more
 
-### Speaker 2
+speaker_2: So maybe that is the way you see it right So I want to ask what is the fundamental difference between you know doing research in a university and doing research in maybe the rhythm is the nine not the nine to five but whatever is the equivalent of that
 
-So how what is because we live in uh in this institution now where we work when there is a certain kind of rhythm to our life here and so on and work that happens I thought corporate was rhythm more
-
-### Speaker 3
-
-Oh really I thought corporate was the more
-
-### Speaker 2
-
-So maybe that is the way you see it right So I want to ask what is the fundamental difference between you know doing research in a university and doing research in maybe the rhythm is the nine not the nine to five but whatever is the equivalent of that
-
-### Speaker 3
-
-So just joking Yeah see there are multiple differences actually right So I can only talk for the kind of area that I am in because I dont know how it happens in lets say biology or even you know other kind of science sciences I can only talk about engineering and specifically the computer science and these allied areas Okay Of course one big difference between industry and academia is that in
+speaker_3: So just joking Yeah see there are multiple differences actually right So I can only talk for the kind of area that I am in because I dont know how it happens in lets say biology or even you know other kind of science sciences I can only talk about engineering and specifically the computer science and these allied areas Okay Of course one big difference between industry and academia is that in
 
 
 academia you can you have the freedom to choose your problems but not so in industry so in industry problems typically come from the above so theyll decide the organization will decide what problems are of importance to them at what point in time and as long as the the questions that you ask are broadly aligned with their economic objectives you can work with that in that particular area now that can change very quickly so this quarter something is important
@@ -359,13 +264,9 @@ get developed so yeah today in computer science I think you know its very hard t
 
 playing an economic game and if you dont do it you will miss out the economic opportunity your competitor would take take over so youre always on the
 
-### Speaker 2
+speaker_2: Is that a matter of rigor or quick rigor
 
-Is that a matter of rigor or quick rigor
-
-### Speaker 3
-
-Yeah I would say quick rigor I dont know right But of course you know youll have to quickly implement your ideas and get it on the hands of the users right so you i mean see you can also see that as a positive thing because of course because uh you will see uh whatever you are building uh getting used by millions of users suppose you are in a company like google right you create a feature and it gets rolled out that will be used by millions of or rather billions of people across the world
+speaker_3: Yeah I would say quick rigor I dont know right But of course you know youll have to quickly implement your ideas and get it on the hands of the users right so you i mean see you can also see that as a positive thing because of course because uh you will see uh whatever you are building uh getting used by millions of users suppose you are in a company like google right you create a feature and it gets rolled out that will be used by millions of or rather billions of people across the world
 
 
 So thats direct impact But in academia whatever you do mostly stops at the level of writing papers Now who would take it to real users And unless I mean thats humongous effort But if you can crack foundational questions being in academia and convince stakeholders like government to implement you can do an impact that is much bigger than what industry can do So that way both of them have their positives and negatives Its a matter of taste
@@ -373,29 +274,17 @@ So thats direct impact But in academia whatever you do mostly stops at the level
 
 what I believe right you know one has to choose according to their taste
 
-### Speaker 2
+speaker_2: Yeah so I we generally end the podcast with one usual question but Ill add one more to that you mentioned because you worked in both these worlds is there a certain like would you suggest somebody join academia or somebody join this based on how they are sort of
 
-Yeah so I we generally end the podcast with one usual question but Ill add one more to that you mentioned because you worked in both these worlds is there a certain like would you suggest somebody join academia or somebody join this based on how they are sort of
+speaker_3: Sure I think we already discussed that right If you are somebody like who would want to stick with a question for a very long time and doesnt want to get aligned with the questions that somebody else is asking I think academia is the place If you are somebody who would want to who doesnt mind what questions are we solving as long as whatever we solve creates an immediate impact on people I think industry is a better place to be
 
-### Speaker 3
+speaker_2: Okay Yeah So sir the conversation with you has been fascinating because of the anecdotes and the stories that you have etc So uh if anybody whos got so far into the podcast and you want to tell them why they should pick up science going forward uh is there lets say an elevator pitch that you can give them
 
-Sure I think we already discussed that right If you are somebody like who would want to stick with a question for a very long time and doesnt want to get aligned with the questions that somebody else is asking I think academia is the place If you are somebody who would want to who doesnt mind what questions are we solving as long as whatever we solve creates an immediate impact on people I think industry is a better place to be
+speaker_3: Thank you to Hamburger Pitch for what To pick up
 
-### Speaker 2
+speaker_2: to pick up uh any science and academics
 
-Okay Yeah So sir the conversation with you has been fascinating because of the anecdotes and the stories that you have etc So uh if anybody whos got so far into the podcast and you want to tell them why they should pick up science going forward uh is there lets say an elevator pitch that you can give them
-
-### Speaker 3
-
-Thank you to Hamburger Pitch for what To pick up
-
-### Speaker 2
-
-to pick up uh any science and academics
-
-### Speaker 3
-
-academics see yeah its its pretty simple right so now is uh curiosity is is what you should start with it that is something you know my belief is that that is something that cannot be inculcated it should its an innate capability right i mean if if you are curious you are curious now if you are curious about everything around you the only way to uh quench that thirst of curiosity is by pursuing science so i mean after all what is science observe things around
+speaker_3: academics see yeah its its pretty simple right so now is uh curiosity is is what you should start with it that is something you know my belief is that that is something that cannot be inculcated it should its an innate capability right i mean if if you are curious you are curious now if you are curious about everything around you the only way to uh quench that thirst of curiosity is by pursuing science so i mean after all what is science observe things around
 
 
 you right and ask questions about why is something the way it is and to give it an engineering twist if you are also somebody that would want to solve problems for the society around you the only way to you do that is to put science into work see now that i am also a partly a businessman i dont see even business as a different venture because i see business also as uh uh it its the final uh leg in the in the chain of value
@@ -415,17 +304,11 @@ There is no other way to that that I know of where you can make asking questions
 
 Asking questions would be incentivized Now if you take science and engineering and make it a career now we are here incentivized for asking good questions and solving them Right so thats it I mean if youre somebody who is always curious about things and want to solve problems around you and ask questions science is the only way
 
-### Speaker 2
+speaker_2: I think Ive done this podcast for over a year now I think that is the best pitch Ive heard so far I think thats a great note to end as you mentioned this podcast Thank you so much for writing this episode It was a pleasure talking to you
 
-I think Ive done this podcast for over a year now I think that is the best pitch Ive heard so far I think thats a great note to end as you mentioned this podcast Thank you so much for writing this episode It was a pleasure talking to you
-
-### Speaker 3
-
-Yeah I think thats the new like
+speaker_3: Yeah I think thats the new like
 
 
 I think Im
 
-### Speaker 1
-
-Thank you for listening to Beyond the Signs Please hit the subscribe button to stay up to date with all the podcast offerings from the Office of Communications Indian Institute of Science
+speaker_1: Thank you for listening to Beyond the Signs Please hit the subscribe button to stay up to date with all the podcast offerings from the Office of Communications Indian Institute of Science

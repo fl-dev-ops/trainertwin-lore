@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Jag har föreläsarkompisar i branschen som jag beundrar och ser upp till och inspireras av som säger just nu i de här tiderna när vi jobbar väldigt mycket digitalt att bry dig inte om tekniken Eh låt ditt budskap vara du Bara du har någonting att säga så spelar resten ingen roll
+speaker_1: Jag har föreläsarkompisar i branschen som jag beundrar och ser upp till och inspireras av som säger just nu i de här tiderna när vi jobbar väldigt mycket digitalt att bry dig inte om tekniken Eh låt ditt budskap vara du Bara du har någonting att säga så spelar resten ingen roll
 
 
 Och jag gör ju den här inspelningen med en skiten superåtta app bara för att verkligen visa att det kanske inte är det viktigaste

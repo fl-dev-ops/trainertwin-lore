@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,22 +24,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: was Brexit
 
-was Brexit
+speaker_2: Sure
 
-### Speaker 2 · Speaker 2
+speaker_1: Was Boris Johnson was Brexit Another big one And was exactly and was um JK Rowling that started to harass trans people because I am a transgender person and I did my transition there in Scotland
 
-Sure
+speaker_2: Sure
 
-### Speaker 1 · Speaker 1
-
-Was Boris Johnson was Brexit Another big one And was exactly and was um JK Rowling that started to harass trans people because I am a transgender person and I did my transition there in Scotland
-
-### Speaker 2 · Speaker 2
-
-Sure
-
-### Speaker 1 · Speaker 1
-
-So during that period of time the harassment from JK Rowling spiraled the Brexit spiraled because Boris Johnson was an active
+speaker_1: So during that period of time the harassment from JK Rowling spiraled the Brexit spiraled because Boris Johnson was an active

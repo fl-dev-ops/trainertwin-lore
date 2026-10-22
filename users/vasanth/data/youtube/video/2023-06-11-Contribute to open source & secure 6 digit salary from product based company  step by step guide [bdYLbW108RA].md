@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-all welcome back to uncommon geeks my name is wasan i hope you all doing well in case if you are saying me first time on the internet im a content creator i help people to clear their interview i made a lot of series in the past which has been appreciated by many in case if you have not seen those series and if you are preparing for interview ill highly i would highly recommend please go ahead and watch the series so in this particular video im going to discuss as you already seen in the thumbnail where how to contribute to open source okay so lets take a simple example there are around 430 million open source project on the github okay so even if you decide to contribute to open source you should make a
+speaker_1: all welcome back to uncommon geeks my name is wasan i hope you all doing well in case if you are saying me first time on the internet im a content creator i help people to clear their interview i made a lot of series in the past which has been appreciated by many in case if you have not seen those series and if you are preparing for interview ill highly i would highly recommend please go ahead and watch the series so in this particular video im going to discuss as you already seen in the thumbnail where how to contribute to open source okay so lets take a simple example there are around 430 million open source project on the github okay so even if you decide to contribute to open source you should make a
 
 
 cautious decision of contributing to which open source okay and in the past I have contributed to a lot of open source even the prestigious projects like react react native view js angular etc okay so Ive contributed in both the segments of programming and the non programming aspects like helping people to document and show the output lot of things okay so Ive started contributing to open source even when I was not having a stronghold in JavaScript even my college days only I was contributing to open source so how it helped me and if you are someone whos not having a lot of
@@ -38,13 +36,9 @@ So you want something prestigious to showcase to a premium product company Lets 
 
 just named few okay now without wasting further time lets get started now without wasting further time lets get started with the coding part
 
-### Speaker 2
+speaker_2: I did
 
-I did
-
-### Speaker 1
-
-So Ive created one simple repository from my another account of another github account of mine my primary account is uh coolvacent this is another uh dummy account of mine so Ive not created anything I just created a plain project with just readmemd so there are other projects of mine where you can contribute Im gonna tell put the link in the description if possible Ill also explain them somewhere in the middle of the video lets say now you decide to contribute to this project of mine Ill put the link in the description if you want to add any javascript interview questions Ill be more than happy to accept them okay so click on folk
+speaker_1: So Ive created one simple repository from my another account of another github account of mine my primary account is uh coolvacent this is another uh dummy account of mine so Ive not created anything I just created a plain project with just readmemd so there are other projects of mine where you can contribute Im gonna tell put the link in the description if possible Ill also explain them somewhere in the middle of the video lets say now you decide to contribute to this project of mine Ill put the link in the description if you want to add any javascript interview questions Ill be more than happy to accept them okay so click on folk
 
 
 And by default it will be forked into whatever the name it is I am fine with this name If you want to make it like your own repository name you can rename it Okay I am fine with this particular repository I am creating a repository Okay Then now the repository is forking Once it is forked you have your own instance of the repository So lets say now you are running a company and you want to take somebodys code and build on your own That also you can do You want to contribute back to open source That also you can do with this approach Now copying the URL I am just going to this particular

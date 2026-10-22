@@ -27,8 +27,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -36,18 +36,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: As I was saying about Colombia and about Chile and all the other countries uh it was never easy But all of those steps all of those countries were very much aligned to my ultimate goal of creating an international and global career at the end of the day
 
-As I was saying about Colombia and about Chile and all the other countries uh it was never easy But all of those steps all of those countries were very much aligned to my ultimate goal of creating an international and global career at the end of the day
+speaker_2: Yes
 
-### Speaker 2 · Speaker 2
+speaker_1: So again it was never easy But it was rewarding when I look back Im very grateful for all the challenges all the moments that I put myself in a situation where I was like wow what do I do now Uh I had to develop muscles and I had to reinvent myself in ways that I would never have done if I were in Brazil
 
-Yes
-
-### Speaker 1 · Speaker 1
-
-So again it was never easy But it was rewarding when I look back Im very grateful for all the challenges all the moments that I put myself in a situation where I was like wow what do I do now Uh I had to develop muscles and I had to reinvent myself in ways that I would never have done if I were in Brazil
-
-### Speaker 2 · Speaker 2
-
-Absolutely
+speaker_2: Absolutely

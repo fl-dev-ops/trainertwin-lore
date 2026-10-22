@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So getting into action means well shipping before your product is ready right I know it sounds scary but getting into action means learning some language putting ourselves out there recording ourselves for example audio or video rewatching it studying how we use our voice Some say that our voice is a musical instrument So how do we use it Do we use all the colors all the nuances of our voice And thats the only way you can evaluate it is if you record yourself and you iterate
+speaker_1: So getting into action means well shipping before your product is ready right I know it sounds scary but getting into action means learning some language putting ourselves out there recording ourselves for example audio or video rewatching it studying how we use our voice Some say that our voice is a musical instrument So how do we use it Do we use all the colors all the nuances of our voice And thats the only way you can evaluate it is if you record yourself and you iterate

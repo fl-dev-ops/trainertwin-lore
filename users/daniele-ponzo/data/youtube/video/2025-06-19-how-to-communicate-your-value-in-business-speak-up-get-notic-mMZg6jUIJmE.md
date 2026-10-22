@@ -32,7 +32,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -40,6 +40,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-dont focus too much on certifications focus on showing the people in an understandable language which is English um what you are capable of doing how you engage problems and how you solve those kind of problems And that is what I saw for the most part of people applying somewhere mentees fellows all those kind of people we help actually had good success with that because in the end they got their jobs because they were impressing some people who made decisions and they were not going through the standard process There are way too many people going through the standard processes right now You need to stand out The best way how we can stand out is show yourself and say something because that is what sticks
+speaker_1: dont focus too much on certifications focus on showing the people in an understandable language which is English um what you are capable of doing how you engage problems and how you solve those kind of problems And that is what I saw for the most part of people applying somewhere mentees fellows all those kind of people we help actually had good success with that because in the end they got their jobs because they were impressing some people who made decisions and they were not going through the standard process There are way too many people going through the standard processes right now You need to stand out The best way how we can stand out is show yourself and say something because that is what sticks

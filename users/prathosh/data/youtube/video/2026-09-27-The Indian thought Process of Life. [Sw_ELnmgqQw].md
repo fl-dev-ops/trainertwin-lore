@@ -8,9 +8,9 @@ model: sarvam saaras:v4 + diarization
 transcript: true
 speaker_count: 3
 speakers:
-  speaker_0: Speaker 2
-  speaker_1: Speaker 3
-  speaker_2: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
 language: en-IN
 ---
 
@@ -18,14 +18,9 @@ language: en-IN
 
 ## Transcript
 
+speaker_1: उत्तम वेद मंत्र पाठक के गुण होते हैं जो पाणिनीय शिक्षा इस ग्रंथ में बताए गए हैं
 
-### Speaker 2
-
-उत्तम वेद मंत्र पाठक के गुण होते हैं जो पाणिनीय शिक्षा इस ग्रंथ में बताए गए हैं
-
-### Speaker 4
-
-गुरुभ्यो नमः
+speaker_2: गुरुभ्यो नमः
 हरिः ॐ
 निशुसी ईदगणपते गणेशो त्वामाह्रविप्रातमङ्गवेनाम्
 नरते त्वत्क्रीयते किञ्चनारे महामर्खन्माघवन् चित्रमर्च्या
@@ -212,16 +207,12 @@ So
 
 Evam uktva I will I will take leave and Ill I thank Sangha and the organizers for giving me an opportunity As I told perhaps I dont belong in this stage but I am very thankful that I was given this opportunity So I will do a samarpana of a little thing that I said to my gurus and Bhagavan Sri Krishna Sri Krishna arpanamastu Thank you Namaste
 
-### Speaker 2
-
-shown us that our ancient shastras are not just historical texts but living frameworks that can inform the most advanced technologies of the 21st centuries We are truly grateful for your clarity and depth you have brought to this stage Thank you so much sir
+speaker_1: shown us that our ancient shastras are not just historical texts but living frameworks that can inform the most advanced technologies of the 21st centuries We are truly grateful for your clarity and depth you have brought to this stage Thank you so much sir
 
 
 उत्तम वक्ता और सुधी श्रोता के बीच में अधिक समय रहना नहीं चाहिए अतः मैं पूजनीय सरसंघचालक डॉक्टर मोहन भागवत महोदय जी को अनुरोध करती हूं कि आप अपनी ओजस्वी वाणी से सभा को संबोधित करें
 
-### Speaker 3
-
-सभी महानुभाव वेदमूर्ति कुमार काळे जी उपस्थित सज्जन माता भगिनि
+speaker_3: सभी महानुभाव वेदमूर्ति कुमार काळे जी उपस्थित सज्जन माता भगिनि
 
 
 वास्तव में जो विषय आपके सामने आना चाहिए वो आ गया है

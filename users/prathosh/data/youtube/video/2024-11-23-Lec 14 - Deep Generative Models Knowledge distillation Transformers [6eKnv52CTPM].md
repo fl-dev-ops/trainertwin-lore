@@ -8,32 +8,23 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 14 - Deep Generative Models Knowledge distillation Transformers
 
 ## Transcript
 
+speaker_1: Not yet
 
-### Speaker 1
+speaker_2: So yeah so we will see that and well let us Ill tell you how people evolve to transformers and talk about transformers as well and then we can close Okay We have distillation also we plan on distillation
 
-Not yet
+speaker_1: No legislation is pending
 
-### Speaker 2
-
-So yeah so we will see that and well let us Ill tell you how people evolve to transformers and talk about transformers as well and then we can close Okay We have distillation also we plan on distillation
-
-### Speaker 1
-
-No legislation is pending
-
-### Speaker 2
-
-the dissipation is printing okay so lets uh okay lets start with dissipation and then move to sequence models okay
+speaker_2: the dissipation is printing okay so lets uh okay lets start with dissipation and then move to sequence models okay
 
 
 Its very handy
@@ -50,39 +41,25 @@ Its not the primary objective but still the context in which distillation is use
 
 Reduce the size of
 
-### Speaker 1
+speaker_1: Something
 
-Something
-
-### Speaker 2
-
-Are you laughing something
+speaker_2: Are you laughing something
 
 
 Want to see my screen
 
-### Speaker 1
+speaker_1: Not yet sir
 
-Not yet sir
-
-### Speaker 2
-
-I dont know
+speaker_2: I dont know
 
 
 It is saying that it is showing the screen okay let me do it again
 
-### Speaker 1
+speaker_1: At least I am not able to see
 
-At least I am not able to see
+speaker_3: No no it is not shared
 
-### Speaker 3
-
-No no it is not shared
-
-### Speaker 2
-
-Still not seen
+speaker_2: Still not seen
 
 
 Uh well come rejoin from here
@@ -114,35 +91,23 @@ D desirable size
 
 It is called the student network
 
-### Speaker 1
+speaker_1: Sir I have a question
 
-Sir I have a question
+speaker_2: Uh lets let me complete this and then yeah tell me what is it
 
-### Speaker 2
-
-Uh lets let me complete this and then yeah tell me what is it
-
-### Speaker 1
-
-Sir this is related to like a bit related to the assignment So like in the animal data set we have around 5500 images We divided among 90 classes right And even when we were going for the classification tasks we saw that the training accuracy was very high but the testing accuracy is always very low So what my perception was since the data
+speaker_1: Sir this is related to like a bit related to the assignment So like in the animal data set we have around 5500 images We divided among 90 classes right And even when we were going for the classification tasks we saw that the training accuracy was very high but the testing accuracy is always very low So what my perception was since the data
 
 
 the data size is very small like we have good number of classes but not sufficient images per classes that is the reason that the model is able to learn the features from like you know remember the features and not able to classify properly on a newer set of images is that the correct interpretation
 
-### Speaker 2
+speaker_2: Yeah why what is the relevance of that question to what we are doing now I think it would have been asked at the end of the class right anyway so now that you have asked
 
-Yeah why what is the relevance of that question to what we are doing now I think it would have been asked at the end of the class right anyway so now that you have asked
-
-### Speaker 1
-
-Anyway so now that you have asked
+speaker_1: Anyway so now that you have asked
 
 
 So the
 
-### Speaker 2
-
-So the reason why youre asking We were looking at distillation I think after this after I finished this part you could have asked anyway Yeah that can be one of the reasons So what happens is when your data has multiple short modes so you can think of each of the classes as one data mode And typically when the data set has too many modes okay with very less samples amongst each of the mode then getting a
+speaker_2: So the reason why youre asking We were looking at distillation I think after this after I finished this part you could have asked anyway Yeah that can be one of the reasons So what happens is when your data has multiple short modes so you can think of each of the classes as one data mode And typically when the data set has too many modes okay with very less samples amongst each of the mode then getting a
 
 
 A discriminator or classifier that would put decision boundaries across those classes would be difficult
@@ -150,13 +115,9 @@ A discriminator or classifier that would put decision boundaries across those cl
 
 Yeah so in that way your interpretation is correct
 
-### Speaker 1
+speaker_1: Okay
 
-Okay
-
-### Speaker 2
-
-we continue with what we were doing so if you have any questions on assignments etc please note that down and ask at the like at the end of the class okay so that it does not break the flow of what is being done of course you can ask questions regarding what is being taught okay
+speaker_2: we continue with what we were doing so if you have any questions on assignments etc please note that down and ask at the like at the end of the class okay so that it does not break the flow of what is being done of course you can ask questions regarding what is being taught okay
 
 
 Anyway wave was I yeah so this relation two neural networks one large neural network that needs to be compressed that is called that is typically called the teacher network And there is another neural network with the desirable size which is called the student network okay
@@ -314,118 +275,66 @@ distill it out to a smaller student and compare it with just training a student 
 
 okay questions now uh yeah we wake
 
-### Speaker 4
+speaker_4: So two small questions So should the sizes of the features of the Z and the I mean the both the ZT and ZS should they both be the same
 
-So two small questions So should the sizes of the features of the Z and the I mean the both the ZT and ZS should they both be the same
+speaker_2: By sizes you mean the dimensionality
 
-### Speaker 2
+speaker_4: Dimensions yes
 
-By sizes you mean the dimensionality
+speaker_2: Yeah they they have to be same otherwise how would you define KL divergence
 
-### Speaker 4
+speaker_4: Okay so the second question is how important is the KL divergence term in this so if we skip that and if we simply use a completely different network so is that still called distillation
 
-Dimensions yes
+speaker_2: What do you mean by that See if you do not use any features from the teacher while training the student network then there is no distillation right It is simply an independent training
 
-### Speaker 2
+speaker_4: Right okay
 
-Yeah they they have to be same otherwise how would you define KL divergence
+speaker_2: Isnt it
 
-### Speaker 4
+speaker_4: Yeah win you
 
-Okay so the second question is how important is the KL divergence term in this so if we skip that and if we simply use a completely different network so is that still called distillation
-
-### Speaker 2
-
-What do you mean by that See if you do not use any features from the teacher while training the student network then there is no distillation right It is simply an independent training
-
-### Speaker 4
-
-Right okay
-
-### Speaker 2
-
-Isnt it
-
-### Speaker 4
-
-Yeah win you
-
-### Speaker 2
-
-I mean see it is called estimation only because you have a teacher network and you are using those features too
+speaker_2: I mean see it is called estimation only because you have a teacher network and you are using those features too
 
 
 But youre actually imposing those features on the features of the student thats all right
 
-### Speaker 4
+speaker_4: Right yes so
 
-Right yes so
+speaker_2: Its like whatever teacher network has learned the transformation that the teacher teacher network has learned are trying to ensure that the features of the student network matches those features at a distributional level
 
-### Speaker 2
+speaker_4: Yeah but if the student network is struggling too hard to simply match with the teacher network more than increasing the accuracy of the classification task then should we reduce the weightage on the KL division task
 
-Its like whatever teacher network has learned the transformation that the teacher teacher network has learned are trying to ensure that the features of the student network matches those features at a distributional level
+speaker_2: Of course of course of course I mean thats thats always there right I mean when you have for two loss terms you can you always rate them accordingly
 
-### Speaker 4
+speaker_4: Yeah so thats all thank you
 
-Yeah but if the student network is struggling too hard to simply match with the teacher network more than increasing the accuracy of the classification task then should we reduce the weightage on the KL division task
+speaker_2: Okay uh yeah salvage
 
-### Speaker 2
+speaker_3: So if Z are just the pre softmax terms so why to include this expected loss in student network Because anyways they will be same right If they are same then
 
-Of course of course of course I mean thats thats always there right I mean when you have for two loss terms you can you always rate them accordingly
+speaker_2: Good question See what happens this is a practical thing What happens is when you do not have the supervised loss because I mean teacher network may itself have not learned to solve the task properly right The performance of the student network will not be great if you dont include that
 
-### Speaker 4
+speaker_3: So just to be sure that it is learning the main correct
 
-Yeah so thats all thank you
-
-### Speaker 2
-
-Okay uh yeah salvage
-
-### Speaker 3
-
-So if Z are just the pre softmax terms so why to include this expected loss in student network Because anyways they will be same right If they are same then
-
-### Speaker 2
-
-Good question See what happens this is a practical thing What happens is when you do not have the supervised loss because I mean teacher network may itself have not learned to solve the task properly right The performance of the student network will not be great if you dont include that
-
-### Speaker 3
-
-So just to be sure that it is learning the main correct
-
-### Speaker 2
-
-Correct whatever is needed no The main uh
+speaker_2: Correct whatever is needed no The main uh
 
 
 Learning should happen that is why the supervised loss is also included
 
-### Speaker 3
+speaker_3: Thank
 
-Thank
+speaker_2: Unkitted
 
-### Speaker 2
-
-Unkitted
-
-### Speaker 1
-
-Sir if the teacher network is like as we are asking it is very large and lets say the data size is not sufficient enough for the learning to happen correctly and at the same time then we are trying to use that loss for training the student network
+speaker_1: Sir if the teacher network is like as we are asking it is very large and lets say the data size is not sufficient enough for the learning to happen correctly and at the same time then we are trying to use that loss for training the student network
 
 
 uh how can we expect the student network to be learned properly
 
-### Speaker 2
+speaker_2: Yeah youre saying if the teacher network is bad how do how what does what happens to distillation
 
-Yeah youre saying if the teacher network is bad how do how what does what happens to distillation
+speaker_1: No no like my like I asked a previous question right If the uh the data set is not sufficiently large So we cannot expect the teacher network itself to learn the uh the classification properly And then we are trying to train the student network
 
-### Speaker 1
-
-No no like my like I asked a previous question right If the uh the data set is not sufficiently large So we cannot expect the teacher network itself to learn the uh the classification properly And then we are trying to train the student network
-
-### Speaker 2
-
-That is what no what happens if the teacher network itself is not good
+speaker_2: That is what no what happens if the teacher network itself is not good
 
 
 That is what you are asking Yeah Yes Yeah So yeah So what happens is if there is like some level of uncertainty in the teacher network is OK right As we will see in the theory but if teacher network is not even doing like
@@ -442,27 +351,19 @@ Anything else
 
 Shall we continue
 
-### Speaker 4
+speaker_4: Yeah just one small query what is the benefit is it going to use less resources
 
-Yeah just one small query what is the benefit is it going to use less resources
-
-### Speaker 2
-
-Training definitely not
+speaker_2: Training definitely not
 
 
 But the inference of course right because the student network is by design smaller in terms of sizes it is going to use less number of less resources during inference Because finally what you end up storing is the student network not the teacher network
 
-### Speaker 1
-
-Sir one more question the training has to happen simultaneously
+speaker_1: Sir one more question the training has to happen simultaneously
 
 
 First we have to train the teacher network and then the student network
 
-### Speaker 2
-
-So thats a design choice typically what is done is uh uh
+speaker_2: So thats a design choice typically what is done is uh uh
 
 
 Feature network is trained up to some level okay where you have decent accuracy and then uh both of them were trained simultaneously
@@ -611,13 +512,9 @@ They consider okay so any questions so far What Im trying to say is there are th
 
 can probabilistically belong into one of k possible classes But labeling is always done in such a way that the uncertainty that that is there in the labeling is ignored and labels are marked labels are given in a deterministic way Is this clear
 
-### Speaker 4
+speaker_4: Yes sir
 
-Yes sir
-
-### Speaker 2
-
-Okay now what is the consequence of it is the following define
+speaker_2: Okay now what is the consequence of it is the following define
 
 
 Two types of risks or losses
@@ -802,54 +699,34 @@ If you have gotten P of Y given X to a fair extent from the teacher network then
 
 Okay thats about it uh questions yeah Vivek
 
-### Speaker 4
-
-So the so we uh you told about the base uh distill distill laws uh but instead of using that so if we just use the entropy of the uh pre decision layer output I mean if we uh try to
+speaker_4: So the so we uh you told about the base uh distill distill laws uh but instead of using that so if we just use the entropy of the uh pre decision layer output I mean if we uh try to
 
 
 Minimize the entropy will that lead to any benefit
 
-### Speaker 2
+speaker_2: Its that same as this isnt it
 
-Its that same as this isnt it
-
-### Speaker 4
-
-Thats what it should be less indecisive uh that in that that way the entropy will uh reduce
+speaker_4: Thats what it should be less indecisive uh that in that that way the entropy will uh reduce
 
 
 I yeah so okay
 
-### Speaker 2
+speaker_2: very uh in fact its not the absolute entropy it becomes i mean what we are suggesting is to minimize the cross entropy here
 
-very uh in fact its not the absolute entropy it becomes i mean what we are suggesting is to minimize the cross entropy here
+speaker_4: Cross entropy okay between the teacher and the student
 
-### Speaker 4
-
-Cross entropy okay between the teacher and the student
-
-### Speaker 2
-
-Correct correct
+speaker_2: Correct correct
 
 
 I mean its actually not the teacher It should be the true distribution the post true posterior of labels given data That is what it should be Now because we dont have access to that given hard labels we will try another neural network and use its logits as an approximate for that That is the idea
 
-### Speaker 4
+speaker_4: Okay
 
-Okay
+speaker_2: Any other question
 
-### Speaker 2
+speaker_1: If the student network or the size of the student network is not so small its almost same same to the teacher network then what is the benefit of doing this because we can directly do the
 
-Any other question
-
-### Speaker 1
-
-If the student network or the size of the student network is not so small its almost same same to the teacher network then what is the benefit of doing this because we can directly do the
-
-### Speaker 2
-
-I told you no it is improve improve improve generalization you know it will do much better on test data unseen data
+speaker_2: I told you no it is improve improve improve generalization you know it will do much better on test data unseen data
 
 
 Because now you are not training this neural network just using hard labels but you are trying to get using I mean you are incorporating the uncertainty also that is there in the labeling
@@ -860,20 +737,14 @@ Got it
 
 And do it
 
-### Speaker 1
+speaker_1: Sir for the supervised loss we will be taking up the true labels y and the approximated labels from the S S phi network right
 
-Sir for the supervised loss we will be taking up the true labels y and the approximated labels from the S S phi network right
-
-### Speaker 2
-
-Of course yeah
+speaker_2: Of course yeah
 
 
 Youre saying why why you are doing supervised training for the student network youre saying yeah
 
-### Speaker 1
-
-No no no Im um
+speaker_1: No no no Im um
 
 
 Im trying to understand like
@@ -881,17 +752,11 @@ Im trying to understand like
 
 what are we comparing are we comparing it from the uh labels generated from f theta network or from the sv network
 
-### Speaker 2
+speaker_2: labels here the supervised losses losses with these true labels the output of the SVE network and the true labels thats what the losses between
 
-labels here the supervised losses losses with these true labels the output of the SVE network and the true labels thats what the losses between
+speaker_1: And this F theta network so this can be any network right It need not be trained just that we need a representation for well if it
 
-### Speaker 1
-
-And this F theta network so this can be any network right It need not be trained just that we need a representation for well if it
-
-### Speaker 2
-
-Well if its not if its not trained then how do you expect it to give uh the actual P of I units
+speaker_2: Well if its not if its not trained then how do you expect it to give uh the actual P of I units
 
 
 Should be trained should be trained in a supervised way yeah
@@ -935,13 +800,9 @@ about distillation do you need a five minutes break ten minutes break before we 
 
 Hello am I audible
 
-### Speaker 1
+speaker_1: Yes it is
 
-Yes it is
-
-### Speaker 2
-
-Shall we shall we get back after the break
+speaker_2: Shall we shall we get back after the break
 
 
 So
@@ -961,76 +822,48 @@ Let me just share my screen
 
 Yeah we wait you have a question
 
-### Speaker 4
+speaker_4: Yes sir so I was just seeing the paper so what is temperature scaling
 
-Yes sir so I was just seeing the paper so what is temperature scaling
+speaker_2: Oh yeah yeah So that is like I think it was you or somebody else who talked about the weighting of those two losses no
 
-### Speaker 2
+speaker_4: Okay yes
 
-Oh yeah yeah So that is like I think it was you or somebody else who talked about the weighting of those two losses no
-
-### Speaker 4
-
-Okay yes
-
-### Speaker 2
-
-uh the supervised and the uh clear losses
+speaker_2: uh the supervised and the uh clear losses
 
 
 That is what is referred to as temperature scale how much weight do you have to give for each of them
 
-### Speaker 4
-
-Okay
+speaker_4: Okay
 
 
 Okay sir said uh okay so what is a well calibrated models so what can we do to what how should the temperature be scaled
 
-### Speaker 2
+speaker_2: Thats a hyperbolic effect
 
-Thats a hyperbolic effect
+speaker_4: Okay so should we should we learn that hyperparameter or should we
 
-### Speaker 4
-
-Okay so should we should we learn that hyperparameter or should we
-
-### Speaker 2
-
-Yeah see just like with any other loss function right I mean where you have two or more components and you need to decide the weight either you can do it using hyperparameter tuning or you can learn it In fact I have a paper sometime back one year two years back where we cast it as a meta learning problem and learn both the weights loss weights and the losses together All that is again
+speaker_2: Yeah see just like with any other loss function right I mean where you have two or more components and you need to decide the weight either you can do it using hyperparameter tuning or you can learn it In fact I have a paper sometime back one year two years back where we cast it as a meta learning problem and learn both the weights loss weights and the losses together All that is again
 
 
 level up but yeah so typically it is trained as a hyperparameter either you learn it or keep it I mean fix it based on validation data
 
-### Speaker 4
+speaker_4: So can we can we have can we have a link to the paper
 
-So can we can we have can we have a link to the paper
+speaker_2: I mean actually shared it no I actually shared it
 
-### Speaker 2
-
-I mean actually shared it no I actually shared it
-
-### Speaker 4
-
-I mean
+speaker_4: I mean
 
 
 Okay its the same paper okay
 
-### Speaker 2
-
-Hes the same
+speaker_2: Hes the same
 
 
 So you mean my paper youre saying huh
 
-### Speaker 4
+speaker_4: Yeah yeah yeah
 
-Yeah yeah yeah
-
-### Speaker 2
-
-Hold on
+speaker_2: Hold on
 
 
 ALMKD
@@ -1038,13 +871,9 @@ ALMKD
 
 the paper or the link
 
-### Speaker 4
+speaker_4: Maybe you can share the name and the title
 
-Maybe you can share the name and the title
-
-### Speaker 2
-
-Your title is there but I myself should find my paper now where is it
+speaker_2: Your title is there but I myself should find my paper now where is it
 
 
 Its published in AAA but where is the link for that
@@ -1064,13 +893,9 @@ I just put it in the chat window So what we do is that wherever you have these k
 
 We actually learn that temperature
 
-### Speaker 4
+speaker_4: Okay okay okay knowledge distillation yeah so two applications okay
 
-Okay okay okay knowledge distillation yeah so two applications okay
-
-### Speaker 2
-
-If you look at equation nine ten and all that we actually learn that and show that uh like that its just an optimal value we do it using uh
+speaker_2: If you look at equation nine ten and all that we actually learn that and show that uh like that its just an optimal value we do it using uh
 
 
 this thing uh
@@ -1078,16 +903,12 @@ this thing uh
 
 Metal only yeah it is what the report is about But generally that is not done you know it is taken as a hyperparameter and used to validate fixed based on validation data
 
-### Speaker 4
-
-Okay okay just through some sample values and uh what is giving the right data okay
+speaker_4: Okay okay just through some sample values and uh what is giving the right data okay
 
 
 Okay
 
-### Speaker 2
-
-Lets move on The final piece that we will talk about is the
+speaker_2: Lets move on The final piece that we will talk about is the
 
 
 Quince modelling
@@ -1335,29 +1156,17 @@ have a look at it where he formulates the problem and write downs the likelihood
 
 Any questions so far on this
 
-### Speaker 4
+speaker_4: So but in this MARCO model ah are we actually passing the is it dependent on the past I mean
 
-So but in this MARCO model ah are we actually passing the is it dependent on the past I mean
+speaker_2: It is no it is because it is Markovian yeah
 
-### Speaker 2
+speaker_3: So just to know I mean you said when we say a sentence right we say one word and the next word is basically we can predict whatever is the next word kind of right
 
-It is no it is because it is Markovian yeah
+speaker_2: Not predict there is a probability over what the next word is going to be that is reasonable because if you are con yeah because in a given language given that you have uttered one word theres a certain probability of what the next word is going to be
 
-### Speaker 3
+speaker_3: So it just depends on the previous word alone right
 
-So just to know I mean you said when we say a sentence right we say one word and the next word is basically we can predict whatever is the next word kind of right
-
-### Speaker 2
-
-Not predict there is a probability over what the next word is going to be that is reasonable because if you are con yeah because in a given language given that you have uttered one word theres a certain probability of what the next word is going to be
-
-### Speaker 3
-
-So it just depends on the previous word alone right
-
-### Speaker 2
-
-I mean it depends on what order of the Markovian assumption that you are making you can make it a first order Markov second order Markov third order Markov anything
+speaker_2: I mean it depends on what order of the Markovian assumption that you are making you can make it a first order Markov second order Markov third order Markov anything
 
 
 Its called an n gram model right You can make it a unigram bigram trigram anything right So it is not one word always In diffusion models we assumed it to be a first order Markov process but it need not be first order Typically it is taken to be a third or fourth order Markov process when it comes to the sweet signals
@@ -1434,13 +1243,9 @@ xt is coming into u times of v times xt and the next state or next hidden state 
 
 Its right what Im writing no we times that is this yeah u times x t x yeah yeah
 
-### Speaker 3
+speaker_3: Oh
 
-Oh
-
-### Speaker 2
-
-u times xt
+speaker_2: u times xt
 
 
 Less
@@ -1469,16 +1274,12 @@ t and y1 to yt observe that everywhere so you have the same u w and v exact same
 
 So this is what is called as parameter sharing across time
 
-### Speaker 1
-
-So in the equation for yt
+speaker_1: So in the equation for yt
 
 
 Shouldnt XT be multiplied with U
 
-### Speaker 2
-
-x t b multiplied with u see the the way i have written is uh that you take x t here multiplied with v and then get y t and you take x t but i can write u here perhaps this is better no write it this way
+speaker_2: x t b multiplied with u see the the way i have written is uh that you take x t here multiplied with v and then get y t and you take x t but i can write u here perhaps this is better no write it this way
 
 
 I think this is better
@@ -1543,25 +1344,15 @@ And in the in okay lets not call it YM so that is XT and this is
 
 Typically how it is done is that there is a special symbol called end of sequence symbol which is one of the tokens that is used Now you keep emitting or you keep generating till you get the end of sequence symbol And once you see the end of sequence symbol just stop it there That is how the translation or decoding is done So this is the decoding network
 
-### Speaker 1
+speaker_1: Sorry youre not audible at least to me
 
-Sorry youre not audible at least to me
+speaker_2: Is that so Hello
 
-### Speaker 2
+speaker_3: And also
 
-Is that so Hello
+speaker_4: Youre audible for us homie
 
-### Speaker 3
-
-And also
-
-### Speaker 4
-
-Youre audible for us homie
-
-### Speaker 2
-
-Okay so this is the uh the input language
+speaker_2: Okay so this is the uh the input language
 
 
 Sentence in input language and this is the translated output
@@ -1569,78 +1360,46 @@ Sentence in input language and this is the translated output
 
 Yeah so this is the typical encoding decoding model using RNN kind of architectures And this was actually in the state of the art till lets say 2014 2015 times okay In some form or the other of it which is an improvisation over this is what was being done Any questions so far
 
-### Speaker 3
-
-Yes just one question
+speaker_3: Yes just one question
 
 
 Uh you said we dont send the speech initially we send the symbols right and then this is
 
-### Speaker 2
+speaker_2: No no this is this is this is a text translation no this is a machine translation task
 
-No no this is this is this is a text translation no this is a machine translation task
-
-### Speaker 3
-
-No no no but before this
+speaker_3: No no no but before this
 
 
 Uh you said symbols are transmitted not speech and speech is regenerated right
 
-### Speaker 2
+speaker_2: Uh the you mean for the telephony right Long distance telephony and all that Yes that is true
 
-Uh the you mean for the telephony right Long distance telephony and all that Yes that is true
+speaker_3: And how voice can be transmitted actually or how it will recognize like if I speak how the generated signal will match my voice
 
-### Speaker 3
-
-And how voice can be transmitted actually or how it will recognize like if I speak how the generated signal will match my voice
-
-### Speaker 2
-
-Okay Yeah thats a good question See what is done is the LPC model right One there is content There is another thing which is your signature which is that no matter what you speak there is a particular source signal that that mimics your voice that is your signature Okay Even that is transmitted And that does not require a lot more bits I mean that will go to speech signal speech processing theory So two things are transmitted One the
+speaker_2: Okay Yeah thats a good question See what is done is the LPC model right One there is content There is another thing which is your signature which is that no matter what you speak there is a particular source signal that that mimics your voice that is your signature Okay Even that is transmitted And that does not require a lot more bits I mean that will go to speech signal speech processing theory So two things are transmitted One the
 
 
 part of it the other is your voice signature think of it like that so its like given your voice i can overlay any of the symbol any of the phoneme that i want on your particular voice thats the idea
 
-### Speaker 3
+speaker_3: And for this text thing the words can be in different sequence when transmitted into or translated into different language
 
-And for this text thing the words can be in different sequence when transmitted into or translated into different language
+speaker_2: No no no words no words will be of different length I said
 
-### Speaker 2
+speaker_3: No length is fine but one language may have a different order of words If their literal meaning is taken then it will not make sense Like in different language it will be a different sequence of words
 
-No no no words no words will be of different length I said
+speaker_2: Now the words themselves will be very different right
 
-### Speaker 3
+speaker_3: Yeah and their sequence will also be different right
 
-No length is fine but one language may have a different order of words If their literal meaning is taken then it will not make sense Like in different language it will be a different sequence of words
+speaker_2: When words themselves change how would the sequence matter of course statements will be different so
 
-### Speaker 2
+speaker_3: how that is learned while predicting
 
-Now the words themselves will be very different right
+speaker_2: Yeah see that is why what you predict is given the previous word that you have out I mean you have given as output the next word is predicted That is conditioned on the previous word Now you can see here that the output right y2 depends on the previous word y1 So if you have enough data the hope is that the model would see all those combinations implicitly
 
-### Speaker 3
+speaker_3: Okay but first well be in the tradition
 
-Yeah and their sequence will also be different right
-
-### Speaker 2
-
-When words themselves change how would the sequence matter of course statements will be different so
-
-### Speaker 3
-
-how that is learned while predicting
-
-### Speaker 2
-
-Yeah see that is why what you predict is given the previous word that you have out I mean you have given as output the next word is predicted That is conditioned on the previous word Now you can see here that the output right y2 depends on the previous word y1 So if you have enough data the hope is that the model would see all those combinations implicitly
-
-### Speaker 3
-
-Okay but first well be in the tradition
-
-### Speaker 2
-
-condition done condition ah see now the question is I mean how would the first word be uh predicted right the first word would be predicted based on the input sequence and what the input sequence information goes to the the output rnn through this last hidden state ht so its like you encode the input sequence in this hidden state ht and that goes as an input to the decoder okay and
+speaker_2: condition done condition ah see now the question is I mean how would the first word be uh predicted right the first word would be predicted based on the input sequence and what the input sequence information goes to the the output rnn through this last hidden state ht so its like you encode the input sequence in this hidden state ht and that goes as an input to the decoder okay and
 
 
 encoder gives you the first word right based on the first word and the hidden represent there is also one other hidden representation here no for the
@@ -1648,21 +1407,13 @@ encoder gives you the first word right based on the first word and the hidden re
 
 or the decoder also based on that the next words are predicted one by one
 
-### Speaker 3
+speaker_3: Okay and is it trained on some kind of literature or trend
 
-Okay and is it trained on some kind of literature or trend
+speaker_2: Pairs pairs pairs they are trained on pairs of sentences from languages So you have to have a lot of pairs of English and Hindi sentences and given a pair of English and Hindi sentence it will be trained that way Its always trained on pairs
 
-### Speaker 2
+speaker_3: Here you are saying
 
-Pairs pairs pairs they are trained on pairs of sentences from languages So you have to have a lot of pairs of English and Hindi sentences and given a pair of English and Hindi sentence it will be trained that way Its always trained on pairs
-
-### Speaker 3
-
-Here you are saying
-
-### Speaker 2
-
-Yes be I have this
+speaker_2: Yes be I have this
 
 
 Let me write that down
@@ -1670,75 +1421,43 @@ Let me write that down
 
 Does it make sense
 
-### Speaker 3
+speaker_3: Yeah so even if its trained on pairs of sentences it will not kind of do we do couple right It will just try to generate each word separately
 
-Yeah so even if its trained on pairs of sentences it will not kind of do we do couple right It will just try to generate each word separately
-
-### Speaker 2
-
-One word after one word after the other give conditioned on the previous word
+speaker_2: One word after one word after the other give conditioned on the previous word
 
 
 Yeah thanks Vivek
 
-### Speaker 4
+speaker_4: So after the encoding process is over we just have a single uh vector right
 
-So after the encoding process is over we just have a single uh vector right
+speaker_2: Exactly thats an issue
 
-### Speaker 2
+speaker_4: Yeah so thats exactly what I want to know its hard to believe that one small vector can
 
-Exactly thats an issue
+speaker_2: Yeah its a you point exactly that was actually an issue and that is when Ill just hold on to that question that would be my next narrative
 
-### Speaker 4
-
-Yeah so thats exactly what I want to know its hard to believe that one small vector can
-
-### Speaker 2
-
-Yeah its a you point exactly that was actually an issue and that is when Ill just hold on to that question that would be my next narrative
-
-### Speaker 4
-
-Its a you
+speaker_4: Its a you
 
 
 Okay
 
-### Speaker 2
+speaker_2: Im actually building up to transformers so that Ill tell you why that is an issue and how people solved it okay Santosh
 
-Im actually building up to transformers so that Ill tell you why that is an issue and how people solved it okay Santosh
+speaker_3: Yes sir So the number of RNN cells will be equivalent to the input sequence in the first layer
 
-### Speaker 3
+speaker_2: Correct correct correct See that is because it is it is the parameters are shared across time We are just repeating the same RNN cell one after the other with a different input and hidden layer thats all But the weights remain the same across time
 
-Yes sir So the number of RNN cells will be equivalent to the input sequence in the first layer
+speaker_3: Okay Also my second question is that right now we have only two layers If we have multiple RNN layers so the final hidden state of first layer will be passed to the second layer and then like that So the output will be passed to next layer There will be two
 
-### Speaker 2
+speaker_2: There will be two things right if you have like a two layer thing there will be one that goes like this one that goes like this
 
-Correct correct correct See that is because it is it is the parameters are shared across time We are just repeating the same RNN cell one after the other with a different input and hidden layer thats all But the weights remain the same across time
+speaker_3: Um
 
-### Speaker 3
+speaker_2: Yeah you can have any number of NN layers one after the other Any number of hidden layers one after the other You can make it deep
 
-Okay Also my second question is that right now we have only two layers If we have multiple RNN layers so the final hidden state of first layer will be passed to the second layer and then like that So the output will be passed to next layer There will be two
+speaker_3: Okay okay yeah
 
-### Speaker 2
-
-There will be two things right if you have like a two layer thing there will be one that goes like this one that goes like this
-
-### Speaker 3
-
-Um
-
-### Speaker 2
-
-Yeah you can have any number of NN layers one after the other Any number of hidden layers one after the other You can make it deep
-
-### Speaker 3
-
-Okay okay yeah
-
-### Speaker 2
-
-As I said in the beginning of the course right I like this is not a course where I teach NLP fundamentals and architectures right So I mean one can actually teach a full course on sequence modeling and how RNNs work and a lot of nuances there But as I said this course is more on like you now you know what this course are Im almost coming at the end of it But yeah so an overview of RNNs are like this Any other question on this
+speaker_2: As I said in the beginning of the course right I like this is not a course where I teach NLP fundamentals and architectures right So I mean one can actually teach a full course on sequence modeling and how RNNs work and a lot of nuances there But as I said this course is more on like you now you know what this course are Im almost coming at the end of it But yeah so an overview of RNNs are like this Any other question on this
 
 
 if not lets move so as uh this was as i said no this was the the state of the art till
@@ -1809,32 +1528,20 @@ Now instead of making one hidden layer have all the information and compress and
 
 Do you understand this
 
-### Speaker 3
+speaker_3: So what is the A here
 
-So what is the A here
+speaker_2: A is a learnable constant
 
-### Speaker 2
+speaker_1: Professor how is AJ1 different from AJ2
 
-A is a learnable constant
-
-### Speaker 1
-
-Professor how is AJ1 different from AJ2
-
-### Speaker 2
-
-Sort of hose
+speaker_2: Sort of hose
 
 
 They are learned differently no
 
-### Speaker 1
+speaker_1: But though they are tapped from the same motor right
 
-But though they are tapped from the same motor right
-
-### Speaker 2
-
-But they are mapped from the same mode Thats right But these indices are taken to be different So here what you do is here you only take j from like 1 to 2 and you make 1 to 3 and you take like just cumulatively do that
+speaker_2: But they are mapped from the same mode Thats right But these indices are taken to be different So here what you do is here you only take j from like 1 to 2 and you make 1 to 3 and you take like just cumulatively do that
 
 
 Okay
@@ -1842,13 +1549,9 @@ Okay
 
 there are different improvisations over it but the idea is clear right what you do is you take a linear combination of hidden layer representations and take a i mean learn the weights with which they have to be linearly combined and then give it as an input while you are decoding it is this idea clear
 
-### Speaker 3
+speaker_3: So sir here number of linear combinations equal to number of ys right I mean sequence number of
 
-So sir here number of linear combinations equal to number of ys right I mean sequence number of
-
-### Speaker 2
-
-Number of voices number of voices correct
+speaker_2: Number of voices number of voices correct
 
 
 Okay now do you know what these things are This is actually what is called as attention
@@ -1952,21 +1655,13 @@ wk are learnable and learned through backpropagation these are the learnable mat
 
 Lets call any query but any questions so far
 
-### Speaker 1
+speaker_1: XJ should be the entire sequence right not one of the
 
-XJ should be the entire sequence right not one of the
+speaker_2: One of the no no no its one of the components its not the sequence because for every vector in the sequence okay you compute the query value and key
 
-### Speaker 2
+speaker_1: where x in itself is a vector
 
-One of the no no no its one of the components its not the sequence because for every vector in the sequence okay you compute the query value and key
-
-### Speaker 1
-
-where x in itself is a vector
-
-### Speaker 2
-
-X is a sequence
+speaker_2: X is a sequence
 
 
 X is a sequence that has p number of vectors
@@ -2094,13 +1789,9 @@ This is important so please tell me if you dont understand this
 
 Hello am I there Am I audible
 
-### Speaker 4
+speaker_4: Yes sir you already will yes
 
-Yes sir you already will yes
-
-### Speaker 2
-
-Okay Yeah Total radio silence So I dont know how to interpret it Is it okay Did all of you get how to get these alphas
+speaker_2: Okay Yeah Total radio silence So I dont know how to interpret it Is it okay Did all of you get how to get these alphas
 
 
 Yes hello
@@ -2150,27 +1841,19 @@ Transformer block
 
 with a single head they call it and there is also a counterpart uh called the multi head uh attention ill talk about that in a while but yeah any questions so far
 
-### Speaker 4
-
-So so if we shuffle the X1 to Xt then the Zs will also be shuffled
+speaker_4: So so if we shuffle the X1 to Xt then the Zs will also be shuffled
 
 
 In the sense like the if the sequence changes
 
-### Speaker 2
+speaker_2: Yes it is true
 
-Yes it is true
-
-### Speaker 4
-
-Okay so please go ahead yeah so
+speaker_4: Okay so please go ahead yeah so
 
 
 So so does it when it changes does it still remain the do the individual values still remain the same or will they also change
 
-### Speaker 2
-
-No no they do change you know they do change depending upon what the sequence what the what the correspond what the relative positions of each of the tokens are in the sequence They do change
+speaker_2: No no they do change you know they do change depending upon what the sequence what the what the correspond what the relative positions of each of the tokens are in the sequence They do change
 
 
 Yeah case fixed Yeah So you you keep hearing about this context lens of all these LLMs right
@@ -2190,17 +1873,11 @@ Okay the attention for or rather these alphas and betas for that corresponding
 
 zero tokens will be zero and it has been observed that they will actually ignore them
 
-### Speaker 3
+speaker_3: One more point here so I mean here that position information is not present
 
-One more point here so I mean here that position information is not present
+speaker_4: Full of the
 
-### Speaker 4
-
-Full of the
-
-### Speaker 2
-
-Yeah yeah hold on Thats correct That is correct And do you recall that during our DDPM discussions I talked about positional embeddings where we have to do give T the time information also as an input right In transformer also what is given is in addition to this T is also given as an input using the positional encoding
+speaker_2: Yeah yeah hold on Thats correct That is correct And do you recall that during our DDPM discussions I talked about positional embeddings where we have to do give T the time information also as an input right In transformer also what is given is in addition to this T is also given as an input using the positional encoding
 
 
 for the precise reason that you said

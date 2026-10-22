@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello all welcome back to career with Vasanth YouTube channel My name is Vasanth I hope you all doing well So this is a very important video where Im going to discuss top 10 snippet driven JavaScript interview question These questions are of medium to hard difficulty For freshers its again close to hard difficulty For experienced person it could be of medium to hard difficulty So the whole point of making this video is not that you guess an output which is right or wrong Its probably help you to understand the concept in in depth So most of the time whenever snippet driven questions are asked in the interview lets say the output could be a function that returns three and four
+speaker_1: Hello all welcome back to career with Vasanth YouTube channel My name is Vasanth I hope you all doing well So this is a very important video where Im going to discuss top 10 snippet driven JavaScript interview question These questions are of medium to hard difficulty For freshers its again close to hard difficulty For experienced person it could be of medium to hard difficulty So the whole point of making this video is not that you guess an output which is right or wrong Its probably help you to understand the concept in in depth So most of the time whenever snippet driven questions are asked in the interview lets say the output could be a function that returns three and four
 
 
 and youd say the output as four which is the right answer no interviewer will shortlist you you need to be able to justify why it is four and not three thats the whole purpose of the interview this particular session where im gonna basically explain the snippets and in depth like why that particular output is coming okay without wasting further time lets get started if you see me first time on the internet im was and i create content in front of an interview preparation please subscribe to my channel carry with us and lets get started so i have access number one here so where which is very simple looks very simple so where
@@ -128,13 +126,9 @@ This is very tricky huh I am sure at least some of you will not be able to answe
 
 we are assigning person number greet to greet and then we are calling the greet okay function greet is basically printing hello my name is this dot name which is actually alice this my name is alice okay so now where basically this always refers to a caller as you very well know there is a priority of this i am not going to dig very most of you might have answered hello my name is alice as the answer let us see what is actually the output okay
 
-### Speaker 2
+speaker_2: Not going to take it
 
-Not going to take it
-
-### Speaker 1
-
-See output if you see here hello my name is undefined okay which is very important and very tricky I want you to like look at it carefully why like my name is undefined correct my name is undefined because whenever you int i like initialize person dot greet into this greet a separate variable right you understand things carefully like how this object is actually defined you see a name right this name is is basically person is an object where you are having a name and whose value is Elise
+speaker_1: See output if you see here hello my name is undefined okay which is very important and very tricky I want you to like look at it carefully why like my name is undefined correct my name is undefined because whenever you int i like initialize person dot greet into this greet a separate variable right you understand things carefully like how this object is actually defined you see a name right this name is is basically person is an object where you are having a name and whose value is Elise
 
 
 Then you have a grid which is actually referencing a function So this function is actually referencing to a particular memory location I hope you agree

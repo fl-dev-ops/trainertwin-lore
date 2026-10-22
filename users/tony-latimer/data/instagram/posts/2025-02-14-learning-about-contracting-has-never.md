@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Learning about contracting has never been easier! Tony's methodology is the perf
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-But Tony, in his methodology— so this is, I suppose, this is the perfect way how to learn about contracting. So just 100%. So this is a perfect way how to study how to make a contract with client. So this is, I suppose, this is really the most important part In the course, so the contract. The competency number three, number three. So now this is like 100% clear how to make a.
-
+speaker_1: But Tony, in his methodology— so this is, I suppose, this is the perfect way how to learn about contracting. So just 100%. So this is a perfect way how to study how to make a contract with client. So this is, I suppose, this is really the most important part In the course, so the contract. The competency number three, number three. So now this is like 100% clear how to make a.

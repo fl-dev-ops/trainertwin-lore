@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,10 +25,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So what kind of recommendations would you give
 
-So what kind of recommendations would you give
-
-### Speaker 2 · Speaker 2
-
-Um well I think I think my first thing the first point is struggle makes you makes you grow right So I dont think I think you should move towards struggle instead of away from struggle right So that that that and thats and and and moving to a different uh country although there is always excitement eventually going to be a struggle Eventually right Maybe maybe like like a you know the first three months are going to be amazing because everythings new but eventually life settled down
+speaker_2: Um well I think I think my first thing the first point is struggle makes you makes you grow right So I dont think I think you should move towards struggle instead of away from struggle right So that that that and thats and and and moving to a different uh country although there is always excitement eventually going to be a struggle Eventually right Maybe maybe like like a you know the first three months are going to be amazing because everythings new but eventually life settled down

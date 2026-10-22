@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Its actually sales technique which you talking against your favor Youre saying something it might not be for you Im not sure if its even the right move but would you be open to maybe look at the options And then you decide should you even look at the Dubai market Should you consider Dubai market Or maybe you better invest in UK
+speaker_1: Its actually sales technique which you talking against your favor Youre saying something it might not be for you Im not sure if its even the right move but would you be open to maybe look at the options And then you decide should you even look at the Dubai market Should you consider Dubai market Or maybe you better invest in UK

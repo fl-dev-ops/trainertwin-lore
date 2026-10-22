@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-ॐ नमो भगवते वासुदेवाय
+speaker_1: ॐ नमो भगवते वासुदेवाय
 जन्माद्यस्य यतोऽन्वयादितरतश्चार्थेष्वभिज्ञस्वराट्तेने ब्रह्महृदाय आदिकवये मुह्यन्तीयं सूरयः
 
 

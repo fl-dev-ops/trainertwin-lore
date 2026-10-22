@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-The third common mistake I see candidates do especially in supply chain is prepare extremely long resumes Recently I saw an example where there was a five page resume of someone who had about 10 years of experience If your job experience is less than five years your resume should not be longer than one page And if your work experience is more than five years even if it is 35 years your resume should not be longer than two pages There was a time I was learning search engine Optimization and there was a saying that the best place to hide a dead body is on page two of Google because when you are searching something nobody goes on page two everybodys looking for page one right similarly Another best place to hide a dead body might be page number three of your resume because nobodys gonna get there
+speaker_1: The third common mistake I see candidates do especially in supply chain is prepare extremely long resumes Recently I saw an example where there was a five page resume of someone who had about 10 years of experience If your job experience is less than five years your resume should not be longer than one page And if your work experience is more than five years even if it is 35 years your resume should not be longer than two pages There was a time I was learning search engine Optimization and there was a saying that the best place to hide a dead body is on page two of Google because when you are searching something nobody goes on page two everybodys looking for page one right similarly Another best place to hide a dead body might be page number three of your resume because nobodys gonna get there

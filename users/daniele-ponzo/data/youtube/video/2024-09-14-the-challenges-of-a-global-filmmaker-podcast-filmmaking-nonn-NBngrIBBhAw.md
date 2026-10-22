@@ -51,8 +51,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -60,10 +60,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So how would you summarize the challenges youve had in the production of the of the film of the documentary
 
-So how would you summarize the challenges youve had in the production of the of the film of the documentary
-
-### Speaker 2 · Speaker 2
-
-I think the most important challenge was that I did not understand the mechanics of the film business before I started this And the most important thing a filmmaker needs before they can start making a film is to have their partners lined up already with whom theyre making and financing the film When we started shooting this film um the story that we were focusing on was happening now It was happening at that time and getting your partners lined up and and making sure that everyone is on board usually takes a year and a half or something Sometimes it doesnt work at all sometimes its faster but it takes quite some time And I didnt have the luxury as it were to to spend that time to find my partners
+speaker_2: I think the most important challenge was that I did not understand the mechanics of the film business before I started this And the most important thing a filmmaker needs before they can start making a film is to have their partners lined up already with whom theyre making and financing the film When we started shooting this film um the story that we were focusing on was happening now It was happening at that time and getting your partners lined up and and making sure that everyone is on board usually takes a year and a half or something Sometimes it doesnt work at all sometimes its faster but it takes quite some time And I didnt have the luxury as it were to to spend that time to find my partners

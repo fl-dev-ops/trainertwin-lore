@@ -11,8 +11,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -20,18 +20,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And uh yeah of course its not the solution but surely its part of of the solution So get people out of their comfort zone uh something very simple like an ice cream going outdoor is very simple you know not doing anything like
 
-And uh yeah of course its not the solution but surely its part of of the solution So get people out of their comfort zone uh something very simple like an ice cream going outdoor is very simple you know not doing anything like
+speaker_2: Ice cream breaker
 
-### Speaker 2 · Speaker 2
+speaker_1: Exactly You see youre youre getting the idea right Ice cream breaker So its not like going paintballing or these crazy things that you do for team building Something very basic you know Get them out of context So thats one thing that that usually worked
 
-Ice cream breaker
-
-### Speaker 1 · Speaker 1
-
-Exactly You see youre youre getting the idea right Ice cream breaker So its not like going paintballing or these crazy things that you do for team building Something very basic you know Get them out of context So thats one thing that that usually worked
-
-### Speaker 2 · Speaker 2
-
-Mhm
+speaker_2: Mhm

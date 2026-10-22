@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 32:40
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 6 : Example of NP Classifier, ROC Curve
 
 ## Transcript
 
-
-Hello all welcome to this tutorials in
+speaker_1: Hello all welcome to this tutorials in
 which we will be seeing an example of
 the Neiman Pearson classifier
 that we have discussed in our earlier

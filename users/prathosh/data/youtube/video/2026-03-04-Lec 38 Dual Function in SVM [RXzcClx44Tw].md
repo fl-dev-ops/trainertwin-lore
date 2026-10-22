@@ -6,14 +6,15 @@ date: '2026-03-04'
 duration: 21:09
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 38 Dual Function in SVM
 
 ## Transcript
 
-
-Welcome to this class Well continue
+speaker_1: Welcome to this class Well continue
 our discussions on uh the maximum margin
 classifier or support vector machines
 A quick recall last time we constructed

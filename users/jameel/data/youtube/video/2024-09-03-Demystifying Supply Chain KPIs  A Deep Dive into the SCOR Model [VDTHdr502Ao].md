@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-So recently I did a poll on LinkedIn where I asked supply chain professionals like you on which topics are you most interested in and a huge majority came back and said that they are interested in knowing more about KPIs and supply chain In this video I will cover the most critical key performance indicators of KPIs which are used in supply chain jobs and in order to do that Im going to be using the supply chain operations reference which is a model very heavily used in the industry and also referenced in the APIC supply chain professional programs
+speaker_1: So recently I did a poll on LinkedIn where I asked supply chain professionals like you on which topics are you most interested in and a huge majority came back and said that they are interested in knowing more about KPIs and supply chain In this video I will cover the most critical key performance indicators of KPIs which are used in supply chain jobs and in order to do that Im going to be using the supply chain operations reference which is a model very heavily used in the industry and also referenced in the APIC supply chain professional programs
 
 
 I will cover these KPIs in the buckets of reliability and service asset management or cash cost and responsiveness and agility My name is Jamil Hai and Ive been working in supply chain management positions across South Asia Middle East and North America for the last 20 years And my mission is to help you build real life supply chain skills for your job and career that they dont teach you in college And if you are applying for a supply chain job anytime soon you should definitely book a session with me because I will take your resume the job description
@@ -64,13 +62,9 @@ at 11 am with the right and accurate invoice and there were no damages now this 
 
 which means that your reliability is going in the danger zone Your cost will go up because the customer is finding you once again taking your supply chain out of that equilibrium Now there are a few more KPIs that I want to cover in this reliability and service bucket which are more related to the accuracy of your supply chain And the first one and the foremost one there is forecast accuracy How accurately are you able to
 
-### Speaker 2
+speaker_2: forecast your demand now why is this accuracy so important because if you lets say going back to our apples example um if your lead time to get those apples and well talk about lead time by the way later on as well because you might be wondering what is lead time first so hold on and keep
 
-forecast your demand now why is this accuracy so important because if you lets say going back to our apples example um if your lead time to get those apples and well talk about lead time by the way later on as well because you might be wondering what is lead time first so hold on and keep
-
-### Speaker 1
-
-watching this video till the end but on forecast accuracy lets say you are supposed to deliver those 10 apples and your total lead time to secure those apples from the farm and process them and transport them is lets say 10 days and 10 days ago if you did not forecast those 10 lets say you forecast 15 or 5 in both cases you will have a problem because if you forecast 5 only got 5 you will not get your perfect order because you only have 5 to deliver now so your case fill rate is going to go down
+speaker_1: watching this video till the end but on forecast accuracy lets say you are supposed to deliver those 10 apples and your total lead time to secure those apples from the farm and process them and transport them is lets say 10 days and 10 days ago if you did not forecast those 10 lets say you forecast 15 or 5 in both cases you will have a problem because if you forecast 5 only got 5 you will not get your perfect order because you only have 5 to deliver now so your case fill rate is going to go down
 
 
 Similarly if you got 15 or 20 maybe it could be fine because if those apples are not going bad or rancid but if those apples have a shelf life which is very short then you need to get very close to the exact demand otherwise you those apples will go bad and that will increase your inventory cost and your disposal cost of the damaged product and so on one of the other reasons why forecast accuracy is important because if you have a very unreliable forecast you will end up

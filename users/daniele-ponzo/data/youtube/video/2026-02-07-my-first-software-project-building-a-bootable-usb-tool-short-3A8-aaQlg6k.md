@@ -18,8 +18,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -27,30 +27,16 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And um and on that I hosted this software I wrote that was the early days of Windows Vista And I wrote this uh this tool who took the Vista CD image the ISO file
 
-And um and on that I hosted this software I wrote that was the early days of Windows Vista And I wrote this uh this tool who took the Vista CD image the ISO file
+speaker_2: Okay
 
-### Speaker 2 · Speaker 2
+speaker_1: Formatted a USB stick in a bootable way So format to FAT 32 mark it as bootable load the data from the disk into the into the the USB stick And then I had a bootable USB stick for Windows Vista to install of my netbook thats still somewhere here
 
-Okay
+speaker_2: Right right right
 
-### Speaker 1 · Speaker 1
+speaker_1: And now I use as a retro gaming computer Okay of course
 
-Formatted a USB stick in a bootable way So format to FAT 32 mark it as bootable load the data from the disk into the into the the USB stick And then I had a bootable USB stick for Windows Vista to install of my netbook thats still somewhere here
+speaker_2: Why not
 
-### Speaker 2 · Speaker 2
-
-Right right right
-
-### Speaker 1 · Speaker 1
-
-And now I use as a retro gaming computer Okay of course
-
-### Speaker 2 · Speaker 2
-
-Why not
-
-### Speaker 1 · Speaker 1
-
-And thats how I started writing like actual software
+speaker_1: And thats how I started writing like actual software

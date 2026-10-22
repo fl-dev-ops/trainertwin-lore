@@ -17,7 +17,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Reanne Besa
+  speaker_1: 'Reanne Besa'
 ---
 
 
@@ -25,6 +25,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Reanne Besa
-
-So um for English I actually learned it through cartoons Like even before I went to Australia I would watch like animation from Disney and you know its mostly American English Thats why I understand their pronunciation more And I also have like an American accent too even though Ive been here for a long long time And I really love animation because you know you really see the nuances like you said like the humor and how people respond to different you know phrases and metaphors because thats really important because you know depending on your culture you know they perceive a specific phrase differently So its better to you know understand that
+speaker_1: So um for English I actually learned it through cartoons Like even before I went to Australia I would watch like animation from Disney and you know its mostly American English Thats why I understand their pronunciation more And I also have like an American accent too even though Ive been here for a long long time And I really love animation because you know you really see the nuances like you said like the humor and how people respond to different you know phrases and metaphors because thats really important because you know depending on your culture you know they perceive a specific phrase differently So its better to you know understand that

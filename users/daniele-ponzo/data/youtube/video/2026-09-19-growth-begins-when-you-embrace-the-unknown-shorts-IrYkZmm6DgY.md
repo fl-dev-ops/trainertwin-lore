@@ -28,7 +28,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -36,6 +36,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And there is something Danielle that I learned in that particular experience that I carried with me until today which is we see the world the way we are and not the way the world actually is So when I was um feeling alone or when I was I when I was feeling um isolated it was because I was seeing the world from my perspective and not necessarily allowing myself to see the world from the Colombians perspective And by the time I kind of shifted that mindset things changed completely and for the better for sure but I had to leave not that I had to leave Brazil behind but I have to place Brazil where Brazil is It was it will always be my home country
+speaker_1: And there is something Danielle that I learned in that particular experience that I carried with me until today which is we see the world the way we are and not the way the world actually is So when I was um feeling alone or when I was I when I was feeling um isolated it was because I was seeing the world from my perspective and not necessarily allowing myself to see the world from the Colombians perspective And by the time I kind of shifted that mindset things changed completely and for the better for sure but I had to leave not that I had to leave Brazil behind but I have to place Brazil where Brazil is It was it will always be my home country

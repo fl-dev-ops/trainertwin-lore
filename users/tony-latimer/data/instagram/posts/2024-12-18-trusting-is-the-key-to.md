@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Trusting is the key to growth and success. 🌟 Whether it's abseiling off a cli
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-My biggest lesson was trusting. You know, the, the first time you've ever gone abseiling, I can remember standing at the top of the cliff in absolute terror of leaning back beyond the point of no return to let the rope take my weight. It's scary. You've got to do the coaching equivalent. You've got to learn to just let go and trust. And working on the energetic connection is going to help. And then trust that your subconscious has the processing power when you get out of the way to just do what it needs to do, and it will bring to your mind the things you need to say. So you've got to, you've got to completely let go of the need to perform. You can share anything because they will be able to detect energetically if you have no intention other than to serve.
-
+speaker_1: My biggest lesson was trusting. You know, the, the first time you've ever gone abseiling, I can remember standing at the top of the cliff in absolute terror of leaning back beyond the point of no return to let the rope take my weight. It's scary. You've got to do the coaching equivalent. You've got to learn to just let go and trust. And working on the energetic connection is going to help. And then trust that your subconscious has the processing power when you get out of the way to just do what it needs to do, and it will bring to your mind the things you need to say. So you've got to, you've got to completely let go of the need to perform. You can share anything because they will be able to detect energetically if you have no intention other than to serve.

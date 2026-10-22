@@ -12,8 +12,8 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 ## Caption
@@ -30,22 +30,13 @@ På Varumärkesbänken bollar vi idéer och möjligheter under en timme. Det bru
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Hej Antoni, vad har vi pratat om på Varumärkesbänken idag?
 
-Hej Antoni, vad har vi pratat om på Varumärkesbänken idag?
+speaker_2: Eh, den frågan är för stor. Vi har haft en hel timme på oss och pratat om allt möjligt. Det gäller positionering, identitet, plattform, brus, allt möjligt. Eh, jag tar med mig många saker ifrån de som en utav de är att eh hitta rätt ställen där jag kan förmedla de insikter jag har fått globalt. Eh, inte bara i de svenska magasinen som jag skriver idag utan även andra i traditionella eh prestigemagasin till exempel. Eller på andra sätt olika kanaler där jag kan få fram detta. Jag tror att det skulle kunna vara bra för mig. Det är bra för läsaren eller lyssnaren också. Det är en utav de mer konkreta bitarna vi har kommit till på. Och sen har vi pratat om livet.
 
-### Speaker 2 · Speaker 2
+speaker_1: Tack för att du kom.
 
-Eh, den frågan är för stor. Vi har haft en hel timme på oss och pratat om allt möjligt. Det gäller positionering, identitet, plattform, brus, allt möjligt. Eh, jag tar med mig många saker ifrån de som en utav de är att eh hitta rätt ställen där jag kan förmedla de insikter jag har fått globalt. Eh, inte bara i de svenska magasinen som jag skriver idag utan även andra i traditionella eh prestigemagasin till exempel. Eller på andra sätt olika kanaler där jag kan få fram detta. Jag tror att det skulle kunna vara bra för mig. Det är bra för läsaren eller lyssnaren också. Det är en utav de mer konkreta bitarna vi har kommit till på. Och sen har vi pratat om livet.
-
-### Speaker 1 · Speaker 1
-
-Tack för att du kom.
-
-### Speaker 2 · Speaker 2
-
-Tack tillbaka.
-
+speaker_2: Tack tillbaka.
 
 ## Comments (1)
 

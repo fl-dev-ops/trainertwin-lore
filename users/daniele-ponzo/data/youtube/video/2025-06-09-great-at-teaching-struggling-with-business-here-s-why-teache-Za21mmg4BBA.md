@@ -12,8 +12,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -21,10 +21,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Okay so its uh yes I now that you mention it I think like many teachers do need help you know we always think no we dont need help But then yeah when you put it this way of course we do Uh the technology the marketing these are normally new things for for teachers
 
-Okay so its uh yes I now that you mention it I think like many teachers do need help you know we always think no we dont need help But then yeah when you put it this way of course we do Uh the technology the marketing these are normally new things for for teachers
-
-### Speaker 2 · Speaker 2
-
-Right And just to compliment on that Its its not a problem for for teachers I mean marketing and business is tough for for any business and marketing have any business The hardest thing is go get clients and go grow and develop If it was easy but its not So its something uh its a bit of a science and an art at the same time So um yeah we do need to develop these skills
+speaker_2: Right And just to compliment on that Its its not a problem for for teachers I mean marketing and business is tough for for any business and marketing have any business The hardest thing is go get clients and go grow and develop If it was easy but its not So its something uh its a bit of a science and an art at the same time So um yeah we do need to develop these skills

@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-श्रीशुक उवाच
+speaker_1: श्रीशुक उवाच
 एवमेतत्पुरा पृष्टो मैत्रेयो भगवान् किल
 क्षत्रावनं प्रविष्टेन त्यक्त्वा स्वगृहमृद्धिमत्
 

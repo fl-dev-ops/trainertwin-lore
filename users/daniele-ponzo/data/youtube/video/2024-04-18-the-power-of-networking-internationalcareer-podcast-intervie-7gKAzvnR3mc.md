@@ -14,8 +14,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -23,10 +23,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So Id say there is this fundamental point about networking which is something that I believe really helps when you want to have lets say an experience abroad or even not abroad but in an international environment So what would you say like how has networking helped you in your journey
 
-So Id say there is this fundamental point about networking which is something that I believe really helps when you want to have lets say an experience abroad or even not abroad but in an international environment So what would you say like how has networking helped you in your journey
-
-### Speaker 2 · Speaker 2
-
-its been the the most important things for sure You know building a relationship is the most important thing
+speaker_2: its been the the most important things for sure You know building a relationship is the most important thing

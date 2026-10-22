@@ -6,14 +6,15 @@ date: '2026-01-13'
 duration: 29:06
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 04 Recap of Probability Theory - 1, Part 3
 
 ## Transcript
 
-
-Now what happens to the probability
+speaker_1: Now what happens to the probability
 measure So we had a probability measure
 P
 What happens to this

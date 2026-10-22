@@ -6,14 +6,15 @@ date: '2026-01-16'
 duration: 35:31
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 10 Challenge With ML
 
 ## Transcript
 
-
-Welcome back
+speaker_1: Welcome back
 So please be informed that if I write px
 pxy py given x
 or py it doesnt matter

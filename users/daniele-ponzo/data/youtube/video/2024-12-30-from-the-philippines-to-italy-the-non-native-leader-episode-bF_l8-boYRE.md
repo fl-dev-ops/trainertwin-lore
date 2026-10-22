@@ -23,7 +23,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -31,6 +31,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I was born and raised in the Philippines but now Im actually to be exact Im a Filipina Italian I acquired my Italian citizenship And but because Ive also because Ive Ive lived here in Italy for about 25 years now So and also because Im married to an Italian Uh the culture uh quite similar to ours as well But aside from that um the food wonderful If I were to choose a place it would be Italy So from nursery and
+speaker_1: I was born and raised in the Philippines but now Im actually to be exact Im a Filipina Italian I acquired my Italian citizenship And but because Ive also because Ive Ive lived here in Italy for about 25 years now So and also because Im married to an Italian Uh the culture uh quite similar to ours as well But aside from that um the food wonderful If I were to choose a place it would be Italy So from nursery and

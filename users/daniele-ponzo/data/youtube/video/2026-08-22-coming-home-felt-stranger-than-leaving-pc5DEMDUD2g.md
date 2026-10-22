@@ -25,7 +25,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -33,6 +33,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-This is when we experience something known as reverse culture shock I think if youve been away long enough because when youre away in a new culture of course you you do adapt as you say but you dont really think at the time youre changing But of course you are you are changing and you only realize how much when you go back to your previous culture country and you expect everything to be the same and youre just going to fit right back in And then suddenly youre seeing things with different eyes
+speaker_1: This is when we experience something known as reverse culture shock I think if youve been away long enough because when youre away in a new culture of course you you do adapt as you say but you dont really think at the time youre changing But of course you are you are changing and you only realize how much when you go back to your previous culture country and you expect everything to be the same and youre just going to fit right back in And then suddenly youre seeing things with different eyes

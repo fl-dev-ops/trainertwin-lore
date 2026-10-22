@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Car, train, plane, taxi. Repeat. Helsinki here I come😃
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Car, train, plane, taxi. Repeat. Helsinki here I come.
-
+speaker_1: Car, train, plane, taxi. Repeat. Helsinki here I come.

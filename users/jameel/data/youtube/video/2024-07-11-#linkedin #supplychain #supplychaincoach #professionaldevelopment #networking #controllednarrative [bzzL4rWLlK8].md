@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-And one of the things that people dont understand is the concept of control narrative Your social media actually helps you control that narrative around your personality because this concept comes from authoritarian governments frankly speaking but its the same concept applied on social media as well so you Elon Musk controls his narrative what are people liking people dont liking thats something different but he controls that narrative right so as we as supply chain professionals should also control that narrative which means what are what what am I going to say today on my post will actually determine how far my visibility will go more Visible I am on LinkedIn which means more impressions my posts are getting more impressions my more views my profile is getting more searches my profile is getting more visible I will become
+speaker_1: And one of the things that people dont understand is the concept of control narrative Your social media actually helps you control that narrative around your personality because this concept comes from authoritarian governments frankly speaking but its the same concept applied on social media as well so you Elon Musk controls his narrative what are people liking people dont liking thats something different but he controls that narrative right so as we as supply chain professionals should also control that narrative which means what are what what am I going to say today on my post will actually determine how far my visibility will go more Visible I am on LinkedIn which means more impressions my posts are getting more impressions my more views my profile is getting more searches my profile is getting more visible I will become

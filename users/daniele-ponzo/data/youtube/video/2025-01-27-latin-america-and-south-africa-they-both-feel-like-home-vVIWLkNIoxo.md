@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,10 +24,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: The interesting bit is yeah I mean many urban environments were very similar to Latin America So it felt quite familiar you know um going to South Africa all of a sudden Pretoria it was like being back at home you know it was uh in very very many ways you know good and bad very similar to to an urban Latin America So um also you know in terms of the inequalities but uh
 
-The interesting bit is yeah I mean many urban environments were very similar to Latin America So it felt quite familiar you know um going to South Africa all of a sudden Pretoria it was like being back at home you know it was uh in very very many ways you know good and bad very similar to to an urban Latin America So um also you know in terms of the inequalities but uh
-
-### Speaker 2 · Speaker 2
-
-Yeah I suppose there are just two interesting bits there
+speaker_2: Yeah I suppose there are just two interesting bits there

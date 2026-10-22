@@ -22,7 +22,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -30,6 +30,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-it could be broken technology but also it could be perceived noise So something that plays in our mind We are familiar with imposter syndrome right So do I really belong here Wait a second What if my pronunciation is not clear What if my words my choice of words is not clear right And thats perceived noise
+speaker_1: it could be broken technology but also it could be perceived noise So something that plays in our mind We are familiar with imposter syndrome right So do I really belong here Wait a second What if my pronunciation is not clear What if my words my choice of words is not clear right And thats perceived noise

@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Im going to call myself Im bankrupt I dont want to I dont need these houses Go away I cannot do anything I cannot resell them Im trying to resell them So those years of being with a different mortgage rate in 2008 most probably became a crucial critical mass for the market to be flooded with the houses where people need to get out of this investment Right Are you with me on that
+speaker_1: Im going to call myself Im bankrupt I dont want to I dont need these houses Go away I cannot do anything I cannot resell them Im trying to resell them So those years of being with a different mortgage rate in 2008 most probably became a crucial critical mass for the market to be flooded with the houses where people need to get out of this investment Right Are you with me on that

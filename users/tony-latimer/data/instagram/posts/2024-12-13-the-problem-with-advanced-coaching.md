@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -23,7 +23,4 @@ If you're a PCC wondering what actually separates good coaching from mastery —
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-One of the problems with coaching, particularly at the more advanced levels, is that we don't have language to describe it. So what happens and what confused me in the early days when I moved into doing coaching full-time was people used fluffy language. So it all felt a bit tree-hugging. They're saying, you know, you must listen to what is not being said, grasshopper. And I'm kind of like, so which year does that come in? You know, and with, with something like, I mean, when I got my MCC, I was like 103 in the world. So before that, there was no training because there's no market for it. And you had to kind of wander around the world. It was a bit like a rerun of 2012.
-
+speaker_1: One of the problems with coaching, particularly at the more advanced levels, is that we don't have language to describe it. So what happens and what confused me in the early days when I moved into doing coaching full-time was people used fluffy language. So it all felt a bit tree-hugging. They're saying, you know, you must listen to what is not being said, grasshopper. And I'm kind of like, so which year does that come in? You know, and with, with something like, I mean, when I got my MCC, I was like 103 in the world. So before that, there was no training because there's no market for it. And you had to kind of wander around the world. It was a bit like a rerun of 2012.

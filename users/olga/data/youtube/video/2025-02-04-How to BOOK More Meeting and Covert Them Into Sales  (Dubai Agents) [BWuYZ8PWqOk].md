@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Of the off plan sales process that hopefully you will be following if you are not already Each and every communication with your client should end with agreeing on the next If the buyer thinks that whatever solution you provide will solve his problem only then the sale will happen Why do they want to invest some money What makes them feel that the way their money is working now Is not enough anymore The logical explanation with the property monitor statistics and whatever DXB Interac statistics not going to work
+speaker_1: Of the off plan sales process that hopefully you will be following if you are not already Each and every communication with your client should end with agreeing on the next If the buyer thinks that whatever solution you provide will solve his problem only then the sale will happen Why do they want to invest some money What makes them feel that the way their money is working now Is not enough anymore The logical explanation with the property monitor statistics and whatever DXB Interac statistics not going to work

@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,22 +24,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I wanted a big change because I realized the Italian market was not valuing my my expertise well And I ended up out of randomness in Scotland In this Scottish startup now that became a scale up which is called NC Tech which is a company that does 360 cameras with lidar technology so they scan a 360 viewpoint angle with lidar so they also have all the 3D metadata to the image as well
 
-I wanted a big change because I realized the Italian market was not valuing my my expertise well And I ended up out of randomness in Scotland In this Scottish startup now that became a scale up which is called NC Tech which is a company that does 360 cameras with lidar technology so they scan a 360 viewpoint angle with lidar so they also have all the 3D metadata to the image as well
+speaker_2: Wow
 
-### Speaker 2 · Speaker 2
+speaker_1: And they are a supplier of Google
 
-Wow
+speaker_2: Okay okay okay I get it And how did it feel for you to be there in Scotland So first time in a new country
 
-### Speaker 1 · Speaker 1
-
-And they are a supplier of Google
-
-### Speaker 2 · Speaker 2
-
-Okay okay okay I get it And how did it feel for you to be there in Scotland So first time in a new country
-
-### Speaker 1 · Speaker 1
-
-It felt like home
+speaker_1: It felt like home

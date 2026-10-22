@@ -12,7 +12,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -20,22 +20,13 @@ Wow. The view. Arriving the day before an event I will be speaking at, in Helsin
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Hi. I'm in Finland, Helsinki, and I just wanted you to see the magnificent view.
-
-### Speaker 1 · Speaker 1
+speaker_1: Hi. I'm in Finland, Helsinki, and I just wanted you to see the magnificent view.
 
 I guess those are saunas.
 
-### Speaker 1 · Speaker 1
-
 Many of them.
 
-### Speaker 1 · Speaker 1
-
 Yeah. I can get used to this.
-
 
 ## Comments (2)
 

@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-The second step of critical thinking is data analysis and capturing assumptions Data analysis basically means extracting meaning out of data and more importantly understanding what this data means for the future For example look at this chart This chart shows how company X fulfilled orders to its customers throughout 2022 Now analysis is the process of understanding this trend Why do we have an upward trend in January February March Why do we have a dip in July Or why do we have a downward trend in October November December Getting quality answers to these questions will define the quality of your analysis
+speaker_1: The second step of critical thinking is data analysis and capturing assumptions Data analysis basically means extracting meaning out of data and more importantly understanding what this data means for the future For example look at this chart This chart shows how company X fulfilled orders to its customers throughout 2022 Now analysis is the process of understanding this trend Why do we have an upward trend in January February March Why do we have a dip in July Or why do we have a downward trend in October November December Getting quality answers to these questions will define the quality of your analysis

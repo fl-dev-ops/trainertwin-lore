@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-Now lets look at the second part of the supply chain organization design which is the customer service organization So in a customer service organization you could be starting as an order management specialist or as a CPFR specialist Now CPFR stands for collaborative planning forecasting and replenishment CPFR roles are very very common if you are a manufacturer serving retail clients especially like the Walmarts or the Carefuls of the Krogers of the world you could be a CPFR planner and then you get promoted to a CPFR manager or you could become an order management leader or a manager and then eventually you could become a customer service director
+speaker_1: Now lets look at the second part of the supply chain organization design which is the customer service organization So in a customer service organization you could be starting as an order management specialist or as a CPFR specialist Now CPFR stands for collaborative planning forecasting and replenishment CPFR roles are very very common if you are a manufacturer serving retail clients especially like the Walmarts or the Carefuls of the Krogers of the world you could be a CPFR planner and then you get promoted to a CPFR manager or you could become an order management leader or a manager and then eventually you could become a customer service director

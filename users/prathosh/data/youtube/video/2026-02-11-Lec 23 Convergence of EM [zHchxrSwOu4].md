@@ -6,14 +6,15 @@ date: '2026-02-11'
 duration: 19:27
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 23 Convergence of EM
 
 ## Transcript
 
-
-Okay welcome everyone We will continue
+speaker_1: Okay welcome everyone We will continue
 with the discussion on the EM algorithm
 So for the sake of continuity well
 reiterate the EM algorithm uh and then

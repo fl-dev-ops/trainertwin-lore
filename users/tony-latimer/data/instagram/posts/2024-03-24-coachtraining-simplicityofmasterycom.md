@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Here's what happens when you're in this empty-minded state. You can— you truly listen to people. When you connect with somebody in this state of mind and listen to them from here, you will give them a communication experience like they have never had before. And what you find with, with when you're coaching, your clients will just, they'll just open up.
-
+speaker_1: Here's what happens when you're in this empty-minded state. You can— you truly listen to people. When you connect with somebody in this state of mind and listen to them from here, you will give them a communication experience like they have never had before. And what you find with, with when you're coaching, your clients will just, they'll just open up.

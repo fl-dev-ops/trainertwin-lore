@@ -46,7 +46,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -54,9 +54,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Do you ever freeze in meetings or spend too much time searching for the right word or stay quiet because youre afraid your English isnt good enough
+speaker_1: Do you ever freeze in meetings or spend too much time searching for the right word or stay quiet because youre afraid your English isnt good enough
 
 
 Well youre not alone In fact most non native professionals feel this especially in fast paced international environments Its normal

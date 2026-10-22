@@ -6,14 +6,15 @@ date: '2026-04-09'
 duration: 37:10
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 65 Introduction to Generative Models
 
 ## Transcript
 
-
-Okay in this class we will look at the
+speaker_1: Okay in this class we will look at the
 principles of uh generative modeling
 So so far in this course
 we have looked at the discriminative

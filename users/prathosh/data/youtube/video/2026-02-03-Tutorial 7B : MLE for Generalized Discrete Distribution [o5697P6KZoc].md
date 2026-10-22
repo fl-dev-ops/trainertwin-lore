@@ -6,14 +6,15 @@ date: '2026-02-03'
 duration: 23:07
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 7B : MLE for Generalized Discrete Distribution
 
 ## Transcript
 
-
-Hello all welcome to the next part of
+speaker_1: Hello all welcome to the next part of
 this tutorial
 In the earlier discussion we looked at
 an example of uh obtaining the

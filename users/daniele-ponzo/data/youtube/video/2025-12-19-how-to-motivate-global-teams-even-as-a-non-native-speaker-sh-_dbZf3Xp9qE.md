@@ -18,8 +18,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -27,26 +27,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: for quite some time You learn you to motivate people and and get them to work for you And I think that being a a coach trainer for for a volleyball team that helped me a lot on what can I do to make them work for me make them do things that they are not always happy about because if youre training and you say okay guys do 15 laps theyre like no I dont want to do 15 laps But you still have to motivate them to give them a bone why theyre doing that
 
-for quite some time You learn you to motivate people and and get them to work for you And I think that being a a coach trainer for for a volleyball team that helped me a lot on what can I do to make them work for me make them do things that they are not always happy about because if youre training and you say okay guys do 15 laps theyre like no I dont want to do 15 laps But you still have to motivate them to give them a bone why theyre doing that
+speaker_2: Okay
 
-### Speaker 2 · Speaker 2
+speaker_1: Yeah
 
-Okay
+speaker_2: Yeah I love this
 
-### Speaker 1 · Speaker 1
+speaker_1: And thats what I incorporate in when Im managing a team I also do that as well You have to give them goals This is where were going to
 
-Yeah
-
-### Speaker 2 · Speaker 2
-
-Yeah I love this
-
-### Speaker 1 · Speaker 1
-
-And thats what I incorporate in when Im managing a team I also do that as well You have to give them goals This is where were going to
-
-### Speaker 2 · Speaker 2
-
-Yes Yeah I totally understand that because when youre teaching a big part of it is motivation so you have to motivate people who are listening to you So you want them to do something but why Why should they do that Why should they follow you even And so yeah I I love this approach
+speaker_2: Yes Yeah I totally understand that because when youre teaching a big part of it is motivation so you have to motivate people who are listening to you So you want them to do something but why Why should they do that Why should they follow you even And so yeah I I love this approach

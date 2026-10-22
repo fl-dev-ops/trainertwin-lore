@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-So the first and foremost I would say like a resume customized to the job youre applying for is something you would need to start off with your Amazon hiring journey Once your resume is cleared and because you know the world has adopted has been adopting AI so Amazon obviously is one of the forerunners of it The second process you will get an invitation to take a online questionnaire if that goes through then you are invited for a phone screen with usually the hiring manager With the hiring manager they would look at so Amazon has these leadership principles 16 leadership principles These leadership principles are at the core of how Amazon operates
+speaker_1: So the first and foremost I would say like a resume customized to the job youre applying for is something you would need to start off with your Amazon hiring journey Once your resume is cleared and because you know the world has adopted has been adopting AI so Amazon obviously is one of the forerunners of it The second process you will get an invitation to take a online questionnaire if that goes through then you are invited for a phone screen with usually the hiring manager With the hiring manager they would look at so Amazon has these leadership principles 16 leadership principles These leadership principles are at the core of how Amazon operates

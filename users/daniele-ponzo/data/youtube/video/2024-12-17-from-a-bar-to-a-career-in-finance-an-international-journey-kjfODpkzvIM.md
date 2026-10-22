@@ -19,8 +19,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -28,42 +28,22 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Nice
 
-Nice
+speaker_2: I got a picture with him and uh I told him I was um making up my music and recording my music and uh and I started to play around I played for a year and then I stopped playing and stopped working for the hotel as I found something uh in the finance sector
 
-### Speaker 2 · Speaker 2
+speaker_1: Whoa Whoa whoa thats thats a big change
 
-I got a picture with him and uh I told him I was um making up my music and recording my music and uh and I started to play around I played for a year and then I stopped playing and stopped working for the hotel as I found something uh in the finance sector
+speaker_2: Yeah I know I I I got a job through a friend of mine and hes a guy from uh old you know hes from from anyway
 
-### Speaker 1 · Speaker 1
+speaker_1: Okay So anyway yeah
 
-Whoa Whoa whoa thats thats a big change
+speaker_2: He knew me we worked together in the Octagon bar He was a bartender in there
 
-### Speaker 2 · Speaker 2
+speaker_1: Okay
 
-Yeah I know I I I got a job through a friend of mine and hes a guy from uh old you know hes from from anyway
+speaker_2: And then I
 
-### Speaker 1 · Speaker 1
+speaker_1: How come people from from a bar going to finance It seems to be it seems to be quite a thing You
 
-Okay So anyway yeah
-
-### Speaker 2 · Speaker 2
-
-He knew me we worked together in the Octagon bar He was a bartender in there
-
-### Speaker 1 · Speaker 1
-
-Okay
-
-### Speaker 2 · Speaker 2
-
-And then I
-
-### Speaker 1 · Speaker 1
-
-How come people from from a bar going to finance It seems to be it seems to be quite a thing You
-
-### Speaker 2 · Speaker 2
-
-Yeah I know We both started that to begin with but we didnt feel comfortable We thought we were young and we thought that was a boring job
+speaker_2: Yeah I know We both started that to begin with but we didnt feel comfortable We thought we were young and we thought that was a boring job

@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-श्रीशुक उवाच पितरा उपलब्धार्थौ विदित्वा पुरुषोत्तमः मा भूदिति निजान् मायान् तता न जनमोहिनीम्
+speaker_1: श्रीशुक उवाच पितरा उपलब्धार्थौ विदित्वा पुरुषोत्तमः मा भूदिति निजान् मायान् तता न जनमोहिनीम्
 
 
 उवाच पितरावेत्यसाग्रजस्सात्वतर्षभः प्रशयावनतः प्रीणन्नं वतातेति सादरम्

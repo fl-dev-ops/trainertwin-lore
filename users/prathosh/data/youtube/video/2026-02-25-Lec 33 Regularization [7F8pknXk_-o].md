@@ -6,14 +6,15 @@ date: '2026-02-25'
 duration: 28:27
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 33 Regularization
 
 ## Transcript
 
-
-So welcome everyone So in todays
+speaker_1: So welcome everyone So in todays
 lecture we will continue uh our
 discussion on the bias variance
 decomposition So last time we saw that

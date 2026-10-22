@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-अथ सप्तदशोऽध्यायः
+speaker_1: अथ सप्तदशोऽध्यायः
 श्रद्धात्रयविभागयोगः
 अर्जुन उवाच
 ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः

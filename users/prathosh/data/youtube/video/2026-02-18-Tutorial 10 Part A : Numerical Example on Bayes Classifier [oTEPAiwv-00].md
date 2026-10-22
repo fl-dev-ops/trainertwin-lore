@@ -6,14 +6,15 @@ date: '2026-02-18'
 duration: 51:37
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 10 Part A : Numerical Example on Bayes Classifier
 
 ## Transcript
 
-
-Hello all
+speaker_1: Hello all
 Welcome to this tutorial
 in which
 we will be completing one derivation

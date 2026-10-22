@@ -31,8 +31,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -40,14 +40,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: and I was very lonely And then I got this job offer for a great company in Brazil senior leadership role all of the benefits coming back to my comfort zone
 
-and I was very lonely And then I got this job offer for a great company in Brazil senior leadership role all of the benefits coming back to my comfort zone
+speaker_2: Yes absolutely
 
-### Speaker 2 · Speaker 2
-
-Yes absolutely
-
-### Speaker 1 · Speaker 1
-
-But that was the turning point And I was and I realized that if I really want to leave and um build an international career I would have to push myself out of the comfort zone and moreover allow myself to see the world from a completely different perspective
+speaker_1: But that was the turning point And I was and I realized that if I really want to leave and um build an international career I would have to push myself out of the comfort zone and moreover allow myself to see the world from a completely different perspective

@@ -14,7 +14,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -22,6 +22,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Uh definitely because uh I start embracing humility I need to let go of my own beliefs uh to and try to understand how the people around me behaves So I became a learner instead I became curious I became patient I became open to um shifting to rather than pushing for aggressively for outcomes I recognize that trust and mutual respect create a foundation for a longer term success for everyone
+speaker_1: Uh definitely because uh I start embracing humility I need to let go of my own beliefs uh to and try to understand how the people around me behaves So I became a learner instead I became curious I became patient I became open to um shifting to rather than pushing for aggressively for outcomes I recognize that trust and mutual respect create a foundation for a longer term success for everyone

@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-अथ प्रथमोऽध्यायः
+speaker_1: अथ प्रथमोऽध्यायः
 अर्जुनविषादयोगः
 धृतराष्ट्र उवाच
 धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः

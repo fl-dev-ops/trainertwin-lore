@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-The biggest fallacy I've ever heard about coaching is the client always has the answer within them. Like, no, they don't. You can't coach across a knowledge gap. Innovation, creativity, problem-solving, the outputs of coaching conversations, is simply connecting previously unconnected data in your brain. If there's a piece of data missing, you're not going to connect it. Right. So sometimes they have to go find the data, put it in, and then, then you connect it. Where people trip up is getting confused between the difference between teaching somebody, giving somebody the data that's missing versus telling them what to do with it.
-
+speaker_1: The biggest fallacy I've ever heard about coaching is the client always has the answer within them. Like, no, they don't. You can't coach across a knowledge gap. Innovation, creativity, problem-solving, the outputs of coaching conversations, is simply connecting previously unconnected data in your brain. If there's a piece of data missing, you're not going to connect it. Right. So sometimes they have to go find the data, put it in, and then, then you connect it. Where people trip up is getting confused between the difference between teaching somebody, giving somebody the data that's missing versus telling them what to do with it.
 
 ## Comments (1)
 

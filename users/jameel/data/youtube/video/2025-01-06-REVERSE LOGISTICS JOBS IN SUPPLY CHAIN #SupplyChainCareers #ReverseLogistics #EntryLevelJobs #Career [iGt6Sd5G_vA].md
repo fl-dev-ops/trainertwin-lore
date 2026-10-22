@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-Now lets talk about return which is a relatively new subsection even within the score model In fact when I studied the first version of the score model many years ago now we are at score version 12 there was no return it was plan source make deliver thats it enable and return were both added later on so in the return space you could be a reverse logistics coordinator now reverse logistics is basically the logistics of bringing the product back and And because its such a big part of your supply chain management today people do hire companies do hire reverse logistics coordinators who could be the quality assurance agent or analyst so you would be investigating into the quality issues and then providing that feedback back to the manufacturer
+speaker_1: Now lets talk about return which is a relatively new subsection even within the score model In fact when I studied the first version of the score model many years ago now we are at score version 12 there was no return it was plan source make deliver thats it enable and return were both added later on so in the return space you could be a reverse logistics coordinator now reverse logistics is basically the logistics of bringing the product back and And because its such a big part of your supply chain management today people do hire companies do hire reverse logistics coordinators who could be the quality assurance agent or analyst so you would be investigating into the quality issues and then providing that feedback back to the manufacturer

@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Recently I went to a beautiful castle in the German mountains together with my wife The guide explained they call it a council room where all the families gathered together to discuss things that they needed to decide upon
+speaker_1: Recently I went to a beautiful castle in the German mountains together with my wife The guide explained they call it a council room where all the families gathered together to discuss things that they needed to decide upon
 
 
 In that room they had on the wall faces of three fools And on the door they had a rose And the guide explained that the fools were there to explain that in this room you can say anything and it stays in that room And also the rose was called the rose of silence

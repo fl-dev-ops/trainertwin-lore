@@ -22,8 +22,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -31,10 +31,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Yeah Id say first first and foremost is its about its about connection So think of the person thats in front of you and and dont get too hung up on the on perfection or grammar Thats thats one massive takeaway Id say Also remember that were were all were all learners of English You know its a global language these days So dont dont exclude yourself because someone is a native speaker and youre a non native speaker and that will help you that will help you begin to think in the language Yeah simplify first and then expand
 
-Yeah Id say first first and foremost is its about its about connection So think of the person thats in front of you and and dont get too hung up on the on perfection or grammar Thats thats one massive takeaway Id say Also remember that were were all were all learners of English You know its a global language these days So dont dont exclude yourself because someone is a native speaker and youre a non native speaker and that will help you that will help you begin to think in the language Yeah simplify first and then expand
-
-### Speaker 2 · Speaker 2
-
-Put yourself out there start doing even especially when you dont feel ready you know thats you need to feel ready Yeah Thats thats the ultimate promise
+speaker_2: Put yourself out there start doing even especially when you dont feel ready you know thats you need to feel ready Yeah Thats thats the ultimate promise

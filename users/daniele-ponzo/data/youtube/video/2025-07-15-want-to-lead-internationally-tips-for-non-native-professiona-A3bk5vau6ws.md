@@ -32,8 +32,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -41,10 +41,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I hope that was a long story for a short answer
 
-I hope that was a long story for a short answer
-
-### Speaker 2 · Speaker 2
-
-But its a great story actually because this is what I always try to communicate what I always try to tell people Um I mean becoming getting confident in English in a different language it doesnt matter Were talking about English now Is its just a matter of practice
+speaker_2: But its a great story actually because this is what I always try to communicate what I always try to tell people Um I mean becoming getting confident in English in a different language it doesnt matter Were talking about English now Is its just a matter of practice

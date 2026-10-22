@@ -6,14 +6,15 @@ date: '2026-02-11'
 duration: 30:27
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 24 EM for GMMs
 
 ## Transcript
 
-
-Okay so this completes the EM
+speaker_1: Okay so this completes the EM
 algorithm So now what we will do now is
 we will see how to uh implement this EM
 algorithm for the case of the mixture

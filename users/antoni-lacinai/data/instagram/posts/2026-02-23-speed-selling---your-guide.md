@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -30,7 +30,4 @@ Or get in touch with me if you want some real training.
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Is your company exhibiting on different trade shows, but you don't really know if it's worth it. It is. You can get a great return on investment, four to one, five to one, but only if you have trained booth staff. For that reason, I've written a book called speed selling. How to generate leads at the trade show. This is the ultimate guide that will help you from hello to goodbye. How to qualify your visitor, making sure that they are actually a customer or a potential customer. How you make sure that you know what they need, how you can explain how you can help them, and of course, how you move on from there. It's a really good book. It's a gem. By the way, if you buy it, there's also a QR code where you get the full-fledged video e-course with the same topic. Make sure you get to copy yourself.
-
+speaker_1: Is your company exhibiting on different trade shows, but you don't really know if it's worth it. It is. You can get a great return on investment, four to one, five to one, but only if you have trained booth staff. For that reason, I've written a book called speed selling. How to generate leads at the trade show. This is the ultimate guide that will help you from hello to goodbye. How to qualify your visitor, making sure that they are actually a customer or a potential customer. How you make sure that you know what they need, how you can explain how you can help them, and of course, how you move on from there. It's a really good book. It's a gem. By the way, if you buy it, there's also a QR code where you get the full-fledged video e-course with the same topic. Make sure you get to copy yourself.

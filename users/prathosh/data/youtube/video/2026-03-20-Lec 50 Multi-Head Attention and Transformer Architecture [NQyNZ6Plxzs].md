@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 27:25
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 50 Multi-Head Attention and Transformer Architecture
 
 ## Transcript
 
-
-Welcome back So there is another uh
+speaker_1: Welcome back So there is another uh
 small bit of information that I need to
 tell you Theres something called multi
 head attention

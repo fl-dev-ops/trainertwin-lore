@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-श्रीशुक उवाच
+speaker_1: श्रीशुक उवाच
 भरतस्यात्मजः सुमतिर्नामभिहितो यमुहवावकेचित् पाषण्डिनो
 विलोक्य ऋषभपदवीमनुवर्तमानमनार्या अवेद समां नाताम्
 

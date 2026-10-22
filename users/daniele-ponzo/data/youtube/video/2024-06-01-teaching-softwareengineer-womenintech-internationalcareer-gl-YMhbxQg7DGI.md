@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,10 +30,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: and uh yeah thats the part where I want to um be both technical expert and a teacher Um its hard to some extent because uh its never easy to find customers that want to to kind of uh where youre allowed to work only part time and spend your second half of your work time teaching other students that might not be uh ready for work directly but um yeah I find it really um inspiring and it gives me energy to to continue doing whatever Im doing
 
-and uh yeah thats the part where I want to um be both technical expert and a teacher Um its hard to some extent because uh its never easy to find customers that want to to kind of uh where youre allowed to work only part time and spend your second half of your work time teaching other students that might not be uh ready for work directly but um yeah I find it really um inspiring and it gives me energy to to continue doing whatever Im doing
-
-### Speaker 2 · Speaker 2
-
-Yeah I can see that theres a true passion there and that is that is the best drive
+speaker_2: Yeah I can see that theres a true passion there and that is that is the best drive

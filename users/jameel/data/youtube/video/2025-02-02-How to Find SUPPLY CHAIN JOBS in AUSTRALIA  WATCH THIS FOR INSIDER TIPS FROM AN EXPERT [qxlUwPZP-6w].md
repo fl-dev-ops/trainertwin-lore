@@ -9,10 +9,10 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 
@@ -21,9 +21,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-If you if you are into the mining sector if you are into one of the primary industries like dairy or some agriculture Then naturally your supply chains are local and they are sizable and theyre big players in them and the jobs which are associated with those companies with those industries are also equally sizable whether they are for local consumption or for the primary industries Australia is a massive exporter to you have to be mentally prepared for it local experience probably rightly or wrongly counts for more
+speaker_1: If you if you are into the mining sector if you are into one of the primary industries like dairy or some agriculture Then naturally your supply chains are local and they are sizable and theyre big players in them and the jobs which are associated with those companies with those industries are also equally sizable whether they are for local consumption or for the primary industries Australia is a massive exporter to you have to be mentally prepared for it local experience probably rightly or wrongly counts for more
 
 
 And to some degree you can understand it because local experience lets you understand the nuances and the dynamics of this market But if youre used to running global supply chains regional supply chains then its not that currency doesnt carry the same value as it does based on what youre likely to assume for yourself So which city do you land in How is the center of gravity of the companies that you ultimately want to work for whether theyre local or international
@@ -34,24 +32,16 @@ Where are they generally based If its the west coast as we said has to be mining
 
 not to find you know not to be in the top three cities theres a good chance that you know there will be more demand for your kind of flexibility so I have actually met more people Jamil who may have come even with those kind of initial plans but theyve chosen to stay back because what Australia offers overall as a lifestyle as a quality of life equilibrium it suits them they prefer to stay
 
-### Speaker 2
-
-Hello and welcome to another podcast on my channel and recently in my coaching calls or even from a lot of my followers on LinkedIn and YouTube Ive got a very common question that how can we migrate to Australia while keeping our supply chain carriers intact and I think its a very uh natural question because Australia Canada United States and UK are one of those countries in the world where immigration is pretty high uh for economic reasons for securing better
+speaker_2: Hello and welcome to another podcast on my channel and recently in my coaching calls or even from a lot of my followers on LinkedIn and YouTube Ive got a very common question that how can we migrate to Australia while keeping our supply chain carriers intact and I think its a very uh natural question because Australia Canada United States and UK are one of those countries in the world where immigration is pretty high uh for economic reasons for securing better
 
 
 passports and so on So its only natural to ask that question And to talk about that Ive invited someone who is an extremely seasoned and experienced supply chain professional an old time friend of mine We have both worked at Procter Gamble many many years ago And he has himself migrated to Australia over the last couple of years So hes in a perfect position to talk about this topic So without further ado I would like to welcome my friend Amir Mehdi to this podcast Hello Amir How are you
 
-### Speaker 1
+speaker_1: Hi Azmiel Im well thank you very excited to be part of your podcast
 
-Hi Azmiel Im well thank you very excited to be part of your podcast
+speaker_2: Excellent Amr So Amr tell us a little bit about your supply chain career journey to my audience first
 
-### Speaker 2
-
-Excellent Amr So Amr tell us a little bit about your supply chain career journey to my audience first
-
-### Speaker 1
-
-Sure I mean I think I fell straight into supply chain right out of college As you just mentioned we crossed paths at Procter Gamble So that was sort of my start of my professional life I came to PNG in Pakistan from through the internship program and then probably by accident landed in the supply chain function And then since then for the last about two decades Ive been sampling different roles around the world in different
+speaker_1: Sure I mean I think I fell straight into supply chain right out of college As you just mentioned we crossed paths at Procter Gamble So that was sort of my start of my professional life I came to PNG in Pakistan from through the internship program and then probably by accident landed in the supply chain function And then since then for the last about two decades Ive been sampling different roles around the world in different
 
 
 geographies Ive been lucky to work with some amazing organizations and people I took a couple of segues in the name of broadening assignments in general management and strategy but a large part of my career Ive been lucky to get exposure into different facets of the typical plan source make deliver and now the digital facet in the recent past And at the same time as I said geographically I got exposure to a wide wide wide
@@ -59,13 +49,9 @@ geographies Ive been lucky to work with some amazing organizations and people I 
 
 range of countries Middle East Africa Europe Asia and then Oceania sort of was my last bit so before moving to Australia So yeah thats a little bit about me Ive only ever worked in in three companies PNG was my starting then I moved on to a dairy giant called Fonterra and then for the last almost one year Ive been working for a big Aussie conglomerate called the Reese group
 
-### Speaker 2
+speaker_2: Excellent answer So tell my viewers a little bit about your thought process on why Australia why did you choose to migrate there So just a little bit about the decision itself
 
-Excellent answer So tell my viewers a little bit about your thought process on why Australia why did you choose to migrate there So just a little bit about the decision itself
-
-### Speaker 1
-
-Sure I mean I personally we landed in Australia more on the normal career trajectory We did not know uh uh choreograph or move to Australia per se Uh I was actually going to move to Melbourne with Fonterra as part of a global role Uh and this was happening just you know as COVID was was finishing up and the world was opening up again Uh but like many people who have had international exposure whether they are from the subcontinent or elsewhere
+speaker_1: Sure I mean I personally we landed in Australia more on the normal career trajectory We did not know uh uh choreograph or move to Australia per se Uh I was actually going to move to Melbourne with Fonterra as part of a global role Uh and this was happening just you know as COVID was was finishing up and the world was opening up again Uh but like many people who have had international exposure whether they are from the subcontinent or elsewhere
 
 
 Migrating to one of the more you know advanced economies was one of the bucket list items if you like and and the typical countries like the ones you mentioned are the Commonwealth ones or or the US so we had been toying with the idea of at some point you know migrating to one of these countries and and get that additional exposure but Australia happened really within my career trajectory we were quite happy about it because Australia is one of those places that gives you a British lifestyle but in an American setting
@@ -79,20 +65,14 @@ where we wanted to keep the family you know where my kids were on their school e
 
 about the lifestyle career prospects the market itself uh and then all all of that came together made the decision relatively easy to take that punt eventually uh we took it a little bit late in our career journey i would say after 20 years or so uh but i think that was just the right timing for us
 
-### Speaker 2
-
-And for someone like myself Amir who moved to Canada many years ago and one of my at least lets you you can call it my research when I was looking at Canada is that Canada benefits a lot from the US economy right So its a its not as big of a country from an economic perspective as compared to the US but it benefits a lot by being next to a huge economy like the United States There is a very famous statistic that 90 percent of
+speaker_2: And for someone like myself Amir who moved to Canada many years ago and one of my at least lets you you can call it my research when I was looking at Canada is that Canada benefits a lot from the US economy right So its a its not as big of a country from an economic perspective as compared to the US but it benefits a lot by being next to a huge economy like the United States There is a very famous statistic that 90 percent of
 
 
 Canadians live within 100 miles of the US border and that has its impact on every single industry and supply chain is no different right So but when I think of Australia Australia is like you said a continental country very much on its own How is the supply chain market there and what kind of industries within supply chain are thriving more than others
 
-### Speaker 3
+speaker_3: Sure
 
-Sure
-
-### Speaker 1
-
-I think in the regard that you just mentioned Australia is quite different from Canada It does not have the benefit of being in the backyard of a major economy Conversely Australia because of its sheer size and the peer group it has within the Southern Pacific region it prides itself in being one of those big economies But as you said with 25 million people you know there is big and then there is big So when you look at the likes of US or China or even Japan India etc
+speaker_1: I think in the regard that you just mentioned Australia is quite different from Canada It does not have the benefit of being in the backyard of a major economy Conversely Australia because of its sheer size and the peer group it has within the Southern Pacific region it prides itself in being one of those big economies But as you said with 25 million people you know there is big and then there is big So when you look at the likes of US or China or even Japan India etc
 
 
 an economy having said that if you look at metrics like per capita consumption production gdp and so on it is one of the oecd countries so it is it is a sizable economy in its own right especially given the population size but as you come into australia you get uh depending on where youre coming from you have to put things in a little bit of perspective so as i said australia thinks its big which it is when you compare it to the likes of new zealand or the pacific islands but as soon as you get even into
@@ -118,17 +98,11 @@ but not necessarily as an OEM It does rely a little bit more on inbound goods th
 
 discussing and therefore the look feel and the scale of those jobs have to be put in that context if you are especially comparing it to to northeast Asia or to southeast Asia or to the western hemisphere
 
-### Speaker 4
+speaker_4: Excellent and um theres one question I want to
 
-Excellent and um theres one question I want to
+speaker_2: this context Amir because you of course also worked in Singapore before moving to Australia How instrumental was your regional experience in you kind of maneuvering through the job market in Australia
 
-### Speaker 2
-
-this context Amir because you of course also worked in Singapore before moving to Australia How instrumental was your regional experience in you kind of maneuvering through the job market in Australia
-
-### Speaker 1
-
-Yeah its an interesting one I mean if you ask me Singapore as you know like Hong Kong or a few other major hub cities is known for its regional presence of companies Singapore itself is a very small market Most people who are based out of there have regional briefs or larger than that So when you look at your resume and when you look at your experience and many times Asia Pacific is run out of Singapore or Hong Kong and Australia is a part of it So in your own mind when you arrive you think youve covered the market to some degree And additional experience of other countries
+speaker_1: Yeah its an interesting one I mean if you ask me Singapore as you know like Hong Kong or a few other major hub cities is known for its regional presence of companies Singapore itself is a very small market Most people who are based out of there have regional briefs or larger than that So when you look at your resume and when you look at your experience and many times Asia Pacific is run out of Singapore or Hong Kong and Australia is a part of it So in your own mind when you arrive you think youve covered the market to some degree And additional experience of other countries
 
 
 should be a bonus should be a plus that actually may not be the perspective of the market or the employers they are quite keen on local experience again im not saying nobody values it certainly if you bring the right skill set and experience there is value for it but if you havent done it in australia for a large majority of opportunities that regional experience may not carry as much weight as you might think it should
@@ -139,16 +113,12 @@ or it does elsewhere in the world so if you have done a regional role in asia an
 
 chains regional supply chains then its not that currency doesnt carry the same value as it does based on what youre likely to assume for yourself
 
-### Speaker 2
-
-which I think is a very common challenge between Australia and Canada as well because in Canada as well if you go and apply for a job in a local Canadian company you run into the same challenge that they are looking for a Canadian experience and of course when you are new in Canada you take that very negatively as well because you have worked for years and years in other geographies and supply chain skills are generally transferable but then when you start working in the market Im sure Australia is no exception you start realizing that okay yes there are some certain nuances of the market where local
+speaker_2: which I think is a very common challenge between Australia and Canada as well because in Canada as well if you go and apply for a job in a local Canadian company you run into the same challenge that they are looking for a Canadian experience and of course when you are new in Canada you take that very negatively as well because you have worked for years and years in other geographies and supply chain skills are generally transferable but then when you start working in the market Im sure Australia is no exception you start realizing that okay yes there are some certain nuances of the market where local
 
 
 experience definitely has its value So tell me Amir for someone who is either just about to land in Australia with an immigration in his hand or they are already there looking for their first jobs what are some of the useful tips based on your own experience you would like to share
 
-### Speaker 1
-
-I think first and foremost as we touched base on in the previous question recalibrate your expectations Youve already alluded to the fact that Canada is similar I would say New Zealand is a much smaller market but to some degree that applies there as well Do not assume unless youre coming with a multinational or youre only going to target multinational company jobs that your experience would be a one to one translation Excuse me That helps you manage expectations as you get
+speaker_1: I think first and foremost as we touched base on in the previous question recalibrate your expectations Youve already alluded to the fact that Canada is similar I would say New Zealand is a much smaller market but to some degree that applies there as well Do not assume unless youre coming with a multinational or youre only going to target multinational company jobs that your experience would be a one to one translation Excuse me That helps you manage expectations as you get
 
 
 the job market as you prepare for introductions as you prepare for selling yourself or your profile uh it saves you from the from the you know typical pitfall of disappointment uh also important to note that there are not many companies multinationals im referring to that would run their regional or global briefs from australia uh even if australia is part of a region or a business unit theres a high chance that the headquarter for that region is sitting somewhere you know in singapore hong kong tokyo shanghai
@@ -171,9 +141,7 @@ very useful They are probably the primary vehicle that not only acquaints yourse
 
 cover the market very well especially on the East Coast side of things Finding people you know and unlocking that network effect is quite crucial So plan for you know for those key building blocks And I think from there on it becomes easier
 
-### Speaker 2
-
-Excellent And you just touched on this briefly Amr but let me ask you this for people who are not very much familiar with the Australian geography because one of the things we see in a lot of other countries as well that supply chain jobs although a country may have several cities but supply chain jobs just because of the nature of warehousing the cost of real estate manufacturing reliance of the country itself the supply chain jobs queue is typically tilted
+speaker_2: Excellent And you just touched on this briefly Amr but let me ask you this for people who are not very much familiar with the Australian geography because one of the things we see in a lot of other countries as well that supply chain jobs although a country may have several cities but supply chain jobs just because of the nature of warehousing the cost of real estate manufacturing reliance of the country itself the supply chain jobs queue is typically tilted
 
 
 more towards the mega cities Like for example once again if I were to use the Canadian analogy while Vancouver Toronto Montreal Calgary are like the big four cities but I would say the vast majority of jobs are centered in Toronto just because its kind of the warehousing hub geographically the way the population is set up you know it makes a lot of sense to base a lot of jobs there
@@ -181,13 +149,9 @@ more towards the mega cities Like for example once again if I were to use the Ca
 
 Tell me a little bit about Australia because you mentioned that mining jobs are in the West So if someone is moving to Perth should they be targeting more the natural resources industry and Sydney and Melbourne are more on the consumer goods source Talk to me a little bit about
 
-### Speaker 4
+speaker_4: things jobs are in the web
 
-things jobs are in the web
-
-### Speaker 1
-
-Yeah I think in my own opinion this is more driven by your typical normal distribution of population Jameel Yes mining because of where the mining resources are it is in the Western Australian state much more than it is on the Eastern seaboard But the bigger population centers the top three which is Greater Sydney Melbourne and Brisbane they happen to be on the East Coast It depends a little bit also what level of job youre securing you know how young or old you are within your career trajectory
+speaker_1: Yeah I think in my own opinion this is more driven by your typical normal distribution of population Jameel Yes mining because of where the mining resources are it is in the Western Australian state much more than it is on the Eastern seaboard But the bigger population centers the top three which is Greater Sydney Melbourne and Brisbane they happen to be on the East Coast It depends a little bit also what level of job youre securing you know how young or old you are within your career trajectory
 
 
 If youre looking for lets say an early stage vacancy lets say a distribution center manager or a transport logistics manager you dont necessarily have to be in one of the big hubs because the sheer size of this country as I talked earlier mandates that many companies would have hubs or some kind of operation across the urban centers and they will give good coverage to all the states That means for people who are
@@ -213,43 +177,27 @@ depending on the size of the business the scale of the job and so on and so fort
 
 a bit better
 
-### Speaker 4
+speaker_4: So one of the questions I wanted to ask you Amir because I think you are a perfect person to ask this because you have worked in multiple geographies And this is also a topic which I cover a lot on my channel In fact one of the books Ive been actively talking about recently is called The Culture Map
 
-So one of the questions I wanted to ask you Amir because I think you are a perfect person to ask this because you have worked in multiple geographies And this is also a topic which I cover a lot on my channel In fact one of the books Ive been actively talking about recently is called The Culture Map
+speaker_2: Differences between different cultures
 
-### Speaker 2
+speaker_4: of people from different parts of the world and because you have worked in South Asia you have worked
 
-Differences between different cultures
+speaker_2: in the middle
 
-### Speaker 4
+speaker_4: You have worked in Singapore and you have also worked
 
-of people from different parts of the world and because you have worked in South Asia you have worked
-
-### Speaker 2
-
-in the middle
-
-### Speaker 4
-
-You have worked in Singapore and you have also worked
-
-### Speaker 2
-
-for American company and for a New Zealand based company What are some of the cultural nuances or things that people need to be aware of culturally
+speaker_2: for American company and for a New Zealand based company What are some of the cultural nuances or things that people need to be aware of culturally
 
 
 to maneuver their carry
 
-### Speaker 4
-
-Bye
+speaker_4: Bye
 
 
 into Australia so tell me a little bit about that
 
-### Speaker 1
-
-I mean I personally found Australia to be one of the most relaxed places of all the places Ive lived and worked in I think people here are amazing They are very welcoming It is a country that has built its population on a very successful immigration regime So it welcomes and Im talking in general terms right Not the odd incident here or there Theyre very welcoming whether its your own diaspora that you go and connect back with or whether its the locals
+speaker_1: I mean I personally found Australia to be one of the most relaxed places of all the places Ive lived and worked in I think people here are amazing They are very welcoming It is a country that has built its population on a very successful immigration regime So it welcomes and Im talking in general terms right Not the odd incident here or there Theyre very welcoming whether its your own diaspora that you go and connect back with or whether its the locals
 
 
 that you will eventually interact with depending on wherever you are Ive found people to be relaxed easygoing welcoming They love to socialize They do not shy away from striking a conversation Depending on where you are in places like Asia Middle East you know you can have language barriers you can have cultural sensitivities that you alluded to I think Australia is one of the most relaxed places in that sense as Ive found There is obviously a general expectation
@@ -272,41 +220,23 @@ the job done You have to meet expectations naturally You have to adjust your exp
 
 But I think of all the places I have been privileged to live in this has been the natural transition not just for me but even for the family and a few other friends Ive talked to
 
-### Speaker 4
+speaker_4: Excellent Yeah And I think to learn the cricket the Australian slang probably watching the game of cricket is probably the best way to go about it right Because I have learned a lot of Australian slang while growing up as a cricket fan in in in Pakistan Yeah
 
-Excellent Yeah And I think to learn the cricket the Australian slang probably watching the game of cricket is probably the best way to go about it right Because I have learned a lot of Australian slang while growing up as a cricket fan in in in Pakistan Yeah
+speaker_1: Yeah no that helps but you need to adapt to for example if you live in Melbourne footy is the big sport cricket is not although you are in the home city of MCG So there are many ways to learn the slang and they are very happy to teach you if you show interest And there are times when you will not understand anything in a conversation but just you know persevere and youll get there
 
-### Speaker 1
+speaker_4: Yeah and I think theres one thing I want to touch on Amrit which you mentioned such an important point but often people tend to ignore it because I was actually coaching someone recently and this person did a very smart job at looking at what was required in a specific job market and almost like modified some of the pointers on his resume based on
 
-Yeah no that helps but you need to adapt to for example if you live in Melbourne footy is the big sport cricket is not although you are in the home city of MCG So there are many ways to learn the slang and they are very happy to teach you if you show interest And there are times when you will not understand anything in a conversation but just you know persevere and youll get there
+speaker_2: you know youre taking some help from chat gpt and so on uh but my advice to that person was never do that because you have to be yourself because in these markets and i think you just reaffirmed my point about australia as well uh you have to be authentic and you have to
 
-### Speaker 4
+speaker_4: Uh stay out
 
-Yeah and I think theres one thing I want to touch on Amrit which you mentioned such an important point but often people tend to ignore it because I was actually coaching someone recently and this person did a very smart job at looking at what was required in a specific job market and almost like modified some of the pointers on his resume based on
+speaker_2: away from making up things on your resume which you havent done because if youre exposed then you lost the most you lose the most important aspect of your
 
-### Speaker 2
+speaker_4: Resuming with you
 
-you know youre taking some help from chat gpt and so on uh but my advice to that person was never do that because you have to be yourself because in these markets and i think you just reaffirmed my point about australia as well uh you have to be authentic and you have to
+speaker_2: which is your
 
-### Speaker 4
-
-Uh stay out
-
-### Speaker 2
-
-away from making up things on your resume which you havent done because if youre exposed then you lost the most you lose the most important aspect of your
-
-### Speaker 4
-
-Resuming with you
-
-### Speaker 2
-
-which is your
-
-### Speaker 4
-
-Whenever you are putting something in your resume of course you can modify your resume based on the job you are applying for and you can use keywords which are used in the keyword in the job description but dont try to you know mention things which you havent done because if they go deeper in a job interview on those points and if you are unable to give sufficient answers that can backfire like nothing else So always stray away from fabricating things on your resume or talking about things that you have not done So thanks a lot for mentioning this
+speaker_4: Whenever you are putting something in your resume of course you can modify your resume based on the job you are applying for and you can use keywords which are used in the keyword in the job description but dont try to you know mention things which you havent done because if they go deeper in a job interview on those points and if you are unable to give sufficient answers that can backfire like nothing else So always stray away from fabricating things on your resume or talking about things that you have not done So thanks a lot for mentioning this
 
 
 Now one as we are coming towards some of my last questions here Amir one question which I get a lot and I think this is once again a question that is asked to immigrants in all sorts of countries around the world is once someone has gotten their Australian passport and their immigration is done and keeping this in the context of a supply chain career is it advisable to stay back
@@ -314,9 +244,7 @@ Now one as we are coming towards some of my last questions here Amir one questio
 
 or move to lets say the tax free havens like Middle East and so on Whenever I am asked this question my answer is that its all very very circumstantial It depends on your personal situation But I just wanted to get your perspective as well on this
 
-### Speaker 1
-
-No no I think your advice in general is I fully agree with it No two cases are the same It heavily depends on your circumstances and even more so on your aspirations and where you are on your journey If you have seen the world and youve traveled the world and youve done roles everywhere and youve come to Australia we earlier talked about recalibrating your expectations that things are different here Its a different kind of market But you have to remember what are the reasons that you moved here that you moved here for
+speaker_1: No no I think your advice in general is I fully agree with it No two cases are the same It heavily depends on your circumstances and even more so on your aspirations and where you are on your journey If you have seen the world and youve traveled the world and youve done roles everywhere and youve come to Australia we earlier talked about recalibrating your expectations that things are different here Its a different kind of market But you have to remember what are the reasons that you moved here that you moved here for
 
 
 uh your reasons to stay uh might be linked to those reasons to move as well uh
@@ -339,16 +267,12 @@ companies here which are operating at massive scale and would offer tremendous o
 
 hand knowledge but ultimately its a decision based on what you want rather than you know whats that magic recipe of when should I leave or when should I come back so I think its a different answer for different individuals
 
-### Speaker 4
-
-Yeah absolutely I cant agree more because its very circumstantial Thanks for sharing that perspective And one of the other questions which I think you once again are an ideal person to ask is that recently Ive been getting some of these questions as well about immigration to New Zealand as well right How are these two markets I know New Zealand is a much smaller country but there might be pockets where some of the industries are bigger
+speaker_4: Yeah absolutely I cant agree more because its very circumstantial Thanks for sharing that perspective And one of the other questions which I think you once again are an ideal person to ask is that recently Ive been getting some of these questions as well about immigration to New Zealand as well right How are these two markets I know New Zealand is a much smaller country but there might be pockets where some of the industries are bigger
 
 
 So based on your experience also like you know working with a company like Fonterra which is one of the biggest employers in New Zealand how do you compare the supply chain job markets between Australia and New Zealand
 
-### Speaker 1
-
-At best its the same ratio as the populations So one is to five one is to six if you like Its a very generalized statistic New Zealand is a much bigger primary industry where in their case the primary industries revolve around dairy meat forestry fishing So thats where they you know the bulk of their volume they are the massive theyre a massive exporter of those resources
+speaker_1: At best its the same ratio as the populations So one is to five one is to six if you like Its a very generalized statistic New Zealand is a much bigger primary industry where in their case the primary industries revolve around dairy meat forestry fishing So thats where they you know the bulk of their volume they are the massive theyre a massive exporter of those resources
 
 
 to the whole world So if youre into one of those sectors if youre working with one of those companies whether its peavey fruit whether its milk whether its the fishery area you might find yourself to be a very big fish in a small pond within the New Zealand context It is a very small market right Were talking five million people there or there or thereabouts In fact we used to joke that you know when I was in Fonterra early in my early days at that time they used to say we have four million people and five million cows and seven
@@ -365,13 +289,9 @@ around those sectors New Zealand is an amazing place again to to live its even m
 
 but it is uh equally less you know the amount of action you will see there will be very different scale wise the more further further away you move in that direction
 
-### Speaker 4
+speaker_4: Right and and I mean I know this is a question going a little bit in the tangent but uh is the is the naturalization process in the duration similar to Australia or is it faster is it slower
 
-Right and and I mean I know this is a question going a little bit in the tangent but uh is the is the naturalization process in the duration similar to Australia or is it faster is it slower
-
-### Speaker 1
-
-Ah good question I know these things keep changing and theres a lot in the news and you know usually a consultant or an agent can advise you on what is the latest picture From what I have heard it depends a little bit on what is the arrangement as you have arrived So New Zealand I believe used to be faster but during COVID their backlog has gone up quite a bit But I have to put the disclaimer
+speaker_1: Ah good question I know these things keep changing and theres a lot in the news and you know usually a consultant or an agent can advise you on what is the latest picture From what I have heard it depends a little bit on what is the arrangement as you have arrived So New Zealand I believe used to be faster but during COVID their backlog has gone up quite a bit But I have to put the disclaimer
 
 
 This is not official advice You know check with experts check with the websites check with the relevant departments I would think
@@ -382,21 +302,13 @@ All being all else being equal Australia is probably a bit more streamlined in t
 
 is a little bit more uh more neutral in that regard you know the the the extreme views are a bit less but if you come with the right in the right category and when i say in the right category meaning you you have the right to work uh i think once that process gets going australia these days i believe is a little bit easier and faster new zealand used to be but my friends have told me recently that they are running a massive backlog since covert
 
-### Speaker 4
+speaker_4: Got you Okay excellent I think this is helpful Amit Thanks for sharing that And my last question to you is something which I ask anytime I invite someone with the kind of experience you have more than 20 years in supply chain because I think this question sometimes opens up a lot of million dollar tips for people to take away from So what would be an advice you would give
 
-Got you Okay excellent I think this is helpful Amit Thanks for sharing that And my last question to you is something which I ask anytime I invite someone with the kind of experience you have more than 20 years in supply chain because I think this question sometimes opens up a lot of million dollar tips for people to take away from So what would be an advice you would give
+speaker_2: like to give to your 25 year old
 
-### Speaker 2
+speaker_4: Its self
 
-like to give to your 25 year old
-
-### Speaker 4
-
-Its self
-
-### Speaker 1
-
-I think hindsight is a beautiful thing right Its always 2020 and I would have so much to say if I could talk to my 25 year old self but purely staying in the career and the kind of topics we have been discussing I would probably worry a little bit less about the here and now like we used to about our roles of our jobs about things like promotions and career journey at that early stage I would probably
+speaker_1: I think hindsight is a beautiful thing right Its always 2020 and I would have so much to say if I could talk to my 25 year old self but purely staying in the career and the kind of topics we have been discussing I would probably worry a little bit less about the here and now like we used to about our roles of our jobs about things like promotions and career journey at that early stage I would probably
 
 
 redirect that attention and that focus my advice would be to to build the skills you need if your personal circumstances allow then raise your hand for opportunities that most people are not going for whether they are geographically oriented whether they are roles which look look less attractive whether they are skills which require you to take time off study and come back uh i think if anything the last decade has proven to us that people are running out of relevance
@@ -416,43 +328,27 @@ case scenario you would not get an answer or a no uh but in my experience that i
 
 take less tension and redirect that energy to a little bit of a plan
 
-### Speaker 4
-
-Excellent I think those are all very very useful points And I always ask this question like I said because the majority of the viewers on my channel are in that early mid career stage So they can take a lot of advantage from our experiences our mistakes So its always helpful to share that advice So thanks for doing that Amir Well I think Im coming to the end of this podcast Really once again thanks a lot for coming on my show I think you have shared some very useful pieces of information where any supply chain professional
+speaker_4: Excellent I think those are all very very useful points And I always ask this question like I said because the majority of the viewers on my channel are in that early mid career stage So they can take a lot of advantage from our experiences our mistakes So its always helpful to share that advice So thanks for doing that Amir Well I think Im coming to the end of this podcast Really once again thanks a lot for coming on my show I think you have shared some very useful pieces of information where any supply chain professional
 
 
 Who is maneuvering his or her career into Australia or planning to move
 
-### Speaker 2
+speaker_2: Oh dear
 
-Oh dear
+speaker_4: Soon I think this part
 
-### Speaker 4
-
-Soon I think this part
-
-### Speaker 2
-
-The forecast is going to be super
+speaker_2: The forecast is going to be super
 
 
 or all those audience
 
-### Speaker 4
-
-Uh four
+speaker_4: Uh four
 
 
 So once again thanks for taking the time I know its late
 
-### Speaker 2
+speaker_2: Late in the night
 
-Late in the night
+speaker_4: the night in Australia right now So thanks for staying late for for this I really appreciate your time and lets stay in touch
 
-### Speaker 4
-
-the night in Australia right now So thanks for staying late for for this I really appreciate your time and lets stay in touch
-
-### Speaker 1
-
-Now thank you for the opportunity I really enjoyed it too Jamil well talk soon again
+speaker_1: Now thank you for the opportunity I really enjoyed it too Jamil well talk soon again

@@ -28,8 +28,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -37,18 +37,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I was someone coming from outside leading a very a transformational project that by itself creates a lot of discomfort And trying to impose my Colombian or my Brazilian way was not the best
 
-I was someone coming from outside leading a very a transformational project that by itself creates a lot of discomfort And trying to impose my Colombian or my Brazilian way was not the best
+speaker_2: No It wouldnt work
 
-### Speaker 2 · Speaker 2
+speaker_1: I had to build trust build my community So once again I had to reinvent myself and expand the way I was seeing the world So originally seeing the world from the Brazilian eyes then from the Colombian eyes and then that third experience was from Chile
 
-No It wouldnt work
-
-### Speaker 1 · Speaker 1
-
-I had to build trust build my community So once again I had to reinvent myself and expand the way I was seeing the world So originally seeing the world from the Brazilian eyes then from the Colombian eyes and then that third experience was from Chile
-
-### Speaker 2 · Speaker 2
-
-Yes
+speaker_2: Yes

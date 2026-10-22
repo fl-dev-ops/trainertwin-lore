@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,17 +18,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: Are you a dove owl a peacock or an eagle Watch this video till the end to find out how these birds can actually help you improve the most important skill you can have self awareness
 
-Are you a dove owl a peacock or an eagle Watch this video till the end to find out how these birds can actually help you improve the most important skill you can have self awareness
+speaker_2: This is a word that is rarely talked about in our space that I want to start building more attention for Self awareness I want to deliver on this message so much I would create a test or a drug that allowed people to become self aware One potion inject not hustle not smart self awareness
 
-### Speaker 2
-
-This is a word that is rarely talked about in our space that I want to start building more attention for Self awareness I want to deliver on this message so much I would create a test or a drug that allowed people to become self aware One potion inject not hustle not smart self awareness
-
-### Speaker 1
-
-My name is Jimmy and Ive been working in the corporate sector for the last 17 years and my passion is to help you build real life skills for your job and career that they dont teach you in college Although self awareness is the most important skill you can have yet it is ignored by the majority of the people Now Ive been extremely fortunate that I have worked for companies where this has always been identified as a key skill and therefore over the course of my career Ive been introduced to a number of different tools which can help you improve
+speaker_1: My name is Jimmy and Ive been working in the corporate sector for the last 17 years and my passion is to help you build real life skills for your job and career that they dont teach you in college Although self awareness is the most important skill you can have yet it is ignored by the majority of the people Now Ive been extremely fortunate that I have worked for companies where this has always been identified as a key skill and therefore over the course of my career Ive been introduced to a number of different tools which can help you improve
 
 
 your awareness about your own self and then use that to improve your performance now one such tool that ill be talking about today is called the dope test now dont get me wrong its not that dope this dope stands for dove owl peacock eagle so the basic philosophy of this test is that human behavior can be compartmentalized into four types of general behaviors so you could be a dove which is sympathetic moderate

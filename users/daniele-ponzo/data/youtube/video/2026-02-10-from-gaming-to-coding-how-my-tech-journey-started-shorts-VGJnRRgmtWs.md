@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,14 +24,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Yeah because I wanted to learn languages because uh I wanted to mod video games But I got this copy of GTA San Andreas and I wanted to make mods for it and I started playing on uh a mod that was called SAMP San Andreas multiplayer And this mod had a plugin system using a scripting language named Pawn And with that you could write game modes for this plugin for this mod for GTA
 
-Yeah because I wanted to learn languages because uh I wanted to mod video games But I got this copy of GTA San Andreas and I wanted to make mods for it and I started playing on uh a mod that was called SAMP San Andreas multiplayer And this mod had a plugin system using a scripting language named Pawn And with that you could write game modes for this plugin for this mod for GTA
+speaker_2: Okay So it was like heaven to you because finally you could interact with a video game in a way you wanted
 
-### Speaker 2 · Speaker 2
-
-Okay So it was like heaven to you because finally you could interact with a video game in a way you wanted
-
-### Speaker 1 · Speaker 1
-
-I was able to write code to direct a game in the way I wanted And I made some little role playing mods not mods but like plugins for GTA San Andreas multiplayer I became a moderator on big servers back in the time because there was a huge community in Italy
+speaker_1: I was able to write code to direct a game in the way I wanted And I made some little role playing mods not mods but like plugins for GTA San Andreas multiplayer I became a moderator on big servers back in the time because there was a huge community in Italy

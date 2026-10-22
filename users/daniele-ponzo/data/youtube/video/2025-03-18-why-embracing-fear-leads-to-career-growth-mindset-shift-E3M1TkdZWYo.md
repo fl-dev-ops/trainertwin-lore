@@ -14,8 +14,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -23,10 +23,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So we want to become friend make friend with your fear Fear is there So we might as well embrace it It shouldnt prevent us but it should help us to do things to be afraid but let not fear prevent you from doing things but you know be that uh turn that into an enabler if you will you know Well I shouldnt say most of the times but you know I do feel my fear and Im trying to deal with it you know
 
-So we want to become friend make friend with your fear Fear is there So we might as well embrace it It shouldnt prevent us but it should help us to do things to be afraid but let not fear prevent you from doing things but you know be that uh turn that into an enabler if you will you know Well I shouldnt say most of the times but you know I do feel my fear and Im trying to deal with it you know
-
-### Speaker 2 · Speaker 2
-
-Everybody feels fear If you dont feel fear then theres whats the worst thing that can happen Whats the worst thing that can happen And thats it
+speaker_2: Everybody feels fear If you dont feel fear then theres whats the worst thing that can happen Whats the worst thing that can happen And thats it

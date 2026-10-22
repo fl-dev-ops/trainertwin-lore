@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-मैत्रेय उवाच
+speaker_1: मैत्रेय उवाच
 मनोस्तु शतरूपायान्ति स्रः कन्याश्च जज्ञिरे
 आकूतिर्देवहूतिश्च प्रसूतिरिति विश्रुताः
 

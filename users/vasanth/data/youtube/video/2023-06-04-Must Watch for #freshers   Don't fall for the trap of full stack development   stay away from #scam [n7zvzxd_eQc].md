@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,17 +19,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: Still it is same as the what a backend developer alone and the frontend developer alone can get it It is you need not to become full stack developer to earn more So what all you need to know is Swift Objective C and Xcode HTML iOS SDK jQuery jQuery Mobile and then you need to also know JavaScript and Python You should also have a knowledge about IIS Azure machine learning Azure How many things you will learn Okay Im calling it quite openly now Its full stack development has become recent I hope you all doing well
 
-Still it is same as the what a backend developer alone and the frontend developer alone can get it It is you need not to become full stack developer to earn more So what all you need to know is Swift Objective C and Xcode HTML iOS SDK jQuery jQuery Mobile and then you need to also know JavaScript and Python You should also have a knowledge about IIS Azure machine learning Azure How many things you will learn Okay Im calling it quite openly now Its full stack development has become recent I hope you all doing well
+speaker_2: Maybe compare some
 
-### Speaker 2
-
-Maybe compare some
-
-### Speaker 1
-
-In case if you are seeing me first time on LinkedIn I am a content creator I create content on interview preparation and I help lot of people to clear their interview If you are someone who is preparing for interview I may content on technical as well as non technical aspects link to those series will be somewhere on the screen also in description section Please go ahead and check them out now without wasting further time Lets get started with the topic of the day So lot of resharers who are contacting me online or etc Are they getting cheated because of this particular problem That is full stack development scam Okay Im calling it quite openly now Its full stack development
+speaker_1: In case if you are seeing me first time on LinkedIn I am a content creator I create content on interview preparation and I help lot of people to clear their interview If you are someone who is preparing for interview I may content on technical as well as non technical aspects link to those series will be somewhere on the screen also in description section Please go ahead and check them out now without wasting further time Lets get started with the topic of the day So lot of resharers who are contacting me online or etc Are they getting cheated because of this particular problem That is full stack development scam Okay Im calling it quite openly now Its full stack development
 
 
 has become a scam let me give a simple analogy what is happening so people are students who are in a tier 2 tier 3 college are trying hard working hard but still they are not able to get placed from the college so what they are doing after that they are joining some edtech firms a lot of edtech firms i dont want to name them where they are like taking few lakhs of rupees for full time developer course or some are even doing it in a different way where they are like they are not charging anything while during the course after a course is completed they have to pay a few lakhs of rupees okay

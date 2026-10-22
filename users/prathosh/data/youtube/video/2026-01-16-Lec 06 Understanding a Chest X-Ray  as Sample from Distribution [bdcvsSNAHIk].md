@@ -6,14 +6,15 @@ date: '2026-01-16'
 duration: 26:50
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 06 Understanding a Chest X-Ray  as Sample from Distribution
 
 ## Transcript
 
-
-Welcome back So now uh lets try to get
+speaker_1: Welcome back So now uh lets try to get
 that example uh grounded in in these uh
 these under with these notations and
 languages

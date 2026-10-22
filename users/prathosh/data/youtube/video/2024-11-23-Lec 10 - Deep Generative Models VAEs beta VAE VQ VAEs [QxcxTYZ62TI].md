@@ -8,20 +8,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 10 - Deep Generative Models VAEs beta VAE VQ VAEs
 
 ## Transcript
 
-
-### Speaker 1
-
-I think two voices it is it from
+speaker_1: I think two voices it is it from
 
 
 Okay yeah
@@ -32,13 +29,9 @@ Okay so last class we completed VAE straight
 
 Hello
 
-### Speaker 2
+speaker_2: Yes sir yes sir
 
-Yes sir yes sir
-
-### Speaker 1
-
-Yes sir
+speaker_1: Yes sir
 
 
 Its for computer okay
@@ -58,13 +51,9 @@ Second also we can have a class right
 
 So yeah
 
-### Speaker 2
+speaker_2: Im sorry
 
-Im sorry
-
-### Speaker 1
-
-One two three four
+speaker_1: One two three four
 
 
 Four
@@ -81,13 +70,9 @@ Four
 
 One two three four
 
-### Speaker 2
+speaker_2: Ive been shooting today
 
-Ive been shooting today
-
-### Speaker 1
-
-five including today Yeah I think thats good So what Ill do today we will start the DDPM diffusion models Maybe next one more class I will complete DDPM Okay So that will leave us with three classes three more classes
+speaker_1: five including today Yeah I think thats good So what Ill do today we will start the DDPM diffusion models Maybe next one more class I will complete DDPM Okay So that will leave us with three classes three more classes
 
 
 Yeah thats good enough So one class for autoregressive models and LLMs and
@@ -95,32 +80,20 @@ Yeah thats good enough So one class for autoregressive models and LLMs and
 
 Think yeah thats what we can cover a lot more growth
 
-### Speaker 2
+speaker_2: Sir but we didnt do VQVA and
 
-Sir but we didnt do VQVA and
-
-### Speaker 1
-
-I will do that today So initially today before I complete Ill do inference on VAEs and Ill do VQVAEs and then well go to diffusion models
+speaker_1: I will do that today So initially today before I complete Ill do inference on VAEs and Ill do VQVAEs and then well go to diffusion models
 
 
 Okay thats it
 
-### Speaker 3
+speaker_3: encoded
 
-encoded
+speaker_1: You mean the training you are saying
 
-### Speaker 1
+speaker_3: Yes yes
 
-You mean the training you are saying
-
-### Speaker 3
-
-Yes yes
-
-### Speaker 1
-
-Thats the process Ill do that
+speaker_1: Thats the process Ill do that
 
 
 So this is there in your second assignment right So when you implement it it will become much more clearer anyway Ill do that
@@ -164,13 +137,9 @@ You do this reparameterization which is you add this mean that the output of the
 
 That will give you a ZJ So take that ZJ okay and pass it through the decoder And the output of the decoder is taken to be XJ cap So this is one forward pass Any questions on this
 
-### Speaker 2
+speaker_2: Sir when we say variational inference sir like what do we mean by that
 
-Sir when we say variational inference sir like what do we mean by that
-
-### Speaker 1
-
-No no no hold on I still not come to that We are not talking about inference We are only talking about training now See one forward pass through encoder and decoder is this That much is clear So pass a sample through the encoder get your parameters reparameterize it Sample outside the neural network reparameterize And then again pass it through the decoder You get an X cap So that is one pass through the encoder decoder Okay Now to train the encoder what you do is encoder has two layers
+speaker_1: No no no hold on I still not come to that We are not talking about inference We are only talking about training now See one forward pass through encoder and decoder is this That much is clear So pass a sample through the encoder get your parameters reparameterize it Sample outside the neural network reparameterize And then again pass it through the decoder You get an X cap So that is one pass through the encoder decoder Okay Now to train the encoder what you do is encoder has two layers
 
 
 right one is the uh the kl loss this is to train the decoder we saw how to train the encoder here yeah to train the encoder we had once you get the x cap right you compute this um
@@ -199,13 +168,9 @@ Okay so once this is trained what do we do with it
 
 Is it not
 
-### Speaker 3
+speaker_3: You can just write anything and then it will score
 
-You can just write anything and then it will score
-
-### Speaker 1
-
-Inference between
+speaker_1: Inference between
 
 
 So post training VAE can be used for two tasks Okay The first task is
@@ -330,24 +295,16 @@ models any questions on this
 
 Yeah uh Shirisha
 
-### Speaker 4
+speaker_4: Yes sir Sir uh so when you said Z tests can be used for classification what kind of classification you mean
 
-Yes sir Sir uh so when you said Z tests can be used for classification what kind of classification you mean
-
-### Speaker 1
-
-Lets say that you have built a VAE on MNIST right Now you want to train a classifier on MNIST Typically what you do is you take the images and train a classifier on MNIST right So instead of doing that you take the embeddings on the MNIST and you train a classifier using embeddings
+speaker_1: Lets say that you have built a VAE on MNIST right Now you want to train a classifier on MNIST Typically what you do is you take the images and train a classifier on MNIST right So instead of doing that you take the embeddings on the MNIST and you train a classifier using embeddings
 
 
 Does that make sense
 
-### Speaker 4
+speaker_4: Okay so basically we are trying to classify the class of the images it
 
-Okay so basically we are trying to classify the class of the images it
-
-### Speaker 1
-
-Anything So it doesnt matter right Your input can be image or it can be text or anything depending upon what sort of data you have But the idea is that you can instead of using X test you can use Z So whats I mean a more interesting question is what advantage do you get by using Z instead of X
+speaker_1: Anything So it doesnt matter right Your input can be image or it can be text or anything depending upon what sort of data you have But the idea is that you can instead of using X test you can use Z So whats I mean a more interesting question is what advantage do you get by using Z instead of X
 
 
 Now the answer to that is actually if you have learned a good encoder decoder model right the hope is that the embeddings that you have gotten is well clustered and well behaved Because I mean as I told you in one of the earlier classes these naturally occurring data will be in very high dimensional spaces and they will all be scattered no because of curse of dimensionality They will not be well clustered
@@ -358,21 +315,13 @@ If you learn a representation in a lower dimensional space it will be much more 
 
 Tell me this in your assignment have I asked you to use these embeddings and build a classifier
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
+speaker_1: This is exactly what I have asked you to do right Try in a VAE and then get the corresponding Zs and then use it in a classifier And I think I have asked you also to compare this with a classifier that is built only on the data space also right
 
-### Speaker 1
+speaker_2: Yes sir
 
-This is exactly what I have asked you to do right Try in a VAE and then get the corresponding Zs and then use it in a classifier And I think I have asked you also to compare this with a classifier that is built only on the data space also right
-
-### Speaker 2
-
-Yes sir
-
-### Speaker 1
-
-Have I Let me just open the assignment and see
+speaker_1: Have I Let me just open the assignment and see
 
 
 asked you right yeah yeah so thats what it is so first you have to use a cnn and classify that classify the data and then use these embeddings and reduce the network size and simply use an mlp and see what happens on top of it
@@ -380,35 +329,23 @@ asked you right yeah yeah so thats what it is so first you have to use a cnn and
 
 Yeah service
 
-### Speaker 3
+speaker_3: So so for this uh parameter reparameterization so this is eps the sigma should be raised to half right because we need some standard deviation type component to be added
 
-So so for this uh parameter reparameterization so this is eps the sigma should be raised to half right because we need some standard deviation type component to be added
+speaker_1: uh that depends on yeah that depends on what you are representing as sigma no im representing that root of that itself as sigma depends i mean thats just a scaling factor right
 
-### Speaker 1
-
-uh that depends on yeah that depends on what you are representing as sigma no im representing that root of that itself as sigma depends i mean thats just a scaling factor right
-
-### Speaker 3
-
-So were actually getting standard deviation type
+speaker_3: So were actually getting standard deviation type
 
 
 But Ill be right back
 
-### Speaker 1
-
-That is what Im saying right So now if you represent the output of your encoder as standard deviation then you raise it to power of half If I say that its the variance then you dont have to Depends upon how do you see it thats all
+speaker_1: That is what Im saying right So now if you represent the output of your encoder as standard deviation then you raise it to power of half If I say that its the variance then you dont have to Depends upon how do you see it thats all
 
 
 Oh send it
 
-### Speaker 2
+speaker_2: Sir is this the right time to ask that about variational inference like
 
-Sir is this the right time to ask that about variational inference like
-
-### Speaker 1
-
-Ah see this is this is posterior inference Okay Posterior because what youre actually calculating here is youre calculating
+speaker_1: Ah see this is this is posterior inference Okay Posterior because what youre actually calculating here is youre calculating
 
 
 P theta P phi star of Z given X right
@@ -422,13 +359,9 @@ I was going to say that this is
 
 Yeah
 
-### Speaker 2
+speaker_2: Yeah
 
-Yeah
-
-### Speaker 1
-
-Yeah Q star Q star Q phi star of Z given X correct
+speaker_1: Yeah Q star Q star Q phi star of Z given X correct
 
 
 Now this is inference definitely because given an x you are giving a z okay and this is posterior I mean technically speaking you can actually call this variational posterior inference
@@ -460,13 +393,9 @@ approximate it so that is why its called the variational posterior okay uh in fa
 
 Do you remember that question
 
-### Speaker 3
+speaker_3: Yes yes
 
-Yes yes
-
-### Speaker 1
-
-We had told you that you start from the KL divergence between the variational distribution
+speaker_1: We had told you that you start from the KL divergence between the variational distribution
 
 
 And this
@@ -540,13 +469,9 @@ You get what Im saying See decoder is trying to see samples from Q phi of Z give
 
 You see the question
 
-### Speaker 2
+speaker_2: you are reducing the KL divergence between exactly
 
-you are reducing the KL divergence between exactly
-
-### Speaker 1
-
-Exactly right Exactly So now what happens is now post training
+speaker_1: Exactly right Exactly So now what happens is now post training
 
 
 Q phi of Z given X okay would reduce to normal 0 1
@@ -650,24 +575,16 @@ So that way right VAE can be seen as a regularized autoencoder an autoencoder wi
 
 Yes and it
 
-### Speaker 2
+speaker_2: Sir but the normal distribution that is a very like a very wide space right So its not possible that for every sample within this normal distribution we will get like a proper image that is similar to the original data set So like thats where like we try to learn on the poles or the clusters
 
-Sir but the normal distribution that is a very like a very wide space right So its not possible that for every sample within this normal distribution we will get like a proper image that is similar to the original data set So like thats where like we try to learn on the poles or the clusters
-
-### Speaker 1
-
-Oh see
+speaker_1: Oh see
 
 
 While you can see this as a reconstruction plus a regularization you should always remember how did we get to this objective We got to this objective by minimizing the KL divergence between the model distribution and the true data distribution correct
 
-### Speaker 2
+speaker_2: distributing into distribution
 
-distributing into distribution
-
-### Speaker 1
-
-We started how did we get this This was our elbow right Whatever I have written here is our elbow That is why I dont write the loss function of VAE as simply reconstruction plus KL simply because I want you to appreciate where did this come from This actually came from the elbow right Now what was that That was the KL distribution KL divergence between Px and P theta Thats what we started from
+speaker_1: We started how did we get this This was our elbow right Whatever I have written here is our elbow That is why I dont write the loss function of VAE as simply reconstruction plus KL simply because I want you to appreciate where did this come from This actually came from the elbow right Now what was that That was the KL distribution KL divergence between Px and P theta Thats what we started from
 
 
 Now doing all this we are actually reducing the KL divergence between Px and P theta So now if we have done it right right then no matter what this distribution is you know it can be normal or anything the VAE has to sample from Px because we have technically reduced the KL divergence between Px and P theta
@@ -675,21 +592,13 @@ Now doing all this we are actually reducing the KL divergence between Px and P t
 
 Does that make sense
 
-### Speaker 2
+speaker_2: Okay
 
-Okay
+speaker_1: because the entire model has reduced the KL divergence between Px and P theta If you have done it right then this objective should lead you to sample data points from Px
 
-### Speaker 1
+speaker_3: Yeah so in the assignment what we observe is the reconstruction loss is I mean decreasing pretty fast but we dont know We see that the KL divergence its hard to reduce I mean it keeps generally increasing So whats
 
-because the entire model has reduced the KL divergence between Px and P theta If you have done it right then this objective should lead you to sample data points from Px
-
-### Speaker 3
-
-Yeah so in the assignment what we observe is the reconstruction loss is I mean decreasing pretty fast but we dont know We see that the KL divergence its hard to reduce I mean it keeps generally increasing So whats
-
-### Speaker 1
-
-little increasing so whats correct correct that happens see that is because uh something uh which is called a posterior collapse so ill talk about it uh okay so ill come to that so this is yeah this is how what what do you do in a knife vae right there are lots of improvisations that people have done over a knife vae ill not talk about all of them ill only talk about like one of them which is the vector contest vae which is
+speaker_1: little increasing so whats correct correct that happens see that is because uh something uh which is called a posterior collapse so ill talk about it uh okay so ill come to that so this is yeah this is how what what do you do in a knife vae right there are lots of improvisations that people have done over a knife vae ill not talk about all of them ill only talk about like one of them which is the vector contest vae which is
 
 
 sort of state of the art VAEs that people use Okay Yeah That is precisely because the observation that you have made in your assignment Okay So there is something called posterior collapse in VAE Ill talk about it
@@ -736,13 +645,9 @@ Okay now what is the consequence of it The consequence of this is that
 
 Okay do you people know of this idea called bias variance decomposition bias variance trade off
 
-### Speaker 2
+speaker_2: No sir
 
-No sir
-
-### Speaker 1
-
-Okay see whenever you regularize a model okay so if you take a learning model and you regularize the model what will happen is I mean you might be knowing it in a different name perhaps right See if you over regularize a model what will happen is why do you regularize a model You regularize a model because you want to avoid overfitting right Now if you over regularize it the model will go to the regime of underfitting Now if you do not regularize it
+speaker_1: Okay see whenever you regularize a model okay so if you take a learning model and you regularize the model what will happen is I mean you might be knowing it in a different name perhaps right See if you over regularize a model what will happen is why do you regularize a model You regularize a model because you want to avoid overfitting right Now if you over regularize it the model will go to the regime of underfitting Now if you do not regularize it
 
 
 then the model will go to the regime of overfitting right it is this trade off between the underfitting and overfitting is what is called as the bias variance decomposition so that is a topic by itself
@@ -834,21 +739,13 @@ rather see if it if it can differentiate between each sample input sample it can
 
 Yes Norman
 
-### Speaker 3
+speaker_3: Uh so this happens only in naive uh VA or that
 
-Uh so this happens only in naive uh VA or that
+speaker_1: It happens only in NIV yeah we have well see how to circumvent this problem how do you solve this problem
 
-### Speaker 1
+speaker_3: But
 
-It happens only in NIV yeah we have well see how to circumvent this problem how do you solve this problem
-
-### Speaker 3
-
-But
-
-### Speaker 1
-
-Actually you should have seen this in your uh in your assignments if youve started implementing it
+speaker_1: Actually you should have seen this in your uh in your assignments if youve started implementing it
 
 
 Yeah so Ill tell you what happens This is not what happens in the kind of architectures that we use right Reconstruction will not suffer The other way happens Theres only half of the story Ill tell you the other half Maybe I can ask you the I can take questions after this This is posterior collapse okay Now
@@ -919,13 +816,9 @@ You see what Im saying
 
 Now okay reconstruction is better if you reduce the weight on the KL divergence but it should come with a cost what is the cost can somebody think about it
 
-### Speaker 2
+speaker_2: So there will be inference collapse
 
-So there will be inference collapse
-
-### Speaker 1
-
-Now meaning the the the generation will suffer however
+speaker_1: Now meaning the the the generation will suffer however
 
 
 Generation quality will suffer
@@ -1002,13 +895,9 @@ code blurriness comes into generation quality now to avoid that if you make your
 
 Okay so now we will take questions Uh yeah we wake
 
-### Speaker 2
+speaker_2: So will making beta zero convert this into an autoencoder
 
-So will making beta zero convert this into an autoencoder
-
-### Speaker 1
-
-Thats a good observation If you make beta zero then itll simply become a non automated code
+speaker_1: Thats a good observation If you make beta zero then itll simply become a non automated code
 
 
 Lesser and lesser beta will always take it closer and closer to an I O autoencoder
@@ -1016,39 +905,25 @@ Lesser and lesser beta will always take it closer and closer to an I O autoencod
 
 Yes
 
-### Speaker 2
+speaker_2: Can you so can you hide this side panel
 
-Can you so can you hide this side panel
-
-### Speaker 1
-
-Can you hide this eye panel How do I do that This one
+speaker_1: Can you hide this eye panel How do I do that This one
 
 
 It opens something else
 
-### Speaker 2
+speaker_2: The full screen is there when the computer
 
-The full screen is there when the computer
+speaker_3: A dog brain
 
-### Speaker 3
-
-A dog brain
-
-### Speaker 1
-
-Ah this is
+speaker_1: Ah this is
 
 
 Is it just not moving
 
-### Speaker 2
+speaker_2: If you write something it will start moving
 
-If you write something it will start moving
-
-### Speaker 1
-
-Do you recognize anything at all
+speaker_1: Do you recognize anything at all
 
 
 What happened to this
@@ -1059,67 +934,39 @@ Something happened
 
 I mean I am not able to see this can somebody tell me what happened with this
 
-### Speaker 4
+speaker_4: Sometimes it gets stuck sir
 
-Sometimes it gets stuck sir
+speaker_3: Was killing me
 
-### Speaker 3
+speaker_4: We can just close and open
 
-Was killing me
+speaker_1: age old solution uh restarting
 
-### Speaker 4
+speaker_4: that is a tall problem
 
-We can just close and open
-
-### Speaker 1
-
-age old solution uh restarting
-
-### Speaker 4
-
-that is a tall problem
-
-### Speaker 1
-
-Oh yeah it actually will
+speaker_1: Oh yeah it actually will
 
 
 Okay uh lets take questions Vivek do you still have questions or is it done
 
-### Speaker 2
+speaker_2: Uh so yes I have a question Uh suppose we change it
 
-Uh so yes I have a question Uh suppose we change it
-
-### Speaker 1
-
-Yeah hold on just one other side thing see I have been calling all of you by your first name I hope you dont mind I Mean for all we know all of us are of pretty much same age or you might be like seniors to me So please dont mind and also feel free to call me Pratosh I dont mind So you dont have to call me sir Thats too British Just just take my name right Yeah I mean I mean it I really mean it you can
+speaker_1: Yeah hold on just one other side thing see I have been calling all of you by your first name I hope you dont mind I Mean for all we know all of us are of pretty much same age or you might be like seniors to me So please dont mind and also feel free to call me Pratosh I dont mind So you dont have to call me sir Thats too British Just just take my name right Yeah I mean I mean it I really mean it you can
 
 
 can feel free to call me pratik and ill be happy and also right i mean dont uh dont feel uh earth because i i call your first names out okay because if i start calling you sirs so theres so many 85 people right sir and madam so you dont know who is who thats why thats where thats why the names are given anyway so anyway go on please
 
-### Speaker 2
+speaker_2: Yes so one question is suppose we have a generation for a given z and I change z a little bit So will the output look just a little bit modified or
 
-Yes so one question is suppose we have a generation for a given z and I change z a little bit So will the output look just a little bit modified or
+speaker_1: Yeah yeah yeah That is how it should it should happen right I mean that is how it should ideally happen If you have trained it well with good architecture that is how it will happen See that is why in in GANs right I think did I include this in your assignment Did I ask you to sample two Zs and then do interpolation between
 
-### Speaker 1
+speaker_2: Interpolation between yeah
 
-Yeah yeah yeah That is how it should it should happen right I mean that is how it should ideally happen If you have trained it well with good architecture that is how it will happen See that is why in in GANs right I think did I include this in your assignment Did I ask you to sample two Zs and then do interpolation between
+speaker_1: Yeah so did you see it changing smoothly
 
-### Speaker 2
+speaker_2: Yes so yeah that happens
 
-Interpolation between yeah
-
-### Speaker 1
-
-Yeah so did you see it changing smoothly
-
-### Speaker 2
-
-Yes so yeah that happens
-
-### Speaker 1
-
-Yeah that happens Yeah it happens if you have if you have latent space or the embeddings that you have learned are good In fact when we come to some of these language models right you would see that in in in this thing right What was that thing Was it
+speaker_1: Yeah that happens Yeah it happens if you have if you have latent space or the embeddings that you have learned are good In fact when we come to some of these language models right you would see that in in in this thing right What was that thing Was it
 
 
 Bird it was not pitch
@@ -1127,54 +974,34 @@ Bird it was not pitch
 
 Which was that right I mean that famous example where they show that a man minus king embedding corresponding
 
-### Speaker 2
+speaker_2: Yeah work to it
 
-Yeah work to it
-
-### Speaker 1
-
-word to work word to work word to work right that that should happen so it should semantically make sense if you have learned good embeddings
+speaker_1: word to work word to work word to work right that that should happen so it should semantically make sense if you have learned good embeddings
 
 
 So it depends See that is why imposing this sort of a constraint or rather a distribution on your latent space makes sense
 
-### Speaker 2
+speaker_2: Okay
 
-Okay
+speaker_1: Yeah
 
-### Speaker 1
-
-Yeah
-
-### Speaker 2
-
-Asser and one more question but yeah its not I think its not the maybe right time to ask but uh if we have a picture from uh somewhere else and if we want to find its Z
+speaker_2: Asser and one more question but yeah its not I think its not the maybe right time to ask but uh if we have a picture from uh somewhere else and if we want to find its Z
 
 
 How can we do that
 
-### Speaker 1
-
-I told you right thats what you do thats what the inference is you take a pre trained encoder or a VAE pass it through the encoder in fact we will see that see you know the stable diffusion right all these the state of their diffusion models imagine or whatever the Googles and all these they dont do diffusion models on the on on the image space they do it on the latent space of a VAE in fact a VQVAE once I talk about VQVAE I will tell you that so basically
+speaker_1: I told you right thats what you do thats what the inference is you take a pre trained encoder or a VAE pass it through the encoder in fact we will see that see you know the stable diffusion right all these the state of their diffusion models imagine or whatever the Googles and all these they dont do diffusion models on the on on the image space they do it on the latent space of a VAE in fact a VQVAE once I talk about VQVAE I will tell you that so basically
 
 
 the trained encoder pass your data through the encoder get the embedding and then use it this posterior inference thats exactly what what youve seen on on your screen you train your encode vae on lets say image net and keep that right and given some new data pass your data through the encoder get the embedding and use it for whatever reason whatever downstream thing that you would want to do
 
-### Speaker 2
+speaker_2: Yes thank you
 
-Yes thank you
+speaker_1: Thats it
 
-### Speaker 1
+speaker_3: Sir in this example in this description for posterior collapse so sir it is high since the normal distribution is a very large space and we have a finite set of images like input images so isnt it possible that we get each z that is unique for a given x
 
-Thats it
-
-### Speaker 3
-
-Sir in this example in this description for posterior collapse so sir it is high since the normal distribution is a very large space and we have a finite set of images like input images so isnt it possible that we get each z that is unique for a given x
-
-### Speaker 1
-
-Yeah if you recall our encoder is probabilistic
+speaker_1: Yeah if you recall our encoder is probabilistic
 
 
 We are not asking the encoder to give the Z we are asking it to give the mean and variance
@@ -1182,13 +1009,9 @@ We are not asking the encoder to give the Z we are asking it to give the mean an
 
 Thats precisely why we make it probabilistic Its not the z that you get You get the parameters of the distribution And by construction you are asking the output of this encoder or the mean of this encoder to go to zero for all x Even though the distribution the support of the distribution is broad what you are predicting is the mean invariance not the z itself
 
-### Speaker 3
+speaker_3: Okay and sir one more question I was a bit confused with the term variational Bayesian Is it same as the variational inference we talked about
 
-Okay and sir one more question I was a bit confused with the term variational Bayesian Is it same as the variational inference we talked about
-
-### Speaker 1
-
-Its based because see auto encoding variational base is what they call the VA people Its based because again this if you had done this exercise that I had given you in exam
+speaker_1: Its based because see auto encoding variational base is what they call the VA people Its based because again this if you had done this exercise that I had given you in exam
 
 
 You use Bayes theorem to get this elbow is it right Correct Yeah thats why its called variational Bayes
@@ -1199,24 +1022,16 @@ Okay variational because you use a distribution of variational approximation to 
 
 Okay yeah yeah is that it
 
-### Speaker 2
+speaker_2: Yeah what is the difference between reconstruction and generation
 
-Yeah what is the difference between reconstruction and generation
-
-### Speaker 1
-
-reconstruction and generation Okay See reconstruction is that you take an X pass it through the encoder and the and take that Z okay that the encoder gives you I mean when I say Z it is this reparameterized Z and pass it through the decoder right And you expect the output of the decoder to be exactly the same as that of the input That is reconstruction
+speaker_1: reconstruction and generation Okay See reconstruction is that you take an X pass it through the encoder and the and take that Z okay that the encoder gives you I mean when I say Z it is this reparameterized Z and pass it through the decoder right And you expect the output of the decoder to be exactly the same as that of the input That is reconstruction
 
 
 Right Its the first term
 
-### Speaker 2
+speaker_2: Yeah but
 
-Yeah but
-
-### Speaker 1
-
-No but I think this
+speaker_1: No but I think this
 
 
 See even after training you can take a data point that is there that you use for your training pass it through the encoder get it z and pass it through the decoder and expect the decoder to give you the exact same x isnt it
@@ -1233,59 +1048,35 @@ So generation is see generation is that you take a Z and pass it through the dec
 
 Uh
 
-### Speaker 3
+speaker_3: Yes sir In the parameterized model for decoder we are only considering the mu and we are saying that the sigma is identity Right Can we also take sigma I mean and what implications that
 
-Yes sir In the parameterized model for decoder we are only considering the mu and we are saying that the sigma is identity Right Can we also take sigma I mean and what implications that
-
-### Speaker 1
-
-Yeah you can you can and then you have to again to generate you have to do another sampling right at the output of the decoder as well right Typically sigma is not taken but yeah theres nothing that stops you from doing it that way Typically it is not done
+speaker_1: Yeah you can you can and then you have to again to generate you have to do another sampling right at the output of the decoder as well right Typically sigma is not taken but yeah theres nothing that stops you from doing it that way Typically it is not done
 
 
 Okay Harish
 
-### Speaker 2
+speaker_2: our use case that is whether we are doing reconstruction or the generation so we can change the training objective to have this uh k l i just regularization term or not
 
-our use case that is whether we are doing reconstruction or the generation so we can change the training objective to have this uh k l i just regularization term or not
+speaker_1: Correct Thats a good point Yes That is why no its like a knob beta VAE This beta is a knob depending upon what you want right In your what you are training your VAE for you can tweak it the way you want Thats a good point Yes
 
-### Speaker 1
+speaker_2: So you can have two different models uh for exactly two different times
 
-Correct Thats a good point Yes That is why no its like a knob beta VAE This beta is a knob depending upon what you want right In your what you are training your VAE for you can tweak it the way you want Thats a good point Yes
-
-### Speaker 2
-
-So you can have two different models uh for exactly two different times
-
-### Speaker 1
-
-Yes yes yes yes So in fact in your assignment I encourage you to actually do that you know sweep over beta and see the effect of what happens on your VA
+speaker_1: Yes yes yes yes So in fact in your assignment I encourage you to actually do that you know sweep over beta and see the effect of what happens on your VA
 
 
 Yeah actually not
 
-### Speaker 3
+speaker_3: to the KL divergence we expect the mu and sigma outputted by the encoder to be close to zero and one but not exactly
 
-to the KL divergence we expect the mu and sigma outputted by the encoder to be close to zero and one but not exactly
+speaker_1: Okay for OLEXP for OLEXP correct
 
-### Speaker 1
+speaker_3: but it should be exactly zero one then of the
 
-Okay for OLEXP for OLEXP correct
+speaker_1: I mean yeah if the training has happened properly yeah
 
-### Speaker 3
+speaker_3: Right and so is this somewhat of an adversary relation because if the KL divergence becomes zero then the reconstruction loss will explode and different
 
-but it should be exactly zero one then of the
-
-### Speaker 1
-
-I mean yeah if the training has happened properly yeah
-
-### Speaker 3
-
-Right and so is this somewhat of an adversary relation because if the KL divergence becomes zero then the reconstruction loss will explode and different
-
-### Speaker 1
-
-No no it should not it should no right why should it explode see as I think one of Sanchita was saying that uh I mean youre asking the asking it to make it Gaussian distribution zero mean unit variance for all x but even within zero mean unit variance you have infinite support you can place your z different places But practically what happens is because you have like limited capacity encoder decoder right All these zs would be placed on very close to each other and
+speaker_1: No no it should not it should no right why should it explode see as I think one of Sanchita was saying that uh I mean youre asking the asking it to make it Gaussian distribution zero mean unit variance for all x but even within zero mean unit variance you have infinite support you can place your z different places But practically what happens is because you have like limited capacity encoder decoder right All these zs would be placed on very close to each other and
 
 
 and discerning the difference between those two will become difficult to the decoder theres no adversary here
@@ -1293,13 +1084,9 @@ and discerning the difference between those two will become difficult to the dec
 
 So ideally if you have see if you have infinite capacity encoder and decoder both the objectives can be achieved
 
-### Speaker 3
+speaker_3: Because uh the encoder is technically not giving as you said right its not giving z it is giving the parameter z
 
-Because uh the encoder is technically not giving as you said right its not giving z it is giving the parameter z
-
-### Speaker 1
-
-Doesnt matter doesnt matter Lets say that it will do perfectly and it will go to zero mean and unit variance for all x And suppose your decoder has infinite capacity right As long as for two xs exactly the same z is not getting generated from the sampling the decoder can do it And also remember that the sample that the decoder sees as input okay is a sample that you get outside of the encoding
+speaker_1: Doesnt matter doesnt matter Lets say that it will do perfectly and it will go to zero mean and unit variance for all x And suppose your decoder has infinite capacity right As long as for two xs exactly the same z is not getting generated from the sampling the decoder can do it And also remember that the sample that the decoder sees as input okay is a sample that you get outside of the encoding
 
 
 And also you do an averaging over it no see you dont take one sample of z and give it to the decoder you take multiple samples of z and give it to the decoder
@@ -1463,16 +1250,12 @@ Along with learning the encoding decoding you also learn the parameters of the p
 
 Yeah Raghavendra well see one instantiation of this just a second Well see one instantiation of this which is the which is actually as I said no the state of the art VAE which is the vector quantize VAE Even there the idea is to learn the latent space distribution of the latent space along with input decoder called the vector quantize VAE Yeah go on Raghavendra
 
-### Speaker 3
-
-Yeah so I mean uh um what this
+speaker_3: Yeah so I mean uh um what this
 
 
 this lambda distribution right what what did you try to come close to is it uh p theta or p theta of z q and x
 
-### Speaker 1
-
-Exactly exactly So theoretically what can be shown is the ideal prior right is its actually the ideal prior is
+speaker_1: Exactly exactly So theoretically what can be shown is the ideal prior right is its actually the ideal prior is
 
 
 Can be shown to be equal to what is called as the aggregated posterior which is the integral of
@@ -1498,13 +1281,9 @@ Okay so we will see one instantiation of this idea which is as I said the state 
 
 Electro contacts be here
 
-### Speaker 2
+speaker_2: somewhere where we are learning the distribution on x like it is it is the in maximum likelihood estimate format right px given z so how will we be able to calculate px then
 
-somewhere where we are learning the distribution on x like it is it is the in maximum likelihood estimate format right px given z so how will we be able to calculate px then
-
-### Speaker 1
-
-So we cant see thats only a theoretical result
+speaker_1: So we cant see thats only a theoretical result
 
 
 Whatever I wrote is only theoretical in the sense that the ideal prior on the latent space is the aggregated posterior is a theoretical result That is what you try to approximate using GMM
@@ -1566,20 +1345,14 @@ z e of x i e corresponds to encoding you get z e i okay then suppose
 
 It exists
 
-### Speaker 2
+speaker_2: Sir your screen is not moving for me at least
 
-Sir your screen is not moving for me at least
-
-### Speaker 3
-
-Yes its not visible when youre writing it
+speaker_3: Yes its not visible when youre writing it
 
 
 Flag is the rightest
 
-### Speaker 1
-
-Thats all
+speaker_1: Thats all
 
 
 Lets see sometimes networks network gives issues Suppose there there are
@@ -1680,17 +1453,11 @@ recorded session
 
 Literally no much
 
-### Speaker 3
+speaker_3: I said this earlier
 
-I said this earlier
+speaker_2: The written dictionary is fixed right we have to pre decide
 
-### Speaker 2
-
-The written dictionary is fixed right we have to pre decide
-
-### Speaker 1
-
-no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
+speaker_1: no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
 
 
 So we will learn this
@@ -1698,47 +1465,29 @@ So we will learn this
 
 Yeah I dont know
 
-### Speaker 3
+speaker_3: So going back to the the motivation right so you mentioned that we want to discretize it here but if you see even in the VAs right the the number of Z that we
 
-So going back to the the motivation right so you mentioned that we want to discretize it here but if you see even in the VAs right the the number of Z that we
+speaker_2: I mean look at it like some business
 
-### Speaker 2
-
-I mean look at it like some business
-
-### Speaker 1
-
-Theres no discrete no there is no discrete no it has a distribution the they dont have a fixed amount of z
+speaker_1: Theres no discrete no there is no discrete no it has a distribution the they dont have a fixed amount of z
 
 
 Mm C is not good
 
-### Speaker 2
+speaker_2: Okay C is not fixed these are these are these are very much fixed in the sense if you are choosing
 
-Okay C is not fixed these are these are these are very much fixed in the sense if you are choosing
+speaker_1: Theyre fixed time
 
-### Speaker 1
+speaker_2: a k dimensions then we know exactly what they are
 
-Theyre fixed time
+speaker_1: No no no and nothing beyond that Its its not about dimensionality it is about m m latent vectors are fixed m is a hyper parameter you fix the number of vectors in your in your latent dictionary
 
-### Speaker 2
-
-a k dimensions then we know exactly what they are
-
-### Speaker 1
-
-No no no and nothing beyond that Its its not about dimensionality it is about m m latent vectors are fixed m is a hyper parameter you fix the number of vectors in your in your latent dictionary
-
-### Speaker 2
-
-And nothing beyond that
+speaker_2: And nothing beyond that
 
 
 Okay and once we have learnt them we use them as the as the dictionary tool Correct So we we dont really look at the entire spectrum
 
-### Speaker 1
-
-See in fact the I mean one question that might come to you come to the mind is suppose you take an image and pass it through an encoder right So if suppose there are if I make M to be 100 So there are lets say that there are 100 vectors now
+speaker_1: See in fact the I mean one question that might come to you come to the mind is suppose you take an image and pass it through an encoder right So if suppose there are if I make M to be 100 So there are lets say that there are 100 vectors now
 
 
 Are 100 vectors good enough to represent a space that is as versatile as ImageNet Might be a question Actually the way they do it is that they make the latent space latent vector a two dimensional grid where each of these columns are k dimensional So you have
@@ -1758,13 +1507,9 @@ Okay where each of the p vectors in the latent space is quantized using the dict
 
 You understood So that way every image now will be represented using p vectors okay from the dictionary That way it becomes versatile
 
-### Speaker 2
+speaker_2: And uh are there any weights to each of these dictionaries No no no no no
 
-And uh are there any weights to each of these dictionaries No no no no no
-
-### Speaker 1
-
-No no no no no no no no no So decoder now will see a k cross p dimensional uh uh I mean grid
+speaker_1: No no no no no no no no no So decoder now will see a k cross p dimensional uh uh I mean grid
 
 
 When I said that it is Q I mean ZQ of Xi it is not one vector right It is the quantized version of this entire grid Thats what the decoder sees as an input Thats what they do in the VQA paper Is this clear So thats how it is not a single vector that is going as an input to the decoder It is P number of vectors right Where all these P vectors come from this predefined dictionary And how do you find which of the vectors
@@ -1772,45 +1517,25 @@ When I said that it is Q I mean ZQ of Xi it is not one vector right It is the qu
 
 the p dictionary that you should take is you pass the xi to the encoder and encoder gives you a map right a grid of p vectors and each of the columns of this p dimensional grid you quantize using the dictionary and you give that as an input to the decoder
 
-### Speaker 2
+speaker_2: But where is the variation variational coming from I mean a randomness coming here because if you have chosen a fixed set of p k vectors right I mean k size vectors the output would always be the same or
 
-But where is the variation variational coming from I mean a randomness coming here because if you have chosen a fixed set of p k vectors right I mean k size vectors the output would always be the same or
+speaker_1: So during the training of course right uh you take those p vectors and then you try to reconstruct it
 
-### Speaker 1
+speaker_2: Correct okay
 
-So during the training of course right uh you take those p vectors and then you try to reconstruct it
+speaker_1: Now the question is how do you use this for generation right
 
-### Speaker 2
+speaker_2: Okay okay
 
-Correct okay
+speaker_1: Uh that is a question that Ill answer later
 
-### Speaker 1
+speaker_2: Okay sure
 
-Now the question is how do you use this for generation right
+speaker_1: So right now see we are see the way the template is define the architecture right And train it And then you do the inference Im defining the architecture and we have still not trained it Let us try this and then well do the inference But its a valid question How do you generate from a VQVA is a valid question But did all of you understand whats happening right In terms of architecture and training Any questions on that
 
-### Speaker 2
+speaker_3: Sir here for a given xi we will receive only one vector z e of xi right
 
-Okay okay
-
-### Speaker 1
-
-Uh that is a question that Ill answer later
-
-### Speaker 2
-
-Okay sure
-
-### Speaker 1
-
-So right now see we are see the way the template is define the architecture right And train it And then you do the inference Im defining the architecture and we have still not trained it Let us try this and then well do the inference But its a valid question How do you generate from a VQVA is a valid question But did all of you understand whats happening right In terms of architecture and training Any questions on that
-
-### Speaker 3
-
-Sir here for a given xi we will receive only one vector z e of xi right
-
-### Speaker 1
-
-That is what Im saying So for images what they do is say this is a
+speaker_1: That is what Im saying So for images what they do is say this is a
 
 
 Working offline error occurred
@@ -1833,40 +1558,24 @@ And each vector in that grid is quantized using the dictionary Thats how they do
 
 This is alright
 
-### Speaker 3
+speaker_3: So in in the nave VAE we used to get the mu and sigma vectors
 
-So in in the nave VAE we used to get the mu and sigma vectors
+speaker_1: See I told you you look at this right I said that its a latent space that is discrete and vector quantized and learnable You could also say that the encoder is deterministic It is not a probabilistic encoder
 
-### Speaker 1
-
-See I told you you look at this right I said that its a latent space that is discrete and vector quantized and learnable You could also say that the encoder is deterministic It is not a probabilistic encoder
-
-### Speaker 3
-
-No no sir Im talking about the dimension
+speaker_3: No no sir Im talking about the dimension
 
 
 in in the naive vae the mu e we we used to get one mu per dimension right like for six and four hundred cross six hundred image we will be getting the mu vector of size four hundred cross six hundred right
 
-### Speaker 1
+speaker_1: No no no no no definitely not See Ive been telling that multiple times right This is a k dimensional thing If if youre uh
 
-No no no no no definitely not See Ive been telling that multiple times right This is a k dimensional thing If if youre uh
+speaker_3: Okay okay like
 
-### Speaker 3
+speaker_1: Havent you implemented VAE yet See this is a k dimensional thing
 
-Okay okay like
+speaker_3: Too sir I got confused here I got confused
 
-### Speaker 1
-
-Havent you implemented VAE yet See this is a k dimensional thing
-
-### Speaker 3
-
-Too sir I got confused here I got confused
-
-### Speaker 1
-
-This is k dimensional this is also k dimensional assuming that it is a diagonal matrix Told this multiple times
+speaker_1: This is k dimensional this is also k dimensional assuming that it is a diagonal matrix Told this multiple times
 
 
 is one mu with a k dimensional thing because see this lies in a k dimensional space right it is z z is in k and therefore mu is also in k dimensions
@@ -1958,24 +1667,16 @@ Is this all right Any questions on this
 
 Deserve you try now we could be
 
-### Speaker 2
+speaker_2: Yeah so I mean is it can we see it like we are trying to find some basis vector of the data during the training
 
-Yeah so I mean is it can we see it like we are trying to find some basis vector of the data during the training
-
-### Speaker 1
-
-is known during the training its not basis for data no its uh its uh you can say that its the basis for the representation space of data okay data is being represented in the space
+speaker_1: is known during the training its not basis for data no its uh its uh you can say that its the basis for the representation space of data okay data is being represented in the space
 
 
 For that you are trying to learn the uh basis
 
-### Speaker 2
+speaker_2: And the number of vector that we choose would be a hyperparameter
 
-And the number of vector that we choose would be a hyperparameter
-
-### Speaker 1
-
-M is a hyperparameter
+speaker_1: M is a hyperparameter
 
 
 Okay so now this is how you try in it so now once you try in this youll have to do inference
@@ -2169,13 +1870,9 @@ Its that Googles engine right All of these commercially available things thats e
 
 Find a generative model on the latent space of the VQVAE and generate a new sample from the latent latent distribution of VQVAE and give it to the decoder to generate the image and what you see is the image but the generation is happening in the the latent space okay Sanjit
 
-### Speaker 3
+speaker_3: So if you are training a GMM on these embedding Z1 to Z Z1 hat to Z1 Z and hat so what shall be the mean and variances for a like a like individual Gaussian model
 
-So if you are training a GMM on these embedding Z1 to Z Z1 hat to Z1 Z and hat so what shall be the mean and variances for a like a like individual Gaussian model
-
-### Speaker 1
-
-That is what is learned in a GMM In a GMM you dont fix the mean and variance of the individual Gaussians Thats what you learn You learn the mean and variance of individual components in a GMM using EM
+speaker_1: That is what is learned in a GMM In a GMM you dont fix the mean and variance of the individual Gaussians Thats what you learn You learn the mean and variance of individual components in a GMM using EM
 
 
 Okay so yeah forget about GMM right now right You can I mean as I said no in stable diffusion et cetera the model that is the generative model that is used on the latent space is actually a diffusion model which we will see right now
@@ -2186,17 +1883,11 @@ Okay so if you understood good so this is the
 
 of VAEs in one form because the diffusion models are also VAEs but yeah so in the naive form this is the end of VAEs see I have not asked you to implement a VQVA in your assignment because I thought it would be too much but yeah if any one of you have some bandwidth and time Id be happy to see you implementing VQVA that would be great if you can do that
 
-### Speaker 4
+speaker_4: Yeah
 
-Yeah
+speaker_2: you know which we can we can we can with discrete letter to space
 
-### Speaker 2
-
-you know which we can we can we can with discrete letter to space
-
-### Speaker 1
-
-And so cruel of me
+speaker_1: And so cruel of me
 
 
 Okay I think then you should do it yeah you can you should do it
@@ -2222,29 +1913,17 @@ Do you do you need fifteen minutes Ten minutes is enough I suppose
 
 Yeah let me try
 
-### Speaker 2
+speaker_2: What are you doing
 
-What are you doing
+speaker_1: Yeah so please come back at 1020 because well start diffusion models Dont miss the introduction Thats very important Yeah lets reconvene in about 10 minutes See you
 
-### Speaker 1
+speaker_3: You are on mute
 
-Yeah so please come back at 1020 because well start diffusion models Dont miss the introduction Thats very important Yeah lets reconvene in about 10 minutes See you
+speaker_4: So you are
 
-### Speaker 3
+speaker_2: So youre on mute
 
-You are on mute
-
-### Speaker 4
-
-So you are
-
-### Speaker 2
-
-So youre on mute
-
-### Speaker 1
-
-Oh my god I got scared
+speaker_1: Oh my god I got scared
 
 
 okay im sorry yeah so its just speaking one mute
@@ -2255,13 +1934,9 @@ So the next topic that we will see in this course is about DDPMs also called as 
 
 Im audible now right
 
-### Speaker 3
+speaker_3: Yes sir you are audible
 
-Yes sir you are audible
-
-### Speaker 1
-
-Okay so now the state of the art generative models in all the vision language models that you see today right are based on DDPMs They are
+speaker_1: Okay so now the state of the art generative models in all the vision language models that you see today right are based on DDPMs They are
 
 
 Neither VAEs nor GANs right I mean people have moved on onto these these new class of models
@@ -2299,21 +1974,13 @@ I think its already there
 
 So whatever I put in here in the meeting chat it will appear on the Teams chat
 
-### Speaker 2
+speaker_2: Its its
 
-Its its
+speaker_1: Yeah
 
-### Speaker 1
+speaker_3: S
 
-Yeah
-
-### Speaker 3
-
-S
-
-### Speaker 1
-
-tutorial on diffusion models
+speaker_1: tutorial on diffusion models
 
 
 Please have a look at it this is pretty much what I cover okay
@@ -2375,13 +2042,9 @@ Okay so DDPM is actually a special case of VAE with the following properties Oka
 
 you can hear me and see my screen correct
 
-### Speaker 2
+speaker_2: Its a
 
-Its a
-
-### Speaker 1
-
-Okay see one thing is that
+speaker_1: Okay see one thing is that
 
 
 Yeah
@@ -2428,13 +2091,9 @@ Think of it like this Start from data Lets say that you have a very high dimensi
 
 And you have a hierarchical decoding in a DDPM Is this idea clear So as I said no we will write rigorous math and we will concretize everything that we do eventually But yeah so high level is this clear
 
-### Speaker 3
+speaker_3: Sir can you c comment on the dimension of G1 G2 G3 and G4
 
-Sir can you c comment on the dimension of G1 G2 G3 and G4
-
-### Speaker 1
-
-Well do that well do that well do that one thing at a time This hierarchical thing the second thing that you do is that the
+speaker_1: Well do that well do that well do that one thing at a time This hierarchical thing the second thing that you do is that the
 
 
 Dimensionality
@@ -2517,40 +2176,24 @@ The rest is only algebra and mathematical details So what we will do is we will 
 
 Okay so thats why I taught Gyans first and then came to VAEs And then we are going to DDPM because DDPM is a special case of VAE with these properties Any questions on this
 
-### Speaker 2
+speaker_2: Um s sir uh what does Markov process mean just a random process or
 
-Um s sir uh what does Markov process mean just a random process or
-
-### Speaker 1
-
-Yeah Ill tell you See for now think of it like a like I mean Ill write all the equations and itll be clear right So basically what do I mean by Markov process is that start from the data space right You go to the first latent space from first latent space you go to the second latent space from the second latent space you go to the third latent space and so on right By Markov process I mean that if you take the tth latent space okay it only depends
+speaker_1: Yeah Ill tell you See for now think of it like a like I mean Ill write all the equations and itll be clear right So basically what do I mean by Markov process is that start from the data space right You go to the first latent space from first latent space you go to the second latent space from the second latent space you go to the third latent space and so on right By Markov process I mean that if you take the tth latent space okay it only depends
 
 
 on T minus first related space and it does not depend on anything else
 
-### Speaker 2
+speaker_2: Okay understood time based
 
-Okay understood time based
+speaker_1: Theres no time per se here because
 
-### Speaker 1
+speaker_2: Iteration
 
-Theres no time per se here because
+speaker_1: Uh its not even iteration right you can call it as the latent space index
 
-### Speaker 2
+speaker_2: Understood yes
 
-Iteration
-
-### Speaker 1
-
-Uh its not even iteration right you can call it as the latent space index
-
-### Speaker 2
-
-Understood yes
-
-### Speaker 1
-
-And you can call it time if you want I mean if you want to see that as start from the data you go the first time instant you go to the first latent space second time instant you go to the second latent space and so on
+speaker_1: And you can call it time if you want I mean if you want to see that as start from the data you go the first time instant you go to the first latent space second time instant you go to the second latent space and so on
 
 
 Any questions on this on on on the high level formulation
@@ -2558,51 +2201,31 @@ Any questions on this on on on the high level formulation
 
 Yeah isnt it
 
-### Speaker 3
+speaker_3: Sir so here are we saying that we are not taking the data batches but one data point at a time
 
-Sir so here are we saying that we are not taking the data batches but one data point at a time
+speaker_1: No no See it still do everything on a batch level See every every analysis that we do is for one data point right Because doing it on a batch is only one another summation at the outside All the VA analysis we did it for one data point So now this is for one data point Everything that Im doing is for one data point Okay
 
-### Speaker 1
+speaker_3: Okay
 
-No no See it still do everything on a batch level See every every analysis that we do is for one data point right Because doing it on a batch is only one another summation at the outside All the VA analysis we did it for one data point So now this is for one data point Everything that Im doing is for one data point Okay
+speaker_1: You look so wee
 
-### Speaker 3
-
-Okay
-
-### Speaker 1
-
-You look so wee
-
-### Speaker 3
-
-Like we are saying at time like at one time we reached the first latent variable and at the next time we reached the another latent variable So
+speaker_3: Like we are saying at time like at one time we reached the first latent variable and at the next time we reached the another latent variable So
 
 
 Had that part like I was not clear
 
-### Speaker 1
-
-one theres no i i said theres no one time see in a va i wrote it here right what do you do in a vae start from the data point get to the latent space using encoding and get back to the data space now in a ddpm you start from one data point go to the first latent space from first latent space you go to second latent space from second latent space go to third latent space and so on thats all
+speaker_1: one theres no i i said theres no one time see in a va i wrote it here right what do you do in a vae start from the data point get to the latent space using encoding and get back to the data space now in a ddpm you start from one data point go to the first latent space from first latent space you go to second latent space from second latent space go to third latent space and so on thats all
 
 
 We are doing it for one data point I mean of course everything that we do well do it over batches But yeah so but analysis we do for one data point right All the elbow et cetera we do it for one data point assuming that we only have one data point and you just put a summation outside data
 
-### Speaker 3
+speaker_3: Answer this encoding is it probabilistic still
 
-Answer this encoding is it probabilistic still
+speaker_1: It is probabilistic but fixed
 
-### Speaker 1
+speaker_3: Probabilistic but fixed
 
-It is probabilistic but fixed
-
-### Speaker 3
-
-Probabilistic but fixed
-
-### Speaker 1
-
-Not learnable by by fixed I mean learnable well write the equations it will become more clear yeah
+speaker_1: Not learnable by by fixed I mean learnable well write the equations it will become more clear yeah
 
 
 Okay so let us uh go to the math now um
@@ -2703,13 +2326,9 @@ no no this guy uses uh exactly the same terminology as i do ill show you this th
 
 Is my screen visible
 
-### Speaker 3
+speaker_3: Yes certainly
 
-Yes certainly
-
-### Speaker 1
-
-Look at this note
+speaker_1: Look at this note
 
 
 X naught it is the original image which is the same as X in VAE XT is the latent variable which is same in Z in VAE
@@ -2786,21 +2405,13 @@ This is the encoding process This is the fixed encoding process You see that the
 
 Is this clear
 
-### Speaker 2
+speaker_2: t minus one right alpha t minus one
 
-t minus one right alpha t minus one
+speaker_1: Yeah yeah yeah I can do that Ill write that
 
-### Speaker 1
+speaker_2: Is this a type of microphone process
 
-Yeah yeah yeah I can do that Ill write that
-
-### Speaker 2
-
-Is this a type of microphone process
-
-### Speaker 1
-
-It is a macro process Just a second I just want to be consistent with the notation Just a second Im just looking at that P14T
+speaker_1: It is a macro process Just a second I just want to be consistent with the notation Just a second Im just looking at that P14T
 
 
 This is alpha T okay
@@ -2823,13 +2434,9 @@ T E right are fixed scalars
 
 between zero and one okay
 
-### Speaker 2
+speaker_2: epsilon index as well so
 
-epsilon index as well so
-
-### Speaker 1
-
-epsilon index epsilon index is okay i mean yeah so see epsilon i can write it as epsilon every time its just samples from a normal distribution right there is nothing uh like sacrosanct about this one two etc but okay fine can call it epsilon t
+speaker_1: epsilon index epsilon index is okay i mean yeah so see epsilon i can write it as epsilon every time its just samples from a normal distribution right there is nothing uh like sacrosanct about this one two etc but okay fine can call it epsilon t
 
 
 is this is this clear is this all right do you understand whats happening see what is happening is that you take the data point okay uh see this can be seen as some noise right when you take some noise scale it add it to the data point so that will give you the first latent vector okay then you take that first latent vector okay uh take some noise scale it add it and then you get the second latent vector and so on so this
@@ -2861,21 +2468,13 @@ E I T A O N is it
 
 Oh I say win
 
-### Speaker 3
+speaker_3: Its a dog
 
-Its a dog
+speaker_1: SITI SITI one SITI one
 
-### Speaker 1
+speaker_2: I say its a
 
-SITI SITI one SITI one
-
-### Speaker 2
-
-I say its a
-
-### Speaker 1
-
-gaussian transitions okay so basically what is happening is right you can see this as like this suppose we start with an image
+speaker_1: gaussian transitions okay so basically what is happening is right you can see this as like this suppose we start with an image
 
 
 Okay so this is X naught what are we doing we are just taking some
@@ -2916,13 +2515,9 @@ This is what Im talking about and starting from makes not you create a sequence 
 
 Okay so the fiction is
 
-### Speaker 4
+speaker_4: Thats prediction
 
-Thats prediction
-
-### Speaker 1
-
-Come again
+speaker_1: Come again
 
 
 You see this here
@@ -2969,55 +2564,33 @@ see okay no problem you can conduct the curriculum then leave okay okay okay oka
 
 Okay so I just spoke with him Chendan will be here in about two three minutes and please take that quiz and then you can leave we will meet next week
 
-### Speaker 3
+speaker_3: Sir the next quiz is supposed to be a week after the next one
 
-Sir the next quiz is supposed to be a week after the next one
-
-### Speaker 1
-
-No no no no no uh see we have to do six quizzes right we will ill ill talk ill talk to chandran so we have this is the this will be the third quiz right
+speaker_1: No no no no no uh see we have to do six quizzes right we will ill ill talk ill talk to chandran so we have this is the this will be the third quiz right
 
 
 be third quiz we have three more uh so we will uh i and chandan will discuss about it and let you know because we have what four more weeks and we need to do three quizzes right so what we can do is we can skip on that diwali week and rest of the weeks we can have quiz every week
 
-### Speaker 3
+speaker_3: Im not getting
 
-Im not getting
+speaker_1: Well do it that way
 
-### Speaker 1
+speaker_2: Yes
 
-Well do it that way
-
-### Speaker 2
-
-Yes
-
-### Speaker 1
-
-Well do it that way I will I will I will discuss about it and uh keep you notified on the whatsapp group and teams okay
+speaker_1: Well do it that way I will I will I will discuss about it and uh keep you notified on the whatsapp group and teams okay
 
 
 Okay I really have to leave now so please stay do this uh Ill leave next week
 
-### Speaker 2
+speaker_2: Ill take it
 
-Ill take it
+speaker_1: Okay thank you
 
-### Speaker 1
+speaker_3: All the best sir for your interview
 
-Okay thank you
-
-### Speaker 3
-
-All the best sir for your interview
-
-### Speaker 1
-
-Oh my god you know exactly
+speaker_1: Oh my god you know exactly
 
 
 Okay see you guys
 
-### Speaker 3
-
-Okay so anyway
+speaker_3: Okay so anyway

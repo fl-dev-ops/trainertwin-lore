@@ -9,10 +9,10 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 
@@ -21,9 +21,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-So first of all thank you all for joining the session As you know its a Sunday and a 7 pm and you all guys have made your time to join the session Thank you so much for that So let me start by just giving introduction of mine in case if someone some of you are not aware Then Ill give introduction about what is this session is all about Then Ill give Sadhanas introduction and Ill share the guidance about the this particular webinar and we shall get started Okay Ill just take two to three more minutes Thats it So I think most of you are aware Im Vasanth Basically in case if youre not knowing me I I
+speaker_1: So first of all thank you all for joining the session As you know its a Sunday and a 7 pm and you all guys have made your time to join the session Thank you so much for that So let me start by just giving introduction of mine in case if someone some of you are not aware Then Ill give introduction about what is this session is all about Then Ill give Sadhanas introduction and Ill share the guidance about the this particular webinar and we shall get started Okay Ill just take two to three more minutes Thats it So I think most of you are aware Im Vasanth Basically in case if youre not knowing me I I
 
 
 I work as a content creator for Uncommon Geeks its my channel where I primarily make content on the front end interview preparation so I started this content creation in around this June and its been close to six months now and Ive got a good family on LinkedIn as well as on the YouTube I have around 13k followers on LinkedIn reaching two and a half thousand subscribers on YouTube and I do the front end interview content creation with the sole intention of helping candidates to clear the interview not expecting anything out of this insurance journey as I say in my most of the videos so in case if youre not subscribed
@@ -37,17 +35,11 @@ informed that in the poster this particular session is mainly focused on the int
 
 Itself is inspirational he was a QA before and transitioned into front end developer and now works for CoinVCX as a front end developer
 
-### Speaker 2
+speaker_2: Fine So let me start with my introduction Hope you guys are able to see my screen
 
-Fine So let me start with my introduction Hope you guys are able to see my screen
+speaker_1: Yeah yes I done its clear as possible
 
-### Speaker 1
-
-Yeah yes I done its clear as possible
-
-### Speaker 2
-
-Myself Saran and Bai again I am working as a senior front end developer at CoinDCX my LinkedIn and GitHub links I have given if you want to connect with me feel free to connect and to explore the projects which I have created you can visit my GitHub you will get all the projects there
+speaker_2: Myself Saran and Bai again I am working as a senior front end developer at CoinDCX my LinkedIn and GitHub links I have given if you want to connect with me feel free to connect and to explore the projects which I have created you can visit my GitHub you will get all the projects there
 
 
 Yeah so todays plan will be that Ill be speaking on each of the slides which are kind of pre planned And then after that if you have any questions you can either post or ask directly after each slide so that I can answer all your questions
@@ -91,13 +83,9 @@ So that was my plan and Trelliborg looked very relevant for my kind of the exper
 
 So this is about my initial experience from moving from one domain to the front end development So if we have any questions we can take I guess a person
 
-### Speaker 1
+speaker_1: Yeah so I mean there is no question in the chat at least so far So I I but particularly have one question So the transitioning from QA to Dave whatever you did and especially when you started applying for the different companies I just wanted to know which which the JavaScript framework were you working on like Angular React or just the JavaScript What was that
 
-Yeah so I mean there is no question in the chat at least so far So I I but particularly have one question So the transitioning from QA to Dave whatever you did and especially when you started applying for the different companies I just wanted to know which which the JavaScript framework were you working on like Angular React or just the JavaScript What was that
-
-### Speaker 2
-
-So when I was trying to move from QA to dev I invested more time on JavaScript and a little bit of time on Angular and React both I knew both frameworks were popular in India and there could be a chance that I may land up into any company which is working on any framework Not only React or Angular be it some other view it could be view also But the main thing for me was that whether was a company
+speaker_2: So when I was trying to move from QA to dev I invested more time on JavaScript and a little bit of time on Angular and React both I knew both frameworks were popular in India and there could be a chance that I may land up into any company which is working on any framework Not only React or Angular be it some other view it could be view also But the main thing for me was that whether was a company
 
 
 comfortable working in any framework which I I am NOT aware about lets say tomorrow I join a company they are working on SWIFT which I have never heard at that point of time so now whether I am ready or not so that is what I wanted to test initially I did the course from Udemy on Angular properly and then I tried React on my own to see whether without a course will I be able to do a even a small project at least
@@ -105,16 +93,12 @@ comfortable working in any framework which I I am NOT aware about lets say tomor
 
 And I could complete a normal project in React and also same project I tried which was on real requirements because I was working at Snyder Electric there we had a challenge of uploading few terms and condition stuffs there we were doing everything manual I did automation automation in the sense I did it through the web project
 
-### Speaker 1
-
-Sure sure So Harish Reddy is asking one question like in this these are all the wrong just to clear audience I think you all got Sadan already had a good experience almost four to six years Sadan Im correct Then when you decide to shift to the developer role correct So but he switched to developer as a beginner Theres no fake experience as such Hes just like any other beginner would start the career okay But Harish Reddy basically asking here Sadan and these like in these companies where he appeared like a beginner with experience on QA where DSA questions were asked
+speaker_1: Sure sure So Harish Reddy is asking one question like in this these are all the wrong just to clear audience I think you all got Sadan already had a good experience almost four to six years Sadan Im correct Then when you decide to shift to the developer role correct So but he switched to developer as a beginner Theres no fake experience as such Hes just like any other beginner would start the career okay But Harish Reddy basically asking here Sadan and these like in these companies where he appeared like a beginner with experience on QA where DSA questions were asked
 
 
 If asked like what sort of DSA or what levels of DSA was asked
 
-### Speaker 2
-
-So fortunately it was not a huge like focus on DSA was not very much But they had asked DSA question in a way that I did not feel it is a DSA question So the interviews especially the interview at Tredence it was lengthy Like I went inside at morning around eight oclock and I came outside at two oclock and in between like one
+speaker_2: So fortunately it was not a huge like focus on DSA was not very much But they had asked DSA question in a way that I did not feel it is a DSA question So the interviews especially the interview at Tredence it was lengthy Like I went inside at morning around eight oclock and I came outside at two oclock and in between like one
 
 
 I got the break otherwise it was of a continuous interviews I spent a lot of time there and the questions uh which interviewer asked the interviewer was really good he did not make me feel that you are you are sitting for a DSA he started with the basics of front end and moved towards the complex challenges in the front end only which in all DSA indirectly so that you you cannot say that this is a DSA question but
@@ -122,13 +106,9 @@ I got the break otherwise it was of a continuous interviews I spent a lot of tim
 
 Still it was a kind of
 
-### Speaker 1
+speaker_1: Got it sure so then maybe we can go to the next slide yeah
 
-Got it sure so then maybe we can go to the next slide yeah
-
-### Speaker 2
-
-Yeah after working for two years guys I moved to other company I decided to move to other company so the reason a few reasons why I decided to move to the other company its not because of the compensation what I was getting at Relivare I was completely happy though it was not at like top level compared to other product based companies or other top companies but
+speaker_2: Yeah after working for two years guys I moved to other company I decided to move to other company so the reason a few reasons why I decided to move to the other company its not because of the compensation what I was getting at Relivare I was completely happy though it was not at like top level compared to other product based companies or other top companies but
 
 
 still it was fine but the reasons were that first thing is learning because I had already spent around six years of experience in other domain now it was required for me to upskill myself to the level which justifies my total experience you cannot say you are a beginner all the time wait three years six years eight years that is what we are seeing many people find it difficult even I was among
@@ -205,21 +185,13 @@ which were listed and I applied for Echo and few other companies but I got my re
 
 Yes exactly
 
-### Speaker 1
+speaker_1: No youre saying something I thought linked
 
-No youre saying something I thought linked
+speaker_2: Yeah thats it
 
-### Speaker 2
+speaker_1: So Ill just ask the questions Sadhanan Okay So first question is by Ayush So he has a flip card interview and any tips for the flip card interview in particular Sadhan
 
-Yeah thats it
-
-### Speaker 1
-
-So Ill just ask the questions Sadhanan Okay So first question is by Ayush So he has a flip card interview and any tips for the flip card interview in particular Sadhan
-
-### Speaker 2
-
-Yeah so as you are applying for a flip card uh when I had applied it was the first round was clearly the machine coding round where they will ask you to code something in one or one and a half hour and recently I saw somewhere uh the machine coding round asked was related to building a kind of card or the filter application where you display the products in the page and you have the option to filter by price range or other stuff so be prepared on
+speaker_2: Yeah so as you are applying for a flip card uh when I had applied it was the first round was clearly the machine coding round where they will ask you to code something in one or one and a half hour and recently I saw somewhere uh the machine coding round asked was related to building a kind of card or the filter application where you display the products in the page and you have the option to filter by price range or other stuff so be prepared on
 
 
 that and also try to solve few of the questions on machine coding uh which uh is shared in uncommon weeks channel and many other channels you can find those so dont and also dont focus on getting the end result so that is what is uh important so what people do is they try to copy paste and do the other stuff and get the end result perfect but when you see into the code it is not that great so focus on all the things and just make a note of things
@@ -236,16 +208,12 @@ So lets say you are going for a company X and they have given you the machine co
 
 also a good strategy where they explore how candidate is able to ask the question or frame the question and get the clarification on the requirements
 
-### Speaker 1
-
-okay sure there is one question actually added by j who he has five years of non technical experience and four years of technical experience overall which constitutes around nine years so his ask is how can we leverage this total nine years of experience get into senior staff engineer okay like quite similar to your career whatever you explain you got a two years probably you would have made it eight years and applied for the further companies how to make sure we are able to first thing that he is asking is it even possible uh what to focus during the preparation and
+speaker_1: okay sure there is one question actually added by j who he has five years of non technical experience and four years of technical experience overall which constitutes around nine years so his ask is how can we leverage this total nine years of experience get into senior staff engineer okay like quite similar to your career whatever you explain you got a two years probably you would have made it eight years and applied for the further companies how to make sure we are able to first thing that he is asking is it even possible uh what to focus during the preparation and
 
 
 how to navigate the roadblock during the initial interview process due to non relevant experience and he has asked any people to connect and talk about this so just to summarize probably you can answer
 
-### Speaker 2
-
-So there are two things to this One would be the opinions what I have and the second thing is what can be done according to me The first thing from the opinion point of view I would say you may be able to crack the staff engineer level in the normal companies not with that great difficulty but with the proper preparation But the things you will miss is that the guidance from the staff engineer Lets say you have worked only on the technical for four years
+speaker_2: So there are two things to this One would be the opinions what I have and the second thing is what can be done according to me The first thing from the opinion point of view I would say you may be able to crack the staff engineer level in the normal companies not with that great difficulty but with the proper preparation But the things you will miss is that the guidance from the staff engineer Lets say you have worked only on the technical for four years
 
 
 worked really well then it is fine uh with the guidance from the seniors who are staff engineers or at the higher level or maybe the architects so now you got all that exposure and also you have gathered the knowledge over the four years so then it is fine you are moving to a staff engineer just because you have nine years you are moving to the staff engineer i dont recommend that but try to clear that gap lets say you have five years of gap in the technical thing
@@ -259,13 +227,9 @@ So if you are going into that role you may get stuck or you will face the proble
 
 where you can survive as a staff engineer and then gather enough knowledge that to move to a top company as a staffer
 
-### Speaker 1
+speaker_1: Got it Hope that answers Ill take one last question before going to the next slide Fadanan So basically have you applied for these companies Any tips in the resume to get shortlisted
 
-Got it Hope that answers Ill take one last question before going to the next slide Fadanan So basically have you applied for these companies Any tips in the resume to get shortlisted
-
-### Speaker 2
-
-yeah so if i uh talk about these companies uh flipkart uh connected with me like hr connected with me from flipkart and media monks and by juices also so these three companies uh even over me so most of the companies connected to me over linkin and uh why do they connect that is a that is the main thing before uh knowing that uh what is the
+speaker_2: yeah so if i uh talk about these companies uh flipkart uh connected with me like hr connected with me from flipkart and media monks and by juices also so these three companies uh even over me so most of the companies connected to me over linkin and uh why do they connect that is a that is the main thing before uh knowing that uh what is the
 
 
 medium why do they connect with any person they will see the activities so nowadays mainly headhats and recruiters what they are doing is they are seeing who are doing exceptional on be it on LinkedIn Twitter or anywhere even the github you have to have a good projects and also you need to showcase so you cannot showcase all your company work lets say you are working on some payment module in your company and you have done awesome work it is giving the
@@ -279,13 +243,9 @@ done and will remain with you forever so build those things and also share those
 
 Then from there I move to the case level where I am writing everything as a component and using the variables and it can work So even the small project if you are doing it in the right way put it So it does not matter So that is the first thing Build the things and share with everybody
 
-### Speaker 1
+speaker_1: Sure I know there are a couple of questions which Im not asking Ill ask it at the end with the interest of time Okay So we can go to next slide Sadanand Maybe it is now 7 point 37 Yeah I can take it 7 point 45 or 7 point 50 So that last 10 minutes will dedicate for problem questions Okay
 
-Sure I know there are a couple of questions which Im not asking Ill ask it at the end with the interest of time Okay So we can go to next slide Sadanand Maybe it is now 7 point 37 Yeah I can take it 7 point 45 or 7 point 50 So that last 10 minutes will dedicate for problem questions Okay
-
-### Speaker 2
-
-Yeah sure So the part of last question so other companies I got from other websites such as Anaukri and a few other websites where I had a flight
+speaker_2: Yeah sure So the part of last question so other companies I got from other websites such as Anaukri and a few other websites where I had a flight
 
 
 Moving on guys the interview tips A few of the things these are more from my experience point of view and these are not something which will guarantee you that you will get into top companies or any companies Okay so the chances are always 50 50 percent that you get or you do not get even after good preparation For beginners if you are preparing the major mistake what I have seen people doing is jumping directly into react
@@ -362,68 +322,38 @@ next two days and sit idle so these kinds of questions so how do you answer it s
 
 You can tell what you would do instead of telling that creating a fake scenario So try to avoid fake scenario in cultural fitness So that is it about this slide
 
-### Speaker 1
-
-Sure so just with interest of time Ill ask some of the questions that are already in the chart And if anyone wants to ask questions to Sadhana in person please raise your hand So once I ask questions Ill allow you personally to ask questions to Sadhana So considering that time Sadhana they can be little quick in answering these questions Okay So first question is asked by Sanjay Now basically the machine coding ground is it like a code box setup where theyll ask you to code or its a local setup
+speaker_1: Sure so just with interest of time Ill ask some of the questions that are already in the chart And if anyone wants to ask questions to Sadhana in person please raise your hand So once I ask questions Ill allow you personally to ask questions to Sadhana So considering that time Sadhana they can be little quick in answering these questions Okay So first question is asked by Sanjay Now basically the machine coding ground is it like a code box setup where theyll ask you to code or its a local setup
 
 
 they will code on your own most interviews whatever you attended
 
-### Speaker 2
+speaker_2: Most of them they are flexible they can allow anything but be ready on works
 
-Most of them they are flexible they can allow anything but be ready on works
+speaker_1: Got it So next question is by Ayush So fresher working as a front end developer in a small startup is it good to switch to other company after one year
 
-### Speaker 1
+speaker_2: Yeah it is fine to switch but as long as you are getting to learn a lot of things then stay if money is the only problem stay for a bit long and get the knowledge and such
 
-Got it So next question is by Ayush So fresher working as a front end developer in a small startup is it good to switch to other company after one year
+speaker_1: Got it sure And I think Harish already had asked this I think he left But what is the question Mostly for front end developer experience guide Will the target specific framework or is it like just the vanilla JS HTML and CSS
 
-### Speaker 2
+speaker_2: Yeah some companies ask you to write it on specific framework and if you are not aware about that framework they are okay that you write in HTML CSS and JS
 
-Yeah it is fine to switch but as long as you are getting to learn a lot of things then stay if money is the only problem stay for a bit long and get the knowledge and such
+speaker_1: Okay got it sure And next question is this is an interesting question by Akash actually Akash I believe Is it good to do a DSA with a JS or C or C plus plus as a front end If I am somebody who knows C or lets say Java can I code in C plus plus
 
-### Speaker 1
+speaker_2: Yeah if you are a frontender and you know JS then go for JS And if you are not a frontender but you want to move to frontend then also you do it on JS It is a big win for you because every day you will be working on JavaScript and this will strengthen your JS at least if DSA does not work
 
-Got it sure And I think Harish already had asked this I think he left But what is the question Mostly for front end developer experience guide Will the target specific framework or is it like just the vanilla JS HTML and CSS
+speaker_1: Okay sure and another question was asked by Nala Paraju on the system design resources and somebody in the chat shared resources by Chirag Goel and I also have one system design series that also I shared any other material that you recommend on the system design
 
-### Speaker 2
+speaker_2: Uh not much I havent seen a lot of materials on system design these are the recommended I think
 
-Yeah some companies ask you to write it on specific framework and if you are not aware about that framework they are okay that you write in HTML CSS and JS
+speaker_1: And uh next question again that is by Vedan Pachama so that is how much CSS is focused in machine coding down his overall front end interview like basically I think he means whether its focused on the functionality or the design
 
-### Speaker 1
+speaker_2: They wont ask you to design anything in specific but you should have the CSS knowledge They might ask you how do you do this stuff if it is asked It will be at the end of the interview So you cannot skip the CSS part but for machine coding round they wont expect you to create beautiful designs
 
-Okay got it sure And next question is this is an interesting question by Akash actually Akash I believe Is it good to do a DSA with a JS or C or C plus plus as a front end If I am somebody who knows C or lets say Java can I code in C plus plus
+speaker_1: Sure sure and again I think you answered it but somebody has asked us again what is the level of DSA for frontal like how much to prepare as you know there is intensive DSA do you have anything to this is this much you need to prepare
 
-### Speaker 2
+speaker_2: There is no boundaries defined anywhere in the world I guess that you should be learning this much DSA But you do all the necessary things depending on the all the sources what you are watching for example the interview preparation guides and discussions whatever is present in lead code and other platforms depending on that accordingly you can prepare
 
-Yeah if you are a frontender and you know JS then go for JS And if you are not a frontender but you want to move to frontend then also you do it on JS It is a big win for you because every day you will be working on JavaScript and this will strengthen your JS at least if DSA does not work
-
-### Speaker 1
-
-Okay sure and another question was asked by Nala Paraju on the system design resources and somebody in the chat shared resources by Chirag Goel and I also have one system design series that also I shared any other material that you recommend on the system design
-
-### Speaker 2
-
-Uh not much I havent seen a lot of materials on system design these are the recommended I think
-
-### Speaker 1
-
-And uh next question again that is by Vedan Pachama so that is how much CSS is focused in machine coding down his overall front end interview like basically I think he means whether its focused on the functionality or the design
-
-### Speaker 2
-
-They wont ask you to design anything in specific but you should have the CSS knowledge They might ask you how do you do this stuff if it is asked It will be at the end of the interview So you cannot skip the CSS part but for machine coding round they wont expect you to create beautiful designs
-
-### Speaker 1
-
-Sure sure and again I think you answered it but somebody has asked us again what is the level of DSA for frontal like how much to prepare as you know there is intensive DSA do you have anything to this is this much you need to prepare
-
-### Speaker 2
-
-There is no boundaries defined anywhere in the world I guess that you should be learning this much DSA But you do all the necessary things depending on the all the sources what you are watching for example the interview preparation guides and discussions whatever is present in lead code and other platforms depending on that accordingly you can prepare
-
-### Speaker 1
-
-okay sure and as a Flutter Reactjs developer what type of question we expect I think this is quite generic I mean difficult to answer if anybody wants to ask question one on one two or something you can just raise your hand theres a button to raise the hand in in middle of the screen you can click on that button and Ill call your name and you can ask the questions if anybody wants to ask you have last eight minutes
+speaker_1: okay sure and as a Flutter Reactjs developer what type of question we expect I think this is quite generic I mean difficult to answer if anybody wants to ask question one on one two or something you can just raise your hand theres a button to raise the hand in in middle of the screen you can click on that button and Ill call your name and you can ask the questions if anybody wants to ask you have last eight minutes
 
 
 Nobody has raised the hand Oh the option to raise the hand is visible for all Just there is one hand symbol on the screen
@@ -431,88 +361,54 @@ Nobody has raised the hand Oh the option to raise the hand is visible for all Ju
 
 I assume uh Pratik Kumar has asked Pratik Kumar you can unmute yourself and ask your question
 
-### Speaker 3
-
-Like hey so then so like I mostly worked on Angular like past two years Im working on Angular but right now the interview is more focused on React JS like recently I appeared in the Jap2 interviews like first round I like its taken by third party but in second round they clearly asked me to write in React basically so since I have not worked on that one so they actually not proceed with the interview so
+speaker_3: Like hey so then so like I mostly worked on Angular like past two years Im working on Angular but right now the interview is more focused on React JS like recently I appeared in the Jap2 interviews like first round I like its taken by third party but in second round they clearly asked me to write in React basically so since I have not worked on that one so they actually not proceed with the interview so
 
 
 Like I have not uh like faced this situation in any company so how how do we like tackle this situation
 
-### Speaker 2
-
-Yeah so nowadays if you see the percentage of React and Angular React has increased Earlier it was like 40 40 percent and 5 percent Vue and Svelte and other frameworks But nowadays if you see at least in India 70 percent of the companies are expecting you to know React because they work on React Now the other thing is that it will increase more from seeing the current trend
+speaker_2: Yeah so nowadays if you see the percentage of React and Angular React has increased Earlier it was like 40 40 percent and 5 percent Vue and Svelte and other frameworks But nowadays if you see at least in India 70 percent of the companies are expecting you to know React because they work on React Now the other thing is that it will increase more from seeing the current trend
 
 
 it may increase to 90 percent so that is what is happening and the other thing why they might have rejected you is that now you are are you a junior or senior developer
 
-### Speaker 3
+speaker_3: Like I like I have two and a half year experience
 
-Like I like I have two and a half year experience
+speaker_2: So two and a half years of experience now you might be in a position to move to senior developer in their company Now they do not want to hire somebody who is a senior who does not know React and juniors are teaching here Okay so that will be the condition So obviously you need to prepare well by creating the projects in React and next year
 
-### Speaker 2
+speaker_3: Yeah so like another question I have like since I will be learning React and most likely I will be not working on company project because that is irregular So do I need to tell recruiter like Im not working on live project or
 
-So two and a half years of experience now you might be in a position to move to senior developer in their company Now they do not want to hire somebody who is a senior who does not know React and juniors are teaching here Okay so that will be the condition So obviously you need to prepare well by creating the projects in React and next year
-
-### Speaker 3
-
-Yeah so like another question I have like since I will be learning React and most likely I will be not working on company project because that is irregular So do I need to tell recruiter like Im not working on live project or
-
-### Speaker 2
-
-No you need not tell So one thing could be that you can redo the kind of project which you have done in Angular React So for your personal benefit And also you can do additional projects in React apart from that In this way now whenever you are explaining they need a kind of solution for the problems Its not like which technology you do But if you are doing React now you know that all the kind of challenges what you faced with React
+speaker_2: No you need not tell So one thing could be that you can redo the kind of project which you have done in Angular React So for your personal benefit And also you can do additional projects in React apart from that In this way now whenever you are explaining they need a kind of solution for the problems Its not like which technology you do But if you are doing React now you know that all the kind of challenges what you faced with React
 
 
 explain and if they are specifically asking that have you done this thing then only you can join then you may skip the concept they will ask you to uh they may not hire you but this will be percentage will be only 10 to 15 but you will be able to track the 25
 
-### Speaker 1
+speaker_1: Sure
 
-Sure
+speaker_3: So thanks
 
-### Speaker 3
+speaker_1: Yeah thank you Thank you Prathik So next is Nalaparaju You can unmute yourself Nalaparaju and ask one question just because many have resigned Yeah
 
-So thanks
+speaker_4: So hi Siddharth I was just wanted to know your work experience with CoinDCX and what are you currently working on if thats shareable
 
-### Speaker 1
+speaker_2: Yeah so I wont be able to share much of my work details but currently I have completed 1 point 5 years at COINDEX and I am handling the payment module
 
-Yeah thank you Thank you Prathik So next is Nalaparaju You can unmute yourself Nalaparaju and ask one question just because many have resigned Yeah
+speaker_1: Thank you next is a uh uh Jehu uh uh Amen Amen yeah please Jehu God and us yeah
 
-### Speaker 4
+speaker_4: Yeah yeah this is again the continuing the answer that Sutanand has given me right now I am quitting
 
-So hi Siddharth I was just wanted to know your work experience with CoinDCX and what are you currently working on if thats shareable
+speaker_2: the current company and moving on to the other company where im looking into the like more senior roles im getting exposure so you said like uh in order to target the staff level or senior senior software engineer so ill be uh working in like under ceos ctos so what should i
 
-### Speaker 2
-
-Yeah so I wont be able to share much of my work details but currently I have completed 1 point 5 years at COINDEX and I am handling the payment module
-
-### Speaker 1
-
-Thank you next is a uh uh Jehu uh uh Amen Amen yeah please Jehu God and us yeah
-
-### Speaker 4
-
-Yeah yeah this is again the continuing the answer that Sutanand has given me right now I am quitting
-
-### Speaker 2
-
-the current company and moving on to the other company where im looking into the like more senior roles im getting exposure so you said like uh in order to target the staff level or senior senior software engineer so ill be uh working in like under ceos ctos so what should i
-
-### Speaker 1
-
-this company for like a couple of years
+speaker_1: this company for like a couple of years
 
 
 Im taking the experience What is the knowledge gap that I should be looking into so that by the end of right now four years it will be by the end of that it will be four or seven years probably technical experience So I thought this is a good place to ask
 
-### Speaker 2
-
-Yeah so you are asking about moving to staff role right
+speaker_2: Yeah so you are asking about moving to staff role right
 
 
 Okay so I have like my position is not a top role So from my experience the preparation or the kind of path I whatever I told is that is what my knowledge is limited to If Vasant has the answer you can answer
 
-### Speaker 1
-
-Yeah so Jijo I did not hear fully Basically you were asking the transition from a senior role to the architect What are the things to learn or like that correct Yeah just getting prepared He said working under these people what are the points should I look under them like get myself trained to Yeah Yeah See frankly I just one level less to my architect in the current organization but I work very actively One thing that everyone look out from an architect is he should be the last point of contact Like once architect gives him such a suggestion most of the time
+speaker_1: Yeah so Jijo I did not hear fully Basically you were asking the transition from a senior role to the architect What are the things to learn or like that correct Yeah just getting prepared He said working under these people what are the points should I look under them like get myself trained to Yeah Yeah See frankly I just one level less to my architect in the current organization but I work very actively One thing that everyone look out from an architect is he should be the last point of contact Like once architect gives him such a suggestion most of the time
 
 
 him that should be the final thats what we expect because all the rest we have already searched on the web correct so we go to him only for the final conclusions so one very important thing and very less resource available on that is the system design like like one of the question has like how do you design google doc i recently made a video if you go and search you wont get a lot of information my only advice is focus very much on the system design because they wouldnt ask you to code so system design and the best practices are the two main thing that you need to do because very often you need to do the code reviews and you need to make sure
@@ -520,28 +416,18 @@ him that should be the final thats what we expect because all the rest we have a
 
 whomsoever code you are reviving theyll become a best developer these two things you have to focus a lot so code reviving definitely the best practice you can learn from the web regarding the system design there are not lot of material available a few series are already shared in the chat go through that and you have to look at every system like an architect and to come up with the problems and how they might have solved and prepare the solutions for them that those are the two main qualities that you need to adopt
 
-### Speaker 2
+speaker_2: Yeah that was the last one was good looking at every system as it
 
-Yeah that was the last one was good looking at every system as it
-
-### Speaker 1
-
-Yes thats correct
+speaker_1: Yes thats correct
 
 
 Exactly Thank you I think we are almost at the last two minutes If anybody wants to share like your feedback regarding the session you can unmute yourself No need to raise a hand You can unmute and share the feedback regarding the session
 
-### Speaker 3
+speaker_3: It will do really good like since I am a right now like looking for a job right it will help me to uh prepare
 
-It will do really good like since I am a right now like looking for a job right it will help me to uh prepare
+speaker_1: Yeah thank you Prathik anybody else want to share
 
-### Speaker 1
-
-Yeah thank you Prathik anybody else want to share
-
-### Speaker 4
-
-It was a good session wasnt it We got to know what what is uh the gap that we have to fill now
+speaker_4: It was a good session wasnt it We got to know what what is uh the gap that we have to fill now
 
 
 Yeah open to
@@ -549,23 +435,17 @@ Yeah open to
 
 get many more
 
-### Speaker 1
-
-Yes thank you thank you and pleasure anyone else maybe we can hear one more yeah
+speaker_1: Yes thank you thank you and pleasure anyone else maybe we can hear one more yeah
 
 
 Anybody wants to share
 
-### Speaker 2
-
-map uh for the
+speaker_2: map uh for the
 
 
 uh work together
 
-### Speaker 1
-
-design wrong yeah system design question its very hard I know Southern Im told you havent found any resources but Im sure there will be one github repository coming by Southern in the near future
+speaker_1: design wrong yeah system design question its very hard I know Southern Im told you havent found any resources but Im sure there will be one github repository coming by Southern in the near future
 
 
 to learn

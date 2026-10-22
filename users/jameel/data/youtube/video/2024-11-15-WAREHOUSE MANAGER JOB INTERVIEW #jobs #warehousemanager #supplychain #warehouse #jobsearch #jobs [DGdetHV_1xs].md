@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-Now lets move to the second section which is operations management questions and the first question you can expect in this section is how do you ensure efficient inventory management and accuracy What I suggest here is that you should mention four key areas when it comes to efficient inventory management and accuracy of inventory The first one is you should mention that you do regular cycle counting Second one is that you use advanced warehouse management systems and their techniques and their features to optimize your inventory management and inventory accuracy the third aspect you should talk about while answering this question is employee training employee training is a very important aspect of inventory optimization in the warehouse because the more trained your staff is going to be the less problems you will have with inventory accuracy and inventory management so you should mention that as a key portion and then lastly you should definitely mention regular audits
+speaker_1: Now lets move to the second section which is operations management questions and the first question you can expect in this section is how do you ensure efficient inventory management and accuracy What I suggest here is that you should mention four key areas when it comes to efficient inventory management and accuracy of inventory The first one is you should mention that you do regular cycle counting Second one is that you use advanced warehouse management systems and their techniques and their features to optimize your inventory management and inventory accuracy the third aspect you should talk about while answering this question is employee training employee training is a very important aspect of inventory optimization in the warehouse because the more trained your staff is going to be the less problems you will have with inventory accuracy and inventory management so you should mention that as a key portion and then lastly you should definitely mention regular audits

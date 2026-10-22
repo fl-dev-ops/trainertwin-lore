@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Have you heard about the term coffee badging Basically it goes like this You are not forced to the office but its very clear that the boss encourages you to be there otherwise you wont get promoted or you wont get you know all the perks that you might get otherwise
+speaker_1: Have you heard about the term coffee badging Basically it goes like this You are not forced to the office but its very clear that the boss encourages you to be there otherwise you wont get promoted or you wont get you know all the perks that you might get otherwise
 
 
 So people swipe their badge come into the office do nothing but show up and then leave

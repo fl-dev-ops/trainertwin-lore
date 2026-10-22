@@ -17,8 +17,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -26,14 +26,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And yeah you can try to fake it but I dont think its its valuable because eventually youre going to be somewhere else someone you dont want to be really
 
-And yeah you can try to fake it but I dont think its its valuable because eventually youre going to be somewhere else someone you dont want to be really
+speaker_2: Mhm
 
-### Speaker 2 · Speaker 2
-
-Mhm
-
-### Speaker 1 · Speaker 1
-
-But you know if you are yourself and yeah the the way I like to say it is like find your own voice in a different language you know which is just what exactly what we try to do
+speaker_1: But you know if you are yourself and yeah the the way I like to say it is like find your own voice in a different language you know which is just what exactly what we try to do

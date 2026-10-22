@@ -13,8 +13,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -22,18 +22,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Yeah I could I could easily run away when I was like the only employee in the company say okay guys I I quit Thats it Yeah this is not for me Uh yeah so I made my choice Of course I got a lot of that Uh probably I lost something else that I I never learned Uh but you know its like again its like how much you want to you know to to to put yourself in into this uncertainty and uh to explore it because when you avoid something I this is what I believe and this is how I I coach my my students as well Its like what you avoid is usually what you want to be but youre really afraid of
 
-Yeah I could I could easily run away when I was like the only employee in the company say okay guys I I quit Thats it Yeah this is not for me Uh yeah so I made my choice Of course I got a lot of that Uh probably I lost something else that I I never learned Uh but you know its like again its like how much you want to you know to to to put yourself in into this uncertainty and uh to explore it because when you avoid something I this is what I believe and this is how I I coach my my students as well Its like what you avoid is usually what you want to be but youre really afraid of
+speaker_2: So the famous yeah like aspirations dreams but in a way were too scared so we we yeah we tend to avoid those things And yeah the famous comfort zone Oh no no Im Im fine here Yeah I want to be My sofa with a blanket Yeah no Yeah Dont need Dont need the outside world Im fine
 
-### Speaker 2 · Speaker 2
+speaker_1: Yeah yeah
 
-So the famous yeah like aspirations dreams but in a way were too scared so we we yeah we tend to avoid those things And yeah the famous comfort zone Oh no no Im Im fine here Yeah I want to be My sofa with a blanket Yeah no Yeah Dont need Dont need the outside world Im fine
-
-### Speaker 1 · Speaker 1
-
-Yeah yeah
-
-### Speaker 2 · Speaker 2
-
-Yeah true true These are all are all our inner enemies in a way
+speaker_2: Yeah true true These are all are all our inner enemies in a way

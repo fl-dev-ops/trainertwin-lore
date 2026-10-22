@@ -6,14 +6,15 @@ date: '2026-03-25'
 duration: 40:23
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 54 Decision Trees and Impurity Measures
 
 ## Transcript
 
-
-Welcome to this
+speaker_1: Welcome to this
 lecture
 In this lecture we will transition from
 neural networks

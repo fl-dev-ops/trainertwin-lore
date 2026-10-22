@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-श्रीशुक उवाच
+speaker_1: श्रीशुक उवाच
 निमिरिक्ष्वाकुतनयो वसिष्ठमवृतर्त्विजम्
 आरभ्यसत्रं सोप्याह शक्रेण प्राघृतोऽस्मि भोः
 

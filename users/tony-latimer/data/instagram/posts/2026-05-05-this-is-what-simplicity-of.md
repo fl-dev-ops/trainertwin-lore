@@ -11,9 +11,9 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 3
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
-  '3': Speaker 3
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
 ---
 
 ## Caption
@@ -26,103 +26,52 @@ If you want to know how close you are to coaching like this, take the free Coach
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Hi, I'm Tony Latimer. I run Simplicity of Mastery, which is a membership-based programme that helps elevate your coaching skills to the level of mastery and beyond. You're about to see a demonstration done by 2 of my students who've been with me for a few months. Please respect they're giving you the opportunity to see this and make sure that this attribution remains with this video if you choose to share it or use it elsewhere. Thank you. So the rest of us will go silent and dark, and you two just carry on.
 
-Hi, I'm Tony Latimer. I run Simplicity of Mastery, which is a membership-based programme that helps elevate your coaching skills to the level of mastery and beyond. You're about to see a demonstration done by 2 of my students who've been with me for a few months. Please respect they're giving you the opportunity to see this and make sure that this attribution remains with this video if you choose to share it or use it elsewhere. Thank you. So the rest of us will go silent and dark, and you two just carry on.
+speaker_2: Fran?
 
-### Speaker 2 · Speaker 2
+speaker_3: Hi.
 
-Fran?
+speaker_2: Hello. It's a pleasure to see you, and I'm a little bit worried, but we have 20 minutes. What issue would you like to resolve for these 20 minutes?
 
-### Speaker 3 · Speaker 3
+speaker_3: I really— I, I need to shift my, um, what I'm feeling about my body right now.
 
-Hi.
+speaker_2: I feel there is something happening right now. How do you feel?
 
-### Speaker 2 · Speaker 2
+speaker_3: I actually felt some release just saying the words. And right now I'm feeling some sadness. I'm frustrated. I'm disappointed. I'm discouraged. And I don't want to continue to sustain these feelings in relationship with my body. I don't want to. I need some help. I want some help shifting. My attitude, my belief, my— just the way that I'm— Yeah. My fear.
 
-Hello. It's a pleasure to see you, and I'm a little bit worried, but we have 20 minutes. What issue would you like to resolve for these 20 minutes?
+speaker_2: I feel there is a lot of things connected to your attitude to your body. Yes. What is the most important coming to your mind To say about it?
 
-### Speaker 3 · Speaker 3
+speaker_3: Most important to say? I love you and I appreciate you. Thank you. And I'm sorry for taking you for granted for so long.
 
-I really— I, I need to shift my, um, what I'm feeling about my body right now.
+speaker_2: While doing it. What is shifting right now?
 
-### Speaker 2 · Speaker 2
+speaker_3: Well, it wasn't there until after you asked. Compassion. I was asking, I was asking my body to, in the silence, to show me, to give me some guidance for where to go from here. Okay. And compassion is really the healing salve. I, I know where to go from here, Sergey. I got the shift that I am wanting.
 
-I feel there is something happening right now. How do you feel?
+speaker_2: Already? Yes. Can I ask you just a question about it?
 
-### Speaker 3 · Speaker 3
+speaker_3: Yes, of course.
 
-I actually felt some release just saying the words. And right now I'm feeling some sadness. I'm frustrated. I'm disappointed. I'm discouraged. And I don't want to continue to sustain these feelings in relationship with my body. I don't want to. I need some help. I want some help shifting. My attitude, my belief, my— just the way that I'm— Yeah. My fear.
+speaker_2: I feel, I don't know, energetically I feel a lot of love. And, uh, like, all my body now is just like goosebumps. But I feel the importance of, uh, this energy connection. I would like to ask you what made you making this shift?
 
-### Speaker 2 · Speaker 2
+speaker_3: Having the, the, the, the, this, this quiet space, um, to— I, I've been in, in my— I've been in my head. I've been in my head. Just what if, and all the stuff, you know, making lists of everything that's going wrong and all this stuff, the emotion and the thinking going on. And in this space that I've had with you, it was quiet and I surrendered into it and I asked the question of my body that I haven't been asking. And I got an immediate answer. The answer that I need, I want. I understand. I feel so deeply the spiritual guidance that it is that's going to impact me going forward from this conversation in a new way.
 
-I feel there is a lot of things connected to your attitude to your body. Yes. What is the most important coming to your mind To say about it?
+speaker_2: It seems for me that you came to—
 
-### Speaker 3 · Speaker 3
+speaker_3: Let me just say that thank you for the silence that you held for me. I really needed it.
 
-Most important to say? I love you and I appreciate you. Thank you. And I'm sorry for taking you for granted for so long.
+speaker_2: Do you need to clarify anything, like what will be different after this conversation, or you figure it out?
 
-### Speaker 2 · Speaker 2
+speaker_3: No, I don't. I trust that.
 
-While doing it. What is shifting right now?
+speaker_2: Are we done here?
 
-### Speaker 3 · Speaker 3
+speaker_3: Thank you.
 
-Well, it wasn't there until after you asked. Compassion. I was asking, I was asking my body to, in the silence, to show me, to give me some guidance for where to go from here. Okay. And compassion is really the healing salve. I, I know where to go from here, Sergey. I got the shift that I am wanting.
+speaker_2: Yes. Thank you so much.
 
-### Speaker 2 · Speaker 2
+speaker_3: Thank you. Thank you. I'm hugging you.
 
-Already? Yes. Can I ask you just a question about it?
+speaker_2: Thank you.
 
-### Speaker 3 · Speaker 3
-
-Yes, of course.
-
-### Speaker 2 · Speaker 2
-
-I feel, I don't know, energetically I feel a lot of love. And, uh, like, all my body now is just like goosebumps. But I feel the importance of, uh, this energy connection. I would like to ask you what made you making this shift?
-
-### Speaker 3 · Speaker 3
-
-Having the, the, the, the, this, this quiet space, um, to— I, I've been in, in my— I've been in my head. I've been in my head. Just what if, and all the stuff, you know, making lists of everything that's going wrong and all this stuff, the emotion and the thinking going on. And in this space that I've had with you, it was quiet and I surrendered into it and I asked the question of my body that I haven't been asking. And I got an immediate answer. The answer that I need, I want. I understand. I feel so deeply the spiritual guidance that it is that's going to impact me going forward from this conversation in a new way.
-
-### Speaker 2 · Speaker 2
-
-It seems for me that you came to—
-
-### Speaker 3 · Speaker 3
-
-Let me just say that thank you for the silence that you held for me. I really needed it.
-
-### Speaker 2 · Speaker 2
-
-Do you need to clarify anything, like what will be different after this conversation, or you figure it out?
-
-### Speaker 3 · Speaker 3
-
-No, I don't. I trust that.
-
-### Speaker 2 · Speaker 2
-
-Are we done here?
-
-### Speaker 3 · Speaker 3
-
-Thank you.
-
-### Speaker 2 · Speaker 2
-
-Yes. Thank you so much.
-
-### Speaker 3 · Speaker 3
-
-Thank you. Thank you. I'm hugging you.
-
-### Speaker 2 · Speaker 2
-
-Thank you.
-
-### Speaker 1 · Speaker 1
-
-Okay, coming back in, everybody.
-
+speaker_1: Okay, coming back in, everybody.

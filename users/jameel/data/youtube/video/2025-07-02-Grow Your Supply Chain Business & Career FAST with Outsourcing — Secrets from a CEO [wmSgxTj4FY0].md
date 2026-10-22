@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-service offering we have developed a number of proprietary products as well uh merch metric is a great product you can uh you know i welcome you to learn a little bit more about it if you visit our website its really about you know optimizing your product page and making it more efficient its an ai enabled tool um so so what we did was using our resource and technology it used to take them 24 to 48 hours to reply to a call we were able to bring that down using technology and our resources we work 24 7 we have technology
+speaker_1: service offering we have developed a number of proprietary products as well uh merch metric is a great product you can uh you know i welcome you to learn a little bit more about it if you visit our website its really about you know optimizing your product page and making it more efficient its an ai enabled tool um so so what we did was using our resource and technology it used to take them 24 to 48 hours to reply to a call we were able to bring that down using technology and our resources we work 24 7 we have technology
 
 
 we have trained teams uh again scalable teams based on demand so we were able to bring that down from 48 hours to 15 minutes so what that meant what that meant was the customers looking at our quotes for two full days before they receive a competition right so so the good thing is there are no tariffs on services right so and i dont see tariffs coming on services because its going to affect the us more than anybody else because they have the strongest services economy so like the googles the metas the you know all
@@ -35,24 +33,16 @@ my mind uh you know this is an amazing career opportunity uh if if the uh if the
 
 to get much higher above market salaries um um so net suites another typical example right so typically the moment that we get into net suite you know that uh you know the uh the the compensations are like much much more than you know like a shopify or or something something straightforward
 
-### Speaker 2
-
-Hello and welcome to another podcast on my channel and in supply chain we talk a lot about how do you run your small businesses lets say you have an Amazon FBA business or you have a Shopify store and one of the most difficult things in supply chain as most of you who are small business owners would know that managing supply chain and the e commerce aspect of those businesses is probably the trickiest part however thanks to the internet there are a number of outsourcing services which are now available which can make your
+speaker_2: Hello and welcome to another podcast on my channel and in supply chain we talk a lot about how do you run your small businesses lets say you have an Amazon FBA business or you have a Shopify store and one of the most difficult things in supply chain as most of you who are small business owners would know that managing supply chain and the e commerce aspect of those businesses is probably the trickiest part however thanks to the internet there are a number of outsourcing services which are now available which can make your
 
 
 life easy as a supply chain entrepreneur and to talk about that ive got an excellent person who has great experience in this in this space uh he is the founder and ceo of v serve uh e business technologies and uh hes joining me today so without further ado i want to welcome shiva balakrishnan on my channel hi shiva how are you
 
-### Speaker 1
+speaker_1: Hi Jameel great great being here thanks for having me appreciate it
 
-Hi Jameel great great being here thanks for having me appreciate it
+speaker_2: Excellent Shiva So Shiva before I get into my questions about what vServ does and so on just for my audience tell me a little bit about yourself because I saw your profile on LinkedIn and I found it very impressive And I think you are an inspiration for anybody who is building a career in supply chain either in the corporate industry or in the small business industry So just tell us a little bit about yourself
 
-### Speaker 2
-
-Excellent Shiva So Shiva before I get into my questions about what vServ does and so on just for my audience tell me a little bit about yourself because I saw your profile on LinkedIn and I found it very impressive And I think you are an inspiration for anybody who is building a career in supply chain either in the corporate industry or in the small business industry So just tell us a little bit about yourself
-
-### Speaker 1
-
-Thank you Thanks Yamin for the kind words So Ive been in outsourcing for almost like 20 years now We started off in the e commerce space Visa has a current version in the e commerce space around 2016 And we got super focused on e commerce because back then that was like an emerging space Obviously when we get into e commerce a couple of things we learned One is its massively technology driven And as e commerce evolved you also saw
+speaker_1: Thank you Thanks Yamin for the kind words So Ive been in outsourcing for almost like 20 years now We started off in the e commerce space Visa has a current version in the e commerce space around 2016 And we got super focused on e commerce because back then that was like an emerging space Obviously when we get into e commerce a couple of things we learned One is its massively technology driven And as e commerce evolved you also saw
 
 
 that supply chain was an integrated part of it because omni channel retail was kind of the the thing in in in the US market so so weve kind of evolved into a end to end service provider providing both e commerce and supply chain services so we serve currently has facilities in India and the Philippines we have two delivery centers in India one in the Phillip in Manila in the Philippines our customers are primarily US and and Canada so thats kind of where a bulk of our customers come from today
@@ -60,13 +50,9 @@ that supply chain was an integrated part of it because omni channel retail was k
 
 We have a team of about 700 people spread across all the geographies and we work with several mid market and small businesses really helping them manage their end to end e commerce and supply chain operations too So thats a little bit about me and vServe
 
-### Speaker 2
+speaker_2: Excellent excellent So tell me a little bit lets go a little bit deeper into the vServe business model So what are the kind of outsourcing services do you guys offer
 
-Excellent excellent So tell me a little bit lets go a little bit deeper into the vServe business model So what are the kind of outsourcing services do you guys offer
-
-### Speaker 1
-
-Yeah um so um we like I said we started with e commerce so so thats kind of our core uh service offering we have developed a number of proprietary products as well uh merch metric is a great product you can uh you know I welcome you to learn a little bit more about it if you visit our website its really about you know optimizing your product page and making it more efficient its an AI enabled tool um so so thats why we started in the uh in the e commerce space today we are able to kind of provide you end to end uh e commerce and
+speaker_1: Yeah um so um we like I said we started with e commerce so so thats kind of our core uh service offering we have developed a number of proprietary products as well uh merch metric is a great product you can uh you know I welcome you to learn a little bit more about it if you visit our website its really about you know optimizing your product page and making it more efficient its an AI enabled tool um so so thats why we started in the uh in the e commerce space today we are able to kind of provide you end to end uh e commerce and
 
 
 uh supply chain uh services uh so what what that means is you know were able to kind of help you uh right from order to cash when it comes to supply chain were able to help you with your vendor management were able to help you with your technology needs whether its erp or your crm system uh so think of us as as an end to end provider we we we have resources offshore in india and the philippines so what that means is were able to bring in really great quality resources uh who have deep domain
@@ -74,16 +60,12 @@ uh supply chain uh services uh so what what that means is you know were able to 
 
 but at the same time at a value price point so what that happens what what that enables is you know its its a win win uh for for both um you know the customer and and and also us in terms of just leveraging um the expertise and and delivering great value so so thats kind of a little bit about at a very high level some of the services we provide
 
-### Speaker 2
-
-Excellent excellent So one question that comes to my mind when I hear all that Shiva is supply chain I mean the world has been going through a bit of a roller coaster over the last five years right I was just joking with a friend of mine on another podcast a few weeks ago that this is probably the most jinxed decade in a long time right It started with COVID then there was a war in Russia then there is tariffs nowadays lots of different things going on
+speaker_2: Excellent excellent So one question that comes to my mind when I hear all that Shiva is supply chain I mean the world has been going through a bit of a roller coaster over the last five years right I was just joking with a friend of mine on another podcast a few weeks ago that this is probably the most jinxed decade in a long time right It started with COVID then there was a war in Russia then there is tariffs nowadays lots of different things going on
 
 
 So tell me a little bit about what are the key trends you are seeing shaping the world of supply chain e commerce and how is vServe adapting to them
 
-### Speaker 1
-
-Yeah great question Of course you know I mean very short term near term tariffs is a big big concern for the entire industry Everybodys talking about it Nobody has a you know like a solid view on what whats going to happen which way things are going to go So you know in my experience we work with about 80 90 customers primarily in the US market And we work I work closely with the CEOs And what Im hearing is you know at least in the first four months you know there was almost a little bit of paralysis in terms of hey you know whats going to happen
+speaker_1: Yeah great question Of course you know I mean very short term near term tariffs is a big big concern for the entire industry Everybodys talking about it Nobody has a you know like a solid view on what whats going to happen which way things are going to go So you know in my experience we work with about 80 90 customers primarily in the US market And we work I work closely with the CEOs And what Im hearing is you know at least in the first four months you know there was almost a little bit of paralysis in terms of hey you know whats going to happen
 
 
 Is my supply chain all messed up You know how am I going to survive this So that was a big worry But one of the kind of offshoots of that that came about was this big push towards the China plus one strategy So a lot of companies were already talking about it It was in the works But China was such an attractive location that you know it was like almost like a secondary kind of activity of you know doing the China plus one But whats happened after the tariff push is everybodys kind of brought that
@@ -109,16 +91,12 @@ whole voca word has you know polarity uncertainty the whole word has gotten a ne
 
 who are going to replace every human So this is huge spectrum right of what AI means So this kind of puts in uncertainty into the ecosystem And we are able to kind of also support there because again we provide flexible resources You know its not like they have to build those huge teams and huge investments in technology and infrastructure to do what theyre doing So we give them that flexibility and agility as well So those are some of the big things that were seeing Jameel
 
-### Speaker 2
-
-Excellent excellent yeah and and um just want to clarify something uh so we have been talking about china plus one for a long time now i mean it was before uh the tariff situation arose right and uh i was i actually invited uh one of my very old friends he used to work with me at mars a long time ago he was the supply chain director back then in mumbai uh now he runs his own consulting and he talked a lot about uh china plus one and india being at the forefront of that right but uh late
+speaker_2: Excellent excellent yeah and and um just want to clarify something uh so we have been talking about china plus one for a long time now i mean it was before uh the tariff situation arose right and uh i was i actually invited uh one of my very old friends he used to work with me at mars a long time ago he was the supply chain director back then in mumbai uh now he runs his own consulting and he talked a lot about uh china plus one and india being at the forefront of that right but uh late
 
 
 Do you think like China plus one only means India or we are looking at other geographies as well
 
-### Speaker 1
-
-Yeah I mean so so I mean the reality of it is India is still kind of just catching up right in terms of manufacturing capacity manufacturing expertise I mean China is still I mean thats what Im hearing thats what we are hearing and thats what were seeing China is still far ahead in terms of capacity capability so theyre like really strong so so definitely they they like India you know in the whole strategy mix because you know obviously from geopolitical perspective India is considered favorably again you know but there are a lot of other countries that that kind of get
+speaker_1: Yeah I mean so so I mean the reality of it is India is still kind of just catching up right in terms of manufacturing capacity manufacturing expertise I mean China is still I mean thats what Im hearing thats what we are hearing and thats what were seeing China is still far ahead in terms of capacity capability so theyre like really strong so so definitely they they like India you know in the whole strategy mix because you know obviously from geopolitical perspective India is considered favorably again you know but there are a lot of other countries that that kind of get
 
 
 the mix like Vietnam Philippines you know so its not only India but definitely India has this unique advantage compared to all the other countries just because of the way geopolitics has played out just because of the way that the potential of India is looked at very favorably especially in the US So thats kind of what were seeing So its a massive massive opportunity But even now when some of our customers say hey you know lets find a vendor in India its harder than
@@ -129,9 +107,7 @@ we expect it to be so its its still the capacity is getting built uh you know um
 
 maybe companies who have not really embraced some of the the western quality standards yet so so its still a work in progress but i think five years five years down the line its going to be completely different picture if india and and the indian entrepreneurs take advantage of our of of soft shoot its just going to be uh you know really massive in my mind
 
-### Speaker 2
-
-Excellent And there is there is you know with you mentioned AI Shiva right And we keep hearing a lot of things about AI like a lot of myths going on And I was like as I was preparing for this podcast I was really excited to ask you a few questions because first of all I think one of the myths I personally want to clarify to anybody who is has anything to do with supply chain is that AI is not a new thing in supply chain It has been used probably since the mid 90s However with
+speaker_2: Excellent And there is there is you know with you mentioned AI Shiva right And we keep hearing a lot of things about AI like a lot of myths going on And I was like as I was preparing for this podcast I was really excited to ask you a few questions because first of all I think one of the myths I personally want to clarify to anybody who is has anything to do with supply chain is that AI is not a new thing in supply chain It has been used probably since the mid 90s However with
 
 
 With more advancement with you know LLMs becoming smarter we hear about agent AI one of the big questions I wanted to ask you Shiva is that you are in this world of outsourcing where a lot of Im sure your services are about like finding uh basically uh you know agents in different geographies who can uh run your business take calls and all of that stuff and we act we keep hearing that oh you know a lot of this will be replaced by AI how much do you think this is going to happen and how
@@ -139,9 +115,7 @@ With more advancement with you know LLMs becoming smarter we hear about agent AI
 
 How much of this is a myth
 
-### Speaker 1
-
-Great question and I think I kind of think about this every single day as you can imagine because thats thats our business and its really core to our you know almost our existence so so something that Ive realized Jamil and and this is just my view is you know AI is still probabilistic right so so the whole fundamental basis in which on which AI is built is probability right like what is like its its generative right so what is the probability then of the next word and in the better LLMS its its
+speaker_1: Great question and I think I kind of think about this every single day as you can imagine because thats thats our business and its really core to our you know almost our existence so so something that Ive realized Jamil and and this is just my view is you know AI is still probabilistic right so so the whole fundamental basis in which on which AI is built is probability right like what is like its its generative right so what is the probability then of the next word and in the better LLMS its its
 
 
 its more its able to predict more accurately the probability of the next word and just kind of degenerates text right so so what that kind of puts uh puts a um uh that kind of brings about some challenges in the sense it does not give you a definite answer every single time for a definite question right so its not deterministic its probabilistic so what that what that does is that kind of you know uh you you might have heard like clara and some of these companies have kind of pulled back from it
@@ -158,9 +132,7 @@ like any technology its gonna kind of make the human more productive bring the m
 
 But but its still a tool uh is the sense I get uh Jimmy
 
-### Speaker 2
-
-Right and I think you know even from my own experience Siobhan you know I would love to you to validate that is I think one of the interesting challenges in anything supply chain is that the nature of every problem is very different right Like for example like we just talked about tariffs just an example the nature of that problem is very different than the nature of a problem lets say of a uh you know weather related disaster that happened or something else so i think you will always need that human element of intelligence on
+speaker_2: Right and I think you know even from my own experience Siobhan you know I would love to you to validate that is I think one of the interesting challenges in anything supply chain is that the nature of every problem is very different right Like for example like we just talked about tariffs just an example the nature of that problem is very different than the nature of a problem lets say of a uh you know weather related disaster that happened or something else so i think you will always need that human element of intelligence on
 
 
 top of AI maybe you might be able to replace the like super repetitive tasks right through agents and all of that but then there will always be this humanization element which will be required because the nature of problems is uh you you you I mean you mentioned like the the probabilistic nature of all these algorithms right but you cannot easily predict those right because Ive been in the world of lets say demand forecasting for the last 15 years and Ive been hearing things about like demand sensing
@@ -168,17 +140,11 @@ top of AI maybe you might be able to replace the like super repetitive tasks rig
 
 When the concept came in I think it was like in 2012 2013 everybody was just like crazy about like a demand sanction is going to come Its going to replace the demand planners Guess what We are in 2025 Yes it has improved our ability to forecast and especially the micro trends and all of that stuff but it hasnt really removed the human element of a demand forecaster or a demand planner right So I think the same thing with agent AI as well
 
-### Speaker 1
+speaker_1: Yeah yeah I totally agree I think its generally you know business is all about iterations right We try new things and some are going to mistake and then we build on that And thats how you know great processes new processes get built And I think AI is just going to help us do more iterations faster So you know were able to you know just move the whole speed of business velocity of business is going to increase exponentially And thats kind of what weve always seen in technology So they say AI is different So well just have to I guess wait and watch
 
-Yeah yeah I totally agree I think its generally you know business is all about iterations right We try new things and some are going to mistake and then we build on that And thats how you know great processes new processes get built And I think AI is just going to help us do more iterations faster So you know were able to you know just move the whole speed of business velocity of business is going to increase exponentially And thats kind of what weve always seen in technology So they say AI is different So well just have to I guess wait and watch
+speaker_2: Right And one more question related to not AI but to data I wanted to ask you Shiva is that because there was a point in time I used to also run my small e commerce business This was a while back And I always felt that the quality of information I pass on to my outsourcing partner is very important How much do you think is data accuracy or the quality of information that is shared with you by your clients an issue and how do you address that
 
-### Speaker 2
-
-Right And one more question related to not AI but to data I wanted to ask you Shiva is that because there was a point in time I used to also run my small e commerce business This was a while back And I always felt that the quality of information I pass on to my outsourcing partner is very important How much do you think is data accuracy or the quality of information that is shared with you by your clients an issue and how do you address that
-
-### Speaker 1
-
-Sure I think its a great question So so data is like the bedrock right So its absolutely fundamental to you know running an efficient supply chain So you know obviously many customers we work with a mid market So many of them have their own ERP they have their own CRM they have their own BIM sometimes their their e commerce engine So so all of this you know again holds data in kind of disparate locations So so one one thing we focus on is building you know great
+speaker_1: Sure I think its a great question So so data is like the bedrock right So its absolutely fundamental to you know running an efficient supply chain So you know obviously many customers we work with a mid market So many of them have their own ERP they have their own CRM they have their own BIM sometimes their their e commerce engine So so all of this you know again holds data in kind of disparate locations So so one one thing we focus on is building you know great
 
 
 dashboards you know we have you know a great BI team so were able to kind of pull all their data together and get that view so so that enables number one our customers to take good intelligent decisions very fast again you know we all we work very closely with our customers so literally every customer we work with we have full access to their entire back end data because were almost part of their team and thats kind of the the trust and the and the and the collaborative nature of our work so the we have since we have
@@ -192,16 +158,12 @@ here are the few options now you you take a decision right if it were taking the
 
 So you know we can also do the uh the the analytics the through the LLMs as well
 
-### Speaker 2
-
-All right excellent So lets just move to the other side of your business right So we talked about the client side and the value and the services you offer Lets talk about the talent side of your business right And this is a very interesting lets say passion point for even me And that was something that inspired me to even start this YouTube channel and the podcast right Because Ive been in the business of you know in supply chain but Ive been in the business of like developing people for the last 22
+speaker_2: All right excellent So lets just move to the other side of your business right So we talked about the client side and the value and the services you offer Lets talk about the talent side of your business right And this is a very interesting lets say passion point for even me And that was something that inspired me to even start this YouTube channel and the podcast right Because Ive been in the business of you know in supply chain but Ive been in the business of like developing people for the last 22
 
 
 years as well and thats something which I really find interesting When it comes to the talent side of this business model how difficult first of all you guys find to find the right talent and then if someone is interested in becoming lets say a freelancer in this space and you know becoming a talent for something that you guys would want to use how do they start
 
-### Speaker 1
-
-Sure Yeah I mean in terms of talent if you look at the Western world especially the US market which were very familiar with massive shortage of talent right So and its just getting tougher by the day in spite of all the issues You know theres regulation coming in just tougher for people to move there So so theres this massive need for talent is what were seeing in the US market And then coming to India and the Philippines each country has its own strength And thats one of the reasons why we were
+speaker_1: Sure Yeah I mean in terms of talent if you look at the Western world especially the US market which were very familiar with massive shortage of talent right So and its just getting tougher by the day in spite of all the issues You know theres regulation coming in just tougher for people to move there So so theres this massive need for talent is what were seeing in the US market And then coming to India and the Philippines each country has its own strength And thats one of the reasons why we were
 
 
 there um so india you know we have like depth of talent in in in development in in the analytical world in terms of data so yeah you know its super strong in philippines uh voice graphics creative customer uh you know centric work great so so both both both countries kind of bring in some unique kind of capabilities in in our minds uh to serve our customers and inside of that um you know my my kind of view is uh you know this is an amazing
@@ -218,16 +180,12 @@ massive demand theres theres opportunity to get much higher above market salarie
 
 opportunities are and sometimes the like they say the the riches are in the niches so I would encourage people to look at the niches I mean of course you know theres theres a little bit of work involved in figuring that out and picking the right niche but if you can do that you know Ive seen people you know grow in their careers much faster compensation are much stronger so so yeah thats thats how I think about it
 
-### Speaker 2
-
-Thats a great point Shiva and Im so glad you mentioned this And maybe I would want to go a little bit deeper into that right So you mentioned that NetSuite you know theres more demand than maybe SAP Ive talked a lot about SAP on this channel as well right So I think we have talked about that enough But give me a few more examples of the platform because this might be like you know a goldmine part of the podcast for a lot of the audience because I get a lot of questions that okay you know I have two years experience What do I do next
+speaker_2: Thats a great point Shiva and Im so glad you mentioned this And maybe I would want to go a little bit deeper into that right So you mentioned that NetSuite you know theres more demand than maybe SAP Ive talked a lot about SAP on this channel as well right So I think we have talked about that enough But give me a few more examples of the platform because this might be like you know a goldmine part of the podcast for a lot of the audience because I get a lot of questions that okay you know I have two years experience What do I do next
 
 
 and that kind of stuff So and and you know some of the commentary you just made might be like really inspiring for people like you know more salaries better career opportunities so on So just just maybe compartmentalize it a bit more for me So if someone is watching this young talent what are like maybe the top three or four platforms you would want them to explore
 
-### Speaker 1
-
-Sure I mean great question So Im going to shy away from that a little bit only because Jamil Im not a big believer in saying hey you know go catch the latest trend and run with it I think its important you know I love this concept of Ikigai right So its like hey you know whats your unique talent what the worlds ready to pay for and what the world wants right So youve got to find that triage and really make it work right So if you have no interest in AI and
+speaker_1: Sure I mean great question So Im going to shy away from that a little bit only because Jamil Im not a big believer in saying hey you know go catch the latest trend and run with it I think its important you know I love this concept of Ikigai right So its like hey you know whats your unique talent what the worlds ready to pay for and what the world wants right So youve got to find that triage and really make it work right So if you have no interest in AI and
 
 
 And then youre like saying hey you know thats where the latest trend is Im going to go after that And Im a great graphic designer Youre doing a disservice to yourself right So instead of becoming a great graphic designer youre going to go learn coding and you know never be happy in your life and never be successful or wildly successful as you potentially were capable of you know if if you were a graphic designer So so Im going to kind of suggest that Each each of each of you look try to look at what youre you guys what youre uniquely uniquely good at what the world wants and what what the world is willing to pay for and
@@ -241,16 +199,12 @@ So its like the world is your oyster if you have the right talent right And if y
 
 encourage each one of you to figure out what your passion is and and find that match
 
-### Speaker 2
-
-Excellent I loved your reference to Ikigai because thats a concept I love And I also like the term richest and are the niches So thanks for sharing that Shiva Now one more question related to this So for the longest time in the world of supply chain or even in general in the business world it was all about outsourcing right Now the world is kind of moving backwards towards insourcing So and probably its very difficult to make a prediction for the next
+speaker_2: Excellent I loved your reference to Ikigai because thats a concept I love And I also like the term richest and are the niches So thanks for sharing that Shiva Now one more question related to this So for the longest time in the world of supply chain or even in general in the business world it was all about outsourcing right Now the world is kind of moving backwards towards insourcing So and probably its very difficult to make a prediction for the next
 
 
 five years so maybe Ill ask you in the next two years do you see more remote jobs coming up for people in this space or more lets say US based jobs as they are trying to onshore a lot of this expertise
 
-### Speaker 1
-
-So uh so as far as you know theres this massive move towards local manufacturing in the US right So so thats thats a thats a trend Uh theres no stopping that just because of tariffs But the good thing is there are no tariffs on services right So and I dont see tariffs coming on services because its going to affect the US more than anybody else because they have the strongest services economy So like the Googles the Metas the you know all all the all the SaaS tools are all coming out of the US So they cant they will not tariff it because
+speaker_1: So uh so as far as you know theres this massive move towards local manufacturing in the US right So so thats thats a thats a trend Uh theres no stopping that just because of tariffs But the good thing is there are no tariffs on services right So and I dont see tariffs coming on services because its going to affect the US more than anybody else because they have the strongest services economy So like the Googles the Metas the you know all all the all the SaaS tools are all coming out of the US So they cant they will not tariff it because
 
 
 its going to hurt them more right because theres going to be like for example if they try to tariff india on on services india will tariff google meta uh salesforce uh literally everybody else right so so its like a its a loose loose for for the us to do that so im pretty confident we will not see tariffs on on the service side and that kind of still keeps that play very uh very strong in my mind uh only because theres still a huge shortage of talent in the us right so and and
@@ -264,13 +218,9 @@ macro trends Jamil like you know whats the stock markets view on it Stock market
 
 but just because of some of the things that are going on and then you know again its up in the air with the eye and everything else who knows whats going to happen
 
-### Speaker 2
+speaker_2: Excellent Great And for any of your prospective clients watching this podcast Shiva can you share with me like a amazing success story with one of your clients So you know that might be inspiring for people to be encouraged to work with you
 
-Excellent Great And for any of your prospective clients watching this podcast Shiva can you share with me like a amazing success story with one of your clients So you know that might be inspiring for people to be encouraged to work with you
-
-### Speaker 1
-
-Yeah yeah absolutely So uh so again you know so its very easy for people to think that hey you know outsourcing is all about just cutting costs and you know just moving people from from my office to somebody elses office in a distant country and you know save money Right So a couple of things So its not as simplistic as that Uh again you know there is a little bit of effort involved on both sides and and uh and and its a lot of failure You would see a lot of failure So um even in outsourcing
+speaker_1: Yeah yeah absolutely So uh so again you know so its very easy for people to think that hey you know outsourcing is all about just cutting costs and you know just moving people from from my office to somebody elses office in a distant country and you know save money Right So a couple of things So its not as simplistic as that Uh again you know there is a little bit of effort involved on both sides and and uh and and its a lot of failure You would see a lot of failure So um even in outsourcing
 
 
 Im sure youve heard of stories of hey you know customers saying hey no hey I tried outsourcing It didnt work for me So its very easy to go down that road and completely shut it down So my my request would be hey you know give it a fair chance Find the right provider work with them closely give them your vision But outsourcing is not a substitute for product market fit So you have to find your product market fit You have to make sure your business is working And then outsourcing is a way to make the business more efficient Its not a solution to make your business work Its a solution
@@ -290,21 +240,13 @@ So the customer actually saw a 7 percent increase in conversion just because we 
 
 and the customer loved us for it So just a simple example of how you know it kind of also alters the game totally if you do the outsourcing engagement right And not just you know look at it as like hey you know Im here to save a couple of bucks by you know offshoring a couple of you know low you know low hanging kind of work to somebody else
 
-### Speaker 2
+speaker_2: Got it got it got it And Im sure like when a prospective client would start working with you you would provide like that value framework right Like you know where they can basically optimize their operation using your services and so on So and as we come towards the end of the podcast Shiva so if someone wants to engage with you like what are the Im Ive already seen like you know weve got a pretty good website but what are like some of the ways people can engage with you guys
 
-Got it got it got it And Im sure like when a prospective client would start working with you you would provide like that value framework right Like you know where they can basically optimize their operation using your services and so on So and as we come towards the end of the podcast Shiva so if someone wants to engage with you like what are the Im Ive already seen like you know weve got a pretty good website but what are like some of the ways people can engage with you guys
+speaker_1: Yeah I mean Im on LinkedIn Siva Balakrishnan Happy to kind of you know feel free to reach out to me My DM is open in LinkedIn So please feel to connect with me there Im pretty active there So happy to kind of respond right away and love to you know answer any questions or share experience or you know learn from you Please
 
-### Speaker 1
+speaker_2: Excellent And then one last question which probably I did not add on my list Shiva but I always ask this to all my guests because you know at the end of the day the main gist of my channel is about helping people in shaping their careers and so on So one question which I always ask all my guests is what is one advice you as Shiva Balakrishnan like to give to your 25 year old self
 
-Yeah I mean Im on LinkedIn Siva Balakrishnan Happy to kind of you know feel free to reach out to me My DM is open in LinkedIn So please feel to connect with me there Im pretty active there So happy to kind of respond right away and love to you know answer any questions or share experience or you know learn from you Please
-
-### Speaker 2
-
-Excellent And then one last question which probably I did not add on my list Shiva but I always ask this to all my guests because you know at the end of the day the main gist of my channel is about helping people in shaping their careers and so on So one question which I always ask all my guests is what is one advice you as Shiva Balakrishnan like to give to your 25 year old self
-
-### Speaker 1
-
-Yeah I mean uh so I
+speaker_1: Yeah I mean uh so I
 
 
 For me what Ive realized is when youre younger you have more opportunities to fail right So you can fail faster Your failures are less expensive Youre not putting your entire career and your family at stake So I would rather when youre younger you go after massive opportunities and massive problems to solve than aim small If you fail you fail Its okay By 30 you can go find a corporate job and be happy
@@ -312,26 +254,14 @@ For me what Ive realized is when youre younger you have more opportunities to fa
 
 encourage you to go after solving some massive problem do a massive startup uh you know redefining the world or you know even in your corporate career aim for something which is which is so big and audacious that even if you fail youre going to learn a lot from it and you have like many more opportunities to come back
 
-### Speaker 2
+speaker_2: Thats an excellent advice Thats amazing I think I cant agree with you more Because you know this is honestly like truth be told this is one of my regrets in my own life like because I think I jumped into the corporate world too soon But you know its life right So we all learn from our experiences
 
-Thats an excellent advice Thats amazing I think I cant agree with you more Because you know this is honestly like truth be told this is one of my regrets in my own life like because I think I jumped into the corporate world too soon But you know its life right So we all learn from our experiences
+speaker_1: Same with me yeah
 
-### Speaker 1
+speaker_2: Fantastic advice Well Shiva thanks a lot for coming on the channel I think this is what you have shared is going to be extremely valuable for any prospective clients of yours who are running these e commerce businesses and even for someone wanting to build a career in this space So I really appreciate your time and I hope I can invite you in the future as well to talk about more on your business
 
-Same with me yeah
+speaker_1: Absolutely Thank you Jamil for some insightful questions Love the conversation I hope it was useful for the listeners and look forward to continuing to be in touch
 
-### Speaker 2
+speaker_2: Absolutely thanks a lot Sheva for coming
 
-Fantastic advice Well Shiva thanks a lot for coming on the channel I think this is what you have shared is going to be extremely valuable for any prospective clients of yours who are running these e commerce businesses and even for someone wanting to build a career in this space So I really appreciate your time and I hope I can invite you in the future as well to talk about more on your business
-
-### Speaker 1
-
-Absolutely Thank you Jamil for some insightful questions Love the conversation I hope it was useful for the listeners and look forward to continuing to be in touch
-
-### Speaker 2
-
-Absolutely thanks a lot Sheva for coming
-
-### Speaker 1
-
-Thank you Zameer
+speaker_1: Thank you Zameer

@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-He is buying this for the family because of discomfort him his wife his kid his extended family feel So my question to you how much does the comfort of your family cost
+speaker_1: He is buying this for the family because of discomfort him his wife his kid his extended family feel So my question to you how much does the comfort of your family cost

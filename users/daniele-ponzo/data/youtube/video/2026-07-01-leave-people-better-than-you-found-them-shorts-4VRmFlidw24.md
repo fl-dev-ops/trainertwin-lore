@@ -52,8 +52,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -61,14 +61,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And importantly is called sorry the right speech So that we will leave the room making everybody feel seen feel heard and feel happy about it Every meeting and every conversations we have with people we should be uplifting them Make the world a better place I always say as well well I dont speak to impress you but at least dont depress you
 
-And importantly is called sorry the right speech So that we will leave the room making everybody feel seen feel heard and feel happy about it Every meeting and every conversations we have with people we should be uplifting them Make the world a better place I always say as well well I dont speak to impress you but at least dont depress you
+speaker_2: So you come from a place of optimism and uh uplifting others and giving energy And I think its a great place to come from So Melinda how to
 
-### Speaker 2 · Speaker 2
-
-So you come from a place of optimism and uh uplifting others and giving energy And I think its a great place to come from So Melinda how to
-
-### Speaker 1 · Speaker 1
-
-So thats why I I want people to wake up now with me and tell them lets together give some energy to the people around us
+speaker_1: So thats why I I want people to wake up now with me and tell them lets together give some energy to the people around us

@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,10 +30,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Uh and so that I believe that made you switch from an initial period of I dont know can we say a bit of nervousness anxiety to something a bit more like
 
-Uh and so that I believe that made you switch from an initial period of I dont know can we say a bit of nervousness anxiety to something a bit more like
-
-### Speaker 2 · Speaker 2
-
-Yeah I guess that was a switching point when I stopped kind of feeling frustrated that okay I I kind of cant speak Swedish but I at the same time I I cant apply that my workplace uh only in the shop or somewhere else Um that was kind of the moment when I felt okay now Im integrated Now now I I I feel confident and whatever like um okay I can I can I can live in the this country and um understand people a bit more because in all language it it its a crucial point Uh
+speaker_2: Yeah I guess that was a switching point when I stopped kind of feeling frustrated that okay I I kind of cant speak Swedish but I at the same time I I cant apply that my workplace uh only in the shop or somewhere else Um that was kind of the moment when I felt okay now Im integrated Now now I I I feel confident and whatever like um okay I can I can I can live in the this country and um understand people a bit more because in all language it it its a crucial point Uh

@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Breaking free from the need to perform 🎯 Mastery in coaching isn’t about so
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-The big shift between, say, PCC and MCC is completely letting go of the need to perform. No, having no attachment. So when you first learn to coach, the hard bit is letting go of being the problem solver, right? When you flip to mastery, it's letting go of the need the problem to be solved. And that's hard because you have to perform. The client has to get a solution, otherwise they're not going to pay you for any more sessions.
-
+speaker_1: The big shift between, say, PCC and MCC is completely letting go of the need to perform. No, having no attachment. So when you first learn to coach, the hard bit is letting go of being the problem solver, right? When you flip to mastery, it's letting go of the need the problem to be solved. And that's hard because you have to perform. The client has to get a solution, otherwise they're not going to pay you for any more sessions.

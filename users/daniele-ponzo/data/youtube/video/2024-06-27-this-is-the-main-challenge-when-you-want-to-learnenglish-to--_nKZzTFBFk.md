@@ -20,8 +20,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -29,18 +29,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And the thing is that even though you learn English and you probably did the same Daniele in a school we all you know we all learn the basics of English but I think its very different once you actually do move to the country Its its a shock
 
-And the thing is that even though you learn English and you probably did the same Daniele in a school we all you know we all learn the basics of English but I think its very different once you actually do move to the country Its its a shock
+speaker_2: It is Yeah
 
-### Speaker 2 · Speaker 2
+speaker_1: Because even the English that we learn its very different to the one that we do in a school compared to all the different accents and different ways that they have in different
 
-It is Yeah
-
-### Speaker 1 · Speaker 1
-
-Because even the English that we learn its very different to the one that we do in a school compared to all the different accents and different ways that they have in different
-
-### Speaker 2 · Speaker 2
-
-And all the different situations youre not prepared for
+speaker_2: And all the different situations youre not prepared for

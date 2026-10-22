@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So the career of real estate agent is similar to career of doctor athlete and writer and a football player for example if if its more similar Youre doing exactly the same thing all the time
+speaker_1: So the career of real estate agent is similar to career of doctor athlete and writer and a football player for example if if its more similar Youre doing exactly the same thing all the time

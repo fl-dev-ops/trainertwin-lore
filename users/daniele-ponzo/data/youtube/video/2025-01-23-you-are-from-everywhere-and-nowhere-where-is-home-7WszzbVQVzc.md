@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,10 +24,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I suppose with practice were traveling around were meeting new people all the time and sort of things you develop you know I believe
 
-I suppose with practice were traveling around were meeting new people all the time and sort of things you develop you know I believe
-
-### Speaker 2 · Speaker 2
-
-I I I imagine that you must have heard this in your conversations as well that at some point you feel like you you you you are from everywhere and nowhere no Like you acquire skills that allow you to adjust to many different situations but you never really truly feel back at home Like if you go back home there are always things that are unfamiliar again because you are now you know a different person Youve moved into a different space um culturally and you get to see you know your eyes are open to to things that arent okay you know in your own context
+speaker_2: I I I imagine that you must have heard this in your conversations as well that at some point you feel like you you you you are from everywhere and nowhere no Like you acquire skills that allow you to adjust to many different situations but you never really truly feel back at home Like if you go back home there are always things that are unfamiliar again because you are now you know a different person Youve moved into a different space um culturally and you get to see you know your eyes are open to to things that arent okay you know in your own context

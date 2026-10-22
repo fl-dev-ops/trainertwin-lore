@@ -6,14 +6,15 @@ date: '2026-04-09'
 duration: 41:01
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 63 NCE - Noise Contrastive Estimation
 
 ## Transcript
 
-
-Welcome to this lecture So we were
+speaker_1: Welcome to this lecture So we were
 looking at uh unsupervised
 learning methods where the idea is to uh
 estimate the marginal density of data uh

@@ -21,8 +21,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -30,10 +30,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: it has a challenge but a husband that actually supported and you know because I have to travel and you know um but he hes really good so
 
-it has a challenge but a husband that actually supported and you know because I have to travel and you know um but he hes really good so
-
-### Speaker 2 · Speaker 2
-
-Wow so it is possible That is It is It is It is definitely That is inspiring yeah Yeah it is definitely possible It is definitely possible Okay thats great Yeah no because you know having like its a very demanding job but also yeah family uh things on top So it is it is great And I I really really admire you for that I I have like I have huge respect for people that can actually combine family and business and career
+speaker_2: Wow so it is possible That is It is It is It is definitely That is inspiring yeah Yeah it is definitely possible It is definitely possible Okay thats great Yeah no because you know having like its a very demanding job but also yeah family uh things on top So it is it is great And I I really really admire you for that I I have like I have huge respect for people that can actually combine family and business and career

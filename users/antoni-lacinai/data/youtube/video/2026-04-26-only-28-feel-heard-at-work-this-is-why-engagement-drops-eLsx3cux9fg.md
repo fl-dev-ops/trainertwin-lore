@@ -9,7 +9,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,9 +17,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-This is a depressing number Only 28 percent of employees feel that their opinion matters
+speaker_1: This is a depressing number Only 28 percent of employees feel that their opinion matters
 
 
 That means that most people come to work show up but then do nothing unless ordered to What if we can show more appreciation An IBM study show that high performing teams have six times six times more positive recognition than the average team and that low performing team have two times more negative interactions than the average team

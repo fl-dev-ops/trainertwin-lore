@@ -9,7 +9,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -18,4 +18,4 @@ speakers:
 
 ## Transcript
 
-My favorite ones as a hiring manager at Amazon Ive done about 200 plus interviews So my favorite ones have been ownership and customer obsession And the reason I picked those two are because theyre very broad Theyre able to show that you are someone who is a problem solver get things done and is focused on the big picture So it can all be subdued within ownership bucket So I would usually go there Customer obsession is at the core of Amazon you have seen that Amazon was able to win a lot of market share over time because of providing superior customer service so we do look for that kind of behavior in candidates we hire
+speaker_1: My favorite ones as a hiring manager at Amazon Ive done about 200 plus interviews So my favorite ones have been ownership and customer obsession And the reason I picked those two are because theyre very broad Theyre able to show that you are someone who is a problem solver get things done and is focused on the big picture So it can all be subdued within ownership bucket So I would usually go there Customer obsession is at the core of Amazon you have seen that Amazon was able to win a lot of market share over time because of providing superior customer service so we do look for that kind of behavior in candidates we hire

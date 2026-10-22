@@ -10,7 +10,7 @@ content: burned_captions
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker ?
+  speaker_1: null
 note: Text read from the video's burned-in captions; the YouTube audio track is silent
   (speech controlled by captions). Captions reveal a word at a time, so some lines
   repeat mid-reveal and the animated intro is fragmentary. Speaker '?' means the captions
@@ -22,9 +22,7 @@ note: Text read from the video's burned-in captions; the YouTube audio track is 
 
 ## Transcript
 
-### Speaker ?
-
-PROFESSIONAL SUPPLY CHAIN CAREER COACH l in AND IS ALREADY CHAIN CAREER COACH WORKING ASPIRING
+speaker_1: PROFESSIONAL SUPPLY CHAIN CAREER COACH l in AND IS ALREADY CHAIN CAREER COACH WORKING ASPIRING
 
 
 WATCH TH15 BECAUSE VIDEOS I HAVE SEASONED SUPPLY CHAIN LEADER WITH ALMOST Foods EXPERIENCE Cid J lai 1￿ I SAVOLA Foods t Ll minus Cid J lai 1￿ I YEARS SAVOLA Foods Cid J lai 1￿ I HE HAS SAVOLA Foods t Ll minus Cid J lai 1￿ I SAVOLA Foods gc IL WORKING COMPANIES WALI SPOKE ABOUT TOPICS minus LIKE WHAT I OES Peninsula RED SE VISION SA U A RA SUPPLY JOBS I FINANCIAL ACUMEN I EXPERIENCE JOB MARKET WHAT ARE THE THINGS TO CONSIDER BE JOB MARKET WHAT ARE THE THINGS TO CONSIDER DEFORE YOU START APPLYING FOR YOU START ApfiLYING FOR JOBS VISION market CHANGES THE NEED FOR THE SKILL CHANf ES THE NEED FOR THE SKILL S CHANGES THE NEED FOR THE S CHAIIGES THE NEED FOR THE ICH INDUSTRIES RE THRIVING ES ARE THRIVING THE ROLE Learning Arabic IC LANGUAGE ADVICE F 0 MOST IIAPORTANTLY HIS ADVICE FOR DVIr minus TLY HIS AWICE FOR DVIr PROFESSIONALS IA EEL HY TS CHECK OUT THE ARABIAN SUPPLY SU85 RIBED 4uJI Lu01 SA U A KA

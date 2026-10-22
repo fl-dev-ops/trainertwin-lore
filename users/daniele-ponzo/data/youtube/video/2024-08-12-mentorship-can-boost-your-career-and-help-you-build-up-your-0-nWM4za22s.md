@@ -21,7 +21,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -29,6 +29,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-mentorship is find someone who inspires you or someone who has a skill or experience in something that you dont And probably the most difficult part is to actually self reflect and say um oh Im not really good at you know understanding finance and accounting acronyms or um Im not really good at storytelling So for storytelling I actually found people that just inspired me on the media like this was actually really cool And even up until today some of uh my mentors right now in their organizations are some of my closest friends and they know stuff that I obviously I wouldnt necessarily put it publicly but they know where where I still am where Im still working on right So for example I went through the phase from being a business person down to techie
+speaker_1: mentorship is find someone who inspires you or someone who has a skill or experience in something that you dont And probably the most difficult part is to actually self reflect and say um oh Im not really good at you know understanding finance and accounting acronyms or um Im not really good at storytelling So for storytelling I actually found people that just inspired me on the media like this was actually really cool And even up until today some of uh my mentors right now in their organizations are some of my closest friends and they know stuff that I obviously I wouldnt necessarily put it publicly but they know where where I still am where Im still working on right So for example I went through the phase from being a business person down to techie

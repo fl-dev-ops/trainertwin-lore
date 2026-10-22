@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -20,14 +20,9 @@ or in this case: Beyond fossil fuel
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Greetings from Helsinki. Do you remember the movie Jerry Maguire when Renee said to Tom, you had me at hello. Well the company I'm going to work for today had me at their slogan too. Watch this.
-
-### Speaker 1 · Speaker 1
+speaker_1: Greetings from Helsinki. Do you remember the movie Jerry Maguire when Renee said to Tom, you had me at hello. Well the company I'm going to work for today had me at their slogan too. Watch this.
 
 We create a future beyond fossil fuels. I cannot think of a worthier cause. So now I'm going to do some communication skills training for the executives here. Wish us luck.
-
 
 ## Comments (1)
 

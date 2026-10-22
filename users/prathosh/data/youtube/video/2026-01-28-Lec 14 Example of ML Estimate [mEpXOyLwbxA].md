@@ -6,14 +6,15 @@ date: '2026-01-28'
 duration: 20:23
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 14 Example of ML Estimate
 
 ## Transcript
 
-
-Welcome back Now the next question is
+speaker_1: Welcome back Now the next question is
 how do we solve this optimization
 problem in practice
 Okay what do we do about P theta uh and

@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,20 +19,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-So let me run the code and show what is happening Okay Then Ill tell what are the mistakes that we do in the interview Okay So if I run the code so we are seeing something called 1E plus 42 If you saw this for the first time in the interview from there itself half of your confidence will go off because you dont know what is E You dont know what is plus You dont know what is 42
+speaker_1: So let me run the code and show what is happening Okay Then Ill tell what are the mistakes that we do in the interview Okay So if I run the code so we are seeing something called 1E plus 42 If you saw this for the first time in the interview from there itself half of your confidence will go off because you dont know what is E You dont know what is plus You dont know what is 42
 
 
 Welcome back to Uncommon Geeks myself Azant I hope youre all doing well As you know this is a playlist or a video series where we are discussing mainly the main questions The main refers for Meta Apple Amazon Netflix and Google The most recent questions that are asked in this kind of companies are currently discussed in this video series So this is a super important video which I have come up with Its a question that is recently asked in the Facebook Okay As I mentioned in the thumbnail I guarantee 90 percent at least of you will fail to answer this question correctly
 
-### Speaker 2
+speaker_2: Oh
 
-Oh
-
-### Speaker 1
-
-Okay so if you prove me wrong Ill be very happy If most of you are able to answer in the first quiz Ill be very happy But I believe most of you will not be able to answer including me I was also not able to answer this question properly But in the journey of learning the solving this question I learned a lot of things Few things which I already aware but I got to learn that within very much in depth So its a super important question not just because it is asked in the Facebook but it the amount of thing that involves in the journey So you have to learn a lot of things to write this problem
+speaker_1: Okay so if you prove me wrong Ill be very happy If most of you are able to answer in the first quiz Ill be very happy But I believe most of you will not be able to answer including me I was also not able to answer this question properly But in the journey of learning the solving this question I learned a lot of things Few things which I already aware but I got to learn that within very much in depth So its a super important question not just because it is asked in the Facebook but it the amount of thing that involves in the journey So you have to learn a lot of things to write this problem
 
 
 correctly so this is a this in this video Ill be discussing the question and what are the sub elements required to answer that question okay I will not discuss the solution the solution Ill discuss in the next video but do not skip this video unless you watch this video till the end you will not be able to write the solution or you will not be able to understand the solution that I write in the next video okay so without wasting further time lets get started okay the question is very simple here goes the question

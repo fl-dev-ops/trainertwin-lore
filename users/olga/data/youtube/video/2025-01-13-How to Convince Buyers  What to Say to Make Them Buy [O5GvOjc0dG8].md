@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Instead of thinking of what you should say to make the client buy focus on what you should ask because the right question will lead the client to their own conclusion Like for example what makes you start thinking of buying the property now The answer of this question is the client telling himself why he should buy now and thats more powerful than any sales pitch that you can deliver
+speaker_1: Instead of thinking of what you should say to make the client buy focus on what you should ask because the right question will lead the client to their own conclusion Like for example what makes you start thinking of buying the property now The answer of this question is the client telling himself why he should buy now and thats more powerful than any sales pitch that you can deliver

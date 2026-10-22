@@ -33,7 +33,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -41,6 +41,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-the first job was in a restaurant of course Italian restaurant then I walked away um and I started to work for um an American steak house called TGI Fridays I learned how to make cocktails I was making lots of tips I found a job in an office And I traveled a lot and I got too close to it because I started to get so passionate about it that I claimed to be playing like an Irish I used to be a very huge fan of YouTube the band
+speaker_1: the first job was in a restaurant of course Italian restaurant then I walked away um and I started to work for um an American steak house called TGI Fridays I learned how to make cocktails I was making lots of tips I found a job in an office And I traveled a lot and I got too close to it because I started to get so passionate about it that I claimed to be playing like an Irish I used to be a very huge fan of YouTube the band

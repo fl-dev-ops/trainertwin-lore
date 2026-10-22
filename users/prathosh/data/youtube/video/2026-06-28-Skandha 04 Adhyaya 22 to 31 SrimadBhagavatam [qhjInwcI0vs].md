@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-मैत्रेय उवाच
+speaker_1: मैत्रेय उवाच
 जनेषु प्रगुणत्स्वेवं पृथुं पृथुलविक्रमम्
 तत्रोपजग्मुर्मुनयश्चत्वारः सूर्यवर्चसः
 

@@ -23,7 +23,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -31,6 +31,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-be afraid and do it anyway I like that And um whats the worst thing that could happen If you just ingrain that in your in your head Whats the worst thing that could happen Now sometimes you know the worst thing is going to be pretty bad so dont do it But most of the time particularly in communication the worst thing that may happen is okay you may offend somebody apologize Its fine and say you know I Im sorry I dont speak the language Its better than not communicating
+speaker_1: be afraid and do it anyway I like that And um whats the worst thing that could happen If you just ingrain that in your in your head Whats the worst thing that could happen Now sometimes you know the worst thing is going to be pretty bad so dont do it But most of the time particularly in communication the worst thing that may happen is okay you may offend somebody apologize Its fine and say you know I Im sorry I dont speak the language Its better than not communicating

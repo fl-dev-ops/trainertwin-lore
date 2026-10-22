@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -30,7 +30,4 @@ Hur låter du?
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Energi, empati och tydlighet. Jag tänkte vi tar dem en i taget. Vi går igenom dem på någon slags hyfsad hög nivå i alla fall. Energi, när du kommunicerar med energi så kommer jag att tro på att du tror. För varför ska jag tro på dig om inte du verkar göra det själv? Energi, det är som en magnet. Folk dras till människor med energi. Så är du ledare till exempel så kommer du förmodligen att dra till dig fler människor om du har energi.
-
+speaker_1: Energi, empati och tydlighet. Jag tänkte vi tar dem en i taget. Vi går igenom dem på någon slags hyfsad hög nivå i alla fall. Energi, när du kommunicerar med energi så kommer jag att tro på att du tror. För varför ska jag tro på dig om inte du verkar göra det själv? Energi, det är som en magnet. Folk dras till människor med energi. Så är du ledare till exempel så kommer du förmodligen att dra till dig fler människor om du har energi.

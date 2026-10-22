@@ -6,14 +6,15 @@ date: '2026-02-18'
 duration: 24:47
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 28 Ordinary Least Squares (OLS)
 
 ## Transcript
 
-
-Welcome everyone
+speaker_1: Welcome everyone
 In todays lecture
 we are going to switch to the empirical
 risk minimization framework

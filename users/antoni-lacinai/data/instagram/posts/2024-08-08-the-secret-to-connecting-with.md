@@ -11,8 +11,8 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 ## Caption
@@ -27,14 +27,9 @@ FOLLOW: #pacttoimpact
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So empathy, you do need to connect with somebody in the like they need to really feel like you care about them, you get them, you understand because if you understand, then you then you have a solution. If you don't understand, how can you have a solution, right? And so can you speak to that just for a moment?
 
-So empathy, you do need to connect with somebody in the like they need to really feel like you care about them, you get them, you understand because if you understand, then you then you have a solution. If you don't understand, how can you have a solution, right? And so can you speak to that just for a moment?
-
-### Speaker 2 · Speaker 2
-
-I do however want to focus on the process before you even come to the stage and say there's a lot of empathy and and curiosity going into the pre-talk you have with the organizers. What are their demographics, what are their psychographics and so on. So you can you can ask a lot of good questions before because then that will help you. And then once I'm out there, I'm trying to really make sure that I'm I'm focusing my gaze on everyone. And even if there is a thousand or 2,000 people in the audience, I look at one area of people and they think that I'm looking at them. And if it's a broad stage, I'm going to be on each side of that stage looking also, not only to the one in the middle, but also to the ones on the side. That's another way of building connection.
-
+speaker_2: I do however want to focus on the process before you even come to the stage and say there's a lot of empathy and and curiosity going into the pre-talk you have with the organizers. What are their demographics, what are their psychographics and so on. So you can you can ask a lot of good questions before because then that will help you. And then once I'm out there, I'm trying to really make sure that I'm I'm focusing my gaze on everyone. And even if there is a thousand or 2,000 people in the audience, I look at one area of people and they think that I'm looking at them. And if it's a broad stage, I'm going to be on each side of that stage looking also, not only to the one in the middle, but also to the ones on the side. That's another way of building connection.
 
 ## Comments (2)
 

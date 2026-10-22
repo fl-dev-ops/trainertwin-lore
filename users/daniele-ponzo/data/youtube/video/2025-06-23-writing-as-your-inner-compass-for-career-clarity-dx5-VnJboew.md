@@ -12,7 +12,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -20,6 +20,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So usually I started with writing personally I I I expressed myself better with writing rather than talking So I started writing my thoughts down I wouldnt call it like diary or something but I would call it like you know Yannis thoughts or Yannis mind in paper or something So um you know this is how I started and I started you know writing down my best memories and my worst memories in my life And I tried you know after that after reading again those notes I started realizing some patterns in those memories Like okay this is something thats this memory might be connected to that memory You know this really great memory that you want to live every time and every every day you know you want to be like that day might be connected with that memory from your childhood You know And it was like a puzzle
+speaker_1: So usually I started with writing personally I I I expressed myself better with writing rather than talking So I started writing my thoughts down I wouldnt call it like diary or something but I would call it like you know Yannis thoughts or Yannis mind in paper or something So um you know this is how I started and I started you know writing down my best memories and my worst memories in my life And I tried you know after that after reading again those notes I started realizing some patterns in those memories Like okay this is something thats this memory might be connected to that memory You know this really great memory that you want to live every time and every every day you know you want to be like that day might be connected with that memory from your childhood You know And it was like a puzzle

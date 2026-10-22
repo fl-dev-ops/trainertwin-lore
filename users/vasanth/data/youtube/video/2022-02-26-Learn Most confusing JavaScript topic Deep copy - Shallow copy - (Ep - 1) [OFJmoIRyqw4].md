@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello all welcome to UncommonGeeks myself Fajandh I hope you all doing well Todays topic is deep copy and shallow copy Copying a value of a variable from one to another is considered to be one of the most basic feature of every programming language and JavaScript is no different In fact deep copy and shallow copy are very straightforward topics We can easily call them as copy by value and copy by reference But the problem lies in the number of questions that can be asked around this topic A very difficult questions
+speaker_1: Hello all welcome to UncommonGeeks myself Fajandh I hope you all doing well Todays topic is deep copy and shallow copy Copying a value of a variable from one to another is considered to be one of the most basic feature of every programming language and JavaScript is no different In fact deep copy and shallow copy are very straightforward topics We can easily call them as copy by value and copy by reference But the problem lies in the number of questions that can be asked around this topic A very difficult questions
 
 
 can be formed easily in this topic using arrays strings object and nesting of object nesting of objects and functions which will make candidate very confused during the interview Ive seen those candidate who actually read this topic and came for the interview and they struggle to answer when a small variation of the simple question is asked so Im they have taken this topic and Ill be covering in depth and asking all the different questions which are generally asked during the interview so that when such questions are asked for you during the interview
@@ -28,20 +26,14 @@ can be formed easily in this topic using arrays strings object and nesting of ob
 
 Youll be able to answer them very easily Without wasting further time lets get started
 
-### Speaker 2
+speaker_2: variable
 
-variable
-
-### Speaker 1
-
-Its something that is common across all the programming languages
+speaker_1: Its something that is common across all the programming languages
 
 
 In JavaScript as well we have different ways of copying variables
 
-### Speaker 2
-
-from one to another
+speaker_2: from one to another
 
 
 divided mainly into two things two two ways one is deep copy and another one is a shallow copy okay its one of the interviewers hot topic most interviewers will ask question around this uh that the reason being its very easy to create a tricky question in this topic okay so i want you to focus and understand this video thoroughly so that when i go to the next video where ill be asking questions around this youll be able to answer it very well okay without wasting further time lets get started

@@ -67,7 +67,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -75,6 +75,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And thats when I realized I was missing something important You know perfect grammar is useless if your communication isnt authentic Perfect vocabulary doesnt help you if you cant use the words you actually need in meetings presentations or job interviews And if you feel like an imposter like I was feeling well people notice You hesitate you doubt yourself and you get stuck So I changed my approach I stopped chasing perfection and started focusing on real communication How to share my ideas connect with people and take action Even if my English wasnt perfect And Ive coached so many professionals who are amazing in their jobs but feel blocked when its time to speak English Maybe you recognize some of these situations Youre in a meeting and your mind goes blank You overthink grammar and your sentences get slower and slower You fear making mistakes or being judged And youve missed opportunities because you didnt feel confident speaking English If this feels familiar well I want to share a simple method that can change this Yes What if you could hack your English Yeah I call it hack H A C K Four letters four steps to help you unlock your English and start speaking with confidence
+speaker_1: And thats when I realized I was missing something important You know perfect grammar is useless if your communication isnt authentic Perfect vocabulary doesnt help you if you cant use the words you actually need in meetings presentations or job interviews And if you feel like an imposter like I was feeling well people notice You hesitate you doubt yourself and you get stuck So I changed my approach I stopped chasing perfection and started focusing on real communication How to share my ideas connect with people and take action Even if my English wasnt perfect And Ive coached so many professionals who are amazing in their jobs but feel blocked when its time to speak English Maybe you recognize some of these situations Youre in a meeting and your mind goes blank You overthink grammar and your sentences get slower and slower You fear making mistakes or being judged And youve missed opportunities because you didnt feel confident speaking English If this feels familiar well I want to share a simple method that can change this Yes What if you could hack your English Yeah I call it hack H A C K Four letters four steps to help you unlock your English and start speaking with confidence

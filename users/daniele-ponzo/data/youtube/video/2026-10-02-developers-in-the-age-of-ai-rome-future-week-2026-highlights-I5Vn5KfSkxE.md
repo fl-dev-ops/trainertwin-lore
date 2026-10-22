@@ -40,7 +40,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -48,6 +48,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Oh
+speaker_1: Oh

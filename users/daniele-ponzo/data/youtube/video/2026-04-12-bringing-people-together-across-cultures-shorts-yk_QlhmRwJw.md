@@ -23,8 +23,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -32,10 +32,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: that moment I just promised to myself okay Im going to bring more people together from now on because you know thats the end of this hatred speech and hatred thing all the time which is um increasing in todays world
 
-that moment I just promised to myself okay Im going to bring more people together from now on because you know thats the end of this hatred speech and hatred thing all the time which is um increasing in todays world
-
-### Speaker 2 · Speaker 2
-
-So bringing people together to and you did in a positive way I think The fact that we can be that we can share we can communicate we can connect across boundaries across borders you know I think thats the best approach ever Going back to the idea of the colors yeah of the of having a colorful life and approach I think thats invaluable
+speaker_2: So bringing people together to and you did in a positive way I think The fact that we can be that we can share we can communicate we can connect across boundaries across borders you know I think thats the best approach ever Going back to the idea of the colors yeah of the of having a colorful life and approach I think thats invaluable

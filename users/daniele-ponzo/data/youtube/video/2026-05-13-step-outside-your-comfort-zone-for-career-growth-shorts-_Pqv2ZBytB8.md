@@ -23,7 +23,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -31,6 +31,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So I would I think personally of course I would just um not professionally but personally I would recommend everyone to take the challenge because the um I dont know sometimes we just feel um afraid of you know doing new things trying new things because its you know not a familiar thing for us and we just stay in where we are and then we just stick to it But sometimes you need to you know zoom out of your um how do we say You just to you you just need to go out of your comfort zone lets say in order to see in order to observe and in order to explore yourself back again and thats thats the important idea For example thats going to be quite personal but um I would like to recommend everyone um to just you know go further And like what I mean lets what I mean lets
+speaker_1: So I would I think personally of course I would just um not professionally but personally I would recommend everyone to take the challenge because the um I dont know sometimes we just feel um afraid of you know doing new things trying new things because its you know not a familiar thing for us and we just stay in where we are and then we just stick to it But sometimes you need to you know zoom out of your um how do we say You just to you you just need to go out of your comfort zone lets say in order to see in order to observe and in order to explore yourself back again and thats thats the important idea For example thats going to be quite personal but um I would like to recommend everyone um to just you know go further And like what I mean lets what I mean lets

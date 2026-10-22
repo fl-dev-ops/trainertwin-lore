@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,10 +25,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: uh so whichever you choose just be open Sometimes its good to to leave your comfort zone and speak to different people from different cultures because it shows you a lot about who you are as well Uh when youre not always surrounded by the same people the same places the same coffee shops the same food you end up discovering new things and maybe you find something very interesting there
 
-uh so whichever you choose just be open Sometimes its good to to leave your comfort zone and speak to different people from different cultures because it shows you a lot about who you are as well Uh when youre not always surrounded by the same people the same places the same coffee shops the same food you end up discovering new things and maybe you find something very interesting there
-
-### Speaker 2 · Speaker 2
-
-Amazing Yes Yes I yes couldnt agree more of course And one thing that I particularly love is this idea of risk
+speaker_2: Amazing Yes Yes I yes couldnt agree more of course And one thing that I particularly love is this idea of risk

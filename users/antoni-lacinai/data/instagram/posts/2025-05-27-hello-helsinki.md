@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ Hello Helsinki 😃
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Yeah, the other side is nice too, but it's more uh more it's fine. This is like there's some That side, that side was fun, but this side there's more young people, students, students and stuff.
-
+speaker_1: Yeah, the other side is nice too, but it's more uh more it's fine. This is like there's some That side, that side was fun, but this side there's more young people, students, students and stuff.

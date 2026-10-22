@@ -6,14 +6,15 @@ date: '2026-01-21'
 duration: 47:10
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Tutorial 1 : Introduction to Python Basics
 
 ## Transcript
 
-
-Hello all
+speaker_1: Hello all
 welcome to this tutorial in the course
 of mathematical foundations of machine
 learning

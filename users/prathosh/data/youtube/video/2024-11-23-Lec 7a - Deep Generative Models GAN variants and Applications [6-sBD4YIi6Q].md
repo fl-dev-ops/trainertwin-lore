@@ -8,19 +8,16 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 3
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
 ---
 
 # Lec 7a - Deep Generative Models GAN variants and Applications
 
 ## Transcript
 
-
-### Speaker 1
-
-Yeah so this is the uh uh
+speaker_1: Yeah so this is the uh uh
 
 
 objective You have to learn a function from the data space to some space Z such that some downstream tasks such as classification supervised classification are easier in terms of requiring lesser supervision or being more robust on Z than on X So this is the goal
@@ -133,32 +130,20 @@ Why should this work I mean why should solving these kinds of pseudo tasks shoul
 
 Any questions on this
 
-### Speaker 2
+speaker_2: So we use the same network to learn or I mean for this multiple pre text tasks or its a different network
 
-So we use the same network to learn or I mean for this multiple pre text tasks or its a different network
+speaker_1: Yeah those I mean I will discuss all that in the next class right I mean there are multiple ways I mean empirically right Some people use the same network some people use different networks and then a lot of other things are done We will discuss all of these
 
-### Speaker 1
+speaker_2: Okay so just one question So which of these is preferable which of these two methods
 
-Yeah those I mean I will discuss all that in the next class right I mean there are multiple ways I mean empirically right Some people use the same network some people use different networks and then a lot of other things are done We will discuss all of these
-
-### Speaker 2
-
-Okay so just one question So which of these is preferable which of these two methods
-
-### Speaker 1
-
-will as I said no all of these will be answered in the next class I mean I just gave you two examples see there is the other example is
+speaker_1: will as I said no all of these will be answered in the next class I mean I just gave you two examples see there is the other example is
 
 
 that you construct a
 
-### Speaker 2
+speaker_2: Perfectly
 
-Perfectly
-
-### Speaker 1
-
-And Im using the kind of model take the image
+speaker_1: And Im using the kind of model take the image
 
 
 and like just mask it
@@ -166,13 +151,9 @@ and like just mask it
 
 And reconstruct the image back this is called the masked autoencoding This is what is used in bird kind of models right This is
 
-### Speaker 2
+speaker_2: To a sentence prediction
 
-To a sentence prediction
-
-### Speaker 1
-
-Same thing right I mean there is the mask auto encoding for image based models as well There are this is these are examples This is like in print
+speaker_1: Same thing right I mean there is the mask auto encoding for image based models as well There are this is these are examples This is like in print
 
 
 painting right or filling the graphs
@@ -183,13 +164,9 @@ There are multiple hundreds of ways of uh
 
 Defining pretest pretest tasks so when different people have different they generated in come up with different pretest tasks and all of them are different
 
-### Speaker 2
+speaker_2: Different people speak different languages
 
-Different people speak different languages
-
-### Speaker 1
-
-uh uh performances JPA is one one one other way to do it in fact what is done in JPA is that they take an image okay and they
+speaker_1: uh uh performances JPA is one one one other way to do it in fact what is done in JPA is that they take an image okay and they
 
 
 randomly take some parts of the image and call that as context and give that as an input to a network and randomly take some other patches and call that as target So the task that they solve is given the context they want to predict the target
@@ -215,10 +192,6 @@ okay yeah so again once again happy Diwali to all of you yeah so today should ha
 
 You might have heard some noise et cetera right Today because I am also traveling and not sitting in my home office So yeah excuse me for that Okay see we will catch up next week
 
-### Speaker 2
+speaker_2: Thank you
 
-Thank you
-
-### Speaker 3
-
-Im sorry Im sorry
+speaker_3: Im sorry Im sorry

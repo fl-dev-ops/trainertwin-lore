@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,20 +19,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello all welcome back to Career With Person YouTube channel My name is Vasanth I hope you all doing well This is a very important video series as you all know where we are discussing about different companies interview We have already discussed about Infosys and Capgemini Today I am back with a new video where I am going to discuss all the interview questions and answers to the questions in EPAM Systems So EPAM Systems is a famous software company and they are hiring quite aggressively I have seen their holdings across multiple places in the Bengaluru So in this particular video where I am going to ask a lot of questions that was very recently asked just 15 days back in EPAM Systems
+speaker_1: Hello all welcome back to Career With Person YouTube channel My name is Vasanth I hope you all doing well This is a very important video series as you all know where we are discussing about different companies interview We have already discussed about Infosys and Capgemini Today I am back with a new video where I am going to discuss all the interview questions and answers to the questions in EPAM Systems So EPAM Systems is a famous software company and they are hiring quite aggressively I have seen their holdings across multiple places in the Bengaluru So in this particular video where I am going to ask a lot of questions that was very recently asked just 15 days back in EPAM Systems
 
 
 primarily on the front end Im gonna divide probably into round one and round two or if more question as I have more question I might divide into round one round two and round three okay if you can just support me by subscribing to my channel liking the video without wasting further time just before we start I want to tell you about a new tool that Ive been using quite aggressively last few days and its been very handy for me and I have built a lot of application using that I wanted to give an overview I had a requirement to build a video calling application and my time frame was very limited so I was looking for a tool online with which I can build a video calling application with most of the
 
-### Speaker 2
+speaker_2: I
 
-I
-
-### Speaker 1
-
-Minimal code that I could do Okay So I encountered a tool called Ziggo Cloud a build powerful interaction apps with voice video and chat API where they provide a very different services like video call voice call live streaming in app chat cloud recording effect and much more Okay And the most beautiful part that I liked about Ziggo Cloud is they have something called a UI kit Lets say you log in and you just click on the create project and you lets lets say you select voice slash video call and hit next Okay Specify the project name and choose the platform where you want to integrate your video call
+speaker_1: Minimal code that I could do Okay So I encountered a tool called Ziggo Cloud a build powerful interaction apps with voice video and chat API where they provide a very different services like video call voice call live streaming in app chat cloud recording effect and much more Okay And the most beautiful part that I liked about Ziggo Cloud is they have something called a UI kit Lets say you log in and you just click on the create project and you lets lets say you select voice slash video call and hit next Okay Specify the project name and choose the platform where you want to integrate your video call
 
 
 Everything is readily available Lets say you want to build Android you have a code ready iOS web React Native everything that you want to build the code is readily available for you All you have to do is just specify the project name install the SDK start using their code and immediately your video call starts working And the another most important point that I liked about them is they have a video call feature as you already told and it is fully customizable For example now one on one call you want to make a standard beautification you can include it You want in the group call how the users has to be shown on the group call that also you can specify

@@ -6,14 +6,15 @@ date: '2026-03-20'
 duration: 37:34
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 52 Transfer Learning and Knowledge Distilation
 
 ## Transcript
 
-
-Welcome back So let me introduce you to
+speaker_1: Welcome back So let me introduce you to
 this idea called transfer learning So
 you recall that neural networks are
 functions right So given

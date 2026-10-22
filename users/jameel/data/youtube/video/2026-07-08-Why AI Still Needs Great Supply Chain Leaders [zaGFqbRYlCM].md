@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-If the question were asking has a right answer use AI to do it If the question were asking we need a responsible answer let the human do it I like to talk about something I call I invented I think called a rentable threshold And so what I do is I fire those four programmers and I purchase software as a service from
+speaker_1: If the question were asking has a right answer use AI to do it If the question were asking we need a responsible answer let the human do it I like to talk about something I call I invented I think called a rentable threshold And so what I do is I fire those four programmers and I purchase software as a service from
 
 
 Salesforce And so what I have just done the rentability threshold I just hit the rentability threshold because its cheaper to rent that product from Salesforce and gives me better results than if I make it if I buy it by having those four people work for me So I have a PhD in industrial engineering And what industrial engineers do is they optimize things Well guess what I got bad news
@@ -28,24 +26,16 @@ Salesforce And so what I have just done the rentability threshold I just hit the
 
 Optimization is obsolete We no longer want to optimize We now want to optionize What are the options Im going to have to consider Why Because your last question Its all your fault Jamal You asked the black swan question And now guess what Black swans are going to happen I dont know which black swan is going to get us next week next month but itll get us
 
-### Speaker 2
-
-Hello supply chain friends and welcome to another fantastic podcast on my channel And today I am really excited because I have got an absolute titan of and the legendary pioneer of the supply chain world with me Jim Tompkins Jim is an internationally recognized expert CEO of Tompkins Ventures and the founder of Tompkins International For over four decades he has been at the absolute forefront of the supply chain innovation shaping how global strategies logistics and material handling operates today
+speaker_2: Hello supply chain friends and welcome to another fantastic podcast on my channel And today I am really excited because I have got an absolute titan of and the legendary pioneer of the supply chain world with me Jim Tompkins Jim is an internationally recognized expert CEO of Tompkins Ventures and the founder of Tompkins International For over four decades he has been at the absolute forefront of the supply chain innovation shaping how global strategies logistics and material handling operates today
 
 
 From advising hundreds of businesses on end to end optimization to navigating the massive shifts in digital commerce his insight have redefined the industry So without further ado I want to welcome Dr Tompkins to my podcast Hi Jim How are you
 
-### Speaker 1
+speaker_1: Im great Jim I hope you are
 
-Im great Jim I hope you are
+speaker_2: Excellent So its an honor to have you on my podcast Jim And as we discussed like one of the first things I wanted to ask you that you have been witnessing multiple waves of technology disrupt supply chains Many professionals see AI today and think it will do the thinking for them In your view what is the boundary line between what AI should automate and where the human judgment must take over
 
-### Speaker 2
-
-Excellent So its an honor to have you on my podcast Jim And as we discussed like one of the first things I wanted to ask you that you have been witnessing multiple waves of technology disrupt supply chains Many professionals see AI today and think it will do the thinking for them In your view what is the boundary line between what AI should automate and where the human judgment must take over
-
-### Speaker 1
-
-Camille its great to be with you and I love that question And I think it has a lot of depth to it The where the boundary line is for AI and the human depends upon what level of AI youre talking about I think theres four levels of AI The lowest levels level one and thats when AI is a tool When I began with AI four years ago if you asked me if I was using AI Id say yes Im using AI But you know what I was doing I was using Google
+speaker_1: Camille its great to be with you and I love that question And I think it has a lot of depth to it The where the boundary line is for AI and the human depends upon what level of AI youre talking about I think theres four levels of AI The lowest levels level one and thats when AI is a tool When I began with AI four years ago if you asked me if I was using AI Id say yes Im using AI But you know what I was doing I was using Google
 
 
 which was using Gemini that was AI to do my searches But was I really doing AI No I was using AI as a tool And what it was it was Google on steroids So if youre using Google on steroids listen to AI Its going to give you the facts and do a good job on that Thats 100 percent AI However if you go to level two where now Im not using it as a tool but Im now using it as a worker And as a worker
@@ -74,13 +64,9 @@ more human involved If were looking at risks the assessment of risk we can ask A
 
 what it does that you need the human for that So kind of an overview a quick answer to the question would be is we if the question were asking has a right answer use AI to do it If the question were asking we need a responsible answer let the human do it And so its real clear but it evolves depending upon which level youre at
 
-### Speaker 2
+speaker_2: I really liked how you frame it Like if its a right answer then go to AI If its the responsible answer then its kind of more on the human side Its a very good summary Now you mentioned AI enabled enterprise Jim So if I would ask you to elaborate a little bit on that especially in the context of a lot of companies are in this test and learn mode on AI A lot of them are using it in some shape or form So what do you really mean by an AI enabled enterprise
 
-I really liked how you frame it Like if its a right answer then go to AI If its the responsible answer then its kind of more on the human side Its a very good summary Now you mentioned AI enabled enterprise Jim So if I would ask you to elaborate a little bit on that especially in the context of a lot of companies are in this test and learn mode on AI A lot of them are using it in some shape or form So what do you really mean by an AI enabled enterprise
-
-### Speaker 1
-
-So if we looked at where typical companies are today with the levels one two three four typical company thinks theyre approaching number three but theyre really about 2 point 2 2 point 3 When youre 2 point 2 2 point 3 you dont have to worry much about an AI enabled company But when you get above three you get to three two three four on your way to four then you need to think about it And the thing that the question you ask changes
+speaker_1: So if we looked at where typical companies are today with the levels one two three four typical company thinks theyre approaching number three but theyre really about 2 point 2 2 point 3 When youre 2 point 2 2 point 3 you dont have to worry much about an AI enabled company But when you get above three you get to three two three four on your way to four then you need to think about it And the thing that the question you ask changes
 
 
 2 point 2 or 2 point 3 the question is always should we use AI to help us here when we get to 3 point 2 3 point 3 the question is how do we reorganize the company around AI and so its its an issue of whos on first I mean the when youre a one or two and a early stage three youre youre youre very much focusing on
@@ -136,16 +122,12 @@ Just like we got rid of the servers were gonna get rid of a lot of white collar 
 
 Enterprises
 
-### Speaker 2
-
-Awesome Thats a very good explanation Thanks a lot Jim Now one question on because Im so glad you mentioned the data piece right And one of the challenges I see in the industry is especially around these Black Swan events where sometimes the data doesnt tell the story You dont have enough history For instance I mean and this is unfortunately turning out to be a decade of Black Swan events as far as supply chain goes We had COVID then we had tariffs now we have got a war going on So all these different you know things going on
+speaker_2: Awesome Thats a very good explanation Thanks a lot Jim Now one question on because Im so glad you mentioned the data piece right And one of the challenges I see in the industry is especially around these Black Swan events where sometimes the data doesnt tell the story You dont have enough history For instance I mean and this is unfortunately turning out to be a decade of Black Swan events as far as supply chain goes We had COVID then we had tariffs now we have got a war going on So all these different you know things going on
 
 
 how do you uh how would you answer that question that where a supply planner is struggling how much intuition i should use and how much i should rely on on the data which basically stems to all those concerns that you talked about where people are saying that oh you know we cant trust the data it could hallucinate and all of that stuff
 
-### Speaker 1
-
-That is a great question In fact its such a good question I actually wrote a book on it The name of the book is Insightful Leadership Surfing the Waves of Organizational Excellence Okay its available on Amazon Surfing the Waves of Organizational Excellence What the heck does that mean Well what it means if you are sitting on the beach and Im on a surfboard what I need to do is not look at you I need to look over
+speaker_1: That is a great question In fact its such a good question I actually wrote a book on it The name of the book is Insightful Leadership Surfing the Waves of Organizational Excellence Okay its available on Amazon Surfing the Waves of Organizational Excellence What the heck does that mean Well what it means if you are sitting on the beach and Im on a surfboard what I need to do is not look at you I need to look over
 
 
 my shoulder at the waves and I said hey Jamil you see see that not not the next wave not the but the fourth look at the fourth wave you see how its rolling and see the force behind it and its coming right towards me thats the wave I need to ride now how do I know that I mean that Ive never rode that wave before Ive never seen that wave before but I have intuition and my intuition tells me that that wave has got the power thats going to allow me to carry
@@ -174,16 +156,12 @@ and t shirts and he said its absolutely crazy so not only does volume go up we a
 
 It now becomes science
 
-### Speaker 2
-
-Great excellent I think that thats a good explanation Now lets just talk a little bit about this what this is doing to the required skill sets in humans moving forward Jim right Which is for the longest period of time I mean I started working in supply chain maybe over 20 years ago and I take a lot of job interviews right And we have focused a lot especially on these entry level mid level jobs a lot about analytical skills and reporting skills and all of that Now with AI taking some of those tasks over
+speaker_2: Great excellent I think that thats a good explanation Now lets just talk a little bit about this what this is doing to the required skill sets in humans moving forward Jim right Which is for the longest period of time I mean I started working in supply chain maybe over 20 years ago and I take a lot of job interviews right And we have focused a lot especially on these entry level mid level jobs a lot about analytical skills and reporting skills and all of that Now with AI taking some of those tasks over
 
 
 and this might create a bit of a barrier to entry for people into supply chain what are the critical skills for professionals to future proof their careers in the next three to five years in your opinion
 
-### Speaker 1
-
-Yeah this has got two tiers to it The technical and the analytical skills are still needed But instead of them being the thing that allows you to advance in your career they are table stakes You have to have that to even get in the game Okay if you dont have those analytical skills youre not going to be considered as someone for that next promotion And so you got to still have the skills we always had to have But in addition addition to that you got to have the skills
+speaker_1: Yeah this has got two tiers to it The technical and the analytical skills are still needed But instead of them being the thing that allows you to advance in your career they are table stakes You have to have that to even get in the game Okay if you dont have those analytical skills youre not going to be considered as someone for that next promotion And so you got to still have the skills we always had to have But in addition addition to that you got to have the skills
 
 
 to have great judgment skills where 20 years ago you didnt need judgment skills all you need to do is be a good engineer from a good school you had a job you worked for life but now you need these judgment skills so what what are judgment skills the first one i would call out is ai literacy now theres some analytical parts to ai you know can you program it and can you create an agent and so forth thats not what im talking about im talking about the ai skills that are not coding but instead
@@ -218,9 +196,7 @@ And you really dont it does take you till next next month to do the whole analys
 
 understand P L understand balance sheets understand cash flow so understand the whole profit thing and then be able to position whatever youre providing for clients in a way that you can you can sell it And so I think those are the AI literacy system thinking scenario design change leadership and sales and profitability Weve got to know those five things well And now in addition to our analytical technical skills were going to be really really in a good position for a future career
 
-### Speaker 2
-
-Awesome Thats great Actually Ive answered several questions that I wanted to ask you on this one Jim within one this answer which is very very helpful And I just want to also further emphasize on what you talked about the cross functional knowledge and the end to end view because I totally agree with you that I think gone are the days when you would become like a functional expert in one system or one part of supply chain and you can you know build a whole career out of it Im sure Jim
+speaker_2: Awesome Thats great Actually Ive answered several questions that I wanted to ask you on this one Jim within one this answer which is very very helpful And I just want to also further emphasize on what you talked about the cross functional knowledge and the end to end view because I totally agree with you that I think gone are the days when you would become like a functional expert in one system or one part of supply chain and you can you know build a whole career out of it Im sure Jim
 
 
 you have over the years you have got so much experience you have seen must have seen people who have built their entire careers and just implementing SAP right But I think as we are going were moving towards the world where just having that kind of vertical knowledge about one system or one piece of supply chain may not be sufficient because you really want to have that enterprise end to end overview One thing I wanted to ask you since we are talking about skills and you have already kind of given a pretty solid list here
@@ -231,9 +207,7 @@ What about storytelling Jim Because you know probably its a part of the selling 
 
 and how to sell and so on So can you just tell a little bit more about from your perspective how important is storytelling in supply chain professionals lives
 
-### Speaker 1
-
-Yeah well Ive given away my my answer already by saying that change management and having the ability to sell is important because that is 100 percent storytelling You know we get up and we give these presentations and well show 14 matrices and and six graphs And guess what The audience the executives in the audience they they they dont remember any of the charts Thats not what they do What they will
+speaker_1: Yeah well Ive given away my my answer already by saying that change management and having the ability to sell is important because that is 100 percent storytelling You know we get up and we give these presentations and well show 14 matrices and and six graphs And guess what The audience the executives in the audience they they they dont remember any of the charts Thats not what they do What they will
 
 
 do those theyll remember the stories you tell and so telling the story is what makes the presentation memorable and so I think its really important is that you precisely concisely and simply explain what youre talking about and so I like to use a story to represent what is it that were here to talk about today and Ill give an example
@@ -253,9 +227,7 @@ select our key phrases and then tell the story and at the end they will remember
 
 the presentation and see how it goes uh then evaluate yourself and and improve it and improve it and improve it and that now you got the ability to tell stories now youre going to be successful
 
-### Speaker 2
-
-And Im so glad you mentioned that Jim because I do a lot of career coaching for supply chain professionals I prepare them for like job interviews which is another form of presentation And this is one of the key messages I want to pass on to everyone who is kind of you know looking for getting a job successfully there Just you can prepare all your answers but the most important thing is to rehearse rehearse rehearse right And the best example I give them is like I read a book about Steve Jobs like although like he was probably like the master of a lot of things but even he used to rehearse his presentations
+speaker_2: And Im so glad you mentioned that Jim because I do a lot of career coaching for supply chain professionals I prepare them for like job interviews which is another form of presentation And this is one of the key messages I want to pass on to everyone who is kind of you know looking for getting a job successfully there Just you can prepare all your answers but the most important thing is to rehearse rehearse rehearse right And the best example I give them is like I read a book about Steve Jobs like although like he was probably like the master of a lot of things but even he used to rehearse his presentations
 
 
 for unveiling the new iPhone and the iPads and used to spend a lot of time on that So if Steve Jobs had to do it then you know there is no excuse for us not to do so right So its so uh its so so important uh that thats great Now just just talking a little bit more about the the speed of execution related to AI Jim and I just wanted to touch on that a little bit right So obviously with with AI theres a lot of data theres a lot of execution and you know theres theres a lot of data processing happening really fast How do you advise
@@ -263,9 +235,7 @@ for unveiling the new iPhone and the iPads and used to spend a lot of time on th
 
 to build like the mental agility to handle like the higher volumes of data that we are uh experiencing now
 
-### Speaker 1
-
-Well I think mental agility and resilience kind of go hand in hand and what we know the black swan question again is that theres going to be a lot of surprises on the way to a successful career and and so I like the term resilience here because if you look at the definition of resilience in physics resilience is defined as the ability to bounce
+speaker_1: Well I think mental agility and resilience kind of go hand in hand and what we know the black swan question again is that theres going to be a lot of surprises on the way to a successful career and and so I like the term resilience here because if you look at the definition of resilience in physics resilience is defined as the ability to bounce
 
 
 And so if I hold the ball at one foot above the table and I drop it and the ball goes down and hits the table and bounces up and hits my hand it has resilience of one If it only comes up halfway it has resilience of 0 point 5 And so what I try to do is I try to grow my resilience because if I grow my resilience if I grow my ability to bounce thats going to allow me to be much more agile
@@ -282,16 +252,12 @@ What am I going to do What if this happens What am I going to do And you got to 
 
 going to give you that mental agility that you need
 
-### Speaker 2
-
-Excellent I think thats a great great advice Now talking a little bit about learning from like past successes and failures Jim like obviously because supply chain is such a practical industry case studies are a great way to learn But the real world execution sometimes tends to be messy So we would read certain case studies in books and then we would come to the conclusion that oh but probably this doesnt apply to my situation How do you recommend that we study past supply chain failures or successes to build our own strategy
+speaker_2: Excellent I think thats a great great advice Now talking a little bit about learning from like past successes and failures Jim like obviously because supply chain is such a practical industry case studies are a great way to learn But the real world execution sometimes tends to be messy So we would read certain case studies in books and then we would come to the conclusion that oh but probably this doesnt apply to my situation How do you recommend that we study past supply chain failures or successes to build our own strategy
 
 
 Digital playbook
 
-### Speaker 1
-
-Well I think we want to study both successes and failures but I think we should spend more time on our failures than our successes Because by when I see a failure I go oh wow great This is a learning opportunity And that I learn much more by doing dumb things than I do by doing smart things Because when I do a dumb thing I now can analyze that I can undress that and figure out what do I need to do to do better And so I think self assessment is absolutely critical
+speaker_1: Well I think we want to study both successes and failures but I think we should spend more time on our failures than our successes Because by when I see a failure I go oh wow great This is a learning opportunity And that I learn much more by doing dumb things than I do by doing smart things Because when I do a dumb thing I now can analyze that I can undress that and figure out what do I need to do to do better And so I think self assessment is absolutely critical
 
 
 And sometimes people have this thing well Im always doing good Well no youre not You you have good days you have good hours and you have bad days and bad hours and so what we should do is we should assess that How did I do on that last meeting Did I ask the right questions Was I paying enough attention Was I alert Was I prepared for the meeting Did I read the materials beforehand What am I going to do on that presentation I have tomorrow morning Am I going to be prepared What do I need to do
@@ -314,16 +280,12 @@ And so we need to be dynamic in our decision making Dont design a solution for a
 
 they go out of business what were they missing and how can I learn from that so I dont have to go through all the pain and suffering of that so I think studying successes are good because you learn and reinforce what youve done but learning from failures is better because thats obviously where you didnt do something right and theres something identifying its like a blinking light improve improve improve and we want to find the blinking light and we want to push the light off
 
-### Speaker 2
-
-Excellent thats great
+speaker_2: Excellent thats great
 
 
 One question I really wanted to leverage and take advantage of your four decades of experience Dr Tompkins which is Im sure you have mentored and seen so many bright professionals in supply chain and mentored a lot of them What specific habit or trait separated in your opinion the truly exceptional problem solvers from the average ones
 
-### Speaker 1
-
-Um when I was working on my masters degree at Purdue University uh Lillian Gilbreth the woman who was the the star or the the the person the movie cheaper by the dozen was created for Frank and Lillian Gilbreth the founders of industrial engineering had 12 children and they ran their children in a very methodical procedural way to optimize the performance of the family
+speaker_1: Um when I was working on my masters degree at Purdue University uh Lillian Gilbreth the woman who was the the star or the the the person the movie cheaper by the dozen was created for Frank and Lillian Gilbreth the founders of industrial engineering had 12 children and they ran their children in a very methodical procedural way to optimize the performance of the family
 
 
 And I had an opportunity when she was 92 years old to drive Lillian Gilbert to the airport from Purdue to Indianapolis so I had the icon of the of the of the profession in a car for an hour and 15 minutes just for me and I prepared all these questions I wanted to ask her and I held the door for she got in the car went around I closed the door I got around turned the car up backed up started to drive and she started asking me questions Jim where
@@ -370,13 +332,9 @@ maybe go from 400000 square feet to 300000 Couldnt we get away without building 
 
 Because we have bunches of people working in silos we need people that work above the silos
 
-### Speaker 2
+speaker_2: Yeah and I think thats a great segue into my last question Jim because you talked about the importance of you know if I were to grow I would definitely volunteer Now in considering the 2026 context of supply chain where we are all surrounded with all this you know growing technology AI and global volatility automation and so on what is the very first project or area of the business you would volunteer for if you are a you know supply chain professional in todays time
 
-Yeah and I think thats a great segue into my last question Jim because you talked about the importance of you know if I were to grow I would definitely volunteer Now in considering the 2026 context of supply chain where we are all surrounded with all this you know growing technology AI and global volatility automation and so on what is the very first project or area of the business you would volunteer for if you are a you know supply chain professional in todays time
-
-### Speaker 1
-
-So in todays environment
+speaker_1: So in todays environment
 
 
 I would probably ask for a job in procurement
@@ -426,9 +384,7 @@ Oh yeah yeah you have a whole function huge amount of money and we dont know wha
 
 do a great job and learn a lot
 
-### Speaker 2
-
-Awesome I think thats a thats thats a great
+speaker_2: Awesome I think thats a thats thats a great
 
 
 I do I have also created some content about you know people preparing for procurement manager positions and all of that and I do also call out repeatedly on my channel the importance of understanding a lot of people call me and tell me oh I want Im in procurement I want to join supply chain and tell them that hey you are already in supply chain you are just in the source part of supply chain not in the make deliver and return part of supply chain right so uh that thats I think a great advice uh dr Tompkins uh it was an absolute pleasure to have you I think some of the
@@ -439,6 +395,4 @@ The advice you shared some of the responses you gave are you know amazing pieces
 
 strategic leader uh to whom i think you have gotten some very good advice especially around that you know level one to level four that you explain in a very structured way so thank you very much for coming on the show today uh and uh you know i think hopefully we should do this more often
 
-### Speaker 1
-
-My pleasure thanks so much for a great session
+speaker_1: My pleasure thanks so much for a great session

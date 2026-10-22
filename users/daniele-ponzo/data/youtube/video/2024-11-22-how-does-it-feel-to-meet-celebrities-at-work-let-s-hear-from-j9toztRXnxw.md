@@ -32,8 +32,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -41,18 +41,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: And uh I got the job at the Claridge Hotel that was owned by Bono Vox and uh and the the age Yeah
 
-And uh I got the job at the Claridge Hotel that was owned by Bono Vox and uh and the the age Yeah
+speaker_2: Speaking about dreams speaking about dreams coming true huh
 
-### Speaker 2 · Speaker 2
+speaker_1: It took a long while but I got the job there I applied for I dont know months I remember And I got the job and I I got to meet Peter Gabriel I got to talk to Led Zeppelin I saw REM I spoke I had a nice chat with Danny De Vito in front of TV I met so many people I have a picture with Bono wishing happy birthday to my mother Its Its been great but the the top of this was one I uh the guy that was playing uh this dude that was playing in the Oxagon bar the local bar of the hotel called in sick and they knew I played music so they offered me to play to cover And
 
-Speaking about dreams speaking about dreams coming true huh
-
-### Speaker 1 · Speaker 1
-
-It took a long while but I got the job there I applied for I dont know months I remember And I got the job and I I got to meet Peter Gabriel I got to talk to Led Zeppelin I saw REM I spoke I had a nice chat with Danny De Vito in front of TV I met so many people I have a picture with Bono wishing happy birthday to my mother Its Its been great but the the top of this was one I uh the guy that was playing uh this dude that was playing in the Oxagon bar the local bar of the hotel called in sick and they knew I played music so they offered me to play to cover And
-
-### Speaker 2 · Speaker 2
-
-Wait this sounds too much like an American movie
+speaker_2: Wait this sounds too much like an American movie

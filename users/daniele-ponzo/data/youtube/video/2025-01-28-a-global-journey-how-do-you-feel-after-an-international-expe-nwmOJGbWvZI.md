@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,10 +25,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So when you think about this would you have any recommendations for people who are interested in having being protagonist on the global stage like you
 
-So when you think about this would you have any recommendations for people who are interested in having being protagonist on the global stage like you
-
-### Speaker 2 · Speaker 2
-
-I I think be my only recommendation would be be aware that when you take a step out its actually pretty hard to go back you know Just be aware be mindful that thats probably the choice that youre making Not always right Like its its possible or that if you come back youll come back a different person and that needs to be okay too Just be mindful of that That would be my my my main suggestion I think often a lot of frustration comes with with the fact that then people see yes they take their first opportunity outside but then its really difficult you know to find opportunities back home again just because they start
+speaker_2: I I think be my only recommendation would be be aware that when you take a step out its actually pretty hard to go back you know Just be aware be mindful that thats probably the choice that youre making Not always right Like its its possible or that if you come back youll come back a different person and that needs to be okay too Just be mindful of that That would be my my my main suggestion I think often a lot of frustration comes with with the fact that then people see yes they take their first opportunity outside but then its really difficult you know to find opportunities back home again just because they start

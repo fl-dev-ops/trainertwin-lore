@@ -48,7 +48,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -56,6 +56,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So I think learning to match the energy level in a conversation is very important We make the opposite the opposite party feels normal And in this case Ive learned that talking speaking engaging pacing up helps myself as well You know what At the end of the half an hour discussion he said thank you very much for giving me that pause because English is not my first language So when Im speaking and replying to him in English he told me in his mind he need that few second to translate into his mother tongue He think in his mother tongue he has to translate his reply to mother tongue from mother tongue into English then he replied me But I thank him so much for for for explaining to me you know the reason for the pause and his thinking and etc
+speaker_1: So I think learning to match the energy level in a conversation is very important We make the opposite the opposite party feels normal And in this case Ive learned that talking speaking engaging pacing up helps myself as well You know what At the end of the half an hour discussion he said thank you very much for giving me that pause because English is not my first language So when Im speaking and replying to him in English he told me in his mind he need that few second to translate into his mother tongue He think in his mother tongue he has to translate his reply to mother tongue from mother tongue into English then he replied me But I thank him so much for for for explaining to me you know the reason for the pause and his thinking and etc

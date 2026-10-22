@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-नारद उवाच
+speaker_1: नारद उवाच
 एवं सुरादयः सर्वे ब्रह्मरुद्रपुरःसराः
 नोपेतुमशकान्मन्युसङ्ग्रहं सुदुरासदम्
 

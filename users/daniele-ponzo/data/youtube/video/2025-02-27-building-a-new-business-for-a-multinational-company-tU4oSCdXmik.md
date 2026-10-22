@@ -27,7 +27,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -35,6 +35,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So um so my main job is really the the deliver of the Lenovo services to global global accounts right So global deals and um Im also this this type of business for Lenovo is pretty new So Im Im one of the Im part of a team that is setting up this global service uh delivery on uh on a DAS model to for Lenovo right So pretty much building the business here for Lenovo So its quite interesting Its been very challenged last year
+speaker_1: So um so my main job is really the the deliver of the Lenovo services to global global accounts right So global deals and um Im also this this type of business for Lenovo is pretty new So Im Im one of the Im part of a team that is setting up this global service uh delivery on uh on a DAS model to for Lenovo right So pretty much building the business here for Lenovo So its quite interesting Its been very challenged last year

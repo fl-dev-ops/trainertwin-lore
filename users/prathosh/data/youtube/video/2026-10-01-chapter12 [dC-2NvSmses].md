@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-अथ द्वादशोऽध्यायः भक्तियोगः
+speaker_1: अथ द्वादशोऽध्यायः भक्तियोगः
 अर्जुन उवाच
 एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते
 ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः

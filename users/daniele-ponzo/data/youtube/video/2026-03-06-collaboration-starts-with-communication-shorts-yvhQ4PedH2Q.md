@@ -27,7 +27,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -35,6 +35,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So it means that every kind of work we do is teamwork you know regardless of what we might think And so thats thats where we need to encourage the environment Now obviously this is this goes on different levels you know its the environment the personal attitude the language we use the seniority level of a team So I think we need to make sure that we analyze the situation we observe and then we are uh in a way precise on how we address each of them So is it an environmental problem
+speaker_1: So it means that every kind of work we do is teamwork you know regardless of what we might think And so thats thats where we need to encourage the environment Now obviously this is this goes on different levels you know its the environment the personal attitude the language we use the seniority level of a team So I think we need to make sure that we analyze the situation we observe and then we are uh in a way precise on how we address each of them So is it an environmental problem

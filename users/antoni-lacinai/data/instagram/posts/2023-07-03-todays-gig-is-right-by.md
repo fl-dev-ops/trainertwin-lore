@@ -11,7 +11,7 @@ transcript: true
 model: gemini-2.5-flash
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,10 +19,7 @@ Today’s gig is right by the ocean. Must take a short walk when I am done 😎.
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-Today's gig is right by the ocean. I'll talk about how almost nothing is a one-person show. Without great people and great communication, you will not succeed.
-
+speaker_1: Today's gig is right by the ocean. I'll talk about how almost nothing is a one-person show. Without great people and great communication, you will not succeed.
 
 ## Comments (1)
 

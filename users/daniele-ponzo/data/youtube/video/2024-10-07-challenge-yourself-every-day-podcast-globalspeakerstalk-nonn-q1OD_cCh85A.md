@@ -16,8 +16,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -25,10 +25,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So what recommendations would you give
 
-So what recommendations would you give
-
-### Speaker 2 · Speaker 2
-
-Yeah So for that I actually am doing like challenges every single week for you know my my life personally is that you know I would have this little test that I would do for example like talking to five strangers in a week You know were like scared of like rejection and you know just seeing what you know you could actually do
+speaker_2: Yeah So for that I actually am doing like challenges every single week for you know my my life personally is that you know I would have this little test that I would do for example like talking to five strangers in a week You know were like scared of like rejection and you know just seeing what you know you could actually do

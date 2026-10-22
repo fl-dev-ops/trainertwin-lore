@@ -8,8 +8,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -18,9 +18,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Hello all welcome back to Uncommon Geeks As you already know we are just continuing with our video series on promises I hope youre all doing well So in this video we are going to just extend whatever we left in our last video that is about the promise chaining how a promise inside a promise creates a problem gradually when we have a lot of promises being chained one inside another And what are the ways in which we can avoid that Okay without wasting further time lets get started See I am on a same set of
+speaker_1: Hello all welcome back to Uncommon Geeks As you already know we are just continuing with our video series on promises I hope youre all doing well So in this video we are going to just extend whatever we left in our last video that is about the promise chaining how a promise inside a promise creates a problem gradually when we have a lot of promises being chained one inside another And what are the ways in which we can avoid that Okay without wasting further time lets get started See I am on a same set of
 
 
 code whatever was written in the previous video and the same code okay so now what was the problem we are facing here is we have a list of promises one inside another so multiple promises we are calling and we are waiting for that input to output to come then we go calling the second promise and it has been continuous continued so this becomes very tedious to read and debug so how i can avoid that
@@ -52,9 +50,7 @@ So now Ill create a test function This I have hidden so to because Ill not be us
 
 First let me complete the completely write the code then Ill explain what Im doing
 
-### Speaker 2
-
-Catch you later
+speaker_2: Catch you later
 
 
 Yeah
@@ -71,17 +67,11 @@ Then we have response to is equals to
 
 Response three is equals to
 
-### Speaker 1
+speaker_1: Im less trying to log
 
-Im less trying to log
+speaker_2: Response
 
-### Speaker 2
-
-Response
-
-### Speaker 1
-
-So this time what Ill do I rather returning promise one two or three I will return the numbers okay resolve one
+speaker_1: So this time what Ill do I rather returning promise one two or three I will return the numbers okay resolve one
 
 
 And resolve

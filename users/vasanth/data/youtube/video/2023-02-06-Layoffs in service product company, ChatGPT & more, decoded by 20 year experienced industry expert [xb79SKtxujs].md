@@ -9,9 +9,9 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 3
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
 ---
 
 
@@ -20,37 +20,21 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: that people and even companies shy away from saying but this is the brutal hard naked truth of layoffs many people who get on the list are also because they have not built
 
-that people and even companies shy away from saying but this is the brutal hard naked truth of layoffs many people who get on the list are also because they have not built
+speaker_2: Can we expect some layoffs from the service companies also So far big tech gents havent fired off in a number like these product companies or they are laying off and its not coming to notice So they also want to just make sure they are safe So what is your take sir
 
-### Speaker 2
+speaker_1: So my first salary was two thousand five hundred pesos
 
-Can we expect some layoffs from the service companies also So far big tech gents havent fired off in a number like these product companies or they are laying off and its not coming to notice So they also want to just make sure they are safe So what is your take sir
+speaker_2: Yeah
 
-### Speaker 1
+speaker_1: Long time back and I wear it as a badge because I built my career brick by brick on top of yeah
 
-So my first salary was two thousand five hundred pesos
+speaker_2: Yes charge GPT coming in Its not the charge GPT Theres a lot of revolution happening in the AI So many things that were laborious are automatically taken care by the AI now Do you think in the long run it is threat to IT employees who are doing a job or it is not so threatful
 
-### Speaker 2
+speaker_3: Hello all welcome back to uncommon geeks my name is Vasanth I hope you all doing well in case if you are seeing me first time on the internet Im a content creator I help people to clear their interview Im
 
-Yeah
-
-### Speaker 1
-
-Long time back and I wear it as a badge because I built my career brick by brick on top of yeah
-
-### Speaker 2
-
-Yes charge GPT coming in Its not the charge GPT Theres a lot of revolution happening in the AI So many things that were laborious are automatically taken care by the AI now Do you think in the long run it is threat to IT employees who are doing a job or it is not so threatful
-
-### Speaker 3
-
-Hello all welcome back to uncommon geeks my name is Vasanth I hope you all doing well in case if you are seeing me first time on the internet Im a content creator I help people to clear their interview Im
-
-### Speaker 2
-
-lot of videos on interview preparation strategies on the also on the front end tech so in case if youre not watch my series please check them out the link is in the description also on the screen so you will definitely able to clear next set of interviews that you are attending and coming to this particular video as youve already seen in the thumbnail ill be interviewing a very experienced person he has around two decades of experience his name is anshuman tiwari and i happen to connect him with him on linkedin and he is also top voice of linkedin for 2022 he writes very actively on a lot of career problems how to overcome such
+speaker_2: lot of videos on interview preparation strategies on the also on the front end tech so in case if youre not watch my series please check them out the link is in the description also on the screen so you will definitely able to clear next set of interviews that you are attending and coming to this particular video as youve already seen in the thumbnail ill be interviewing a very experienced person he has around two decades of experience his name is anshuman tiwari and i happen to connect him with him on linkedin and he is also top voice of linkedin for 2022 he writes very actively on a lot of career problems how to overcome such
 
 
 problems he is also youtuber and regarding this particular video well be discussing a lot about the recent tech instabilities that are happening the layoffs so if youre a junior developer if youre laid off how to handle some tricky situation like this well be also talking about the people who are in 11th and 12th is it engineering is the right career or not can ai replace the it tech force if not completely to a great extent also we are talking about is it so layoffs are just restricted to the product based company or service companies can also lay off so
@@ -58,25 +42,15 @@ problems he is also youtuber and regarding this particular video well be discuss
 
 Im gonna buy his brain on a lot of different topics with his vast experience of two decades and Im gonna answer a lot of questions that is a part of your mind also Please watch the video till the end Thank you so much Anshuman sir for accepting my invite and coming live on my YouTube channel Like I mentioned it is very pleasure to have you and it is first time that I am interviewing someone senior like you in my YouTube channel First of all welcome you to sir Welcome you to my channel sir
 
-### Speaker 1
+speaker_1: Thank you
 
-Thank you
+speaker_2: Like yeah I means in the other conversations I said this most of my audience are actually people with lesser than five years of experience I assume they might not be following you definitely many might know but I would like to hear I have already introduced you in the intro but itll be great if you start with your introduction sir
 
-### Speaker 2
+speaker_1: Sure Thank you very much Vasanta Firstly you know glad to be here And I always derive a lot of pleasure in speaking to youngsters because thats how I get my energy also right So and everybody is junior at some point And if you build your career properly you will get to where I am right So
 
-Like yeah I means in the other conversations I said this most of my audience are actually people with lesser than five years of experience I assume they might not be following you definitely many might know but I would like to hear I have already introduced you in the intro but itll be great if you start with your introduction sir
+speaker_2: Yes yes yes
 
-### Speaker 1
-
-Sure Thank you very much Vasanta Firstly you know glad to be here And I always derive a lot of pleasure in speaking to youngsters because thats how I get my energy also right So and everybody is junior at some point And if you build your career properly you will get to where I am right So
-
-### Speaker 2
-
-Yes yes yes
-
-### Speaker 1
-
-is only a natural process of aging and career building So in terms of introduction so Im a quality professional and I
+speaker_1: is only a natural process of aging and career building So in terms of introduction so Im a quality professional and I
 
 
 of specialize into three four areas of quality transformation innovation quality and simplification and most of my work i started working in 1994 some of your audience might not have been born but yeah as a long career i started in quality and improvement and innovation throughout the year and somewhere in the 90s late 90s i moved into consulting then into related industries and
@@ -84,13 +58,9 @@ of specialize into three four areas of quality transformation innovation quality
 
 eventually for last several years into IT and related industries
 
-### Speaker 2
+speaker_2: Okay so now the first question sir like which is one of the probably the state hit question to you Its been almost two decades of you have a career now Were you laid off anytime in the past in the two decades of experience In case if you are or if in case if you are not your colleagues or someone might have been laid off What do you think their thought process will be And that is my first question to start off with
 
-Okay so now the first question sir like which is one of the probably the state hit question to you Its been almost two decades of you have a career now Were you laid off anytime in the past in the two decades of experience In case if you are or if in case if you are not your colleagues or someone might have been laid off What do you think their thought process will be And that is my first question to start off with
-
-### Speaker 1
-
-Sure sure um
+speaker_1: Sure sure um
 
 
 There have been two instances One of course very early in my career I left the job so I laid off the company where I was working without having any other job Got it But it was stupidity You know I was young and I had dreams of making another career which eventually did not happen And later on I advise everybody that please dont leave your job unless you have something concrete to do right But that is many years back may not be relevant now but in the
@@ -98,28 +68,18 @@ There have been two instances One of course very early in my career I left the j
 
 recent past last maybe decade or so I was very close to being laid off once in the sense that my role was becoming redundant but I had slight luxury of having three months time
 
-### Speaker 2
+speaker_2: Got it yeah
 
-Got it yeah
-
-### Speaker 1
-
-So yes like everybody else or like many people in you know at the peak of my career I was like one inch from being hit off In spite of being top performer in spite of being really popular And so that is one Two a lot of my colleagues have gone through this And I would say and as you get senior Ive also had the difficult job of laying off people as well
+speaker_1: So yes like everybody else or like many people in you know at the peak of my career I was like one inch from being hit off In spite of being top performer in spite of being really popular And so that is one Two a lot of my colleagues have gone through this And I would say and as you get senior Ive also had the difficult job of laying off people as well
 
 
 Exactly not only I have been on one side of the table I am very often on the other side of the table yes yes absolutely I have very close experience
 
-### Speaker 2
+speaker_2: Got it
 
-Got it
+speaker_1: Audio
 
-### Speaker 1
-
-Audio
-
-### Speaker 2
-
-Yeah actually I wrote this on LinkedIn When I started my career unfortunately my first company itself we did not make it whatever We were a startup and we thought well make something and it did not go that way Actually I dont call it a layoff Nobody was making money ultimately So so I had to get go of the company And I had maybe so many could connect with me So Im just saying this like I for a couple of nights I couldnt sleep Im assuming the job was everything for me Like the job is lost and I am not dont know what to do
+speaker_2: Yeah actually I wrote this on LinkedIn When I started my career unfortunately my first company itself we did not make it whatever We were a startup and we thought well make something and it did not go that way Actually I dont call it a layoff Nobody was making money ultimately So so I had to get go of the company And I had maybe so many could connect with me So Im just saying this like I for a couple of nights I couldnt sleep Im assuming the job was everything for me Like the job is lost and I am not dont know what to do
 
 
 But now if you look back at that particular point of time probably now it is not that scary It feels like an experience for your life Like you have grow past that point Now you know probably what to do when the firing happens Oh it is the same sir Whatever you think when the firing happens after a point when you look back at it its just a learning of the life
@@ -127,52 +87,30 @@ But now if you look back at that particular point of time probably now it is not
 
 Yes
 
-### Speaker 1
+speaker_1: Its a face and you know it is very futile and stupid to think that it cannot happen to us
 
-Its a face and you know it is very futile and stupid to think that it cannot happen to us
+speaker_2: Exactly yes yes
 
-### Speaker 2
+speaker_1: In a way I will relate it to something like COVID right So you can all the precautions but it may still happen to you
 
-Exactly yes yes
+speaker_2: Exactly
 
-### Speaker 1
+speaker_1: Now you can prepare to recover you can do well you can do all immunity and everything all yeah yeah you still have So there is not a big deal As long as you have thought about it and you are ready to move on and prepare for it So thats
 
-In a way I will relate it to something like COVID right So you can all the precautions but it may still happen to you
+speaker_2: Exactly correct sir
 
-### Speaker 2
+speaker_1: like a breakup also right so many people get depressed in breakup but its also a free you can hang on
 
-Exactly
+speaker_2: Exactly exactly sir
 
-### Speaker 1
+speaker_1: If your career is not going very well and you are in the layoff list maybe it is a blessing in disguise
 
-Now you can prepare to recover you can do well you can do all immunity and everything all yeah yeah you still have So there is not a big deal As long as you have thought about it and you are ready to move on and prepare for it So thats
-
-### Speaker 2
-
-Exactly correct sir
-
-### Speaker 1
-
-like a breakup also right so many people get depressed in breakup but its also a free you can hang on
-
-### Speaker 2
-
-Exactly exactly sir
-
-### Speaker 1
-
-If your career is not going very well and you are in the layoff list maybe it is a blessing in disguise
-
-### Speaker 2
-
-Exactly Yes I mean a lot of things you know a lot of people who left the company and they started their own company and they became successful You never know actually which is wrong and which is right in the life in a long course basically correct Yes Yeah Next question said this is more on the economy side also and where I want to gain your experience thoughts on this So why do you think in the beginning so many layoffs are happening now Because I have around seven years of experience now And as for I read the economy very actively after 2008 such a lot of layoffs hasnt happened There were layoffs throughout
+speaker_2: Exactly Yes I mean a lot of things you know a lot of people who left the company and they started their own company and they became successful You never know actually which is wrong and which is right in the life in a long course basically correct Yes Yeah Next question said this is more on the economy side also and where I want to gain your experience thoughts on this So why do you think in the beginning so many layoffs are happening now Because I have around seven years of experience now And as for I read the economy very actively after 2008 such a lot of layoffs hasnt happened There were layoffs throughout
 
 
 the year but it is this phase to 2023 and 2022 end seems like so many layoffs are happening like thousands in number what is your thoughts or why it might be happening
 
-### Speaker 1
-
-theres no definite answer but uh yeah i have two point of views one of course during the pandemic you know after the first six months or so it companies globally particularly product based sas based and that world yeah and any product uh that they were offering they realized that this was a huge opportunity and all projections were based on the second six months or second year of the pandemic where all the online services including zoom teams everything was
+speaker_1: theres no definite answer but uh yeah i have two point of views one of course during the pandemic you know after the first six months or so it companies globally particularly product based sas based and that world yeah and any product uh that they were offering they realized that this was a huge opportunity and all projections were based on the second six months or second year of the pandemic where all the online services including zoom teams everything was
 
 
 Ammo
@@ -183,114 +121,70 @@ So companies make projections and they of course assume that this will continue 
 
 inflation significantly yes inflation rises significantly people dont buy things if people dont buy things the companies that are selling them dont require to produce as much if they dont produce as much they dont need the IT and infrastructure as well so it is a its a cycle
 
-### Speaker 2
+speaker_2: Yeah so yeah
 
-Yeah so yeah
+speaker_1: cycle which happens every few years i dont see in spite of the large numbers i dont see the percentages as very significant got it no company has looked at more than two three five percent of their exactly are these functions which were hired in the last two years or grown in the last two years
 
-### Speaker 1
+speaker_2: Exactly
 
-cycle which happens every few years i dont see in spite of the large numbers i dont see the percentages as very significant got it no company has looked at more than two three five percent of their exactly are these functions which were hired in the last two years or grown in the last two years
-
-### Speaker 2
-
-Exactly
-
-### Speaker 1
-
-if you look at some of the high profile functions
+speaker_1: if you look at some of the high profile functions
 
 
 Really speaking these were very highly paid functions and into R D or into developing something new People these functions should always expect to be laid off because things will never be the same as what is
 
-### Speaker 2
+speaker_2: Exactly
 
-Exactly
-
-### Speaker 1
-
-So I do coach some people and in my coaching I always remind them that if the going is good right now doesnt mean it will be going good tomorrow because you have to you know you have to understand that your work is such that it can be the project can just be called off
+speaker_1: So I do coach some people and in my coaching I always remind them that if the going is good right now doesnt mean it will be going good tomorrow because you have to you know you have to understand that your work is such that it can be the project can just be called off
 
 
 Yes yes
 
-### Speaker 2
+speaker_2: Yes yes
 
-Yes yes
+speaker_1: That would be my response too
 
-### Speaker 1
+speaker_2: Got it
 
-That would be my response too
-
-### Speaker 2
-
-Got it
-
-### Speaker 1
-
-Two problems One is of course because of the pandemic a lot of overhiring happened and then these economic macroeconomic pressures on several large economies Correct If you look at the layoffs
+speaker_1: Two problems One is of course because of the pandemic a lot of overhiring happened and then these economic macroeconomic pressures on several large economies Correct If you look at the layoffs
 
 
 Most of them are concentrated in one country or that are working in that country
 
-### Speaker 2
+speaker_2: Yes yes
 
-Yes yes
+speaker_1: And that country has very high
 
-### Speaker 1
-
-And that country has very high
-
-### Speaker 2
-
-Exactly I totally get the point youre saying Just to add to the innovation part like I was recently reading Google working on this autonomous car Autonomous car theyre working its name is Vego I think if Im not wrong Theyre working on the car since a decade and still it is not on the road So much of so many crores might have been spent on that and there is no turnout happening So investors one day will ask like so many so much money is spent and Google is definitely responsible for them Like so I dont know if hiring happened in that Vingo or not but Im saying all innovations are like this is a double sided world So you were
+speaker_2: Exactly I totally get the point youre saying Just to add to the innovation part like I was recently reading Google working on this autonomous car Autonomous car theyre working its name is Vego I think if Im not wrong Theyre working on the car since a decade and still it is not on the road So much of so many crores might have been spent on that and there is no turnout happening So investors one day will ask like so many so much money is spent and Google is definitely responsible for them Like so I dont know if hiring happened in that Vingo or not but Im saying all innovations are like this is a double sided world So you were
 
 
 Part of it it may become very good but theres a chance of not being as expected yeah
 
-### Speaker 1
+speaker_1: In many cases people companies may want to delay the
 
-In many cases people companies may want to delay the
+speaker_2: Exactly
 
-### Speaker 2
+speaker_1: uh okay we are stressed right now lets pick this project up after two years
 
-Exactly
+speaker_2: Exactly yes yes
 
-### Speaker 1
-
-uh okay we are stressed right now lets pick this project up after two years
-
-### Speaker 2
-
-Exactly yes yes
-
-### Speaker 1
-
-So what will you do with those people for two years
+speaker_1: So what will you do with those people for two years
 
 
 Exactly
 
-### Speaker 2
-
-Exactly
+speaker_2: Exactly
 
 
 Exactly Yes yes So next question is that this is I mean I did a poll on my telegram group YouTube channel everywhere Theyre like Im interviewing someone senior like you And what what question they want me to ask you This question came very common across all the people I mean a lot of people ask this question The one is can we expect some layoffs from the service companies also So far big tech gents havent fired off in a number like these product companies or they are laying off and its not coming to notice So they also want to just make sure they are safe So what is your take sir
 
-### Speaker 1
-
-So so part of what you said is right that layoffs do happen in IT services It is a natural year long process
+speaker_1: So so part of what you said is right that layoffs do happen in IT services It is a natural year long process
 
 
 Numbers may not come out in media because it does not have one goal exactly
 
-### Speaker 2
+speaker_2: Exactly yes yes
 
-Exactly yes yes
-
-### Speaker 1
-
-But it does happen it continues to happen The percentage may be lower because it is connected to see IT services is at some level a little commoditized
+speaker_1: But it does happen it continues to happen The percentage may be lower because it is connected to see IT services is at some level a little commoditized
 
 
 And many contracts are two or three year contracts So if once a two three year contract is signed then you are in that contract So its slightly different business So yes the percentage is lower
@@ -298,53 +192,35 @@ And many contracts are two or three year contracts So if once a two three year c
 
 So and but the rewards are also lower right So people join SaaS and product based companies because the work is exciting your work goes out in the market you see consumers using it your salary is higher and all those things Yes But reward will bring risk also
 
-### Speaker 2
+speaker_2: Exactly yeah
 
-Exactly yeah
-
-### Speaker 1
-
-Someday when reward will be lower it will reduce the risk
+speaker_1: Someday when reward will be lower it will reduce the risk
 
 
 So the answer is yes but may not be to the extent that we see these stars
 
-### Speaker 2
-
-Yes yes
+speaker_2: Yes yes
 
 
 Got it got it So as to conclude sir people in service company may a little safer in this particular time compared to the product based companies you conclude like that or
 
-### Speaker 1
-
-So yeah but see people who want to work in a product company have the skills are doing good work will not be in that right so
+speaker_1: So yeah but see people who want to work in a product company have the skills are doing good work will not be in that right so
 
 
 I wont say that you know you should somebody should jump from service to product or product to service only because because this is very temporary
 
-### Speaker 2
+speaker_2: Exactly
 
-Exactly
+speaker_1: it will not last this is very temporary so dont make strong long last career changes because of these kinds of
 
-### Speaker 1
+speaker_2: Exactly so
 
-it will not last this is very temporary so dont make strong long last career changes because of these kinds of
-
-### Speaker 2
-
-Exactly so
-
-### Speaker 1
-
-yes you may find some service company which may lose some 50 million dollar contract yeah certainly a lot of people will be so what do you
+speaker_1: yes you may find some service company which may lose some 50 million dollar contract yeah certainly a lot of people will be so what do you
 
 
 I dont recommend that but conceptually your point is right that yes
 
-### Speaker 2
-
-Yeah
+speaker_2: Yeah
 
 
 little safe compared to the product Yeah I got it sir Got it Now I just want to bring a small situation that happened earlier today We were doing some something in the office where a place was dedicated for a team and we had occupied a little bit of a space for that because of some of our work The person came and he said like this is the place that was meant for me This is my product and I want to be here And my colleague was mentioning Google Associate also thought the same They own the product That is everything And finally what happens I mean probably company wouldnt look at service product
@@ -352,17 +228,11 @@ little safe compared to the product Yeah I got it sir Got it Now I just want to 
 
 it right all the profitability end of the day correct sir yes yes yes another important question this has also been asked by a lot of audience the chart gpt coming in its not the chart gpt theres a lot of revolution happening in the ai so many things that were laborious are automatically taken care by the ai now do you think in the long run it is threat to it employees who are doing a job or it is not so threatful what is your thoughts because you might have seen a lot of automation happening in your decades of experience
 
-### Speaker 1
+speaker_1: see automation of this kind is not new exactly go back 30 60 70 100 years
 
-see automation of this kind is not new exactly go back 30 60 70 100 years
+speaker_2: You got
 
-### Speaker 2
-
-You got
-
-### Speaker 1
-
-all manufacturing that started started manually even cars were being made by hand eventually came in now robots are making cars yeah so things like medicine you know strips yeah they were being cut by hand earlier then the robots came in automation came so every industry goes through this i always say that all the lower cognitive lower level thinking lower thinking level or cognitive level tasks will eventually get automated in every industry not just
+speaker_1: all manufacturing that started started manually even cars were being made by hand eventually came in now robots are making cars yeah so things like medicine you know strips yeah they were being cut by hand earlier then the robots came in automation came so every industry goes through this i always say that all the lower cognitive lower level thinking lower thinking level or cognitive level tasks will eventually get automated in every industry not just
 
 
 industry in every industry yes that is one so if if any of your audience and people listening to this show are are in a in a role where which is which does not require significant application of mind and experience being upskilling
@@ -376,16 +246,12 @@ So that is one of the reasons why we keep saying that look keep looking at upsca
 
 So that is coming to your chat GPT or AI kind of things and its impact on IT I think in the short term it will probably increase employment because somebody has to build that AI right so somebody has to write the AI is not as of now writing everything on its own for example even now looks at the database from before 2021
 
-### Speaker 2
-
-Exactly
+speaker_2: Exactly
 
 
 Exactly yes
 
-### Speaker 1
-
-So yes but yours is still not you know that is part of the yes that process is going on There is a cost to maintain such a large software
+speaker_1: So yes but yours is still not you know that is part of the yes that process is going on There is a cost to maintain such a large software
 
 
 And there are people required to do all that So it may actually increase in the short term In the medium to long term yes I think nature of work will change Many queries that are simple that can be asked or some code that is very simple might become no code or low code whether through chat GPT or other AI software or other similar software Already a lot of automation softwares are actually plug and play In many ways they are you know
@@ -399,9 +265,7 @@ IT IT is then product development and and these are some of the ways that people
 
 Got it
 
-### Speaker 2
-
-Got it sir Got it So next question is basically I mean a lot of my audience are from this category So basically where they are like one year two years of experience and recently been laid off from a very premium companies as you know Amazon Google and all these guys
+speaker_2: Got it sir Got it So next question is basically I mean a lot of my audience are from this category So basically where they are like one year two years of experience and recently been laid off from a very premium companies as you know Amazon Google and all these guys
 
 
 uh i dont know whether its right to say or not they are all paid humongous compared to when i started or probably when you started your career they are paid quite high to start their career only maybe a lot of their lifestyle might have adjusted to this high pay scale now theyre laid off and theyre facing a lot of difficulty ive talked to a lot of them personally where somebody cannot afford them and very few can afford and clearing those interviews are very difficult for them okay so what is your advice people in one to two years of experience and been laid off what is your advice for them in current situation how they should feel motivated and
@@ -409,28 +273,18 @@ uh i dont know whether its right to say or not they are all paid humongous compa
 
 Go forward
 
-### Speaker 1
+speaker_1: So my first salary was two thousand five hundred
 
-So my first salary was two thousand five hundred
+speaker_2: Yeah
 
-### Speaker 2
-
-Yeah
-
-### Speaker 1
-
-Long time back and I wear it as a badge because I built my career brick by brick on top of where I started
+speaker_1: Long time back and I wear it as a badge because I built my career brick by brick on top of where I started
 
 
 But coming to current I do believe that
 
-### Speaker 2
+speaker_2: Yes but yeah
 
-Yes but yeah
-
-### Speaker 1
-
-And Im saying this with some responsibility that many youngsters when they land a good job they start believing that they deserve it
+speaker_1: And Im saying this with some responsibility that many youngsters when they land a good job they start believing that they deserve it
 
 
 It is sometimes circumstance that you were the available person the timing was right everything was right I speak to a lot of youngsters and I always tell them save aggressively because if something too good to you has happened you know too good to believe then it might go away
@@ -438,24 +292,16 @@ It is sometimes circumstance that you were the available person the timing was r
 
 So save aggressively and and keep working on it and dont be too shy to move up and down in your salary because some company can afford you at a let us say a two lakh rupees per month salary or even higher right but another company with more exciting job can give you one lakh only but if your if your expense is fifty thousand per month you will be happy in one lakh also
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-But if you have increased unrationally irrationally you have increased your expense to one lakh ninety thousand per month then you need more than two lakhs Which is sheer nonsense because people who are one year into the job are buying phone which is more than their monthly salary
+speaker_1: But if you have increased unrationally irrationally you have increased your expense to one lakh ninety thousand per month then you need more than two lakhs Which is sheer nonsense because people who are one year into the job are buying phone which is more than their monthly salary
 
 
 Maybe Im too old for this but I keep telling people that guys you know this dream cannot last forever It will it will bust So please focus on saving Please focus on upskilling
 
-### Speaker 2
+speaker_2: I assume you are liking the content that Anjuman Thivarisa is saying Just before you continue watching further I would just request please like the video if you are liking the content and comment whatever you feel about the video And in case if you are not subscribed to my channel please subscribe The reason being to bring such a content on the channel it takes a lot of effort connecting with a person asking his permission finally getting its just a very long process to make more such content I would need your support So please subscribe to my channel and press the bell icon Continue before continue watching further Thank you
 
-I assume you are liking the content that Anjuman Thivarisa is saying Just before you continue watching further I would just request please like the video if you are liking the content and comment whatever you feel about the video And in case if you are not subscribed to my channel please subscribe The reason being to bring such a content on the channel it takes a lot of effort connecting with a person asking his permission finally getting its just a very long process to make more such content I would need your support So please subscribe to my channel and press the bell icon Continue before continue watching further Thank you
-
-### Speaker 1
-
-For example in expenses there is a simple rule you should buy only what you can buy twice
+speaker_1: For example in expenses there is a simple rule you should buy only what you can buy twice
 
 
 So if you cant then theres a problem Then you are pushing your limits to an expense limits to an age So for youngsters particularly I say that you know if youve been currently laid off and your salary was very good ideally you should have savings of one direct one in your kitty so that you can look for a job properly That is one Two right now people are extremely lucky in a way you know in a weird way They are lucky because a the news of layoff is so public that
@@ -463,13 +309,9 @@ So if you cant then theres a problem Then you are pushing your limits to an expe
 
 if they go for an interview they dont have any inhibition or any difficulty embarrassment anything to say that I was laid off because everybody knows it right yes
 
-### Speaker 2
+speaker_2: Yes yes
 
-Yes yes
-
-### Speaker 1
-
-only five years ago or ten years ago it was very embarrassing to say that i was laid off today it is it is probably a badge of honor youre you were in the news so its not that bad please dont take it bad only yesterday i spoke to somebody who has been laid off um in a coaching conversation and i do um speak to people to coach them on how to go about now that you are laid off but i i did advise him his wife is working so recently
+speaker_1: only five years ago or ten years ago it was very embarrassing to say that i was laid off today it is it is probably a badge of honor youre you were in the news so its not that bad please dont take it bad only yesterday i spoke to somebody who has been laid off um in a coaching conversation and i do um speak to people to coach them on how to go about now that you are laid off but i i did advise him his wife is working so recently
 
 
 but his wife is working and they dont have financial trouble so i said why dont you use these two three months as a sabbatical and work on some skills that you want to upgrade this is like a golden opportunity when you you will not get this when you are working exactly and hes to the point because hes using now hes enrolled for some courses and um and of course hes still applying to companies and if he gets a job fantastic certainly with the credentials that he has and
@@ -477,59 +319,35 @@ but his wife is working and they dont have financial trouble so i said why dont 
 
 Many people whove been currently laid off if they say that we were in this company that company all the famous companies
 
-### Speaker 2
+speaker_2: Exactly yes yes so yeah just to summarize
 
-Exactly yes yes so yeah just to summarize
+speaker_1: If we dont then there is something seriously wrong with their skill set if they think highly of themselves they dont have those skills
 
-### Speaker 1
-
-If we dont then there is something seriously wrong with their skill set if they think highly of themselves they dont have those skills
-
-### Speaker 2
-
-Exactly
+speaker_2: Exactly
 
 
 Exactly
 
-### Speaker 1
+speaker_1: Yeah thats a
 
-Yeah thats a
+speaker_2: Yes yes Just to summarize like whatever the pay is so try to save aggressively so that situation like this might definitely come Like we are prone to this industry we are prone to this anytime it might happen So have a good saving so that we are not in a trouble whenever such situation happen And like you said concept upscaling updating ourself is very much essential
 
-### Speaker 2
+speaker_1: Minimum rule of thumb 50 percent or more you should save
 
-Yes yes Just to summarize like whatever the pay is so try to save aggressively so that situation like this might definitely come Like we are prone to this industry we are prone to this anytime it might happen So have a good saving so that we are not in a trouble whenever such situation happen And like you said concept upscaling updating ourself is very much essential
+speaker_2: Yes yes
 
-### Speaker 1
+speaker_1: Of the net value not your gross value
 
-Minimum rule of thumb 50 percent or more you should save
+speaker_2: Yes yes
 
-### Speaker 2
+speaker_1: I know people who save 75 percent uh minimum if you are not saving that much yeah you are digging a hole for yourself because this industry will continue to see this if not this year next year after 50 years
 
-Yes yes
-
-### Speaker 1
-
-Of the net value not your gross value
-
-### Speaker 2
-
-Yes yes
-
-### Speaker 1
-
-I know people who save 75 percent uh minimum if you are not saving that much yeah you are digging a hole for yourself because this industry will continue to see this if not this year next year after 50 years
-
-### Speaker 2
-
-Yes yes And luckily I got some questions actually from people who are in 11th and 12th This is rare I dont know A lot of people will not follow me as far as I know But what theyre asking is now theyre in 12th Some are in 12th some are in 11th And they definitely deem to be in IIT and joining Amazon Google all of that Now theyre asking me a question Vasanth Should we take the engineering as our career as so many layoffs are happening So what is your advice for them So we are quite young who havent started even their engineering or computer science journey
+speaker_2: Yes yes And luckily I got some questions actually from people who are in 11th and 12th This is rare I dont know A lot of people will not follow me as far as I know But what theyre asking is now theyre in 12th Some are in 12th some are in 11th And they definitely deem to be in IIT and joining Amazon Google all of that Now theyre asking me a question Vasanth Should we take the engineering as our career as so many layoffs are happening So what is your advice for them So we are quite young who havent started even their engineering or computer science journey
 
 
 What is your advice for them
 
-### Speaker 1
-
-My younger son is in 11th now or will go into 11th I know what theyre thinking right my younger son is in third year now
+speaker_1: My younger son is in 11th now or will go into 11th I know what theyre thinking right my younger son is in third year now
 
 
 I like a as a father and elderly person I will say shut up and study dont waste your time with these nonsense questions these are cycles of economies this will happen if you are taking engineering or a certain type of engineering just because your cousin or friend or friends brother got a good job because of that that is the wrong reason to find that do you have the passion skill set knowledge interest for sustained career
@@ -537,54 +355,34 @@ I like a as a father and elderly person I will say shut up and study dont waste 
 
 then pick that area if you are picking it up just because wasanth is a fantastic you know software developer and or somebodys cousin or neighbor or neighbor
 
-### Speaker 2
+speaker_2: Exactly
 
-Exactly
-
-### Speaker 1
-
-Yes and thats
+speaker_1: Yes and thats
 
 
 If you are in 11th and 12th or any student even in engineering please evaluate what are the areas that you want to work in Those areas just find out whether they have the potential to give you a job and different job that is fine You know you will with your hard work enterprise you will make it
 
-### Speaker 2
+speaker_2: Correct correct
 
-Correct correct
+speaker_1: to change your stream because you know the layoffs are there that then I will question why do you select the stream in the first place exactly
 
-### Speaker 1
+speaker_2: Exactly yes yes
 
-to change your stream because you know the layoffs are there that then I will question why do you select the stream in the first place exactly
+speaker_1: This is very temporary this will happen every two three five years
 
-### Speaker 2
+speaker_2: Exactly
 
-Exactly yes yes
-
-### Speaker 1
-
-This is very temporary this will happen every two three five years
-
-### Speaker 2
-
-Exactly
-
-### Speaker 1
-
-Like for Ill give you one example person you will know this in your audience Three four years ago everybody and everybodys dog wanted to do data scientist course
+speaker_1: Like for Ill give you one example person you will know this in your audience Three four years ago everybody and everybodys dog wanted to do data scientist course
 
 
 Exactly
 
-### Speaker 2
-
-Yes exactly
+speaker_2: Yes exactly
 
 
 Yeah yes yes
 
-### Speaker 1
-
-Right Yes and we are supposed to name was for RPA robotic automation
+speaker_1: Right Yes and we are supposed to name was for RPA robotic automation
 
 
 All these two fields are now part of regular job
@@ -592,24 +390,16 @@ All these two fields are now part of regular job
 
 Most of course some data science courses are very good I I dont have any Im not picking these courses for any other reason but to just give an example
 
-### Speaker 2
-
-Exactly
+speaker_2: Exactly
 
 
 Exactly
 
-### Speaker 1
+speaker_1: Only in the last five years two trends have come and gone
 
-Only in the last five years two trends have come and gone
+speaker_2: Exactly yes
 
-### Speaker 2
-
-Exactly yes
-
-### Speaker 1
-
-Right So in this industry trends will come and go Exactly You have to train your skill set and work hard on it And if you are in 11th and 12th
+speaker_1: Right So in this industry trends will come and go Exactly You have to train your skill set and work hard on it And if you are in 11th and 12th
 
 
 your head down study do the board exam whatever entrance exam you are taking do it well
@@ -617,24 +407,16 @@ your head down study do the board exam whatever entrance exam you are taking do 
 
 Something to the environment and and you know teachers and dont dont become master of universe on your own chill
 
-### Speaker 2
+speaker_2: Yes yes
 
-Yes yes
+speaker_1: Thats the end
 
-### Speaker 1
-
-Thats the end
-
-### Speaker 2
-
-Yeah I also just just add on to your point if anyone the 11th and 12th following So my friends also ask non IT friends ask me wasnt why do you take up the production calls that come in the late night Or wasnt you really work just for the money you get There are all all those things that really matter But the core is basically I like the work I do the impact that we do for the lives So have a bigger aim than the money and the job So whenever you want to pursue engineering so that you stay motivated in situation like this If your whole aim of becoming engineer is just for a job
+speaker_2: Yeah I also just just add on to your point if anyone the 11th and 12th following So my friends also ask non IT friends ask me wasnt why do you take up the production calls that come in the late night Or wasnt you really work just for the money you get There are all all those things that really matter But the core is basically I like the work I do the impact that we do for the lives So have a bigger aim than the money and the job So whenever you want to pursue engineering so that you stay motivated in situation like this If your whole aim of becoming engineer is just for a job
 
 
 or a money then probably you keep getting a deviations like this and you feel whether the choice is right or not and have a bigger purpose maybe like being youtuber also if its just the money making then you will not sustain for a longer time so you need to have a bigger purpose then probably you will not feel demotivated about such things correct sir
 
-### Speaker 1
-
-Absolutely And like you very wisely said that I am one of those people who do say that before you find your passion find your profession
+speaker_1: Absolutely And like you very wisely said that I am one of those people who do say that before you find your passion find your profession
 
 
 Right So what do you want to do You will find you will start loving it You there are people who are in their end career and have not found their passion Thats fine Yeah Dont get into this bandwagon of finding your passion all the time Profession is as important as passion Exactly So many people and and while you were saying this something I remembered that you know this
@@ -645,86 +427,50 @@ You know too much emphasis given on work life balance and things like this when 
 
 know so many people including myself who grew up like that that was didnt have anything like work life balance what is this work life balance for young
 
-### Speaker 2
+speaker_2: Yes yes
 
-Yes yes
+speaker_1: And if you are taking a call at the end of the day because you want that product to go through your service to happen that is your passion that is your interest you are committed to it
 
-### Speaker 1
-
-And if you are taking a call at the end of the day because you want that product to go through your service to happen that is your passion that is your interest you are committed to it
-
-### Speaker 2
-
-Exactly
+speaker_2: Exactly
 
 
 Exactly
 
-### Speaker 1
-
-It doesnt mean that you are not committed to work life balance
+speaker_1: It doesnt mean that you are not committed to work life balance
 
 
 In many ways I feel that too much talk around work life balance is exactly
 
-### Speaker 2
+speaker_2: Exactly
 
-Exactly
+speaker_1: is spoiling youngsters that they start having realistic expectations
 
-### Speaker 1
+speaker_2: I see
 
-is spoiling youngsters that they start having realistic expectations
+speaker_1: And then when life doesnt turn out that way then of course the balance is we dont have life balance expectations for at least 10 years
 
-### Speaker 2
+speaker_2: Oh
 
-I see
+speaker_1: Exactly
 
-### Speaker 1
-
-And then when life doesnt turn out that way then of course the balance is we dont have life balance expectations for at least 10 years
-
-### Speaker 2
-
-Oh
-
-### Speaker 1
-
-Exactly
-
-### Speaker 2
-
-Exactly
+speaker_2: Exactly
 
 
 true sir what is it definitely doesnt work that way like i said the production calls when it comes you dont know but you are the one who built it so its your responsibility to fix it anytime so dont have a dream of so much work life balance like every weekend you have to go somewhere after six you will stop at least in most companies it doesnt work that way if you are expecting that in a very early career then it is not the right thing also like you mentioned
 
-### Speaker 1
+speaker_1: one later on also
 
-one later on also
+speaker_2: Yes yes
 
-### Speaker 2
+speaker_1: Im Im now in a position where I can I can say that I dont want a weekend call but sometimes I do have to take because there is a decision to be made on Monday Correct You dont prepare for half an hour on Saturday and Sunday or some of my team members are working on Saturday for four hours If I dont have 15 minutes to review their four hours of work why should they work for me
 
-Yes yes
+speaker_2: Exactly so
 
-### Speaker 1
+speaker_1: So that kind of thing is there of course um but anyway um long answer to your thought question yes
 
-Im Im now in a position where I can I can say that I dont want a weekend call but sometimes I do have to take because there is a decision to be made on Monday Correct You dont prepare for half an hour on Saturday and Sunday or some of my team members are working on Saturday for four hours If I dont have 15 minutes to review their four hours of work why should they work for me
+speaker_2: Yes yes sir We come to almost end sir like Ill ask one last question Okay So basically layoffs cannot be controlled by an individual like I and you Basically it happens at a very higher level and business investors and all of that So layoffs cannot be controlled but we can be strategically ready for such situations So its for all medium junior senior all people might face a layoffs kind of situation But is your general advice So how to be prepared for uncertain situations like this
 
-### Speaker 2
-
-Exactly so
-
-### Speaker 1
-
-So that kind of thing is there of course um but anyway um long answer to your thought question yes
-
-### Speaker 2
-
-Yes yes sir We come to almost end sir like Ill ask one last question Okay So basically layoffs cannot be controlled by an individual like I and you Basically it happens at a very higher level and business investors and all of that So layoffs cannot be controlled but we can be strategically ready for such situations So its for all medium junior senior all people might face a layoffs kind of situation But is your general advice So how to be prepared for uncertain situations like this
-
-### Speaker 1
-
-This is not very different from life Vasant because one is very clear dont limit yourself to nine to five
+speaker_1: This is not very different from life Vasant because one is very clear dont limit yourself to nine to five
 
 
 you will be chicken fodder for when layoffs happen Correct If you are not involved in you know with the team you dont you are not visible you are not interactive you are first priority for layoffs So the social aspect of working is also extremely important There are people and unfortunately because of the pandemic many people have joined the workforce and never actually been to office or never met people
@@ -750,16 +496,12 @@ social interaction at work is extremely important and um ive shared with you one
 
 Exactly
 
-### Speaker 2
-
-Exactly
+speaker_2: Exactly
 
 
 Yes So were coming to almost the end of the session sir Now like I like the overall conversation with someone senior like you Many might have liked the conversation sir So what are the right means to contact you now If somebody wants to get in touch with you if they have some questions etc Or if they want to listen more of your thoughts what are the right venues to connect with you
 
-### Speaker 1
-
-So thanks Vasant First of all I have also enjoyed this conversation because these are thoughts that we have and I do feel that Im responsible I should be responsible to share these thoughts with the larger audience and particularly people who need it Coming to your question so Im extremely active on LinkedIn which is my main expression or channel you can say I do have a YouTube channel by Manage Better
+speaker_1: So thanks Vasant First of all I have also enjoyed this conversation because these are thoughts that we have and I do feel that Im responsible I should be responsible to share these thoughts with the larger audience and particularly people who need it Coming to your question so Im extremely active on LinkedIn which is my main expression or channel you can say I do have a YouTube channel by Manage Better
 
 
 most of my work is by manage better on linkedin you can find me by my name yes uh would be easy and uh im a linkedin top voice so i do share a lot of content around career growth coaching and of course my domain which is quality transformation innovation that as well so and more in the last six months or so a lot of people have started reaching out so i do offer my time through topmate which
@@ -767,9 +509,7 @@ most of my work is by manage better on linkedin you can find me by my name yes u
 
 is also a time booking service so you can book my time if you need more uh one on one one on one kind of time then you can do i would say these are the two three ones most common one is linkedin targets
 
-### Speaker 2
-
-got it and so on so i link all the whatever the things that sir said all of that ill put in the description section youtube link ill put on the top only so please uh subscribe to his channel and follow him on linkedin ive been following quite some time and im liking the content whatever sir is making i i suggest you also to follow him in whatever the means to get the knowledge because i always believe you should follow someone who is quite senior to you not the juniors you should not follow because they have already crossed the path that you are going getting into so that they would have a lot of learnings experience cannot be purchased only it can be transferred from
+speaker_2: got it and so on so i link all the whatever the things that sir said all of that ill put in the description section youtube link ill put on the top only so please uh subscribe to his channel and follow him on linkedin ive been following quite some time and im liking the content whatever sir is making i i suggest you also to follow him in whatever the means to get the knowledge because i always believe you should follow someone who is quite senior to you not the juniors you should not follow because they have already crossed the path that you are going getting into so that they would have a lot of learnings experience cannot be purchased only it can be transferred from
 
 
 So follow this what I say
@@ -777,24 +517,16 @@ So follow this what I say
 
 Thats all said thank you nice talking to you sir have a good day
 
-### Speaker 1
-
-Yeah thank you very much and all the best to your audience and one last comment around the people since
+speaker_1: Yeah thank you very much and all the best to your audience and one last comment around the people since
 
 
 headlined the show around layoffs dont worry this happens to a lot of people you are in a very lucky position that some of the large well known companies have laid off people so everybody is looking for that talent be patient work on your skills and be confident something good will happen very soon okay all the best
 
-### Speaker 2
+speaker_2: Okay so thank you
 
-Okay so thank you
+speaker_1: Thank you very much thank you bye
 
-### Speaker 1
-
-Thank you very much thank you bye
-
-### Speaker 2
-
-What a great session it was Like I mentioned in the beginning I did not get an opportunity to interview someone like him in the past in my YouTube channel So its a great opportunity for me to interview him in my channel In case if you like the content please like the comment Please like the video and comment about whatever you felt So in case if you want more information from Anshuman Tiwari sir we have a plan to go live in my YouTube channel or also on LinkedIn So if you want such things please mention that also in the comment section so that we can plan that If you have any question that you want to ask to Anshuman Tiwari sir please mention in the comment section
+speaker_2: What a great session it was Like I mentioned in the beginning I did not get an opportunity to interview someone like him in the past in my YouTube channel So its a great opportunity for me to interview him in my channel In case if you like the content please like the comment Please like the video and comment about whatever you felt So in case if you want more information from Anshuman Tiwari sir we have a plan to go live in my YouTube channel or also on LinkedIn So if you want such things please mention that also in the comment section so that we can plan that If you have any question that you want to ask to Anshuman Tiwari sir please mention in the comment section
 
 
 section he would see the comments and answer your queries thank you so much for watching catch you next video

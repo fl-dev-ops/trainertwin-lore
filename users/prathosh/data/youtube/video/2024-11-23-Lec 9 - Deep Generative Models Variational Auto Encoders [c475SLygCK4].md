@@ -8,20 +8,17 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  speaker_1: null
+  speaker_2: null
+  speaker_3: null
+  speaker_4: null
 ---
 
 # Lec 9 - Deep Generative Models Variational Auto Encoders
 
 ## Transcript
 
-
-### Speaker 1
-
-or something
+speaker_1: or something
 
 
 So I 14th is when it is ending for the off line semester I think well have one on 16th I think that should be okay
@@ -29,13 +26,9 @@ So I 14th is when it is ending for the off line semester I think well have one o
 
 And given that you have an exam next Sunday not having a class on Saturday is okay I suppose okay well do it that way
 
-### Speaker 2
+speaker_2: No one
 
-No one
-
-### Speaker 1
-
-Shall we start today
+speaker_1: Shall we start today
 
 
 uh okay so as i said no todays um uh focus will be on the variational autoencoders or vaes okay so as a precursor uh we were looking at uh latent variable models last time correct now what are latent variable models uh these are uh models that are defined as uh okay so whenever i talk of a model
@@ -97,13 +90,9 @@ And that lower bound is given by this expression right Expectation of log of p t
 
 Any questions on this Please ensure that you understand this like right I mean then after that we will continue yeah
 
-### Speaker 2
+speaker_2: Yes so this Q of Z given X is also unknown right So how do we compute the X
 
-Yes so this Q of Z given X is also unknown right So how do we compute the X
-
-### Speaker 1
-
-I I Ill tell you Ill tell you that I still know we dont know what Q of C connect thats why I said no the look at the box item it is an optimization joint optimization over theta and Q
+speaker_1: I I Ill tell you Ill tell you that I still know we dont know what Q of C connect thats why I said no the look at the box item it is an optimization joint optimization over theta and Q
 
 
 You have to compute both theta and the cube
@@ -111,13 +100,9 @@ You have to compute both theta and the cube
 
 Theyre jointly estimated
 
-### Speaker 2
+speaker_2: Well cover that right so
 
-Well cover that right so
-
-### Speaker 1
-
-Absolutely thats exactly what well do
+speaker_1: Absolutely thats exactly what well do
 
 
 Any other questions
@@ -143,13 +128,9 @@ That is the best estimate for Q
 
 Its all right
 
-### Speaker 2
+speaker_2: I mean sir uh we we said that we would cover this in the TA session but I think last session we did not have it so maybe well cover this in the next session
 
-I mean sir uh we we said that we would cover this in the TA session but I think last session we did not have it so maybe well cover this in the next session
-
-### Speaker 1
-
-I meant is no no what I meant is what will be covered in the session is that the proof of this that optimal Q for knowing a particular I mean for given a particular theta is P theta of z given x
+speaker_1: I meant is no no what I meant is what will be covered in the session is that the proof of this that optimal Q for knowing a particular I mean for given a particular theta is P theta of z given x
 
 
 This will be covered So this is an algebraic proof But what is important is that I mean see I didnt do it in the class and I dont want to do it in the class because in VAEs and diffusion models we will not use this because in neural models we will not know what p theta of z given x is
@@ -190,16 +171,12 @@ It is
 
 Please ask questions if you have any then Im waiting
 
-### Speaker 3
-
-So in this EM algorithm which we have mentioned we are trying to find p theta of z given x
+speaker_3: So in this EM algorithm which we have mentioned we are trying to find p theta of z given x
 
 
 using the Bayes theorem so but the p theta of x given z is also unknown right
 
-### Speaker 1
-
-theta of x k x given z x given z is known no because that is a single parameter Gaussian its actually a Gaussian distribution by assumption by construction by definition
+speaker_1: theta of x k x given z x given z is known no because that is a single parameter Gaussian its actually a Gaussian distribution by assumption by construction by definition
 
 
 and I go back to the next slide
@@ -207,13 +184,9 @@ and I go back to the next slide
 
 I dont intend to like teach GMMs anyway so here now yeah that is what I have written here look at this
 
-### Speaker 3
+speaker_3: For a given z we have p theta of okay
 
-For a given z we have p theta of okay
-
-### Speaker 1
-
-Its a particular Gaussian See in a GMM the way you model the distribution you show that
+speaker_1: Its a particular Gaussian See in a GMM the way you model the distribution you show that
 
 
 This is how we model it now p theta of x is given by this linear combination of multiple Gaussians
@@ -227,13 +200,9 @@ equal to one to n
 
 e theta of z into e theta of x given z
 
-### Speaker 3
+speaker_3: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-So this it is alphas okay and this every one is a Gaussian
+speaker_1: So this it is alphas okay and this every one is a Gaussian
 
 
 With a particular let me write this the beta dot z
@@ -247,21 +216,13 @@ Alright so we do know that
 
 The conditional of X given a particular Z is a single component Gaussian
 
-### Speaker 3
+speaker_3: Understood sir
 
-Understood sir
+speaker_1: Any other question on this
 
-### Speaker 1
+speaker_2: So does it have to be a convex combination
 
-Any other question on this
-
-### Speaker 2
-
-So does it have to be a convex combination
-
-### Speaker 1
-
-in mixture model yeah yeah yeah in mixture density is always taken because the reason is uh if you look at it now alphas are distributions over discrete uh variable z isnt it
+speaker_1: in mixture model yeah yeah yeah in mixture density is always taken because the reason is uh if you look at it now alphas are distributions over discrete uh variable z isnt it
 
 
 alpha will give you a discrete also p theta of z given j is given by alpha j right which means that if we take
@@ -437,35 +398,23 @@ That is why now we say that we can do clustering using GMM right So GMM is a lat
 
 Under the hood what is happening is that you are estimating Q star of Z given X So two things can be done right One you can do sampling or generation okay which is simply the generative task that we were looking at The other thing that you can do is what is called as posterior inference that is that given a particular point X you can find out Q star of Z given X Is this okay So these are two tasks
 
-### Speaker 3
-
-So do that
+speaker_3: So do that
 
 
 Sir in the embedding case the received vector will be a one hot vector right
 
-### Speaker 1
+speaker_1: No no no no no uh I mean you mean the X you are talking about is it
 
-No no no no no uh I mean you mean the X you are talking about is it
+speaker_3: No sir um Z given A the the resulting vector
 
-### Speaker 3
-
-No sir um Z given A the the resulting vector
-
-### Speaker 1
-
-No no no it is not one one one one hot no see thats what Im saying think of an autoencoder right you have an encoder decoder model I cover all that detail in detail but Im just giving you an overview here so if you have uh like lets i mean if you know what bird embeddings mean there is a pre theres a trained model you pass it through a trained model right your x which can x can be one hot and you will you will get a particular vector at the output thats all it is
+speaker_1: No no no it is not one one one one hot no see thats what Im saying think of an autoencoder right you have an encoder decoder model I cover all that detail in detail but Im just giving you an overview here so if you have uh like lets i mean if you know what bird embeddings mean there is a pre theres a trained model you pass it through a trained model right your x which can x can be one hot and you will you will get a particular vector at the output thats all it is
 
 
 That vector is a sample from ZQ on X yeah thats your embedding
 
-### Speaker 2
+speaker_2: So why do you call it as a sample so that means uh for a given x you can get a different values of z
 
-So why do you call it as a sample so that means uh for a given x you can get a different values of z
-
-### Speaker 1
-
-The reason Im calling it as a sample is because in in in whenever the the uh the
+speaker_1: The reason Im calling it as a sample is because in in in whenever the the uh the
 
 
 Latent variables are continuous no You wont get an entire distribution over z given a particular x
@@ -479,27 +428,19 @@ Right but when Q is continuous typically typically what happens is you get a sam
 
 Any other question So two I mean remember these two things no I mean this is how the VAE paper starts also that the goal is to do two things that given data you need to first learn a latent variable model which is by maximizing the likelihood or ELBO Second task is to after you have completed your training we need to do generation okay or sampling and then we do posterior inference So let me write it in the next thing itself
 
-### Speaker 3
+speaker_3: Sir which paper is it uh what Ive I forgot the name you mentioned
 
-Sir which paper is it uh what Ive I forgot the name you mentioned
-
-### Speaker 1
-
-Are you looking at my handwritten notes
+speaker_1: Are you looking at my handwritten notes
 
 
 Because there I have like at the end of my every each notes I tell you the name of that paper but I encourage all of you to actually look at my handwritten notes its very lucidly written
 
-### Speaker 4
-
-Its very lucidly written
+speaker_4: Its very lucidly written
 
 
 Its a Kingma and Willing
 
-### Speaker 1
-
-Yeah Velling and Kings paper I tell you the name see whats important is dont digress whats important is that you all of you look at my handwritten notes at the end of my handwritten notes key papers are listed and I expect and by the way for the exams I think this is the way to make you read right there is only one way for your exams right all the papers that I have listed in my handwritten notes at the end of them they are they are a part of syllabus
+speaker_1: Yeah Velling and Kings paper I tell you the name see whats important is dont digress whats important is that you all of you look at my handwritten notes at the end of my handwritten notes key papers are listed and I expect and by the way for the exams I think this is the way to make you read right there is only one way for your exams right all the papers that I have listed in my handwritten notes at the end of them they are they are a part of syllabus
 
 
 so you are supposed to read those papers there are only four five papers per topic so please read them yeah so the name of the paper is uh vaes paper is auto encoding variational ways
@@ -567,21 +508,13 @@ Where the true posterior density p theta of z given x is intractable So the EM a
 
 That okay
 
-### Speaker 2
+speaker_2: So it is intractable because we need to do it over all values of Z or
 
-So it is intractable because we need to do it over all values of Z or
+speaker_1: Well not necessarily right I mean for instance if you assume z to be continuous variable with unknown distribution its you cannot find that integral one thing The other thing is see observe that p theta of z given x involves a division by p theta of x which is again an integral over the joint distribution and this integral is over z So if you assume z to be of very high dimensions that integral cannot also be computed
 
-### Speaker 1
+speaker_2: Okay yeah got it
 
-Well not necessarily right I mean for instance if you assume z to be continuous variable with unknown distribution its you cannot find that integral one thing The other thing is see observe that p theta of z given x involves a division by p theta of x which is again an integral over the joint distribution and this integral is over z So if you assume z to be of very high dimensions that integral cannot also be computed
-
-### Speaker 2
-
-Okay yeah got it
-
-### Speaker 1
-
-Yeah so because that is why EM cannot be used here and we need something else other than using EM Thats the prelude So please read See these are sort of seminal papers okay which are very good to read and youll gain a lot of insights I have gained a lot of insight by reading those papers as a student So please do read them I recommend all of you to read that Similarly that FGN paper
+speaker_1: Yeah so because that is why EM cannot be used here and we need something else other than using EM Thats the prelude So please read See these are sort of seminal papers okay which are very good to read and youll gain a lot of insights I have gained a lot of insight by reading those papers as a student So please do read them I recommend all of you to read that Similarly that FGN paper
 
 
 I dont know if I showed you that so we covered that no this if GAN
@@ -727,13 +660,9 @@ Is it alright
 
 Hello are you there
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-Is that alright any questions on this
+speaker_1: Is that alright any questions on this
 
 
 respond how do I know uh maybe Im not uh this is all right no yeah okay uh okay lets move on so this is
@@ -744,21 +673,13 @@ Expectation of law of
 
 theta of x given c and this is with respect to z given x minus whats the second term can can you recognize the second term
 
-### Speaker 2
+speaker_2: real divergence of QZ given
 
-real divergence of QZ given
+speaker_1: Yeah and the
 
-### Speaker 1
+speaker_2: And the end
 
-Yeah and the
-
-### Speaker 2
-
-And the end
-
-### Speaker 1
-
-The decay and divergence
+speaker_1: The decay and divergence
 
 
 between u and z given x
@@ -787,32 +708,20 @@ Now what is done in a VAE is that the first thing that you do is
 
 Approximate
 
-### Speaker 3
-
-So one question
+speaker_3: So one question
 
 
 For this to be KL divergence there should be a p theta of z term also right before log
 
-### Speaker 1
+speaker_1: should be a q of z given x term
 
-should be a q of z given x term
+speaker_3: Yes q q of z given x
 
-### Speaker 3
+speaker_1: Theres expectation is there no expectation is integral QZP is Linux log of QYP isnt it
 
-Yes q q of z given x
+speaker_3: Okay okay
 
-### Speaker 1
-
-Theres expectation is there no expectation is integral QZP is Linux log of QYP isnt it
-
-### Speaker 3
-
-Okay okay
-
-### Speaker 1
-
-It is
+speaker_1: It is
 
 
 is integral using the on X
@@ -934,13 +843,9 @@ Is a is a is a GAN generator no
 
 A GAN generator is a deterministic neural network I mean all neural networks are deterministic that way but a GAN generator is modeling the conditional data distribution in a deterministic sense So what do I mean by that I mean to say that it will give you a sample from the distribution that it is modeling but not the parameters of it
 
-### Speaker 3
+speaker_3: Sir but for a given z also lets uh this uh the sample x will be different right
 
-Sir but for a given z also lets uh this uh the sample x will be different right
-
-### Speaker 1
-
-No no no not in a in a in a in a GAN in a GAN right if you fix z it youll always get the same x no because neural networks are deterministic functions
+speaker_1: No no no not in a in a in a in a GAN in a GAN right if you fix z it youll always get the same x no because neural networks are deterministic functions
 
 
 Thats the whole point that Im trying to make See the variability in the generated data comes because Z has randomness into it right Because we know that Z typically trampled from a content distribution Thats why different Z will give you different Xs But post training a GANs generator or for that matter any neural network is a fixed function right
@@ -951,24 +856,16 @@ Given fixed input it will give you a fixed output there is no stochasticity in a
 
 Does it make sense
 
-### Speaker 2
+speaker_2: So one question so in the probabilistic way so we estimate only the parameters for only one distribution or a family of or a group of distributions
 
-So one question so in the probabilistic way so we estimate only the parameters for only one distribution or a family of or a group of distributions
-
-### Speaker 1
-
-Yeah see it is one distribution in the sense that if we are looking at Q phi of z given x right Q phi of z given x is actually Q phi of z given one particular x always isnt it
+speaker_1: Yeah see it is one distribution in the sense that if we are looking at Q phi of z given x right Q phi of z given x is actually Q phi of z given one particular x always isnt it
 
 
 This this mu and sigma will be a function of x
 
-### Speaker 4
+speaker_4: Okay
 
-Okay
-
-### Speaker 1
-
-for a particular x But if you are saying that you know the same neural network neural network is being used to estimate the Q phi of g given x for different values of x then you are estimating it for a family and thats what is happening
+speaker_1: for a particular x But if you are saying that you know the same neural network neural network is being used to estimate the Q phi of g given x for different values of x then you are estimating it for a family and thats what is happening
 
 
 Because once you try given one particular x it will give you the parameters of q phi of z given that particular x
@@ -976,13 +873,9 @@ Because once you try given one particular x it will give you the parameters of q
 
 Okay okay
 
-### Speaker 2
+speaker_2: It gener it generates a family itself right and
 
-It gener it generates a family itself right and
-
-### Speaker 1
-
-uh right i mean see uh for a given x it does not generate a family yes correct to be clear about it right when you say see there is no stochasticity associated with the neural network so for a fixed x it will give you a fixed output
+speaker_1: uh right i mean see uh for a given x it does not generate a family yes correct to be clear about it right when you say see there is no stochasticity associated with the neural network so for a fixed x it will give you a fixed output
 
 
 In the probabilistic way what will happen is that there will be that that will be seen as parameters of impact How do you do it practically is that suppose mu x is lets say that z is in some k dimensions right then what we will do is this output this neural network will have k plus k squared dimensional output now because sigma will have k squared parameters mu will have k parameters it will be k plus k squared
@@ -990,36 +883,22 @@ In the probabilistic way what will happen is that there will be that that will b
 
 stacked into a long vector that is the output So now for one x it will give you one output and that can be interpreted as the parameters of a distribution So it is modeling a family in the sense that for every x it will give you parameters corresponding to that
 
-### Speaker 2
+speaker_2: Got it
 
-Got it
+speaker_1: So Ill ask you a question now What do you think what way do you think these are the only two ways that you model that use neural networks in any task okay Here is a question What do you think a classifier a KA class classifier is doing Is it a probabilistic model or a deterministic model
 
-### Speaker 1
+speaker_2: Probably will distinct
 
-So Ill ask you a question now What do you think what way do you think these are the only two ways that you model that use neural networks in any task okay Here is a question What do you think a classifier a KA class classifier is doing Is it a probabilistic model or a deterministic model
-
-### Speaker 2
-
-Probably will distinct
-
-### Speaker 1
-
-Why do you think its a probabilistic model
+speaker_1: Why do you think its a probabilistic model
 
 
 So what is the classifier model by the way what distribution is a classifier modeling take a classifier what distribution does it model you take an x as an input what is what distribution is it modeling
 
-### Speaker 3
+speaker_3: The line
 
-The line
+speaker_2: giving the probability of the classes
 
-### Speaker 2
-
-giving the probability of the classes
-
-### Speaker 1
-
-This is what it models right
+speaker_1: This is what it models right
 
 
 All classifiers model PT top by Gionx
@@ -1039,13 +918,9 @@ Uh with
 
 probabilities P y 1 to P y 2 up to P y k So post training when you do an inference for a particular x what do you get at the output Do you get a sample from the P theta y given x or do you get parameters of P theta y given x
 
-### Speaker 2
+speaker_2: Get a sample
 
-Get a sample
-
-### Speaker 1
-
-you say so do you get one of the case that depends okay okay so here is the answer right the way to look at it is so if you look at the entire classifier suppose you take the final layer to be the argmax of logs
+speaker_1: you say so do you get one of the case that depends okay okay so here is the answer right the way to look at it is so if you look at the entire classifier suppose you take the final layer to be the argmax of logs
 
 
 Okay then it is a sample
@@ -1236,167 +1111,95 @@ Uh is this setup clear now what is happening
 
 Well have to now see how to train this or rather how to get the parameters by optimizing the elbow and also we have to see how to do generation and inference later post I mean because you remember no we had these three goals that you learn a latent variable model enable generation and enable posterior inference well see all that to be done but in terms of like architecture is all of you clear on what is happening
 
-### Speaker 2
-
-So the input to the decoder is a sample from Q of
+speaker_2: So the input to the decoder is a sample from Q of
 
 
 Uh give an example
 
-### Speaker 1
+speaker_1: of ZG on extract
 
-of ZG on extract
+speaker_2: So we indirectly use it right because uh
 
-### Speaker 2
+speaker_1: Oh we go
 
-So we indirectly use it right because uh
+speaker_2: The distribution
 
-### Speaker 1
-
-Oh we go
-
-### Speaker 2
-
-The distribution
-
-### Speaker 1
-
-Im not saying we dont use the encoder network Im saying that the output of the encoder does not go as an input to the decoder
+speaker_1: Im not saying we dont use the encoder network Im saying that the output of the encoder does not go as an input to the decoder
 
 
 I didnt say that we are not using the encoder encoder is very much used
 
-### Speaker 2
+speaker_2: but its used to only determine the parameters of the distribution and then we sample
 
-but its used to only determine the parameters of the distribution and then we sample
+speaker_1: It is using the parameters of the distribution and using those parameters you sample okay and once you sample use that sample as an input to the decoder
 
-### Speaker 1
+speaker_3: So I have one question
 
-It is using the parameters of the distribution and using those parameters you sample okay and once you sample use that sample as an input to the decoder
+speaker_1: Yeah go on
 
-### Speaker 3
+speaker_3: for q p z of x we say that is a normal distribution on the variable z with mean mu x and sigma variance sigma x so while this mu mean and variance are on the or on x they should be on z right
 
-So I have one question
-
-### Speaker 1
-
-Yeah go on
-
-### Speaker 3
-
-for q p z of x we say that is a normal distribution on the variable z with mean mu x and sigma variance sigma x so while this mu mean and variance are on the or on x they should be on z right
-
-### Speaker 1
-
-Ah no no no they are see they are okay I mean that they are functions of x see look at this now I have said that both of them lie in Rk which means that they are in these space but they are functions of x
+speaker_1: Ah no no no they are see they are okay I mean that they are functions of x see look at this now I have said that both of them lie in Rk which means that they are in these space but they are functions of x
 
 
 See when I write off something it means that there are functions
 
-### Speaker 3
+speaker_3: The pot
 
-The pot
+speaker_1: Im talking about them being function subjects
 
-### Speaker 1
+speaker_3: Okay but they are uh but they are over the Z since yeah
 
-Im talking about them being function subjects
+speaker_1: Ill look at that
 
-### Speaker 3
+speaker_3: The damage
 
-Okay but they are uh but they are over the Z since yeah
-
-### Speaker 1
-
-Ill look at that
-
-### Speaker 3
-
-The damage
-
-### Speaker 1
-
-Absolutely absolutely
+speaker_1: Absolutely absolutely
 
 
 See a neural network is taking an xi as an input no that theyre thats why its a function of x
 
-### Speaker 3
+speaker_3: part itself
 
-part itself
+speaker_1: So I mean I want all of you to like strictly understand this and clearly understand whats happening otherwise everything that we do next will not make sense So please ask me questions if you have on how this thing works I mean architecture
 
-### Speaker 1
+speaker_2: K is again a hyperparameter here or
 
-So I mean I want all of you to like strictly understand this and clearly understand whats happening otherwise everything that we do next will not make sense So please ask me questions if you have on how this thing works I mean architecture
+speaker_1: Page I have a parameter yes
 
-### Speaker 2
+speaker_4: Sorry one query here the decoder network we have found out deterministically
 
-K is again a hyperparameter here or
+speaker_1: Uh see we are just yeah yeah we have at least in this uh exam instantiation I have made this uh deterministic because I say that it gives you a sample from p data of x m c yeah
 
-### Speaker 1
+speaker_4: Does it maybe you might cover it later you can say that I mean like whether it changes when you
 
-Page I have a parameter yes
+speaker_2: it probabilistically
 
-### Speaker 4
+speaker_1: Yeah you simply get the parameters of p theta of x given z No thats all Instead of getting a sample from p theta of x given z you get parameters of p theta of x given z Then it becomes a probabilistic thing
 
-Sorry one query here the decoder network we have found out deterministically
+speaker_4: Got it then again from that parameter we again uh use that
 
-### Speaker 1
-
-Uh see we are just yeah yeah we have at least in this uh exam instantiation I have made this uh deterministic because I say that it gives you a sample from p data of x m c yeah
-
-### Speaker 4
-
-Does it maybe you might cover it later you can say that I mean like whether it changes when you
-
-### Speaker 2
-
-it probabilistically
-
-### Speaker 1
-
-Yeah you simply get the parameters of p theta of x given z No thats all Instead of getting a sample from p theta of x given z you get parameters of p theta of x given z Then it becomes a probabilistic thing
-
-### Speaker 4
-
-Got it then again from that parameter we again uh use that
-
-### Speaker 1
-
-Yeah you do sampling but typically right in a in a naive implementation of VAE the output of the decoder itself is taken as a sample from p theta of x given z
+speaker_1: Yeah you do sampling but typically right in a in a naive implementation of VAE the output of the decoder itself is taken as a sample from p theta of x given z
 
 
 But yeah so later like in the class no I will also give you one example where it is taken deterministically as well But for now let us think that it is I mean sorry the probabilistic but for now let us think that it is deterministic
 
-### Speaker 2
+speaker_2: Sure thanks
 
-Sure thanks
+speaker_1: Okay
 
-### Speaker 1
+speaker_2: Yeah sir so for a given xi the xi cap which we get from p theta might be different right Because we have a sampling step in between and that might lead to a different z i
 
-Okay
-
-### Speaker 2
-
-Yeah sir so for a given xi the xi cap which we get from p theta might be different right Because we have a sampling step in between and that might lead to a different z i
-
-### Speaker 1
-
-I am not even saying that you get uh like xi at the output of the decoder right decoder will just give you a sample from p theta which you know I have not established any relationship between xi and xi cap yet
+speaker_1: I am not even saying that you get uh like xi at the output of the decoder right decoder will just give you a sample from p theta which you know I have not established any relationship between xi and xi cap yet
 
 
 Okay if your question is you know why where is that so called quote unquote auto encoding happening here right We will see that We will see how to how does it come out okay
 
-### Speaker 4
+speaker_4: So this sampling process of lid uh from q of e right so is it like generally uh having a random sample using like like a random function
 
-So this sampling process of lid uh from q of e right so is it like generally uh having a random sample using like like a random function
+speaker_3: Yes
 
-### Speaker 3
-
-Yes
-
-### Speaker 1
-
-Yeah yeah you use the standard samplers so you can suppose if you model your q to be a Gaussian distribution then you can use that like standard random sampler for this
+speaker_1: Yeah yeah you use the standard samplers so you can suppose if you model your q to be a Gaussian distribution then you can use that like standard random sampler for this
 
 
 Okay so is the setup clear to all of you now what we should do is like with this
@@ -1470,13 +1273,9 @@ Oh my mistake okay yeah shall we take a break
 
 Uh Satya go ahead
 
-### Speaker 4
+speaker_4: Uh yes I can they can take a break I own question on the assignment
 
-Uh yes I can they can take a break I own question on the assignment
-
-### Speaker 1
-
-maybe later after the class yeah please do ask me after the class okay so now uh yeah it is 10 49 in my clock we started uh late today no 20 minutes late so lets cut down the break lets get back at 11 5 okay in 15 minutes lets come back lets come back at 11 5 and uh finish the report from my parameters so dont miss the next part of the class no its pretty important okay see you in 15 minutes then bye
+speaker_1: maybe later after the class yeah please do ask me after the class okay so now uh yeah it is 10 49 in my clock we started uh late today no 20 minutes late so lets cut down the break lets get back at 11 5 okay in 15 minutes lets come back lets come back at 11 5 and uh finish the report from my parameters so dont miss the next part of the class no its pretty important okay see you in 15 minutes then bye
 
 
 Shall we continue
@@ -1601,13 +1400,9 @@ This gradient has to be with respect to the parameter size correct
 
 is what we are seeking now let us write this down so this is equal to
 
-### Speaker 3
+speaker_3: Sir sorry to interrupt Instead of going for psi cant we straight away use the like like phi Otherwise it will be it will be a bit confusion
 
-Sir sorry to interrupt Instead of going for psi cant we straight away use the like like phi Otherwise it will be it will be a bit confusion
-
-### Speaker 1
-
-A the reason I didnt use phi was you know phi has been taken as encoder parameters I can do that
+speaker_1: A the reason I didnt use phi was you know phi has been taken as encoder parameters I can do that
 
 
 Let us keep it that way no I have written it down so let us have it that way
@@ -1846,13 +1641,9 @@ And if you do that then the expectation of the function with respect to this ran
 
 So this is what is called as reparametrization right I mean this g function is called the reparametrization function
 
-### Speaker 2
+speaker_2: How do you find this epsilon
 
-How do you find this epsilon
-
-### Speaker 1
-
-good question now that depends upon uh like in the vae paper no they give multiple ways to find this epsilon and g its not enough if you only find epsilon you need to find g also you need to find an epsilon and a g such that this happens ill give you examples of how to do this okay at least in the in the case of uh like the naive implementation of vae ill tell you how this is done okay so now this if you do this now its easy right so now um
+speaker_1: good question now that depends upon uh like in the vae paper no they give multiple ways to find this epsilon and g its not enough if you only find epsilon you need to find g also you need to find an epsilon and a g such that this happens ill give you examples of how to do this okay at least in the in the case of uh like the naive implementation of vae ill tell you how this is done okay so now this if you do this now its easy right so now um
 
 
 If we solve the problem the problem was to find the gradient of this
@@ -2082,45 +1873,25 @@ idea of VAEs because otherwise its simple right you are like maximizing the like
 
 Uh once I dont think
 
-### Speaker 2
+speaker_2: So are we saying that we are transforming the distribution that we get to either a standard normal or a uniform in this case Is that the way to see it or
 
-So are we saying that we are transforming the distribution that we get to either a standard normal or a uniform in this case Is that the way to see it or
+speaker_1: other way around no we are representing the output the distribution of the encoder okay our distribution that is being modeled by the encoder in terms of standards normal zero
 
-### Speaker 1
+speaker_2: Okay and and the transformation I mean is the g function basically right
 
-other way around no we are representing the output the distribution of the encoder okay our distribution that is being modeled by the encoder in terms of standards normal zero
+speaker_1: Transformation is a g function and thats it thats that that is a user defined function no it is nothing to do with it youre not learning it or anything it is just a user defined thing
 
-### Speaker 2
+speaker_2: And is that also the way we say that okay uh that random sampling process we eliminate and then we introduce some kind of uh a determinism here
 
-Okay and and the transformation I mean is the g function basically right
+speaker_1: No there is still sampling is happening in epsilon mc we are just re representing that in terms of some other random variable
 
-### Speaker 1
+speaker_2: Okay
 
-Transformation is a g function and thats it thats that that is a user defined function no it is nothing to do with it youre not learning it or anything it is just a user defined thing
+speaker_1: which is which is which is not a function of the see it is only to do a simple thing all we need to do is express this expectation that is there in elbow with respect to a distribution of a random variable which is independent of the parameters thats all thats all we want to do
 
-### Speaker 2
+speaker_2: Okay so so uh sampling this way uh still allows us the to flow the gradient backwards
 
-And is that also the way we say that okay uh that random sampling process we eliminate and then we introduce some kind of uh a determinism here
-
-### Speaker 1
-
-No there is still sampling is happening in epsilon mc we are just re representing that in terms of some other random variable
-
-### Speaker 2
-
-Okay
-
-### Speaker 1
-
-which is which is which is not a function of the see it is only to do a simple thing all we need to do is express this expectation that is there in elbow with respect to a distribution of a random variable which is independent of the parameters thats all thats all we want to do
-
-### Speaker 2
-
-Okay so so uh sampling this way uh still allows us the to flow the gradient backwards
-
-### Speaker 1
-
-I will show you how to do that See now I mean algebraically you are convinced that now we can express this expectation now right
+speaker_1: I will show you how to do that See now I mean algebraically you are convinced that now we can express this expectation now right
 
 
 Typically the the the distribution which is uh which you are sampling from is not now dependent on uh phi it is you you got it no
@@ -2251,13 +2022,9 @@ Because we are doing sampling right like outside of the encoder since we are doi
 
 to compute log of
 
-### Speaker 3
+speaker_3: So here we are doing it in a probabilistic approach right for the encoder
 
-So here we are doing it in a probabilistic approach right for the encoder
-
-### Speaker 1
-
-Encoder is always probabilistic
+speaker_1: Encoder is always probabilistic
 
 
 xi will give you mu and sigma once you get your mu and sigma you sample epsilon from lets call this yeah epsilon from epsilon j lets call it you sample epsilon from normal 0 1 and then they reparameterize and get m uh z js
@@ -2265,13 +2032,9 @@ xi will give you mu and sigma once you get your mu and sigma you sample epsilon 
 
 But there is
 
-### Speaker 3
+speaker_3: So there is some like so if we write it like this so there is some linear translation happening between the output of encoder and the input of decoder
 
-So there is some like so if we write it like this so there is some linear translation happening between the output of encoder and the input of decoder
-
-### Speaker 1
-
-yeah input of the yeah that is the reparameterization no in this particular case that is what i am saying if you assume your q to be normal mu sigma then this reparameterization is adaptable
+speaker_1: yeah input of the yeah that is the reparameterization no in this particular case that is what i am saying if you assume your q to be normal mu sigma then this reparameterization is adaptable
 
 
 There is no rule why this is the only way to reparameterize no Thats what Im saying Suppose you assume your to be some other distribution You just have to find an epsilon and g such that it transforms See what is important is that now this gradient right The gradient that we are computing here this will become this expectation will become independent of phi Thats all we need
@@ -2279,68 +2042,44 @@ There is no rule why this is the only way to reparameterize no Thats what Im say
 
 And for that we do reparameterization Now what sort of reparameterization you do is a design choice That depends upon what form do you assume on QP and what what epsilon will just transform what epsilon and G combination will transform that into this is the question Thats all That depends upon whatever you use
 
-### Speaker 3
+speaker_3: Okay sir
 
-Okay sir
-
-### Speaker 1
-
-Is that all right
+speaker_1: Is that all right
 
 
 Okay Uh yeah Sarvesh do you have a question
 
-### Speaker 2
+speaker_2: So in the last step one by m so there should be a gradient inside right
 
-So in the last step one by m so there should be a gradient inside right
-
-### Speaker 1
-
-as a gradient here so this will be
+speaker_1: as a gradient here so this will be
 
 
 Go on
 
-### Speaker 2
+speaker_2: So can you just repeat why that m can be taken as just one here
 
-So can you just repeat why that m can be taken as just one here
-
-### Speaker 1
-
-its that its like youre approximating this expectation by a single sample estimate thats all it can be anything uh people take it as one and also experiment i mean in your assignment ill ask you to experiment with different values of m okay but yeah so generally i mean like in the naive most naive implementation you just take one sample of z or one sample of x but it is not uh i mean its not a hard and fast right i mean you can make your m to be hyper
+speaker_1: its that its like youre approximating this expectation by a single sample estimate thats all it can be anything uh people take it as one and also experiment i mean in your assignment ill ask you to experiment with different values of m okay but yeah so generally i mean like in the naive most naive implementation you just take one sample of z or one sample of x but it is not uh i mean its not a hard and fast right i mean you can make your m to be hyper
 
 
 Ill put it on and play with it yeah
 
-### Speaker 2
+speaker_2: Because I think in this equation we say that it is an expectation so we we are free to choose the value of m here right and because
 
-Because I think in this equation we say that it is an expectation so we we are free to choose the value of m here right and because
-
-### Speaker 1
-
-And also single sample estimate is not a good way to do it yeah always
+speaker_1: And also single sample estimate is not a good way to do it yeah always
 
 
 Yeah
 
-### Speaker 3
+speaker_3: Sir I didnt follow on this part sir can you please explain once again
 
-Sir I didnt follow on this part sir can you please explain once again
-
-### Speaker 1
-
-But see here you sample for one xi goes as an input to the encoder right you get a mu and sigma Now with that mu and sigma you can sample any number of zis no for a particular xi
+speaker_1: But see here you sample for one xi goes as an input to the encoder right you get a mu and sigma Now with that mu and sigma you can sample any number of zis no for a particular xi
 
 
 Huh
 
-### Speaker 3
+speaker_3: So that is what the choice of them
 
-So that is what the choice of them
-
-### Speaker 1
-
-that is what I have represented as capital M so you sample like multiple samples from so its like for lets say X i is an image you know for a given image for one particular image you will have m different embeddings
+speaker_1: that is what I have represented as capital M so you sample like multiple samples from so its like for lets say X i is an image you know for a given image for one particular image you will have m different embeddings
 
 
 Right So that is the I mean that is the sort of advantage with a probabilistic encoder right That unlike in a BERT et cetera where for a given text sequence of tokens you only have exactly one embedding Here you can have a plethora of embeddings for a given particular input because you are modeling it probabilistically correct
@@ -2354,32 +2093,20 @@ But what I said is that some people when they implement VA you know they make th
 
 Yeah yeah
 
-### Speaker 2
+speaker_2: uh this x p theta of x given z so this x is all all xs right x1 x2 xn because of we have to maximize the likelihood of all x1 to xn
 
-uh this x p theta of x given z so this x is all all xs right x1 x2 xn because of we have to maximize the likelihood of all x1 to xn
+speaker_1: Not exactly but yeah but we are doing the entire treatment for one particular data point now see whatever we are doing now there is an outer sum on all data points you take a batch size and do it over batches
 
-### Speaker 1
+speaker_2: Yes yes
 
-Not exactly but yeah but we are doing the entire treatment for one particular data point now see whatever we are doing now there is an outer sum on all data points you take a batch size and do it over batches
-
-### Speaker 2
-
-Yes yes
-
-### Speaker 1
-
-But Im doing it for only one x right now for now Im only doing it for one x so this is actually x re
+speaker_1: But Im doing it for only one x right now for now Im only doing it for one x so this is actually x re
 
 
 And I should not be writing it as xi because its a distribution over a random variable right but what I mean to say is that only one sample is what we are doing it for which should be extended to the entire data set on a batch level
 
-### Speaker 4
+speaker_4: So like its
 
-So like its
-
-### Speaker 1
-
-Yeah yeah yeah or stochastic when you do it at the batch level because usual training no Im Im telling you how to train for one sample you can train it sample by sample or take a batch and do it doesnt matter but well see that Im I was going to say that at the end of the end of the lecture but this is only I mean all that we are doing it is for only one data point okay
+speaker_1: Yeah yeah yeah or stochastic when you do it at the batch level because usual training no Im Im telling you how to train for one sample you can train it sample by sample or take a batch and do it doesnt matter but well see that Im I was going to say that at the end of the end of the lecture but this is only I mean all that we are doing it is for only one data point okay
 
 
 Now the next question is any other questions on this If not well move on Now we have to compute this log of p theta of x k 1 z How do we compute log of p theta of x k 1 z is the question So again there are multiple ways to do it So now one way to do it is that express
@@ -2396,13 +2123,9 @@ assume p theta of x given z to be coming from a Gaussian distribution okay what 
 
 And you assume the mean okay to be equal to
 
-### Speaker 4
+speaker_4: Mm
 
-Mm
-
-### Speaker 1
-
-output of the decoder
+speaker_1: output of the decoder
 
 
 Variance to be equal to 100
@@ -2587,13 +2310,9 @@ that propagate through this operation or ZJ operation
 
 This operation
 
-### Speaker 4
+speaker_4: I mean well also have to remember this EJ that was used here right
 
-I mean well also have to remember this EJ that was used here right
-
-### Speaker 1
-
-Of course of course of course you have to save that
+speaker_1: Of course of course of course you have to save that
 
 
 all Ms you know you have to remember that is EJ so okay maybe I will write it this way to make it easier
@@ -2634,21 +2353,13 @@ So once you click this and you pass like this this is the forward pattern and th
 
 all propagation and stability
 
-### Speaker 4
+speaker_4: All this while
 
-All this while
+speaker_2: Well we dont change theta right
 
-### Speaker 2
+speaker_4: We keep the tea topic
 
-Well we dont change theta right
-
-### Speaker 4
-
-We keep the tea topic
-
-### Speaker 1
-
-we keep the theta constant to hold on i think so ill have to do it this way to ensure that what im writing is more fit you will hold on this is only for training the encoder not decoder this thing that is this epsilon
+speaker_1: we keep the theta constant to hold on i think so ill have to do it this way to ensure that what im writing is more fit you will hold on this is only for training the encoder not decoder this thing that is this epsilon
 
 
 Okay we know what that Ill Ill Ill write it you know what
@@ -2683,51 +2394,31 @@ I see a hand raised Harish so uh we get m gradients by back propagating uh
 
 Sorry I didnt follow can you repeat it was yeah
 
-### Speaker 3
+speaker_3: Yeah sorry So we get M gradients right While we since we have
 
-Yeah sorry So we get M gradients right While we since we have
+speaker_1: No no one one one gradient No no one gradient See what happens is you take M of Zs right You pass all those through the decoder and you get M X J caps correct
 
-### Speaker 1
+speaker_3: One one one
 
-No no one one one gradient No no one gradient See what happens is you take M of Zs right You pass all those through the decoder and you get M X J caps correct
+speaker_1: So you compute this this entire thing or this thing right you take the difference with all each of them individually and sum them off So that will be one scalar that will be one scalar
 
-### Speaker 3
+speaker_3: So we are summing up it at the end
 
-One one one
-
-### Speaker 1
-
-So you compute this this entire thing or this thing right you take the difference with all each of them individually and sum them off So that will be one scalar that will be one scalar
-
-### Speaker 3
-
-So we are summing up it at the end
-
-### Speaker 1
-
-not one M so it is like M different outputs you take the difference between them and you sum and then it will be one scalar that you backpropagate
+speaker_1: not one M so it is like M different outputs you take the difference between them and you sum and then it will be one scalar that you backpropagate
 
 
 Any other question See your second assignment will have this to be implemented So yeah I think this should be clear So let me know if you have any other questions on this
 
-### Speaker 3
+speaker_3: So why do we need to get a scalar sum at the decoder output like we have m different xjs and we can you know like compute the loss
 
-So why do we need to get a scalar sum at the decoder output like we have m different xjs and we can you know like compute the loss
-
-### Speaker 1
-
-See look at what is doing so we should not deviate from math so what is happening is we need to compute the expectation of q p of z given x for a particular x for 1 x
+speaker_1: See look at what is doing so we should not deviate from math so what is happening is we need to compute the expectation of q p of z given x for a particular x for 1 x
 
 
 We represented that in terms of an expectation over another random variable So expectation has to be computed and back propagated You understand So you have to compute the expectation of sample averages and the output of the decoder and you get one scalar that would be back propagated
 
-### Speaker 3
+speaker_3: expectation of the sample average is and
 
-expectation of the sample average is and
-
-### Speaker 1
-
-Isnt it So this is look at this equation this equation is what we are trying to back propagate isnt it Thats the first term in elbow
+speaker_1: Isnt it So this is look at this equation this equation is what we are trying to back propagate isnt it Thats the first term in elbow
 
 
 So this is for a given x So for a given x you need to compute the expectation of that log likelihood with respect to q p of z given x for a particular x And that will be represented as an expectation over epsilon okay which is a sum over all m samples So we have to pass all those to the decoder compute this and then take a scalar and then backprop
@@ -2735,17 +2426,11 @@ So this is for a given x So for a given x you need to compute the expectation of
 
 Youre gonna have to make him
 
-### Speaker 2
+speaker_2: There was a second term for elbow right
 
-There was a second term for elbow right
+speaker_4: Does not contribute
 
-### Speaker 4
-
-Does not contribute
-
-### Speaker 1
-
-I see this one thing at a time that Im only doing lets see look at what we are doing but forget what we are doing
+speaker_1: I see this one thing at a time that Im only doing lets see look at what we are doing but forget what we are doing
 
 
 Look at this
@@ -2753,17 +2438,11 @@ Look at this
 
 All this is for the first term the gradient of the encoder parameters with respect to the first term Theres a story for the second term and both of the terms for the decoder We have to still come one thing at a time
 
-### Speaker 2
+speaker_2: This is not the complete gradient
 
-This is not the complete gradient
+speaker_4: Can we fall back
 
-### Speaker 4
-
-Can we fall back
-
-### Speaker 1
-
-are not no we are not completely its only the first term that to the encoded parameters right so if you have questions on see this is the most complicated thing the rest are actually easy its just simply training a neural network this is the most thats why i took the most complicated thing the first and then we will go one thing at a time okay um any any other questions on this lets move on so now this second now we have to compute the
+speaker_1: are not no we are not completely its only the first term that to the encoded parameters right so if you have questions on see this is the most complicated thing the rest are actually easy its just simply training a neural network this is the most thats why i took the most complicated thing the first and then we will go one thing at a time okay um any any other questions on this lets move on so now this second now we have to compute the
 
 
 To compute the gradients
@@ -2858,13 +2537,9 @@ It is encoder decoder thing write it again
 
 X I Q P of
 
-### Speaker 3
+speaker_3: Is it square of norm or just the norm
 
-Is it square of norm or just the norm
-
-### Speaker 1
-
-I think it should be square square yeah
+speaker_1: I think it should be square square yeah
 
 
 you have
@@ -2986,70 +2661,42 @@ like 30 percent of the net class and next we will go to diffusion models which a
 
 So please go through the class notes and also my handwritten notes and read the VAE paper and be thorough with all this before coming to the next class so that it will be easier for studying diffusion models and so on
 
-### Speaker 3
+speaker_3: Sir one question
 
-Sir one question
+speaker_1: Yes
 
-### Speaker 1
+speaker_3: So the first the first KL term that will be used to update both the encoder as well as decoder right like in the same path
 
-Yes
-
-### Speaker 3
-
-So the first the first KL term that will be used to update both the encoder as well as decoder right like in the same path
-
-### Speaker 1
-
-So hold on there is no first term is not the KL term the second term is the KL term
+speaker_1: So hold on there is no first term is not the KL term the second term is the KL term
 
 
 So you just said path care term there is no sorry sorry I mean I mean
 
-### Speaker 3
+speaker_3: Sorry sorry I mean I mean I mean in in the overall equation the first
 
-Sorry sorry I mean I mean I mean in in the overall equation the first
-
-### Speaker 1
-
-Oh shit you got em
+speaker_1: Oh shit you got em
 
 
 reconstruction term it is called okay the reconstruction term is used to uh update both encoder and decoder but when you are training the encoder you keep the decoder parameters fixed and vice versa
 
-### Speaker 3
+speaker_3: So cant we like so does that mean in in in one pass we cannot update encoder and decoder simultaneously
 
-So cant we like so does that mean in in in one pass we cannot update encoder and decoder simultaneously
-
-### Speaker 1
-
-How do you do it No see you have to do take two gradient passes I wrote the equation also right here here yeah this is how you do it first you have an encoder update and then a decoder update
+speaker_1: How do you do it No see you have to do take two gradient passes I wrote the equation also right here here yeah this is how you do it first you have an encoder update and then a decoder update
 
 
 Right So when you train the encoder you keep the decoder parameters fixed and vice versa
 
-### Speaker 4
+speaker_4: I I had a question on the assignment is this the
 
-I I had a question on the assignment is this the
+speaker_1: Yeah let me just any any questions on the class before we go to the assignments
 
-### Speaker 1
+speaker_2: Yeah so I had one question so for example in tr during this training right I mean we start with the decoder training first or the encoder training first I mean in fact
 
-Yeah let me just any any questions on the class before we go to the assignments
+speaker_1: All right it doesnt matter doesnt matter doesnt matter you just train one one one pass of encoder one pass of decoder that finishes one training yeah
 
-### Speaker 2
+speaker_2: And any thoughts on the uh uh the convergence I mean how well this converges compared to say
 
-Yeah so I had one question so for example in tr during this training right I mean we start with the decoder training first or the encoder training first I mean in fact
-
-### Speaker 1
-
-All right it doesnt matter doesnt matter doesnt matter you just train one one one pass of encoder one pass of decoder that finishes one training yeah
-
-### Speaker 2
-
-And any thoughts on the uh uh the convergence I mean how well this converges compared to say
-
-### Speaker 1
-
-Yeah this will very nicely convert there is no adversarial training that is happening here no
+speaker_1: Yeah this will very nicely convert there is no adversarial training that is happening here no
 
 
 Unlike in a GAN there is no there is no min max there is no I mean encoder is not adversary to the decoder right they are both working towards the same objective
@@ -3057,222 +2704,118 @@ Unlike in a GAN there is no there is no min max there is no I mean encoder is no
 
 VAEs are known to converge much much better than VAEs because there is no adversary saddle point problem there is no saddle point problem
 
-### Speaker 4
+speaker_4: I understood thank you
 
-I understood thank you
+speaker_1: Okay uh yeah Questions on assignment you said yeah go on
 
-### Speaker 1
+speaker_2: Yeah so sir uh as uh I understood it maybe Im wrong
 
-Okay uh yeah Questions on assignment you said yeah go on
+speaker_1: One ago we are doing with
 
-### Speaker 2
+speaker_2: We are doing with uh
 
-Yeah so sir uh as uh I understood it maybe Im wrong
+speaker_1: Sorry can you make it quick I have another class at twelve thirty so yeah yeah
 
-### Speaker 1
+speaker_2: Yeah yeah good question sure So one and two anyway we are doing with butterfly and rest all the animal data set right So anyway we have to retrain the model with animal So for the butterfly one can we go with our independence of freedom like choosing our laws and
 
-One ago we are doing with
+speaker_3: etc
 
-### Speaker 2
+speaker_2: right because or anyway we have to we are doing all this condition like usual loss double gel loss
 
-We are doing with uh
+speaker_1: Arijit hold on What is your precise question Please ask me your precise question I can understand the question
 
-### Speaker 1
+speaker_2: Okay uh then let me do one thing let me watch
 
-Sorry can you make it quick I have another class at twelve thirty so yeah yeah
+speaker_3: Okay that would be better I think you have a class
 
-### Speaker 2
+speaker_1: Right okay you can ask me the question I still have five minutes ask me the
 
-Yeah yeah good question sure So one and two anyway we are doing with butterfly and rest all the animal data set right So anyway we have to retrain the model with animal So for the butterfly one can we go with our independence of freedom like choosing our laws and
+speaker_2: So I I
 
-### Speaker 3
+speaker_1: I want to say
 
-etc
+speaker_2: Yeah so the butterfly dataset one which we are doing one and two I can use any loss of my choice right I mean for example WGAN or all there is no foundation there Only the conditions are applied for the animal dataset which again anyway we have to retrain the model
 
-### Speaker 2
+speaker_1: Again what is your question here I I I so no
 
-right because or anyway we have to we are doing all this condition like usual loss double gel loss
+speaker_4: No I mean as a butterfly one we have the freedom to use any loss function or anything
 
-### Speaker 1
+speaker_1: Gan you always use one loss function right which is that saddle point problem what is the other loss function that you would use
 
-Arijit hold on What is your precise question Please ask me your precise question I can understand the question
+speaker_2: Because uh no because uh there is a I mean we can use DC loss etc right also
 
-### Speaker 2
+speaker_1: For a DCGAN loss does not change only the architecture changes no
 
-Okay uh then let me do one thing let me watch
+speaker_3: Yes yes right
 
-### Speaker 3
+speaker_1: Are you asking whether you can use an MLP for butterfly Is that what the question is
 
-Okay that would be better I think you have a class
+speaker_3: Yes kind of
 
-### Speaker 1
+speaker_1: So yeah you can use anything See but again thats why Im asking you that please if you if you make your question precise the answer can be given precisely
 
-Right okay you can ask me the question I still have five minutes ask me the
+speaker_2: Uh okay I think uh I will ask you separately then uh I mean
 
-### Speaker 2
+speaker_1: So think about it and lets keep on yeah
 
-So I I
+speaker_3: Yeah
 
-### Speaker 1
+speaker_1: Ah yes yes
 
-I want to say
+speaker_3: Yes yes sure
 
-### Speaker 2
+speaker_4: Thanks buddy
 
-Yeah so the butterfly dataset one which we are doing one and two I can use any loss of my choice right I mean for example WGAN or all there is no foundation there Only the conditions are applied for the animal dataset which again anyway we have to retrain the model
+speaker_3: Sir just to confirm next week we are not having a class and also we wont be having a quiz right like every alternate week
 
-### Speaker 1
+speaker_1: You are
 
-Again what is your question here I I I so no
+speaker_3: We were supposed to have a voice
 
-### Speaker 4
-
-No I mean as a butterfly one we have the freedom to use any loss function or anything
-
-### Speaker 1
-
-Gan you always use one loss function right which is that saddle point problem what is the other loss function that you would use
-
-### Speaker 2
-
-Because uh no because uh there is a I mean we can use DC loss etc right also
-
-### Speaker 1
-
-For a DCGAN loss does not change only the architecture changes no
-
-### Speaker 3
-
-Yes yes right
-
-### Speaker 1
-
-Are you asking whether you can use an MLP for butterfly Is that what the question is
-
-### Speaker 3
-
-Yes kind of
-
-### Speaker 1
-
-So yeah you can use anything See but again thats why Im asking you that please if you if you make your question precise the answer can be given precisely
-
-### Speaker 2
-
-Uh okay I think uh I will ask you separately then uh I mean
-
-### Speaker 1
-
-So think about it and lets keep on yeah
-
-### Speaker 3
-
-Yeah
-
-### Speaker 1
-
-Ah yes yes
-
-### Speaker 3
-
-Yes yes sure
-
-### Speaker 4
-
-Thanks buddy
-
-### Speaker 3
-
-Sir just to confirm next week we are not having a class and also we wont be having a quiz right like every alternate week
-
-### Speaker 1
-
-You are
-
-### Speaker 3
-
-We were supposed to have a voice
-
-### Speaker 1
-
-it correct correct so the schedule will change so the quiz will be the week next afterwards correct
+speaker_1: it correct correct so the schedule will change so the quiz will be the week next afterwards correct
 
 
 see on that note no like happy to serve out all of you yeah
 
-### Speaker 3
+speaker_3: So
 
-So
+speaker_4: So I have two questions in the assignment One is that we had mentioned is the decoder network for the eighth and ninth question right So we discussed the decoder network only in the VAE so is it similar to something that you are to use something like beyond
 
-### Speaker 4
-
-So I have two questions in the assignment One is that we had mentioned is the decoder network for the eighth and ninth question right So we discussed the decoder network only in the VAE so is it similar to something that you are to use something like beyond
-
-### Speaker 1
-
-Yeah yes correct So Ive precisely told you what to do right You train another network See when you are training the GAN just have another network which will take the generated image and just gives back the input noise And you can take an MSE between them and train it together
+speaker_1: Yeah yes correct So Ive precisely told you what to do right You train another network See when you are training the GAN just have another network which will take the generated image and just gives back the input noise And you can take an MSE between them and train it together
 
 
 Along with D along with
 
-### Speaker 4
+speaker_4: Oh indeed
 
-Oh indeed
+speaker_1: along with the adversarial objective
 
-### Speaker 1
+speaker_4: Okay I think thats the same follow up question on Tolteque So yeah we mentioned that use the augmented images
 
-along with the adversarial objective
+speaker_2: the training right so is it only augmented image we got to use or we got existing original and augmented together and we got to pass it together
 
-### Speaker 4
+speaker_1: Whenever you are taking augmented images you should always take the original plus augmented You should not give away the original thing Original images rotated with two three angles right And that would be your data set will increase by three four times Yeah
 
-Okay I think thats the same follow up question on Tolteque So yeah we mentioned that use the augmented images
-
-### Speaker 2
-
-the training right so is it only augmented image we got to use or we got existing original and augmented together and we got to pass it together
-
-### Speaker 1
-
-Whenever you are taking augmented images you should always take the original plus augmented You should not give away the original thing Original images rotated with two three angles right And that would be your data set will increase by three four times Yeah
-
-### Speaker 4
-
-I mean I dont know
+speaker_4: I mean I dont know
 
 
 Uh sorry sorry one more thing so this you mentioned the two inputs to be used right in this uh later stage so it is a say uh
 
-### Speaker 2
+speaker_2: same distribution or the different distribution with the two inputs in the machine
 
-same distribution or the different distribution with the two inputs in the machine
+speaker_1: What do you mean to protect
 
-### Speaker 1
+speaker_4: We input our test
 
-What do you mean to protect
+speaker_2: As a vector questing randomly sampling two input vectors
 
-### Speaker 4
+speaker_1: Yeah thats yeah thats
 
-We input our test
+speaker_4: Yeah thats cool
 
-### Speaker 2
+speaker_1: same distribution right i mean in a gann like a sample you will only sample from the same distribution at the input otherwise sample from different distributions will yeah
 
-As a vector questing randomly sampling two input vectors
-
-### Speaker 1
-
-Yeah thats yeah thats
-
-### Speaker 4
-
-Yeah thats cool
-
-### Speaker 1
-
-same distribution right i mean in a gann like a sample you will only sample from the same distribution at the input otherwise sample from different distributions will yeah
-
-### Speaker 4
-
-I like the sound
+speaker_4: I like the sound
 
 
 Uh sample from okay
@@ -3280,33 +2823,19 @@ Uh sample from okay
 
 Okay okay so its a Z only we are using we have to do the two tool times we have to take the two input
 
-### Speaker 1
+speaker_1: Yeah take two zs pass it through the input generator and then interpolate between them and observe what happens at the output okay
 
-Yeah take two zs pass it through the input generator and then interpolate between them and observe what happens at the output okay
+speaker_2: Okay
 
-### Speaker 2
+speaker_1: Got it
 
-Okay
+speaker_2: Sorry about the exam so portions till this time uh including the references that you have mixed in your handwritten notes and all the glasses thats what we should be expecting right
 
-### Speaker 1
+speaker_1: You can be expecting
 
-Got it
+speaker_2: And like it would be a theory only and mostly derivations would be involved Just want to know the type of queries that we should be preparing
 
-### Speaker 2
-
-Sorry about the exam so portions till this time uh including the references that you have mixed in your handwritten notes and all the glasses thats what we should be expecting right
-
-### Speaker 1
-
-You can be expecting
-
-### Speaker 2
-
-And like it would be a theory only and mostly derivations would be involved Just want to know the type of queries that we should be preparing
-
-### Speaker 1
-
-I have not I have not said the question please forget so it will be it will involve some math okay it will I will not be asking the questions like differentiate between GANs and VAEs thats not how it will be it will be like some thought provoking and you have to do you have to practice math okay
+speaker_1: I have not I have not said the question please forget so it will be it will involve some math okay it will I will not be asking the questions like differentiate between GANs and VAEs thats not how it will be it will be like some thought provoking and you have to do you have to practice math okay
 
 
 Itll not be descriptive Ill not be asking you to like describe how GAN works and all that no definitely not okay
@@ -3317,32 +2846,20 @@ Okay so see feel free to like ping on that WhatsApp group or teams and get in to
 
 And you can always ask me questions as well Yeah And all the best for your exam I will give you details the instructions on how the exam would be and all that Once I complete the question paper which is like Ill do it the mid next week And once I do that Ill tell you like what the instructions are and so on Okay
 
-### Speaker 2
+speaker_2: Okay
 
-Okay
+speaker_1: But yeah anytime you think
 
-### Speaker 1
+speaker_2: sorry should we be like looking into the previous year model paper if you have any like whatever the paper you had
 
-But yeah anytime you think
-
-### Speaker 2
-
-sorry should we be like looking into the previous year model paper if you have any like whatever the paper you had
-
-### Speaker 1
-
-dont know where it is it should be there somewhere i dont know where its it where is it dont worry i dont worry too much its fine yeah
+speaker_1: dont know where it is it should be there somewhere i dont know where its it where is it dont worry i dont worry too much its fine yeah
 
 
 Okay see you then all the best
 
-### Speaker 2
+speaker_2: Yes sir
 
-Yes sir
-
-### Speaker 1
-
-Thanks
+speaker_1: Thanks
 
 
 Have a nice week

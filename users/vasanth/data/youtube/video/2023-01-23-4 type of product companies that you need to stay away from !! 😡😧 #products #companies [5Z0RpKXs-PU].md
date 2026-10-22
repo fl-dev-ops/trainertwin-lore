@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,17 +19,11 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+speaker_1: but its very simple all those companies who fired the associates in 2022 across the world theyre all loss making companies there are two types of companies depending on the technology one is tech driven company another one is a tech enabled company okay let me tell you what is tech driven company microsoft and google theyre all tech driven companies so they dont have a lot of hardware devices to sell theyre mainly mainly a software driven company so core of their business runs
 
-but its very simple all those companies who fired the associates in 2022 across the world theyre all loss making companies there are two types of companies depending on the technology one is tech driven company another one is a tech enabled company okay let me tell you what is tech driven company microsoft and google theyre all tech driven companies so they dont have a lot of hardware devices to sell theyre mainly mainly a software driven company so core of their business runs
+speaker_2: Welcome back to uncommon geeks myself Fashtamp I hope you all doing well
 
-### Speaker 2
-
-Welcome back to uncommon geeks myself Fashtamp I hope you all doing well
-
-### Speaker 1
-
-In case if you are seeing me first time on the internet I am a content creator I help people to clear their interview I made a lot of series in the past which is specifically on the interview preparation I have got a lot of appreciation and so many people cleared interview by watching my series I will link those series somewhere on the screen also in the description section If you have not already seen them I would highly advise please go ahead and check them out Okay Now without wasting further time lets get started with the topic of today So what type of product companies you should not be joining Okay Why this is very very relevant
+speaker_1: In case if you are seeing me first time on the internet I am a content creator I help people to clear their interview I made a lot of series in the past which is specifically on the interview preparation I have got a lot of appreciation and so many people cleared interview by watching my series I will link those series somewhere on the screen also in the description section If you have not already seen them I would highly advise please go ahead and check them out Okay Now without wasting further time lets get started with the topic of today So what type of product companies you should not be joining Okay Why this is very very relevant
 
 
 question now ill tell you see in 2021 thats the last year so many product companies hired a good number of engineers okay good number of why i mean 2021 was 2020 was not so aggressive hiring 2021 was a very very aggressive hiring so many engineers people who are getting 3 lakh 5 lakh started getting 15 lakh and 20 lakh ctc okay so this created a new age group of influencers on linkedin youtube instagram everywhere who joined from service companies like infosys cognizant vpro to

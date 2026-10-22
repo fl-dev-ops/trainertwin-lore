@@ -9,8 +9,8 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -19,9 +19,7 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Find random
+speaker_1: Find random
 
 
 Random number
@@ -29,13 +27,9 @@ Random number
 
 random number between min and max See it is giving you a range between min and max and the what is the random number that you can generate So again you can do try calling this find find random number between 1 and 10 and if you
 
-### Speaker 2
+speaker_2: Welcome back to Uncommon Geeks myself Fasant I hope
 
-Welcome back to Uncommon Geeks myself Fasant I hope
-
-### Speaker 1
-
-youre all doing well in case if you are seeing me for the first time on the internet im a content creator i help people to clear their interview i have created a lot of beautiful series in the past where a lot of people got benefit from it and it has helped in their interview so im going to put those links in the description along with helping people to clear their interview i also make a lot of videos about the upcoming tech which is helpful for the developers to save their valuable time also definitely helps in their interview preparation okay so today i have come with a very very hot topic which has been a recent phenomenon or i can say recent a change that is blowing the
+speaker_1: youre all doing well in case if you are seeing me for the first time on the internet im a content creator i help people to clear their interview i have created a lot of beautiful series in the past where a lot of people got benefit from it and it has helped in their interview so im going to put those links in the description along with helping people to clear their interview i also make a lot of videos about the upcoming tech which is helpful for the developers to save their valuable time also definitely helps in their interview preparation okay so today i have come with a very very hot topic which has been a recent phenomenon or i can say recent a change that is blowing the
 
 
 Okay so that is GitHub Copilot So GitHub Copilot has been available in the market for the quite some time but it is finally open to all on June 21st 2022 Okay it is just close to one one and a half week that the thing has been happened and Im making a video for you to explain everything So if you are someone who already know what is GitHub Copilot but how to download install it on a Visual Studio or any other editor Im gonna tell that So if you are someone who dont know what is GitHub Copilot and what are the advantages of it that also Im gonna tell

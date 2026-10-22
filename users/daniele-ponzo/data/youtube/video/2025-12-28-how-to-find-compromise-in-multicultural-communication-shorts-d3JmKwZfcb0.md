@@ -17,8 +17,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -26,22 +26,12 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: I mean there is always there is always a way to find a compromise even even when it comes to technical details but at the same time you know uh if everybody is aware that theres the communication style and and it doesnt really affect private life Its just something that stays in the meeting room uh then its perfect
 
-I mean there is always there is always a way to find a compromise even even when it comes to technical details but at the same time you know uh if everybody is aware that theres the communication style and and it doesnt really affect private life Its just something that stays in the meeting room uh then its perfect
+speaker_2: And then it did it stayed in the meeting room and when we were outside the meeting room we could have fun with each other And what happens on the field stays on the field
 
-### Speaker 2 · Speaker 2
+speaker_1: Yeah
 
-And then it did it stayed in the meeting room and when we were outside the meeting room we could have fun with each other And what happens on the field stays on the field
+speaker_2: But after the games like yeah you played a good game
 
-### Speaker 1 · Speaker 1
-
-Yeah
-
-### Speaker 2 · Speaker 2
-
-But after the games like yeah you played a good game
-
-### Speaker 1 · Speaker 1
-
-Exactly Fair play
+speaker_1: Exactly Fair play

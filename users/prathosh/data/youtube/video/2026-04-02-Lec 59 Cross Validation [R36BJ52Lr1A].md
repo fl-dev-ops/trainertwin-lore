@@ -6,14 +6,15 @@ date: '2026-04-02'
 duration: 12:26
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 59 Cross Validation
 
 ## Transcript
 
-
-Welcome everyone to this course
+speaker_1: Welcome everyone to this course
 So now since we have written the
 summations
 WIC

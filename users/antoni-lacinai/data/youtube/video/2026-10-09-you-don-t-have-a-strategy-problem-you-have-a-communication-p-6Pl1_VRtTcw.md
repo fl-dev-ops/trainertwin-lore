@@ -34,7 +34,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -42,6 +42,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-You dont have a strategy problem You have a communication problem dressed in a strategy suit And I call this the clarity gap So what we need to do what you need to do of course also is to close that gap as much as possible I guess one way is that the top executives shares the same message to everyone at the same time because then you have you know bypassed the whispering game But just because everyone hears it at the same time doesnt mean that everyone understands it the same way There still has to be a common understanding And of course the longer the message the harder it is
+speaker_1: You dont have a strategy problem You have a communication problem dressed in a strategy suit And I call this the clarity gap So what we need to do what you need to do of course also is to close that gap as much as possible I guess one way is that the top executives shares the same message to everyone at the same time because then you have you know bypassed the whispering game But just because everyone hears it at the same time doesnt mean that everyone understands it the same way There still has to be a common understanding And of course the longer the message the harder it is

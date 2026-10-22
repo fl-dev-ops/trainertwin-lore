@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-गोप्यवूचुः
+speaker_1: गोप्यवूचुः
 जयति ते अधिकं जन्मनाव्रजश्रयत इन्दिरा साधु तत्र हि
 दैतदृश्यतां त्वान्दिदृक्षतां त्वयिगता सवस्त्वां विचिन्वते
 

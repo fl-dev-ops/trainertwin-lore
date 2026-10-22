@@ -8,7 +8,7 @@ model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 language: sa-IN
 content: recitation
 ---
@@ -17,10 +17,7 @@ content: recitation
 
 ## Transcript
 
-
-### Speaker 1
-
-राजोवाच
+speaker_1: राजोवाच
 समः प्रियः सुहृद्ब्रह्मन् भूतानां भगवान् स्वयम्
 इन्द्रस्यार्थे कथं दैत्यानवधीद्विषमो यथा
 

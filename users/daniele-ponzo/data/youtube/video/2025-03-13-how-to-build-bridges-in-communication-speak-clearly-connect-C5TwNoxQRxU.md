@@ -24,8 +24,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -33,18 +33,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Thats the only way the only possible way you can build a bridge And in communication it works exactly in the same way And I mean this is why I always tell people look okay I know you are not confident but at the end of the day we all want to communicate you know And
 
-Thats the only way the only possible way you can build a bridge And in communication it works exactly in the same way And I mean this is why I always tell people look okay I know you are not confident but at the end of the day we all want to communicate you know And
+speaker_2: Exactly
 
-### Speaker 2 · Speaker 2
+speaker_1: there is no well there is pressure of course because we want to get a message across but at the same time you know should be like mutual interest uh having a fruitful conversation you know This is the way I see it
 
-Exactly
-
-### Speaker 1 · Speaker 1
-
-there is no well there is pressure of course because we want to get a message across but at the same time you know should be like mutual interest uh having a fruitful conversation you know This is the way I see it
-
-### Speaker 2 · Speaker 2
-
-The listener should want to receive your message and you should want to provide a message to your listener and vice versa obviously See I have this professor uh Herbert Simon Nobel Laureate Hes the father of AI uh many consider
+speaker_2: The listener should want to receive your message and you should want to provide a message to your listener and vice versa obviously See I have this professor uh Herbert Simon Nobel Laureate Hes the father of AI uh many consider

@@ -22,8 +22,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -31,10 +31,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Italian is a tough language I agree with you It is
 
-Italian is a tough language I agree with you It is
-
-### Speaker 2 · Speaker 2
-
-So that thats thats good If I do have the time I would pursue a even higher but I do need to um get some sort of formal education somehow especially if I want to improve my writing And um with enough money
+speaker_2: So that thats thats good If I do have the time I would pursue a even higher but I do need to um get some sort of formal education somehow especially if I want to improve my writing And um with enough money

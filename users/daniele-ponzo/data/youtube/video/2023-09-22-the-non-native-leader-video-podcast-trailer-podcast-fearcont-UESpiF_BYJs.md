@@ -40,7 +40,8 @@ author: DanielePonzo
 model: gemini-2.5-flash
 transcript: true
 speaker_count: 0
-speakers: {}
+speakers:
+  speaker_1: null
 ---
 
 
@@ -48,4 +49,4 @@ speakers: {}
 
 ## Transcript
 
- No spoken dialogue detected
+speaker_1:  No spoken dialogue detected

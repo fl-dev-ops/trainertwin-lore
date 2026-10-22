@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,6 +17,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-I dont know how is it for you guys but for me the most difficult is to stay in this uncertainty And you know I tricked my brain Now I see uncertainty as excitement as interest Im interested how this day gonna go because believe me before we knew exactly whats gonna happen Sunday and then its gonna be Monday youre gonna work youre gonna do this Now every day is exciting fear and excitement just two sides of the same coin
+speaker_1: I dont know how is it for you guys but for me the most difficult is to stay in this uncertainty And you know I tricked my brain Now I see uncertainty as excitement as interest Im interested how this day gonna go because believe me before we knew exactly whats gonna happen Sunday and then its gonna be Monday youre gonna work youre gonna do this Now every day is exciting fear and excitement just two sides of the same coin

@@ -11,7 +11,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -19,6 +19,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-What if they cry You have to recognize that theyre not upset They are simply experiencing a physical manifestation of the emotional content of the neural pathway that they are currently accessing Do you want me to say that one again Theyre experiencing a physical manifestation of the emotional content of the neural pathway they are accessing
+speaker_1: What if they cry You have to recognize that theyre not upset They are simply experiencing a physical manifestation of the emotional content of the neural pathway that they are currently accessing Do you want me to say that one again Theyre experiencing a physical manifestation of the emotional content of the neural pathway they are accessing

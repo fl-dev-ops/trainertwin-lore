@@ -6,14 +6,15 @@ date: '2026-01-28'
 duration: 17:56
 model: youtube-captions (en-orig)
 transcript: true
+speakers:
+  speaker_1: null
 ---
 
 # Lec 11 Entropy
 
 ## Transcript
 
-
-So welcome to this uh new class on
+speaker_1: So welcome to this uh new class on
 mathematical foundations of machine
 learning
 A bit of recap We last time cast the

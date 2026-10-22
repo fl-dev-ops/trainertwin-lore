@@ -11,7 +11,7 @@ transcript: true
 model: universal-3-5-pro
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 ## Caption
@@ -19,7 +19,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-So the idea is twofold. You can have fully asynchronous learning. So I've developed a gradual 18 months of work which just says, spend an hour a week. That's all. One hour a week. You get a short video which introduces a new thing. Study that a few times and figure out What could I apply next week with my clients? And then to your point on reflection, next week, first thing you do is look back and go, so how did that work? What questions have I got? And what am I learning from my new piece this week? So every week you get a little new piece of knowledge that you can go and apply.
-
+speaker_1: So the idea is twofold. You can have fully asynchronous learning. So I've developed a gradual 18 months of work which just says, spend an hour a week. That's all. One hour a week. You get a short video which introduces a new thing. Study that a few times and figure out What could I apply next week with my clients? And then to your point on reflection, next week, first thing you do is look back and go, so how did that work? What questions have I got? And what am I learning from my new piece this week? So every week you get a little new piece of knowledge that you can go and apply.

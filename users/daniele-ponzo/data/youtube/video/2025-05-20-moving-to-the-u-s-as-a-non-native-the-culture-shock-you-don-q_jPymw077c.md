@@ -11,8 +11,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -20,10 +20,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So going to the US or working with the American market and realizing that yes its not really easy to adjust And I dont know we first you had like these issues with the language and then the culture
 
-So going to the US or working with the American market and realizing that yes its not really easy to adjust And I dont know we first you had like these issues with the language and then the culture
-
-### Speaker 2 · Speaker 2
-
-Well first I guess frustration um with the language problem was frustrating because it was like oh you know youre talking to someone you realize its taking them three seconds to process what youre saying The cultural shock was frustration as well sometimes and a bit of resistance That doesnt make sense The way people drive and and even like the social interactions was everything really different So youre sitting in class Ill turn to someone start talking And theyre like oh we dont know each other
+speaker_2: Well first I guess frustration um with the language problem was frustrating because it was like oh you know youre talking to someone you realize its taking them three seconds to process what youre saying The cultural shock was frustration as well sometimes and a bit of resistance That doesnt make sense The way people drive and and even like the social interactions was everything really different So youre sitting in class Ill turn to someone start talking And theyre like oh we dont know each other

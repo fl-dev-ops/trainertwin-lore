@@ -8,7 +8,7 @@ model: nvidia/canary-qwen-2.5b + sortformer
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_1: null
 ---
 
 
@@ -17,4 +17,4 @@ speakers:
 
 ## Transcript
 
-2025 has been an incredible year for SCM coaching Together we have seen an exponential growth of our community We quadrupled our reach on YouTube doubled it on LinkedIn answered over a thousand career questions and most importantly helped dozens of supply chain professionals land their dream jobs Along the way I had the privilege of personally coaching 150 SCM professionals across 91 cities around the world Talk about a truly global supply chain As a token of appreciation I would like to give you a free copy of my latest guide Top 10 Supply Chain Career Questions Answered It highlights the most common questions professionals like you have asked during my coaching sessions this year You can download your free copy by visiting scmcoachcom just subscribe on the pop up and it will download straight to your device Dont wait grab your free copy today and lets continue growing our vibrant community together
+speaker_1: 2025 has been an incredible year for SCM coaching Together we have seen an exponential growth of our community We quadrupled our reach on YouTube doubled it on LinkedIn answered over a thousand career questions and most importantly helped dozens of supply chain professionals land their dream jobs Along the way I had the privilege of personally coaching 150 SCM professionals across 91 cities around the world Talk about a truly global supply chain As a token of appreciation I would like to give you a free copy of my latest guide Top 10 Supply Chain Career Questions Answered It highlights the most common questions professionals like you have asked during my coaching sessions this year You can download your free copy by visiting scmcoachcom just subscribe on the pop up and it will download straight to your device Dont wait grab your free copy today and lets continue growing our vibrant community together

@@ -15,8 +15,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -24,10 +24,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: Dariusz we are towards the end of our chat unfortunately Uh so we spoke about a lot of things which including this little exercise which Im going to try And so talking about changing yourself now you are also helping others change because thats part of your of your career now your coaching So in that in that perspective is there any recommendation you would give uh to people who want you know go through the same path or to a similar path or to have like an international experience like yours
 
-Dariusz we are towards the end of our chat unfortunately Uh so we spoke about a lot of things which including this little exercise which Im going to try And so talking about changing yourself now you are also helping others change because thats part of your of your career now your coaching So in that in that perspective is there any recommendation you would give uh to people who want you know go through the same path or to a similar path or to have like an international experience like yours
-
-### Speaker 2 · Speaker 2
-
-Learn English is the starting point before in current market research the country you want to go through Because English is international language its language of the internet You can communicate everywhere in English
+speaker_2: Learn English is the starting point before in current market research the country you want to go through Because English is international language its language of the internet You can communicate everywhere in English

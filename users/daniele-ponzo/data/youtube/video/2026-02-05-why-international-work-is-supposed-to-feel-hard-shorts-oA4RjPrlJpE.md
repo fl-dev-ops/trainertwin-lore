@@ -19,8 +19,8 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 2
 speakers:
-  '1': Speaker 1
-  '2': Speaker 2
+  speaker_1: null
+  speaker_2: null
 ---
 
 
@@ -28,14 +28,8 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
+speaker_1: So uh there is some things you need to do Dont worry Take it easy and embrace differences embrace challenges but you are you will get there And and I I believe its precious advice Belly So thank you very much
 
-So uh there is some things you need to do Dont worry Take it easy and embrace differences embrace challenges but you are you will get there And and I I believe its precious advice Belly So thank you very much
+speaker_2: Thank you Thank you for the opportunity
 
-### Speaker 2 · Speaker 2
-
-Thank you Thank you for the opportunity
-
-### Speaker 1 · Speaker 1
-
-Absolutely So and everybody thank you very much for listening for sticking around I think this was a precious conversation Ive learned a lot and Im surely going to worry a bit less about my challenges after that
+speaker_1: Absolutely So and everybody thank you very much for listening for sticking around I think this was a precious conversation Ive learned a lot and Im surely going to worry a bit less about my challenges after that

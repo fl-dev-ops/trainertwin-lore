@@ -43,7 +43,7 @@ model: gemini-2.5-flash
 transcript: true
 speaker_count: 1
 speakers:
-  '1': Speaker 1
+  speaker_1: null
 ---
 
 
@@ -51,6 +51,4 @@ speakers:
 
 ## Transcript
 
-### Speaker 1 · Speaker 1
-
-And at the same time you know like what I normally tell people is there is no need to change your accent you know like one thing is pronunciation one thing is accent in my opinion Uh because like some people get obsessed oh no no I want to have like the perfect American accent whatever that mean or the perfect British accent Again whatever that mean because there is not only one British accent But at the same time you know it becomes an obsession and uh you know we live in a globalized world So we need to be clear and we need to have a clear pronunciation but we know dont need to copy necessarily copy one accent or another So we are happy with our hybrid accent made of all our experiences
+speaker_1: And at the same time you know like what I normally tell people is there is no need to change your accent you know like one thing is pronunciation one thing is accent in my opinion Uh because like some people get obsessed oh no no I want to have like the perfect American accent whatever that mean or the perfect British accent Again whatever that mean because there is not only one British accent But at the same time you know it becomes an obsession and uh you know we live in a globalized world So we need to be clear and we need to have a clear pronunciation but we know dont need to copy necessarily copy one accent or another So we are happy with our hybrid accent made of all our experiences
