@@ -6,7 +6,33 @@
       "aliases": [
         "executive coaching"
       ],
-      "count": 18
+      "count": 49
+    },
+    "coach-training": {
+      "id": "coach-training",
+      "preferred": "coach training",
+      "aliases": [
+        "coach training",
+        "coaching training"
+      ],
+      "count": 30
+    },
+    "coaching-session": {
+      "id": "coaching-session",
+      "preferred": "coaching session",
+      "aliases": [
+        "coaching session",
+        "coaching sessions"
+      ],
+      "count": 21
+    },
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 19
     },
     "coaching": {
       "id": "coaching",
@@ -14,7 +40,15 @@
       "aliases": [
         "coaching"
       ],
-      "count": 10
+      "count": 15
+    },
+    "leadership-coaching": {
+      "id": "leadership-coaching",
+      "preferred": "leadership coaching",
+      "aliases": [
+        "leadership coaching"
+      ],
+      "count": 14
     },
     "coaching-demonstration": {
       "id": "coaching-demonstration",
@@ -24,13 +58,21 @@
       ],
       "count": 9
     },
-    "coaching-session": {
-      "id": "coaching-session",
-      "preferred": "coaching session",
+    "ai-coaching": {
+      "id": "ai-coaching",
+      "preferred": "AI coaching",
       "aliases": [
-        "coaching session"
+        "AI coaching"
       ],
-      "count": 6
+      "count": 8
+    },
+    "podcast-interview": {
+      "id": "podcast-interview",
+      "preferred": "podcast interview",
+      "aliases": [
+        "podcast interview"
+      ],
+      "count": 7
     },
     "session-wrap-up": {
       "id": "session-wrap-up",
@@ -42,11 +84,44 @@
       ],
       "count": 6
     },
-    "leadership-coaching": {
-      "id": "leadership-coaching",
-      "preferred": "leadership coaching",
+    "professional-development": {
+      "id": "professional-development",
+      "preferred": "professional development",
       "aliases": [
-        "leadership coaching"
+        "professional development"
+      ],
+      "count": 5
+    },
+    "leadership-mentoring": {
+      "id": "leadership-mentoring",
+      "preferred": "leadership mentoring",
+      "aliases": [
+        "leadership mentoring"
+      ],
+      "count": 5
+    },
+    "sales-coaching": {
+      "id": "sales-coaching",
+      "preferred": "sales coaching",
+      "aliases": [
+        "sales coaching"
+      ],
+      "count": 5
+    },
+    "self-assessment": {
+      "id": "self-assessment",
+      "preferred": "self-assessment",
+      "aliases": [
+        "self-assessment"
+      ],
+      "count": 4
+    },
+    "coaching-conversation": {
+      "id": "coaching-conversation",
+      "preferred": "coaching conversation",
+      "aliases": [
+        "coaching conversation",
+        "coaching conversations"
       ],
       "count": 4
     },
@@ -58,19 +133,35 @@
       ],
       "count": 4
     },
-    "self-assessment": {
-      "id": "self-assessment",
-      "preferred": "self-assessment",
+    "executive-development": {
+      "id": "executive-development",
+      "preferred": "executive development",
       "aliases": [
-        "self-assessment"
+        "executive development"
       ],
-      "count": 3
+      "count": 4
     },
-    "coaching-conversation": {
-      "id": "coaching-conversation",
-      "preferred": "coaching conversation",
+    "mentorship": {
+      "id": "mentorship",
+      "preferred": "mentorship",
       "aliases": [
-        "coaching conversation"
+        "mentorship"
+      ],
+      "count": 4
+    },
+    "executive-coaching-training": {
+      "id": "executive-coaching-training",
+      "preferred": "executive coaching training",
+      "aliases": [
+        "executive coaching training"
+      ],
+      "count": 4
+    },
+    "masterclass": {
+      "id": "masterclass",
+      "preferred": "masterclass",
+      "aliases": [
+        "masterclass"
       ],
       "count": 3
     },
@@ -90,6 +181,38 @@
       ],
       "count": 3
     },
+    "ai-coaching-tool": {
+      "id": "ai-coaching-tool",
+      "preferred": "AI coaching tool",
+      "aliases": [
+        "AI coaching tool"
+      ],
+      "count": 3
+    },
+    "job-application": {
+      "id": "job-application",
+      "preferred": "job application",
+      "aliases": [
+        "job application"
+      ],
+      "count": 3
+    },
+    "event-announcement": {
+      "id": "event-announcement",
+      "preferred": "event announcement",
+      "aliases": [
+        "event announcement"
+      ],
+      "count": 3
+    },
+    "coaching-session-booking": {
+      "id": "coaching-session-booking",
+      "preferred": "coaching session booking",
+      "aliases": [
+        "coaching session booking"
+      ],
+      "count": 3
+    },
     "live-coaching-demonstration": {
       "id": "live-coaching-demonstration",
       "preferred": "live coaching demonstration",
@@ -98,19 +221,11 @@
       ],
       "count": 2
     },
-    "podcast-interview": {
-      "id": "podcast-interview",
-      "preferred": "podcast interview",
+    "coaching-mastery": {
+      "id": "coaching-mastery",
+      "preferred": "coaching mastery",
       "aliases": [
-        "podcast interview"
-      ],
-      "count": 2
-    },
-    "coach-training": {
-      "id": "coach-training",
-      "preferred": "coach training",
-      "aliases": [
-        "coach training"
+        "coaching mastery"
       ],
       "count": 2
     },
@@ -122,11 +237,11 @@
       ],
       "count": 2
     },
-    "leadership-development": {
-      "id": "leadership-development",
-      "preferred": "leadership development",
+    "skills-assessment": {
+      "id": "skills-assessment",
+      "preferred": "skills assessment",
       "aliases": [
-        "leadership development"
+        "skills assessment"
       ],
       "count": 2
     },
@@ -135,6 +250,120 @@
       "preferred": "action planning",
       "aliases": [
         "action planning"
+      ],
+      "count": 2
+    },
+    "executive-decision-making": {
+      "id": "executive-decision-making",
+      "preferred": "executive decision-making",
+      "aliases": [
+        "executive decision-making"
+      ],
+      "count": 2
+    },
+    "leadership-training": {
+      "id": "leadership-training",
+      "preferred": "leadership training",
+      "aliases": [
+        "leadership training"
+      ],
+      "count": 2
+    },
+    "mentoring": {
+      "id": "mentoring",
+      "preferred": "mentoring",
+      "aliases": [
+        "mentoring"
+      ],
+      "count": 2
+    },
+    "continuous-learning": {
+      "id": "continuous-learning",
+      "preferred": "continuous learning",
+      "aliases": [
+        "continuous learning"
+      ],
+      "count": 2
+    },
+    "client-acquisition": {
+      "id": "client-acquisition",
+      "preferred": "client acquisition",
+      "aliases": [
+        "client acquisition"
+      ],
+      "count": 2
+    },
+    "one-to-one-coaching-sessions": {
+      "id": "one-to-one-coaching-sessions",
+      "preferred": "one-to-one coaching sessions",
+      "aliases": [
+        "one-to-one coaching session",
+        "one-to-one coaching sessions"
+      ],
+      "count": 2
+    },
+    "charity-fundraising": {
+      "id": "charity-fundraising",
+      "preferred": "charity fundraising",
+      "aliases": [
+        "charity fundraising"
+      ],
+      "count": 2
+    },
+    "book-recommendation": {
+      "id": "book-recommendation",
+      "preferred": "book recommendation",
+      "aliases": [
+        "book recommendation"
+      ],
+      "count": 2
+    },
+    "coaching-tutorial": {
+      "id": "coaching-tutorial",
+      "preferred": "coaching tutorial",
+      "aliases": [
+        "coaching tutorial"
+      ],
+      "count": 2
+    },
+    "pro-bono-coaching": {
+      "id": "pro-bono-coaching",
+      "preferred": "pro bono coaching",
+      "aliases": [
+        "pro bono coaching"
+      ],
+      "count": 2
+    },
+    "mentor-coaching": {
+      "id": "mentor-coaching",
+      "preferred": "mentor coaching",
+      "aliases": [
+        "mentor coaching"
+      ],
+      "count": 2
+    },
+    "interviewing": {
+      "id": "interviewing",
+      "preferred": "interviewing",
+      "aliases": [
+        "interviewing"
+      ],
+      "count": 2
+    },
+    "keynote-speech": {
+      "id": "keynote-speech",
+      "preferred": "keynote speech",
+      "aliases": [
+        "keynote speech"
+      ],
+      "count": 2
+    },
+    "speaking-engagement": {
+      "id": "speaking-engagement",
+      "preferred": "speaking engagement",
+      "aliases": [
+        "speaking engagement",
+        "speaking event"
       ],
       "count": 2
     },
@@ -167,14 +396,6 @@
       "preferred": "client coaching",
       "aliases": [
         "client coaching"
-      ],
-      "count": 1
-    },
-    "professional-development": {
-      "id": "professional-development",
-      "preferred": "professional development",
-      "aliases": [
-        "professional development"
       ],
       "count": 1
     },
@@ -218,14 +439,6 @@
       ],
       "count": 1
     },
-    "coaching-mastery": {
-      "id": "coaching-mastery",
-      "preferred": "coaching mastery",
-      "aliases": [
-        "coaching mastery"
-      ],
-      "count": 1
-    },
     "conference-opening": {
       "id": "conference-opening",
       "preferred": "conference opening",
@@ -258,27 +471,11 @@
       ],
       "count": 1
     },
-    "skills-assessment": {
-      "id": "skills-assessment",
-      "preferred": "skills assessment",
-      "aliases": [
-        "skills assessment"
-      ],
-      "count": 1
-    },
     "b2b-sales": {
       "id": "b2b-sales",
       "preferred": "B2B sales",
       "aliases": [
         "B2B sales"
-      ],
-      "count": 1
-    },
-    "leadership-mentoring": {
-      "id": "leadership-mentoring",
-      "preferred": "leadership mentoring",
-      "aliases": [
-        "leadership mentoring"
       ],
       "count": 1
     },
@@ -391,14 +588,6 @@
       "preferred": "individual coaching",
       "aliases": [
         "individual coaching"
-      ],
-      "count": 1
-    },
-    "masterclass": {
-      "id": "masterclass",
-      "preferred": "masterclass",
-      "aliases": [
-        "masterclass"
       ],
       "count": 1
     },
@@ -634,14 +823,6 @@
       ],
       "count": 1
     },
-    "sales-coaching": {
-      "id": "sales-coaching",
-      "preferred": "sales coaching",
-      "aliases": [
-        "sales coaching"
-      ],
-      "count": 1
-    },
     "teleclass-introduction": {
       "id": "teleclass-introduction",
       "preferred": "teleclass introduction",
@@ -793,15 +974,898 @@
         "facilitator debrief"
       ],
       "count": 1
+    },
+    "coaching-mastery-programme": {
+      "id": "coaching-mastery-programme",
+      "preferred": "coaching mastery programme",
+      "aliases": [
+        "coaching mastery programme"
+      ],
+      "count": 1
+    },
+    "self-development": {
+      "id": "self-development",
+      "preferred": "self development",
+      "aliases": [
+        "self development"
+      ],
+      "count": 1
+    },
+    "ai-tool-announcement": {
+      "id": "ai-tool-announcement",
+      "preferred": "AI tool announcement",
+      "aliases": [
+        "AI tool announcement"
+      ],
+      "count": 1
+    },
+    "ai-guided-coaching": {
+      "id": "ai-guided-coaching",
+      "preferred": "AI-guided coaching",
+      "aliases": [
+        "AI-guided coaching"
+      ],
+      "count": 1
+    },
+    "ai-leadership-coaching": {
+      "id": "ai-leadership-coaching",
+      "preferred": "AI leadership coaching",
+      "aliases": [
+        "AI leadership coaching"
+      ],
+      "count": 1
+    },
+    "leadership-implementation": {
+      "id": "leadership-implementation",
+      "preferred": "leadership implementation",
+      "aliases": [
+        "leadership implementation"
+      ],
+      "count": 1
+    },
+    "leadership-guidance": {
+      "id": "leadership-guidance",
+      "preferred": "leadership guidance",
+      "aliases": [
+        "leadership guidance"
+      ],
+      "count": 1
+    },
+    "event-attendance": {
+      "id": "event-attendance",
+      "preferred": "event attendance",
+      "aliases": [
+        "event attendance"
+      ],
+      "count": 1
+    },
+    "decision-making": {
+      "id": "decision-making",
+      "preferred": "decision-making",
+      "aliases": [
+        "decision-making"
+      ],
+      "count": 1
+    },
+    "demos-and-lectures": {
+      "id": "demos-and-lectures",
+      "preferred": "demos and lectures",
+      "aliases": [
+        "demos and lectures"
+      ],
+      "count": 1
+    },
+    "coaching-practice-discussion": {
+      "id": "coaching-practice-discussion",
+      "preferred": "coaching practice discussion",
+      "aliases": [
+        "coaching practice discussion"
+      ],
+      "count": 1
+    },
+    "group-discussion": {
+      "id": "group-discussion",
+      "preferred": "group discussion",
+      "aliases": [
+        "group discussion"
+      ],
+      "count": 1
+    },
+    "ai-mentoring": {
+      "id": "ai-mentoring",
+      "preferred": "AI mentoring",
+      "aliases": [
+        "AI mentoring"
+      ],
+      "count": 1
+    },
+    "podcast-episode": {
+      "id": "podcast-episode",
+      "preferred": "podcast episode",
+      "aliases": [
+        "podcast episode"
+      ],
+      "count": 1
+    },
+    "podcast-appearance": {
+      "id": "podcast-appearance",
+      "preferred": "podcast appearance",
+      "aliases": [
+        "podcast appearance"
+      ],
+      "count": 1
+    },
+    "ai-tool-demonstration": {
+      "id": "ai-tool-demonstration",
+      "preferred": "AI tool demonstration",
+      "aliases": [
+        "AI tool demonstration"
+      ],
+      "count": 1
+    },
+    "client-engagement": {
+      "id": "client-engagement",
+      "preferred": "client engagement",
+      "aliases": [
+        "client engagement"
+      ],
+      "count": 1
+    },
+    "listening-to-podcast": {
+      "id": "listening-to-podcast",
+      "preferred": "listening to podcast",
+      "aliases": [
+        "listening to podcast"
+      ],
+      "count": 1
+    },
+    "content-promotion": {
+      "id": "content-promotion",
+      "preferred": "content promotion",
+      "aliases": [
+        "content promotion"
+      ],
+      "count": 1
+    },
+    "listening-to-a-podcast": {
+      "id": "listening-to-a-podcast",
+      "preferred": "listening to a podcast",
+      "aliases": [
+        "listening to a podcast"
+      ],
+      "count": 1
+    },
+    "coaching-demo": {
+      "id": "coaching-demo",
+      "preferred": "coaching demo",
+      "aliases": [
+        "coaching demo"
+      ],
+      "count": 1
+    },
+    "podcast-listening": {
+      "id": "podcast-listening",
+      "preferred": "podcast listening",
+      "aliases": [
+        "podcast listening"
+      ],
+      "count": 1
+    },
+    "fundraising-coaching-session": {
+      "id": "fundraising-coaching-session",
+      "preferred": "fundraising coaching session",
+      "aliases": [
+        "fundraising coaching session"
+      ],
+      "count": 1
+    },
+    "coaching-presentation": {
+      "id": "coaching-presentation",
+      "preferred": "coaching presentation",
+      "aliases": [
+        "coaching presentation"
+      ],
+      "count": 1
+    },
+    "coaching-marathon": {
+      "id": "coaching-marathon",
+      "preferred": "coaching marathon",
+      "aliases": [
+        "coaching marathon"
+      ],
+      "count": 1
+    },
+    "coaching-podcast": {
+      "id": "coaching-podcast",
+      "preferred": "coaching podcast",
+      "aliases": [
+        "coaching podcast"
+      ],
+      "count": 1
+    },
+    "executive-coaching-discussion": {
+      "id": "executive-coaching-discussion",
+      "preferred": "executive coaching discussion",
+      "aliases": [
+        "executive coaching discussion"
+      ],
+      "count": 1
+    },
+    "coaching-assessment": {
+      "id": "coaching-assessment",
+      "preferred": "coaching assessment",
+      "aliases": [
+        "coaching assessment"
+      ],
+      "count": 1
+    },
+    "facilitator-training": {
+      "id": "facilitator-training",
+      "preferred": "facilitator training",
+      "aliases": [
+        "facilitator training"
+      ],
+      "count": 1
+    },
+    "mastery-level-coaching-tutorial": {
+      "id": "mastery-level-coaching-tutorial",
+      "preferred": "mastery-level coaching tutorial",
+      "aliases": [
+        "mastery-level coaching tutorial"
+      ],
+      "count": 1
+    },
+    "personalized-coaching": {
+      "id": "personalized-coaching",
+      "preferred": "personalized coaching",
+      "aliases": [
+        "personalized coaching"
+      ],
+      "count": 1
+    },
+    "podcast-guesting": {
+      "id": "podcast-guesting",
+      "preferred": "podcast guesting",
+      "aliases": [
+        "podcast guesting"
+      ],
+      "count": 1
+    },
+    "coaching-ejecutivo": {
+      "id": "coaching-ejecutivo",
+      "preferred": "coaching ejecutivo",
+      "aliases": [
+        "coaching ejecutivo"
+      ],
+      "count": 1
+    },
+    "mentorskap": {
+      "id": "mentorskap",
+      "preferred": "mentorskap",
+      "aliases": [
+        "mentorskap"
+      ],
+      "count": 1
+    },
+    "coaching-practice": {
+      "id": "coaching-practice",
+      "preferred": "coaching practice",
+      "aliases": [
+        "coaching practice"
+      ],
+      "count": 1
+    },
+    "coaching-certification": {
+      "id": "coaching-certification",
+      "preferred": "coaching certification",
+      "aliases": [
+        "coaching certification"
+      ],
+      "count": 1
+    },
+    "client-workshop": {
+      "id": "client-workshop",
+      "preferred": "client workshop",
+      "aliases": [
+        "client workshop"
+      ],
+      "count": 1
+    },
+    "programme-launch": {
+      "id": "programme-launch",
+      "preferred": "programme launch",
+      "aliases": [
+        "programme launch"
+      ],
+      "count": 1
+    },
+    "webinar": {
+      "id": "webinar",
+      "preferred": "webinar",
+      "aliases": [
+        "webinar"
+      ],
+      "count": 1
+    },
+    "job-advertising": {
+      "id": "job-advertising",
+      "preferred": "job advertising",
+      "aliases": [
+        "job advertising"
+      ],
+      "count": 1
+    },
+    "leadership-performance-coaching": {
+      "id": "leadership-performance-coaching",
+      "preferred": "leadership performance coaching",
+      "aliases": [
+        "leadership performance coaching"
+      ],
+      "count": 1
+    },
+    "masterclass-registration": {
+      "id": "masterclass-registration",
+      "preferred": "masterclass registration",
+      "aliases": [
+        "masterclass registration"
+      ],
+      "count": 1
+    },
+    "webinar-presentation": {
+      "id": "webinar-presentation",
+      "preferred": "webinar presentation",
+      "aliases": [
+        "webinar presentation"
+      ],
+      "count": 1
+    },
+    "webinar-invitation": {
+      "id": "webinar-invitation",
+      "preferred": "webinar invitation",
+      "aliases": [
+        "webinar invitation"
+      ],
+      "count": 1
+    },
+    "international-coaching-week-events": {
+      "id": "international-coaching-week-events",
+      "preferred": "International Coaching Week events",
+      "aliases": [
+        "International Coaching Week events"
+      ],
+      "count": 1
+    },
+    "coach-development-workshop": {
+      "id": "coach-development-workshop",
+      "preferred": "coach development workshop",
+      "aliases": [
+        "coach development workshop"
+      ],
+      "count": 1
+    },
+    "video-interview-clip": {
+      "id": "video-interview-clip",
+      "preferred": "video interview clip",
+      "aliases": [
+        "video interview clip"
+      ],
+      "count": 1
+    },
+    "facilitator-recruitment": {
+      "id": "facilitator-recruitment",
+      "preferred": "facilitator recruitment",
+      "aliases": [
+        "facilitator recruitment"
+      ],
+      "count": 1
+    },
+    "creative-writing-with-claude": {
+      "id": "creative-writing-with-claude",
+      "preferred": "creative writing with Claude",
+      "aliases": [
+        "creative writing with Claude"
+      ],
+      "count": 1
+    },
+    "member-development-workshop": {
+      "id": "member-development-workshop",
+      "preferred": "member development workshop",
+      "aliases": [
+        "member development workshop"
+      ],
+      "count": 1
+    },
+    "coaching-evaluation": {
+      "id": "coaching-evaluation",
+      "preferred": "coaching evaluation",
+      "aliases": [
+        "coaching evaluation"
+      ],
+      "count": 1
+    },
+    "live-demonstration": {
+      "id": "live-demonstration",
+      "preferred": "live demonstration",
+      "aliases": [
+        "live demonstration"
+      ],
+      "count": 1
+    },
+    "volunteering": {
+      "id": "volunteering",
+      "preferred": "volunteering",
+      "aliases": [
+        "volunteering"
+      ],
+      "count": 1
+    },
+    "interactive-dialogue-event": {
+      "id": "interactive-dialogue-event",
+      "preferred": "interactive dialogue event",
+      "aliases": [
+        "interactive dialogue event"
+      ],
+      "count": 1
+    },
+    "community-development": {
+      "id": "community-development",
+      "preferred": "community development",
+      "aliases": [
+        "community development"
+      ],
+      "count": 1
+    },
+    "lecture": {
+      "id": "lecture",
+      "preferred": "lecture",
+      "aliases": [
+        "lecture"
+      ],
+      "count": 1
+    },
+    "coaching-masterclass": {
+      "id": "coaching-masterclass",
+      "preferred": "coaching masterclass",
+      "aliases": [
+        "coaching masterclass"
+      ],
+      "count": 1
+    },
+    "executive-coaching-session": {
+      "id": "executive-coaching-session",
+      "preferred": "executive coaching session",
+      "aliases": [
+        "executive coaching session"
+      ],
+      "count": 1
+    },
+    "coaching-membership": {
+      "id": "coaching-membership",
+      "preferred": "coaching membership",
+      "aliases": [
+        "coaching membership"
+      ],
+      "count": 1
+    },
+    "sales-conversations": {
+      "id": "sales-conversations",
+      "preferred": "sales conversations",
+      "aliases": [
+        "sales conversations"
+      ],
+      "count": 1
+    },
+    "coaching-mastery-training": {
+      "id": "coaching-mastery-training",
+      "preferred": "coaching mastery training",
+      "aliases": [
+        "coaching mastery training"
+      ],
+      "count": 1
+    },
+    "consultative-selling": {
+      "id": "consultative-selling",
+      "preferred": "consultative selling",
+      "aliases": [
+        "consultative selling"
+      ],
+      "count": 1
+    },
+    "level-3-coach-training": {
+      "id": "level-3-coach-training",
+      "preferred": "Level 3 coach training",
+      "aliases": [
+        "Level 3 coach training"
+      ],
+      "count": 1
+    },
+    "podcast-summary": {
+      "id": "podcast-summary",
+      "preferred": "podcast summary",
+      "aliases": [
+        "podcast summary"
+      ],
+      "count": 1
+    },
+    "podcast-analysis": {
+      "id": "podcast-analysis",
+      "preferred": "podcast analysis",
+      "aliases": [
+        "podcast analysis"
+      ],
+      "count": 1
+    },
+    "coaching-session-delivery": {
+      "id": "coaching-session-delivery",
+      "preferred": "coaching session delivery",
+      "aliases": [
+        "coaching session delivery"
+      ],
+      "count": 1
+    },
+    "coaching-presence": {
+      "id": "coaching-presence",
+      "preferred": "coaching presence",
+      "aliases": [
+        "coaching presence"
+      ],
+      "count": 1
+    },
+    "coaching-pedagogy": {
+      "id": "coaching-pedagogy",
+      "preferred": "coaching pedagogy",
+      "aliases": [
+        "coaching pedagogy"
+      ],
+      "count": 1
+    },
+    "community-volunteering": {
+      "id": "community-volunteering",
+      "preferred": "community volunteering",
+      "aliases": [
+        "community volunteering"
+      ],
+      "count": 1
+    },
+    "coaching-development": {
+      "id": "coaching-development",
+      "preferred": "coaching development",
+      "aliases": [
+        "coaching development"
+      ],
+      "count": 1
+    },
+    "peer-feedback": {
+      "id": "peer-feedback",
+      "preferred": "peer feedback",
+      "aliases": [
+        "peer feedback"
+      ],
+      "count": 1
+    },
+    "coach-training-programme": {
+      "id": "coach-training-programme",
+      "preferred": "coach training programme",
+      "aliases": [
+        "coach training programme"
+      ],
+      "count": 1
+    },
+    "coaching-program-development": {
+      "id": "coaching-program-development",
+      "preferred": "coaching program development",
+      "aliases": [
+        "coaching program development"
+      ],
+      "count": 1
+    },
+    "watching-race": {
+      "id": "watching-race",
+      "preferred": "watching race",
+      "aliases": [
+        "watching race"
+      ],
+      "count": 1
+    },
+    "credential-verification": {
+      "id": "credential-verification",
+      "preferred": "credential verification",
+      "aliases": [
+        "credential verification"
+      ],
+      "count": 1
+    },
+    "coaching-event-announcement": {
+      "id": "coaching-event-announcement",
+      "preferred": "coaching event announcement",
+      "aliases": [
+        "coaching event announcement"
+      ],
+      "count": 1
+    },
+    "business-development": {
+      "id": "business-development",
+      "preferred": "business development",
+      "aliases": [
+        "business development"
+      ],
+      "count": 1
+    },
+    "coaching-programme-design": {
+      "id": "coaching-programme-design",
+      "preferred": "coaching programme design",
+      "aliases": [
+        "coaching programme design"
+      ],
+      "count": 1
+    },
+    "coaching-practice-business-development": {
+      "id": "coaching-practice-business-development",
+      "preferred": "coaching practice business development",
+      "aliases": [
+        "coaching practice business development"
+      ],
+      "count": 1
+    },
+    "discovery-dialogues": {
+      "id": "discovery-dialogues",
+      "preferred": "discovery dialogues",
+      "aliases": [
+        "discovery dialogues"
+      ],
+      "count": 1
+    },
+    "book-launch": {
+      "id": "book-launch",
+      "preferred": "book launch",
+      "aliases": [
+        "book launch"
+      ],
+      "count": 1
+    },
+    "skill-evaluation": {
+      "id": "skill-evaluation",
+      "preferred": "skill evaluation",
+      "aliases": [
+        "skill evaluation"
+      ],
+      "count": 1
+    },
+    "conference-planning": {
+      "id": "conference-planning",
+      "preferred": "conference planning",
+      "aliases": [
+        "conference planning"
+      ],
+      "count": 1
+    },
+    "conference-gathering": {
+      "id": "conference-gathering",
+      "preferred": "conference gathering",
+      "aliases": [
+        "conference gathering"
+      ],
+      "count": 1
+    },
+    "coach-self-assessment": {
+      "id": "coach-self-assessment",
+      "preferred": "coach self-assessment",
+      "aliases": [
+        "coach self-assessment"
+      ],
+      "count": 1
+    },
+    "in-person-event-announcement": {
+      "id": "in-person-event-announcement",
+      "preferred": "in-person event announcement",
+      "aliases": [
+        "in-person event announcement"
+      ],
+      "count": 1
+    },
+    "performance-appraisal-feedback": {
+      "id": "performance-appraisal-feedback",
+      "preferred": "performance appraisal feedback",
+      "aliases": [
+        "performance appraisal feedback"
+      ],
+      "count": 1
+    },
+    "team-coaching": {
+      "id": "team-coaching",
+      "preferred": "team coaching",
+      "aliases": [
+        "team coaching"
+      ],
+      "count": 1
     }
   },
   "situation": {
+    "transitioning-from-pcc-to-mcc": {
+      "id": "transitioning-from-pcc-to-mcc",
+      "preferred": "transitioning from PCC to MCC",
+      "aliases": [
+        "advancing from PCC to MCC",
+        "advancing from PCC to MCC level",
+        "progressing from PCC to MCC",
+        "transitioning from PCC to MCC",
+        "transitioning from PCC to MCC level"
+      ],
+      "count": 7
+    },
+    "navigating-leadership-challenges": {
+      "id": "navigating-leadership-challenges",
+      "preferred": "navigating leadership challenges",
+      "aliases": [
+        "navigating leadership challenges"
+      ],
+      "count": 4
+    },
+    "mas-ai-risk-management-guidelines-compliance": {
+      "id": "mas-ai-risk-management-guidelines-compliance",
+      "preferred": "MAS AI Risk Management Guidelines compliance",
+      "aliases": [
+        "MAS AI Risk Management Guidelines compliance"
+      ],
+      "count": 4
+    },
+    "leading-global-teams-across-language-barriers": {
+      "id": "leading-global-teams-across-language-barriers",
+      "preferred": "leading global teams across language barriers",
+      "aliases": [
+        "leading global multilingual teams",
+        "leading global teams across language barriers"
+      ],
+      "count": 4
+    },
+    "navigating-team-dynamics-and-difficult-conversations": {
+      "id": "navigating-team-dynamics-and-difficult-conversations",
+      "preferred": "navigating team dynamics and difficult conversations",
+      "aliases": [
+        "handling team dynamics and difficult conversations",
+        "handling tough conversations and team dynamics",
+        "navigating team dynamics and difficult conversations"
+      ],
+      "count": 4
+    },
     "coaching-client-cries": {
       "id": "coaching-client-cries",
       "preferred": "coaching client cries",
       "aliases": [
+        "client cries during coaching",
         "client cries in coaching session",
+        "coachee cries",
         "coaching client cries"
+      ],
+      "count": 4
+    },
+    "leading-multicultural-teams": {
+      "id": "leading-multicultural-teams",
+      "preferred": "leading multicultural teams",
+      "aliases": [
+        "leading multicultural teams"
+      ],
+      "count": 3
+    },
+    "leading-diverse-global-teams": {
+      "id": "leading-diverse-global-teams",
+      "preferred": "leading diverse global teams",
+      "aliases": [
+        "leading diverse global teams",
+        "leading multicultural teams with varied backgrounds"
+      ],
+      "count": 3
+    },
+    "fear-of-ai-replacing-human-mentors": {
+      "id": "fear-of-ai-replacing-human-mentors",
+      "preferred": "fear of AI replacing human mentors",
+      "aliases": [
+        "concerns about AI replacing human mentors",
+        "fear of AI replacing human mentors"
+      ],
+      "count": 3
+    },
+    "rise-of-ai-coaching-bots": {
+      "id": "rise-of-ai-coaching-bots",
+      "preferred": "rise of AI coaching bots",
+      "aliases": [
+        "emergence of AI coaching bots",
+        "rise of AI coaching bots"
+      ],
+      "count": 3
+    },
+    "new-ceo-appointment-transition": {
+      "id": "new-ceo-appointment-transition",
+      "preferred": "new CEO appointment transition",
+      "aliases": [
+        "new CEO appointment transition",
+        "new CEO onboarding and leadership transition",
+        "new CEO transition"
+      ],
+      "count": 3
+    },
+    "overcoming-language-barriers-in-global-business": {
+      "id": "overcoming-language-barriers-in-global-business",
+      "preferred": "overcoming language barriers in global business",
+      "aliases": [
+        "overcoming language barriers in global business"
+      ],
+      "count": 2
+    },
+    "leading-diverse-global-teams-across-language-barriers": {
+      "id": "leading-diverse-global-teams-across-language-barriers",
+      "preferred": "leading diverse global teams across language barriers",
+      "aliases": [
+        "leading diverse global teams across language barriers"
+      ],
+      "count": 2
+    },
+    "ai-bots-performing-at-acc-and-pcc-levels": {
+      "id": "ai-bots-performing-at-acc-and-pcc-levels",
+      "preferred": "AI bots performing at ACC and PCC levels",
+      "aliases": [
+        "AI bots performing at ACC and PCC levels"
+      ],
+      "count": 2
+    },
+    "stepping-into-a-leadership-role": {
+      "id": "stepping-into-a-leadership-role",
+      "preferred": "stepping into a leadership role",
+      "aliases": [
+        "stepping into a leadership role"
+      ],
+      "count": 2
+    },
+    "client-s-verbal-and-non-verbal-signals-are-out-of-sync": {
+      "id": "client-s-verbal-and-non-verbal-signals-are-out-of-sync",
+      "preferred": "client's verbal and non-verbal signals are out of sync",
+      "aliases": [
+        "client's verbal and non-verbal signals are out of sync"
+      ],
+      "count": 2
+    },
+    "shifting-from-pcc-to-mcc": {
+      "id": "shifting-from-pcc-to-mcc",
+      "preferred": "shifting from PCC to MCC",
+      "aliases": [
+        "shifting from PCC to MCC",
+        "transitioning from PCC to MCC credential"
+      ],
+      "count": 2
+    },
+    "demanding-swift-leadership-strategies-without-compromising-q": {
+      "id": "demanding-swift-leadership-strategies-without-compromising-q",
+      "preferred": "demanding swift leadership strategies without compromising quality",
+      "aliases": [
+        "demanding swift leadership strategies without compromising quality",
+        "needing swift strategic insights without compromising quality"
+      ],
+      "count": 2
+    },
+    "new-leaders-seeking-on-demand-mentorship-and-guidance": {
+      "id": "new-leaders-seeking-on-demand-mentorship-and-guidance",
+      "preferred": "new leaders seeking on-demand mentorship and guidance",
+      "aliases": [
+        "new leader needing on-demand mentoring",
+        "new leaders seeking on-demand mentorship and guidance"
+      ],
+      "count": 2
+    },
+    "relying-on-coaching-platforms": {
+      "id": "relying-on-coaching-platforms",
+      "preferred": "relying on coaching platforms",
+      "aliases": [
+        "relying on coaching platforms",
+        "relying on platforms to find coaching clients"
+      ],
+      "count": 2
+    },
+    "coaches-struggling-to-survive-commercially": {
+      "id": "coaches-struggling-to-survive-commercially",
+      "preferred": "coaches struggling to survive commercially",
+      "aliases": [
+        "coaches struggling to survive commercially",
+        "coaches struggling with selling"
       ],
       "count": 2
     },
@@ -906,14 +1970,6 @@
       "preferred": "client arrives exhausted and wants surface talk",
       "aliases": [
         "client arrives exhausted and wants surface talk"
-      ],
-      "count": 1
-    },
-    "shifting-from-pcc-to-mcc": {
-      "id": "shifting-from-pcc-to-mcc",
-      "preferred": "shifting from PCC to MCC",
-      "aliases": [
-        "shifting from PCC to MCC"
       ],
       "count": 1
     },
@@ -1093,35 +2149,11 @@
       ],
       "count": 1
     },
-    "new-ceo-appointment-transition": {
-      "id": "new-ceo-appointment-transition",
-      "preferred": "new CEO appointment transition",
-      "aliases": [
-        "new CEO appointment transition"
-      ],
-      "count": 1
-    },
     "organisational-training-needs-assessment": {
       "id": "organisational-training-needs-assessment",
       "preferred": "organisational training needs assessment",
       "aliases": [
         "organisational training needs assessment"
-      ],
-      "count": 1
-    },
-    "progressing-from-pcc-to-mcc": {
-      "id": "progressing-from-pcc-to-mcc",
-      "preferred": "progressing from PCC to MCC",
-      "aliases": [
-        "progressing from PCC to MCC"
-      ],
-      "count": 1
-    },
-    "client-cries-during-coaching": {
-      "id": "client-cries-during-coaching",
-      "preferred": "client cries during coaching",
-      "aliases": [
-        "client cries during coaching"
       ],
       "count": 1
     },
@@ -1820,31 +2852,971 @@
         "tracking previous session CCEU units"
       ],
       "count": 1
+    },
+    "organizational-challenges-and-market-shifts": {
+      "id": "organizational-challenges-and-market-shifts",
+      "preferred": "organizational challenges and market shifts",
+      "aliases": [
+        "organizational challenges and market shifts"
+      ],
+      "count": 1
+    },
+    "sifting-through-generic-leadership-advice": {
+      "id": "sifting-through-generic-leadership-advice",
+      "preferred": "sifting through generic leadership advice",
+      "aliases": [
+        "sifting through generic leadership advice"
+      ],
+      "count": 1
+    },
+    "e-learning-and-training-content-underutilization": {
+      "id": "e-learning-and-training-content-underutilization",
+      "preferred": "e-learning and training content underutilization",
+      "aliases": [
+        "e-learning and training content underutilization"
+      ],
+      "count": 1
+    },
+    "bridging-leadership-thoughts-to-actionable-steps": {
+      "id": "bridging-leadership-thoughts-to-actionable-steps",
+      "preferred": "bridging leadership thoughts to actionable steps",
+      "aliases": [
+        "bridging leadership thoughts to actionable steps"
+      ],
+      "count": 1
+    },
+    "overcoming-leadership-challenges-and-navigating-market-shift": {
+      "id": "overcoming-leadership-challenges-and-navigating-market-shift",
+      "preferred": "overcoming leadership challenges and navigating market shifts",
+      "aliases": [
+        "overcoming leadership challenges and navigating market shifts"
+      ],
+      "count": 1
+    },
+    "cross-cultural-team-communication": {
+      "id": "cross-cultural-team-communication",
+      "preferred": "cross-cultural team communication",
+      "aliases": [
+        "cross-cultural team communication"
+      ],
+      "count": 1
+    },
+    "navigating-leadership-challenges-and-market-shifts": {
+      "id": "navigating-leadership-challenges-and-market-shifts",
+      "preferred": "navigating leadership challenges and market shifts",
+      "aliases": [
+        "navigating leadership challenges and market shifts"
+      ],
+      "count": 1
+    },
+    "language-barriers-in-global-business": {
+      "id": "language-barriers-in-global-business",
+      "preferred": "language barriers in global business",
+      "aliases": [
+        "language barriers in global business"
+      ],
+      "count": 1
+    },
+    "boss-demands-more-strategy-while-maintaining-business-as-usu": {
+      "id": "boss-demands-more-strategy-while-maintaining-business-as-usu",
+      "preferred": "boss demands more strategy while maintaining business as usual",
+      "aliases": [
+        "boss demands more strategy while maintaining business as usual"
+      ],
+      "count": 1
+    },
+    "ai-impact-on-white-collar-jobs": {
+      "id": "ai-impact-on-white-collar-jobs",
+      "preferred": "AI impact on white-collar jobs",
+      "aliases": [
+        "AI impact on white-collar jobs"
+      ],
+      "count": 1
+    },
+    "leadership-skills-falling-behind-rapidly-changing-business-l": {
+      "id": "leadership-skills-falling-behind-rapidly-changing-business-l",
+      "preferred": "leadership skills falling behind rapidly changing business landscape",
+      "aliases": [
+        "leadership skills falling behind rapidly changing business landscape"
+      ],
+      "count": 1
+    },
+    "when-things-get-tough": {
+      "id": "when-things-get-tough",
+      "preferred": "when things get tough",
+      "aliases": [
+        "when things get tough"
+      ],
+      "count": 1
+    },
+    "earning-coaching-certification-hours": {
+      "id": "earning-coaching-certification-hours",
+      "preferred": "earning coaching certification hours",
+      "aliases": [
+        "earning coaching certification hours"
+      ],
+      "count": 1
+    },
+    "need-for-swift-strategic-decisions": {
+      "id": "need-for-swift-strategic-decisions",
+      "preferred": "need for swift strategic decisions",
+      "aliases": [
+        "need for swift strategic decisions"
+      ],
+      "count": 1
+    },
+    "navigating-complex-leadership-roadblocks": {
+      "id": "navigating-complex-leadership-roadblocks",
+      "preferred": "navigating complex leadership roadblocks",
+      "aliases": [
+        "navigating complex leadership roadblocks"
+      ],
+      "count": 1
+    },
+    "bot-hallucinations-and-compliance-constraints": {
+      "id": "bot-hallucinations-and-compliance-constraints",
+      "preferred": "bot hallucinations and compliance constraints",
+      "aliases": [
+        "bot hallucinations and compliance constraints"
+      ],
+      "count": 1
+    },
+    "competing-with-low-cost-coaching-platforms": {
+      "id": "competing-with-low-cost-coaching-platforms",
+      "preferred": "competing with low-cost coaching platforms",
+      "aliases": [
+        "competing with low-cost coaching platforms"
+      ],
+      "count": 1
+    },
+    "emergence-of-autonomous-ai-coaching-services": {
+      "id": "emergence-of-autonomous-ai-coaching-services",
+      "preferred": "emergence of autonomous AI coaching services",
+      "aliases": [
+        "emergence of autonomous AI coaching services"
+      ],
+      "count": 1
+    },
+    "coaches-feeling-threatened-by-ai": {
+      "id": "coaches-feeling-threatened-by-ai",
+      "preferred": "coaches feeling threatened by AI",
+      "aliases": [
+        "coaches feeling threatened by AI"
+      ],
+      "count": 1
+    },
+    "coaches-reluctant-to-learn-ai": {
+      "id": "coaches-reluctant-to-learn-ai",
+      "preferred": "coaches reluctant to learn AI",
+      "aliases": [
+        "coaches reluctant to learn AI"
+      ],
+      "count": 1
+    },
+    "coaches-holding-negative-views-on-ai": {
+      "id": "coaches-holding-negative-views-on-ai",
+      "preferred": "coaches holding negative views on AI",
+      "aliases": [
+        "coaches holding negative views on AI"
+      ],
+      "count": 1
+    },
+    "navigating-generic-leadership-content": {
+      "id": "navigating-generic-leadership-content",
+      "preferred": "navigating generic leadership content",
+      "aliases": [
+        "navigating generic leadership content"
+      ],
+      "count": 1
+    },
+    "ai-coaching-bots-replacing-transactional-coaching": {
+      "id": "ai-coaching-bots-replacing-transactional-coaching",
+      "preferred": "AI coaching bots replacing transactional coaching",
+      "aliases": [
+        "AI coaching bots replacing transactional coaching"
+      ],
+      "count": 1
+    },
+    "reaching-mcc-level": {
+      "id": "reaching-mcc-level",
+      "preferred": "reaching MCC level",
+      "aliases": [
+        "reaching MCC level"
+      ],
+      "count": 1
+    },
+    "client-destructive-thinking-patterns": {
+      "id": "client-destructive-thinking-patterns",
+      "preferred": "client destructive thinking patterns",
+      "aliases": [
+        "client destructive thinking patterns"
+      ],
+      "count": 1
+    },
+    "coaches-assuming-clients-will-always-prefer-humans": {
+      "id": "coaches-assuming-clients-will-always-prefer-humans",
+      "preferred": "coaches assuming clients will always prefer humans",
+      "aliases": [
+        "coaches assuming clients will always prefer humans"
+      ],
+      "count": 1
+    },
+    "confusing-coaching-with-teaching": {
+      "id": "confusing-coaching-with-teaching",
+      "preferred": "confusing coaching with teaching",
+      "aliases": [
+        "confusing coaching with teaching"
+      ],
+      "count": 1
+    },
+    "handling-leadership-challenges-and-difficult-conversations": {
+      "id": "handling-leadership-challenges-and-difficult-conversations",
+      "preferred": "handling leadership challenges and difficult conversations",
+      "aliases": [
+        "handling leadership challenges and difficult conversations"
+      ],
+      "count": 1
+    },
+    "handling-performance-reviews-and-difficult-team-conversation": {
+      "id": "handling-performance-reviews-and-difficult-team-conversation",
+      "preferred": "handling performance reviews and difficult team conversations",
+      "aliases": [
+        "handling performance reviews and difficult team conversations"
+      ],
+      "count": 1
+    },
+    "conversaciones-dif-ciles-y-evaluaciones-de-desempe-o": {
+      "id": "conversaciones-dif-ciles-y-evaluaciones-de-desempe-o",
+      "preferred": "conversaciones difíciles y evaluaciones de desempeño",
+      "aliases": [
+        "conversaciones difíciles y evaluaciones de desempeño"
+      ],
+      "count": 1
+    },
+    "nouveau-leader-ou-manager-avec-d-fis-de-gestion": {
+      "id": "nouveau-leader-ou-manager-avec-d-fis-de-gestion",
+      "preferred": "nouveau leader ou manager avec défis de gestion",
+      "aliases": [
+        "nouveau leader ou manager avec défis de gestion"
+      ],
+      "count": 1
+    },
+    "navigating-generic-content-under-time-pressure": {
+      "id": "navigating-generic-content-under-time-pressure",
+      "preferred": "navigating generic content under time pressure",
+      "aliases": [
+        "navigating generic content under time pressure"
+      ],
+      "count": 1
+    },
+    "navigera-sv-ra-samtal-och-gruppdynamik-som-ny-ledare": {
+      "id": "navigera-sv-ra-samtal-och-gruppdynamik-som-ny-ledare",
+      "preferred": "navigera svåra samtal och gruppdynamik som ny ledare",
+      "aliases": [
+        "navigera svåra samtal och gruppdynamik som ny ledare"
+      ],
+      "count": 1
+    },
+    "struggling-with-performance-reviews-and-team-dynamics": {
+      "id": "struggling-with-performance-reviews-and-team-dynamics",
+      "preferred": "struggling with performance reviews and team dynamics",
+      "aliases": [
+        "struggling with performance reviews and team dynamics"
+      ],
+      "count": 1
+    },
+    "unnamed": {
+      "id": "unnamed",
+      "preferred": "поддержка новых руководителей и менеджеров",
+      "aliases": [
+        "поддержка новых руководителей и менеджеров"
+      ],
+      "count": 1
+    },
+    "support-for-new-leaders-and-people-managers": {
+      "id": "support-for-new-leaders-and-people-managers",
+      "preferred": "support for new leaders and people managers",
+      "aliases": [
+        "support for new leaders and people managers"
+      ],
+      "count": 1
+    },
+    "advancement-of-ai-technology-in-professional-coaching": {
+      "id": "advancement-of-ai-technology-in-professional-coaching",
+      "preferred": "advancement of AI technology in professional coaching",
+      "aliases": [
+        "advancement of AI technology in professional coaching"
+      ],
+      "count": 1
+    },
+    "client-stuck-between-two-choices": {
+      "id": "client-stuck-between-two-choices",
+      "preferred": "client stuck between two choices",
+      "aliases": [
+        "client stuck between two choices"
+      ],
+      "count": 1
+    },
+    "ai-in-coaching-vs-energetic-presence": {
+      "id": "ai-in-coaching-vs-energetic-presence",
+      "preferred": "AI in coaching vs energetic presence",
+      "aliases": [
+        "AI in coaching vs energetic presence"
+      ],
+      "count": 1
+    },
+    "earthquake-disruption": {
+      "id": "earthquake-disruption",
+      "preferred": "earthquake disruption",
+      "aliases": [
+        "earthquake disruption"
+      ],
+      "count": 1
+    },
+    "client-lacks-foundational-knowledge": {
+      "id": "client-lacks-foundational-knowledge",
+      "preferred": "client lacks foundational knowledge",
+      "aliases": [
+        "client lacks foundational knowledge"
+      ],
+      "count": 1
+    },
+    "ensuring-new-hires-align-with-company-values": {
+      "id": "ensuring-new-hires-align-with-company-values",
+      "preferred": "ensuring new hires align with company values",
+      "aliases": [
+        "ensuring new hires align with company values"
+      ],
+      "count": 1
+    },
+    "economic-disruption-and-tariff-chaos": {
+      "id": "economic-disruption-and-tariff-chaos",
+      "preferred": "economic disruption and tariff chaos",
+      "aliases": [
+        "economic disruption and tariff chaos"
+      ],
+      "count": 1
+    },
+    "client-core-limiting-identity-belief": {
+      "id": "client-core-limiting-identity-belief",
+      "preferred": "client core limiting identity belief",
+      "aliases": [
+        "client core limiting identity belief"
+      ],
+      "count": 1
+    },
+    "ai-bots-delivering-acc-and-pcc-level-coaching-sessions": {
+      "id": "ai-bots-delivering-acc-and-pcc-level-coaching-sessions",
+      "preferred": "AI bots delivering ACC and PCC-level coaching sessions",
+      "aliases": [
+        "AI bots delivering ACC and PCC-level coaching sessions"
+      ],
+      "count": 1
+    },
+    "struggling-to-get-coaching-business-established": {
+      "id": "struggling-to-get-coaching-business-established",
+      "preferred": "struggling to get coaching business established",
+      "aliases": [
+        "struggling to get coaching business established"
+      ],
+      "count": 1
+    },
+    "client-circling-the-same-issue": {
+      "id": "client-circling-the-same-issue",
+      "preferred": "client circling the same issue",
+      "aliases": [
+        "client circling the same issue"
+      ],
+      "count": 1
+    },
+    "struggling-to-establish-a-coaching-practice": {
+      "id": "struggling-to-establish-a-coaching-practice",
+      "preferred": "struggling to establish a coaching practice",
+      "aliases": [
+        "struggling to establish a coaching practice"
+      ],
+      "count": 1
+    },
+    "financial-pressure-to-make-business-succeed": {
+      "id": "financial-pressure-to-make-business-succeed",
+      "preferred": "financial pressure to make business succeed",
+      "aliases": [
+        "financial pressure to make business succeed"
+      ],
+      "count": 1
+    },
+    "working-in-a-hotel-room-overseas-after-client-workshop": {
+      "id": "working-in-a-hotel-room-overseas-after-client-workshop",
+      "preferred": "working in a hotel room overseas after client workshop",
+      "aliases": [
+        "working in a hotel room overseas after client workshop"
+      ],
+      "count": 1
+    },
+    "determining-software-price": {
+      "id": "determining-software-price",
+      "preferred": "determining software price",
+      "aliases": [
+        "determining software price"
+      ],
+      "count": 1
+    },
+    "ai-disruption-of-pcc-coaching": {
+      "id": "ai-disruption-of-pcc-coaching",
+      "preferred": "AI disruption of PCC coaching",
+      "aliases": [
+        "AI disruption of PCC coaching"
+      ],
+      "count": 1
+    },
+    "client-has-a-knowledge-gap": {
+      "id": "client-has-a-knowledge-gap",
+      "preferred": "client has a knowledge gap",
+      "aliases": [
+        "client has a knowledge gap"
+      ],
+      "count": 1
+    },
+    "coaching-a-client-with-adhd": {
+      "id": "coaching-a-client-with-adhd",
+      "preferred": "coaching a client with ADHD",
+      "aliases": [
+        "coaching a client with ADHD"
+      ],
+      "count": 1
+    },
+    "coaching-market-commoditization": {
+      "id": "coaching-market-commoditization",
+      "preferred": "coaching market commoditization",
+      "aliases": [
+        "coaching market commoditization"
+      ],
+      "count": 1
+    },
+    "selling-coaching-hours": {
+      "id": "selling-coaching-hours",
+      "preferred": "selling coaching hours",
+      "aliases": [
+        "selling coaching hours"
+      ],
+      "count": 1
+    },
+    "disappearance-of-entry-level-jobs": {
+      "id": "disappearance-of-entry-level-jobs",
+      "preferred": "disappearance of entry-level jobs",
+      "aliases": [
+        "disappearance of entry-level jobs"
+      ],
+      "count": 1
+    },
+    "feeling-overwhelmed-by-models-and-acronyms": {
+      "id": "feeling-overwhelmed-by-models-and-acronyms",
+      "preferred": "feeling overwhelmed by models and acronyms",
+      "aliases": [
+        "feeling overwhelmed by models and acronyms"
+      ],
+      "count": 1
+    },
+    "feeling-off-centre": {
+      "id": "feeling-off-centre",
+      "preferred": "feeling off-centre",
+      "aliases": [
+        "feeling off-centre"
+      ],
+      "count": 1
+    },
+    "feeling-awkward-selling": {
+      "id": "feeling-awkward-selling",
+      "preferred": "feeling awkward selling",
+      "aliases": [
+        "feeling awkward selling"
+      ],
+      "count": 1
+    },
+    "aiming-for-mcc": {
+      "id": "aiming-for-mcc",
+      "preferred": "aiming for MCC",
+      "aliases": [
+        "aiming for MCC"
+      ],
+      "count": 1
+    },
+    "high-first-time-failure-rate-on-mcc-evaluation": {
+      "id": "high-first-time-failure-rate-on-mcc-evaluation",
+      "preferred": "high first-time failure rate on MCC evaluation",
+      "aliases": [
+        "high first-time failure rate on MCC evaluation"
+      ],
+      "count": 1
+    },
+    "evaluating-coaching-programme-suitability": {
+      "id": "evaluating-coaching-programme-suitability",
+      "preferred": "evaluating coaching programme suitability",
+      "aliases": [
+        "evaluating coaching programme suitability"
+      ],
+      "count": 1
+    },
+    "overcomplicating-coaching-sessions": {
+      "id": "overcomplicating-coaching-sessions",
+      "preferred": "overcomplicating coaching sessions",
+      "aliases": [
+        "overcomplicating coaching sessions"
+      ],
+      "count": 1
+    },
+    "fear-of-selling": {
+      "id": "fear-of-selling",
+      "preferred": "fear of selling",
+      "aliases": [
+        "fear of selling"
+      ],
+      "count": 1
+    },
+    "coach-exhaustion-from-overthinking": {
+      "id": "coach-exhaustion-from-overthinking",
+      "preferred": "coach exhaustion from overthinking",
+      "aliases": [
+        "coach exhaustion from overthinking"
+      ],
+      "count": 1
+    },
+    "feeling-technically-competent-but-unsettled-or-effortful-in-": {
+      "id": "feeling-technically-competent-but-unsettled-or-effortful-in-",
+      "preferred": "feeling technically competent but unsettled or effortful in coaching",
+      "aliases": [
+        "feeling technically competent but unsettled or effortful in coaching"
+      ],
+      "count": 1
+    },
+    "struggling-to-get-clients-in-front-of-you": {
+      "id": "struggling-to-get-clients-in-front-of-you",
+      "preferred": "struggling to get clients in front of you",
+      "aliases": [
+        "struggling to get clients in front of you"
+      ],
+      "count": 1
+    },
+    "designing-learning-cohorts": {
+      "id": "designing-learning-cohorts",
+      "preferred": "designing learning cohorts",
+      "aliases": [
+        "designing learning cohorts"
+      ],
+      "count": 1
+    },
+    "practising-coaching-alone-without-feedback": {
+      "id": "practising-coaching-alone-without-feedback",
+      "preferred": "practising coaching alone without feedback",
+      "aliases": [
+        "practising coaching alone without feedback"
+      ],
+      "count": 1
+    },
+    "coaching-feels-effortful": {
+      "id": "coaching-feels-effortful",
+      "preferred": "coaching feels effortful",
+      "aliases": [
+        "coaching feels effortful"
+      ],
+      "count": 1
+    },
+    "rationalizing-avoidance-of-sales-conversations": {
+      "id": "rationalizing-avoidance-of-sales-conversations",
+      "preferred": "rationalizing avoidance of sales conversations",
+      "aliases": [
+        "rationalizing avoidance of sales conversations"
+      ],
+      "count": 1
+    },
+    "relying-on-intermediaries-for-client-referrals": {
+      "id": "relying-on-intermediaries-for-client-referrals",
+      "preferred": "relying on intermediaries for client referrals",
+      "aliases": [
+        "relying on intermediaries for client referrals"
+      ],
+      "count": 1
+    },
+    "passing-mcc-cleanly": {
+      "id": "passing-mcc-cleanly",
+      "preferred": "passing MCC cleanly",
+      "aliases": [
+        "passing MCC cleanly"
+      ],
+      "count": 1
+    },
+    "facing-avoided-truths": {
+      "id": "facing-avoided-truths",
+      "preferred": "facing avoided truths",
+      "aliases": [
+        "facing avoided truths"
+      ],
+      "count": 1
+    },
+    "cross-cultural-membership": {
+      "id": "cross-cultural-membership",
+      "preferred": "cross-cultural membership",
+      "aliases": [
+        "cross-cultural membership"
+      ],
+      "count": 1
+    },
+    "looking-for-reassurance-or-guaranteed-pathways": {
+      "id": "looking-for-reassurance-or-guaranteed-pathways",
+      "preferred": "looking for reassurance or guaranteed pathways",
+      "aliases": [
+        "looking for reassurance or guaranteed pathways"
+      ],
+      "count": 1
+    },
+    "knowing-more-than-you-can-express-in-coaching": {
+      "id": "knowing-more-than-you-can-express-in-coaching",
+      "preferred": "knowing more than you can express in coaching",
+      "aliases": [
+        "knowing more than you can express in coaching"
+      ],
+      "count": 1
+    },
+    "intimidated-by-sales-process": {
+      "id": "intimidated-by-sales-process",
+      "preferred": "intimidated by sales process",
+      "aliases": [
+        "intimidated by sales process"
+      ],
+      "count": 1
+    },
+    "relying-on-platforms-for-corporate-work": {
+      "id": "relying-on-platforms-for-corporate-work",
+      "preferred": "relying on platforms for corporate work",
+      "aliases": [
+        "relying on platforms for corporate work"
+      ],
+      "count": 1
+    },
+    "coaches-seeking-depth-without-drama-or-noise": {
+      "id": "coaches-seeking-depth-without-drama-or-noise",
+      "preferred": "coaches seeking depth without drama or noise",
+      "aliases": [
+        "coaches seeking depth without drama or noise"
+      ],
+      "count": 1
+    },
+    "new-to-the-industry-and-learning-to-sell": {
+      "id": "new-to-the-industry-and-learning-to-sell",
+      "preferred": "new to the industry and learning to sell",
+      "aliases": [
+        "new to the industry and learning to sell"
+      ],
+      "count": 1
+    },
+    "transitioning-to-full-time-coaching": {
+      "id": "transitioning-to-full-time-coaching",
+      "preferred": "transitioning to full-time coaching",
+      "aliases": [
+        "transitioning to full-time coaching"
+      ],
+      "count": 1
+    },
+    "considering-joining-a-coaching-program": {
+      "id": "considering-joining-a-coaching-program",
+      "preferred": "considering joining a coaching program",
+      "aliases": [
+        "considering joining a coaching program"
+      ],
+      "count": 1
+    },
+    "negotiating-ceo-appointment": {
+      "id": "negotiating-ceo-appointment",
+      "preferred": "negotiating CEO appointment",
+      "aliases": [
+        "negotiating CEO appointment"
+      ],
+      "count": 1
+    },
+    "high-ceo-failure-rate": {
+      "id": "high-ceo-failure-rate",
+      "preferred": "high CEO failure rate",
+      "aliases": [
+        "high CEO failure rate"
+      ],
+      "count": 1
+    },
+    "underfunding-new-ceo-onboarding-and-support": {
+      "id": "underfunding-new-ceo-onboarding-and-support",
+      "preferred": "underfunding new CEO onboarding and support",
+      "aliases": [
+        "underfunding new CEO onboarding and support"
+      ],
+      "count": 1
+    },
+    "executive-hiring-and-replacement-guarantees": {
+      "id": "executive-hiring-and-replacement-guarantees",
+      "preferred": "executive hiring and replacement guarantees",
+      "aliases": [
+        "executive hiring and replacement guarantees"
+      ],
+      "count": 1
+    },
+    "underperforming-ceo-stays-in-role": {
+      "id": "underperforming-ceo-stays-in-role",
+      "preferred": "underperforming CEO stays in role",
+      "aliases": [
+        "underperforming CEO stays in role"
+      ],
+      "count": 1
+    },
+    "fear-of-confronting-performance-issues": {
+      "id": "fear-of-confronting-performance-issues",
+      "preferred": "fear of confronting performance issues",
+      "aliases": [
+        "fear of confronting performance issues"
+      ],
+      "count": 1
+    },
+    "overthinking-during-coaching-sessions": {
+      "id": "overthinking-during-coaching-sessions",
+      "preferred": "overthinking during coaching sessions",
+      "aliases": [
+        "overthinking during coaching sessions"
+      ],
+      "count": 1
+    },
+    "client-hits-a-wall-of-sudden-emotion": {
+      "id": "client-hits-a-wall-of-sudden-emotion",
+      "preferred": "client hits a wall of sudden emotion",
+      "aliases": [
+        "client hits a wall of sudden emotion"
+      ],
+      "count": 1
+    },
+    "delayed-coaching-approval": {
+      "id": "delayed-coaching-approval",
+      "preferred": "delayed coaching approval",
+      "aliases": [
+        "delayed coaching approval"
+      ],
+      "count": 1
+    },
+    "slow-coaching-pace": {
+      "id": "slow-coaching-pace",
+      "preferred": "slow coaching pace",
+      "aliases": [
+        "slow coaching pace"
+      ],
+      "count": 1
+    },
+    "stepping-into-the-ceo-role": {
+      "id": "stepping-into-the-ceo-role",
+      "preferred": "stepping into the CEO role",
+      "aliases": [
+        "stepping into the CEO role"
+      ],
+      "count": 1
+    },
+    "promoting-top-salesperson-to-manager": {
+      "id": "promoting-top-salesperson-to-manager",
+      "preferred": "promoting top salesperson to manager",
+      "aliases": [
+        "promoting top salesperson to manager"
+      ],
+      "count": 1
+    },
+    "disruption-of-entry-level-workplace-pyramid": {
+      "id": "disruption-of-entry-level-workplace-pyramid",
+      "preferred": "disruption of entry-level workplace pyramid",
+      "aliases": [
+        "disruption of entry-level workplace pyramid"
+      ],
+      "count": 1
+    },
+    "ceo-being-pulled-from-strategy-to-execution": {
+      "id": "ceo-being-pulled-from-strategy-to-execution",
+      "preferred": "CEO being pulled from strategy to execution",
+      "aliases": [
+        "CEO being pulled from strategy to execution"
+      ],
+      "count": 1
+    },
+    "client-delay-in-answering": {
+      "id": "client-delay-in-answering",
+      "preferred": "client delay in answering",
+      "aliases": [
+        "client delay in answering"
+      ],
+      "count": 1
+    },
+    "writing-development-guidance-for-annual-appraisals": {
+      "id": "writing-development-guidance-for-annual-appraisals",
+      "preferred": "writing development guidance for annual appraisals",
+      "aliases": [
+        "writing development guidance for annual appraisals"
+      ],
+      "count": 1
+    },
+    "corporate-buyers-skeptical-of-coach-credentials": {
+      "id": "corporate-buyers-skeptical-of-coach-credentials",
+      "preferred": "corporate buyers skeptical of coach credentials",
+      "aliases": [
+        "corporate buyers skeptical of coach credentials"
+      ],
+      "count": 1
+    },
+    "coaches-earning-less-due-to-lack-of-corporate-buying-knowled": {
+      "id": "coaches-earning-less-due-to-lack-of-corporate-buying-knowled",
+      "preferred": "coaches earning less due to lack of corporate buying knowledge",
+      "aliases": [
+        "coaches earning less due to lack of corporate buying knowledge"
+      ],
+      "count": 1
+    },
+    "targeting-corporate-clients-for-coaching-contracts": {
+      "id": "targeting-corporate-clients-for-coaching-contracts",
+      "preferred": "targeting corporate clients for coaching contracts",
+      "aliases": [
+        "targeting corporate clients for coaching contracts"
+      ],
+      "count": 1
+    },
+    "stepping-into-a-ceo-or-business-head-role": {
+      "id": "stepping-into-a-ceo-or-business-head-role",
+      "preferred": "stepping into a CEO or business head role",
+      "aliases": [
+        "stepping into a CEO or business head role"
+      ],
+      "count": 1
     }
   },
   "topic": {
+    "coaching-mastery": {
+      "id": "coaching-mastery",
+      "preferred": "coaching mastery",
+      "aliases": [
+        "coach mastery",
+        "coaching mastery",
+        "mastery in coaching",
+        "mastery of coaching fundamentals"
+      ],
+      "count": 43
+    },
+    "ai-leadership-coaching": {
+      "id": "ai-leadership-coaching",
+      "preferred": "AI leadership coaching",
+      "aliases": [
+        "AI leadership coaching"
+      ],
+      "count": 28
+    },
     "executive-coaching": {
       "id": "executive-coaching",
       "preferred": "executive coaching",
       "aliases": [
         "executive coaching"
       ],
-      "count": 9
+      "count": 15
     },
-    "coaching-mastery": {
-      "id": "coaching-mastery",
-      "preferred": "coaching mastery",
+    "ai-in-coaching": {
+      "id": "ai-in-coaching",
+      "preferred": "AI in coaching",
       "aliases": [
-        "coaching mastery"
+        "AI in coaching"
+      ],
+      "count": 13
+    },
+    "ai-leadership-mentoring": {
+      "id": "ai-leadership-mentoring",
+      "preferred": "AI leadership mentoring",
+      "aliases": [
+        "AI leadership mentoring"
+      ],
+      "count": 13
+    },
+    "coachathon-charity-coaching": {
+      "id": "coachathon-charity-coaching",
+      "preferred": "Coachathon charity coaching",
+      "aliases": [
+        "Coachathon charity coaching",
+        "Coachathon charity fundraising",
+        "Coachathon charity initiative",
+        "charity coaching marathon"
+      ],
+      "count": 13
+    },
+    "ai-coaching-tools": {
+      "id": "ai-coaching-tools",
+      "preferred": "AI coaching tools",
+      "aliases": [
+        "AI coaching tool",
+        "AI coaching tools"
+      ],
+      "count": 10
+    },
+    "icf-core-competencies": {
+      "id": "icf-core-competencies",
+      "preferred": "ICF core competencies",
+      "aliases": [
+        "ICF Core Competencies",
+        "ICF competencies",
+        "ICF core competencies"
+      ],
+      "count": 10
+    },
+    "coaching-presence": {
+      "id": "coaching-presence",
+      "preferred": "coaching presence",
+      "aliases": [
+        "coach presence",
+        "coaching presence"
+      ],
+      "count": 8
+    },
+    "ai-in-executive-coaching": {
+      "id": "ai-in-executive-coaching",
+      "preferred": "AI in executive coaching",
+      "aliases": [
+        "AI in executive coaching"
       ],
       "count": 7
     },
-    "icf-competencies": {
-      "id": "icf-competencies",
-      "preferred": "ICF competencies",
+    "ai-in-leadership-coaching": {
+      "id": "ai-in-leadership-coaching",
+      "preferred": "AI in leadership coaching",
       "aliases": [
-        "ICF competencies",
-        "ICF core competencies"
+        "AI in leadership coaching"
+      ],
+      "count": 7
+    },
+    "ai-leadership-tools": {
+      "id": "ai-leadership-tools",
+      "preferred": "AI leadership tools",
+      "aliases": [
+        "AI leadership tools"
+      ],
+      "count": 7
+    },
+    "ai-coaching": {
+      "id": "ai-coaching",
+      "preferred": "AI coaching",
+      "aliases": [
+        "AI coaching"
+      ],
+      "count": 6
+    },
+    "mcc-credentialing": {
+      "id": "mcc-credentialing",
+      "preferred": "MCC credentialing",
+      "aliases": [
+        "MCC certification",
+        "MCC credentialing"
+      ],
+      "count": 6
+    },
+    "coach-training": {
+      "id": "coach-training",
+      "preferred": "coach training",
+      "aliases": [
+        "coach development",
+        "coach professional development",
+        "coach training"
       ],
       "count": 6
     },
@@ -1859,11 +3831,172 @@
       ],
       "count": 6
     },
+    "selling-coaching-services-to-corporate-clients": {
+      "id": "selling-coaching-services-to-corporate-clients",
+      "preferred": "selling coaching services to corporate clients",
+      "aliases": [
+        "corporate coaching sales",
+        "corporate sales for coaches",
+        "selling coaching services to corporate clients",
+        "selling coaching services to corporates",
+        "selling coaching to corporate clients",
+        "selling coaching to corporates"
+      ],
+      "count": 6
+    },
     "active-listening": {
       "id": "active-listening",
       "preferred": "active listening",
       "aliases": [
         "active listening"
+      ],
+      "count": 5
+    },
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 5
+    },
+    "multilingual-leadership-coaching": {
+      "id": "multilingual-leadership-coaching",
+      "preferred": "multilingual leadership coaching",
+      "aliases": [
+        "multilingual leadership coaching"
+      ],
+      "count": 5
+    },
+    "analytical-leadership": {
+      "id": "analytical-leadership",
+      "preferred": "analytical leadership",
+      "aliases": [
+        "analytical leadership"
+      ],
+      "count": 5
+    },
+    "ai-driven-leadership-insights": {
+      "id": "ai-driven-leadership-insights",
+      "preferred": "AI-driven leadership insights",
+      "aliases": [
+        "AI-driven leadership insights",
+        "AI-driven leadership intelligence"
+      ],
+      "count": 5
+    },
+    "ai-leadership-training": {
+      "id": "ai-leadership-training",
+      "preferred": "AI leadership training",
+      "aliases": [
+        "AI leadership training",
+        "AI-powered leadership training"
+      ],
+      "count": 5
+    },
+    "cross-cultural-leadership": {
+      "id": "cross-cultural-leadership",
+      "preferred": "cross-cultural leadership",
+      "aliases": [
+        "cross-cultural leadership"
+      ],
+      "count": 4
+    },
+    "ai-in-leadership": {
+      "id": "ai-in-leadership",
+      "preferred": "AI in leadership",
+      "aliases": [
+        "AI in leadership"
+      ],
+      "count": 4
+    },
+    "personalized-adaptive-learning": {
+      "id": "personalized-adaptive-learning",
+      "preferred": "personalized adaptive learning",
+      "aliases": [
+        "personalized adaptive learning"
+      ],
+      "count": 4
+    },
+    "leadership-challenges": {
+      "id": "leadership-challenges",
+      "preferred": "leadership challenges",
+      "aliases": [
+        "leadership challenges"
+      ],
+      "count": 4
+    },
+    "hyper-personalized-learning": {
+      "id": "hyper-personalized-learning",
+      "preferred": "hyper-personalized learning",
+      "aliases": [
+        "hyper-personalized learning"
+      ],
+      "count": 4
+    },
+    "data-backed-decision-making": {
+      "id": "data-backed-decision-making",
+      "preferred": "data-backed decision making",
+      "aliases": [
+        "data-backed decision making"
+      ],
+      "count": 4
+    },
+    "leadership-coaching": {
+      "id": "leadership-coaching",
+      "preferred": "leadership coaching",
+      "aliases": [
+        "leadership coaching"
+      ],
+      "count": 4
+    },
+    "deep-listening": {
+      "id": "deep-listening",
+      "preferred": "deep listening",
+      "aliases": [
+        "deep listening"
+      ],
+      "count": 4
+    },
+    "client-acquisition": {
+      "id": "client-acquisition",
+      "preferred": "client acquisition",
+      "aliases": [
+        "client acquisition"
+      ],
+      "count": 4
+    },
+    "ai-coaching-bots": {
+      "id": "ai-coaching-bots",
+      "preferred": "AI coaching bots",
+      "aliases": [
+        "AI coaching bots"
+      ],
+      "count": 4
+    },
+    "mcc-coaching-mastery": {
+      "id": "mcc-coaching-mastery",
+      "preferred": "MCC coaching mastery",
+      "aliases": [
+        "MCC coaching mastery"
+      ],
+      "count": 4
+    },
+    "building-a-coaching-practice": {
+      "id": "building-a-coaching-practice",
+      "preferred": "building a coaching practice",
+      "aliases": [
+        "building a coaching practice",
+        "establishing a coaching practice"
+      ],
+      "count": 4
+    },
+    "executive-coaching-mastery": {
+      "id": "executive-coaching-mastery",
+      "preferred": "executive coaching mastery",
+      "aliases": [
+        "executive coaching mastery",
+        "mastery in executive coaching"
       ],
       "count": 4
     },
@@ -1875,11 +4008,43 @@
       ],
       "count": 3
     },
+    "continuous-learning": {
+      "id": "continuous-learning",
+      "preferred": "continuous learning",
+      "aliases": [
+        "continuous learning"
+      ],
+      "count": 3
+    },
+    "facilitation": {
+      "id": "facilitation",
+      "preferred": "facilitation",
+      "aliases": [
+        "facilitation"
+      ],
+      "count": 3
+    },
     "training-roi": {
       "id": "training-roi",
       "preferred": "training ROI",
       "aliases": [
         "training ROI"
+      ],
+      "count": 3
+    },
+    "non-directive-coaching": {
+      "id": "non-directive-coaching",
+      "preferred": "non-directive coaching",
+      "aliases": [
+        "non-directive coaching"
+      ],
+      "count": 3
+    },
+    "executive-transitions": {
+      "id": "executive-transitions",
+      "preferred": "executive transitions",
+      "aliases": [
+        "executive transitions"
       ],
       "count": 3
     },
@@ -1899,21 +4064,100 @@
       ],
       "count": 3
     },
+    "ai-driven-leadership-coaching": {
+      "id": "ai-driven-leadership-coaching",
+      "preferred": "AI-driven leadership coaching",
+      "aliases": [
+        "AI-driven leadership coaching"
+      ],
+      "count": 3
+    },
+    "ai-driven-personalized-leadership-coaching": {
+      "id": "ai-driven-personalized-leadership-coaching",
+      "preferred": "AI-driven personalized leadership coaching",
+      "aliases": [
+        "AI-driven personalized leadership coaching"
+      ],
+      "count": 3
+    },
+    "multilingual-leadership-insights": {
+      "id": "multilingual-leadership-insights",
+      "preferred": "multilingual leadership insights",
+      "aliases": [
+        "multilingual leadership insights"
+      ],
+      "count": 3
+    },
+    "multilingual-communication": {
+      "id": "multilingual-communication",
+      "preferred": "multilingual communication",
+      "aliases": [
+        "multilingual communication"
+      ],
+      "count": 3
+    },
+    "continuous-leadership-learning": {
+      "id": "continuous-leadership-learning",
+      "preferred": "continuous leadership learning",
+      "aliases": [
+        "continuous leadership learning"
+      ],
+      "count": 3
+    },
+    "actionable-leadership": {
+      "id": "actionable-leadership",
+      "preferred": "actionable leadership",
+      "aliases": [
+        "actionable leadership"
+      ],
+      "count": 3
+    },
+    "multilingual-leadership-communication": {
+      "id": "multilingual-leadership-communication",
+      "preferred": "multilingual leadership communication",
+      "aliases": [
+        "multilingual leadership communication"
+      ],
+      "count": 3
+    },
+    "multicultural-leadership": {
+      "id": "multicultural-leadership",
+      "preferred": "multicultural leadership",
+      "aliases": [
+        "multicultural leadership"
+      ],
+      "count": 3
+    },
+    "coaching": {
+      "id": "coaching",
+      "preferred": "coaching",
+      "aliases": [
+        "coaching"
+      ],
+      "count": 3
+    },
+    "pro-bono-coaching": {
+      "id": "pro-bono-coaching",
+      "preferred": "pro bono coaching",
+      "aliases": [
+        "pro bono coaching"
+      ],
+      "count": 3
+    },
+    "j-p-morgan-corporate-challenge": {
+      "id": "j-p-morgan-corporate-challenge",
+      "preferred": "J.P. Morgan Corporate Challenge",
+      "aliases": [
+        "J.P. Morgan Corporate Challenge"
+      ],
+      "count": 3
+    },
     "energetic-connection": {
       "id": "energetic-connection",
       "preferred": "energetic connection",
       "aliases": [
         "energetic connection",
         "energy connection"
-      ],
-      "count": 3
-    },
-    "coaching-presence": {
-      "id": "coaching-presence",
-      "preferred": "coaching presence",
-      "aliases": [
-        "coach presence",
-        "coaching presence"
       ],
       "count": 3
     },
@@ -1926,13 +4170,21 @@
       ],
       "count": 3
     },
-    "selling-coaching-services-to-corporate-clients": {
-      "id": "selling-coaching-services-to-corporate-clients",
-      "preferred": "selling coaching services to corporate clients",
+    "coach-confidence": {
+      "id": "coach-confidence",
+      "preferred": "coach confidence",
       "aliases": [
-        "selling coaching services to corporate clients",
-        "selling coaching services to corporates",
-        "selling coaching to corporates"
+        "coach confidence",
+        "self-confidence in coaching"
+      ],
+      "count": 3
+    },
+    "career-advancement": {
+      "id": "career-advancement",
+      "preferred": "career advancement",
+      "aliases": [
+        "career advancement",
+        "career progression"
       ],
       "count": 3
     },
@@ -1952,19 +4204,19 @@
       ],
       "count": 2
     },
-    "facilitation": {
-      "id": "facilitation",
-      "preferred": "facilitation",
+    "presence-and-silence": {
+      "id": "presence-and-silence",
+      "preferred": "presence and silence",
       "aliases": [
-        "facilitation"
+        "presence and silence"
       ],
       "count": 2
     },
-    "leadership-development": {
-      "id": "leadership-development",
-      "preferred": "leadership development",
+    "coaching-questions": {
+      "id": "coaching-questions",
+      "preferred": "coaching questions",
       "aliases": [
-        "leadership development"
+        "coaching questions"
       ],
       "count": 2
     },
@@ -1992,11 +4244,37 @@
       ],
       "count": 2
     },
-    "executive-transitions": {
-      "id": "executive-transitions",
-      "preferred": "executive transitions",
+    "leadership-and-executive-coaching": {
+      "id": "leadership-and-executive-coaching",
+      "preferred": "leadership and executive coaching",
       "aliases": [
-        "executive transitions"
+        "leadership and executive coaching"
+      ],
+      "count": 2
+    },
+    "executive-hiring-and-failure-costs": {
+      "id": "executive-hiring-and-failure-costs",
+      "preferred": "executive hiring and failure costs",
+      "aliases": [
+        "executive hiring and failure costs"
+      ],
+      "count": 2
+    },
+    "coaching-futures-report": {
+      "id": "coaching-futures-report",
+      "preferred": "coaching futures report",
+      "aliases": [
+        "Coaching Futures Report",
+        "coaching futures report"
+      ],
+      "count": 2
+    },
+    "coaching-as-a-service": {
+      "id": "coaching-as-a-service",
+      "preferred": "Coaching as a Service",
+      "aliases": [
+        "Coaching as a Service",
+        "coaching as a service"
       ],
       "count": 2
     },
@@ -2024,6 +4302,22 @@
       ],
       "count": 2
     },
+    "subconscious-listening": {
+      "id": "subconscious-listening",
+      "preferred": "subconscious listening",
+      "aliases": [
+        "subconscious listening"
+      ],
+      "count": 2
+    },
+    "masterful-coaching": {
+      "id": "masterful-coaching",
+      "preferred": "masterful coaching",
+      "aliases": [
+        "masterful coaching"
+      ],
+      "count": 2
+    },
     "coaching-agreement": {
       "id": "coaching-agreement",
       "preferred": "coaching agreement",
@@ -2041,12 +4335,303 @@
       ],
       "count": 2
     },
+    "empty-minded-listening": {
+      "id": "empty-minded-listening",
+      "preferred": "empty-minded listening",
+      "aliases": [
+        "empty-minded listening"
+      ],
+      "count": 2
+    },
+    "leadership-adaptability": {
+      "id": "leadership-adaptability",
+      "preferred": "leadership adaptability",
+      "aliases": [
+        "leadership adaptability"
+      ],
+      "count": 2
+    },
+    "distilling-complex-concepts": {
+      "id": "distilling-complex-concepts",
+      "preferred": "distilling complex concepts",
+      "aliases": [
+        "distilling complex concepts"
+      ],
+      "count": 2
+    },
+    "leadership-simplicity": {
+      "id": "leadership-simplicity",
+      "preferred": "leadership simplicity",
+      "aliases": [
+        "leadership simplicity"
+      ],
+      "count": 2
+    },
+    "ai-in-leadership-development": {
+      "id": "ai-in-leadership-development",
+      "preferred": "AI in leadership development",
+      "aliases": [
+        "AI in leadership development"
+      ],
+      "count": 2
+    },
+    "leadership-efficiency": {
+      "id": "leadership-efficiency",
+      "preferred": "leadership efficiency",
+      "aliases": [
+        "leadership efficiency"
+      ],
+      "count": 2
+    },
+    "tailored-leadership-insights": {
+      "id": "tailored-leadership-insights",
+      "preferred": "tailored leadership insights",
+      "aliases": [
+        "tailored leadership insights"
+      ],
+      "count": 2
+    },
+    "executive-decision-making": {
+      "id": "executive-decision-making",
+      "preferred": "executive decision-making",
+      "aliases": [
+        "executive decision-making"
+      ],
+      "count": 2
+    },
+    "adaptive-learning": {
+      "id": "adaptive-learning",
+      "preferred": "adaptive learning",
+      "aliases": [
+        "adaptive learning"
+      ],
+      "count": 2
+    },
+    "multilingual-leadership-tools": {
+      "id": "multilingual-leadership-tools",
+      "preferred": "multilingual leadership tools",
+      "aliases": [
+        "multilingual leadership tools"
+      ],
+      "count": 2
+    },
+    "multilingual-leadership": {
+      "id": "multilingual-leadership",
+      "preferred": "multilingual leadership",
+      "aliases": [
+        "multilingual leadership"
+      ],
+      "count": 2
+    },
+    "coach-certification": {
+      "id": "coach-certification",
+      "preferred": "coach certification",
+      "aliases": [
+        "coach certification"
+      ],
+      "count": 2
+    },
+    "performance-appraisals": {
+      "id": "performance-appraisals",
+      "preferred": "performance appraisals",
+      "aliases": [
+        "performance appraisal",
+        "performance appraisals"
+      ],
+      "count": 2
+    },
+    "ai-driven-leadership-learning": {
+      "id": "ai-driven-leadership-learning",
+      "preferred": "AI-driven leadership learning",
+      "aliases": [
+        "AI-driven leadership learning"
+      ],
+      "count": 2
+    },
+    "time-management": {
+      "id": "time-management",
+      "preferred": "time management",
+      "aliases": [
+        "time management"
+      ],
+      "count": 2
+    },
+    "leadership-mentoring": {
+      "id": "leadership-mentoring",
+      "preferred": "leadership mentoring",
+      "aliases": [
+        "leadership mentoring"
+      ],
+      "count": 2
+    },
+    "personalized-leadership-coaching": {
+      "id": "personalized-leadership-coaching",
+      "preferred": "personalized leadership coaching",
+      "aliases": [
+        "personalized leadership coaching"
+      ],
+      "count": 2
+    },
+    "leadership-podcast": {
+      "id": "leadership-podcast",
+      "preferred": "leadership podcast",
+      "aliases": [
+        "leadership podcast"
+      ],
+      "count": 2
+    },
+    "podcast-summary": {
+      "id": "podcast-summary",
+      "preferred": "podcast summary",
+      "aliases": [
+        "podcast summary"
+      ],
+      "count": 2
+    },
+    "coaching-demonstration": {
+      "id": "coaching-demonstration",
+      "preferred": "coaching demonstration",
+      "aliases": [
+        "coaching demonstration"
+      ],
+      "count": 2
+    },
+    "charity-coaching": {
+      "id": "charity-coaching",
+      "preferred": "charity coaching",
+      "aliases": [
+        "charity coaching"
+      ],
+      "count": 2
+    },
+    "ai-impact-on-coaching": {
+      "id": "ai-impact-on-coaching",
+      "preferred": "AI impact on coaching",
+      "aliases": [
+        "AI impact on coaching"
+      ],
+      "count": 2
+    },
+    "future-of-coaching": {
+      "id": "future-of-coaching",
+      "preferred": "future of coaching",
+      "aliases": [
+        "future of coaching"
+      ],
+      "count": 2
+    },
+    "leadership-alignment": {
+      "id": "leadership-alignment",
+      "preferred": "leadership alignment",
+      "aliases": [
+        "leadership alignment"
+      ],
+      "count": 2
+    },
+    "tailored-leadership-guidance": {
+      "id": "tailored-leadership-guidance",
+      "preferred": "tailored leadership guidance",
+      "aliases": [
+        "tailored leadership guidance"
+      ],
+      "count": 2
+    },
+    "mcc-level-coaching-mastery": {
+      "id": "mcc-level-coaching-mastery",
+      "preferred": "MCC-level coaching mastery",
+      "aliases": [
+        "MCC level coaching mastery",
+        "MCC-level coaching mastery"
+      ],
+      "count": 2
+    },
+    "social-impact-coaching": {
+      "id": "social-impact-coaching",
+      "preferred": "social impact coaching",
+      "aliases": [
+        "social impact coaching"
+      ],
+      "count": 2
+    },
+    "coaching-masterclasses": {
+      "id": "coaching-masterclasses",
+      "preferred": "coaching masterclasses",
+      "aliases": [
+        "coaching masterclasses"
+      ],
+      "count": 2
+    },
+    "mcc-accreditation": {
+      "id": "mcc-accreditation",
+      "preferred": "MCC accreditation",
+      "aliases": [
+        "MCC accreditation"
+      ],
+      "count": 2
+    },
+    "listening-skills": {
+      "id": "listening-skills",
+      "preferred": "listening skills",
+      "aliases": [
+        "listening skills"
+      ],
+      "count": 2
+    },
+    "leadership-at-the-speed-of-thought": {
+      "id": "leadership-at-the-speed-of-thought",
+      "preferred": "Leadership at the Speed of Thought",
+      "aliases": [
+        "Leadership at the Speed of Thought"
+      ],
+      "count": 2
+    },
+    "mcc-level-coaching": {
+      "id": "mcc-level-coaching",
+      "preferred": "MCC-level coaching",
+      "aliases": [
+        "MCC-level coaching"
+      ],
+      "count": 2
+    },
+    "selling-for-coaches": {
+      "id": "selling-for-coaches",
+      "preferred": "selling for coaches",
+      "aliases": [
+        "selling for coaches"
+      ],
+      "count": 2
+    },
+    "ceo-onboarding": {
+      "id": "ceo-onboarding",
+      "preferred": "CEO onboarding",
+      "aliases": [
+        "CEO onboarding"
+      ],
+      "count": 2
+    },
+    "coaching-at-the-speed-of-thought": {
+      "id": "coaching-at-the-speed-of-thought",
+      "preferred": "Coaching at the Speed of Thought",
+      "aliases": [
+        "Coaching at the Speed of Thought"
+      ],
+      "count": 2
+    },
     "coaching-without-a-model": {
       "id": "coaching-without-a-model",
       "preferred": "coaching without a model",
       "aliases": [
         "coaching without a model",
         "coaching without models"
+      ],
+      "count": 2
+    },
+    "coaching-professional-development": {
+      "id": "coaching-professional-development",
+      "preferred": "coaching professional development",
+      "aliases": [
+        "coaching professional development",
+        "professional coaching skill development"
       ],
       "count": 2
     },
@@ -2059,6 +4644,42 @@
       ],
       "count": 2
     },
+    "human-agent-collaboration": {
+      "id": "human-agent-collaboration",
+      "preferred": "human-agent collaboration",
+      "aliases": [
+        "human-AI synergy",
+        "human-agent collaboration"
+      ],
+      "count": 2
+    },
+    "accountability-and-governance": {
+      "id": "accountability-and-governance",
+      "preferred": "accountability and governance",
+      "aliases": [
+        "AI governance and accountability",
+        "accountability and governance"
+      ],
+      "count": 2
+    },
+    "handling-client-emotions": {
+      "id": "handling-client-emotions",
+      "preferred": "handling client emotions",
+      "aliases": [
+        "handling client emotions",
+        "handling emotions in coaching"
+      ],
+      "count": 2
+    },
+    "evoking-awareness": {
+      "id": "evoking-awareness",
+      "preferred": "evoking awareness",
+      "aliases": [
+        "Competency 7: Evokes Awareness",
+        "evoking awareness"
+      ],
+      "count": 2
+    },
     "reframing": {
       "id": "reframing",
       "preferred": "reframing",
@@ -2068,12 +4689,39 @@
       ],
       "count": 2
     },
+    "core-competency-7": {
+      "id": "core-competency-7",
+      "preferred": "core competency 7",
+      "aliases": [
+        "Competency 7",
+        "core competency 7"
+      ],
+      "count": 2
+    },
     "coaching-boundaries": {
       "id": "coaching-boundaries",
       "preferred": "coaching boundaries",
       "aliases": [
         "boundaries in coaching",
         "coaching boundaries"
+      ],
+      "count": 2
+    },
+    "whole-life-coaching": {
+      "id": "whole-life-coaching",
+      "preferred": "whole life coaching",
+      "aliases": [
+        "life coaching",
+        "whole life coaching"
+      ],
+      "count": 2
+    },
+    "the-nine-actions": {
+      "id": "the-nine-actions",
+      "preferred": "The Nine Actions®",
+      "aliases": [
+        "The Nine Actions",
+        "The Nine Actions®"
       ],
       "count": 2
     },
@@ -2261,14 +4909,6 @@
       ],
       "count": 1
     },
-    "ai-leadership-coaching": {
-      "id": "ai-leadership-coaching",
-      "preferred": "AI leadership coaching",
-      "aliases": [
-        "AI leadership coaching"
-      ],
-      "count": 1
-    },
     "subconscious-coaching-presence": {
       "id": "subconscious-coaching-presence",
       "preferred": "subconscious coaching presence",
@@ -2290,22 +4930,6 @@
       "preferred": "energy waves and mindful listening",
       "aliases": [
         "energy waves and mindful listening"
-      ],
-      "count": 1
-    },
-    "continuous-learning": {
-      "id": "continuous-learning",
-      "preferred": "continuous learning",
-      "aliases": [
-        "continuous learning"
-      ],
-      "count": 1
-    },
-    "coaching-professional-development": {
-      "id": "coaching-professional-development",
-      "preferred": "coaching professional development",
-      "aliases": [
-        "coaching professional development"
       ],
       "count": 1
     },
@@ -2354,14 +4978,6 @@
       "preferred": "holding space",
       "aliases": [
         "holding space"
-      ],
-      "count": 1
-    },
-    "presence-and-silence": {
-      "id": "presence-and-silence",
-      "preferred": "presence and silence",
-      "aliases": [
-        "presence and silence"
       ],
       "count": 1
     },
@@ -2421,14 +5037,6 @@
       ],
       "count": 1
     },
-    "coaching-questions": {
-      "id": "coaching-questions",
-      "preferred": "coaching questions",
-      "aliases": [
-        "coaching questions"
-      ],
-      "count": 1
-    },
     "triggering-fresh-thinking": {
       "id": "triggering-fresh-thinking",
       "preferred": "triggering fresh thinking",
@@ -2453,35 +5061,11 @@
       ],
       "count": 1
     },
-    "non-directive-coaching": {
-      "id": "non-directive-coaching",
-      "preferred": "non-directive coaching",
-      "aliases": [
-        "non-directive coaching"
-      ],
-      "count": 1
-    },
     "task-allocation": {
       "id": "task-allocation",
       "preferred": "task allocation",
       "aliases": [
         "task allocation"
-      ],
-      "count": 1
-    },
-    "human-agent-collaboration": {
-      "id": "human-agent-collaboration",
-      "preferred": "human-agent collaboration",
-      "aliases": [
-        "human-agent collaboration"
-      ],
-      "count": 1
-    },
-    "accountability-and-governance": {
-      "id": "accountability-and-governance",
-      "preferred": "accountability and governance",
-      "aliases": [
-        "accountability and governance"
       ],
       "count": 1
     },
@@ -2509,14 +5093,6 @@
       ],
       "count": 1
     },
-    "career-progression": {
-      "id": "career-progression",
-      "preferred": "career progression",
-      "aliases": [
-        "career progression"
-      ],
-      "count": 1
-    },
     "cross-functional-leadership": {
       "id": "cross-functional-leadership",
       "preferred": "cross-functional leadership",
@@ -2533,14 +5109,6 @@
       ],
       "count": 1
     },
-    "leadership-and-executive-coaching": {
-      "id": "leadership-and-executive-coaching",
-      "preferred": "leadership and executive coaching",
-      "aliases": [
-        "leadership and executive coaching"
-      ],
-      "count": 1
-    },
     "career-transition-to-leadership": {
       "id": "career-transition-to-leadership",
       "preferred": "career transition to leadership",
@@ -2554,14 +5122,6 @@
       "preferred": "performance coaching skills",
       "aliases": [
         "performance coaching skills"
-      ],
-      "count": 1
-    },
-    "executive-hiring-and-failure-costs": {
-      "id": "executive-hiring-and-failure-costs",
-      "preferred": "executive hiring and failure costs",
-      "aliases": [
-        "executive hiring and failure costs"
       ],
       "count": 1
     },
@@ -2602,14 +5162,6 @@
       "preferred": "upward coaching",
       "aliases": [
         "upward coaching"
-      ],
-      "count": 1
-    },
-    "coaching-futures-report": {
-      "id": "coaching-futures-report",
-      "preferred": "coaching futures report",
-      "aliases": [
-        "coaching futures report"
       ],
       "count": 1
     },
@@ -2682,14 +5234,6 @@
       "preferred": "Skills Embedding Process",
       "aliases": [
         "Skills Embedding Process"
-      ],
-      "count": 1
-    },
-    "coaching-as-a-service": {
-      "id": "coaching-as-a-service",
-      "preferred": "Coaching as a Service",
-      "aliases": [
-        "Coaching as a Service"
       ],
       "count": 1
     },
@@ -2810,14 +5354,6 @@
       "preferred": "energetic connection in coaching",
       "aliases": [
         "energetic connection in coaching"
-      ],
-      "count": 1
-    },
-    "handling-client-emotions": {
-      "id": "handling-client-emotions",
-      "preferred": "handling client emotions",
-      "aliases": [
-        "handling client emotions"
       ],
       "count": 1
     },
@@ -2981,27 +5517,11 @@
       ],
       "count": 1
     },
-    "evoking-awareness": {
-      "id": "evoking-awareness",
-      "preferred": "evoking awareness",
-      "aliases": [
-        "evoking awareness"
-      ],
-      "count": 1
-    },
     "peer-coaching-perspective": {
       "id": "peer-coaching-perspective",
       "preferred": "peer coaching perspective",
       "aliases": [
         "peer coaching perspective"
-      ],
-      "count": 1
-    },
-    "subconscious-listening": {
-      "id": "subconscious-listening",
-      "preferred": "subconscious listening",
-      "aliases": [
-        "subconscious listening"
       ],
       "count": 1
     },
@@ -3237,14 +5757,6 @@
       ],
       "count": 1
     },
-    "masterful-coaching": {
-      "id": "masterful-coaching",
-      "preferred": "masterful coaching",
-      "aliases": [
-        "masterful coaching"
-      ],
-      "count": 1
-    },
     "establishing-coaching-agreements": {
       "id": "establishing-coaching-agreements",
       "preferred": "establishing coaching agreements",
@@ -3373,14 +5885,6 @@
       ],
       "count": 1
     },
-    "core-competency-7": {
-      "id": "core-competency-7",
-      "preferred": "core competency 7",
-      "aliases": [
-        "core competency 7"
-      ],
-      "count": 1
-    },
     "competency-practice": {
       "id": "competency-practice",
       "preferred": "competency practice",
@@ -3442,14 +5946,6 @@
       "preferred": "MCC evaluation standards",
       "aliases": [
         "MCC evaluation standards"
-      ],
-      "count": 1
-    },
-    "empty-minded-listening": {
-      "id": "empty-minded-listening",
-      "preferred": "empty-minded listening",
-      "aliases": [
-        "empty-minded listening"
       ],
       "count": 1
     },
@@ -3533,14 +6029,6 @@
       ],
       "count": 1
     },
-    "self-confidence-in-coaching": {
-      "id": "self-confidence-in-coaching",
-      "preferred": "self-confidence in coaching",
-      "aliases": [
-        "self-confidence in coaching"
-      ],
-      "count": 1
-    },
     "who-vs-what": {
       "id": "who-vs-what",
       "preferred": "who vs what",
@@ -3594,14 +6082,6 @@
       "preferred": "coaching credentialing hours",
       "aliases": [
         "coaching credentialing hours"
-      ],
-      "count": 1
-    },
-    "coach-confidence": {
-      "id": "coach-confidence",
-      "preferred": "coach confidence",
-      "aliases": [
-        "coach confidence"
       ],
       "count": 1
     },
@@ -3818,6 +6298,2022 @@
       "preferred": "facilitator training debrief",
       "aliases": [
         "facilitator training debrief"
+      ],
+      "count": 1
+    },
+    "executive-mentorship": {
+      "id": "executive-mentorship",
+      "preferred": "executive mentorship",
+      "aliases": [
+        "executive mentorship"
+      ],
+      "count": 1
+    },
+    "executive-development": {
+      "id": "executive-development",
+      "preferred": "executive development",
+      "aliases": [
+        "executive development"
+      ],
+      "count": 1
+    },
+    "multilingual-leadership-ai": {
+      "id": "multilingual-leadership-ai",
+      "preferred": "multilingual leadership AI",
+      "aliases": [
+        "multilingual leadership AI"
+      ],
+      "count": 1
+    },
+    "coach-training-mastery": {
+      "id": "coach-training-mastery",
+      "preferred": "coach training mastery",
+      "aliases": [
+        "coach training mastery"
+      ],
+      "count": 1
+    },
+    "icf-mcc-certification": {
+      "id": "icf-mcc-certification",
+      "preferred": "ICF MCC certification",
+      "aliases": [
+        "ICF MCC certification"
+      ],
+      "count": 1
+    },
+    "adaptive-learning-in-coaching": {
+      "id": "adaptive-learning-in-coaching",
+      "preferred": "adaptive learning in coaching",
+      "aliases": [
+        "adaptive learning in coaching"
+      ],
+      "count": 1
+    },
+    "career-planning": {
+      "id": "career-planning",
+      "preferred": "career planning",
+      "aliases": [
+        "career planning"
+      ],
+      "count": 1
+    },
+    "multilingual-ai-leadership-coaching": {
+      "id": "multilingual-ai-leadership-coaching",
+      "preferred": "multilingual AI leadership coaching",
+      "aliases": [
+        "multilingual AI leadership coaching"
+      ],
+      "count": 1
+    },
+    "ai-driven-continuous-learning-for-leaders": {
+      "id": "ai-driven-continuous-learning-for-leaders",
+      "preferred": "AI-driven continuous learning for leaders",
+      "aliases": [
+        "AI-driven continuous learning for leaders"
+      ],
+      "count": 1
+    },
+    "transforming-intent-into-action": {
+      "id": "transforming-intent-into-action",
+      "preferred": "transforming intent into action",
+      "aliases": [
+        "transforming intent into action"
+      ],
+      "count": 1
+    },
+    "adaptive-learning-in-professional-development": {
+      "id": "adaptive-learning-in-professional-development",
+      "preferred": "adaptive learning in professional development",
+      "aliases": [
+        "adaptive learning in professional development"
+      ],
+      "count": 1
+    },
+    "translating-leadership-thoughts-into-action": {
+      "id": "translating-leadership-thoughts-into-action",
+      "preferred": "translating leadership thoughts into action",
+      "aliases": [
+        "translating leadership thoughts into action"
+      ],
+      "count": 1
+    },
+    "leadership-coaching-platform": {
+      "id": "leadership-coaching-platform",
+      "preferred": "leadership coaching platform",
+      "aliases": [
+        "leadership coaching platform"
+      ],
+      "count": 1
+    },
+    "distilling-complex-leadership-challenges": {
+      "id": "distilling-complex-leadership-challenges",
+      "preferred": "distilling complex leadership challenges",
+      "aliases": [
+        "distilling complex leadership challenges"
+      ],
+      "count": 1
+    },
+    "coaching-mastery-levels": {
+      "id": "coaching-mastery-levels",
+      "preferred": "coaching mastery levels",
+      "aliases": [
+        "coaching mastery levels"
+      ],
+      "count": 1
+    },
+    "levels-of-coaching-mastery": {
+      "id": "levels-of-coaching-mastery",
+      "preferred": "levels of coaching mastery",
+      "aliases": [
+        "levels of coaching mastery"
+      ],
+      "count": 1
+    },
+    "icf-coaching-competency-6": {
+      "id": "icf-coaching-competency-6",
+      "preferred": "ICF Coaching Competency 6",
+      "aliases": [
+        "ICF Coaching Competency 6"
+      ],
+      "count": 1
+    },
+    "actionable-leadership-strategies": {
+      "id": "actionable-leadership-strategies",
+      "preferred": "actionable leadership strategies",
+      "aliases": [
+        "actionable leadership strategies"
+      ],
+      "count": 1
+    },
+    "self-leadership": {
+      "id": "self-leadership",
+      "preferred": "self leadership",
+      "aliases": [
+        "self leadership"
+      ],
+      "count": 1
+    },
+    "leadership-lessons-from-maritime-leaders": {
+      "id": "leadership-lessons-from-maritime-leaders",
+      "preferred": "leadership lessons from maritime leaders",
+      "aliases": [
+        "leadership lessons from maritime leaders"
+      ],
+      "count": 1
+    },
+    "personalized-learning": {
+      "id": "personalized-learning",
+      "preferred": "personalized learning",
+      "aliases": [
+        "personalized learning"
+      ],
+      "count": 1
+    },
+    "simplifying-complexity-in-leadership": {
+      "id": "simplifying-complexity-in-leadership",
+      "preferred": "simplifying complexity in leadership",
+      "aliases": [
+        "simplifying complexity in leadership"
+      ],
+      "count": 1
+    },
+    "executive-decision-making-efficiency": {
+      "id": "executive-decision-making-efficiency",
+      "preferred": "executive decision-making efficiency",
+      "aliases": [
+        "executive decision-making efficiency"
+      ],
+      "count": 1
+    },
+    "managerial-outcomes": {
+      "id": "managerial-outcomes",
+      "preferred": "managerial outcomes",
+      "aliases": [
+        "managerial outcomes"
+      ],
+      "count": 1
+    },
+    "measuring-business-results": {
+      "id": "measuring-business-results",
+      "preferred": "measuring business results",
+      "aliases": [
+        "measuring business results"
+      ],
+      "count": 1
+    },
+    "employee-growth": {
+      "id": "employee-growth",
+      "preferred": "employee growth",
+      "aliases": [
+        "employee growth"
+      ],
+      "count": 1
+    },
+    "soft-skills-measurement": {
+      "id": "soft-skills-measurement",
+      "preferred": "soft skills measurement",
+      "aliases": [
+        "soft skills measurement"
+      ],
+      "count": 1
+    },
+    "defining-personal-success": {
+      "id": "defining-personal-success",
+      "preferred": "defining personal success",
+      "aliases": [
+        "defining personal success"
+      ],
+      "count": 1
+    },
+    "people-development": {
+      "id": "people-development",
+      "preferred": "people development",
+      "aliases": [
+        "people development"
+      ],
+      "count": 1
+    },
+    "cross-organizational-collaboration": {
+      "id": "cross-organizational-collaboration",
+      "preferred": "cross-organizational collaboration",
+      "aliases": [
+        "cross-organizational collaboration"
+      ],
+      "count": 1
+    },
+    "matrix-organization": {
+      "id": "matrix-organization",
+      "preferred": "matrix organization",
+      "aliases": [
+        "matrix organization"
+      ],
+      "count": 1
+    },
+    "future-proofing-teams": {
+      "id": "future-proofing-teams",
+      "preferred": "future-proofing teams",
+      "aliases": [
+        "future-proofing teams"
+      ],
+      "count": 1
+    },
+    "using-energy-in-coaching": {
+      "id": "using-energy-in-coaching",
+      "preferred": "using energy in coaching",
+      "aliases": [
+        "using energy in coaching"
+      ],
+      "count": 1
+    },
+    "international-coaching-week": {
+      "id": "international-coaching-week",
+      "preferred": "International Coaching Week",
+      "aliases": [
+        "International Coaching Week"
+      ],
+      "count": 1
+    },
+    "job-application-aptitude": {
+      "id": "job-application-aptitude",
+      "preferred": "job application aptitude",
+      "aliases": [
+        "job application aptitude"
+      ],
+      "count": 1
+    },
+    "candidate-attitude-and-behaviors": {
+      "id": "candidate-attitude-and-behaviors",
+      "preferred": "candidate attitude and behaviors",
+      "aliases": [
+        "candidate attitude and behaviors"
+      ],
+      "count": 1
+    },
+    "company-values-and-cultural-alignment": {
+      "id": "company-values-and-cultural-alignment",
+      "preferred": "company values and cultural alignment",
+      "aliases": [
+        "company values and cultural alignment"
+      ],
+      "count": 1
+    },
+    "sustainability-leadership": {
+      "id": "sustainability-leadership",
+      "preferred": "sustainability leadership",
+      "aliases": [
+        "sustainability leadership"
+      ],
+      "count": 1
+    },
+    "measuring-soft-skills": {
+      "id": "measuring-soft-skills",
+      "preferred": "measuring soft skills",
+      "aliases": [
+        "measuring soft skills"
+      ],
+      "count": 1
+    },
+    "strategic-talent-continuum": {
+      "id": "strategic-talent-continuum",
+      "preferred": "Strategic Talent Continuum",
+      "aliases": [
+        "Strategic Talent Continuum"
+      ],
+      "count": 1
+    },
+    "motivation": {
+      "id": "motivation",
+      "preferred": "motivation",
+      "aliases": [
+        "motivation"
+      ],
+      "count": 1
+    },
+    "practical-leadership-experience": {
+      "id": "practical-leadership-experience",
+      "preferred": "practical leadership experience",
+      "aliases": [
+        "practical leadership experience"
+      ],
+      "count": 1
+    },
+    "pcc-certification": {
+      "id": "pcc-certification",
+      "preferred": "PCC certification",
+      "aliases": [
+        "PCC certification"
+      ],
+      "count": 1
+    },
+    "icf-credentialing-hours": {
+      "id": "icf-credentialing-hours",
+      "preferred": "ICF credentialing hours",
+      "aliases": [
+        "ICF credentialing hours"
+      ],
+      "count": 1
+    },
+    "sep-sessions": {
+      "id": "sep-sessions",
+      "preferred": "SEP sessions",
+      "aliases": [
+        "SEP sessions"
+      ],
+      "count": 1
+    },
+    "practical-leadership-guidance": {
+      "id": "practical-leadership-guidance",
+      "preferred": "practical leadership guidance",
+      "aliases": [
+        "practical leadership guidance"
+      ],
+      "count": 1
+    },
+    "time-efficiency": {
+      "id": "time-efficiency",
+      "preferred": "time efficiency",
+      "aliases": [
+        "time efficiency"
+      ],
+      "count": 1
+    },
+    "multilingual-leadership-coaching-tools": {
+      "id": "multilingual-leadership-coaching-tools",
+      "preferred": "multilingual leadership coaching tools",
+      "aliases": [
+        "multilingual leadership coaching tools"
+      ],
+      "count": 1
+    },
+    "leadership-learning": {
+      "id": "leadership-learning",
+      "preferred": "leadership learning",
+      "aliases": [
+        "leadership learning"
+      ],
+      "count": 1
+    },
+    "ai-coaching-design": {
+      "id": "ai-coaching-design",
+      "preferred": "AI coaching design",
+      "aliases": [
+        "AI coaching design"
+      ],
+      "count": 1
+    },
+    "expert-mentor-bots": {
+      "id": "expert-mentor-bots",
+      "preferred": "expert mentor bots",
+      "aliases": [
+        "expert mentor bots"
+      ],
+      "count": 1
+    },
+    "leadership-and-coaching": {
+      "id": "leadership-and-coaching",
+      "preferred": "leadership and coaching",
+      "aliases": [
+        "leadership and coaching"
+      ],
+      "count": 1
+    },
+    "leadership": {
+      "id": "leadership",
+      "preferred": "leadership",
+      "aliases": [
+        "leadership"
+      ],
+      "count": 1
+    },
+    "coaching-advice": {
+      "id": "coaching-advice",
+      "preferred": "coaching advice",
+      "aliases": [
+        "coaching advice"
+      ],
+      "count": 1
+    },
+    "leadership-consulting": {
+      "id": "leadership-consulting",
+      "preferred": "leadership consulting",
+      "aliases": [
+        "leadership consulting"
+      ],
+      "count": 1
+    },
+    "podcast-listening": {
+      "id": "podcast-listening",
+      "preferred": "podcast listening",
+      "aliases": [
+        "podcast listening"
+      ],
+      "count": 1
+    },
+    "value-and-culture-alignment": {
+      "id": "value-and-culture-alignment",
+      "preferred": "value and culture alignment",
+      "aliases": [
+        "value and culture alignment"
+      ],
+      "count": 1
+    },
+    "coaching-skills": {
+      "id": "coaching-skills",
+      "preferred": "coaching skills",
+      "aliases": [
+        "coaching skills"
+      ],
+      "count": 1
+    },
+    "robot-self-training-algorithms": {
+      "id": "robot-self-training-algorithms",
+      "preferred": "robot self-training algorithms",
+      "aliases": [
+        "robot self-training algorithms"
+      ],
+      "count": 1
+    },
+    "parenting-and-basketball": {
+      "id": "parenting-and-basketball",
+      "preferred": "parenting and basketball",
+      "aliases": [
+        "parenting and basketball"
+      ],
+      "count": 1
+    },
+    "presidential-debate": {
+      "id": "presidential-debate",
+      "preferred": "presidential debate",
+      "aliases": [
+        "presidential debate"
+      ],
+      "count": 1
+    },
+    "client-collaboration": {
+      "id": "client-collaboration",
+      "preferred": "client collaboration",
+      "aliases": [
+        "client collaboration"
+      ],
+      "count": 1
+    },
+    "ai-coaching-perception": {
+      "id": "ai-coaching-perception",
+      "preferred": "AI coaching perception",
+      "aliases": [
+        "AI coaching perception"
+      ],
+      "count": 1
+    },
+    "ai-coaching-adoption": {
+      "id": "ai-coaching-adoption",
+      "preferred": "AI coaching adoption",
+      "aliases": [
+        "AI coaching adoption"
+      ],
+      "count": 1
+    },
+    "future-of-ai-coaching": {
+      "id": "future-of-ai-coaching",
+      "preferred": "future of AI coaching",
+      "aliases": [
+        "future of AI coaching"
+      ],
+      "count": 1
+    },
+    "ai-assisted-leadership-decision-making": {
+      "id": "ai-assisted-leadership-decision-making",
+      "preferred": "AI-assisted leadership decision making",
+      "aliases": [
+        "AI-assisted leadership decision making"
+      ],
+      "count": 1
+    },
+    "ai-decision-making": {
+      "id": "ai-decision-making",
+      "preferred": "AI decision-making",
+      "aliases": [
+        "AI decision-making"
+      ],
+      "count": 1
+    },
+    "coachathon": {
+      "id": "coachathon",
+      "preferred": "Coachathon",
+      "aliases": [
+        "Coachathon"
+      ],
+      "count": 1
+    },
+    "early-career-coaching": {
+      "id": "early-career-coaching",
+      "preferred": "early career coaching",
+      "aliases": [
+        "early career coaching"
+      ],
+      "count": 1
+    },
+    "hr-turnover": {
+      "id": "hr-turnover",
+      "preferred": "HR turnover",
+      "aliases": [
+        "HR turnover"
+      ],
+      "count": 1
+    },
+    "hr-leadership": {
+      "id": "hr-leadership",
+      "preferred": "HR leadership",
+      "aliases": [
+        "HR leadership"
+      ],
+      "count": 1
+    },
+    "ai-in-leadership-learning": {
+      "id": "ai-in-leadership-learning",
+      "preferred": "AI in leadership learning",
+      "aliases": [
+        "AI in leadership learning"
+      ],
+      "count": 1
+    },
+    "metaphors-in-coaching": {
+      "id": "metaphors-in-coaching",
+      "preferred": "metaphors in coaching",
+      "aliases": [
+        "metaphors in coaching"
+      ],
+      "count": 1
+    },
+    "coaching-conversations": {
+      "id": "coaching-conversations",
+      "preferred": "coaching conversations",
+      "aliases": [
+        "coaching conversations"
+      ],
+      "count": 1
+    },
+    "organisational-change": {
+      "id": "organisational-change",
+      "preferred": "organisational change",
+      "aliases": [
+        "organisational change"
+      ],
+      "count": 1
+    },
+    "coaching-regulation": {
+      "id": "coaching-regulation",
+      "preferred": "coaching regulation",
+      "aliases": [
+        "coaching regulation"
+      ],
+      "count": 1
+    },
+    "client-centered-coaching": {
+      "id": "client-centered-coaching",
+      "preferred": "client-centered coaching",
+      "aliases": [
+        "client-centered coaching"
+      ],
+      "count": 1
+    },
+    "icf-credentialing": {
+      "id": "icf-credentialing",
+      "preferred": "ICF credentialing",
+      "aliases": [
+        "ICF credentialing"
+      ],
+      "count": 1
+    },
+    "ai-in-coaching-and-education": {
+      "id": "ai-in-coaching-and-education",
+      "preferred": "AI in coaching and education",
+      "aliases": [
+        "AI in coaching and education"
+      ],
+      "count": 1
+    },
+    "rag-systems-and-hallucinations": {
+      "id": "rag-systems-and-hallucinations",
+      "preferred": "RAG systems and hallucinations",
+      "aliases": [
+        "RAG systems and hallucinations"
+      ],
+      "count": 1
+    },
+    "energetics-in-coaching": {
+      "id": "energetics-in-coaching",
+      "preferred": "energetics in coaching",
+      "aliases": [
+        "energetics in coaching"
+      ],
+      "count": 1
+    },
+    "directness-and-bold-interventions": {
+      "id": "directness-and-bold-interventions",
+      "preferred": "directness and bold interventions",
+      "aliases": [
+        "directness and bold interventions"
+      ],
+      "count": 1
+    },
+    "master-coach-development": {
+      "id": "master-coach-development",
+      "preferred": "master coach development",
+      "aliases": [
+        "master coach development"
+      ],
+      "count": 1
+    },
+    "definition-of-energy": {
+      "id": "definition-of-energy",
+      "preferred": "definition of energy",
+      "aliases": [
+        "definition of energy"
+      ],
+      "count": 1
+    },
+    "ai-coaching-chatbots": {
+      "id": "ai-coaching-chatbots",
+      "preferred": "AI coaching chatbots",
+      "aliases": [
+        "AI coaching chatbots"
+      ],
+      "count": 1
+    },
+    "feedback": {
+      "id": "feedback",
+      "preferred": "feedback",
+      "aliases": [
+        "feedback"
+      ],
+      "count": 1
+    },
+    "skills-development": {
+      "id": "skills-development",
+      "preferred": "skills development",
+      "aliases": [
+        "skills development"
+      ],
+      "count": 1
+    },
+    "nature-of-coaching": {
+      "id": "nature-of-coaching",
+      "preferred": "nature of coaching",
+      "aliases": [
+        "nature of coaching"
+      ],
+      "count": 1
+    },
+    "balancing-outcome-vs-issue": {
+      "id": "balancing-outcome-vs-issue",
+      "preferred": "balancing outcome vs issue",
+      "aliases": [
+        "balancing outcome vs issue"
+      ],
+      "count": 1
+    },
+    "energy-dynamics": {
+      "id": "energy-dynamics",
+      "preferred": "energy dynamics",
+      "aliases": [
+        "energy dynamics"
+      ],
+      "count": 1
+    },
+    "energy-in-coaching": {
+      "id": "energy-in-coaching",
+      "preferred": "energy in coaching",
+      "aliases": [
+        "energy in coaching"
+      ],
+      "count": 1
+    },
+    "self-listening": {
+      "id": "self-listening",
+      "preferred": "self-listening",
+      "aliases": [
+        "self-listening"
+      ],
+      "count": 1
+    },
+    "leadership-mentoring-tools": {
+      "id": "leadership-mentoring-tools",
+      "preferred": "leadership mentoring tools",
+      "aliases": [
+        "leadership mentoring tools"
+      ],
+      "count": 1
+    },
+    "ia-para-liderazgo": {
+      "id": "ia-para-liderazgo",
+      "preferred": "IA para liderazgo",
+      "aliases": [
+        "IA para liderazgo"
+      ],
+      "count": 1
+    },
+    "coaching-de-leadership-par-ia": {
+      "id": "coaching-de-leadership-par-ia",
+      "preferred": "coaching de leadership par IA",
+      "aliases": [
+        "coaching de leadership par IA"
+      ],
+      "count": 1
+    },
+    "ai-mentoring": {
+      "id": "ai-mentoring",
+      "preferred": "AI mentoring",
+      "aliases": [
+        "AI mentoring"
+      ],
+      "count": 1
+    },
+    "ai-drivet-ledarskapsst-d": {
+      "id": "ai-drivet-ledarskapsst-d",
+      "preferred": "AI-drivet ledarskapsstöd",
+      "aliases": [
+        "AI-drivet ledarskapsstöd"
+      ],
+      "count": 1
+    },
+    "ai": {
+      "id": "ai",
+      "preferred": "AI-коучинг руководителей",
+      "aliases": [
+        "AI-коучинг руководителей"
+      ],
+      "count": 1
+    },
+    "ai-powered-leadership-coaching": {
+      "id": "ai-powered-leadership-coaching",
+      "preferred": "AI-powered leadership coaching",
+      "aliases": [
+        "AI-powered leadership coaching"
+      ],
+      "count": 1
+    },
+    "mentor-coach-training": {
+      "id": "mentor-coach-training",
+      "preferred": "mentor coach training",
+      "aliases": [
+        "mentor coach training"
+      ],
+      "count": 1
+    },
+    "deep-listening-and-reflection": {
+      "id": "deep-listening-and-reflection",
+      "preferred": "deep listening and reflection",
+      "aliases": [
+        "deep listening and reflection"
+      ],
+      "count": 1
+    },
+    "masterful-coaching-techniques": {
+      "id": "masterful-coaching-techniques",
+      "preferred": "masterful coaching techniques",
+      "aliases": [
+        "masterful coaching techniques"
+      ],
+      "count": 1
+    },
+    "leadership-workshop-interruption": {
+      "id": "leadership-workshop-interruption",
+      "preferred": "leadership workshop interruption",
+      "aliases": [
+        "leadership workshop interruption"
+      ],
+      "count": 1
+    },
+    "master-coach-wisdom": {
+      "id": "master-coach-wisdom",
+      "preferred": "master coach wisdom",
+      "aliases": [
+        "master coach wisdom"
+      ],
+      "count": 1
+    },
+    "intentional-silence": {
+      "id": "intentional-silence",
+      "preferred": "intentional silence",
+      "aliases": [
+        "intentional silence"
+      ],
+      "count": 1
+    },
+    "coaching-competencies": {
+      "id": "coaching-competencies",
+      "preferred": "coaching competencies",
+      "aliases": [
+        "coaching competencies"
+      ],
+      "count": 1
+    },
+    "executive-coaching-methodology": {
+      "id": "executive-coaching-methodology",
+      "preferred": "executive coaching methodology",
+      "aliases": [
+        "executive coaching methodology"
+      ],
+      "count": 1
+    },
+    "knowledge-gaps-in-coaching": {
+      "id": "knowledge-gaps-in-coaching",
+      "preferred": "knowledge gaps in coaching",
+      "aliases": [
+        "knowledge gaps in coaching"
+      ],
+      "count": 1
+    },
+    "values-fit-hiring": {
+      "id": "values-fit-hiring",
+      "preferred": "values-fit hiring",
+      "aliases": [
+        "values-fit hiring"
+      ],
+      "count": 1
+    },
+    "master-level-coaching": {
+      "id": "master-level-coaching",
+      "preferred": "master level coaching",
+      "aliases": [
+        "master level coaching"
+      ],
+      "count": 1
+    },
+    "values-alignment-evidence": {
+      "id": "values-alignment-evidence",
+      "preferred": "values alignment evidence",
+      "aliases": [
+        "values alignment evidence"
+      ],
+      "count": 1
+    },
+    "values-in-job-descriptions": {
+      "id": "values-in-job-descriptions",
+      "preferred": "values in job descriptions",
+      "aliases": [
+        "values in job descriptions"
+      ],
+      "count": 1
+    },
+    "behavioral-interview-questions": {
+      "id": "behavioral-interview-questions",
+      "preferred": "behavioral interview questions",
+      "aliases": [
+        "behavioral interview questions"
+      ],
+      "count": 1
+    },
+    "performance-management": {
+      "id": "performance-management",
+      "preferred": "performance management",
+      "aliases": [
+        "performance management"
+      ],
+      "count": 1
+    },
+    "audio-only-coaching": {
+      "id": "audio-only-coaching",
+      "preferred": "audio-only coaching",
+      "aliases": [
+        "audio-only coaching"
+      ],
+      "count": 1
+    },
+    "master-level-coaching-presence": {
+      "id": "master-level-coaching-presence",
+      "preferred": "master-level coaching presence",
+      "aliases": [
+        "master-level coaching presence"
+      ],
+      "count": 1
+    },
+    "energetic-coaching": {
+      "id": "energetic-coaching",
+      "preferred": "energetic coaching",
+      "aliases": [
+        "energetic coaching"
+      ],
+      "count": 1
+    },
+    "energetic-presence": {
+      "id": "energetic-presence",
+      "preferred": "energetic presence",
+      "aliases": [
+        "energetic presence"
+      ],
+      "count": 1
+    },
+    "coaching-skills-enhancement": {
+      "id": "coaching-skills-enhancement",
+      "preferred": "coaching skills enhancement",
+      "aliases": [
+        "coaching skills enhancement"
+      ],
+      "count": 1
+    },
+    "human-intuition-vs-pattern-matching": {
+      "id": "human-intuition-vs-pattern-matching",
+      "preferred": "human intuition vs pattern matching",
+      "aliases": [
+        "human intuition vs pattern matching"
+      ],
+      "count": 1
+    },
+    "singapore-s-evolution": {
+      "id": "singapore-s-evolution",
+      "preferred": "Singapore's evolution",
+      "aliases": [
+        "Singapore's evolution"
+      ],
+      "count": 1
+    },
+    "designsingapore-council": {
+      "id": "designsingapore-council",
+      "preferred": "DesignSingapore Council",
+      "aliases": [
+        "DesignSingapore Council"
+      ],
+      "count": 1
+    },
+    "coaching-credentials": {
+      "id": "coaching-credentials",
+      "preferred": "coaching credentials",
+      "aliases": [
+        "coaching credentials"
+      ],
+      "count": 1
+    },
+    "coach-at-the-speed-of-thought": {
+      "id": "coach-at-the-speed-of-thought",
+      "preferred": "Coach at the Speed of Thought",
+      "aliases": [
+        "Coach at the Speed of Thought"
+      ],
+      "count": 1
+    },
+    "integrative-medicine": {
+      "id": "integrative-medicine",
+      "preferred": "integrative medicine",
+      "aliases": [
+        "integrative medicine"
+      ],
+      "count": 1
+    },
+    "traditional-chinese-medicine": {
+      "id": "traditional-chinese-medicine",
+      "preferred": "traditional Chinese medicine",
+      "aliases": [
+        "traditional Chinese medicine"
+      ],
+      "count": 1
+    },
+    "coaching-business-commitment": {
+      "id": "coaching-business-commitment",
+      "preferred": "coaching business commitment",
+      "aliases": [
+        "coaching business commitment"
+      ],
+      "count": 1
+    },
+    "mindset-shift-for-business-success": {
+      "id": "mindset-shift-for-business-success",
+      "preferred": "mindset shift for business success",
+      "aliases": [
+        "mindset shift for business success"
+      ],
+      "count": 1
+    },
+    "mastery-coaching": {
+      "id": "mastery-coaching",
+      "preferred": "mastery coaching",
+      "aliases": [
+        "mastery coaching"
+      ],
+      "count": 1
+    },
+    "coaching-anger-and-triggers": {
+      "id": "coaching-anger-and-triggers",
+      "preferred": "coaching anger and triggers",
+      "aliases": [
+        "coaching anger and triggers"
+      ],
+      "count": 1
+    },
+    "remote-work": {
+      "id": "remote-work",
+      "preferred": "remote work",
+      "aliases": [
+        "remote work"
+      ],
+      "count": 1
+    },
+    "community-of-practice-facilitation": {
+      "id": "community-of-practice-facilitation",
+      "preferred": "community of practice facilitation",
+      "aliases": [
+        "community of practice facilitation"
+      ],
+      "count": 1
+    },
+    "ai-song-generation": {
+      "id": "ai-song-generation",
+      "preferred": "AI song generation",
+      "aliases": [
+        "AI song generation"
+      ],
+      "count": 1
+    },
+    "value-based-pricing": {
+      "id": "value-based-pricing",
+      "preferred": "value-based pricing",
+      "aliases": [
+        "value-based pricing"
+      ],
+      "count": 1
+    },
+    "weekend-relaxation": {
+      "id": "weekend-relaxation",
+      "preferred": "weekend relaxation",
+      "aliases": [
+        "weekend relaxation"
+      ],
+      "count": 1
+    },
+    "ai-coaching-assessment": {
+      "id": "ai-coaching-assessment",
+      "preferred": "AI coaching assessment",
+      "aliases": [
+        "AI coaching assessment"
+      ],
+      "count": 1
+    },
+    "mastery-presence": {
+      "id": "mastery-presence",
+      "preferred": "mastery presence",
+      "aliases": [
+        "mastery presence"
+      ],
+      "count": 1
+    },
+    "sharing-knowledge-in-coaching": {
+      "id": "sharing-knowledge-in-coaching",
+      "preferred": "sharing knowledge in coaching",
+      "aliases": [
+        "sharing knowledge in coaching"
+      ],
+      "count": 1
+    },
+    "emotional-neural-pathways": {
+      "id": "emotional-neural-pathways",
+      "preferred": "emotional neural pathways",
+      "aliases": [
+        "emotional neural pathways"
+      ],
+      "count": 1
+    },
+    "digital-dollar": {
+      "id": "digital-dollar",
+      "preferred": "digital dollar",
+      "aliases": [
+        "digital dollar"
+      ],
+      "count": 1
+    },
+    "national-agility-and-scale": {
+      "id": "national-agility-and-scale",
+      "preferred": "national agility and scale",
+      "aliases": [
+        "national agility and scale"
+      ],
+      "count": 1
+    },
+    "energy-based-coaching": {
+      "id": "energy-based-coaching",
+      "preferred": "energy-based coaching",
+      "aliases": [
+        "energy-based coaching"
+      ],
+      "count": 1
+    },
+    "digital-currency": {
+      "id": "digital-currency",
+      "preferred": "digital currency",
+      "aliases": [
+        "digital currency"
+      ],
+      "count": 1
+    },
+    "payment-industry-innovation": {
+      "id": "payment-industry-innovation",
+      "preferred": "payment industry innovation",
+      "aliases": [
+        "payment industry innovation"
+      ],
+      "count": 1
+    },
+    "note-taking-in-coaching": {
+      "id": "note-taking-in-coaching",
+      "preferred": "note-taking in coaching",
+      "aliases": [
+        "note-taking in coaching"
+      ],
+      "count": 1
+    },
+    "leadership-transitions": {
+      "id": "leadership-transitions",
+      "preferred": "leadership transitions",
+      "aliases": [
+        "leadership transitions"
+      ],
+      "count": 1
+    },
+    "education-adaptation": {
+      "id": "education-adaptation",
+      "preferred": "education adaptation",
+      "aliases": [
+        "education adaptation"
+      ],
+      "count": 1
+    },
+    "coaching-session": {
+      "id": "coaching-session",
+      "preferred": "coaching session",
+      "aliases": [
+        "coaching session"
+      ],
+      "count": 1
+    },
+    "simplifying-coaching": {
+      "id": "simplifying-coaching",
+      "preferred": "simplifying coaching",
+      "aliases": [
+        "simplifying coaching"
+      ],
+      "count": 1
+    },
+    "icf-competency-5": {
+      "id": "icf-competency-5",
+      "preferred": "ICF Competency 5",
+      "aliases": [
+        "ICF Competency 5"
+      ],
+      "count": 1
+    },
+    "coaching-pricing-and-direct-clients": {
+      "id": "coaching-pricing-and-direct-clients",
+      "preferred": "coaching pricing and direct clients",
+      "aliases": [
+        "coaching pricing and direct clients"
+      ],
+      "count": 1
+    },
+    "future-of-finance": {
+      "id": "future-of-finance",
+      "preferred": "future of finance",
+      "aliases": [
+        "future of finance"
+      ],
+      "count": 1
+    },
+    "adhd-coaching": {
+      "id": "adhd-coaching",
+      "preferred": "ADHD coaching",
+      "aliases": [
+        "ADHD coaching"
+      ],
+      "count": 1
+    },
+    "silent-coaching": {
+      "id": "silent-coaching",
+      "preferred": "silent coaching",
+      "aliases": [
+        "silent coaching"
+      ],
+      "count": 1
+    },
+    "coach-commercial-positioning": {
+      "id": "coach-commercial-positioning",
+      "preferred": "coach commercial positioning",
+      "aliases": [
+        "coach commercial positioning"
+      ],
+      "count": 1
+    },
+    "selling-coaching": {
+      "id": "selling-coaching",
+      "preferred": "selling coaching",
+      "aliases": [
+        "selling coaching"
+      ],
+      "count": 1
+    },
+    "mcc-credential": {
+      "id": "mcc-credential",
+      "preferred": "MCC credential",
+      "aliases": [
+        "MCC credential"
+      ],
+      "count": 1
+    },
+    "executive-coaching-book": {
+      "id": "executive-coaching-book",
+      "preferred": "executive coaching book",
+      "aliases": [
+        "executive coaching book"
+      ],
+      "count": 1
+    },
+    "mcc-certification-coaching": {
+      "id": "mcc-certification-coaching",
+      "preferred": "MCC certification coaching",
+      "aliases": [
+        "MCC certification coaching"
+      ],
+      "count": 1
+    },
+    "executive-coaching-conversation": {
+      "id": "executive-coaching-conversation",
+      "preferred": "executive coaching conversation",
+      "aliases": [
+        "executive coaching conversation"
+      ],
+      "count": 1
+    },
+    "selling-yourself-to-corporates": {
+      "id": "selling-yourself-to-corporates",
+      "preferred": "selling yourself to corporates",
+      "aliases": [
+        "selling yourself to corporates"
+      ],
+      "count": 1
+    },
+    "mastery-through-subtraction": {
+      "id": "mastery-through-subtraction",
+      "preferred": "mastery through subtraction",
+      "aliases": [
+        "mastery through subtraction"
+      ],
+      "count": 1
+    },
+    "mcc-level-coaching-consistency": {
+      "id": "mcc-level-coaching-consistency",
+      "preferred": "MCC level coaching consistency",
+      "aliases": [
+        "MCC level coaching consistency"
+      ],
+      "count": 1
+    },
+    "active-listening-in-coaching": {
+      "id": "active-listening-in-coaching",
+      "preferred": "active listening in coaching",
+      "aliases": [
+        "active listening in coaching"
+      ],
+      "count": 1
+    },
+    "coach-earnings-vs-platform-fees": {
+      "id": "coach-earnings-vs-platform-fees",
+      "preferred": "coach earnings vs platform fees",
+      "aliases": [
+        "coach earnings vs platform fees"
+      ],
+      "count": 1
+    },
+    "level-3-coaching-accreditation": {
+      "id": "level-3-coaching-accreditation",
+      "preferred": "Level 3 coaching accreditation",
+      "aliases": [
+        "Level 3 coaching accreditation"
+      ],
+      "count": 1
+    },
+    "exam-preparation-vs-consistent-practice": {
+      "id": "exam-preparation-vs-consistent-practice",
+      "preferred": "exam preparation vs consistent practice",
+      "aliases": [
+        "exam preparation vs consistent practice"
+      ],
+      "count": 1
+    },
+    "coaching-fundamentals": {
+      "id": "coaching-fundamentals",
+      "preferred": "coaching fundamentals",
+      "aliases": [
+        "coaching fundamentals"
+      ],
+      "count": 1
+    },
+    "discovery-conversations": {
+      "id": "discovery-conversations",
+      "preferred": "discovery conversations",
+      "aliases": [
+        "discovery conversations"
+      ],
+      "count": 1
+    },
+    "ai-coaching-report-distillation": {
+      "id": "ai-coaching-report-distillation",
+      "preferred": "AI coaching report distillation",
+      "aliases": [
+        "AI coaching report distillation"
+      ],
+      "count": 1
+    },
+    "embodiment-and-presence-in-coaching": {
+      "id": "embodiment-and-presence-in-coaching",
+      "preferred": "embodiment and presence in coaching",
+      "aliases": [
+        "embodiment and presence in coaching"
+      ],
+      "count": 1
+    },
+    "coach-training-and-development": {
+      "id": "coach-training-and-development",
+      "preferred": "coach training and development",
+      "aliases": [
+        "coach training and development"
+      ],
+      "count": 1
+    },
+    "felt-sense-in-coaching": {
+      "id": "felt-sense-in-coaching",
+      "preferred": "felt sense in coaching",
+      "aliases": [
+        "felt sense in coaching"
+      ],
+      "count": 1
+    },
+    "coach-client-relationship-dynamics": {
+      "id": "coach-client-relationship-dynamics",
+      "preferred": "coach-client relationship dynamics",
+      "aliases": [
+        "coach-client relationship dynamics"
+      ],
+      "count": 1
+    },
+    "coaching-intervention-discernment": {
+      "id": "coaching-intervention-discernment",
+      "preferred": "coaching intervention discernment",
+      "aliases": [
+        "coaching intervention discernment"
+      ],
+      "count": 1
+    },
+    "foundational-coaching-skills": {
+      "id": "foundational-coaching-skills",
+      "preferred": "foundational coaching skills",
+      "aliases": [
+        "foundational coaching skills"
+      ],
+      "count": 1
+    },
+    "cohort-size-in-mastery-programmes": {
+      "id": "cohort-size-in-mastery-programmes",
+      "preferred": "cohort size in mastery programmes",
+      "aliases": [
+        "cohort size in mastery programmes"
+      ],
+      "count": 1
+    },
+    "mcc-certification-coaching-mastery": {
+      "id": "mcc-certification-coaching-mastery",
+      "preferred": "MCC certification coaching mastery",
+      "aliases": [
+        "MCC certification coaching mastery"
+      ],
+      "count": 1
+    },
+    "cohort-size-limits": {
+      "id": "cohort-size-limits",
+      "preferred": "cohort size limits",
+      "aliases": [
+        "cohort size limits"
+      ],
+      "count": 1
+    },
+    "direct-mentorship": {
+      "id": "direct-mentorship",
+      "preferred": "direct mentorship",
+      "aliases": [
+        "direct mentorship"
+      ],
+      "count": 1
+    },
+    "selling-conversations": {
+      "id": "selling-conversations",
+      "preferred": "selling conversations",
+      "aliases": [
+        "selling conversations"
+      ],
+      "count": 1
+    },
+    "business-development-questions": {
+      "id": "business-development-questions",
+      "preferred": "business development questions",
+      "aliases": [
+        "business development questions"
+      ],
+      "count": 1
+    },
+    "pricing-leverage": {
+      "id": "pricing-leverage",
+      "preferred": "pricing leverage",
+      "aliases": [
+        "pricing leverage"
+      ],
+      "count": 1
+    },
+    "communication-skills": {
+      "id": "communication-skills",
+      "preferred": "communication skills",
+      "aliases": [
+        "communication skills"
+      ],
+      "count": 1
+    },
+    "competency-3-exploration": {
+      "id": "competency-3-exploration",
+      "preferred": "Competency 3 exploration",
+      "aliases": [
+        "Competency 3 exploration"
+      ],
+      "count": 1
+    },
+    "disciplined-listening": {
+      "id": "disciplined-listening",
+      "preferred": "disciplined listening",
+      "aliases": [
+        "disciplined listening"
+      ],
+      "count": 1
+    },
+    "prospecting": {
+      "id": "prospecting",
+      "preferred": "prospecting",
+      "aliases": [
+        "prospecting"
+      ],
+      "count": 1
+    },
+    "sales-mindset": {
+      "id": "sales-mindset",
+      "preferred": "sales mindset",
+      "aliases": [
+        "sales mindset"
+      ],
+      "count": 1
+    },
+    "reading-effort-signals": {
+      "id": "reading-effort-signals",
+      "preferred": "reading effort signals",
+      "aliases": [
+        "reading effort signals"
+      ],
+      "count": 1
+    },
+    "fear-of-selling": {
+      "id": "fear-of-selling",
+      "preferred": "fear of selling",
+      "aliases": [
+        "fear of selling"
+      ],
+      "count": 1
+    },
+    "quality-of-thinking": {
+      "id": "quality-of-thinking",
+      "preferred": "quality of thinking",
+      "aliases": [
+        "quality of thinking"
+      ],
+      "count": 1
+    },
+    "presence": {
+      "id": "presence",
+      "preferred": "presence",
+      "aliases": [
+        "presence"
+      ],
+      "count": 1
+    },
+    "direct-client-relationships": {
+      "id": "direct-client-relationships",
+      "preferred": "direct client relationships",
+      "aliases": [
+        "direct client relationships"
+      ],
+      "count": 1
+    },
+    "membership-program-design": {
+      "id": "membership-program-design",
+      "preferred": "membership program design",
+      "aliases": [
+        "membership program design"
+      ],
+      "count": 1
+    },
+    "mcc-certification-assessment": {
+      "id": "mcc-certification-assessment",
+      "preferred": "MCC certification assessment",
+      "aliases": [
+        "MCC certification assessment"
+      ],
+      "count": 1
+    },
+    "coaching-sales-transformation": {
+      "id": "coaching-sales-transformation",
+      "preferred": "coaching sales transformation",
+      "aliases": [
+        "coaching sales transformation"
+      ],
+      "count": 1
+    },
+    "internal-authority": {
+      "id": "internal-authority",
+      "preferred": "internal authority",
+      "aliases": [
+        "internal authority"
+      ],
+      "count": 1
+    },
+    "deliberate-engagement": {
+      "id": "deliberate-engagement",
+      "preferred": "deliberate engagement",
+      "aliases": [
+        "deliberate engagement"
+      ],
+      "count": 1
+    },
+    "community-participation": {
+      "id": "community-participation",
+      "preferred": "community participation",
+      "aliases": [
+        "community participation"
+      ],
+      "count": 1
+    },
+    "learning-standards": {
+      "id": "learning-standards",
+      "preferred": "learning standards",
+      "aliases": [
+        "learning standards"
+      ],
+      "count": 1
+    },
+    "coaching-structure": {
+      "id": "coaching-structure",
+      "preferred": "coaching structure",
+      "aliases": [
+        "coaching structure"
+      ],
+      "count": 1
+    },
+    "mcc-coaching-programme-suitability": {
+      "id": "mcc-coaching-programme-suitability",
+      "preferred": "MCC coaching programme suitability",
+      "aliases": [
+        "MCC coaching programme suitability"
+      ],
+      "count": 1
+    },
+    "race-day-venue": {
+      "id": "race-day-venue",
+      "preferred": "race day venue",
+      "aliases": [
+        "race day venue"
+      ],
+      "count": 1
+    },
+    "program-design-and-scaling": {
+      "id": "program-design-and-scaling",
+      "preferred": "program design and scaling",
+      "aliases": [
+        "program design and scaling"
+      ],
+      "count": 1
+    },
+    "human-centric-sales-techniques": {
+      "id": "human-centric-sales-techniques",
+      "preferred": "human-centric sales techniques",
+      "aliases": [
+        "human-centric sales techniques"
+      ],
+      "count": 1
+    },
+    "level-3-coaching": {
+      "id": "level-3-coaching",
+      "preferred": "Level 3 coaching",
+      "aliases": [
+        "Level 3 coaching"
+      ],
+      "count": 1
+    },
+    "level-3-coaching-credential": {
+      "id": "level-3-coaching-credential",
+      "preferred": "Level 3 coaching credential",
+      "aliases": [
+        "Level 3 coaching credential"
+      ],
+      "count": 1
+    },
+    "sales-process": {
+      "id": "sales-process",
+      "preferred": "sales process",
+      "aliases": [
+        "sales process"
+      ],
+      "count": 1
+    },
+    "business-development": {
+      "id": "business-development",
+      "preferred": "business development",
+      "aliases": [
+        "business development"
+      ],
+      "count": 1
+    },
+    "coaching-platforms-vs-direct-client-relationships": {
+      "id": "coaching-platforms-vs-direct-client-relationships",
+      "preferred": "coaching platforms vs direct client relationships",
+      "aliases": [
+        "coaching platforms vs direct client relationships"
+      ],
+      "count": 1
+    },
+    "icf-korea-charter-chapter-event": {
+      "id": "icf-korea-charter-chapter-event",
+      "preferred": "ICF Korea Charter Chapter event",
+      "aliases": [
+        "ICF Korea Charter Chapter event"
+      ],
+      "count": 1
+    },
+    "selling-coaching-services": {
+      "id": "selling-coaching-services",
+      "preferred": "selling coaching services",
+      "aliases": [
+        "selling coaching services"
+      ],
+      "count": 1
+    },
+    "coach-training-cohorts": {
+      "id": "coach-training-cohorts",
+      "preferred": "coach training cohorts",
+      "aliases": [
+        "coach training cohorts"
+      ],
+      "count": 1
+    },
+    "mastery-through-incremental-adjustments": {
+      "id": "mastery-through-incremental-adjustments",
+      "preferred": "mastery through incremental adjustments",
+      "aliases": [
+        "mastery through incremental adjustments"
+      ],
+      "count": 1
+    },
+    "financial-advisor-onboarding": {
+      "id": "financial-advisor-onboarding",
+      "preferred": "financial advisor onboarding",
+      "aliases": [
+        "financial advisor onboarding"
+      ],
+      "count": 1
+    },
+    "coach-financial-stability": {
+      "id": "coach-financial-stability",
+      "preferred": "coach financial stability",
+      "aliases": [
+        "coach financial stability"
+      ],
+      "count": 1
+    },
+    "sales-mindset-reframing": {
+      "id": "sales-mindset-reframing",
+      "preferred": "sales mindset reframing",
+      "aliases": [
+        "sales mindset reframing"
+      ],
+      "count": 1
+    },
+    "reflective-coaching": {
+      "id": "reflective-coaching",
+      "preferred": "reflective coaching",
+      "aliases": [
+        "reflective coaching"
+      ],
+      "count": 1
+    },
+    "executive-hiring-and-coaching-roi": {
+      "id": "executive-hiring-and-coaching-roi",
+      "preferred": "executive hiring and coaching ROI",
+      "aliases": [
+        "executive hiring and coaching ROI"
+      ],
+      "count": 1
+    },
+    "ceo-onboarding-failure": {
+      "id": "ceo-onboarding-failure",
+      "preferred": "CEO onboarding failure",
+      "aliases": [
+        "CEO onboarding failure"
+      ],
+      "count": 1
+    },
+    "mcc-recordings": {
+      "id": "mcc-recordings",
+      "preferred": "MCC recordings",
+      "aliases": [
+        "MCC recordings"
+      ],
+      "count": 1
+    },
+    "program-enrollment-timing": {
+      "id": "program-enrollment-timing",
+      "preferred": "program enrollment timing",
+      "aliases": [
+        "program enrollment timing"
+      ],
+      "count": 1
+    },
+    "executive-severance-negotiation": {
+      "id": "executive-severance-negotiation",
+      "preferred": "executive severance negotiation",
+      "aliases": [
+        "executive severance negotiation"
+      ],
+      "count": 1
+    },
+    "coaching-skills-assessment": {
+      "id": "coaching-skills-assessment",
+      "preferred": "coaching skills assessment",
+      "aliases": [
+        "coaching skills assessment"
+      ],
+      "count": 1
+    },
+    "simplicity-of-mastery": {
+      "id": "simplicity-of-mastery",
+      "preferred": "Simplicity of Mastery",
+      "aliases": [
+        "Simplicity of Mastery"
+      ],
+      "count": 1
+    },
+    "event-preparation": {
+      "id": "event-preparation",
+      "preferred": "event preparation",
+      "aliases": [
+        "event preparation"
+      ],
+      "count": 1
+    },
+    "executive-onboarding-and-coaching": {
+      "id": "executive-onboarding-and-coaching",
+      "preferred": "executive onboarding and coaching",
+      "aliases": [
+        "executive onboarding and coaching"
+      ],
+      "count": 1
+    },
+    "coaching-conference-group-photo": {
+      "id": "coaching-conference-group-photo",
+      "preferred": "coaching conference group photo",
+      "aliases": [
+        "coaching conference group photo"
+      ],
+      "count": 1
+    },
+    "coaching-mastery-assessment": {
+      "id": "coaching-mastery-assessment",
+      "preferred": "coaching mastery assessment",
+      "aliases": [
+        "coaching mastery assessment"
+      ],
+      "count": 1
+    },
+    "executive-failure-costs": {
+      "id": "executive-failure-costs",
+      "preferred": "executive failure costs",
+      "aliases": [
+        "executive failure costs"
+      ],
+      "count": 1
+    },
+    "coaching-awards-and-conclave-keynote": {
+      "id": "coaching-awards-and-conclave-keynote",
+      "preferred": "coaching awards and conclave keynote",
+      "aliases": [
+        "coaching awards and conclave keynote"
+      ],
+      "count": 1
+    },
+    "giving-honest-feedback": {
+      "id": "giving-honest-feedback",
+      "preferred": "giving honest feedback",
+      "aliases": [
+        "giving honest feedback"
+      ],
+      "count": 1
+    },
+    "coaching-mastery-vs-competence": {
+      "id": "coaching-mastery-vs-competence",
+      "preferred": "coaching mastery vs competence",
+      "aliases": [
+        "coaching mastery vs competence"
+      ],
+      "count": 1
+    },
+    "letting-go-of-attachment": {
+      "id": "letting-go-of-attachment",
+      "preferred": "letting go of attachment",
+      "aliases": [
+        "letting go of attachment"
+      ],
+      "count": 1
+    },
+    "pcc-markers-and-competency-3": {
+      "id": "pcc-markers-and-competency-3",
+      "preferred": "PCC markers and competency 3",
+      "aliases": [
+        "PCC markers and competency 3"
+      ],
+      "count": 1
+    },
+    "anchored-presence": {
+      "id": "anchored-presence",
+      "preferred": "anchored presence",
+      "aliases": [
+        "anchored presence"
+      ],
+      "count": 1
+    },
+    "emotional-stability": {
+      "id": "emotional-stability",
+      "preferred": "emotional stability",
+      "aliases": [
+        "emotional stability"
+      ],
+      "count": 1
+    },
+    "coaching-detachment": {
+      "id": "coaching-detachment",
+      "preferred": "coaching detachment",
+      "aliases": [
+        "coaching detachment"
+      ],
+      "count": 1
+    },
+    "sales-management-transition": {
+      "id": "sales-management-transition",
+      "preferred": "sales management transition",
+      "aliases": [
+        "sales management transition"
+      ],
+      "count": 1
+    },
+    "mcc-credential-preparation": {
+      "id": "mcc-credential-preparation",
+      "preferred": "MCC credential preparation",
+      "aliases": [
+        "MCC credential preparation"
+      ],
+      "count": 1
+    },
+    "higher-education-work-study-integration": {
+      "id": "higher-education-work-study-integration",
+      "preferred": "higher education work-study integration",
+      "aliases": [
+        "higher education work-study integration"
+      ],
+      "count": 1
+    },
+    "leadership-team-dynamics": {
+      "id": "leadership-team-dynamics",
+      "preferred": "leadership team dynamics",
+      "aliases": [
+        "leadership team dynamics"
+      ],
+      "count": 1
+    },
+    "holding-silence": {
+      "id": "holding-silence",
+      "preferred": "holding silence",
+      "aliases": [
+        "holding silence"
+      ],
+      "count": 1
+    },
+    "ai-inventory-and-materiality-assessment": {
+      "id": "ai-inventory-and-materiality-assessment",
+      "preferred": "AI inventory and materiality assessment",
+      "aliases": [
+        "AI inventory and materiality assessment"
+      ],
+      "count": 1
+    },
+    "third-party-vendor-ai-risk": {
+      "id": "third-party-vendor-ai-risk",
+      "preferred": "third-party vendor AI risk",
+      "aliases": [
+        "third-party vendor AI risk"
+      ],
+      "count": 1
+    },
+    "risk-based-ai-controls": {
+      "id": "risk-based-ai-controls",
+      "preferred": "risk-based AI controls",
+      "aliases": [
+        "risk-based AI controls"
+      ],
+      "count": 1
+    },
+    "organisational-redesign": {
+      "id": "organisational-redesign",
+      "preferred": "organisational redesign",
+      "aliases": [
+        "organisational redesign"
+      ],
+      "count": 1
+    },
+    "icf-credentialing-and-coaching-hours": {
+      "id": "icf-credentialing-and-coaching-hours",
+      "preferred": "ICF credentialing and coaching hours",
+      "aliases": [
+        "ICF credentialing and coaching hours"
+      ],
+      "count": 1
+    },
+    "corporate-coaching-sales-strategy": {
+      "id": "corporate-coaching-sales-strategy",
+      "preferred": "corporate coaching sales strategy",
+      "aliases": [
+        "corporate coaching sales strategy"
+      ],
+      "count": 1
+    },
+    "ceo-transition-success": {
+      "id": "ceo-transition-success",
+      "preferred": "CEO Transition Success",
+      "aliases": [
+        "CEO Transition Success"
+      ],
+      "count": 1
+    },
+    "leadership-team-performance": {
+      "id": "leadership-team-performance",
+      "preferred": "leadership team performance",
+      "aliases": [
+        "leadership team performance"
+      ],
+      "count": 1
+    },
+    "strategic-leadership": {
+      "id": "strategic-leadership",
+      "preferred": "strategic leadership",
+      "aliases": [
+        "strategic leadership"
       ],
       "count": 1
     }

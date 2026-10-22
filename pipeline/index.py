@@ -272,7 +272,12 @@ def index_file(path: Path, root: Path, workspace: Path, model, lock) -> str:
     raw = model.complete("index_items", SCHEMA, PROMPT, numbered + extra)
     items = accept(lines, raw)
     if not items:
-        raise ValueError("No valid index items")
+        with lock:
+            data = index_list(workspace)
+            data["sources"][ident] = {"path": rel, "sha256": digest, "basis": "empty"}
+            data["items"] = [item for item in data["items"] if item.get("source_id") != ident]
+            atomic(workspace / "index.json", js(data))
+        return "empty"
     for n, item in enumerate(items):
         item["item_id"] = f"{ident}:{item['span']['start_line']:04d}-{item['span']['end_line']:04d}"
         item["source_id"] = ident
