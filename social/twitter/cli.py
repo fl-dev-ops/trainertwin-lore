@@ -16,6 +16,7 @@ from dotenv import load_dotenv
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if __package__ is None:  # Allow direct script invocation after moving under social/.
     sys.path.insert(0, str(PROJECT_ROOT))
+from social.content import render
 from social.dates import published_day
 from social.fs import atomic_write
 from social.progress import track
@@ -280,9 +281,11 @@ def save_tweets_to_markdown(
         note_tweet = tw.get("note_tweet")
         if isinstance(note_tweet, dict) and note_tweet.get("text"):
             text = note_tweet["text"]
-        elif tw.get("article") and isinstance(tw.get("article"), dict):
+        article_title = None
+        if not (isinstance(note_tweet, dict) and note_tweet.get("text")) and isinstance(tw.get("article"), dict):
             art = tw["article"]
-            text = f"# {art.get('title', '')}\n\n{art.get('text') or art.get('preview_text') or text}"
+            article_title = art.get("title") or None  # a label: front matter, not body
+            text = art.get("text") or art.get("preview_text") or text
 
         likes = tw.get("likeCount", 0)
         retweets = tw.get("retweetCount", 0)
@@ -312,50 +315,19 @@ def save_tweets_to_markdown(
             frontmatter["inReplyTo"] = f"@{tw['inReplyToScreenName']}"
         if is_retweet:
             frontmatter["is_retweet"] = True
+        if article_title:
+            frontmatter["article_title"] = article_title
 
-        # Check for retweet
-        retweeted = tw.get("retweeted_status") or tw.get("retweetedStatus")
-        retweet_block = ""
-        if retweeted and isinstance(retweeted, dict):
-            r_text = retweeted.get("text") or ""
-            r_author = (
-                retweeted.get("author", {}).get("userName")
-                or retweeted.get("author", {}).get("name")
-                or "unknown"
-            )
-            r_url = retweeted.get("url") or (
-                f"https://x.com/{r_author}/status/{retweeted.get('id')}"
-                if retweeted.get("id")
-                else ""
-            )
-            r_lines = [f"> {line}" for line in r_text.splitlines()]
-            if r_url:
-                r_lines.append(f"> Original: {r_url}")
-            retweet_block = f"\n\n### Quoting @{r_author}:\n" + "\n".join(r_lines) + "\n"
+        # Retweeted / quoted tweets are context for the author's text; they live in the front matter.
+        for key, other in (("retweeted", tw.get("retweeted_status") or tw.get("retweetedStatus")),
+                           ("quoted", tw.get("quoted_tweet") or tw.get("quoted_status") or tw.get("quotedStatus"))):
+            if other and isinstance(other, dict):
+                author = (other.get("author", {}).get("userName") or other.get("author", {}).get("name") or "unknown")
+                link = other.get("url") or (f"https://x.com/{author}/status/{other.get('id')}" if other.get("id") else "")
+                frontmatter[key] = {k: v for k, v in {"author": author, "text": (other.get("text") or "").strip(),
+                                                      "url": link}.items() if v}
 
-        # Check for quoted tweet
-        quoted = tw.get("quoted_tweet") or tw.get("quoted_status") or tw.get("quotedStatus")
-        quoted_block = ""
-        if quoted and isinstance(quoted, dict):
-            q_text = quoted.get("text") or ""
-            q_author = (
-                quoted.get("author", {}).get("userName")
-                or quoted.get("author", {}).get("name")
-                or "unknown"
-            )
-            q_url = quoted.get("url") or (
-                f"https://x.com/{q_author}/status/{quoted.get('id')}"
-                if quoted.get("id")
-                else ""
-            )
-            q_quoted_lines = [f"> {line}" for line in q_text.splitlines()]
-            if q_url:
-                q_quoted_lines.append(f"> Original: {q_url}")
-            quoted_block = f"\n\n### Quoting @{q_author}:\n" + "\n".join(q_quoted_lines) + "\n"
-
-        fm_yaml = yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True).strip()
-        md_content = f"---\n{fm_yaml}\n---\n\n{text}{retweet_block}{quoted_block}\n"
-        atomic_write(filepath, md_content)
+        atomic_write(filepath, render(frontmatter, text))
 
         tweet_index.append({
             "id": tweet_id,

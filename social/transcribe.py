@@ -24,6 +24,7 @@ import yaml
 from dotenv import load_dotenv
 
 from .board import ParallelJobBoard, active_job
+from .content import render
 from .fs import atomic_write
 from .progress import stage, status, track
 
@@ -328,15 +329,19 @@ def needs_transcript(video_dir: Path, video_id: str) -> bool:
     if path is None:
         return True
     meta = transcript_metadata(path)
-    return not (str(meta.get("id")) == video_id and meta.get("transcript") is True
-                and "## Transcript" in path.read_text(encoding="utf-8"))
+    # A saved recording with no speech has an empty body but is still transcribed.
+    return not (str(meta.get("id")) == video_id and meta.get("transcript") is True)
 
 
 def transcript_body(result: dict) -> str:
     result = validate_transcript(result)
-    speakers = {s["id"]: s["label"] for s in result["speakers"]}
-    return "\n\n".join(f"### Speaker {t['speaker_id']} · {speakers[t['speaker_id']]}\n\n{t['text']}"
-                         for t in result["turns"]) or "> [No spoken dialogue detected]"
+    return "\n\n".join(f"speaker_{t['speaker_id']}: {t['text']}" for t in result["turns"])
+
+
+def speaker_map(result: dict) -> dict:
+    """Front-matter `speakers:` {speaker_N: identity}; provider placeholders are not identities."""
+    return {f"speaker_{s['id']}": None if re.fullmatch(r"Speaker \d+", s["label"]) else s["label"]
+            for s in validate_transcript(result)["speakers"]}
 
 
 def save_transcript(video: dict, result: dict, video_dir: Path) -> Path:
@@ -352,7 +357,7 @@ def save_transcript(video: dict, result: dict, video_dir: Path) -> Path:
         day = f"{day[:4]}-{day[4:6]}-{day[6:]}"
     slug = re.sub(r"[^\w]+", "-", title.lower()).strip("-")[:60].rstrip("-") or "video"
     path = existing or video_dir / f"{day or 'undated'}-{slug}-{video_id}.md"
-    speakers = {s["id"]: s["label"] for s in result["speakers"]}
+    speakers = speaker_map(result)
     meta = {
         "id": video_id, "title": title, "date": day,
         "url": video.get("url") or (f"https://www.loom.com/share/{video_id}"
@@ -363,8 +368,7 @@ def save_transcript(video: dict, result: dict, video_dir: Path) -> Path:
     category = video.get("category") or previous.get("category")
     if category:
         meta["category"] = category
-    md = "---\n" + yaml.safe_dump(meta, sort_keys=False, allow_unicode=True) \
-         + f"---\n\n# {title}\n\n## Transcript\n\n{transcript_body(result)}\n"
+    md = render(meta, transcript_body(result))  # metadata in front matter, turns as the body
     from pipeline.transcript_norm import TranscriptValidationError, normalize_transcript
     try:
         md = normalize_transcript(md, source=str(path))

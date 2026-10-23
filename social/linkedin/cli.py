@@ -17,6 +17,8 @@ from dotenv import load_dotenv
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if __package__ is None:  # Allow `python social/linkedin/cli.py` as well as `python -m social.linkedin.cli`.
     sys.path.insert(0, str(PROJECT_ROOT))
+from social.content import read as read_content
+from social.content import render
 from social.dates import published_day
 from social.fs import atomic_write
 from social.progress import status, track
@@ -112,20 +114,10 @@ def fetch_comments_for_post(post_url: str, api_key: str) -> list[dict[str, Any]]
     return data.get("elements", [])
 
 
-def format_comments_markdown(comments: list[dict[str, Any]]) -> str:
-    if not comments:
-        return ""
-    lines = [f"\n\n## Comments ({len(comments)})\n"]
-    for c in comments:
-        actor = c.get("actor", {})
-        name = actor.get("name") or "LinkedIn User"
-        pos = actor.get("position")
-        role_str = f" ({pos})" if pos else ""
-        is_author = " (Author)" if actor.get("author") else ""
-        body = (c.get("commentary") or "").strip()
-        body_quoted = "\n".join(f"> {line}" for line in body.splitlines()) if body else "> [Empty comment]"
-        lines.append(f"### {name}{role_str}{is_author}\n{body_quoted}\n")
-    return "\n".join(lines)
+def author_comments(comments: list[dict[str, Any]]) -> list[str]:
+    """Only the post author's own comments: their words, in reply to someone. Others' are not kept."""
+    return [text for c in comments
+            if (c.get("actor") or {}).get("author") and (text := (c.get("commentary") or "").strip())]
 
 
 def split_profile_sections(raw_element: dict[str, Any]) -> dict[str, Any]:
@@ -190,7 +182,7 @@ def save_posts_to_markdown(
         post_video = post.get("postVideo") or {}
         post_images = post.get("postImages") or []
 
-        comments_text = ""
+        own_comments: list[str] = []
         has_fetched_comments = False
         if (
             api_key
@@ -202,7 +194,7 @@ def save_posts_to_markdown(
             status(f"LinkedIn: fetching comments for {post_id} ({comments_count} reported)")
             try:
                 fetched_comments = fetch_comments_for_post(url, api_key)
-                comments_text = format_comments_markdown(fetched_comments)
+                own_comments = author_comments(fetched_comments)
                 has_fetched_comments = True
                 time.sleep(0.5)
             except RuntimeError as exc:
@@ -251,50 +243,23 @@ def save_posts_to_markdown(
         if post_images and isinstance(post_images, list):
             frontmatter["images_count"] = len(post_images)
 
-        # Build Reshared / Quoted Post block (attributed as Quoting @author so pipeline respects boundaries)
-        reshared_block = ""
+        # A reshared post is context for the author's own text; it lives in the front matter.
         if reshared_post and isinstance(reshared_post, dict):
             orig_author_info = reshared_post.get("author") or {}
-            orig_author = (
-                orig_author_info.get("name")
-                or orig_author_info.get("publicIdentifier")
-                or "unknown"
-            )
-            orig_url = reshared_post.get("linkedinUrl") or ""
-            orig_content = (reshared_post.get("content") or "").strip()
-            orig_article = reshared_post.get("article") or {}
-            orig_doc = reshared_post.get("document") or {}
+            quoted: dict[str, Any] = {
+                "author": orig_author_info.get("name") or orig_author_info.get("publicIdentifier") or "unknown",
+                "text": (reshared_post.get("content") or "").strip(),
+                "url": reshared_post.get("linkedinUrl") or "",
+            }
+            for key, source, link in (("article", reshared_post.get("article") or {}, "link"),
+                                      ("document", reshared_post.get("document") or {}, "documentUrl")):
+                if source.get("title"):
+                    quoted[key] = {k: v for k, v in {"title": source.get("title"), "link": source.get(link)}.items() if v}
+            frontmatter["quoted"] = {k: v for k, v in quoted.items() if v}
+        if own_comments:
+            frontmatter["author_comments"] = own_comments
 
-            orig_lines: list[str] = []
-            if orig_content:
-                orig_lines.extend(f"> {line}" for line in orig_content.splitlines())
-            if orig_article and orig_article.get("title"):
-                orig_lines.append(f"> [Article: {orig_article.get('title')}]({orig_article.get('link', '')})")
-            if orig_doc and orig_doc.get("title"):
-                orig_lines.append(f"> [Document: {orig_doc.get('title')}]({orig_doc.get('documentUrl', '')})")
-            if orig_url:
-                orig_lines.append(f"> Original Post: {orig_url}")
-
-            quoted_body = "\n".join(orig_lines) if orig_lines else "> [No text content]"
-            reshared_block = f"\n\n### Quoting @{orig_author}:\n{quoted_body}\n"
-
-        article_block = ""
-        if article and isinstance(article, dict) and article.get("title"):
-            art_title = article.get("title")
-            art_link = article.get("link") or ""
-            art_sub = article.get("subtitle") or ""
-            article_block = f"\n\n### Shared Article: [{art_title}]({art_link})\n" + (f"> {art_sub}\n" if art_sub else "")
-
-        doc_block = ""
-        if document and isinstance(document, dict) and document.get("title"):
-            doc_title = document.get("title")
-            doc_link = document.get("documentUrl") or ""
-            pages = document.get("pageCount")
-            doc_block = f"\n\n### Shared Document: [{doc_title}]({doc_link})" + (f" ({pages} pages)\n" if pages else "\n")
-
-        fm_yaml = yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True).strip()
-        md_content = f"---\n{fm_yaml}\n---\n\n{content}{reshared_block}{article_block}{doc_block}{comments_text}\n"
-        atomic_write(filepath, md_content)
+        atomic_write(filepath, render(frontmatter, content))
 
         entry: dict[str, Any] = {
             "id": post_id,
@@ -432,20 +397,19 @@ def main():
         print(f"Retrieved {len(comments_list)} comments.", file=sys.stderr)
 
         if md_path and md_path.is_file():
-            # Append or replace ## Comments in the existing .md file
-            raw_text = md_path.read_text(encoding="utf-8")
-            if "## Comments" in raw_text:
-                body_part = raw_text.split("## Comments")[0].rstrip()
+            # Replace the author's comments in the front matter; the post text is untouched.
+            meta, body = read_content(md_path.read_text(encoding="utf-8"))
+            own = author_comments(comments_list)
+            if own:
+                meta["author_comments"] = own
             else:
-                body_part = raw_text.rstrip()
-            comments_block = format_comments_markdown(comments_list)
-            updated_text = f"{body_part}{comments_block}\n"
-            atomic_write(md_path, updated_text)
-            print(f"Updated {md_path} with {len(comments_list)} comments.", file=sys.stderr)
+                meta.pop("author_comments", None)
+            atomic_write(md_path, render(meta, body))
+            print(f"Updated {md_path} with {len(own)} author comments.", file=sys.stderr)
         elif args.output:
             dump_yaml({"comments": comments_list}, Path(args.output))
         else:
-            print(format_comments_markdown(comments_list))
+            print(yaml.safe_dump({"author_comments": author_comments(comments_list)}, allow_unicode=True))
 
     elif args.command == "all":
         url = normalize_profile_url(args.url)

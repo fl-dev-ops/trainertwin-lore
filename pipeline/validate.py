@@ -7,7 +7,10 @@ from pathlib import Path
 from typing import Any
 
 from .client import OpenRouter
+from .log import get_logger
 from .normalize import JevClient
+
+log = get_logger("validate")
 
 JUDGE_SCHEMA = {
     "type": "object",
@@ -109,11 +112,11 @@ def check_cadence_bounds(content: str) -> dict[str, Any]:
 
 
 def find_preceding_speaker_heading(lines: list[str], start_idx: int) -> str | None:
-    """Find the nearest preceding '### ... · Speaker X' line above start_idx."""
+    """Find the nearest preceding speaker label ('speaker_N: ...' line) above start_idx."""
     for i in range(start_idx, -1, -1):
-        line = lines[i].strip()
-        if line.startswith("###") and ("Speaker" in line or "·" in line):
-            return line
+        m = re.match(r"(speaker_[1-9]\d*): ", lines[i].strip())
+        if m:
+            return m.group(1)
     return None
 
 
@@ -160,7 +163,6 @@ def validate_scenario(
     judge_model: str = "openai/gpt-4o-mini",
 ) -> dict[str, Any]:
     """Audit an authored SKILL.md against its verified source evidence."""
-    import sys
     content = skill_path.read_text(encoding="utf-8")
     citations = parse_citations(content)
 
@@ -188,7 +190,7 @@ def validate_scenario(
             continue
 
         valid_citations += 1
-        # Preserve speaker headings (### 00:01:23 · Speaker 1) for speaker attribution verification
+        # Preserve speaker labels (speaker_1: ...) for speaker attribution verification
         verbatim_slice = "\n".join(
             line.strip() for line in raw_lines[s - 1 : e]
             if line.strip() and not line.strip().startswith("---")
@@ -204,7 +206,6 @@ def validate_scenario(
     jev_client = JevClient(api_key)
     jev_hallucinations = []
     jev_results = []
-    jev_error = None
     try:
         rules = parse_rules_with_citations(content)
         for r in rules:
@@ -223,10 +224,10 @@ def validate_scenario(
                 line.strip() for line in raw_lines[r["start"] - 1 : r["end"]]
                 if line.strip() and not line.strip().startswith("---")
             ]
-            if slice_lines and not slice_lines[0].startswith("###"):
+            if slice_lines and not re.match(r"speaker_[1-9]\d*: ", slice_lines[0]):
                 heading = find_preceding_speaker_heading(raw_lines, r["start"] - 2)
                 if heading:
-                    slice_lines.insert(0, heading)
+                    slice_lines[0] = f"{heading}: {slice_lines[0]}"
             excerpt = "\n".join(slice_lines)
 
             jev_ans = jev_client.decide(
@@ -272,9 +273,8 @@ def validate_scenario(
             # High-confidence hallucination fails the validation
             if choice == "hallucinated" and conf >= 0.60:
                 jev_hallucinations.append(item_res)
-    except Exception as exc:
-        jev_error = str(exc)
-        print(f"Error: Jev entailment verification failed ({exc})", file=sys.stderr)
+    except Exception as exc:  # noqa: BLE001
+        log.error("jev_entailment_verification_failed", error=str(exc))
         jev_hallucinations.append({
             "rule": "Jev Evaluator",
             "citation": "N/A",

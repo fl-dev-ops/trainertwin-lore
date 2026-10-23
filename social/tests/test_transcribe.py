@@ -237,7 +237,7 @@ def test_collection_cache_metadata_and_preserve_legacy(tmp_path, assembly):
     source = next(directory.glob("*.md"))
     meta = transcribe.transcript_metadata(source)
     assert meta["model"] == transcribe.MODEL and meta["speaker_count"] == 2
-    assert meta["speakers"] == {"1": "Speaker 1", "2": "Speaker 2"}
+    assert meta["speakers"] == {"speaker_1": None, "speaker_2": None}
     assert "duration" not in meta and "00:00" not in source.read_text()
     assert selected[0]["speaker_count"] == 2
     youtube.save_video_index("https://youtube.com/@person", selected, directory.parent / "person.yaml")

@@ -1,12 +1,8 @@
-"""Normalize video transcript markdown into turn-merged, punctuation-free text.
+"""Normalize a transcript file: merge same-speaker turns, strip punctuation, refuse any lost word.
 
-One entry point: `normalize_transcript(md_text)` takes a transcript .md file's
-content and returns the normalized content, or raises TranscriptValidationError
-if any spoken word would be lost.
+The file layout (front matter + `speaker_N: text` turns, no Markdown) lives in social/content.py.
 
-Pipeline:
-  1. merge (deterministic)  drop `### HH:MM:SS ·` timestamps, merge consecutive
-                            same-speaker turns into one `### Speaker N` block
+  1. merge (deterministic)  consecutive same-speaker turns become one turn
   2. clean (rule-based)     noise tags removed; spoken symbols -> words
                             (= equals, + plus, * times, % percent, 0.5 point,
                             1/3 by, 1:1 to, word-joining hyphen -> space,
@@ -16,8 +12,8 @@ Pipeline:
                             allowed. Refuses to write on any failure.
 
 CLI:
-    python -m pipeline transcripts file1.md file2.md... [--write]
-    Default is a dry run (prints per-file stats, writes nothing).
+    python -m pipeline transcripts FILE... [--write]   normalize (dry run by default)
+    python -m social.content users [--write]           convert old Markdown layouts (one-off migration)
 """
 from __future__ import annotations
 
@@ -27,14 +23,17 @@ import re
 import unicodedata
 from pathlib import Path
 
+from social.content import read_turns, render_turns, split
+
 KEEP_CATS = ("L", "M", "N")  # letters, combining marks, digits
-TURN_HEADER = re.compile(r"^### (?:\d\d:\d\d:\d\d · )?(.+)$")
 NOISE_TAGS = re.compile(
     r"\[(music|applause|laughter|clears? throat|snorts?|coughs?|noise|sighs?|laughs?|silence)\]",
     re.I,
 )
 
-PUNCT_NAME = None  # set lazily in _is_punct
+
+class TranscriptValidationError(Exception):
+    pass
 
 
 def _is_punct(ch: str) -> bool:
@@ -46,41 +45,13 @@ def _skeleton(s: str) -> str:
         "NFC", "".join(c for c in s if unicodedata.category(c)[0] in KEEP_CATS))
 
 
-def _merge_text(text: str) -> str:
+def _trim(text: str) -> str:
     lines = text.splitlines()
     while lines and not lines[0].strip():
         lines.pop(0)
     while lines and not lines[-1].strip():
         lines.pop()
     return "\n".join(lines)
-
-
-def _parse(md_text: str):
-    """-> (frontmatter, other_lines, turns=[(label, text)]); turns empty for
-    caption-style files without headers."""
-    m = re.match(r"(---\n.*?\n---\n)", md_text, re.S)
-    fm = m.group(1) if m else ""
-    rest = md_text[len(fm):]
-    idx = rest.find("## Transcript")
-    if idx == -1:
-        raise ValueError("no '## Transcript' section")
-    prefix, body = rest[:idx], rest[idx + len("## Transcript") + 1:]
-    turns, other = [], []
-    other = [l for l in prefix.splitlines()]  # keep '# Title' etc. byte-for-byte
-    cur_label, cur = None, []
-    for line in body.splitlines():
-        tm = TURN_HEADER.match(line)
-        if tm:
-            if cur_label is not None:
-                turns.append((cur_label, "\n".join(cur)))
-            cur_label, cur = tm.group(1).strip(), []
-        elif tm is None and cur_label is not None:
-            cur.append(line)
-        elif line.startswith("# "):
-            other.append(line)
-    if cur_label is not None:
-        turns.append((cur_label, "\n".join(cur)))
-    return fm, other, turns
 
 
 def _clean_line(line: str) -> str:
@@ -119,29 +90,32 @@ def _insertions_only(o_sk: str, n_sk: str):
     return None
 
 
-class TranscriptValidationError(Exception):
-    pass
+def _labels(fm: str) -> list[str]:
+    m = re.search(r"^speakers:\n((?:[ \t]+.*\n?)*)", fm, re.M)
+    return re.findall(r"^[ \t]+(speaker_[1-9]\d*):", m.group(1), re.M) if m else []
 
 
 def normalize_transcript(md_text: str, source: str = "") -> str:
-    """Transcript md in -> normalized md out. Raises on any validation failure."""
-    fm, other, turns = _parse(md_text)
-    if not turns:  # caption-style: single implicit segment
-        body = md_text.split("## Transcript", 1)[1]
-        groups = [(None, _merge_text(body))]
-    else:
-        groups = [(k, _merge_text("\n".join(t[1] for t in g)))
-                  for k, g in itertools.groupby(turns, key=lambda t: t[0])]
-
+    """Transcript file in -> normalized file out (front matter unchanged). Raises on any failure."""
+    fm, body = split(md_text)
+    try:
+        turns = read_turns(body, _labels(fm))
+    except ValueError as exc:
+        raise TranscriptValidationError(f"{source}: refused\n   {exc}") from None
+    if not turns:
+        if body.strip():
+            raise TranscriptValidationError(f"{source}: refused\n   text without speaker turns")
+        return md_text  # no speech
+    groups = [(k, "\n\n".join(t for _, t in g)) for k, g in itertools.groupby(turns, key=lambda t: t[0])]
     cleaned, errs = [], []
     for k, (label, otext) in enumerate(groups):
-        ntext = _merge_text("\n".join(_clean_line(l) for l in otext.splitlines()))
+        ntext = _trim("\n".join(_clean_line(l) for l in otext.splitlines()))
         if not _skeleton(ntext):
             errs.append(f"segment {k}: empty after cleanup")
             continue
         lost = _insertions_only(_skeleton(NOISE_TAGS.sub(" ", otext)), _skeleton(ntext))
         if lost:
-            errs.append(f"segment {k} ({label or 'body'}): {lost}")
+            errs.append(f"segment {k} ({label}): {lost}")
         bad = sorted({c for c in ntext if _is_punct(c)})
         if bad:
             errs.append(f"segment {k}: leftover punctuation/symbols: {bad}")
@@ -151,13 +125,7 @@ def normalize_transcript(md_text: str, source: str = "") -> str:
     if errs:
         raise TranscriptValidationError(
             f"{source}: refused\n" + "\n".join("   " + e for e in errs[:10]))
-
-    out = [fm] + other + ["## Transcript", ""]
-    for label, text in cleaned:
-        if label:
-            out += [f"### {label}", ""]
-        out += [text, ""]
-    return "\n".join(out)
+    return "---\n" + fm + "---\n\n" + render_turns(cleaned) + "\n"
 
 
 def cli_files(files, write=False):
@@ -166,16 +134,13 @@ def cli_files(files, write=False):
     for path in files:
         try:
             out = normalize_transcript(path.read_text(), source=str(path))
-        except (TranscriptValidationError, ValueError) as e:
+        except TranscriptValidationError as e:
             failed += 1
             print(f"REFUSED {path.name}\n{e}")
             continue
-        turns = out.count("\n### ")
         if write:
             path.write_text(out)
-            print(f"OK {path.name} ({turns} speaker turns) [written]")
-        else:
-            print(f"OK {path.name} ({turns} speaker turns) [dry run]")
+        print(f"OK {path.name} [{'written' if write else 'dry run'}]")
     if failed:
         raise SystemExit(1)
 
@@ -185,21 +150,7 @@ def cli():
     parser.add_argument("files", nargs="+", type=Path)
     parser.add_argument("--write", action="store_true", help="overwrite in place (default: dry run)")
     args = parser.parse_args()
-    failed = 0
-    for path in args.files:
-        try:
-            out = normalize_transcript(path.read_text(), source=str(path))
-        except (TranscriptValidationError, ValueError) as e:
-            failed += 1
-            print(f"REFUSED {path.name}\n{e}")
-            continue
-        turns = out.count("\n### ")
-        if args.write:
-            path.write_text(out)
-            print(f"OK {path.name} ({turns} speaker turns) [written]")
-        else:
-            print(f"OK {path.name} ({turns} speaker turns) [dry run]")
-    raise SystemExit(1 if failed else 0)
+    cli_files(args.files, write=args.write)
 
 
 if __name__ == "__main__":

@@ -5,6 +5,8 @@ from pathlib import Path
 
 import httpx
 import pytest
+
+from social.content import read as read_content
 import yaml
 
 from social import cli as social
@@ -341,7 +343,8 @@ def test_youtube_markdown_preserves_metadata_without_time_fields(tmp_path):
     meta = transcribe.transcript_metadata(path)
     assert meta["date"] == "2026-08-13" and meta["url"] == video["url"]
     assert meta["author"] == "careerwithvasanth" and meta["speaker_count"] == 1
-    assert "Description is metadata" not in path.read_text().split("## Transcript", 1)[1]
+    assert read_content(path.read_text())[1] == "speaker_1: Ask the buyer what matters"
+    assert "#" not in path.read_text().split("---\n", 2)[2]
     assert "duration" not in meta
     assert transcribe.save_transcript(dict(video, title="Another title"), result, video_dir) == path
     assert transcribe.transcript_metadata(path)["title"] == "Another title"
@@ -435,19 +438,18 @@ def test_instagram_reels_transcription_and_carousel_ocr(tmp_path, monkeypatch):
     assert index[1]["slide_count"] == 2
 
     reel_md = (posts_dir / Path(index[0]["file"]).name).read_text()
-    assert "## Transcript" in reel_md
-    assert "### Speaker 1 · Speaker 1" in reel_md
+    reel_meta, speak = read_content(reel_md)
+    assert speak.startswith("speaker_1: Stop pitching") and reel_meta["speakers"] == {"speaker_1": None}
+    assert reel_meta["caption"] and "videoUrl" not in reel_meta
     assert index[0]["speaker_count"] == 1
-    speak = reel_md.split("## Transcript", 1)[1]
     assert "duration:" not in speak and "00:00" not in speak
     assert "Stop pitching and start asking better questions." in reel_md
     assert "transcript: true" in reel_md
 
     carousel_md = (posts_dir / Path(index[1]["file"]).name).read_text()
-    assert "## Carousel Slides (2)" in carousel_md
-    assert "### Slide 1" in carousel_md
-    assert "Alt text: May be text about brochures" in carousel_md
-    assert "Never send property brochures before finding out budget" in carousel_md
+    carousel_meta, _ = read_content(carousel_md)
+    assert any("Never send property brochures before finding out budget" in s for s in carousel_meta["slides"])
+    assert "Alt text" not in carousel_md and "###" not in carousel_md
 
 
 def test_linkedin_rich_reposts_articles_and_documents(tmp_path, read_source):
@@ -533,11 +535,9 @@ def test_twitter_note_tweet_and_quoted_expansion(tmp_path):
     assert "Short truncated preview" not in md_text
     assert "conversationId: '1800000000000000000'" in md_text
     assert "inReplyTo: '@client'" in md_text
-    assert "### Quoting @dubai_analyst:" in md_text
-    assert "> Original analyst tweet on transaction volumes." in md_text
-    assert (
-        "> Original: https://x.com/dubai_analyst/status/1799999999999999999" in md_text
-    )
+    quoted = read_content(md_text)[0]["quoted"]
+    assert quoted["author"] == "dubai_analyst" and quoted["text"] == "Original analyst tweet on transaction volumes."
+    assert quoted["url"] == "https://x.com/dubai_analyst/status/1799999999999999999"
 
 
 def test_reel_always_uses_audio_and_preserves_saved_transcript(tmp_path, monkeypatch):

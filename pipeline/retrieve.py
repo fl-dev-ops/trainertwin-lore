@@ -2,16 +2,15 @@
 
 from __future__ import annotations
 
-import os
 import re
-import sys
 from pathlib import Path
 from typing import Any
 
-import httpx
-
-from .normalize import JevClient, slugify
+from .log import get_logger
+from .normalize import JevClient
 from .storage import load_json
+
+log = get_logger("retrieve")
 
 
 def extract_keywords(text: str) -> set[str]:
@@ -78,8 +77,8 @@ def route_query_with_jev(
                     c = taxonomy[facet][choice]
                     aliases = list({c["preferred"].lower()} | {a.lower() for a in c.get("aliases", [])})
                     return choice, aliases, confidence
-    except Exception as exc:
-        print(f"Warning: Jev query routing failed ({exc}); falling back to keyword search", file=sys.stderr, flush=True)
+    except Exception as exc:  # noqa: BLE001
+        log.warning("jev_query_routing_failed", error=str(exc))
 
     return None, [], 0.0
 

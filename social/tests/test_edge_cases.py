@@ -3,6 +3,8 @@ from datetime import date
 import httpx
 import pytest
 
+from social.content import read as read_content
+
 from social import cli, gemini, progress, transcribe
 from social import fs as social_fs
 from social.instagram import cli as instagram
@@ -16,9 +18,9 @@ def test_silent_video_handled_cleanly(tmp_path):
         {"id": "abc12345678", "title": "Silent Clip", "description": "Visual video only."},
         {"speakers": [], "turns": []}, tmp_path / "video",
     )
-    assert "No spoken dialogue detected" in path.read_text()
-    assert transcribe.transcript_metadata(path)["speaker_count"] == 0
-    assert "Visual video only" not in path.read_text().split("## Transcript", 1)[1]
+    meta, body = read_content(path.read_text())
+    assert meta["speaker_count"] == 0 and meta["transcript"] is True and body == ""
+    assert not transcribe.needs_transcript(path.parent, "abc12345678")  # no re-paying for silence
 
 
 def test_corrupt_or_zero_byte_audio_skipped(tmp_path, monkeypatch):
@@ -96,9 +98,10 @@ def test_twitter_retweeted_status_and_article_preview(tmp_path):
 
     md_text = next(tweets_dir.glob("*.md")).read_text()
     assert "is_retweet: true" in md_text
-    assert "### Quoting @expert_analyst:" in md_text
-    assert "> Dubai Land Department reports record transaction volume" in md_text
-    assert "> Original: https://x.com/expert_analyst/status/1999999999999999999" in md_text
+    meta, _ = read_content(md_text)
+    assert meta["retweeted"]["author"] == "expert_analyst"
+    assert "Dubai Land Department reports record transaction volume" in meta["retweeted"]["text"]
+    assert meta["retweeted"]["url"] == "https://x.com/expert_analyst/status/1999999999999999999"
 
 
 def test_linkedin_post_empty_text_with_document_only(tmp_path):
@@ -121,7 +124,10 @@ def test_linkedin_post_empty_text_with_document_only(tmp_path):
     assert index[0]["hasDocument"] is True
 
     md_text = next(posts_dir.glob("*.md")).read_text()
-    assert "### Shared Document: [Mastering Cold Calling Slides.pdf](https://media.licdn.com/slides.pdf) (25 pages)" in md_text
+    meta, body = read_content(md_text)
+    assert meta["document"] == {"title": "Mastering Cold Calling Slides.pdf",
+                                "documentUrl": "https://media.licdn.com/slides.pdf", "pageCount": 25}
+    assert body == "" and "###" not in md_text
 
 
 def test_instagram_carousel_missing_childposts(tmp_path):
@@ -323,9 +329,9 @@ def test_instagram_single_image_ocr_keeps_caption_and_alt(tmp_path, monkeypatch)
     text = (posts_dir / index[0]["file"].split("/")[-1]).read_text()
     assert urls == ["https://example.org/photo.jpg"]
     assert "type: image" in text
-    assert "## Caption\nNew training announcement." in text
-    assert "## Image Text\n\n> Alt text: Flyer with an announcement" in text
-    assert "Offer ends Friday. Call for details." in text
+    meta, body = read_content(text)
+    assert body == "New training announcement."
+    assert meta["image_text"] == "Offer ends Friday. Call for details." and "Alt text" not in text
     assert not list(tmp_path.rglob("*.jpg"))
 
 
@@ -337,8 +343,8 @@ def test_instagram_single_image_without_media_preserves_caption(tmp_path, monkey
     posts_dir = tmp_path / "posts"
     index = instagram.save_posts_to_markdown([post], posts_dir)
     text = (posts_dir / index[0]["file"].split("/")[-1]).read_text()
-    assert "## Caption\nText only post." in text
-    assert "## Image Text" not in text
+    meta, body = read_content(text)
+    assert body == "Text only post." and "image_text" not in meta
 
 
 def test_ytdlp_error_keeps_only_the_reason():

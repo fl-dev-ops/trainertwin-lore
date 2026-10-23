@@ -8,6 +8,7 @@ from pathlib import Path
 
 from .storage import atomic, js, load_json, run_bounded
 
+
 def source_id(path: Path, root: Path) -> str:
     relative = path.relative_to(root).as_posix()
     base = re.sub(r"[^a-z0-9]+", "-", relative.lower()).strip("-")[:85].rstrip("-")
@@ -35,6 +36,14 @@ def _is_channel_manifest(path: Path, text: str) -> bool:
     return "total_videos:" in head or ("videos:" in head and "channel_url:" in head)
 
 
+def _is_profile_manifest(path: Path, text: str) -> bool:
+    """Profile-level YAML manifests hold account info rather than indexable content — skip."""
+    if path.suffix.lower() not in (".yaml", ".yml"):
+        return False
+    head = text[:500]
+    return head.startswith("profile:") or "\nprofile:" in head
+
+
 def list_ranges(lines: list[str]) -> list[tuple[int, int]]:
     """Extract deterministic list-item boundaries from timecodes or numbered markers."""
     tc_pat = re.compile(r"^\s*(\d{1,2}:\d{2}(?::\d{2})?)\s+[-\u2013\u2014]?\s*\S")
@@ -60,7 +69,7 @@ def _tc_to_ranges(lines: list[str], timecodes: list[tuple[int, int]]) -> list[tu
     turn_pat = re.compile(r"^### (\d{2}:\d{2}:\d{2})")
     turns = [(i, _to_seconds(m.group(1))) for i, line in enumerate(lines, 1) if (m := turn_pat.match(line))]
 
-    if not turns and any(re.match(r"^### Speaker [1-9]\d* · ", line) for line in lines):
+    if not turns and any(re.match(r"^speaker_[1-9]\d*: ", line) for line in lines):
         return []  # Untimed transcripts cannot be aligned to description chapter times.
     if not turns:
         # No transcript — use timecode lines directly as boundaries
@@ -187,7 +196,7 @@ def has_list(text: str) -> bool:
 
 def sections(lines: list[str]) -> list[tuple[int, int]]:
     turns = [i for i, line in enumerate(lines, 1)
-             if re.match(r"### (?:\d{2}:\d{2}:\d{2}|Speaker [1-9]\d* · )", line)]
+             if re.match(r"speaker_[1-9]\d*: ", line)]
     if len(turns) < 8:
         return []
     groups = [turns[i : i + 6] for i in range(0, len(turns), 6)]
@@ -230,7 +239,8 @@ def accept(lines: list[str], raw: dict) -> list[dict]:
         end = max(start, min(end, len(lines), start + 99))
         if not title or _bad_title(title):
             continue
-        quote = " ".join(line.strip() for line in lines[start - 1 : end] if line.strip() and not line.strip().startswith("###"))
+        quote = " ".join(re.sub(r"^speaker_[1-9]\d*: ", "", line.strip()) for line in lines[start - 1 : end]
+                         if line.strip() and not line.strip().startswith("###"))
         quote = " ".join(quote.split())
         if len(quote) < 12:
             continue
@@ -256,7 +266,7 @@ def index_list(workspace: Path) -> dict:
 
 def index_file(path: Path, root: Path, workspace: Path, model, lock) -> str:
     text = path.read_text()
-    if _is_channel_manifest(path, text):
+    if _is_channel_manifest(path, text) or _is_profile_manifest(path, text):
         return "skipped:manifest"
     lines = text.splitlines()
     if not any(line.strip() for line in lines):

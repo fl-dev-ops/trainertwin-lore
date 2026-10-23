@@ -104,7 +104,7 @@ def test_loom_uses_shared_assemblyai_flow_and_count(tmp_path, monkeypatch):
     path = next((data / "videos").glob("*.md"))
     meta = transcribe.transcript_metadata(path)
     assert meta["url"] == URL and meta["model"] == transcribe.MODEL and meta["speaker_count"] == 1
-    assert "duration" not in meta and "### Speaker 1 · Olga" in path.read_text()
+    assert "duration" not in meta and "speaker_1: Hello Ahmed" in path.read_text() and meta["speakers"] == {"speaker_1": "Olga"}
     assert yaml.safe_load((data / "collected.yaml").read_text())["videos"][0]["speaker_count"] == 1
     assert not list(data.rglob("*.mp3")) and (data / "assemblyai-json" / f"{ID}.json").exists()
     assert all(not d.exists() for d in directories)

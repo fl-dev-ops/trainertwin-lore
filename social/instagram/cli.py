@@ -16,23 +16,29 @@ from dotenv import load_dotenv
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if __package__ is None or not __package__:  # Allow direct script invocation after moving under social/.
     sys.path.insert(0, str(PROJECT_ROOT))
+    from social.content import is_ocr_refusal, plain, render
+    from social.content import read as read_content
     from social.dates import in_window
     from social.fs import atomic_write
     from social.gemini import ocr_image_url
     from social.progress import status, track
     from social.transcribe import (
         CACHE_DIR,
+        speaker_map,
         transcribe_media_url,
         transcript_body,
         transcript_metadata,
     )
 else:
+    from ..content import is_ocr_refusal, plain, render
+    from ..content import read as read_content
     from ..dates import in_window
     from ..fs import atomic_write
     from ..gemini import ocr_image_url
     from ..progress import status, track
     from ..transcribe import (
         CACHE_DIR,
+        speaker_map,
         transcribe_media_url,
         transcript_body,
         transcript_metadata,
@@ -227,19 +233,14 @@ def save_posts_to_markdown(
         if child_posts:
             frontmatter["slide_count"] = len(child_posts)
 
-        video_url = p.get("videoUrl")
-        if ptype == "reel" and video_url:
-            frontmatter["videoUrl"] = video_url
+        video_url = p.get("videoUrl")  # signed CDN link: used now, never stored (it expires)
 
-        transcript_section = ""
+        transcript = None  # body text when the reel has a transcript
         if ptype == "reel":
             previous = transcript_metadata(filepath) if filepath.exists() else {}
-            previous_text = filepath.read_text(encoding="utf-8") if previous else ""
-            if (str(previous.get("id")) == post_id and previous.get("transcript") is True
-                    and "## Transcript\n" in previous_text):
+            if str(previous.get("id")) == post_id and previous.get("transcript") is True:
                 # Refresh post metadata without a second paid transcription or losing saved speech.
-                transcript_section = ("\n\n## Transcript\n"
-                                      + previous_text.split("## Transcript\n", 1)[1].split("\n## ", 1)[0].rstrip("\n") + "\n")
+                transcript = read_content(filepath.read_text(encoding="utf-8"))[1]
                 for key in ("transcript", "model", "speaker_count", "speakers"):
                     if key in previous:
                         frontmatter[key] = previous[key]
@@ -254,58 +255,43 @@ def save_posts_to_markdown(
                     result = transcribe_media_url(video_url, context=f"Caption (context only): {caption}",
                                                   cache_path=cache)
                 if result is not None:
-                    speakers = {s["id"]: s["label"] for s in result["speakers"]}
                     frontmatter.update(transcript=True, model=result["model"],
-                                       speaker_count=result["speaker_count"], speakers=speakers)
-                    transcript_section = "\n\n## Transcript\n\n" + transcript_body(result).rstrip("\n") + "\n"
+                                       speaker_count=result["speaker_count"], speakers=speaker_map(result))
+                    transcript = transcript_body(result)
 
-        # Carousel Slides Extraction & Gemini Flash OCR
-        carousel_section = ""
-        if ptype == "carousel" and child_posts:
-            c_lines = [f"\n\n## Carousel Slides ({len(child_posts)})\n"]
-            for idx, child in enumerate(
-                track(child_posts, f"Instagram {post_id} slides / OCR", unit="slide"), 1
-            ):
-                c_lines.append(f"### Slide {idx}\n")
-                alt = (child.get("alt") or child.get("accessibilityCaption") or "").strip()
-                if alt:
-                    c_lines.append(f"> Alt text: {alt}\n")
+        # Carousel slide text (OCR). Alt text is auto-generated and OCR refusals are not content.
+        if ptype == "carousel" and child_posts and ocr_images:
+            slides = []
+            for child in track(child_posts, f"Instagram {post_id} slides / OCR", unit="slide"):
                 slide_img = child.get("displayUrl") or (child.get("images") or [None])[0]
-                if ocr_images and slide_img:
-                    ocr_text = ocr_image_url(slide_img)
-                    if ocr_text:
-                        c_lines.append(f"\n{ocr_text}\n")
-            carousel_section = "\n".join(c_lines)
+                ocr_text = ocr_image_url(slide_img) if slide_img else None
+                if ocr_text and not is_ocr_refusal(ocr_text):
+                    slides.append(plain(ocr_text))
+            if slides:
+                frontmatter["slides"] = slides
 
-        image_section = ""
-        if ptype == "image":
-            image_parts = []
-            alt = p.get("alt") or p.get("accessibilityCaption")
-            if alt:
-                image_parts.append(f"> Alt text: {alt}")
+        if ptype == "image" and ocr_images:
             image_url = p.get("displayUrl") or (p.get("images") or [None])[0]
-            if ocr_images and image_url:
+            if image_url:
                 status(f"Instagram {post_id}: OCR image")
-                if ocr_text := ocr_image_url(image_url):
-                    image_parts.append(ocr_text)
-            if image_parts:
-                image_section = "\n\n## Image Text\n\n" + "\n\n".join(image_parts)
+                ocr_text = ocr_image_url(image_url)
+                if ocr_text and not is_ocr_refusal(ocr_text):
+                    frontmatter["image_text"] = plain(ocr_text)
 
-        # Comments Section
-        comments_section = ""
-        latest_comments = p.get("latestComments", [])
-        if latest_comments and isinstance(latest_comments, list):
-            comment_lines = [f"\n\n## Comments ({len(latest_comments)})\n"]
-            for c in latest_comments:
-                author = c.get("ownerUsername") or "user"
-                c_text = (c.get("text") or "").strip()
-                quoted_text = "\n".join(f"> {line}" for line in c_text.splitlines())
-                comment_lines.append(f"### @{author}\n{quoted_text}\n")
-            comments_section = "\n".join(comment_lines)
+        # Only the author's own comments are kept: their words, in reply to someone.
+        owner = p.get("ownerUsername")
+        mine = [(c.get("text") or "").strip() for c in (p.get("latestComments") or [])
+                if isinstance(c, dict) and owner and c.get("ownerUsername") == owner and (c.get("text") or "").strip()]
+        if mine:
+            frontmatter["author_comments"] = mine
 
-        fm_yaml = yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True).strip()
-        md_content = f"---\n{fm_yaml}\n---\n\n## Caption\n{caption}{transcript_section}{carousel_section}{image_section}{comments_section}\n"
-        atomic_write(filepath, md_content)
+        if transcript is not None:
+            if caption.strip():
+                frontmatter["caption"] = caption.strip()
+            body = transcript
+        else:
+            body = caption
+        atomic_write(filepath, render(frontmatter, body))
 
         entry: dict[str, Any] = {
             "id": post_id,
@@ -320,8 +306,8 @@ def save_posts_to_markdown(
             entry["views"] = views
         if child_posts:
             entry["slide_count"] = len(child_posts)
-        if transcript_section:
-            entry["hasTranscript"] = transcript_section.endswith("\n")
+        if transcript is not None:
+            entry["hasTranscript"] = True
             for key in ("model", "speaker_count", "speakers"):
                 if key in frontmatter:
                     entry[key] = frontmatter[key]

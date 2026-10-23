@@ -1,6 +1,6 @@
 {
-  "max_usd": 3.0,
-  "spent_or_reserved_usd": 1.3666846499999996,
-  "input_usd_per_million": 0.3,
-  "output_usd_per_million": 2.5
+  "max_usd": 20.0,
+  "spent_or_reserved_usd": 2.2330878500000018,
+  "input_usd_per_million": 0.35,
+  "output_usd_per_million": 0.75
 }

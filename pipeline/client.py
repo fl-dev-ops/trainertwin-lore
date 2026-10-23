@@ -156,7 +156,7 @@ class OpenRouter:
             )
             try:
                 response = self.http.post("/chat/completions", json=payload)
-                if response.status_code in (408, 429, 500, 502, 503, 504):
+                if response.status_code in (400, 408, 429, 500, 502, 503, 504):
                     if attempt == 3:
                         raise ModelError(
                             f"OpenRouter HTTP {response.status_code} after retries"

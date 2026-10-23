@@ -2,9 +2,7 @@
 
 from __future__ import annotations
 
-import os
 import re
-import sys
 import time
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
@@ -12,8 +10,17 @@ from pathlib import Path
 from typing import Any
 
 import httpx
+from tenacity import (
+    retry,
+    retry_if_exception_type,
+    stop_after_attempt,
+    wait_exponential,
+)
 
+from .log import get_logger
 from .storage import atomic, js, load_json
+
+log = get_logger("normalize")
 
 BASE_STOPWORDS = {
     # Functional English words
@@ -82,8 +89,8 @@ def detect_domain_stopwords_llm(
                 if len(sub) > 2 and sub not in BASE_STOPWORDS:
                     tokens.add(sub)
         return tokens
-    except Exception as exc:
-        print(f"Warning: LLM domain stopword detection failed ({exc}); falling back to heuristic", file=sys.stderr, flush=True)
+    except Exception as exc:  # noqa: BLE001
+        log.warning("domain_stopword_detection_failed", error=str(exc))
         return detect_domain_stopwords(items)
     finally:
         client.close()
@@ -148,22 +155,27 @@ class JevClient:
         """Send questions to Jev and return dict of question_id -> answer object."""
         if not questions:
             return {}
-        for attempt in range(3):
-            try:
-                resp = self.http.post(
-                    "https://openrouter.ai/api/alpha/decisions",
-                    json={"model": "typesafe/jev-1.13", "state": state, "questions": questions},
-                )
-                if resp.status_code in (429, 500, 502, 503, 504):
-                    time.sleep(2**attempt)
-                    continue
+
+        @retry(
+            stop=stop_after_attempt(3),
+            wait=wait_exponential(multiplier=1, min=1, max=10),
+            retry=retry_if_exception_type((httpx.TimeoutException, httpx.NetworkError, httpx.HTTPStatusError)),
+            reraise=True,
+        )
+        def _call_jev() -> dict[str, Any]:
+            resp = self.http.post(
+                "https://openrouter.ai/api/alpha/decisions",
+                json={"model": "typesafe/jev-1.13", "state": state, "questions": questions},
+            )
+            if resp.status_code in (429, 500, 502, 503, 504):
                 resp.raise_for_status()
-                return resp.json().get("answers", {})
-            except (httpx.TimeoutException, httpx.NetworkError):
-                if attempt == 2:
-                    raise
-                time.sleep(2**attempt)
-        return {}
+            resp.raise_for_status()
+            return resp.json().get("answers", {})
+
+        try:
+            return _call_jev()
+        except httpx.HTTPStatusError:
+            return {}
 
 
 def cluster_facet(
@@ -282,9 +294,8 @@ def cluster_facet(
     for item, score in evaluations:
         l_idx = item["label_idx"]
         t_idx = item["target_idx"]
-        if score >= threshold:
-            if l_idx not in best_matches or score > best_matches[l_idx][1]:
-                best_matches[l_idx] = (t_idx, score, item)
+        if score >= threshold and (l_idx not in best_matches or score > best_matches[l_idx][1]):
+            best_matches[l_idx] = (t_idx, score, item)
 
     # 6. Apply merges
     final_clusters: list[dict[str, Any]] = []
@@ -348,7 +359,7 @@ def normalize_workspace(
     domain_sw = detect_domain_stopwords_llm(items, api_key, model=model)
     effective_stopwords = BASE_STOPWORDS | domain_sw
     if domain_sw:
-        print(f"LLM-identified creator domain background words: {sorted(domain_sw)}", file=sys.stderr, flush=True)
+        log.info("domain_stopwords_identified", words=sorted(domain_sw))
 
     jev = JevClient(api_key)
     taxonomy: dict[str, Any] = {}
@@ -356,18 +367,24 @@ def normalize_workspace(
     try:
         for facet, counts in sorted(by_facet.items()):
             t0 = time.time()
-            print(f"Normalizing '{facet}' ({len(counts)} raw labels)...", file=sys.stderr, flush=True)
+            log.info("normalizing_facet", facet=facet, raw_labels=len(counts))
             clusters = cluster_facet(
                 facet, counts, jev, threshold=threshold, workers=workers, stopwords=effective_stopwords
             )
             taxonomy[facet] = {c["id"]: c for c in clusters}
             merged_count = len(counts) - len(clusters)
             dt = time.time() - t0
-            print(f"  → {len(clusters)} canonical concepts ({merged_count} synonyms merged) in {dt:.2f}s", file=sys.stderr, flush=True)
+            log.info(
+                "facet_normalized",
+                facet=facet,
+                concepts=len(clusters),
+                synonyms_merged=merged_count,
+                duration_seconds=round(dt, 2),
+            )
     finally:
         jev.close()
 
     out_path = workspace / "taxonomy.json"
     atomic(out_path, js(taxonomy))
-    print(f"Taxonomy saved to {out_path}", file=sys.stderr, flush=True)
+    log.info("taxonomy_saved", path=str(out_path))
     return taxonomy
