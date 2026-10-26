@@ -2379,6 +2379,96 @@
       "path": "youtube/removed.yaml",
       "sha256": "594a609366f46ff93b30fc70edec02a12687569d3d46624d86f9220baaf36b74",
       "basis": "whole"
+    },
+    "drive-videos-2026-09-26-lesson-10-how-to-ask-about-budget-drive-lesson-10-how-to-ask-2ed95b1da3": {
+      "path": "drive/videos/2026-09-26-lesson-10-how-to-ask-about-budget-drive-lesson-10-how-to-ask-about-budget.md",
+      "sha256": "d93591fb83413773ffa0e0a4702aad3b13fb0c61bb0b7b968a1884ef2a98a622",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-26-lesson-11-presenting-the-data-and-booking-the-next-step-drive-a52e0ab0f4": {
+      "path": "drive/videos/2026-09-26-lesson-11-presenting-the-data-and-booking-the-next-step-drive-lesson-11-presenting-the-data-and-booking-the-next-step.md",
+      "sha256": "7d8ee81a407b3c46d965ea0f65f6fa661428c0718c41ada90fd84456568a0e40",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-26-lesson-12-how-to-present-the-projects-drive-lesson-12-how-to-6b9414a60b": {
+      "path": "drive/videos/2026-09-26-lesson-12-how-to-present-the-projects_-drive-lesson-12-how-to-present-the-projects.md",
+      "sha256": "407ba46078964262cc8ff4dda8046aff99d4b34c2dd3f5220aa8143f8e4f7a3d",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-26-lesson-13-how-to-close-the-sale-collecting-the-booking-drive-85ef2cacce": {
+      "path": "drive/videos/2026-09-26-lesson-13-how-to-close-the-sale-collecting-the-booking-drive-lesson-13-how-to-close-the-sale-collecting-the-booking.md",
+      "sha256": "7e4fbeaccd52d01dd7adad470bd7b83a1a8af009c0dee802e3a2946abd23f5a6",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-26-lesson-7-setting-up-and-building-connection-via-video-call-dr-e333bd40dc": {
+      "path": "drive/videos/2026-09-26-lesson-7-setting-up-and-building-connection-via-video-call-drive-lesson-7-setting-up-and-building-connection-via-video-call.md",
+      "sha256": "8fb046e381d0721e938c7f0a2bd5edae916468b8e5b77315208a2be4af800acf",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-26-lesson-8-0-intro-and-meeting-structure-drive-lesson-8-0-intro-cdafcebf26": {
+      "path": "drive/videos/2026-09-26-lesson-8-0-intro-and-meeting-structure-drive-lesson-8-0-intro-and-meeting-structure.md",
+      "sha256": "40300a21e1ddfd40f21a8fddb0c2b24aa5519efcfcd477cbabd5c7b8ea86e6d4",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-26-lesson-8-2-problem-motivation-and-objection-pre-handling-driv-712631432a": {
+      "path": "drive/videos/2026-09-26-lesson-8-2-problem_motivation-and-objection-pre-handling-drive-lesson-8-2-problem-motivation-and-objection-pre-handling.md",
+      "sha256": "9165e7b79754288675b0a284926f2fbc51cdfdcf8995f35100042bcc3321bab9",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-26-lesson-8-3-timeframe-and-how-to-create-internal-urgency-drive-2f05724cb1": {
+      "path": "drive/videos/2026-09-26-lesson-8-3-timeframe-and-how-to-create-internal-urgency-drive-lesson-8-3-timeframe-and-how-to-create-internal-urgency.md",
+      "sha256": "e1bfffb8f0b25096749a36417d952bad668ceecedf57564a0342d2dd8b347870",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-26-lesson-9-past-experience-and-the-ideal-property-drive-lesson-d35df93eda": {
+      "path": "drive/videos/2026-09-26-lesson-9-past-experience-and-the-ideal-property_-drive-lesson-9-past-experience-and-the-ideal-property.md",
+      "sha256": "01b54c6c395f61328d426e3de16ffe19b5ccd9471df7d78172c3b521028020af",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-28-lesson-0-introduction-of-the-closing-system-drive-lesson-0-in-5727fa1852": {
+      "path": "drive/videos/2026-09-28-lesson-0-introduction-of-the-closing-system-drive-lesson-0-introduction-of-the-closing-system.md",
+      "sha256": "a6a8761cf8699aea8ee6bae46463e700f6510f4a602a70ce49f4091b191cc609",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-28-lesson-1-using-the-guided-sales-process-to-ovecome-the-clien-762d9c64ca": {
+      "path": "drive/videos/2026-09-28-lesson-1-using-the-guided-sales-process-to-ovecome-the-clien-drive-lesson-1-using-the-guided-sales-process-to-ovecome-the-clien.md",
+      "sha256": "760723c1d031cbd234308cac58957482c8c7fa901dbf7ca64326cec7220949ac",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-28-lesson-2-main-rule-of-the-closing-system-drive-lesson-2-main-c607788399": {
+      "path": "drive/videos/2026-09-28-lesson-2-main-rule-of-the-closing-system-drive-lesson-2-main-rule-of-the-closing-system.md",
+      "sha256": "3dd959df6fe10f067f83bb55f024857a1722d80b1b16f3789920e3db0404c8f5",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-28-lesson-3-1-if-the-client-do-not-respond-drive-lesson-3-1-if-t-d1367b015d": {
+      "path": "drive/videos/2026-09-28-lesson-3-1-if-the-client-do-not-respond-drive-lesson-3-1-if-the-client-do-not-respond.md",
+      "sha256": "cb166aa3920eb326d9cbce7b8b66d0a817b60426983b906ccd84a610b5ab71d1",
+      "basis": "whole"
+    },
+    "drive-videos-2026-09-28-lesson-3-you-ve-got-a-lead-now-what-drive-lesson-3-you-ve-got-07349de1fc": {
+      "path": "drive/videos/2026-09-28-lesson-3-you_ve-got-a-lead-now-what_-drive-lesson-3-you-ve-got-a-lead-now-what.md",
+      "sha256": "7e77ed7a4813691595e8e493bff351cecd71d5082a3724d0db61a09896ffd7f7",
+      "basis": "whole"
+    },
+    "drive-videos-2026-10-01-lesson-4-1-getting-a-final-commitment-to-increase-a-zoom-sho-0d37119954": {
+      "path": "drive/videos/2026-10-01-lesson-4-1-getting-a-final-commitment-to-increase-a-zoom-sho-drive-lesson-4-1-getting-a-final-commitment-to-increase-a-zoom-sho.md",
+      "sha256": "ddcb215496666128f4d43605160657cef98f2587d56caf90e0508eb1e0be3d9f",
+      "basis": "whole"
+    },
+    "drive-videos-2026-10-01-lesson-4-first-call-full-script-breakdown-drive-lesson-4-firs-779bfa085b": {
+      "path": "drive/videos/2026-10-01-lesson-4-first-call-full-script-breakdown_-drive-lesson-4-first-call-full-script-breakdown.md",
+      "sha256": "1a5e2846a46ddf4f66e6ad6a8934e4b694015746804ca245ff4f5557a5fd2da3",
+      "basis": "whole"
+    },
+    "drive-videos-2026-10-01-lesson-5-preparation-for-the-edcational-zoom-drive-lesson-5-p-e138aade92": {
+      "path": "drive/videos/2026-10-01-lesson-5-preparation-for-the-edcational-zoom-drive-lesson-5-preparation-for-the-edcational-zoom.md",
+      "sha256": "63c27f440816fcc738b415bd2f4a2ba2146438f14427cbdd18e355e4a1387ee1",
+      "basis": "whole"
+    },
+    "drive-videos-2026-10-01-lesson-6-authority-how-to-avoid-i-need-to-talk-to-drive-lesso-4bf22a4d59": {
+      "path": "drive/videos/2026-10-01-lesson-6-authority-how-to-avoid-i-need-to-talk-to-_-drive-lesson-6-authority-how-to-avoid-i-need-to-talk-to.md",
+      "sha256": "d0a320e5c181ff2d5556362e842a496f447f887ced3f5da533df0d14d91d5a63",
+      "basis": "whole"
     }
   },
   "items": [
@@ -84623,6 +84713,476 @@
       "item_id": "youtube-video-2026-06-16-dubai-real-estate-career-explained-why-most-agents-fail-sgvl-39e4709d65:0015-0015",
       "source_id": "youtube-video-2026-06-16-dubai-real-estate-career-explained-why-most-agents-fail-sgvl-39e4709d65",
       "path": "youtube/video/2026-06-16-Dubai Real Estate Career Explained  Why Most Agents Fail [sgvlxN-0H_Q].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "How to Ask about Budget",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "budget qualification"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Now my after the ideal criteria after he told me about the um property that he would love to have I overcome already some objections of the pricing right Because if he was not able to find something for a long time that means the price was not right So now we are talking about the budget Budget Before we go there I want to tell you that majority of deals I would say 80 percent of the deals in Dubai real estate or in real estate altogether are falling apart and people are stopped responding to yo",
+      "item_id": "drive-videos-2026-09-26-lesson-10-how-to-ask-about-budget-drive-lesson-10-how-to-ask-2ed95b1da3:0015-0015",
+      "source_id": "drive-videos-2026-09-26-lesson-10-how-to-ask-about-budget-drive-lesson-10-how-to-ask-2ed95b1da3",
+      "path": "drive/videos/2026-09-26-lesson-10-how-to-ask-about-budget-drive-lesson-10-how-to-ask-about-budget.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Presenting the Data and Booking the Next step",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "market data presentation"
+        },
+        {
+          "facet": "topic",
+          "label": "booking next meeting"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "I want you to make sure that you point on the future country development plans and in your documents oops you will have the clickable links for the Urban Planning 2040 Its a PDF document and I want you to exactly open that PDF document I think on the page I I stated that in in that module when Im uh talking about the um how to present that on the map as well Um its important to highlight that in Urban Planning 2040 its a government written initiative to increase population through social economi",
+      "item_id": "drive-videos-2026-09-26-lesson-11-presenting-the-data-and-booking-the-next-step-drive-a52e0ab0f4:0015-0015",
+      "source_id": "drive-videos-2026-09-26-lesson-11-presenting-the-data-and-booking-the-next-step-drive-a52e0ab0f4",
+      "path": "drive/videos/2026-09-26-lesson-11-presenting-the-data-and-booking-the-next-step-drive-lesson-11-presenting-the-data-and-booking-the-next-step.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "How to Present Projects on the Sales Call",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "project presentation"
+        },
+        {
+          "facet": "activity",
+          "label": "sales call"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Welcome to the sales call the the part of the Off Plan Closing System that everyone thinks in the beginning is the most complex one I hope by this time when you arrived here you understood already that all the heavy lifting even handling objection should be already done before So here your client should arrive with less fear because he understands the process he understands the numbers he understands the future pros and cons of the area and he understands which kind of budgetary parameters he ha",
+      "item_id": "drive-videos-2026-09-26-lesson-12-how-to-present-the-projects-drive-lesson-12-how-to-6b9414a60b:0015-0015",
+      "source_id": "drive-videos-2026-09-26-lesson-12-how-to-present-the-projects-drive-lesson-12-how-to-6b9414a60b",
+      "path": "drive/videos/2026-09-26-lesson-12-how-to-present-the-projects_-drive-lesson-12-how-to-present-the-projects.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Closing the Sale and Collecting the Booking",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "closing"
+        },
+        {
+          "facet": "topic",
+          "label": "booking process"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Boom So and after youve done it you can ask what are your thoughts of that Any questions Discuss a little bit answer his questions And in the end um do you feel that any of those projects might be a right option for you Boom Do you feel like any of this project might be a right option for you This is the closing question This is what everyone is dreaming about Theres a secret sacral question However now you understand that the question itself is never going to work if you havent done the the pre",
+      "item_id": "drive-videos-2026-09-26-lesson-13-how-to-close-the-sale-collecting-the-booking-drive-85ef2cacce:0015-0015",
+      "source_id": "drive-videos-2026-09-26-lesson-13-how-to-close-the-sale-collecting-the-booking-drive-85ef2cacce",
+      "path": "drive/videos/2026-09-26-lesson-13-how-to-close-the-sale-collecting-the-booking-drive-lesson-13-how-to-close-the-sale-collecting-the-booking.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Setting up and Building Connection via Video Call",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "video calls"
+        },
+        {
+          "facet": "topic",
+          "label": "rapport building"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Okay here you go Educational Zoom Thats what youve been building on for Do not expect that the client will arrive to your educational Zoom another meeting with you the same upbeat interest as he potentially may have talking to you on the phone A bit of sip of coffee and this is where your job begins If youre gonna just go directly to hi Um so lets start I know dealing with people you never met might be awkward Im gonna give you small tricks for you to start instantly building connections through",
+      "item_id": "drive-videos-2026-09-26-lesson-7-setting-up-and-building-connection-via-video-call-dr-e333bd40dc:0015-0015",
+      "source_id": "drive-videos-2026-09-26-lesson-7-setting-up-and-building-connection-via-video-call-dr-e333bd40dc",
+      "path": "drive/videos/2026-09-26-lesson-7-setting-up-and-building-connection-via-video-call-drive-lesson-7-setting-up-and-building-connection-via-video-call.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Educational Zoom Meeting Structure and Qualification",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "client qualification"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "One more time the intro should be a crucial must for you As we said um what do you want to kind of get out of this conversation with me today And since last um like last time we spoke have you seen anything so far Maybe something else attracted your attention Youre going through agenda And you start with Google Maps Google Maps not the map that I offering yet Start with Google Maps And the way you you you design your tour I do have a special lesson for that but make sure that through all of the ",
+      "item_id": "drive-videos-2026-09-26-lesson-8-0-intro-and-meeting-structure-drive-lesson-8-0-intro-cdafcebf26:0015-0015",
+      "source_id": "drive-videos-2026-09-26-lesson-8-0-intro-and-meeting-structure-drive-lesson-8-0-intro-cdafcebf26",
+      "path": "drive/videos/2026-09-26-lesson-8-0-intro-and-meeting-structure-drive-lesson-8-0-intro-and-meeting-structure.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Problem, Motivation and Objection Pre-Handling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "objection pre-handling"
+        },
+        {
+          "facet": "topic",
+          "label": "discovery questions"
+        },
+        {
+          "facet": "situation",
+          "label": "client reverts to alternative investments like stocks"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Questions This is what Im highlighting again What is the reason you start to think about real estate in the first place What made you consider investing in real estate All of this is again to dig to need problem pain motivation that you have What initially attracted you to UAE market And if you think you know what attracted them to UAE market you still have to ask because its not for you to find out Its for them to tell themselves again and again and again why the UAE market is good I just want ",
+      "item_id": "drive-videos-2026-09-26-lesson-8-2-problem-motivation-and-objection-pre-handling-driv-712631432a:0015-0015",
+      "source_id": "drive-videos-2026-09-26-lesson-8-2-problem-motivation-and-objection-pre-handling-driv-712631432a",
+      "path": "drive/videos/2026-09-26-lesson-8-2-problem_motivation-and-objection-pre-handling-drive-lesson-8-2-problem-motivation-and-objection-pre-handling.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Creating Internal Urgency and Qualifying Client Timeframes",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "internal urgency"
+        },
+        {
+          "facet": "topic",
+          "label": "qualifying leads"
+        },
+        {
+          "facet": "situation",
+          "label": "client is flat or unresponsive"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "If you will feel that the client is a little bit flat like hes not giving you much um to to work on you need to dig into his urgency Yeah the urgency is why for him to act now is important This is the urgency Its internal urgency that I promised to you External urgency looks like Last unit price will go up The developer gonna change the conditions This payment plan not gonna be available So its everything outside of him which only gonna work if his internal urgency to act is high as well And the",
+      "item_id": "drive-videos-2026-09-26-lesson-8-3-timeframe-and-how-to-create-internal-urgency-drive-2f05724cb1:0015-0015",
+      "source_id": "drive-videos-2026-09-26-lesson-8-3-timeframe-and-how-to-create-internal-urgency-drive-2f05724cb1",
+      "path": "drive/videos/2026-09-26-lesson-8-3-timeframe-and-how-to-create-internal-urgency-drive-lesson-8-3-timeframe-and-how-to-create-internal-urgency.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Past Experience and The Ideal property",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "client qualification"
+        },
+        {
+          "facet": "topic",
+          "label": "objection handling"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "And now were moving to the next step which is the past experience Thats a great way for you to start qualifying them And as well you need to pull out of those people the potential objections that they may give you potential reason for them not to invest If someone been on the market for lets say 3 to 4 to 6 months he definitely been in a position that he could have purchased something And back then he did an objection and the reason for him not to buy almost with 100 percent certainty I can tell",
+      "item_id": "drive-videos-2026-09-26-lesson-9-past-experience-and-the-ideal-property-drive-lesson-d35df93eda:0015-0015",
+      "source_id": "drive-videos-2026-09-26-lesson-9-past-experience-and-the-ideal-property-drive-lesson-d35df93eda",
+      "path": "drive/videos/2026-09-26-lesson-9-past-experience-and-the-ideal-property_-drive-lesson-9-past-experience-and-the-ideal-property.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Introduction to the Off Plan Closing System",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "closing system"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "expect me to say welcome to Off Plan Closing System and exactly this is what I do The system is important in any process and for you if you are now watching the process matters You probably tried already other ways and follow ups and you know keep sending more options but it didnt work the way you wanted So thats why were here and thats why you see me My name is Olga Sinenko Of course youre on my platform and welcome to the coaching Before we start you could hear the concept or ideas that might ",
+      "item_id": "drive-videos-2026-09-28-lesson-0-introduction-of-the-closing-system-drive-lesson-0-in-5727fa1852:0015-0015",
+      "source_id": "drive-videos-2026-09-28-lesson-0-introduction-of-the-closing-system-drive-lesson-0-in-5727fa1852",
+      "path": "drive/videos/2026-09-28-lesson-0-introduction-of-the-closing-system-drive-lesson-0-introduction-of-the-closing-system.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Using the Guided Sales Process to Overcome the Client's Fear",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "guided sales process"
+        },
+        {
+          "facet": "situation",
+          "label": "buyer fear and hesitation"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Here we are offline sales process This is a full mind map of what should happen why and when And if you look very closely at it you can see the big yellow box which is the metrics that you have to track And this is important Again as Im saying this is important but its up to you to decide The agents in my coaching specifically with the private mentorship when they track and I force them to track these numbers they see a significant change in their results within just the first couple of weeks Wh",
+      "item_id": "drive-videos-2026-09-28-lesson-1-using-the-guided-sales-process-to-ovecome-the-clien-762d9c64ca:0015-0015",
+      "source_id": "drive-videos-2026-09-28-lesson-1-using-the-guided-sales-process-to-ovecome-the-clien-762d9c64ca",
+      "path": "drive/videos/2026-09-28-lesson-1-using-the-guided-sales-process-to-ovecome-the-clien-drive-lesson-1-using-the-guided-sales-process-to-ovecome-the-clien.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Main Rule of the Closing System",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "controlling sales conversations through questions"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "There is only one rule in this game The person who is asking the questions are actually leading the process is leading the conversation and leading the sales process all the time So Olga what does it mean What if client gonna ask me a question Should I not answer Should I just ignore it and just push through No of course never ignore it But you have to retake an initiative And for example it could look something like this Um yes Olga but what do you think about the which project should I invest ",
+      "item_id": "drive-videos-2026-09-28-lesson-2-main-rule-of-the-closing-system-drive-lesson-2-main-c607788399:0015-0015",
+      "source_id": "drive-videos-2026-09-28-lesson-2-main-rule-of-the-closing-system-drive-lesson-2-main-c607788399",
+      "path": "drive/videos/2026-09-28-lesson-2-main-rule-of-the-closing-system-drive-lesson-2-main-rule-of-the-closing-system.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "If the Client Do not respond",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead follow-up"
+        },
+        {
+          "facet": "situation",
+          "label": "client does not respond"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Call the clients at least 3 times As I was saying 2 from one number morning evening middle from another number If you just have one number from your company get yourself a new one I remember my old good sales career I had three phones three phones different SIM cards Thats what I was doing And one of them were from not Dubai number So that was an additional way to check if the lead ever gonna respond And this is how it is So if the client read the message didnt respond you can send the video not",
+      "item_id": "drive-videos-2026-09-28-lesson-3-1-if-the-client-do-not-respond-drive-lesson-3-1-if-t-d1367b015d:0015-0015",
+      "source_id": "drive-videos-2026-09-28-lesson-3-1-if-the-client-do-not-respond-drive-lesson-3-1-if-t-d1367b015d",
+      "path": "drive/videos/2026-09-28-lesson-3-1-if-the-client-do-not-respond-drive-lesson-3-1-if-the-client-do-not-respond.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Lesson 3. You've Got a lead - Now what?",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead qualification and initial outreach"
+        },
+        {
+          "facet": "situation",
+          "label": "receiving a new or old lead"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "So here we go What you do next you got the lead whatever it is a new or old you always check the time zone You understand which country is this You check the name of the person Is it male or female This is really quick And if you are doing the old leads I will highly advise you to prepare your list that youre going to be calling from today to tomorrow so you know um the all of the points Why its important to understand is it the male or the female Because youre going to be going uh hi name And i",
+      "item_id": "drive-videos-2026-09-28-lesson-3-you-ve-got-a-lead-now-what-drive-lesson-3-you-ve-got-07349de1fc:0015-0015",
+      "source_id": "drive-videos-2026-09-28-lesson-3-you-ve-got-a-lead-now-what-drive-lesson-3-you-ve-got-07349de1fc",
+      "path": "drive/videos/2026-09-28-lesson-3-you_ve-got-a-lead-now-what_-drive-lesson-3-you-ve-got-a-lead-now-what.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Getting a final commitment to increase Zoom show up rates",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "meeting show-up rate"
+        },
+        {
+          "facet": "topic",
+          "label": "commitment and consistency"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        },
+        {
+          "facet": "situation",
+          "label": "booking confirmation"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Now the important part that if you will miss this the booking confirmation you will probably lose 50 percent of your hard work on booking the meeting First of all you have to send the confirmation via email for the client Then you have to tell him actually that youre gonna remind him in the evening of before the day of the actual meeting and in the morning of that day So um before the meeting on the Zoom client will usually ask you oh can you just send me some option They will always ask you thi",
+      "item_id": "drive-videos-2026-10-01-lesson-4-1-getting-a-final-commitment-to-increase-a-zoom-sho-0d37119954:0015-0015",
+      "source_id": "drive-videos-2026-10-01-lesson-4-1-getting-a-final-commitment-to-increase-a-zoom-sho-0d37119954",
+      "path": "drive/videos/2026-10-01-lesson-4-1-getting-a-final-commitment-to-increase-a-zoom-sho-drive-lesson-4-1-getting-a-final-commitment-to-increase-a-zoom-sho.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Lesson 4. First Call - Full Script breakdown",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cold calling"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Hi Okay finally youre on the first call I know it might be really intimidating so you have a script you can role play Either if youre in my group coaching we do a lot of role plays like this where you kind of train your muscle of just going through the questions just keeping the flow of the conversation being ready for whatever client will kick you out And this is whats definitely going to happen Or if you are doing it on your own get your voice to voice in ChatGPT give him a brief explanation o",
+      "item_id": "drive-videos-2026-10-01-lesson-4-first-call-full-script-breakdown-drive-lesson-4-firs-779bfa085b:0015-0015",
+      "source_id": "drive-videos-2026-10-01-lesson-4-first-call-full-script-breakdown-drive-lesson-4-firs-779bfa085b",
+      "path": "drive/videos/2026-10-01-lesson-4-first-call-full-script-breakdown_-drive-lesson-4-first-call-full-script-breakdown.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Preparation for the Educational Zoom",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "educational Zoom preparation"
+        },
+        {
+          "facet": "topic",
+          "label": "investment performance report"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Okay now how to prepare yourself for successful educational Zoom for successful meeting You through the conversation for the first call I hope youve been recording some information about him with his own words So systemize all of that understand how you will prepare the map tour what youre going to show him first what youre going to show him second You know already a client a little bit Your goal is you remember we have a separate module on how to present the map your goal is to show him the dif",
+      "item_id": "drive-videos-2026-10-01-lesson-5-preparation-for-the-edcational-zoom-drive-lesson-5-p-e138aade92:0015-0015",
+      "source_id": "drive-videos-2026-10-01-lesson-5-preparation-for-the-edcational-zoom-drive-lesson-5-p-e138aade92",
+      "path": "drive/videos/2026-10-01-lesson-5-preparation-for-the-edcational-zoom-drive-lesson-5-preparation-for-the-edcational-zoom.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Authority - how to avoid I need to talk to..",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "qualification"
+        },
+        {
+          "facet": "situation",
+          "label": "I need to talk to my spouse objection"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Authorities one of the most important parts of your not discovery understanding the current situation question the current client situation What does that mean Its not who is the one to make decision is how the decision is made Whom he need to talk to advise got the agreement For him to be enabled to go ahead And there is several questions only Help me understand how the decision making process looks like for you or if hes with a family for your family when it comes to buying properties abroad I",
+      "item_id": "drive-videos-2026-10-01-lesson-6-authority-how-to-avoid-i-need-to-talk-to-drive-lesso-4bf22a4d59:0015-0015",
+      "source_id": "drive-videos-2026-10-01-lesson-6-authority-how-to-avoid-i-need-to-talk-to-drive-lesso-4bf22a4d59",
+      "path": "drive/videos/2026-10-01-lesson-6-authority-how-to-avoid-i-need-to-talk-to-_-drive-lesson-6-authority-how-to-avoid-i-need-to-talk-to.md",
       "prev": null,
       "next": null
     }

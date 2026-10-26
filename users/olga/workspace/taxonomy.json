@@ -115,6 +115,14 @@
       ],
       "count": 15
     },
+    "sales-call": {
+      "id": "sales-call",
+      "preferred": "sales call",
+      "aliases": [
+        "sales call"
+      ],
+      "count": 14
+    },
     "sales-strategy": {
       "id": "sales-strategy",
       "preferred": "sales strategy",
@@ -132,14 +140,6 @@
         "needs discovery"
       ],
       "count": 14
-    },
-    "sales-call": {
-      "id": "sales-call",
-      "preferred": "sales call",
-      "aliases": [
-        "sales call"
-      ],
-      "count": 13
     },
     "market-analysis": {
       "id": "market-analysis",
@@ -427,14 +427,12 @@
       ],
       "count": 6
     },
-    "self-assessment": {
-      "id": "self-assessment",
-      "preferred": "self‑assessment",
+    "coach-encouragement": {
+      "id": "coach-encouragement",
+      "preferred": "coach encouragement",
       "aliases": [
-        "self‑assessment",
-        "self‑assessment exercise",
-        "self‑evaluation",
-        "self‑review"
+        "coach encouragement",
+        "coach urging"
       ],
       "count": 6
     },
@@ -542,6 +540,16 @@
       ],
       "count": 5
     },
+    "self-assessment": {
+      "id": "self-assessment",
+      "preferred": "self‑assessment",
+      "aliases": [
+        "self‑assessment",
+        "self‑evaluation",
+        "self‑review"
+      ],
+      "count": 5
+    },
     "conversation": {
       "id": "conversation",
       "preferred": "conversation",
@@ -587,14 +595,6 @@
       "preferred": "case study",
       "aliases": [
         "case study"
-      ],
-      "count": 4
-    },
-    "coach-encouragement": {
-      "id": "coach-encouragement",
-      "preferred": "coach encouragement",
-      "aliases": [
-        "coach encouragement"
       ],
       "count": 4
     },
@@ -644,6 +644,15 @@
       "aliases": [
         "report creation",
         "report generation"
+      ],
+      "count": 4
+    },
+    "client-education": {
+      "id": "client-education",
+      "preferred": "client education",
+      "aliases": [
+        "buyer education",
+        "client education"
       ],
       "count": 4
     },
@@ -784,14 +793,6 @@
       "preferred": "process improvement",
       "aliases": [
         "process improvement"
-      ],
-      "count": 3
-    },
-    "client-education": {
-      "id": "client-education",
-      "preferred": "client education",
-      "aliases": [
-        "client education"
       ],
       "count": 3
     },
@@ -1497,14 +1498,6 @@
       ],
       "count": 2
     },
-    "coach-urging": {
-      "id": "coach-urging",
-      "preferred": "coach urging",
-      "aliases": [
-        "coach urging"
-      ],
-      "count": 2
-    },
     "coach-guidance": {
       "id": "coach-guidance",
       "preferred": "coach guidance",
@@ -1875,21 +1868,21 @@
       ],
       "count": 2
     },
-    "pitching": {
-      "id": "pitching",
-      "preferred": "pitching",
-      "aliases": [
-        "pitching",
-        "sales pitching"
-      ],
-      "count": 2
-    },
     "problem-identification": {
       "id": "problem-identification",
       "preferred": "problem identification",
       "aliases": [
         "issue identification",
         "problem identification"
+      ],
+      "count": 2
+    },
+    "analogy-illustration": {
+      "id": "analogy-illustration",
+      "preferred": "analogy illustration",
+      "aliases": [
+        "analogy illustration",
+        "illustrative analogy"
       ],
       "count": 2
     },
@@ -4134,6 +4127,14 @@
       ],
       "count": 1
     },
+    "pitching": {
+      "id": "pitching",
+      "preferred": "pitching",
+      "aliases": [
+        "pitching"
+      ],
+      "count": 1
+    },
     "pitch-preparation": {
       "id": "pitch-preparation",
       "preferred": "pitch preparation",
@@ -4763,6 +4764,14 @@
       "preferred": "initial coaching session",
       "aliases": [
         "initial coaching session"
+      ],
+      "count": 1
+    },
+    "self-assessment-exercise": {
+      "id": "self-assessment-exercise",
+      "preferred": "self‑assessment exercise",
+      "aliases": [
+        "self‑assessment exercise"
       ],
       "count": 1
     },
@@ -6038,6 +6047,14 @@
       ],
       "count": 1
     },
+    "sales-pitching": {
+      "id": "sales-pitching",
+      "preferred": "sales pitching",
+      "aliases": [
+        "sales pitching"
+      ],
+      "count": 1
+    },
     "visual-aid": {
       "id": "visual-aid",
       "preferred": "visual aid",
@@ -6179,14 +6196,6 @@
       "preferred": "communication tailoring",
       "aliases": [
         "communication tailoring"
-      ],
-      "count": 1
-    },
-    "buyer-education": {
-      "id": "buyer-education",
-      "preferred": "buyer education",
-      "aliases": [
-        "buyer education"
       ],
       "count": 1
     },
@@ -7278,14 +7287,6 @@
       ],
       "count": 1
     },
-    "analogy-illustration": {
-      "id": "analogy-illustration",
-      "preferred": "analogy illustration",
-      "aliases": [
-        "analogy illustration"
-      ],
-      "count": 1
-    },
     "debate": {
       "id": "debate",
       "preferred": "debate",
@@ -7331,14 +7332,6 @@
       "preferred": "advisory",
       "aliases": [
         "advisory"
-      ],
-      "count": 1
-    },
-    "illustrative-analogy": {
-      "id": "illustrative-analogy",
-      "preferred": "illustrative analogy",
-      "aliases": [
-        "illustrative analogy"
       ],
       "count": 1
     },
@@ -7845,10 +7838,9 @@
       "preferred": "client resistance",
       "aliases": [
         "client pushback",
-        "client pushback on pricing",
         "client resistance"
       ],
-      "count": 13
+      "count": 12
     },
     "client-hesitation": {
       "id": "client-hesitation",
@@ -7896,13 +7888,12 @@
       ],
       "count": 5
     },
-    "unresponsive-leads": {
-      "id": "unresponsive-leads",
-      "preferred": "unresponsive leads",
+    "client-asks-for-options": {
+      "id": "client-asks-for-options",
+      "preferred": "client asks for options",
       "aliases": [
-        "aged leads not responding",
-        "cold leads",
-        "unresponsive leads"
+        "client asks for options",
+        "prospect asks for options"
       ],
       "count": 5
     },
@@ -7970,11 +7961,12 @@
       ],
       "count": 4
     },
-    "client-asks-for-options": {
-      "id": "client-asks-for-options",
-      "preferred": "client asks for options",
+    "unresponsive-leads": {
+      "id": "unresponsive-leads",
+      "preferred": "unresponsive leads",
       "aliases": [
-        "client asks for options"
+        "aged leads not responding",
+        "unresponsive leads"
       ],
       "count": 4
     },
@@ -8083,6 +8075,14 @@
       ],
       "count": 3
     },
+    "booking-confirmation": {
+      "id": "booking-confirmation",
+      "preferred": "booking confirmation",
+      "aliases": [
+        "booking confirmation"
+      ],
+      "count": 3
+    },
     "technical-difficulty": {
       "id": "technical-difficulty",
       "preferred": "technical difficulty",
@@ -8090,6 +8090,15 @@
         "technical difficulties",
         "technical difficulty",
         "technical hiccups"
+      ],
+      "count": 3
+    },
+    "market-feedback": {
+      "id": "market-feedback",
+      "preferred": "market feedback",
+      "aliases": [
+        "feedback on market performance",
+        "market feedback"
       ],
       "count": 3
     },
@@ -8251,14 +8260,6 @@
       "preferred": "report focus decision",
       "aliases": [
         "report focus decision"
-      ],
-      "count": 2
-    },
-    "market-feedback": {
-      "id": "market-feedback",
-      "preferred": "market feedback",
-      "aliases": [
-        "market feedback"
       ],
       "count": 2
     },
@@ -8457,14 +8458,6 @@
       ],
       "count": 2
     },
-    "booking-confirmation": {
-      "id": "booking-confirmation",
-      "preferred": "booking confirmation",
-      "aliases": [
-        "booking confirmation"
-      ],
-      "count": 2
-    },
     "client-decision-process": {
       "id": "client-decision-process",
       "preferred": "client decision process",
@@ -8487,6 +8480,15 @@
       "aliases": [
         "buyer demanding a sea view",
         "sea‑view demand"
+      ],
+      "count": 2
+    },
+    "buyer-classification": {
+      "id": "buyer-classification",
+      "preferred": "buyer classification",
+      "aliases": [
+        "buyer classification",
+        "buyer type clarification"
       ],
       "count": 2
     },
@@ -8523,6 +8525,15 @@
       "aliases": [
         "both parties concluding conversation",
         "end of conversation"
+      ],
+      "count": 2
+    },
+    "handling-frustration": {
+      "id": "handling-frustration",
+      "preferred": "handling frustration",
+      "aliases": [
+        "frustration tolerance",
+        "handling frustration"
       ],
       "count": 2
     },
@@ -9206,14 +9217,6 @@
       "preferred": "listing strategy",
       "aliases": [
         "listing strategy"
-      ],
-      "count": 1
-    },
-    "buyer-classification": {
-      "id": "buyer-classification",
-      "preferred": "buyer classification",
-      "aliases": [
-        "buyer classification"
       ],
       "count": 1
     },
@@ -10265,14 +10268,6 @@
       ],
       "count": 1
     },
-    "feedback-on-market-performance": {
-      "id": "feedback-on-market-performance",
-      "preferred": "feedback on market performance",
-      "aliases": [
-        "feedback on market performance"
-      ],
-      "count": 1
-    },
     "who-will-purchase": {
       "id": "who-will-purchase",
       "preferred": "who will purchase",
@@ -10550,14 +10545,6 @@
       "preferred": "investment attractiveness",
       "aliases": [
         "investment attractiveness"
-      ],
-      "count": 1
-    },
-    "buyer-type-clarification": {
-      "id": "buyer-type-clarification",
-      "preferred": "buyer type clarification",
-      "aliases": [
-        "buyer type clarification"
       ],
       "count": 1
     },
@@ -13177,14 +13164,6 @@
       ],
       "count": 1
     },
-    "handling-frustration": {
-      "id": "handling-frustration",
-      "preferred": "handling frustration",
-      "aliases": [
-        "handling frustration"
-      ],
-      "count": 1
-    },
     "language-barrier": {
       "id": "language-barrier",
       "preferred": "language barrier",
@@ -13878,6 +13857,14 @@
       "preferred": "client already invested in gold",
       "aliases": [
         "client already invested in gold"
+      ],
+      "count": 1
+    },
+    "cold-leads": {
+      "id": "cold-leads",
+      "preferred": "cold leads",
+      "aliases": [
+        "cold leads"
       ],
       "count": 1
     },
@@ -15614,14 +15601,6 @@
       "preferred": "budget inquiry",
       "aliases": [
         "budget inquiry"
-      ],
-      "count": 1
-    },
-    "prospect-asks-for-options": {
-      "id": "prospect-asks-for-options",
-      "preferred": "prospect asks for options",
-      "aliases": [
-        "prospect asks for options"
       ],
       "count": 1
     },
@@ -17521,6 +17500,14 @@
       ],
       "count": 1
     },
+    "client-pushback-on-pricing": {
+      "id": "client-pushback-on-pricing",
+      "preferred": "client pushback on pricing",
+      "aliases": [
+        "client pushback on pricing"
+      ],
+      "count": 1
+    },
     "client-in-different-time-zone": {
       "id": "client-in-different-time-zone",
       "preferred": "client in different time zone",
@@ -17926,14 +17913,6 @@
       "preferred": "unauthorized contact",
       "aliases": [
         "unauthorized contact"
-      ],
-      "count": 1
-    },
-    "frustration-tolerance": {
-      "id": "frustration-tolerance",
-      "preferred": "frustration tolerance",
-      "aliases": [
-        "frustration tolerance"
       ],
       "count": 1
     },
@@ -19312,6 +19291,54 @@
         "new agents facing onboarding challenges"
       ],
       "count": 1
+    },
+    "client-reverts-to-alternative-investments-like-stocks": {
+      "id": "client-reverts-to-alternative-investments-like-stocks",
+      "preferred": "client reverts to alternative investments like stocks",
+      "aliases": [
+        "client reverts to alternative investments like stocks"
+      ],
+      "count": 1
+    },
+    "client-is-flat-or-unresponsive": {
+      "id": "client-is-flat-or-unresponsive",
+      "preferred": "client is flat or unresponsive",
+      "aliases": [
+        "client is flat or unresponsive"
+      ],
+      "count": 1
+    },
+    "buyer-fear-and-hesitation": {
+      "id": "buyer-fear-and-hesitation",
+      "preferred": "buyer fear and hesitation",
+      "aliases": [
+        "buyer fear and hesitation"
+      ],
+      "count": 1
+    },
+    "client-does-not-respond": {
+      "id": "client-does-not-respond",
+      "preferred": "client does not respond",
+      "aliases": [
+        "client does not respond"
+      ],
+      "count": 1
+    },
+    "receiving-a-new-or-old-lead": {
+      "id": "receiving-a-new-or-old-lead",
+      "preferred": "receiving a new or old lead",
+      "aliases": [
+        "receiving a new or old lead"
+      ],
+      "count": 1
+    },
+    "i-need-to-talk-to-my-spouse-objection": {
+      "id": "i-need-to-talk-to-my-spouse-objection",
+      "preferred": "I need to talk to my spouse objection",
+      "aliases": [
+        "I need to talk to my spouse objection"
+      ],
+      "count": 1
     }
   },
   "topic": {
@@ -19319,7 +19346,6 @@
       "id": "objection-handling",
       "preferred": "objection handling",
       "aliases": [
-        "objection analysis",
         "objection handling",
         "objection response",
         "objection‑overcoming formula",
@@ -19394,16 +19420,6 @@
       ],
       "count": 11
     },
-    "sales-resistance": {
-      "id": "sales-resistance",
-      "preferred": "sales resistance",
-      "aliases": [
-        "customer resistance",
-        "sales resistance",
-        "sales‑resistance"
-      ],
-      "count": 11
-    },
     "price-objection": {
       "id": "price-objection",
       "preferred": "price objection",
@@ -19415,20 +19431,39 @@
       ],
       "count": 11
     },
-    "client-motivation": {
-      "id": "client-motivation",
-      "preferred": "client motivation",
+    "sales-resistance": {
+      "id": "sales-resistance",
+      "preferred": "sales resistance",
       "aliases": [
-        "client motivation"
+        "sales resistance",
+        "sales‑resistance"
       ],
-      "count": 8
+      "count": 10
+    },
+    "client-qualification": {
+      "id": "client-qualification",
+      "preferred": "client qualification",
+      "aliases": [
+        "buyer qualification",
+        "client qualification"
+      ],
+      "count": 9
     },
     "meeting-scheduling": {
       "id": "meeting-scheduling",
       "preferred": "meeting scheduling",
       "aliases": [
+        "booking next meeting",
         "meeting booking",
         "meeting scheduling"
+      ],
+      "count": 9
+    },
+    "client-motivation": {
+      "id": "client-motivation",
+      "preferred": "client motivation",
+      "aliases": [
+        "client motivation"
       ],
       "count": 8
     },
@@ -19472,15 +19507,6 @@
       "aliases": [
         "cold call opening",
         "cold‑call opening"
-      ],
-      "count": 7
-    },
-    "client-qualification": {
-      "id": "client-qualification",
-      "preferred": "client qualification",
-      "aliases": [
-        "buyer qualification",
-        "client qualification"
       ],
       "count": 7
     },
@@ -19567,16 +19593,13 @@
       ],
       "count": 6
     },
-    "cold-calling-anxiety": {
-      "id": "cold-calling-anxiety",
-      "preferred": "cold calling anxiety",
+    "budget-qualification": {
+      "id": "budget-qualification",
+      "preferred": "budget qualification",
       "aliases": [
-        "cold call anxiety",
-        "cold calling anxiety",
-        "cold calling fear",
-        "cold‑call anxiety"
+        "budget qualification"
       ],
-      "count": 6
+      "count": 5
     },
     "lead-quality": {
       "id": "lead-quality",
@@ -19603,15 +19626,6 @@
       ],
       "count": 5
     },
-    "closing-remarks": {
-      "id": "closing-remarks",
-      "preferred": "closing remarks",
-      "aliases": [
-        "closing remarks",
-        "closing summary"
-      ],
-      "count": 5
-    },
     "investment-goals": {
       "id": "investment-goals",
       "preferred": "investment goals",
@@ -19630,6 +19644,16 @@
         "budget objections",
         "financial objection",
         "financial objections"
+      ],
+      "count": 5
+    },
+    "cold-calling": {
+      "id": "cold-calling",
+      "preferred": "cold calling",
+      "aliases": [
+        "cold call",
+        "cold calling",
+        "cold‑calling"
       ],
       "count": 5
     },
@@ -19653,6 +19677,16 @@
       ],
       "count": 5
     },
+    "developer-credibility": {
+      "id": "developer-credibility",
+      "preferred": "developer credibility",
+      "aliases": [
+        "developer credibility",
+        "developer reputation",
+        "developer track record"
+      ],
+      "count": 5
+    },
     "appointment-setting": {
       "id": "appointment-setting",
       "preferred": "appointment‑setting",
@@ -19662,14 +19696,6 @@
         "appointment‑setting"
       ],
       "count": 5
-    },
-    "budget-qualification": {
-      "id": "budget-qualification",
-      "preferred": "budget qualification",
-      "aliases": [
-        "budget qualification"
-      ],
-      "count": 4
     },
     "market-timing": {
       "id": "market-timing",
@@ -19717,6 +19743,14 @@
       "preferred": "price perception",
       "aliases": [
         "price perception"
+      ],
+      "count": 4
+    },
+    "closing-remarks": {
+      "id": "closing-remarks",
+      "preferred": "closing remarks",
+      "aliases": [
+        "closing remarks"
       ],
       "count": 4
     },
@@ -19830,6 +19864,15 @@
       ],
       "count": 4
     },
+    "cold-calling-anxiety": {
+      "id": "cold-calling-anxiety",
+      "preferred": "cold calling anxiety",
+      "aliases": [
+        "cold calling anxiety",
+        "cold calling fear"
+      ],
+      "count": 4
+    },
     "off-plan-property-sales-in-dubai": {
       "id": "off-plan-property-sales-in-dubai",
       "preferred": "off‑plan property sales in Dubai",
@@ -19853,25 +19896,6 @@
       "aliases": [
         "ROI expectations",
         "expected ROI"
-      ],
-      "count": 4
-    },
-    "developer-credibility": {
-      "id": "developer-credibility",
-      "preferred": "developer credibility",
-      "aliases": [
-        "developer credibility",
-        "developer reputation"
-      ],
-      "count": 4
-    },
-    "question-driven-sales": {
-      "id": "question-driven-sales",
-      "preferred": "question‑driven sales",
-      "aliases": [
-        "curiosity‑driven selling",
-        "question-driven selling",
-        "question‑driven sales"
       ],
       "count": 4
     },
@@ -20177,6 +20201,14 @@
       ],
       "count": 2
     },
+    "closing": {
+      "id": "closing",
+      "preferred": "closing",
+      "aliases": [
+        "closing"
+      ],
+      "count": 3
+    },
     "question-framing": {
       "id": "question-framing",
       "preferred": "question framing",
@@ -20219,6 +20251,15 @@
       ],
       "count": 3
     },
+    "question-driven-sales": {
+      "id": "question-driven-sales",
+      "preferred": "question‑driven sales",
+      "aliases": [
+        "question-driven selling",
+        "question‑driven sales"
+      ],
+      "count": 3
+    },
     "unit-features": {
       "id": "unit-features",
       "preferred": "unit features",
@@ -20253,6 +20294,15 @@
       "aliases": [
         "seller timeline",
         "selling timeline"
+      ],
+      "count": 3
+    },
+    "off-plan-properties": {
+      "id": "off-plan-properties",
+      "preferred": "off‑plan properties",
+      "aliases": [
+        "off‑plan properties",
+        "off‑plan sales"
       ],
       "count": 3
     },
@@ -20298,6 +20348,15 @@
       "aliases": [
         "personal development",
         "personal growth"
+      ],
+      "count": 3
+    },
+    "rapport-building": {
+      "id": "rapport-building",
+      "preferred": "rapport building",
+      "aliases": [
+        "rapport building",
+        "relationship building in coaching"
       ],
       "count": 3
     },
@@ -20535,27 +20594,11 @@
       ],
       "count": 2
     },
-    "cold-calling": {
-      "id": "cold-calling",
-      "preferred": "cold‑calling",
-      "aliases": [
-        "cold‑calling"
-      ],
-      "count": 1
-    },
     "client-communication": {
       "id": "client-communication",
       "preferred": "client communication",
       "aliases": [
         "client communication"
-      ],
-      "count": 2
-    },
-    "off-plan-properties": {
-      "id": "off-plan-properties",
-      "preferred": "off‑plan properties",
-      "aliases": [
-        "off‑plan properties"
       ],
       "count": 2
     },
@@ -20669,6 +20712,14 @@
       "preferred": "call structure",
       "aliases": [
         "call structure"
+      ],
+      "count": 2
+    },
+    "project-presentation": {
+      "id": "project-presentation",
+      "preferred": "project presentation",
+      "aliases": [
+        "project presentation"
       ],
       "count": 2
     },
@@ -21091,6 +21142,14 @@
       ],
       "count": 2
     },
+    "meeting-show-up-rate": {
+      "id": "meeting-show-up-rate",
+      "preferred": "meeting show-up rate",
+      "aliases": [
+        "meeting show-up rate"
+      ],
+      "count": 2
+    },
     "career-transition-to-dubai-real-estate": {
       "id": "career-transition-to-dubai-real-estate",
       "preferred": "career transition to Dubai real estate",
@@ -21104,14 +21163,6 @@
       "preferred": "career progression in Dubai real estate",
       "aliases": [
         "career progression in Dubai real estate"
-      ],
-      "count": 2
-    },
-    "closing": {
-      "id": "closing",
-      "preferred": "closing",
-      "aliases": [
-        "closing"
       ],
       "count": 2
     },
@@ -21378,6 +21429,14 @@
       "preferred": "curiosity",
       "aliases": [
         "curiosity"
+      ],
+      "count": 2
+    },
+    "commitment-and-consistency": {
+      "id": "commitment-and-consistency",
+      "preferred": "commitment and consistency",
+      "aliases": [
+        "commitment and consistency"
       ],
       "count": 2
     },
@@ -25640,14 +25699,6 @@
       ],
       "count": 1
     },
-    "project-presentation": {
-      "id": "project-presentation",
-      "preferred": "project presentation",
-      "aliases": [
-        "project presentation"
-      ],
-      "count": 1
-    },
     "scheduling": {
       "id": "scheduling",
       "preferred": "scheduling",
@@ -27864,14 +27915,6 @@
       ],
       "count": 1
     },
-    "developer-track-record": {
-      "id": "developer-track-record",
-      "preferred": "developer track record",
-      "aliases": [
-        "developer track record"
-      ],
-      "count": 1
-    },
     "timing-risk": {
       "id": "timing-risk",
       "preferred": "timing risk",
@@ -29760,14 +29803,6 @@
       ],
       "count": 1
     },
-    "rapport-building": {
-      "id": "rapport-building",
-      "preferred": "rapport building",
-      "aliases": [
-        "rapport building"
-      ],
-      "count": 1
-    },
     "client-awareness": {
       "id": "client-awareness",
       "preferred": "client awareness",
@@ -29941,6 +29976,14 @@
       "preferred": "iterative practice",
       "aliases": [
         "iterative practice"
+      ],
+      "count": 1
+    },
+    "objection-analysis": {
+      "id": "objection-analysis",
+      "preferred": "objection analysis",
+      "aliases": [
+        "objection analysis"
       ],
       "count": 1
     },
@@ -30237,14 +30280,6 @@
       "preferred": "role‑play structure",
       "aliases": [
         "role‑play structure"
-      ],
-      "count": 1
-    },
-    "cold-call": {
-      "id": "cold-call",
-      "preferred": "cold call",
-      "aliases": [
-        "cold call"
       ],
       "count": 1
     },
@@ -31029,6 +31064,14 @@
       "preferred": "pricing vs unit metrics",
       "aliases": [
         "pricing vs unit metrics"
+      ],
+      "count": 1
+    },
+    "curiosity-driven-selling": {
+      "id": "curiosity-driven-selling",
+      "preferred": "curiosity‑driven selling",
+      "aliases": [
+        "curiosity‑driven selling"
       ],
       "count": 1
     },
@@ -31856,14 +31899,6 @@
       ],
       "count": 1
     },
-    "meeting-show-up-rate": {
-      "id": "meeting-show-up-rate",
-      "preferred": "meeting show-up rate",
-      "aliases": [
-        "meeting show-up rate"
-      ],
-      "count": 1
-    },
     "meeting-persuasion": {
       "id": "meeting-persuasion",
       "preferred": "meeting persuasion",
@@ -31989,6 +32024,14 @@
       "preferred": "hospitality-to-real-estate transition",
       "aliases": [
         "hospitality-to-real-estate transition"
+      ],
+      "count": 1
+    },
+    "cold-call-anxiety": {
+      "id": "cold-call-anxiety",
+      "preferred": "cold call anxiety",
+      "aliases": [
+        "cold call anxiety"
       ],
       "count": 1
     },
@@ -32760,6 +32803,14 @@
       ],
       "count": 1
     },
+    "customer-resistance": {
+      "id": "customer-resistance",
+      "preferred": "customer resistance",
+      "aliases": [
+        "customer resistance"
+      ],
+      "count": 1
+    },
     "objection-handling-for-existing-agent-relationship": {
       "id": "objection-handling-for-existing-agent-relationship",
       "preferred": "objection handling for existing agent relationship",
@@ -33365,14 +33416,6 @@
       "preferred": "real‑estate coaching for Dubai",
       "aliases": [
         "real‑estate coaching for Dubai"
-      ],
-      "count": 1
-    },
-    "relationship-building-in-coaching": {
-      "id": "relationship-building-in-coaching",
-      "preferred": "relationship building in coaching",
-      "aliases": [
-        "relationship building in coaching"
       ],
       "count": 1
     },
@@ -37440,6 +37483,14 @@
       ],
       "count": 1
     },
+    "closing-summary": {
+      "id": "closing-summary",
+      "preferred": "closing summary",
+      "aliases": [
+        "closing summary"
+      ],
+      "count": 1
+    },
     "cold-calling-prospect-engagement": {
       "id": "cold-calling-prospect-engagement",
       "preferred": "cold calling prospect engagement",
@@ -38320,14 +38371,6 @@
       ],
       "count": 1
     },
-    "off-plan-sales": {
-      "id": "off-plan-sales",
-      "preferred": "off‑plan sales",
-      "aliases": [
-        "off‑plan sales"
-      ],
-      "count": 1
-    },
     "post-sale-documentation": {
       "id": "post-sale-documentation",
       "preferred": "post‑sale documentation",
@@ -38746,9 +38789,9 @@
     },
     "objection-pre-handling": {
       "id": "objection-pre-handling",
-      "preferred": "objection pre‑handling",
+      "preferred": "objection pre-handling",
       "aliases": [
-        "objection pre‑handling"
+        "objection pre-handling"
       ],
       "count": 1
     },
@@ -40888,14 +40931,6 @@
       ],
       "count": 1
     },
-    "commitment-and-consistency": {
-      "id": "commitment-and-consistency",
-      "preferred": "commitment and consistency",
-      "aliases": [
-        "commitment and consistency"
-      ],
-      "count": 1
-    },
     "unity": {
       "id": "unity",
       "preferred": "unity",
@@ -41381,6 +41416,118 @@
       "preferred": "Dubai real estate agent career",
       "aliases": [
         "Dubai real estate agent career"
+      ],
+      "count": 1
+    },
+    "market-data-presentation": {
+      "id": "market-data-presentation",
+      "preferred": "market data presentation",
+      "aliases": [
+        "market data presentation"
+      ],
+      "count": 1
+    },
+    "booking-process": {
+      "id": "booking-process",
+      "preferred": "booking process",
+      "aliases": [
+        "booking process"
+      ],
+      "count": 1
+    },
+    "video-calls": {
+      "id": "video-calls",
+      "preferred": "video calls",
+      "aliases": [
+        "video calls"
+      ],
+      "count": 1
+    },
+    "discovery-questions": {
+      "id": "discovery-questions",
+      "preferred": "discovery questions",
+      "aliases": [
+        "discovery questions"
+      ],
+      "count": 1
+    },
+    "internal-urgency": {
+      "id": "internal-urgency",
+      "preferred": "internal urgency",
+      "aliases": [
+        "internal urgency"
+      ],
+      "count": 1
+    },
+    "qualifying-leads": {
+      "id": "qualifying-leads",
+      "preferred": "qualifying leads",
+      "aliases": [
+        "qualifying leads"
+      ],
+      "count": 1
+    },
+    "closing-system": {
+      "id": "closing-system",
+      "preferred": "closing system",
+      "aliases": [
+        "closing system"
+      ],
+      "count": 1
+    },
+    "guided-sales-process": {
+      "id": "guided-sales-process",
+      "preferred": "guided sales process",
+      "aliases": [
+        "guided sales process"
+      ],
+      "count": 1
+    },
+    "controlling-sales-conversations-through-questions": {
+      "id": "controlling-sales-conversations-through-questions",
+      "preferred": "controlling sales conversations through questions",
+      "aliases": [
+        "controlling sales conversations through questions"
+      ],
+      "count": 1
+    },
+    "lead-follow-up": {
+      "id": "lead-follow-up",
+      "preferred": "lead follow-up",
+      "aliases": [
+        "lead follow-up"
+      ],
+      "count": 1
+    },
+    "lead-qualification-and-initial-outreach": {
+      "id": "lead-qualification-and-initial-outreach",
+      "preferred": "lead qualification and initial outreach",
+      "aliases": [
+        "lead qualification and initial outreach"
+      ],
+      "count": 1
+    },
+    "educational-zoom-preparation": {
+      "id": "educational-zoom-preparation",
+      "preferred": "educational Zoom preparation",
+      "aliases": [
+        "educational Zoom preparation"
+      ],
+      "count": 1
+    },
+    "investment-performance-report": {
+      "id": "investment-performance-report",
+      "preferred": "investment performance report",
+      "aliases": [
+        "investment performance report"
+      ],
+      "count": 1
+    },
+    "qualification": {
+      "id": "qualification",
+      "preferred": "qualification",
+      "aliases": [
+        "qualification"
       ],
       "count": 1
     }
