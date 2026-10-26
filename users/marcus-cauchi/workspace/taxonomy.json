@@ -1,0 +1,313 @@
+{
+  "activity": {
+    "podcast-outro": {
+      "id": "podcast-outro",
+      "preferred": "podcast outro",
+      "aliases": [
+        "podcast outro"
+      ],
+      "count": 2
+    }
+  },
+  "situation": {
+    "client-says-it-is-not-in-the-budget": {
+      "id": "client-says-it-is-not-in-the-budget",
+      "preferred": "client says it is not in the budget",
+      "aliases": [
+        "client says it is not in the budget"
+      ],
+      "count": 1
+    },
+    "quota-overassignment": {
+      "id": "quota-overassignment",
+      "preferred": "quota overassignment",
+      "aliases": [
+        "quota overassignment"
+      ],
+      "count": 1
+    },
+    "pulling-deals-forward-to-meet-quota": {
+      "id": "pulling-deals-forward-to-meet-quota",
+      "preferred": "pulling deals forward to meet quota",
+      "aliases": [
+        "pulling deals forward to meet quota"
+      ],
+      "count": 1
+    },
+    "closed-lost-no-decision": {
+      "id": "closed-lost-no-decision",
+      "preferred": "closed lost no decision",
+      "aliases": [
+        "closed lost no decision"
+      ],
+      "count": 1
+    }
+  },
+  "topic": {
+    "go-to-market-strategy": {
+      "id": "go-to-market-strategy",
+      "preferred": "go-to-market strategy",
+      "aliases": [
+        "go-to-market strategy"
+      ],
+      "count": 2
+    },
+    "sales-leadership": {
+      "id": "sales-leadership",
+      "preferred": "sales leadership",
+      "aliases": [
+        "sales leadership"
+      ],
+      "count": 2
+    },
+    "ethical-selling": {
+      "id": "ethical-selling",
+      "preferred": "ethical selling",
+      "aliases": [
+        "ethical selling"
+      ],
+      "count": 2
+    },
+    "the-ally-method": {
+      "id": "the-ally-method",
+      "preferred": "the ally method",
+      "aliases": [
+        "Ally Method",
+        "the ally method"
+      ],
+      "count": 2
+    },
+    "sales-systems": {
+      "id": "sales-systems",
+      "preferred": "sales systems",
+      "aliases": [
+        "sales systems"
+      ],
+      "count": 1
+    },
+    "systemic-dysfunction": {
+      "id": "systemic-dysfunction",
+      "preferred": "systemic dysfunction",
+      "aliases": [
+        "systemic dysfunction"
+      ],
+      "count": 1
+    },
+    "account-research": {
+      "id": "account-research",
+      "preferred": "account research",
+      "aliases": [
+        "account research"
+      ],
+      "count": 1
+    },
+    "four-forces-framework": {
+      "id": "four-forces-framework",
+      "preferred": "four forces framework",
+      "aliases": [
+        "four forces framework"
+      ],
+      "count": 1
+    },
+    "pre-call-research": {
+      "id": "pre-call-research",
+      "preferred": "pre-call research",
+      "aliases": [
+        "pre-call research"
+      ],
+      "count": 1
+    },
+    "stakeholder-outreach": {
+      "id": "stakeholder-outreach",
+      "preferred": "stakeholder outreach",
+      "aliases": [
+        "stakeholder outreach"
+      ],
+      "count": 1
+    },
+    "referrals": {
+      "id": "referrals",
+      "preferred": "referrals",
+      "aliases": [
+        "referrals"
+      ],
+      "count": 1
+    },
+    "prospecting": {
+      "id": "prospecting",
+      "preferred": "prospecting",
+      "aliases": [
+        "prospecting"
+      ],
+      "count": 1
+    },
+    "statement-of-work-co-creation": {
+      "id": "statement-of-work-co-creation",
+      "preferred": "statement of work co-creation",
+      "aliases": [
+        "statement of work co-creation"
+      ],
+      "count": 1
+    },
+    "discovery-questions": {
+      "id": "discovery-questions",
+      "preferred": "discovery questions",
+      "aliases": [
+        "discovery questions"
+      ],
+      "count": 1
+    },
+    "bant-vs-empowering-questions": {
+      "id": "bant-vs-empowering-questions",
+      "preferred": "BANT vs empowering questions",
+      "aliases": [
+        "BANT vs empowering questions"
+      ],
+      "count": 1
+    },
+    "value-quantification": {
+      "id": "value-quantification",
+      "preferred": "value quantification",
+      "aliases": [
+        "value quantification"
+      ],
+      "count": 1
+    },
+    "objection-handling": {
+      "id": "objection-handling",
+      "preferred": "objection handling",
+      "aliases": [
+        "objection handling"
+      ],
+      "count": 1
+    },
+    "budget-objections": {
+      "id": "budget-objections",
+      "preferred": "budget objections",
+      "aliases": [
+        "budget objections"
+      ],
+      "count": 1
+    },
+    "crafted-model": {
+      "id": "crafted-model",
+      "preferred": "CRAFTED model",
+      "aliases": [
+        "CRAFTED model"
+      ],
+      "count": 1
+    },
+    "buyer-readiness": {
+      "id": "buyer-readiness",
+      "preferred": "buyer readiness",
+      "aliases": [
+        "buyer readiness"
+      ],
+      "count": 1
+    },
+    "customer-profiling": {
+      "id": "customer-profiling",
+      "preferred": "customer profiling",
+      "aliases": [
+        "customer profiling"
+      ],
+      "count": 1
+    },
+    "sales-enablement": {
+      "id": "sales-enablement",
+      "preferred": "sales enablement",
+      "aliases": [
+        "sales enablement"
+      ],
+      "count": 1
+    },
+    "sales-strategy": {
+      "id": "sales-strategy",
+      "preferred": "sales strategy",
+      "aliases": [
+        "sales strategy"
+      ],
+      "count": 1
+    },
+    "intrinsic-motivation": {
+      "id": "intrinsic-motivation",
+      "preferred": "intrinsic motivation",
+      "aliases": [
+        "intrinsic motivation"
+      ],
+      "count": 1
+    },
+    "buyer-behavior": {
+      "id": "buyer-behavior",
+      "preferred": "buyer behavior",
+      "aliases": [
+        "buyer behavior"
+      ],
+      "count": 1
+    },
+    "enterprise-sales": {
+      "id": "enterprise-sales",
+      "preferred": "enterprise sales",
+      "aliases": [
+        "enterprise sales"
+      ],
+      "count": 1
+    },
+    "conversion-optimization": {
+      "id": "conversion-optimization",
+      "preferred": "conversion optimization",
+      "aliases": [
+        "conversion optimization"
+      ],
+      "count": 1
+    },
+    "lean-methodology": {
+      "id": "lean-methodology",
+      "preferred": "lean methodology",
+      "aliases": [
+        "lean methodology"
+      ],
+      "count": 1
+    },
+    "customer-service-value": {
+      "id": "customer-service-value",
+      "preferred": "customer service value",
+      "aliases": [
+        "customer service value"
+      ],
+      "count": 1
+    },
+    "problem-solving": {
+      "id": "problem-solving",
+      "preferred": "problem solving",
+      "aliases": [
+        "problem solving"
+      ],
+      "count": 1
+    },
+    "process-optimization": {
+      "id": "process-optimization",
+      "preferred": "process optimization",
+      "aliases": [
+        "process optimization"
+      ],
+      "count": 1
+    },
+    "sales-aptitude": {
+      "id": "sales-aptitude",
+      "preferred": "sales aptitude",
+      "aliases": [
+        "sales aptitude"
+      ],
+      "count": 1
+    },
+    "company-culture": {
+      "id": "company-culture",
+      "preferred": "company culture",
+      "aliases": [
+        "company culture"
+      ],
+      "count": 1
+    }
+  }
+}
