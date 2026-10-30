@@ -9,6 +9,11 @@
       "path": "youtube/video/2024-11-11-5-9-transforming-sales-through-people-centric-strategies-wit-VR3mtZa2VNI.md",
       "sha256": "b1a117c0f2368e3d5207a5d795a976fe631c2ecb3d46bc265e95b42181d536ca",
       "basis": "sections"
+    },
+    "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7": {
+      "path": "recordings/videos/2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-for-sales-reinvented-243.md",
+      "sha256": "cae5cedf63c010daeacb1f269ac712eb91522fe282f87a9e726307af254ea82d",
+      "basis": "sections"
     }
   },
   "items": [
@@ -557,6 +562,117 @@
       "source_id": "youtube-video-2024-11-11-5-9-transforming-sales-through-people-centric-strategies-wit-b05ed8aa11",
       "path": "youtube/video/2024-11-11-5-9-transforming-sales-through-people-centric-strategies-wit-VR3mtZa2VNI.md",
       "prev": "youtube-video-2024-11-11-5-9-transforming-sales-through-people-centric-strategies-wit-b05ed8aa11:0171-0182",
+      "next": null
+    },
+    {
+      "title": "Prospecting vs Lead Generation and Prospecting for Choice",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "prospecting vs lead generation"
+        },
+        {
+          "facet": "topic",
+          "label": "pipeline qualification"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "Sales Reinvented Podcast episode number 243 Hi this is Paul Watts from the Sales Reinvented Podcast Here at Sales Reinvented were on a mission to change the negative perception of salespeople with a vision of making selling a profession to be proud of Joining me on todays show is Marcus Cauchi Marcus is a fractional chief revenue officer for a number of technology scale ups Helping them to achieve controlled hypergrowth without giving away their shares or control to greedy investors Marcus has b",
+      "item_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0016-0027",
+      "source_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7",
+      "path": "recordings/videos/2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-for-sales-reinvented-243.md",
+      "prev": null,
+      "next": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0028-0039"
+    },
+    {
+      "title": "Ideal Prospecting Process and Core Salesperson Attributes",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "prospecting process"
+        },
+        {
+          "facet": "topic",
+          "label": "salesperson attributes"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "I love that concept prospecting for choice What a great analogy Thank you for sharing that Marcus So Marcus most salespeople would agree that prospecting and lead generation are essential for sales success Could you please describe your ideal prospecting and lead generation process Okay I mean thats quite an involved response But the first thing you need to do is identify who is and who is not someone that you should be prospecting And disqualify out everybody who is not a good fit And I mean by",
+      "item_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0028-0039",
+      "source_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7",
+      "path": "recordings/videos/2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-for-sales-reinvented-243.md",
+      "prev": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0016-0027",
+      "next": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0040-0051"
+    },
+    {
+      "title": "Prospecting Skills and Key Dos and Don'ts",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "prospecting skills"
+        },
+        {
+          "facet": "topic",
+          "label": "listening and diagnosis"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 51
+      },
+      "quote": "Wow What an exceptional list of qualities And you know what I dont think weve heard vulnerability before from a sales perspective But I think the vulnerability speaks to a salespersons humility and just being humble enough to be able to make yourself vulnerable in front of the client I think is very very powerful What a great list of attributes Thank you for sharing those Marcus So Marcus in your opinion what are the top prospecting and lead generation skills that a salesperson should be working",
+      "item_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0040-0051",
+      "source_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7",
+      "path": "recordings/videos/2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-for-sales-reinvented-243.md",
+      "prev": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0028-0039",
+      "next": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0052-0063"
+    },
+    {
+      "title": "Turning Serendipity into Pipeline and Sales as Service",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cold calling stories"
+        },
+        {
+          "facet": "topic",
+          "label": "the three-foot rule"
+        }
+      ],
+      "span": {
+        "start_line": 52,
+        "end_line": 63
+      },
+      "quote": "Wow What a great list of dos and donts Very very powerful Marcus Thank you for sharing those So Marcus I cant believe were here already but were actually at the last question So I want to start by asking you if you would share with our listeners your favorite prospecting or lead generation sales story Please describe the situation Tell us what the challenge was that you had to overcome What was the result And most importantly what was the lesson that you learned This one will be short I received",
+      "item_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0052-0063",
+      "source_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7",
+      "path": "recordings/videos/2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-for-sales-reinvented-243.md",
+      "prev": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0040-0051",
+      "next": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0064-0064"
+    },
+    {
+      "title": "Always Be Consultative Closing",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "consultative selling"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 64
+      },
+      "quote": "Fantastic Thank you so much Marcus Thank you for listening and please join us on our next podcast If you have any comments or suggestions for the show please go to our website salesreinventedcom Until next time remember the ABCs of selling Always be consultative Im Paul Watts and you have been listening to the Sales Reinvented podcast",
+      "item_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0064-0064",
+      "source_id": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7",
+      "path": "recordings/videos/2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-for-sales-reinvented-243.md",
+      "prev": "recordings-videos-2026-10-30-sales-reinvented-243-marcus-cauchi-why-you-must-prospect-ecebe394b7:0052-0063",
       "next": null
     }
   ]

@@ -308,6 +308,78 @@
         "company culture"
       ],
       "count": 1
+    },
+    "prospecting-vs-lead-generation": {
+      "id": "prospecting-vs-lead-generation",
+      "preferred": "prospecting vs lead generation",
+      "aliases": [
+        "prospecting vs lead generation"
+      ],
+      "count": 1
+    },
+    "pipeline-qualification": {
+      "id": "pipeline-qualification",
+      "preferred": "pipeline qualification",
+      "aliases": [
+        "pipeline qualification"
+      ],
+      "count": 1
+    },
+    "prospecting-process": {
+      "id": "prospecting-process",
+      "preferred": "prospecting process",
+      "aliases": [
+        "prospecting process"
+      ],
+      "count": 1
+    },
+    "salesperson-attributes": {
+      "id": "salesperson-attributes",
+      "preferred": "salesperson attributes",
+      "aliases": [
+        "salesperson attributes"
+      ],
+      "count": 1
+    },
+    "prospecting-skills": {
+      "id": "prospecting-skills",
+      "preferred": "prospecting skills",
+      "aliases": [
+        "prospecting skills"
+      ],
+      "count": 1
+    },
+    "listening-and-diagnosis": {
+      "id": "listening-and-diagnosis",
+      "preferred": "listening and diagnosis",
+      "aliases": [
+        "listening and diagnosis"
+      ],
+      "count": 1
+    },
+    "cold-calling-stories": {
+      "id": "cold-calling-stories",
+      "preferred": "cold calling stories",
+      "aliases": [
+        "cold calling stories"
+      ],
+      "count": 1
+    },
+    "the-three-foot-rule": {
+      "id": "the-three-foot-rule",
+      "preferred": "the three-foot rule",
+      "aliases": [
+        "the three-foot rule"
+      ],
+      "count": 1
+    },
+    "consultative-selling": {
+      "id": "consultative-selling",
+      "preferred": "consultative selling",
+      "aliases": [
+        "consultative selling"
+      ],
+      "count": 1
     }
   }
 }
