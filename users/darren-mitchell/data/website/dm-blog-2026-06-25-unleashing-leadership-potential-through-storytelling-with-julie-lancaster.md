@@ -1,0 +1,18 @@
+---
+title: "Unleashing Leadership Potential Through Storytelling with Julie Lancaster"
+url: "https://darrenmitchell.com.au/2026/06/25/unleashing-leadership-potential-through-storytelling-with-julie-lancaster/"
+date: "2026-06-25"
+source: website
+---
+
+https://media.blubrry.com/exceptionalsalesleader/content.blubrry.com/exceptionalsalesleader/June_25_2026-Episode_904.mp3Podcast: Play in new window | Download (Duration: 53:27 — 40.0MB)
+
+Subscribe: Spotify | Pandora | iHeartRadio | TuneIn | Deezer | RSS | http://darrenmitchell.com.au/feed/podcast/
+
+In this episode of the Exceptional Sales Leader Podcast, I am joined by Julie Lancaster, a leadership specialist known for her innovative approach to storytelling and strategy within leadership. We delve into Julie’s fascinating journey from being the Dean of Education to becoming an influential coach and strategist. As Julie shares her insights on the importance of leadership agility and authenticity, the conversation touches upon critical elements like intrinsic motivation, effective communication, and the dynamic role of storytelling in leadership development. The discussion further emphasises the necessity of understanding individual learning styles and motivations to enhance team onboarding, retention, and succession planning. Julie’s model, REST, which stands for relate, engage, short, and theme, is highlighted as an effective framework for crafting stories that inspire and drive action. With references to her book “Beyond Words,” Julie underscores how stories can bridge gaps in communication and create deeper connections within teams. This episode is a treasure trove of leadership wisdom, offering practical tips for sales leaders aiming to elevate their team’s performance through the power of storytelling and strategic planning.
+
+To connect with Julie and to learn more about what she does, please go to:
+
+LinkedIn – https://www.linkedin.com/in/julielancaster/
+
+Website – https://www.lancasterleadership.com/
