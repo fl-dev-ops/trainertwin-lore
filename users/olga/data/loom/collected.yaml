@@ -1,5 +1,5 @@
 channel_url: users/olga/data/loom/loom.yaml
-total_videos: 46
+total_videos: 57
 videos:
 - id: 5912cd3e872a4a1f890a56983f4c9583
   url: https://www.loom.com/share/5912cd3e872a4a1f890a56983f4c9583
@@ -621,3 +621,120 @@ videos:
   speakers:
     '1': Speaker 1
     '2': Speaker 2
+- id: d1594791aa1442cf8b6ae9e9bdf4991e
+  url: https://www.loom.com/share/d1594791aa1442cf8b6ae9e9bdf4991e
+  title: Off-plan closers session 1 Q&A 2.11.2026
+  upload_date: '2026-11-02'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 8
+  speakers:
+    speaker_1: null
+    speaker_2: null
+    speaker_3: null
+    speaker_4: null
+    speaker_5: null
+    speaker_6: null
+    speaker_7: null
+    speaker_8: null
+- id: 811a24402d9848a2bcf5868a2f65f3ea
+  url: https://www.loom.com/share/811a24402d9848a2bcf5868a2f65f3ea
+  title: What's is inside
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: 72021e56d1a14444b69e06746f7b61ac
+  url: https://www.loom.com/share/72021e56d1a14444b69e06746f7b61ac
+  title: Lesson 1.
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: 52b18c56309c46a7871a00da912e3133
+  url: https://www.loom.com/share/52b18c56309c46a7871a00da912e3133
+  title: Lesson 2
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: 0070920753ec491cb3c13105ff9bedef
+  url: https://www.loom.com/share/0070920753ec491cb3c13105ff9bedef
+  title: Lesson 3
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: 85583f10ca3d4879ab07930a6d07f4cb
+  url: https://www.loom.com/share/85583f10ca3d4879ab07930a6d07f4cb
+  title: 'Lesson 4 '
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: cfcb54a9928148d58540415911608846
+  url: https://www.loom.com/share/cfcb54a9928148d58540415911608846
+  title: Lesson 5
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: 89ef6db97db04f1494ef6fafdfc1e4f2
+  url: https://www.loom.com/share/89ef6db97db04f1494ef6fafdfc1e4f2
+  title: Lesson 6
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: a04e375e2a804c3f936abcef327678ed
+  url: https://www.loom.com/share/a04e375e2a804c3f936abcef327678ed
+  title: Lesson 7
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: 309a2385b17846bdb1d630585d22b4ef
+  url: https://www.loom.com/share/309a2385b17846bdb1d630585d22b4ef
+  title: Lesson 8
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: 66f71f80af7c45e189566bf16eb1f135
+  url: https://www.loom.com/share/66f71f80af7c45e189566bf16eb1f135
+  title: Lesson 9
+  upload_date: '2026-10-30'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null

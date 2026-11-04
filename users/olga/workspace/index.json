@@ -2469,6 +2469,66 @@
       "path": "drive/videos/2026-10-01-lesson-6-authority-how-to-avoid-i-need-to-talk-to-_-drive-lesson-6-authority-how-to-avoid-i-need-to-talk-to.md",
       "sha256": "d0a320e5c181ff2d5556362e842a496f447f887ced3f5da533df0d14d91d5a63",
       "basis": "whole"
+    },
+    "loom-videos-2026-10-30-lesson-3-0070920753ec491cb3c13105ff9bedef-md-a37cea4a2f": {
+      "path": "loom/videos/2026-10-30-lesson-3-0070920753ec491cb3c13105ff9bedef.md",
+      "sha256": "edac604bf19192a42fb2cb15417787a83e1865b6ecf8066704ad332458012c59",
+      "basis": "whole"
+    },
+    "loom-loom-2026-11-added-yaml-ff79dcf3a4": {
+      "path": "loom/loom-2026-11-added.yaml",
+      "sha256": "19d3306a40f2cfc4b44767008014a91e467c5470438e40df56305479b9cbace5",
+      "basis": "whole"
+    },
+    "loom-videos-2026-10-30-lesson-1-72021e56d1a14444b69e06746f7b61ac-md-6d561ede7c": {
+      "path": "loom/videos/2026-10-30-lesson-1-72021e56d1a14444b69e06746f7b61ac.md",
+      "sha256": "bf39d4c350b275b6fc3abf88bff6f46bf901e83513f1ebb7adaa5b8ac5317a68",
+      "basis": "whole"
+    },
+    "loom-videos-2026-10-30-lesson-2-52b18c56309c46a7871a00da912e3133-md-3644bf5cb4": {
+      "path": "loom/videos/2026-10-30-lesson-2-52b18c56309c46a7871a00da912e3133.md",
+      "sha256": "49bb4abb5a7318e87ce743fa7ecdcb7ff6581997a75fb21b41e3ef2cedfc6c5f",
+      "basis": "whole"
+    },
+    "loom-videos-2026-10-30-lesson-4-85583f10ca3d4879ab07930a6d07f4cb-md-1e1b1b3fbf": {
+      "path": "loom/videos/2026-10-30-lesson-4-85583f10ca3d4879ab07930a6d07f4cb.md",
+      "sha256": "f1b3aa45e4a032c00e9e3f03007765e110ee3542f31bf0358d939fc33145bfab",
+      "basis": "whole"
+    },
+    "loom-videos-2026-10-30-lesson-5-cfcb54a9928148d58540415911608846-md-4a786ab301": {
+      "path": "loom/videos/2026-10-30-lesson-5-cfcb54a9928148d58540415911608846.md",
+      "sha256": "40ab5db958b5bd712967de42bacbd22c372d696ddc9c0ed57e27345ee1600733",
+      "basis": "whole"
+    },
+    "loom-videos-2026-10-30-lesson-9-66f71f80af7c45e189566bf16eb1f135-md-a4450ef5bf": {
+      "path": "loom/videos/2026-10-30-lesson-9-66f71f80af7c45e189566bf16eb1f135.md",
+      "sha256": "e7ecefe423558d8a0852ce4b1c498c23453bf3c19636825d5ccdca432add5ecf",
+      "basis": "whole"
+    },
+    "loom-videos-2026-10-30-lesson-6-89ef6db97db04f1494ef6fafdfc1e4f2-md-5f4f1920a5": {
+      "path": "loom/videos/2026-10-30-lesson-6-89ef6db97db04f1494ef6fafdfc1e4f2.md",
+      "sha256": "5cf2a909699bb3d672d5b61033e626c9c2e495ad03d4f774b03d555357148f77",
+      "basis": "whole"
+    },
+    "loom-videos-2026-10-30-lesson-8-309a2385b17846bdb1d630585d22b4ef-md-5cf300e38a": {
+      "path": "loom/videos/2026-10-30-lesson-8-309a2385b17846bdb1d630585d22b4ef.md",
+      "sha256": "c1986c58b27b9ad5285ca57e604375ed99fed3bcf3d7df93032d175d4d2f8a4a",
+      "basis": "whole"
+    },
+    "loom-videos-2026-10-30-lesson-7-a04e375e2a804c3f936abcef327678ed-md-abf9fb8695": {
+      "path": "loom/videos/2026-10-30-lesson-7-a04e375e2a804c3f936abcef327678ed.md",
+      "sha256": "1b8c5644fe76161bfe3121edd37e661713d5c6c1d5aaf6f0a1bf0f6ef2a019dc",
+      "basis": "whole"
+    },
+    "loom-videos-2026-10-30-what-s-is-inside-811a24402d9848a2bcf5868a2f65f3ea-md-517e3a51ac": {
+      "path": "loom/videos/2026-10-30-what-s-is-inside-811a24402d9848a2bcf5868a2f65f3ea.md",
+      "sha256": "8f916195fa511361203608ece7aead322f133adeedafd8d502c8462393c77d0b",
+      "basis": "whole"
+    },
+    "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde": {
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "sha256": "c77a780570b089d254079190886689817b7b788fbf58ee869b3b2594fcbdc83d",
+      "basis": "sections"
     }
   },
   "items": [
@@ -85184,6 +85244,979 @@
       "source_id": "drive-videos-2026-10-01-lesson-6-authority-how-to-avoid-i-need-to-talk-to-drive-lesso-4bf22a4d59",
       "path": "drive/videos/2026-10-01-lesson-6-authority-how-to-avoid-i-need-to-talk-to-_-drive-lesson-6-authority-how-to-avoid-i-need-to-talk-to.md",
       "prev": null,
+      "next": null
+    },
+    {
+      "title": "Handling the 'Send Me Some Options' Brush Off",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "objection handling"
+        },
+        {
+          "facet": "situation",
+          "label": "client asks to send options"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "This is my most favorite Send me some options For you to stop being that negatively inclined to this brush off because this is a brush off right They brush you off You have to understand what this actually is Its a protective mechanism from greedy salesy salespeople which were in his life or her life Im talking about the client life before me a great knight in shining armor arrived So thats how they want to protect themselves And we have to appreciate For example if someone is afraid of spiders ",
+      "item_id": "loom-videos-2026-10-30-lesson-3-0070920753ec491cb3c13105ff9bedef-md-a37cea4a2f:0015-0015",
+      "source_id": "loom-videos-2026-10-30-lesson-3-0070920753ec491cb3c13105ff9bedef-md-a37cea4a2f",
+      "path": "loom/videos/2026-10-30-lesson-3-0070920753ec491cb3c13105ff9bedef.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Group Coaching Session and Messaging Playbook Video Lessons",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "messaging playbook"
+        },
+        {
+          "facet": "activity",
+          "label": "group coaching"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 36
+      },
+      "quote": "# Group coaching session (shared 2026-11-04) - url: https://www.loom.com/share/d1594791aa1442cf8b6ae9e9bdf4991e title: \"Off-plan closers session 1 Q&A 2.11.2026\" category: group_coaching # Messaging Playbook video lessons (shared 2026-11-04) - url: https://www.loom.com/share/811a24402d9848a2bcf5868a2f65f3ea title: \"Messaging playbook: What's is inside\" category: messaging_playbook - url: https://www.loom.com/share/72021e56d1a14444b69e06746f7b61ac title: \"Messaging playbook: Lesson 1.\" category: ",
+      "item_id": "loom-loom-2026-11-added-yaml-ff79dcf3a4:0001-0036",
+      "source_id": "loom-loom-2026-11-added-yaml-ff79dcf3a4",
+      "path": "loom/loom-2026-11-added.yaml",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Calling and messaging international clients across different nationalities",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "international lead outreach"
+        },
+        {
+          "facet": "situation",
+          "label": "contacting clients from different countries"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Calling clients from different countries thats a very complex process First of all what should I use Telegram WhatsApp Should I call from UAE number Sometimes its going to be very difficult for them to pick up because they have so many calls from UAE numbers already Sometimes youre just like wondering um will I pay a big buck for the phone call because the company is not actually supplying me with any minutes However different countries different nationalities will react differently on UAE numbe",
+      "item_id": "loom-videos-2026-10-30-lesson-1-72021e56d1a14444b69e06746f7b61ac-md-6d561ede7c:0015-0015",
+      "source_id": "loom-videos-2026-10-30-lesson-1-72021e56d1a14444b69e06746f7b61ac-md-6d561ede7c",
+      "path": "loom/videos/2026-10-30-lesson-1-72021e56d1a14444b69e06746f7b61ac.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Graduated messaging sequence for unresponsive real estate leads",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead follow-up"
+        },
+        {
+          "facet": "situation",
+          "label": "lead stops responding"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Those who never picked up the phone And again if you see that they are that the number is active and they at least have a sign of something in any messages and youve sent them the SMS and that like the WhatsApp is active that there is at least some dots I will still give it a bit of a try before I will completely dismantle it So hi name Its your name It looks like you responded to one of the ads possibly looking to invest in Dubai property What actually caught your attention This is the first me",
+      "item_id": "loom-videos-2026-10-30-lesson-2-52b18c56309c46a7871a00da912e3133-md-3644bf5cb4:0015-0015",
+      "source_id": "loom-videos-2026-10-30-lesson-2-52b18c56309c46a7871a00da912e3133-md-3644bf5cb4",
+      "path": "loom/videos/2026-10-30-lesson-2-52b18c56309c46a7871a00da912e3133.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Moving unresponsive leads to a Zoom consultation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "booking Zoom calls"
+        },
+        {
+          "facet": "situation",
+          "label": "lead stops responding"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "So how we can move them towards the Zoom if they do not respond on our calls and messages and just completely ignore it dont want to talk to us but we still have to move them on a Zoom Again if the person is not responsive and you kind of provoke him a little bit and hes still not responsive realistically probably you have to Either forward him to your colleague and ask him for like whatever 10 or 15 percent referral fee or just give up on him for the next maybe 1 or 2 months and then try to re ",
+      "item_id": "loom-videos-2026-10-30-lesson-4-85583f10ca3d4879ab07930a6d07f4cb-md-1e1b1b3fbf:0015-0015",
+      "source_id": "loom-videos-2026-10-30-lesson-4-85583f10ca3d4879ab07930a6d07f4cb-md-1e1b1b3fbf",
+      "path": "loom/videos/2026-10-30-lesson-4-85583f10ca3d4879ab07930a6d07f4cb.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Handling Investor Objections During War Uncertainty",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "objection handling"
+        },
+        {
+          "facet": "situation",
+          "label": "investor hesitant due to war uncertainty"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "What to say to investors during the war uncertainty The first step in it is you convincing yourself that buying real estate in Dubai is still way better perspective for the money than keeping them back in their home country in Europe where the tax can eat it slowly And you know the inflation as well quite higher than here Or keeping them in other countries where the currency devaluation per year could be up to 30 percent Thats exactly what happened in Turkey where the currency changed But I thin",
+      "item_id": "loom-videos-2026-10-30-lesson-5-cfcb54a9928148d58540415911608846-md-4a786ab301:0015-0015",
+      "source_id": "loom-videos-2026-10-30-lesson-5-cfcb54a9928148d58540415911608846-md-4a786ab301",
+      "path": "loom/videos/2026-10-30-lesson-5-cfcb54a9928148d58540415911608846.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Re-engaging inactive leads during geopolitical uncertainty",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead follow-up"
+        },
+        {
+          "facet": "situation",
+          "label": "lead stops responding due to war or political uncertainty"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "I bet you have a lot of those type of leads in your basket went quiet because of the war Again for you to restart the conversation with them you have to give yourself 100 percent certainty that whatever happening with them in the place where they are is way worse than what potentially could happen if the price of the real estate that they bought today will go down tomorrow right Amazing situation I mean its horrible what is happening in Europe currently in France with all of these riots However ",
+      "item_id": "loom-videos-2026-10-30-lesson-9-66f71f80af7c45e189566bf16eb1f135-md-a4450ef5bf:0015-0015",
+      "source_id": "loom-videos-2026-10-30-lesson-9-66f71f80af7c45e189566bf16eb1f135-md-a4450ef5bf",
+      "path": "loom/videos/2026-10-30-lesson-9-66f71f80af7c45e189566bf16eb1f135.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Reactivating No-Show Leads via Follow-Up Messaging",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "follow-up messaging"
+        },
+        {
+          "facet": "situation",
+          "label": "lead no-show for zoom call"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "You had a call with him He booked a Zoom meeting You did all of the procedure You remember we had a Zoom meeting Can I expect from you that everything if anything come up on your end you will maybe message me you know maybe send me a voice note or maybe a pigeon so I can book you on a different time slot and book someone else on your time Can I expect that from you Youve done all of that You informed them 24 hours before and in the evening before the call and they still didnt show up Okay painfu",
+      "item_id": "loom-videos-2026-10-30-lesson-6-89ef6db97db04f1494ef6fafdfc1e4f2-md-5f4f1920a5:0015-0015",
+      "source_id": "loom-videos-2026-10-30-lesson-6-89ef6db97db04f1494ef6fafdfc1e4f2-md-5f4f1920a5",
+      "path": "loom/videos/2026-10-30-lesson-6-89ef6db97db04f1494ef6fafdfc1e4f2.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Lead Reactivation Strategies and Follow-Up Messages",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead reactivation"
+        },
+        {
+          "facet": "situation",
+          "label": "lead stops responding"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Now we are in leads reactivation Amazing This is what you will probably have to do not only because of you are in the training but really every 3 months I will look through the leads that you had they are kind of falling on the bottom and then I was like okay should I reactivate and add on these leads uh back into discussion So lets see what I prepared for you here Those guys they went quiet right So you need to trigger them somehow and open that discussion This is the simplest way I might be wr",
+      "item_id": "loom-videos-2026-10-30-lesson-8-309a2385b17846bdb1d630585d22b4ef-md-5cf300e38a:0015-0015",
+      "source_id": "loom-videos-2026-10-30-lesson-8-309a2385b17846bdb1d630585d22b4ef-md-5cf300e38a",
+      "path": "loom/videos/2026-10-30-lesson-8-309a2385b17846bdb1d630585d22b4ef.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Preventing Ghosting and Securing Client Commitments on Offers",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "offer presentation"
+        },
+        {
+          "facet": "situation",
+          "label": "lead stops responding"
+        },
+        {
+          "facet": "topic",
+          "label": "securing commitments"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "The best way is to prevent this from happening I will show you in a minute how but most probably we are starting the course so probably you have a lot of leads lined up in the dead folder where you spend maybe several months with them and then they went quiet The reason they went quiet first of all One theyre dead Lets do not cut this opportunity as well God bless everyone lives longer But most probably they felt not comfortable enough with you to tell you the truth You were a little bit overpit",
+      "item_id": "loom-videos-2026-10-30-lesson-7-a04e375e2a804c3f936abcef327678ed-md-abf9fb8695:0015-0015",
+      "source_id": "loom-videos-2026-10-30-lesson-7-a04e375e2a804c3f936abcef327678ed-md-abf9fb8695",
+      "path": "loom/videos/2026-10-30-lesson-7-a04e375e2a804c3f936abcef327678ed.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "What's is inside",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead reactivation"
+        },
+        {
+          "facet": "topic",
+          "label": "neuro emotional persuasion"
+        },
+        {
+          "facet": "situation",
+          "label": "leads not picking up or no-showing on Zoom"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Yes I squeezed everything out of me into these 9 lessons Now what you can do with this material please rewatch it Im going to keep it very short each and every lesson Rewatch it because I want you to understand the meaning behind of it Then you will have downloadable file You can feed that file into whatever AI tool youre using Grok GPT Claude Just make sure that you give a command not to change much into the wording because I know it might sound a little bit weird the way I frame the sentences ",
+      "item_id": "loom-videos-2026-10-30-what-s-is-inside-811a24402d9848a2bcf5868a2f65f3ea-md-517e3a51ac:0015-0015",
+      "source_id": "loom-videos-2026-10-30-what-s-is-inside-811a24402d9848a2bcf5868a2f65f3ea-md-517e3a51ac",
+      "path": "loom/videos/2026-10-30-what-s-is-inside-811a24402d9848a2bcf5868a2f65f3ea.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Handling Discomfort and Seeking Help with Initial Lead Conversations",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead reactivation"
+        },
+        {
+          "facet": "situation",
+          "label": "uncomfortable having sales conversation"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 33
+      },
+      "quote": "Okay while Mehdi is getting with the audio maybe Mila can do Sure good morning guys At first I didnt have many leads to reactivate so we are generating the new ones and its going quite well but even today I had a conversation with someone who sent a request on the ad which one we were running on social media And eventually it went into nowhere And I know Im sure there is my mistake somewhere uh because I wasnt comfortable having that conversation Thats fine Thats good to acknowledge Even though ",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0022-0033",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": null,
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0034-0045"
+    },
+    {
+      "title": "Submitting Chat Screenshots for Collective Sales Coaching",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        },
+        {
+          "facet": "topic",
+          "label": "messaging scripts"
+        }
+      ],
+      "span": {
+        "start_line": 34,
+        "end_line": 45
+      },
+      "quote": "Drop it in the chat guys This is our general rule Drop it in the chat And then the same as I did for Maddie I will reply not only telling you what to say but explaining why you have to say it that way And thats going to be a great education for all of us right True Yeah I agree Sure well do that I will share whatever happened Maybe it was just I was just thinking maybe it was very early in the morning And what is the client Hes in Dubai I believe so Its a Dubai number Okay Yeah but I mean the go",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0034-0045",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0022-0033",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0046-0057"
+    },
+    {
+      "title": "Automating Social Media Engagement Using AI Agents",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI lead engagement"
+        }
+      ],
+      "span": {
+        "start_line": 46,
+        "end_line": 57
+      },
+      "quote": "And guys I uh whom already tried to implement GrooveBots into the reply for Instagram specifically Uh we we have it we have it for just general inquiries just the Instagram bot But not even on WhatsApp to be honest I know the possibilities Its not on WhatsApp but its Grok guys You know the Grok Its a competitor from the Elon Musk Yeah So now in Grok there is a built agent that hes specifically theyre specifically good in not even replying to your leads but even going and searching to whomever co",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0046-0057",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0034-0045",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0058-0069"
+    },
+    {
+      "title": "Securing Instagram Accounts Through Meta Verification",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "social media verification"
+        }
+      ],
+      "span": {
+        "start_line": 58,
+        "end_line": 69
+      },
+      "quote": "No worries I promise this week I will do it for myself to kind of give you the quick and fast how to But Ive been using the automated replies for another project not for the real estate one because what happened we had quite a strong Instagram it got hacked a while ago and we got blocked So we had to start from scratch There was a lot of work going on back then I know the things happen as such and there is nothing you can do unless to get Meta verified and even this is not a guarantee Good guys ",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0058-0069",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0046-0057",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0070-0081"
+    },
+    {
+      "title": "Setting Micro Goals and Structuring Weekly Discovery Meetings",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "goal setting"
+        },
+        {
+          "facet": "topic",
+          "label": "pipeline management"
+        }
+      ],
+      "span": {
+        "start_line": 70,
+        "end_line": 81
+      },
+      "quote": "Okay so um I will share with all of you um a Google Form which usually were going to be filling up I will ask you to fill it up before our Monday meeting so you can uh give me the questions that you want to ask and Im going to be going through the questions that you already asked and our meeting going to be more structured So Im not gonna kind of popcorn to each of every one of you Im gonna go through the questions And then the other thing every week I want you to to add on some sort of a micro ",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0070-0081",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0058-0069",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0082-0093"
+    },
+    {
+      "title": "Reactivating Network and Historical Leads Across Categories",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead reactivation"
+        }
+      ],
+      "span": {
+        "start_line": 82,
+        "end_line": 93
+      },
+      "quote": "Okay And then do not hesitate if you got the request if you got the inquiry Not inquiry like the feedback of the client and you maybe feel I dont know what to do next Drop it in the chat You can tag me as well So Im going to be specifically notified to look at and to answer Im going to be filming my YouTube video today from three to four So thats the only time Im not going to be able to look at the phone Okay So Michak What is your goal We have we are reactivating all of the old leads and potent",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0082-0093",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0070-0081",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0094-0105"
+    },
+    {
+      "title": "Optimizing Video Lighting and Background Professionalism",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "video call setup"
+        }
+      ],
+      "span": {
+        "start_line": 94,
+        "end_line": 105
+      },
+      "quote": "For some reason you thought The meeting is at 12 10 Yeah its okay Bashir can I give you a small advice right now Sure",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0094-0105",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0082-0093",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0106-0117"
+    },
+    {
+      "title": "Setting Disqualification Targets and Weekly Follow-Up Volume",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead qualification"
+        },
+        {
+          "facet": "activity",
+          "label": "pipeline cleanup"
+        }
+      ],
+      "span": {
+        "start_line": 106,
+        "end_line": 117
+      },
+      "quote": "I know youre probably not doing it with the clients but its ideally specifically guys if we are selling through the camera or even if youre doing some sort of I dont know video messages make sure that you always Facing the window like because now Bashir we can see you and the lights You know your background is is messed up That was the only spot available No worries no worries I I I I got you But just very important thing guys No no no I totally understood And as well you can test it But for the",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0106-0117",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0094-0105",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0118-0129"
+    },
+    {
+      "title": "Limiting Follow-Up Messages to a Single Question",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "text follow-up etiquette"
+        },
+        {
+          "facet": "situation",
+          "label": "lead stops responding"
+        }
+      ],
+      "span": {
+        "start_line": 118,
+        "end_line": 129
+      },
+      "quote": "Perfect So this is I like the idea of the weekly goals So Im integrating it One more thing guys Its important to use the messages from the messaging playbook I dont want to say almost word by word but till this point you dont know what should be changed So try to just literally copy paste it add a name and just use it One more thing that I responded to Maddie about your messaging with a client is there is one question per message If you write 2 questions in the message to a person you havent rea",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0118-0129",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0106-0117",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0130-0141"
+    },
+    {
+      "title": "Exporting Phone Contacts to CSV for Database Segmentation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "CRM data management"
+        }
+      ],
+      "span": {
+        "start_line": 130,
+        "end_line": 141
+      },
+      "quote": "Its amazing 100 percent Yeah yeah But I still didnt didnt understand how to to sort in in Excel sheet because I usually name all all my leads there is always like the keyword so I can sort them in the end So they all have lead investor so they have these 2 words So I need to filter them in the Excel and I dont know why Im gonna ask Claude Yeah what you can do Elvira for example right Yeah I downloaded all of my contacts are saved in the phone in my Google account usually Right",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0130-0141",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0118-0129",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0142-0153"
+    },
+    {
+      "title": "Processing and Filtering Exported Lead Lists in Claude",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI lead sorting"
+        }
+      ],
+      "span": {
+        "start_line": 142,
+        "end_line": 153
+      },
+      "quote": "Mm hmm So you go on your you open your Google account in Chrome you go to your contacts and you literally download a CV CSV CVS file right Yes That thats the thats the one Thats the one Yes Then you take this file Yeah And you put it into the chat of Claude Yeah thats what I did And then I he gave me Excel",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0142-0153",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0130-0141",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0154-0165"
+    },
+    {
+      "title": "Prompting AI Projects to Determine List Segmentation Logic",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI workflow setup"
+        }
+      ],
+      "span": {
+        "start_line": 154,
+        "end_line": 165
+      },
+      "quote": "And and dont stop him So hes connected with this Now you can tell him look I dont know how to do it but this is what I want to do Okay what how do you think we can do it He gonna give you the option All right then when Im gonna do this um I still didnt understand exactly what youre gonna do with this Excel sheet and with Claude So if you just can tell me We of course of course Just to be",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0154-0165",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0142-0153",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0166-0177"
+    },
+    {
+      "title": "Dictating Client Updates into Claude as a Dynamic CRM",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "voice CRM automation"
+        }
+      ],
+      "span": {
+        "start_line": 166,
+        "end_line": 177
+      },
+      "quote": "What were gonna do what were gonna do instead of you manually texting all the time going into the Excel file Okay When you need to update you are on the go You have this project with Claude It has to be a project not just chat But if you open the chat thats fine as well You can just come back to the chat rename the chat Its like my CRM system right And whenever you have the feedback from that client over there you know his name because I mean you can see the WhatsApp or conversation you just had",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0166-0177",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0154-0165",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0178-0189"
+    },
+    {
+      "title": "Evaluating Pipedrive Usage Alongside AI Automation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "CRM integration"
+        }
+      ],
+      "span": {
+        "start_line": 178,
+        "end_line": 189
+      },
+      "quote": "This is your own Pipedrive Yeah yeah but I mean Im in the company so we have existing Pipedrive So do you think I need it or maybe you can do in a Pipedrive Guys Im not trying to tell you that you have to somehow steal the leads from the company and put it somewhere No no no I mean like just for myself because I dont have this problem And the other thing the Pipedrive you have to do it manually or you have to there is a Connector with the Claude and the Pipedrive No there is no connection with t",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0178-0189",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0166-0177",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0190-0201"
+    },
+    {
+      "title": "Connecting Voice Dictation via Claude Directly to Pipedrive",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "CRM API workflows"
+        }
+      ],
+      "span": {
+        "start_line": 190,
+        "end_line": 201
+      },
+      "quote": "This is the task for you Elvira then Huh What This is the task for you Understand how to connect your Pipedrive with Claude so you can dictate into Claude and thats going to be updated in your Pipedrive Thats going to be the biggest productivity hack for you I promise you You mean because I dont have to type because I can just uh do the voice Or do we need to do this for the future Lets say that Claude can understand each client and then he can give what we need to reply I mean I",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0190-0201",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0178-0189",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0202-0213"
+    },
+    {
+      "title": "Integrating Digital AI Clones with Custom Sales Knowledge Bases",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI sales assistance"
+        }
+      ],
+      "span": {
+        "start_line": 202,
+        "end_line": 213
+      },
+      "quote": "think it might not be that Claude can do that yet but I might for example Im working on the Train a Twin and it has to be live this week Maybe at some point because you dont know youre not interested in the generic reply from Claude No no I mean but maybe I will be able to do the connector of that AI which is kind of my digital brain He got all of the videos call recordings for years of sessions Its its there So all of my advices And so we can connect uh with uh the Claude and then the Claude go",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0202-0213",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0190-0201",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0214-0225"
+    },
+    {
+      "title": "Recognizing UI Patterns to Accelerate AI Tool Adoption",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI tool onboarding"
+        }
+      ],
+      "span": {
+        "start_line": 214,
+        "end_line": 225
+      },
+      "quote": "It will yes But you have to prepare guys because Your your skill that you will have to sell then after and or to sell to yourself even is your ability to quickly recognize the patterns of AI technology Exactly the patterns You understand what what do I mean by the patterns Like um any app now which is introducing AI Looks like ChatGPT Why Because everyone most probably learned ChatGPT and understand how the pattern of ChatGPT works Yeah So if I will do my app the same as ChatGPT the adoption is ",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0214-0225",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0202-0213",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0226-0237"
+    },
+    {
+      "title": "Reactivating Leads via WhatsApp Broadcasts and Follow-Up Videos",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "WhatsApp broadcasts"
+        },
+        {
+          "facet": "activity",
+          "label": "video messaging"
+        }
+      ],
+      "span": {
+        "start_line": 226,
+        "end_line": 237
+      },
+      "quote": "Perfect Yeah Elvira Yeah so apart from AI so basically when I do follow up or I reactivate my leads because I have a lot of leads and I always try to work with them so I have 2 ways how to do it The first I usually use WhatsApp broadcasts because in my experience I know that you cant just send manually the same WhatsApp message many leads because they will block you But WhatsApp has uh paid broadcast It does not have in iPhone but it has in Android So and there I have different groups and broadc",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0226-0237",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0214-0225",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0238-0249"
+    },
+    {
+      "title": "Structuring Loom Videos with Concise Hooks",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "video follow-up"
+        },
+        {
+          "facet": "situation",
+          "label": "lead requests project details"
+        }
+      ],
+      "span": {
+        "start_line": 238,
+        "end_line": 249
+      },
+      "quote": "We will Yes because I could I was thinking how can I do it shorter But I couldnt You talk in hooks Okay because I like I already give them a hook right about the project in the broadcast So Im thinking what should I talk with them in the video Loom that it will give them also some information and they will come to me So I think its its really uh difficult to like yeah we have to learn that Absolutely guys thats what were gonna do Elvira thank you very valuable thing about for example doing a bro",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0238-0249",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0226-0237",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0250-0261"
+    },
+    {
+      "title": "Managing Daily Broadcast Limits to Avoid Number Blocking",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "broadcast deliverability"
+        }
+      ],
+      "span": {
+        "start_line": 250,
+        "end_line": 261
+      },
+      "quote": "I mean probably everyone has Android somewhere Well look in iPhone or any other so they have 2 types of broadcast in WhatsApp The first one is free the other one is paid The paid only possible in Android but the one which is free you still can do it but it will only come to the clients who save your number So if the client saved your number they will be seeing those broadcasts So I mean before I did that but when I asked the client can you please save my number some did but a lot of them didnt s",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0250-0261",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0238-0249",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0262-0273"
+    },
+    {
+      "title": "Throttling Broadcast Batch Sizes to Maintain Daily Follow-Up Capacity",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead outreach pacing"
+        }
+      ],
+      "span": {
+        "start_line": 262,
+        "end_line": 273
+      },
+      "quote": "Can you imagine all of this is going to be done for you by Claude Which one manually You dont have to do manually which is active which is not Its just going to be done by clock Yeah thats the same that we talk about Yes So when I talk to the lead for example or I see this lead maybe block me thats also good to send broadcast because sometimes you see okay he blocked me Okay khalas I just put it in the lowest and whatever But yeah for now Im doing it manually I have to put activity which day I n",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0262-0273",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0250-0261",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0274-0285"
+    },
+    {
+      "title": "Offering Project Comparisons to Confirm Active Buyer Intent",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "qualifying active buyers"
+        },
+        {
+          "facet": "situation",
+          "label": "lead asks for project details"
+        }
+      ],
+      "span": {
+        "start_line": 274,
+        "end_line": 285
+      },
+      "quote": "So that that that means that at least when you are doing the broadcast for the project you are selling one project sending one project to them but think about 2 other projects which are more or less comparable because your hook for those type of clients who responded to some project would be are you still actually actively looking Because I have some other options for you to compare Yeah Im gonna write it down One second So when he for example the lead responded to you oh yeah send me the detail",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0274-0285",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0262-0273",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0286-0297"
+    },
+    {
+      "title": "Creating Pattern Interrupts to Move WhatsApp Chats to Calls",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "converting text to call"
+        },
+        {
+          "facet": "situation",
+          "label": "lead refuses phone call"
+        }
+      ],
+      "span": {
+        "start_line": 286,
+        "end_line": 297
+      },
+      "quote": "How many of those clients you had How many You mean leads Leads which without any conversation voice to voice book the unit with you Because in 2025 I was closing uh like my rate was always one deal per month Like if Im not closing one deal per month Im getting angry and then Im going more and then Im closing like so it was always like this And uh I mean most of them they call me when we already theyre making decision to block the unit you know So then for example Emaar Link When we saying guys ",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0286-0297",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0274-0285",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0298-0309"
+    },
+    {
+      "title": "Directly Confronting Remote Leads in Low-Trust Market Environments",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "trust building"
+        },
+        {
+          "facet": "situation",
+          "label": "reluctant remote buyer"
+        }
+      ],
+      "span": {
+        "start_line": 298,
+        "end_line": 309
+      },
+      "quote": "Fantastic But guys I just wanted to show you that its like what its like 10 percent Lets not focus on 10 percent Lets maybe be more I kind of dont want to say burning the leads meaning being a little bit way too direct and the person can get upset with us Doesnt matter Hes never going to buy in this point of the history where the trust in the region is not there Elvira lets not forget 2025 we have such a trust in the region It was Yeah yeah yeah For years prices were going up like its not going ",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0298-0309",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0286-0297",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0310-0321"
+    },
+    {
+      "title": "Requalifying Stalled European Leads Against Market Realities",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead reactivation"
+        },
+        {
+          "facet": "situation",
+          "label": "unrealistic buyer budget"
+        }
+      ],
+      "span": {
+        "start_line": 310,
+        "end_line": 321
+      },
+      "quote": "Yeah you can park the car and just spend with us couple of minutes Bager give us about your process You are selling to leads in Switzerland right Yes exactly Switzerland and Germany German talkers Um I havent been yet through the um education courses yet We said that yesterday But anyway when I reactivated the lead I reactivated around lets say last week 50 old leads of mine There were also some of them who are based in Dubai or English talking leads not only German talking leads From these 50 t",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0310-0321",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0298-0309",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0322-0333"
+    },
+    {
+      "title": "Isolating the Real Hesitation Behind Buyer Procrastination",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "objection handling"
+        },
+        {
+          "facet": "situation",
+          "label": "procrastinating decision maker"
+        }
+      ],
+      "span": {
+        "start_line": 322,
+        "end_line": 333
+      },
+      "quote": "So we are talking here about probably a value objection Have he told you that he wants a waterfront on the call before the sales call Yes he told me and I told him realistically with the thing that you have youre not able to do this And he said all right then let me get the okay yeah Guys are we okay Give me a thumbs up if uh you want me to give a little bit of coaching to Bager how to do that right now Yeah if you want me to explain him how to do that go ahead Okay Yeah um Bager if the client i",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0322-0333",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0310-0321",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0334-0345"
+    },
+    {
+      "title": "Extracting Liquid Capital and Monthly Payment Feasibility",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "financial qualification"
+        },
+        {
+          "facet": "activity",
+          "label": "discovery call"
+        }
+      ],
+      "span": {
+        "start_line": 334,
+        "end_line": 345
+      },
+      "quote": "If I feel that there is not a real reason you see youre telling me I know that just like its not about nothing You remember what were doing What we are doing I cannot show you my feet now but Im like squeezing on his neck and I was like but how do you mean too many options But have you seen anything that you actually like Im not letting him go away because what I am attacking here is procrastination Hes procrastinating a decision I need to fix it because I cannot go further He will procrastinate",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0334-0345",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0322-0333",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0346-0357"
+    },
+    {
+      "title": "Forcing Trade-Offs Between Aesthetic Desires and Proven Investment Returns",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "client alignment"
+        },
+        {
+          "facet": "situation",
+          "label": "buyer wants premium location without budget"
+        }
+      ],
+      "span": {
+        "start_line": 346,
+        "end_line": 357
+      },
+      "quote": "Guys I will uh but thats just me I will kind of someones like yeah I want to have a passive income with the real estate uh to 60 I want to have a certain number coming to my bank account If hes not telling me a certain number its like And like in the best case scenario how much money do do you want to have coming to your bank account monthly or yearly when youre 60 Im going to dig down into that because this is his desirable state what he wants Yeah And I was like okay and how much money is comi",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0346-0357",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0334-0345",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0358-0369"
+    },
+    {
+      "title": "Calculating True Purchasing Power from Installment Payments",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "payment plan math"
+        }
+      ],
+      "span": {
+        "start_line": 358,
+        "end_line": 369
+      },
+      "quote": "Exactly May I ask what was his budget Um basically um his budget is um uh 60000 down payment which is 220000 and and the monthly payment of uh close to 4500 dirhams And which project you I mean there is nothing What is the total amount 60000 down payment Yeah but its less than 1 million dirham right Overall",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0358-0369",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0346-0357",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0370-0381"
+    },
+    {
+      "title": "Disqualifying Infeasible Budgets Early to Protect Time",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead disqualification"
+        },
+        {
+          "facet": "situation",
+          "label": "client underfunded for target market"
+        }
+      ],
+      "span": {
+        "start_line": 370,
+        "end_line": 381
+      },
+      "quote": "Yeah its um down payment would be only 220K Um like because um when we talked about budget he didnt uh we didnt uh specifically said 1 million 1 million and a half He said whatever I can buy with this So I didnt put the price tag on it Guys you go into the price attacking the price way before you offer anything Because if you calculate like 4000 dirhams 12 months the longest project in Dubai right now 4 years lets say plus 2 years post handover thats 6 years Were talking about another 200000 plu",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0370-0381",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0358-0369",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0382-0393"
+    },
+    {
+      "title": "Using Comparative Scales and Scripted Budget Interrogations",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "budget qualification"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 382,
+        "end_line": 393
+      },
+      "quote": "uh I do that with the client all the time Like I understand the budget and Im like look We can sell you something really really nice in Tunisia You are on the mountain facing the sea but in Dubai I would recommend keep your money invested in Bitcoin invested somewhere else Come back when you have like at least a million Or keep your money invest in your skills maybe video editing open a YouTube channel For the client Okay Uh okay So coming back to that scale right What is more important for you ",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0382-0393",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0370-0381",
+      "next": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0394-0400"
+    },
+    {
+      "title": "Mapping Core Client Fears into Impersonator AI Prompts",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "customer pain point matrix"
+        },
+        {
+          "facet": "activity",
+          "label": "roleplay preparation"
+        }
+      ],
+      "span": {
+        "start_line": 394,
+        "end_line": 400
+      },
+      "quote": "Definitely yeah I see you in the qualifying process is where I missed it Bagher if you can because you have a lot of calls and I know you can do that try to record English Zooms because unfortunately with German I dont think anyone can understand I dont know about the superpowers of yours The way you ask the client to record the Zoom usually its not going to be a sales Zoom Its going to be harder to record the sales Zoom but even Like you you can ask for that when you are asking Oh hey can you s",
+      "item_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0394-0400",
+      "source_id": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde",
+      "path": "loom/videos/2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae9e9bdf4991e.md",
+      "prev": "loom-videos-2026-11-02-off-plan-closers-session-1-q-a-2-11-2026-d1594791aa1442cf8b6ae-9cce0cacde:0382-0393",
       "next": null
     }
   ]
