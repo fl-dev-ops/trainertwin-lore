@@ -2,8 +2,8 @@
 id: '7522918438009212928'
 date: '2026-11-02T07:12:04.687Z'
 url: https://www.linkedin.com/posts/coach-bevan_once-upon-a-time-there-was-a-young-product-activity-7522918438009212928-mdPP
-likes: 24
-comments: 9
+likes: 25
+comments: 11
 images_count: 1
 ---
 

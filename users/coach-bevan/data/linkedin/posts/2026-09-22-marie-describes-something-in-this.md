@@ -4,7 +4,7 @@ date: '2026-09-22T11:01:17.735Z'
 url: https://www.linkedin.com/posts/coach-bevan_marie-describes-something-in-this-video-that-activity-7508118219983921152-Oj65
 likes: 9
 comments: 0
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQEVHkvInfrGKQ/CeJxzMnFNdHHR83bP9Ih0DdXVcULiuxSj8bN1ATgSDSo?e=1794394800&v=beta&t=GRoHwxrwvwZl7JNhc_o5H2mHwErWPrr-MLuz8CWN7wQ
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQEVHkvInfrGKQ/CeJxzMnFNdHHR83bP9Ih0DdXVcULiuxSj8bN1ATgSDSo?e=1794841200&v=beta&t=zpm74p6BJqEfjnItSO586WRnjDL4mh-7dxXWxeFxAKI
 ---
 
 Marie describes something in this video that I really like.

@@ -2,8 +2,8 @@
 id: '7523646008078139392'
 date: '2026-11-04T07:23:10.909Z'
 url: https://www.linkedin.com/posts/coach-bevan_one-of-my-clients-described-coaching-with-activity-7523646008078139392-OdVb
-likes: 10
-comments: 5
+likes: 20
+comments: 17
 images_count: 1
 ---
 

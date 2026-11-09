@@ -4,7 +4,7 @@ date: '2026-06-13T19:52:47.694Z'
 url: https://www.linkedin.com/posts/eudaimonia-coaching-uk_womeninleadership-diversityandinclusion-impostersyndrome-ugcPost-7469368476403621888-snVA
 likes: 143
 comments: 18
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQHK2wZp13H5fQ/CeJxzMnGNMsv08Aj19nB0KdbVcQLxzTz8zMu8yh0doXyYfCgaPxKNn4zGz9YFAO70GlY?e=1794394800&v=beta&t=igznDpN8VMEb2KRee8jtOahS4KtipGn9vgytFenea7c
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQHK2wZp13H5fQ/CeJxzMnGNMjPz8DMv9ip3dNTVcQLxMz08Qr09HF2KoXyQfBkW-VA0fiQaPxmNn60LALLKHrM?e=1794841200&v=beta&t=6ztL9Tr5wvTREu9dccsKE01007oAXTEBnPatkSA016I
 ---
 
 How do you reframe self-doubt when stepping into high-stakes rooms?

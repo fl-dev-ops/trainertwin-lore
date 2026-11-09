@@ -2,7 +2,7 @@
 id: '7521114260056379393'
 date: '2026-10-28T07:42:55.143Z'
 url: https://www.linkedin.com/posts/coach-bevan_your-team-dont-need-a-nanny-that-was-one-activity-7521114260056379393-nlvt
-likes: 21
+likes: 22
 comments: 20
 images_count: 5
 ---

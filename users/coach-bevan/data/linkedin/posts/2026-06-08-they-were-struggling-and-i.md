@@ -4,7 +4,7 @@ date: '2026-06-08T09:25:35.625Z'
 url: https://www.linkedin.com/posts/coach-bevan_they-were-struggling-and-i-couldnt-help-activity-7469681022075441152-yM5R
 likes: 20
 comments: 8
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQFRjHdnLAygQQ/CeJxzMnGNMsvN8s9w9Mx2DdXVcULiu5Sj8SPR-Mlo_HQ0fr4uAFu3HLY?e=1794394800&v=beta&t=Wxphi2PsOGjIXkW4KQ1CzGTQiTaLNy1xPLHMiKIDEKQ
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQFRjHdnLAygQQ/CeJxzMnGNMsvN8s9w9Mx2DdXVcULiu5Sj8SPR-Mlo_HQ0fr4uAFu3HLY?e=1794841200&v=beta&t=C50Do7ZWLhwoOHTNFzJcS1GVWSxdhse-q61aa_6Ts_I
 author_comments:
 - If you're a line manager that loves to coach. I'd love to hear how you handle your lowest performers?
 ---

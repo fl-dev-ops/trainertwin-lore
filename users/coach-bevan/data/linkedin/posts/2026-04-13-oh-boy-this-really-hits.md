@@ -4,7 +4,7 @@ date: '2026-04-13T06:57:37.809Z'
 url: https://www.linkedin.com/posts/leechambers-1_oh-boy-this-really-hits-home-luke-bateman-ugcPost-7447775664910417920-fRvD
 likes: 1857
 comments: 146
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQEdj8rrqjA27w/CeJxzMnGNMiwLTI_09Up2DdTVcULiu5ig8S1Q-a6eaHxHXQCcihcT?e=1794394800&v=beta&t=qb4PkUtL0LFi3ILWCzZ6UINHSPr427wukGY4c_g2vTQ
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQEdj8rrqjA27w/CeJxzMnGNMiw3LfVz8Sh2dNTVcQLxywLTI329kl0DUfkuJmh8CzT1nmh8R10ALH0bog?e=1794841200&v=beta&t=Y9640ZPtBKqUfp43x8XfsCbDJ-mDTIwUQC7C2oikhPE
 ---
 
 Oh boy

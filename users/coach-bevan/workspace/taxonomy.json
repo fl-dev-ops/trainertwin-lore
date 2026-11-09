@@ -8,6 +8,14 @@
       ],
       "count": 9
     },
+    "client-testimonial": {
+      "id": "client-testimonial",
+      "preferred": "client testimonial",
+      "aliases": [
+        "client testimonial"
+      ],
+      "count": 9
+    },
     "coaching-session": {
       "id": "coaching-session",
       "preferred": "coaching session",
@@ -22,7 +30,7 @@
       "aliases": [
         "executive coaching"
       ],
-      "count": 5
+      "count": 6
     },
     "coaching": {
       "id": "coaching",
@@ -30,13 +38,21 @@
       "aliases": [
         "coaching"
       ],
+      "count": 5
+    },
+    "job-posting": {
+      "id": "job-posting",
+      "preferred": "job posting",
+      "aliases": [
+        "job posting"
+      ],
       "count": 4
     },
-    "performance-coaching": {
-      "id": "performance-coaching",
-      "preferred": "performance coaching",
+    "client-interview": {
+      "id": "client-interview",
+      "preferred": "client interview",
       "aliases": [
-        "performance coaching"
+        "client interview"
       ],
       "count": 3
     },
@@ -48,14 +64,6 @@
       ],
       "count": 2
     },
-    "coaching-testimonial": {
-      "id": "coaching-testimonial",
-      "preferred": "coaching testimonial",
-      "aliases": [
-        "coaching testimonial"
-      ],
-      "count": 2
-    },
     "credential-verification": {
       "id": "credential-verification",
       "preferred": "credential verification",
@@ -64,11 +72,27 @@
       ],
       "count": 2
     },
+    "life-coaching": {
+      "id": "life-coaching",
+      "preferred": "life coaching",
+      "aliases": [
+        "life coaching"
+      ],
+      "count": 2
+    },
     "radio-interview": {
       "id": "radio-interview",
       "preferred": "radio interview",
       "aliases": [
         "radio interview"
+      ],
+      "count": 2
+    },
+    "performance-coaching": {
+      "id": "performance-coaching",
+      "preferred": "performance coaching",
+      "aliases": [
+        "performance coaching"
       ],
       "count": 2
     },
@@ -128,6 +152,14 @@
       ],
       "count": 1
     },
+    "coaching-testimonial": {
+      "id": "coaching-testimonial",
+      "preferred": "coaching testimonial",
+      "aliases": [
+        "coaching testimonial"
+      ],
+      "count": 1
+    },
     "practitioner-training": {
       "id": "practitioner-training",
       "preferred": "practitioner training",
@@ -144,14 +176,6 @@
       ],
       "count": 1
     },
-    "life-coaching": {
-      "id": "life-coaching",
-      "preferred": "life coaching",
-      "aliases": [
-        "life coaching"
-      ],
-      "count": 1
-    },
     "leadership-assessment": {
       "id": "leadership-assessment",
       "preferred": "leadership assessment",
@@ -165,14 +189,6 @@
       "preferred": "social media prompt",
       "aliases": [
         "social media prompt"
-      ],
-      "count": 1
-    },
-    "storytelling": {
-      "id": "storytelling",
-      "preferred": "storytelling",
-      "aliases": [
-        "storytelling"
       ],
       "count": 1
     },
@@ -224,14 +240,6 @@
       ],
       "count": 1
     },
-    "sales-coaching": {
-      "id": "sales-coaching",
-      "preferred": "sales coaching",
-      "aliases": [
-        "sales coaching"
-      ],
-      "count": 1
-    },
     "networking": {
       "id": "networking",
       "preferred": "networking",
@@ -248,11 +256,91 @@
       ],
       "count": 1
     },
-    "shadowing-end-users": {
-      "id": "shadowing-end-users",
-      "preferred": "shadowing end users",
+    "job-transition": {
+      "id": "job-transition",
+      "preferred": "job transition",
       "aliases": [
-        "shadowing end users"
+        "job transition"
+      ],
+      "count": 1
+    },
+    "coaching-training": {
+      "id": "coaching-training",
+      "preferred": "coaching training",
+      "aliases": [
+        "coaching training"
+      ],
+      "count": 1
+    },
+    "professional-certification": {
+      "id": "professional-certification",
+      "preferred": "professional certification",
+      "aliases": [
+        "professional certification"
+      ],
+      "count": 1
+    },
+    "professional-development-training": {
+      "id": "professional-development-training",
+      "preferred": "professional development training",
+      "aliases": [
+        "professional development training"
+      ],
+      "count": 1
+    },
+    "consultation-offer": {
+      "id": "consultation-offer",
+      "preferred": "consultation offer",
+      "aliases": [
+        "consultation offer"
+      ],
+      "count": 1
+    },
+    "business-launch": {
+      "id": "business-launch",
+      "preferred": "business launch",
+      "aliases": [
+        "business launch"
+      ],
+      "count": 1
+    },
+    "infographic": {
+      "id": "infographic",
+      "preferred": "infographic",
+      "aliases": [
+        "infographic"
+      ],
+      "count": 1
+    },
+    "storytelling": {
+      "id": "storytelling",
+      "preferred": "storytelling",
+      "aliases": [
+        "storytelling"
+      ],
+      "count": 1
+    },
+    "business-coaching": {
+      "id": "business-coaching",
+      "preferred": "business coaching",
+      "aliases": [
+        "business coaching"
+      ],
+      "count": 1
+    },
+    "field-ride-along": {
+      "id": "field-ride-along",
+      "preferred": "field ride-along",
+      "aliases": [
+        "field ride-along"
+      ],
+      "count": 1
+    },
+    "interview-closing": {
+      "id": "interview-closing",
+      "preferred": "interview closing",
+      "aliases": [
+        "interview closing"
       ],
       "count": 1
     }
@@ -265,6 +353,15 @@
         "fostering team responsibility and autonomy"
       ],
       "count": 3
+    },
+    "personal-issues-seeping-into-business": {
+      "id": "personal-issues-seeping-into-business",
+      "preferred": "personal issues seeping into business",
+      "aliases": [
+        "personal issues impacting business",
+        "personal issues seeping into business"
+      ],
+      "count": 2
     },
     "overwhelmed-by-long-term-life-purpose-questions": {
       "id": "overwhelmed-by-long-term-life-purpose-questions",
@@ -538,14 +635,6 @@
       ],
       "count": 1
     },
-    "overstimulating-modern-children-s-cartoons": {
-      "id": "overstimulating-modern-children-s-cartoons",
-      "preferred": "overstimulating modern children's cartoons",
-      "aliases": [
-        "overstimulating modern children's cartoons"
-      ],
-      "count": 1
-    },
     "failing-to-achieve-a-goal": {
       "id": "failing-to-achieve-a-goal",
       "preferred": "failing to achieve a goal",
@@ -559,14 +648,6 @@
       "preferred": "comparing oneself to others",
       "aliases": [
         "comparing oneself to others"
-      ],
-      "count": 1
-    },
-    "feeling-stuck": {
-      "id": "feeling-stuck",
-      "preferred": "feeling stuck",
-      "aliases": [
-        "feeling stuck"
       ],
       "count": 1
     },
@@ -602,35 +683,11 @@
       ],
       "count": 1
     },
-    "coaching-low-performers": {
-      "id": "coaching-low-performers",
-      "preferred": "coaching low performers",
-      "aliases": [
-        "coaching low performers"
-      ],
-      "count": 1
-    },
     "change-doesn-t-feel-easy": {
       "id": "change-doesn-t-feel-easy",
       "preferred": "change doesn't feel easy",
       "aliases": [
         "change doesn't feel easy"
-      ],
-      "count": 1
-    },
-    "stepping-into-high-stakes-rooms": {
-      "id": "stepping-into-high-stakes-rooms",
-      "preferred": "stepping into high-stakes rooms",
-      "aliases": [
-        "stepping into high-stakes rooms"
-      ],
-      "count": 1
-    },
-    "feeling-doom-and-gloom": {
-      "id": "feeling-doom-and-gloom",
-      "preferred": "feeling doom and gloom",
-      "aliases": [
-        "feeling doom and gloom"
       ],
       "count": 1
     },
@@ -738,14 +795,6 @@
       ],
       "count": 1
     },
-    "feeling-small-and-second-guessing": {
-      "id": "feeling-small-and-second-guessing",
-      "preferred": "feeling small and second-guessing",
-      "aliases": [
-        "feeling small and second-guessing"
-      ],
-      "count": 1
-    },
     "leader-becomes-a-bottleneck": {
       "id": "leader-becomes-a-bottleneck",
       "preferred": "leader becomes a bottleneck",
@@ -850,14 +899,6 @@
       ],
       "count": 1
     },
-    "feeling-overwhelmed-and-overthinking": {
-      "id": "feeling-overwhelmed-and-overthinking",
-      "preferred": "feeling overwhelmed and overthinking",
-      "aliases": [
-        "feeling overwhelmed and overthinking"
-      ],
-      "count": 1
-    },
     "rushing-feature-delivery-at-the-expense-of-architecture-and-": {
       "id": "rushing-feature-delivery-at-the-expense-of-architecture-and-",
       "preferred": "rushing feature delivery at the expense of architecture and customer need",
@@ -906,14 +947,6 @@
       ],
       "count": 1
     },
-    "doing-tasks-yourself-because-it-is-quicker": {
-      "id": "doing-tasks-yourself-because-it-is-quicker",
-      "preferred": "doing tasks yourself because it is quicker",
-      "aliases": [
-        "doing tasks yourself because it is quicker"
-      ],
-      "count": 1
-    },
     "struggling-to-go-to-bed-early": {
       "id": "struggling-to-go-to-bed-early",
       "preferred": "struggling to go to bed early",
@@ -930,19 +963,163 @@
       ],
       "count": 1
     },
-    "personal-issues-affecting-business": {
-      "id": "personal-issues-affecting-business",
-      "preferred": "personal issues affecting business",
+    "economic-downturn-prompting-defensive-strategies": {
+      "id": "economic-downturn-prompting-defensive-strategies",
+      "preferred": "economic downturn prompting defensive strategies",
       "aliases": [
-        "personal issues affecting business"
+        "economic downturn prompting defensive strategies"
       ],
       "count": 1
     },
-    "struggling-to-understand-user-needs": {
-      "id": "struggling-to-understand-user-needs",
-      "preferred": "struggling to understand user needs",
+    "fast-paced-modern-children-s-entertainment": {
+      "id": "fast-paced-modern-children-s-entertainment",
+      "preferred": "fast-paced modern children's entertainment",
       "aliases": [
-        "struggling to understand user needs"
+        "fast-paced modern children's entertainment"
+      ],
+      "count": 1
+    },
+    "stepping-into-high-stakes-rooms": {
+      "id": "stepping-into-high-stakes-rooms",
+      "preferred": "stepping into high-stakes rooms",
+      "aliases": [
+        "stepping into high-stakes rooms"
+      ],
+      "count": 1
+    },
+    "coaching-low-performers": {
+      "id": "coaching-low-performers",
+      "preferred": "coaching low performers",
+      "aliases": [
+        "coaching low performers"
+      ],
+      "count": 1
+    },
+    "feeling-full-of-doom-and-gloom": {
+      "id": "feeling-full-of-doom-and-gloom",
+      "preferred": "feeling full of doom and gloom",
+      "aliases": [
+        "feeling full of doom and gloom"
+      ],
+      "count": 1
+    },
+    "feeling-small-and-second-guessing-in-challenging-situations": {
+      "id": "feeling-small-and-second-guessing-in-challenging-situations",
+      "preferred": "feeling small and second-guessing in challenging situations",
+      "aliases": [
+        "feeling small and second-guessing in challenging situations"
+      ],
+      "count": 1
+    },
+    "feeling-overwhelmed": {
+      "id": "feeling-overwhelmed",
+      "preferred": "feeling overwhelmed",
+      "aliases": [
+        "feeling overwhelmed"
+      ],
+      "count": 1
+    },
+    "doing-tasks-yourself-because-it-is-quicker": {
+      "id": "doing-tasks-yourself-because-it-is-quicker",
+      "preferred": "doing tasks yourself because it is quicker",
+      "aliases": [
+        "doing tasks yourself because it is quicker"
+      ],
+      "count": 1
+    },
+    "struggling-to-identify-customer-needs": {
+      "id": "struggling-to-identify-customer-needs",
+      "preferred": "struggling to identify customer needs",
+      "aliases": [
+        "struggling to identify customer needs"
+      ],
+      "count": 1
+    },
+    "overextending-until-burnout-or-injury": {
+      "id": "overextending-until-burnout-or-injury",
+      "preferred": "overextending until burnout or injury",
+      "aliases": [
+        "overextending until burnout or injury"
+      ],
+      "count": 1
+    },
+    "delegating-for-the-first-time": {
+      "id": "delegating-for-the-first-time",
+      "preferred": "delegating for the first time",
+      "aliases": [
+        "delegating for the first time"
+      ],
+      "count": 1
+    },
+    "moving-from-corporate-to-entrepreneurship": {
+      "id": "moving-from-corporate-to-entrepreneurship",
+      "preferred": "moving from corporate to entrepreneurship",
+      "aliases": [
+        "moving from corporate to entrepreneurship"
+      ],
+      "count": 1
+    },
+    "facing-a-major-life-shift-at-40": {
+      "id": "facing-a-major-life-shift-at-40",
+      "preferred": "facing a major life shift at 40",
+      "aliases": [
+        "facing a major life shift at 40"
+      ],
+      "count": 1
+    },
+    "prospective-clients-questioning-need-for-a-coach": {
+      "id": "prospective-clients-questioning-need-for-a-coach",
+      "preferred": "prospective clients questioning need for a coach",
+      "aliases": [
+        "prospective clients questioning need for a coach"
+      ],
+      "count": 1
+    },
+    "feeling-small-and-unworthy": {
+      "id": "feeling-small-and-unworthy",
+      "preferred": "feeling small and unworthy",
+      "aliases": [
+        "feeling small and unworthy"
+      ],
+      "count": 1
+    },
+    "overwhelmed-by-social-comparison": {
+      "id": "overwhelmed-by-social-comparison",
+      "preferred": "overwhelmed by social comparison",
+      "aliases": [
+        "overwhelmed by social comparison"
+      ],
+      "count": 1
+    },
+    "reaching-self-sufficiency": {
+      "id": "reaching-self-sufficiency",
+      "preferred": "reaching self-sufficiency",
+      "aliases": [
+        "reaching self-sufficiency"
+      ],
+      "count": 1
+    },
+    "feeling-lost": {
+      "id": "feeling-lost",
+      "preferred": "feeling lost",
+      "aliases": [
+        "feeling lost"
+      ],
+      "count": 1
+    },
+    "confusion-and-unsettled-energy": {
+      "id": "confusion-and-unsettled-energy",
+      "preferred": "confusion and unsettled energy",
+      "aliases": [
+        "confusion and unsettled energy"
+      ],
+      "count": 1
+    },
+    "feeling-stuck": {
+      "id": "feeling-stuck",
+      "preferred": "feeling stuck",
+      "aliases": [
+        "feeling stuck"
       ],
       "count": 1
     }
@@ -953,6 +1130,14 @@
       "preferred": "limiting beliefs",
       "aliases": [
         "limiting beliefs"
+      ],
+      "count": 4
+    },
+    "imposter-syndrome": {
+      "id": "imposter-syndrome",
+      "preferred": "imposter syndrome",
+      "aliases": [
+        "imposter syndrome"
       ],
       "count": 4
     },
@@ -972,20 +1157,21 @@
       ],
       "count": 3
     },
-    "imposter-syndrome": {
-      "id": "imposter-syndrome",
-      "preferred": "imposter syndrome",
-      "aliases": [
-        "imposter syndrome"
-      ],
-      "count": 3
-    },
     "personal-growth": {
       "id": "personal-growth",
       "preferred": "personal growth",
       "aliases": [
         "personal growth",
         "personal transformation"
+      ],
+      "count": 3
+    },
+    "career-transition": {
+      "id": "career-transition",
+      "preferred": "career transition",
+      "aliases": [
+        "career change",
+        "career transition"
       ],
       "count": 3
     },
@@ -1029,19 +1215,27 @@
       ],
       "count": 2
     },
-    "mindset": {
-      "id": "mindset",
-      "preferred": "mindset",
-      "aliases": [
-        "mindset"
-      ],
-      "count": 2
-    },
     "goal-setting": {
       "id": "goal-setting",
       "preferred": "goal setting",
       "aliases": [
         "goal setting"
+      ],
+      "count": 2
+    },
+    "value-of-coaching": {
+      "id": "value-of-coaching",
+      "preferred": "value of coaching",
+      "aliases": [
+        "value of coaching"
+      ],
+      "count": 2
+    },
+    "coaching-outcomes": {
+      "id": "coaching-outcomes",
+      "preferred": "coaching outcomes",
+      "aliases": [
+        "coaching outcomes"
       ],
       "count": 2
     },
@@ -1051,6 +1245,24 @@
       "aliases": [
         "personal potential",
         "unlocking human potential"
+      ],
+      "count": 2
+    },
+    "value-and-roi-of-coaching": {
+      "id": "value-and-roi-of-coaching",
+      "preferred": "value and ROI of coaching",
+      "aliases": [
+        "coaching value proposition",
+        "value and ROI of coaching"
+      ],
+      "count": 2
+    },
+    "hiring-product-owner-managers": {
+      "id": "hiring-product-owner-managers",
+      "preferred": "hiring product owner managers",
+      "aliases": [
+        "Product Owner Manager hiring",
+        "hiring product owner managers"
       ],
       "count": 2
     },
@@ -1230,6 +1442,14 @@
       ],
       "count": 1
     },
+    "mindset": {
+      "id": "mindset",
+      "preferred": "mindset",
+      "aliases": [
+        "mindset"
+      ],
+      "count": 1
+    },
     "setting-conversation-goals": {
       "id": "setting-conversation-goals",
       "preferred": "setting conversation goals",
@@ -1283,14 +1503,6 @@
       "preferred": "personal motivation",
       "aliases": [
         "personal motivation"
-      ],
-      "count": 1
-    },
-    "mental-clarity": {
-      "id": "mental-clarity",
-      "preferred": "mental clarity",
-      "aliases": [
-        "mental clarity"
       ],
       "count": 1
     },
@@ -1475,14 +1687,6 @@
       "preferred": "professional coaching certification",
       "aliases": [
         "professional coaching certification"
-      ],
-      "count": 1
-    },
-    "value-of-coaching": {
-      "id": "value-of-coaching",
-      "preferred": "value of coaching",
-      "aliases": [
-        "value of coaching"
       ],
       "count": 1
     },
@@ -1742,22 +1946,6 @@
       ],
       "count": 1
     },
-    "male-allyship": {
-      "id": "male-allyship",
-      "preferred": "male allyship",
-      "aliases": [
-        "male allyship"
-      ],
-      "count": 1
-    },
-    "accountability-and-agency": {
-      "id": "accountability-and-agency",
-      "preferred": "accountability and agency",
-      "aliases": [
-        "accountability and agency"
-      ],
-      "count": 1
-    },
     "delivery-management": {
       "id": "delivery-management",
       "preferred": "delivery management",
@@ -1779,14 +1967,6 @@
       "preferred": "implicit sentiment analysis",
       "aliases": [
         "implicit sentiment analysis"
-      ],
-      "count": 1
-    },
-    "children-s-screen-time-and-media-pacing": {
-      "id": "children-s-screen-time-and-media-pacing",
-      "preferred": "children's screen time and media pacing",
-      "aliases": [
-        "children's screen time and media pacing"
       ],
       "count": 1
     },
@@ -1902,51 +2082,11 @@
       ],
       "count": 1
     },
-    "line-manager-coaching": {
-      "id": "line-manager-coaching",
-      "preferred": "line manager coaching",
-      "aliases": [
-        "line manager coaching"
-      ],
-      "count": 1
-    },
-    "career-change": {
-      "id": "career-change",
-      "preferred": "career change",
-      "aliases": [
-        "career change"
-      ],
-      "count": 1
-    },
     "business-coaching": {
       "id": "business-coaching",
       "preferred": "business coaching",
       "aliases": [
         "business coaching"
-      ],
-      "count": 1
-    },
-    "gratitude-for-forms-of-wealth": {
-      "id": "gratitude-for-forms-of-wealth",
-      "preferred": "gratitude for forms of wealth",
-      "aliases": [
-        "gratitude for forms of wealth"
-      ],
-      "count": 1
-    },
-    "career-transition": {
-      "id": "career-transition",
-      "preferred": "career transition",
-      "aliases": [
-        "career transition"
-      ],
-      "count": 1
-    },
-    "self-reflection": {
-      "id": "self-reflection",
-      "preferred": "self-reflection",
-      "aliases": [
-        "self-reflection"
       ],
       "count": 1
     },
@@ -1966,14 +2106,6 @@
       ],
       "count": 1
     },
-    "life-lessons": {
-      "id": "life-lessons",
-      "preferred": "life lessons",
-      "aliases": [
-        "life lessons"
-      ],
-      "count": 1
-    },
     "energy-management": {
       "id": "energy-management",
       "preferred": "energy management",
@@ -1987,14 +2119,6 @@
       "preferred": "executive confidence",
       "aliases": [
         "executive confidence"
-      ],
-      "count": 1
-    },
-    "value-and-roi-of-coaching": {
-      "id": "value-and-roi-of-coaching",
-      "preferred": "value and ROI of coaching",
-      "aliases": [
-        "value and ROI of coaching"
       ],
       "count": 1
     },
@@ -2043,14 +2167,6 @@
       "preferred": "self-trust vs confidence",
       "aliases": [
         "self-trust vs confidence"
-      ],
-      "count": 1
-    },
-    "self-awareness-and-confidence": {
-      "id": "self-awareness-and-confidence",
-      "preferred": "self-awareness and confidence",
-      "aliases": [
-        "self-awareness and confidence"
       ],
       "count": 1
     },
@@ -2230,14 +2346,6 @@
       ],
       "count": 1
     },
-    "client-evolution-in-coaching": {
-      "id": "client-evolution-in-coaching",
-      "preferred": "client evolution in coaching",
-      "aliases": [
-        "client evolution in coaching"
-      ],
-      "count": 1
-    },
     "lean-software-development": {
       "id": "lean-software-development",
       "preferred": "lean software development",
@@ -2342,14 +2450,6 @@
       ],
       "count": 1
     },
-    "micromanagement": {
-      "id": "micromanagement",
-      "preferred": "micromanagement",
-      "aliases": [
-        "micromanagement"
-      ],
-      "count": 1
-    },
     "bedtime-mindset": {
       "id": "bedtime-mindset",
       "preferred": "bedtime mindset",
@@ -2366,27 +2466,195 @@
       ],
       "count": 1
     },
-    "mindset-coaching": {
-      "id": "mindset-coaching",
-      "preferred": "mindset coaching",
+    "career-update": {
+      "id": "career-update",
+      "preferred": "career update",
       "aliases": [
-        "mindset coaching"
+        "career update"
       ],
       "count": 1
     },
-    "coaching-style": {
-      "id": "coaching-style",
-      "preferred": "coaching style",
+    "product-management-recruitment": {
+      "id": "product-management-recruitment",
+      "preferred": "product management recruitment",
       "aliases": [
-        "coaching style"
+        "product management recruitment"
       ],
       "count": 1
     },
-    "leadership-identity": {
-      "id": "leadership-identity",
-      "preferred": "leadership identity",
+    "professional-certification": {
+      "id": "professional-certification",
+      "preferred": "professional certification",
       "aliases": [
-        "leadership identity"
+        "professional certification"
+      ],
+      "count": 1
+    },
+    "product-led-vs-project-led": {
+      "id": "product-led-vs-project-led",
+      "preferred": "product-led vs project-led",
+      "aliases": [
+        "product-led vs project-led"
+      ],
+      "count": 1
+    },
+    "product-knowledge-management": {
+      "id": "product-knowledge-management",
+      "preferred": "product knowledge management",
+      "aliases": [
+        "product knowledge management"
+      ],
+      "count": 1
+    },
+    "product-management-tooling": {
+      "id": "product-management-tooling",
+      "preferred": "product management tooling",
+      "aliases": [
+        "product management tooling"
+      ],
+      "count": 1
+    },
+    "coaching-certification": {
+      "id": "coaching-certification",
+      "preferred": "coaching certification",
+      "aliases": [
+        "coaching certification"
+      ],
+      "count": 1
+    },
+    "coaching-fundamentals": {
+      "id": "coaching-fundamentals",
+      "preferred": "coaching fundamentals",
+      "aliases": [
+        "coaching fundamentals"
+      ],
+      "count": 1
+    },
+    "personal-development-consultation": {
+      "id": "personal-development-consultation",
+      "preferred": "personal development consultation",
+      "aliases": [
+        "personal development consultation"
+      ],
+      "count": 1
+    },
+    "fundraising-consultancy": {
+      "id": "fundraising-consultancy",
+      "preferred": "fundraising consultancy",
+      "aliases": [
+        "fundraising consultancy"
+      ],
+      "count": 1
+    },
+    "coaching-eligibility": {
+      "id": "coaching-eligibility",
+      "preferred": "coaching eligibility",
+      "aliases": [
+        "coaching eligibility"
+      ],
+      "count": 1
+    },
+    "mental-clarity": {
+      "id": "mental-clarity",
+      "preferred": "mental clarity",
+      "aliases": [
+        "mental clarity"
+      ],
+      "count": 1
+    },
+    "music-and-timing": {
+      "id": "music-and-timing",
+      "preferred": "music and timing",
+      "aliases": [
+        "music and timing"
+      ],
+      "count": 1
+    },
+    "male-allyship": {
+      "id": "male-allyship",
+      "preferred": "male allyship",
+      "aliases": [
+        "male allyship"
+      ],
+      "count": 1
+    },
+    "accountability": {
+      "id": "accountability",
+      "preferred": "accountability",
+      "aliases": [
+        "accountability"
+      ],
+      "count": 1
+    },
+    "fairground-work-experience": {
+      "id": "fairground-work-experience",
+      "preferred": "fairground work experience",
+      "aliases": [
+        "fairground work experience"
+      ],
+      "count": 1
+    },
+    "self-reflection": {
+      "id": "self-reflection",
+      "preferred": "self-reflection",
+      "aliases": [
+        "self-reflection"
+      ],
+      "count": 1
+    },
+    "children-s-media-overstimulation": {
+      "id": "children-s-media-overstimulation",
+      "preferred": "children's media overstimulation",
+      "aliases": [
+        "children's media overstimulation"
+      ],
+      "count": 1
+    },
+    "line-manager-coaching": {
+      "id": "line-manager-coaching",
+      "preferred": "line manager coaching",
+      "aliases": [
+        "line manager coaching"
+      ],
+      "count": 1
+    },
+    "gratitude": {
+      "id": "gratitude",
+      "preferred": "gratitude",
+      "aliases": [
+        "gratitude"
+      ],
+      "count": 1
+    },
+    "self-trust-and-behavioral-patterns": {
+      "id": "self-trust-and-behavioral-patterns",
+      "preferred": "self-trust and behavioral patterns",
+      "aliases": [
+        "self-trust and behavioral patterns"
+      ],
+      "count": 1
+    },
+    "client-growth": {
+      "id": "client-growth",
+      "preferred": "client growth",
+      "aliases": [
+        "client growth"
+      ],
+      "count": 1
+    },
+    "micromanagement": {
+      "id": "micromanagement",
+      "preferred": "micromanagement",
+      "aliases": [
+        "micromanagement"
+      ],
+      "count": 1
+    },
+    "coaching-vs-leadership-styles": {
+      "id": "coaching-vs-leadership-styles",
+      "preferred": "coaching vs leadership styles",
+      "aliases": [
+        "coaching vs leadership styles"
       ],
       "count": 1
     },
@@ -2395,6 +2663,118 @@
       "preferred": "user research",
       "aliases": [
         "user research"
+      ],
+      "count": 1
+    },
+    "mindset-gremlins": {
+      "id": "mindset-gremlins",
+      "preferred": "mindset gremlins",
+      "aliases": [
+        "mindset gremlins"
+      ],
+      "count": 1
+    },
+    "people-pleasing": {
+      "id": "people-pleasing",
+      "preferred": "people pleasing",
+      "aliases": [
+        "people pleasing"
+      ],
+      "count": 1
+    },
+    "first-hire": {
+      "id": "first-hire",
+      "preferred": "first hire",
+      "aliases": [
+        "first hire"
+      ],
+      "count": 1
+    },
+    "ux-designer-recruitment": {
+      "id": "ux-designer-recruitment",
+      "preferred": "UX Designer Recruitment",
+      "aliases": [
+        "UX Designer Recruitment"
+      ],
+      "count": 1
+    },
+    "emotional-overwhelm": {
+      "id": "emotional-overwhelm",
+      "preferred": "emotional overwhelm",
+      "aliases": [
+        "emotional overwhelm"
+      ],
+      "count": 1
+    },
+    "narrative-examination-and-emotion-regulation": {
+      "id": "narrative-examination-and-emotion-regulation",
+      "preferred": "narrative examination and emotion regulation",
+      "aliases": [
+        "narrative examination and emotion regulation"
+      ],
+      "count": 1
+    },
+    "self-reflection-in-coaching": {
+      "id": "self-reflection-in-coaching",
+      "preferred": "self-reflection in coaching",
+      "aliases": [
+        "self-reflection in coaching"
+      ],
+      "count": 1
+    },
+    "seeking-direction": {
+      "id": "seeking-direction",
+      "preferred": "seeking direction",
+      "aliases": [
+        "seeking direction"
+      ],
+      "count": 1
+    },
+    "prioritization-and-alignment": {
+      "id": "prioritization-and-alignment",
+      "preferred": "prioritization and alignment",
+      "aliases": [
+        "prioritization and alignment"
+      ],
+      "count": 1
+    },
+    "coaching-outcomes-and-coach-evaluation": {
+      "id": "coaching-outcomes-and-coach-evaluation",
+      "preferred": "coaching outcomes and coach evaluation",
+      "aliases": [
+        "coaching outcomes and coach evaluation"
+      ],
+      "count": 1
+    },
+    "business-background": {
+      "id": "business-background",
+      "preferred": "business background",
+      "aliases": [
+        "business background"
+      ],
+      "count": 1
+    },
+    "coach-selection-criteria": {
+      "id": "coach-selection-criteria",
+      "preferred": "coach selection criteria",
+      "aliases": [
+        "coach selection criteria"
+      ],
+      "count": 1
+    },
+    "stress-management": {
+      "id": "stress-management",
+      "preferred": "stress management",
+      "aliases": [
+        "stress management"
+      ],
+      "count": 1
+    },
+    "work-life-balance": {
+      "id": "work-life-balance",
+      "preferred": "work-life balance",
+      "aliases": [
+        "work-life balance"
       ],
       "count": 1
     }

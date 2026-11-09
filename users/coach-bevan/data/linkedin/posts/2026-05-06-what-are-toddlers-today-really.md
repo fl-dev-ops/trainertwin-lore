@@ -4,7 +4,7 @@ date: '2026-05-06T22:39:31.738Z'
 url: https://www.linkedin.com/posts/leechambers-1_what-are-toddlers-today-really-being-subjected-ugcPost-7457554723030642688-DNws
 likes: 316
 comments: 54
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQHnU6esWvQXBA/CeJxzMnGNMjbzT08t8LBwKdfVcQLxzS0KPHw9fB0doXyYfCQaPxmNn47Gz9cFAPlqGsg?e=1794394800&v=beta&t=pTy1uxKABFFfwcsEwDHoBLYj5gzdjAL_8GzUZ3Mgg_s
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQHnU6esWvQXBA/CeJxzMnGNMjbzT08t8LBwKdfVcQLxzS0KPHw9fB0dkfieXoFwPkx9JBo_GY2fjsbP1wUAsbwe9g?e=1794841200&v=beta&t=k00W-Ndp-8MX9qVoQWovSqZ4MOomIHuDVOyV1-hFP9A
 ---
 
 What are toddlers today

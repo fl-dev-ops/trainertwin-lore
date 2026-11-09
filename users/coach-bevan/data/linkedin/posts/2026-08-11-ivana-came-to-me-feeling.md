@@ -4,7 +4,7 @@ date: '2026-08-11T11:00:12.837Z'
 url: https://www.linkedin.com/posts/coach-bevan_ivana-came-to-me-feeling-small-in-situations-activity-7492897657426817026-Y5pk
 likes: 12
 comments: 2
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQFGsYQ0UQ0_kQ/CeJxzMnGNii8r9Avw8Ux3SdfVcULmZ6PynU3Q5PPR5A1Q-a6uugCDvR0q?e=1794394800&v=beta&t=jQGVGKdHMIbIZX4pO5lJxCfdh36tEhTnqWhQ7rPoOaw
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQFGsYQ0UQ0_kQ/CeJxzMnGNii8r9Avw8Ux3SdfVcULmZ6PynU3Q5PPR5A1Q-a6uugCDvR0q?e=1794841200&v=beta&t=4xHaVDfIWSnGrrooOkWD0GYPd0j2ByRXWL_-VCv4S90
 ---
 
 Ivana came to me feeling small in situations where she knew she had more to give.

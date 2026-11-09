@@ -4,7 +4,7 @@ date: '2026-05-18T19:33:22.019Z'
 url: https://www.linkedin.com/posts/coach-bevan_humans-are-fantastic-you-are-fantastic-activity-7462223828040175616-beWR
 likes: 7
 comments: 0
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQEyJ4pO5v38DA/CeJxzMnGNMrHItsgx8PR0idTVcULmF6PxQ9H4yWj8bF0AVkYVbw?e=1794394800&v=beta&t=EIg_HyR2nmLGkKtCHUAqks3f99KFyx1Tto8_ApYFYNg
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQEyJ4pO5v38DA/CeJxzMnGNMrHItsgx8PR0idTVcULmF6PxQ9H4yWj8bF0AVkYVbw?e=1794841200&v=beta&t=4JKdCA7VO15rxr4i2XvW7rp-NxvGtJoatBIys0LHhhw
 ---
 
 Humans are fantastic. You are fantastic ⭐ We have so much potential. We can make this planet a wonderful place to live our lives!
