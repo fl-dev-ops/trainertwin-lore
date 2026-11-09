@@ -20,7 +20,7 @@ speaker_count: 4
 speakers:
   speaker_1: null
   speaker_2: null
-  speaker_3: null
+  speaker_3: 'Marcus Cauchi'
   speaker_4: null
 ---
 

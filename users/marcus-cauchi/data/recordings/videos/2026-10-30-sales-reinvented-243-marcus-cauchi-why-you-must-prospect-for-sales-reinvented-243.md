@@ -10,7 +10,7 @@ transcript: true
 speaker_count: 2
 speakers:
   speaker_1: null
-  speaker_2: null
+  speaker_2: 'Marcus Cauchi'
 ---
 
 speaker_1: Sales Reinvented Podcast episode number 243 Hi this is Paul Watts from the Sales Reinvented Podcast Here at Sales Reinvented were on a mission to change the negative perception of salespeople with a vision of making selling a profession to be proud of Joining me on todays show is Marcus Cauchi Marcus is a fractional chief revenue officer for a number of technology scale ups Helping them to achieve controlled hypergrowth without giving away their shares or control to greedy investors Marcus has been in sales for the past 35 years and over the last 17 years he has helped his clients to generate over 6 point 5 billion in additional sales He helps founders build companies with strong fundamentals focused on attracting lifetime customers He develops highly engaged teams who deliver incontestable value to customers and give massive Discretionary effort He believes to his core that sales is a force for good Marcus welcome to the show

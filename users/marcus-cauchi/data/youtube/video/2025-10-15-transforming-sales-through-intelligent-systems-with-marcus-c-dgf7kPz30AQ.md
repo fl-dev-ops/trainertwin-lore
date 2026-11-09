@@ -11,7 +11,7 @@ speaker_count: 3
 speakers:
   speaker_1: null
   speaker_2: null
-  speaker_3: null
+  speaker_3: 'Marcus Cauchi'
 ---
 
 speaker_1: Welcome to the Systems Simplified podcast where we feature top leaders who share stories on how to successfully systemize a business Now lets get started with the show
