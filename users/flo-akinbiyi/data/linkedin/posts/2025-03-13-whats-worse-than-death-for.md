@@ -4,7 +4,7 @@ date: '2025-03-13T13:19:22.175Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-publicspeaking-overcomefear-activity-7305940538438934529-N3L1
 likes: 18
 comments: 9
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHfhiKI_pzJqw/CeJxzMnGJCg_It6jwdU92ddQFACR4BIU?e=1794920400&v=beta&t=5E7PweyFFbVhlu6uxBqEUe83Ny42EsVxGBrVCtHGc1A
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHfhiKI_pzJqw/CeJxzMnGJCg_It6jwdU92ddQFACR4BIU?e=1794924000&v=beta&t=JC2LmI3fSpsWpJBZVK2q3MSWYGZoQvsw_9cwQ4u3aa4
 author_comments:
 - What’s the scariest part of public speaking for you?
 - Anyone else felt like they are sweating a river when speaking in front of a crowd? It’s all part of the process.

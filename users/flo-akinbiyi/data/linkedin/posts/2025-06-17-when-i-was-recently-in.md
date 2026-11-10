@@ -4,7 +4,7 @@ date: '2025-06-17T11:03:25.150Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-communicationcoach-artwork-ugcPost-7340619996479287296-mgBM
 likes: 18
 comments: 5
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEiZo9nkbFPdg/CeJxzMnGJSrFIjU_T88h2MdHVcULmB6LxQ9H4Bmh8C10AlFYWzw?e=1794920400&v=beta&t=IRtYSXXkk2Lgb3VjaHXfYHiX9U7mmsjkwPlre0t3cDU
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEiZo9nkbFPdg/CeJxzMnGJSrFIjU_T88h2MdHVcULmB6LxQ9H4Bmh8C10AlFYWzw?e=1794924000&v=beta&t=gp64MXvVGILatCLNVH1byZ3iBAra0TpWpRP7IR6PkGU
 author_comments:
 - What we assume to be true might just be a slice of the full picture.
 - Have you ever stumbled upon a piece of art that made you see things differently?

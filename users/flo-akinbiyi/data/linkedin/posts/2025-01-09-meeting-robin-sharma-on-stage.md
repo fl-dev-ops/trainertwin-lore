@@ -4,7 +4,7 @@ date: '2025-01-09T06:22:48.617Z'
 url: https://www.linkedin.com/posts/floakinbiyi_throwbackthursday-floakinbiyi-robinsharma-activity-7283005272325808129-IMdo
 likes: 39
 comments: 9
-videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQFtG2fRTE6jJQ/mp4-720p-30fp-crf28/B4DZRJuelNG0Bk-/0/1736403764106?e=1794920400&v=beta&t=HpRaoirG0o2xH3yX4Wc6Y3TXRR-jEmDShVKLG7-BC3c
+videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQFtG2fRTE6jJQ/mp4-720p-30fp-crf28/B4DZRJuelNG0Bk-/0/1736403764106?e=1794924000&v=beta&t=RmYR1m6okwBpSCdR7T7amkxCcXZtaP4dMRNj6SM1r1g
 author_comments:
 - Conversations with thought leaders can be inspiring and motivating.
 - Which insight resonates with you most?

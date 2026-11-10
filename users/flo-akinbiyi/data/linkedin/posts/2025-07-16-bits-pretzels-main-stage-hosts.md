@@ -4,7 +4,7 @@ date: '2025-07-16T14:00:32.758Z'
 url: https://www.linkedin.com/posts/bitsandpretzels_bits25-bits25-bitsandpretzels-ugcPost-7350831599426383872-1ucb
 likes: 256
 comments: 47
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQF-gXTjWlpVWw/CeJxzMnGJSvfLjXItcy92idTVcULmJ6PxLVD5rq5ofEc0fqQuAIgDHXc?e=1794920400&v=beta&t=ID0Qh3SXgVgvpUxn8Aj5irirX5E1Om8cB8BaFn333Iw
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQF-gXTjWlpVWw/CeJxzMnGJSvfLjXItcy92idTVcULmJ6PxLVD5rq5ofEc0fqQuAIgDHXc?e=1794924000&v=beta&t=yjgpCOAD0PlsXpT9IF_igsxU2gIw2HW11c_o1nPNoTU
 ---
 
 Bits & Pretzels Main Stage Hosts 2025: Lara Sophie Bothur, Céline Flores Willers & Flo Akinbiyi! 

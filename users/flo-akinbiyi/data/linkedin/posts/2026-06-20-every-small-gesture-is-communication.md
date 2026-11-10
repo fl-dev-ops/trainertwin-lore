@@ -4,7 +4,7 @@ date: '2026-06-20T10:03:22.891Z'
 url: https://www.linkedin.com/posts/mehranrowshan_personalbranding-communication-leadership-ugcPost-7472215657711865858-nlj9
 likes: 10
 comments: 2
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFsjkIwIN1n0A/CeJxzMnGJMvfOzvLJdi93KdbVcULmh6LxI9H4yWj8bF0AwkAYNQ?e=1794920400&v=beta&t=jVQoT3GvIy-Z2-9X9vaCX29OwA1CjJLYy8GYmvFxkiQ
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFsjkIwIN1n0A/CeJxzMnGJMvfOzvLJdi93KdbVcULmh6LxI9H4yWj8bF0AwkAYNQ?e=1794924000&v=beta&t=god7JAX9SC61yprj_Z1hn9tAoofO3Ey5ncCwm8F_RpU
 author_comments:
 - https://youtu.be/UpgSR3bph08
 ---

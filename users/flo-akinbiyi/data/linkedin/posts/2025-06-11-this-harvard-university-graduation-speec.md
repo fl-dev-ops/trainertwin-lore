@@ -4,7 +4,7 @@ date: '2025-06-11T06:02:00.766Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-publicspeaking-communicationcoach-activity-7338445381896163328-k8KZ
 likes: 26
 comments: 7
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D5605AQFBpgAkkA2qdQ/CeJxzMjWLSknJcQ6udA90MdDVcULiu_qi8l3Q-YFo_HI0vokuAFkXHJY?e=1794920400&v=beta&t=VS15-TPAPn-ib-JZ8MDBZLlEE9RkhxpMHDHfrrkd2v0
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D5605AQFBpgAkkA2qdQ/CeJxzMjWLSknJcQ6udA90MdDVcULiu_qi8l3Q-YFo_HI0vokuAFkXHJY?e=1794924000&v=beta&t=2JgXnpcF_Z_-B2k8tCszqvMtJs4me3wmwj7Mu11GENU
 author_comments:
 - Such a timely call for empathy, understanding, and unity in a divided world.
 - What are your thoughts on a shared future?

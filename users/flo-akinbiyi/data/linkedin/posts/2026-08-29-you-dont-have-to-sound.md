@@ -7,7 +7,7 @@ comments: 8
 article:
   title: 'Grow Your Startup: Be a super‑communicator'
   subtitle: gate - Garchinger Technologie- und Gründerzentrum
-  link: https://www.linkedin.com/pulse/grow-your-startup-supercommunicator-qncnf?trackingId=9HNy%2FMeFcB1LYBPLN13byA%3D%3D
+  link: https://www.linkedin.com/pulse/grow-your-startup-supercommunicator-qncnf?trackingId=aGhK8yc5RPkoEhf%2FbcQcjw%3D%3D
 ---
 
 You don’t have to sound like a TED speaker to build a great startup ... but you do need to sell your vision. 🎤

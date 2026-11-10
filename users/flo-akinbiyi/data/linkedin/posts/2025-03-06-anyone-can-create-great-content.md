@@ -4,7 +4,7 @@ date: '2025-03-06T12:32:43.459Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-beauthentic-speakyourtruth-activity-7303392084714045440-Il-5
 likes: 23
 comments: 7
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQGRixDOWPJAKQ/CeJxzMnGJCitKrCzw83B0ytfVcULmF6PyXR3R5C3Q-Ca6AN3fGF8?e=1794920400&v=beta&t=UmNBxJ_SmcNLf8TvFaXRGbC7WCnCdkWOXFp7X-bB22c
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQGRixDOWPJAKQ/CeJxzMnGJCitKrCzw83B0ytfVcULmF6PyXR3R5C3Q-Ca6AN3fGF8?e=1794924000&v=beta&t=BcgGXFQbiqKevnkdoe3CbzjTTKqNvsGQkseBVNyfxEw
 author_comments:
 - Authenticity over perfection - every time.
 - We all have something unique to offer. What’s one thing that makes you stand out in your work?

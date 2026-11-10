@@ -4,7 +4,7 @@ date: '2025-06-03T06:02:44.593Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-publicspeaking-communicationcoach-activity-7335546462795132929-1AzP
 likes: 28
 comments: 17
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEaK8wobCmVMw/CeJxzMnGJSjaIDCgt8jBxi9TVcULmO6LyXdHkXZPR-BZo-l11ATDDG5E?e=1794920400&v=beta&t=QK5Yj3Xic-ZulzF3blP-nBvEZvXRQvgROTUDZboNYfU
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEaK8wobCmVMw/CeJxzMnGJSjaIDCgt8jBxi9TVcULmO6LyXdHkXZPR-BZo-l11ATDDG5E?e=1794924000&v=beta&t=k-gk87p11lFMxWxEjXy9RlecYybWWKQtFPlkXAO9u58
 author_comments:
 - Have you tried adapting your communication and what were the results?
 - Adapting your language and tone will make them feel understood and included.

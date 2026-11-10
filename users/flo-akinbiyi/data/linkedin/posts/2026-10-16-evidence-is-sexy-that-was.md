@@ -2,7 +2,7 @@
 id: '7516824467042590721'
 date: '2026-10-16T11:36:48.788Z'
 url: https://www.linkedin.com/posts/floakinbiyi_healthiaward-healthi-digitalhealth-activity-7516824467042590721-R0Kk
-likes: 82
+likes: 83
 comments: 19
 images_count: 8
 ---

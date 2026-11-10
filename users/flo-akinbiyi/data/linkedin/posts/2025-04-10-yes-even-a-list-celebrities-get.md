@@ -4,7 +4,7 @@ date: '2025-04-10T07:14:44.399Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-stagefright-publicspeakingtips-activity-7315995636632367104-sOHr
 likes: 431
 comments: 79
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHB4frelNUrXA/CeJxzMnGJikzNNE9M9ih3KtbVcULm56PxLdD4JroAcukTYw?e=1794920400&v=beta&t=nO-dF__cBwDaGZ15dhV3E7BEqQbXLNzB3dt7c6RL21Y
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHB4frelNUrXA/CeJxzMnGJikzNNE9M9ih3KtbVcULm56PxLdD4JroAcukTYw?e=1794924000&v=beta&t=nyxQj31qbf8rnNdsBbk94CHMnhuOkayA-OeT4nzBhQU
 author_comments:
 - If you need any help, feel free to message me. I would love to help!
 - Who thinks that stage fright is only for newbies?

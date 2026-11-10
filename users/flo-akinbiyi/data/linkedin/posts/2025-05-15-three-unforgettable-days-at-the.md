@@ -5,9 +5,6 @@ url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-publicspeaking-saudi
 likes: 31
 comments: 15
 images_count: 4
-author_comments:
-- Thank you Ivan Lattanzio & Faycal Bettioui. You were fantastic! 🤩
-- The creativity from the chefs was next level. Curious… what’s the most unexpected or innovative dish you’ve ever tried?
 ---
 
 Three unforgettable days at The Saudi Food Show - The Kingdom’s Largest F&B Sourcing Event.

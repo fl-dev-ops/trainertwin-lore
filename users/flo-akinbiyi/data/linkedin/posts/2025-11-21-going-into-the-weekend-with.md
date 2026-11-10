@@ -4,7 +4,7 @@ date: '2025-11-21T06:22:11.199Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-communicationcoach-viking-activity-7397519680912945152-7rEw
 likes: 31
 comments: 14
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFSuICcp8AfJw/CeJxzMnGJKsy2DLBIdy929dXVcULiuxig8U3Q-BaofNdyNL6rLgBA0RwX?e=1794920400&v=beta&t=lSDzKA43FYKgBtrOX5AowoX79mEm3C_c4ATFLZlN1TA
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFSuICcp8AfJw/CeJxzMnGJKsy2DLBIdy929dXVcULiuxig8U3Q-BaofNdyNL6rLgBA0RwX?e=1794924000&v=beta&t=4P3PSm7LtwUYSxGNbVSr_r58vVkLEeRTu4ni8J7lLN4
 author_comments:
 - A powerful way to use ones voice.
 - Have you ever screamed with a Viking?

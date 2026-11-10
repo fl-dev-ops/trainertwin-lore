@@ -4,7 +4,7 @@ date: '2025-01-29T07:00:02.589Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-publicspeaking-communicationskills-activity-7290262399595511808-RFHu
 likes: 25
 comments: 4
-videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQGaCN5z63sxTw/mp4-720p-30fp-crf28/B4DZSw23l5H0Bg-/0/1738133999542?e=1794920400&v=beta&t=hvBi8dhOZBKa5leacFan6YuGVs4N59TH7Yqc4CFLHQ0
+videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQGaCN5z63sxTw/mp4-720p-30fp-crf28/B4DZSw23l5H0Bg-/0/1738133999542?e=1794924000&v=beta&t=hj6_Xo7Zx-qzQyuSuLE6NVnrpaDLqAI0iALKJ1Jd-x0
 author_comments:
 - Do you have any tips to add?
 ---

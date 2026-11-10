@@ -4,7 +4,7 @@ date: '2026-09-24T06:27:13.636Z'
 url: https://www.linkedin.com/posts/floakinbiyi_three-things-that-make-a-great-pitch-from-activity-7508774024165003264-lh_N
 likes: 16
 comments: 5
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFRxrBao88LZA/CeJxzMnFJdAl29zTy8HJ1SdfVcULmJ6PynQ3Q5LPR5MtR-a6eugDGGhlp?e=1794920400&v=beta&t=mP64dQ5HEj33vaym47N41Tcf6qIoCeynXGIxEOEjwks
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFRxrBao88LZA/CeJxzMnFJdAl29zTy8HJ1SdfVcULmJ6PynQ3Q5LPR5MtR-a6eugDGGhlp?e=1794924000&v=beta&t=hs9Lh8gerjR_Yr5q8u53vvmfwj_vLhhumaJDa5JkoDU
 ---
 
 Three things that make a great pitch from pitch competition judges.

@@ -5,8 +5,6 @@ url: https://www.linkedin.com/posts/floakinbiyi_each1teach1-humanfirstcommunicat
 likes: 25
 comments: 10
 images_count: 1
-author_comments:
-- Do you ever talk to police officers or prefer not to?
 ---
 
 I have been thinking about this a lot lately.

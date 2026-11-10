@@ -4,7 +4,7 @@ date: '2025-06-24T06:17:28.512Z'
 url: https://www.linkedin.com/posts/floakinbiyi_have-you-ever-wondered-how-i-found-my-way-activity-7343160315397746688-x3x5
 likes: 26
 comments: 7
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEucXfVYZfFaA/CeJxzMnGJSk3PyvDK8Mh2MdHVcULmB6LxQ9H4Bmh8C1S-a6AuAI_rHaE?e=1794920400&v=beta&t=LSCgLiWfztj--TB775kVpa2CqWltm_Y2i__WLG06RPU
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEucXfVYZfFaA/CeJxzMnGJSk3PyvDK8Mh2MdHVcULmB6LxQ9H4Bmh8C1S-a6AuAI_rHaE?e=1794924000&v=beta&t=twxJxBiiWOgQQhsTXZV-2n3ocA60Qo8-1kECdpdCWQE
 author_comments:
 - What have you learned along your journey?
 - How did you get into your field?

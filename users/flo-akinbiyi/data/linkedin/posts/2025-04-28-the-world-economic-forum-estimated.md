@@ -4,7 +4,7 @@ date: '2025-04-28T06:09:58.003Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-tedx-futureofwork-activity-7322502317486825472-gkLo
 likes: 42
 comments: 17
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEc4m7BxjTPgg/CeJxzMnGJijJ3jA8Kd092NtDVcULmm6DyXQLR-K66ADHHEaE?e=1794920400&v=beta&t=84Zkm_2EZm2uBQbXTJta4CjzGrmmXl7_7L-uChflCu4
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEc4m7BxjTPgg/CeJxzMnGJijJ3jA8Kd092NtDVcULmm6DyXQLR-K66ADHHEaE?e=1794924000&v=beta&t=n1gl81g9GIy_hlg2pr1G5hUpZEXYl4vtlb66jqXML80
 author_comments:
 - The future is here and now!
 - This talk was such a special moment for me. Not just because of the stage, but because of the message and the conversations it sparked. Grateful I got to share it with an audience ready to lead the change.

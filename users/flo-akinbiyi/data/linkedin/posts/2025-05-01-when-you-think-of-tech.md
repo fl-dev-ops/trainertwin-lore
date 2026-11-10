@@ -4,7 +4,7 @@ date: '2025-05-01T06:05:09.418Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-presenter-gitexasia-activity-7323588270670393344-Xyqf
 likes: 45
 comments: 20
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEyEvfqvNHKew/CeJxzMnGJSvROzjWycLdwNtHVcULiuwSi8V1R-c4GugArqxEl?e=1794920400&v=beta&t=ChNgFVEh5Mg6DitloVjSQrPK1puzaw-Mq1n7mKtb-yE
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEyEvfqvNHKew/CeJxzMnGJSvROzjWycLdwNtHVcULiuwSi8V1R-c4GugArqxEl?e=1794924000&v=beta&t=q54IeopYKSkoYPHaBzK3i8qQlXdm3hqHsju3-HkA3Ec
 author_comments:
 - Looking forward to challenging robots again! 🤩 Unitree Robotics GITEX ASIA - Asia’s Largest & Most Global Tech, Startup & Digital Investments Event
 - Okay but be honest… who had better form? Me or the robot? 👀💪

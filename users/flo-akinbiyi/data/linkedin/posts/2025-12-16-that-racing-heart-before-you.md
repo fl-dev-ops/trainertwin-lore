@@ -4,7 +4,7 @@ date: '2025-12-16T05:40:15.726Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-communicationcoach-activity-7406568826894483456-KeOP
 likes: 28
 comments: 5
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D5605AQG6vTSSgvWZuQ/CeJxzMjWLKs4p1DPI8nR09dXVcULiuxig8U1Q-a7ZaPIWaPKuugAZsRsV?e=1794920400&v=beta&t=nN4XnBIhANblJEj_kS3mwHgNaLUYHqlY_7Z8PC3Ujyg
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D5605AQG6vTSSgvWZuQ/CeJxzMjWLKs4p1DPI8nR09dXVcULiuxig8U1Q-a7ZaPIWaPKuugAZsRsV?e=1794924000&v=beta&t=Z2eNPsxtghmzT_KQovHbWqqToKpTQLEGl1QnLXAI-ww
 author_comments:
 - When you are feeling the effects of stage fright, it is a good time to take a moment to breathe.
 - What technique do you use to combat stage fright?

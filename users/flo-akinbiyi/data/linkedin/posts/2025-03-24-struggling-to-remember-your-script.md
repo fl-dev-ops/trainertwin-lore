@@ -4,7 +4,7 @@ date: '2025-03-24T12:19:58.558Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-publicspeaking-presentationtips-activity-7309911858067480578-ug7R
 likes: 28
 comments: 11
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFs-i2Flbmd_Q/CeJxzMnGJivB0KzcNdTdx9dQFACJzBDM?e=1794920400&v=beta&t=zWBWnHTHZK9gZn0aM-RVRdCBV_0ByrFGA8X3ni-_ZCU
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFs-i2Flbmd_Q/CeJxzMnGJivB0KzcNdTdx9dQFACJzBDM?e=1794924000&v=beta&t=2zUJO0HAL3VqBR6hsZ4P633LifMvCgaOmKkS6fOKQtU
 author_comments:
 - Some say that having visual aids helps, what do you think? Does it help you remember a script or distract you?
 - How do you prepare?
