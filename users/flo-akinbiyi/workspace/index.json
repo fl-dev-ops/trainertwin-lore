@@ -3364,6 +3364,286 @@
       "path": "linkedin/posts/2024-12-21-its-the-most-wonderful-time.md",
       "sha256": "a416698dba6717e8475605327eecb656749de3721b2db0cd470d028eb30608d5",
       "basis": "whole"
+    },
+    "website-flo-blog-2023-02-09-what-is-one-essential-skill-that-makes-the-difference-bet-decdde8f9c": {
+      "path": "website/flo-blog-2023-02-09-what-is-one-essential-skill-that-makes-the-difference-between-a-good-and-a-great-communicator.md",
+      "sha256": "f2e7adbb9b5a7860b26eada092dec954a192b4c5402ff9844e48f3f20b50edd4",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-02-09-the-secret-formula-to-convince-your-boss-md-9635026563": {
+      "path": "website/flo-blog-2023-02-09-the-secret-formula-to-convince-your-boss.md",
+      "sha256": "ee03db2b555f8463eb0be927b48b2ca4c10588be5ef85786bf76b73eba3ff595",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-02-09-it-s-not-about-being-perfect-md-0a0965e799": {
+      "path": "website/flo-blog-2023-02-09-it-s-not-about-being-perfect.md",
+      "sha256": "028c3b79fdeca6879b7d03fd8eb5104c92a0ba18a0ef835d8f9b8246d5fda8e1",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-02-09-unleash-your-full-potential-md-f152acbb3b": {
+      "path": "website/flo-blog-2023-02-09-unleash-your-full-potential.md",
+      "sha256": "ecc18e164ed584f739f0c3bddf1fe0723b0eeeabaf722289c34417b5d58866d0",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-02-09-winning-communication-needs-passion-md-7fbe34299d": {
+      "path": "website/flo-blog-2023-02-09-winning-communication-needs-passion.md",
+      "sha256": "85cf3e62eaaf50e452fb4f65217e7c05cee810818b620fe4ab2cafbe630dd2f0",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-02-09-how-watching-videos-can-make-you-a-better-public-speaker-7fb3f047e2": {
+      "path": "website/flo-blog-2023-02-09-how-watching-videos-can-make-you-a-better-public-speaker.md",
+      "sha256": "d70a8c2f95c12a4bf7eccbb5397ebcc534e6cfdc985198416ee932c6c3d3a470",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-02-09-the-truth-about-communication-superpowers-md-4ef0a5d5db": {
+      "path": "website/flo-blog-2023-02-09-the-truth-about-communication-superpowers.md",
+      "sha256": "86071b96512acd502195e139a48f822699f14ce1e7849d5d0ea58d875e5d9943",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-add-the-right-slides-to-your-presentations-md-490c53a36d": {
+      "path": "website/flo-blog-2023-03-10-add-the-right-slides-to-your-presentations.md",
+      "sha256": "25de6d6abe8954c4160f307197f47d38b82af97b627356553b688f165c8ef579",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-how-watching-videos-can-make-you-a-better-public-speaker-7d14e878a9": {
+      "path": "website/flo-blog-2023-03-10-how-watching-videos-can-make-you-a-better-public-speaker-1.md",
+      "sha256": "7b305987f988c8551c367dae1f735947fbcb5a41feda1ee6bc7523fc93088d00",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-be-inspired-to-have-fun-on-stage-md-f4959492a5": {
+      "path": "website/flo-blog-2023-03-10-be-inspired-to-have-fun-on-stage.md",
+      "sha256": "7fa8358d79d5fc912e266056c9b9e390b6561e85856761e30d67c74450db903b",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-i-did-no-die-on-stage-but-i-felt-miserable-md-5b3f1b8783": {
+      "path": "website/flo-blog-2023-03-10-i-did-no-die-on-stage-but-i-felt-miserable.md",
+      "sha256": "cdfdbaea943f61c4ca27917fd3a29bb74272557c34dbcbd97780de519d441678",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-be-a-memorable-presenter-md-9ecf0fae79": {
+      "path": "website/flo-blog-2023-03-10-be-a-memorable-presenter.md",
+      "sha256": "a3aaa0aa9d8787052be89351d3c609836754aecb3009454539687fe375642ee8",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-does-audience-size-matter-md-2379f5e3c2": {
+      "path": "website/flo-blog-2023-03-10-does-audience-size-matter.md",
+      "sha256": "810ccc36e5a5a4b9284623ecc0f32c3cc982b6adb6fc514474ce2719e8888593",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90": {
+      "path": "website/flo-blog-2023-03-10-fewer-words-with-a-bigger-impact.md",
+      "sha256": "766e1045f311019fc94b64e8b89c175bc2f5a7d915970c3e1e8645b64e1de51d",
+      "basis": "list"
+    },
+    "website-flo-blog-2023-03-10-stage-fright-md-2b4d2dd90e": {
+      "path": "website/flo-blog-2023-03-10-stage-fright.md",
+      "sha256": "911f09bc34215373deab0322eeb1d7ace7dd54df33d09b911692406deb3ce5f5",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-the-power-of-silence-md-afde5e4d86": {
+      "path": "website/flo-blog-2023-03-10-the-power-of-silence.md",
+      "sha256": "4a98b2d97ce547d8c295a478b42b39f9fc90ff1592ad29ecbb9d9ee5d62eb402",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-techniques-to-feel-more-confident-md-ee31726e92": {
+      "path": "website/flo-blog-2023-03-10-techniques-to-feel-more-confident.md",
+      "sha256": "f0b83b5cfb70bda92e7bff583e75cda4cc33206b345436ce6bf2ed2d3d8d97c4",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-03-10-the-audience-doesnt-want-you-to-fail-md-b7cbf033fc": {
+      "path": "website/flo-blog-2023-03-10-the-audience-doesnt-want-you-to-fail.md",
+      "sha256": "0970e48a6e76ab60e6921c97c16c0b431c36cdc06538aa335e38bc3ab729d7cc",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-10-03-fear-of-public-speaking-sometimes-feels-like-jumping-out-45426fe8e3": {
+      "path": "website/flo-blog-2023-10-03-fear-of-public-speaking-sometimes-feels-like-jumping-out-of-a-plane.md",
+      "sha256": "a710197c7e9b0a101b17e73bbca621535f90ed5d3ec8184f572eba9ab691f50c",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-11-05-being-in-front-of-the-camera-can-be-scary-md-18fa7d8e6e": {
+      "path": "website/flo-blog-2023-11-05-being-in-front-of-the-camera-can-be-scary.md",
+      "sha256": "49befbcc90ba4fee17777d976263b27f5b8b1933e6cd842d031e8a4343142bb9",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-01-09-embrace-the-bad-to-achieve-the-best-md-6f3b47b641": {
+      "path": "website/flo-blog-2024-01-09-embrace-the-bad-to-achieve-the-best.md",
+      "sha256": "4adab1be594c06e2e0e8111375887db9a1fd4dc9167a1265951e07a7d42b184e",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-01-09-don-t-turn-down-a-panel-discussion-or-speaking-opportunit-3f05ce457d": {
+      "path": "website/flo-blog-2024-01-09-don-t-turn-down-a-panel-discussion-or-speaking-opportunity.md",
+      "sha256": "63f1669348c7f5a7ca2e952f70b2b24f2ede0498911587d59774c78044b48489",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-01-09-speaking-in-a-monotone-voice-md-5ab3907403": {
+      "path": "website/flo-blog-2024-01-09-speaking-in-a-monotone-voice.md",
+      "sha256": "c755555203af152debd86a471e2b30478bea77199b1aa6f3801f255e53e21011",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-02-01-be-kind-to-yourself-as-a-public-speaker-md-dbaa85fe82": {
+      "path": "website/flo-blog-2024-02-01-be-kind-to-yourself-as-a-public-speaker.md",
+      "sha256": "20b09c56cc38d5baf01f6e3b2f05dba8468a0a6090791e965007c0a7b4cb1bfc",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-11-01-memorable-introductions-md-d13bbbe378": {
+      "path": "website/flo-blog-2023-11-01-memorable-introductions.md",
+      "sha256": "bd8dd04602d7384ee3ea05c8c0b1cc6931eeec888d01897835dc30b282fb189e",
+      "basis": "whole"
+    },
+    "website-flo-blog-2023-02-09-do-you-focus-enough-on-the-big-picture-md-74f2f49e04": {
+      "path": "website/flo-blog-2023-02-09-do-you-focus-enough-on-the-big-picture.md",
+      "sha256": "953dd2663e08a0314194b1ede00dd7d33cd6f397f3543602404d6cbacbec6a96",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-02-07-find-inspiration-in-the-every-day-md-2aac7375ac": {
+      "path": "website/flo-blog-2024-02-07-find-inspiration-in-the-every-day.md",
+      "sha256": "1f9ebd03a8b94388d0e08237c655a7c597d360477049f7d38274f0d0234f5852",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-02-16-public-speaking-in-front-of-an-audience-big-or-small-md-8c88656b68": {
+      "path": "website/flo-blog-2024-02-16-public-speaking-in-front-of-an-audience-big-or-small.md",
+      "sha256": "3165aed2eebd988e8a51142c170270c279bf73666640fab2171c74972df1bcb9",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-02-20-mistakes-on-stage-as-a-professional-speaker-md-40d153a97d": {
+      "path": "website/flo-blog-2024-02-20-mistakes-on-stage-as-a-professional-speaker.md",
+      "sha256": "d576fd26cee156e06b6484717167906e7a7373c43a41a596a9020ea0a8784ba6",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-02-29-use-pauses-strategically-md-895ee85d67": {
+      "path": "website/flo-blog-2024-02-29-use-pauses-strategically.md",
+      "sha256": "949781732adf01f8a9992dafa4b768ac56c1f1f5922680e6e17e7f321caf9d08",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-03-05-boost-your-energy-while-on-stage-md-734a7ecaf6": {
+      "path": "website/flo-blog-2024-03-05-boost-your-energy-while-on-stage.md",
+      "sha256": "be3145bb58a60e5ff62c6f40567145a24625fefba2897f765487a4d7bf72eddd",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-03-21-impactful-stage-moments-md-026fd2e579": {
+      "path": "website/flo-blog-2024-03-21-impactful-stage-moments.md",
+      "sha256": "29f3e9a21cccb80d81f7e9850c4653369ad84ab6577e980ba4ba152149aa5111",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-03-15-as-a-public-speaker-do-you-hate-being-in-front-of-the-cam-ea348f86ac": {
+      "path": "website/flo-blog-2024-03-15-as-a-public-speaker-do-you-hate-being-in-front-of-the-camera.md",
+      "sha256": "741a6a55f3a33fe078d2c3122abc351115a826b14451445955347a3c1e781519",
+      "basis": "whole"
+    },
+    "website-flo-page-2024-09-06-elevateyourpresentation-md-08601eb2ae": {
+      "path": "website/flo-page-2024-09-06-elevateyourpresentation.md",
+      "sha256": "eb17c9ab48611645d263543c14fdf84eb96cb79d474b86dc279f4050e488e750",
+      "basis": "whole"
+    },
+    "website-flo-blog-2024-01-09-expressive-public-speaking-and-presentation-skills-md-c255d76570": {
+      "path": "website/flo-blog-2024-01-09-expressive-public-speaking-and-presentation-skills.md",
+      "sha256": "41a95a4867fd093568573e93effa98750baeb88efc3e621251590640dbe81db8",
+      "basis": "whole"
+    },
+    "website-flo-page-2025-10-08-speak-engage-present-course-md-954e26a88b": {
+      "path": "website/flo-page-2025-10-08-speak-engage-present-course.md",
+      "sha256": "76f3436e82138e52220d644aa6acb06b926abad056aa0a4b786e964e7d8301db",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-about-3-md-0353be71b7": {
+      "path": "website/flo-page-2026-11-09-about-3.md",
+      "sha256": "ff0dbdf18d4b300c703695890aee2c1dd99cc3800e90728d5e6a3d69191ae4eb",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-about-flo-md-d0635462e1": {
+      "path": "website/flo-page-2026-11-09-about-flo.md",
+      "sha256": "bd45c20690414f9ad53ecb8ec3f839bc8ad25bf1069ffe36ac5e5f8610e9516f",
+      "basis": "whole"
+    },
+    "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62": {
+      "path": "website/flo-blog-2026-06-01-how-do-i-overcome-stage-fright.md",
+      "sha256": "4fc1cd78b082f66450f4129611e397e86d732c581c5aa79f995db11f3e380a53",
+      "basis": "list"
+    },
+    "website-flo-page-2026-11-09-avp-technology-for-coaches-md-769a7666ec": {
+      "path": "website/flo-page-2026-11-09-avp-technology-for-coaches.md",
+      "sha256": "046ee23d01486af962946ad779e5f36d88377d1025c528453bb648a893fa5195",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-corporate-md-b114cc3482": {
+      "path": "website/flo-page-2026-11-09-corporate.md",
+      "sha256": "a995df72434f0d3b7731083da99a09556a57c7f993e460be35ffe488fc5b55b3",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-communication-coach-md-6e4d87777e": {
+      "path": "website/flo-page-2026-11-09-communication-coach.md",
+      "sha256": "e618c2006bc170e25e6dc81ec4aed817983a1236fc4ec0bfcd3b0ec34411e648",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-elevate-your-presentations-md-52a75a481f": {
+      "path": "website/flo-page-2026-11-09-elevate-your-presentations.md",
+      "sha256": "97d2613e8081d8635d4e3c37b91bcb0256c7d9d0d3a47cd4fb1cbc726ea6e6bc",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-executive-one-on-one-coaching-md-8f8949b67b": {
+      "path": "website/flo-page-2026-11-09-executive-one-on-one-coaching.md",
+      "sha256": "d4084f8f7e930989f5d807ead63c580bd723d6cc96eeb872c5bbf5dcd1ddfecc",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-flo-ai-md-085dafdbe3": {
+      "path": "website/flo-page-2026-11-09-flo-ai.md",
+      "sha256": "7e6eee5683127fac516b3b8c5bd831933f4f86c7719278bae1b33790b3ce12e9",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-industries-md-b2ce7c5afb": {
+      "path": "website/flo-page-2026-11-09-industries.md",
+      "sha256": "85979020089cf805f4fe32c013b7351d706d1cfb9865cce51ec9371e46c3048c",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-individual-md-83f31dde58": {
+      "path": "website/flo-page-2026-11-09-individual.md",
+      "sha256": "4916444dc7c5f1cf0f04f0d37b10df8472bda7782c0ae9358ad9ab0c7f9c006d",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-home-page-md-c3f989a7e1": {
+      "path": "website/flo-page-2026-11-09-home-page.md",
+      "sha256": "6f3dc2dbd14e5c0ffec917962c4e4f33c15ae22fe7e909557c8b65350e317192",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-memorable-speeches-md-fce31abffc": {
+      "path": "website/flo-page-2026-11-09-memorable-speeches.md",
+      "sha256": "01fc04a0cacfc2b56a132228ee45c951115c2c37e2af6ff9e68847e9c23c7a8f",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-home-md-5cb1f4d29c": {
+      "path": "website/flo-page-2026-11-09-home.md",
+      "sha256": "ae353585b7f7f7fc4253f6cd0003e0835f034c3d95c8f667e2462af4ab412c9a",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-presenter-md-b44d6ce807": {
+      "path": "website/flo-page-2026-11-09-presenter.md",
+      "sha256": "d8f5f0c0987d7cd219331b0def7d9960202f4599542380cc59eb5476c5495f97",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-intense-public-speaking-weekend-md-8504ed9142": {
+      "path": "website/flo-page-2026-11-09-intense-public-speaking-weekend.md",
+      "sha256": "ef4d26ef836440b55ce606af2844e047d85454198fcc5b3b5dd6791e72c7a35b",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-corporate-workshops-md-39d16d7f7e": {
+      "path": "website/flo-page-2026-11-09-corporate-workshops.md",
+      "sha256": "4137dd9b744acf0adcdd36ece530fe27b3b9ec220f16d0fe4d836b93f5cc30b4",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2": {
+      "path": "website/flo-page-2026-11-09-year-end-speech.md",
+      "sha256": "07a3014d3b541d299cf5d963c7e0cadd5a504ad65c7c204ff1213e6f2298fb34",
+      "basis": "list"
+    },
+    "website-flo-page-2026-11-09-acoustic-voice-technology-md-8be729a629": {
+      "path": "website/flo-page-2026-11-09-acoustic-voice-technology.md",
+      "sha256": "95a9d78489d92fc736144fa1b184959a108527360204ede59c9d33fd4567a492",
+      "basis": "whole"
+    },
+    "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0": {
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "sha256": "47309f178446b085806b020937e4cec01298ecdb198f14b554f904d0d4f4366c",
+      "basis": "list"
     }
   },
   "items": [
@@ -22605,6 +22885,1886 @@
       "source_id": "linkedin-posts-2026-11-10-in-2016-i-had-enough-md-a5bd0b79fd",
       "path": "linkedin/posts/2026-11-10-in-2016-i-had-enough.md",
       "prev": null,
+      "next": null
+    },
+    {
+      "title": "Tell stories to be a great communicator",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "storytelling"
+        },
+        {
+          "facet": "activity",
+          "label": "communication"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 22
+      },
+      "quote": "What is one essential skill that makes the difference between a good and a great communicator? Storytelling A skill you should master, regardless if you are a Barista in a cafe, a Manager in a multinational corporation, or the CEO of your own company. In almost every job, you have to communicate. In almost every job, you have to interact with other people. In almost every job, you have to make sure that your audience engages with your communication in the way you intend to. And how can you do th",
+      "item_id": "website-flo-blog-2023-02-09-what-is-one-essential-skill-that-makes-the-difference-bet-decdde8f9c:0008-0022",
+      "source_id": "website-flo-blog-2023-02-09-what-is-one-essential-skill-that-makes-the-difference-bet-decdde8f9c",
+      "path": "website/flo-blog-2023-02-09-what-is-one-essential-skill-that-makes-the-difference-between-a-good-and-a-great-communicator.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The secret formula to convince your boss",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "executive presentation mindset"
+        },
+        {
+          "facet": "situation",
+          "label": "pitching to the board or boss"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 34
+      },
+      "quote": "Have you ever had problems convincing your boss? You have tried different approaches and angles, but he or she is not buying it? Well, I have a solution for you! I have been coaching a CEO on Public Speaking for about five months, and during this time, his speaking skills improved quite dramatically and he became a proficient speaker. For one of our sessions, I told him to prepare a speech/presentation which he could present to the board. He chose an actual case, pitching a rather risky project,",
+      "item_id": "website-flo-blog-2023-02-09-the-secret-formula-to-convince-your-boss-md-9635026563:0008-0034",
+      "source_id": "website-flo-blog-2023-02-09-the-secret-formula-to-convince-your-boss-md-9635026563",
+      "path": "website/flo-blog-2023-02-09-the-secret-formula-to-convince-your-boss.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Focusing on progress rather than perfection",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "progress over perfection"
+        },
+        {
+          "facet": "situation",
+          "label": "making mistakes"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 16
+      },
+      "quote": "I am not perfect, and I make mistakes; everybody does, and that's okay. Of course, it is essential to deliver to the best of your abilities to make things happen, but this does not always mean being perfect. It is more important to progress towards our goal. Remember, the focus should be on progress, not perfection. As Stephen Hawking says: \"One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn't exist… without imperfection, neither you nor I would exist.\"",
+      "item_id": "website-flo-blog-2023-02-09-it-s-not-about-being-perfect-md-0a0965e799:0008-0016",
+      "source_id": "website-flo-blog-2023-02-09-it-s-not-about-being-perfect-md-0a0965e799",
+      "path": "website/flo-blog-2023-02-09-it-s-not-about-being-perfect.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Unleash your full potential by stepping up your communication game",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "communication skills"
+        },
+        {
+          "facet": "situation",
+          "label": "career stagnation"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 16
+      },
+      "quote": "Do you feel frustrated because your team, your management, or your clients are not seeing your full potential? Do you feel you are not given the right opportunities? Do you feel like your career is not progressing at the right speed? If this is the case, it is time for you to step out of this vicious cycle of frustration BY stepping up your communication game. Watch the video to learn about 3 things that allow you to step up your communication game IMMEDIATELY!",
+      "item_id": "website-flo-blog-2023-02-09-unleash-your-full-potential-md-f152acbb3b:0008-0016",
+      "source_id": "website-flo-blog-2023-02-09-unleash-your-full-potential-md-f152acbb3b",
+      "path": "website/flo-blog-2023-02-09-unleash-your-full-potential.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Winning communication needs passion!",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "passion in communication"
+        },
+        {
+          "facet": "activity",
+          "label": "business presentations"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 26
+      },
+      "quote": "--- title: \"Winning communication needs passion!\" url: \"https://www.flo-akinbiyi.com/post/winning-communication-needs-passion\" date: \"2023-02-09\" source: website --- Passion is a powerful force and one important ingredient in winning communication that makes it more exciting, engaging, and powerful. Of course in Business, you cannot be passionate about every topic, every presentation, and every meeting. However, if you want to make an impact, you can add passion to a rather dry topic and let the",
+      "item_id": "website-flo-blog-2023-02-09-winning-communication-needs-passion-md-7fbe34299d:0001-0026",
+      "source_id": "website-flo-blog-2023-02-09-winning-communication-needs-passion-md-7fbe34299d",
+      "path": "website/flo-blog-2023-02-09-winning-communication-needs-passion.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Watching videos of other public speakers to become a better speaker",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking preparation"
+        },
+        {
+          "facet": "situation",
+          "label": "fear of public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 74
+      },
+      "quote": "A lot of people dream about being great public speakers, confident presenters, or eloquent orators. The questions is: Where do I start to become a great speaker? Do you know the feeling of being overwhelmed with a task because it seems to be so gigantic that the very idea of starting this journey actually paralyzes you? It is not unusual for people to have a strong fear of public speaking, a feeling of being overwhelmed and not knowing where to start. Here are some quick tips: THE FIRST STEP A s",
+      "item_id": "website-flo-blog-2023-02-09-how-watching-videos-can-make-you-a-better-public-speaker-7fb3f047e2:0008-0074",
+      "source_id": "website-flo-blog-2023-02-09-how-watching-videos-can-make-you-a-better-public-speaker-7fb3f047e2",
+      "path": "website/flo-blog-2023-02-09-how-watching-videos-can-make-you-a-better-public-speaker.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The Truth about Communication Superpowers",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "communication superpowers"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 12
+      },
+      "quote": "Everybody has Communication Superpowers. Unfortunately, most people are not aware what their Superpowers are! Do you know what are your Communication Superpowers?",
+      "item_id": "website-flo-blog-2023-02-09-the-truth-about-communication-superpowers-md-4ef0a5d5db:0008-0012",
+      "source_id": "website-flo-blog-2023-02-09-the-truth-about-communication-superpowers-md-4ef0a5d5db",
+      "path": "website/flo-blog-2023-02-09-the-truth-about-communication-superpowers.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Add the right slides to your presentations",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "slide design"
+        },
+        {
+          "facet": "situation",
+          "label": "executive presentation"
+        },
+        {
+          "facet": "activity",
+          "label": "presenting to executives"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 32
+      },
+      "quote": "Dare to add more slides! 🤯 \"Why would I do that?\" \"For this executive presentation, you can have only three slides.\" I have heard and seen this horrible strategy so many times, and I don't know who came up with it, but I do know that it just doesn't make sense. How do you brief an executive with a professional presentation with a lot of information in a short amount of time with only three slides? In most cases, the executive looks at slides full of text, logos, and information. As a result, the",
+      "item_id": "website-flo-blog-2023-03-10-add-the-right-slides-to-your-presentations-md-490c53a36d:0008-0032",
+      "source_id": "website-flo-blog-2023-03-10-add-the-right-slides-to-your-presentations-md-490c53a36d",
+      "path": "website/flo-blog-2023-03-10-add-the-right-slides-to-your-presentations.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Watch other public speakers in action",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "learning from public speakers"
+        },
+        {
+          "facet": "situation",
+          "label": "fear of public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "speech analysis"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 100
+      },
+      "quote": "A lot of people dream about being great public speakers, confident presenters, and eloquent orators but the problem is that they don’t know where to start. Do you know the feeling of being overwhelmed with a task because it seems to be so gigantic that the very idea of starting this journey actually paralyzes you? A lot of people have a strong fear of public speaking, but deep down, they wish to become great speakers. The first step. I have a simple strategy that will lead to an almost effortles",
+      "item_id": "website-flo-blog-2023-03-10-how-watching-videos-can-make-you-a-better-public-speaker-7d14e878a9:0008-0100",
+      "source_id": "website-flo-blog-2023-03-10-how-watching-videos-can-make-you-a-better-public-speaker-7d14e878a9",
+      "path": "website/flo-blog-2023-03-10-how-watching-videos-can-make-you-a-better-public-speaker-1.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Be inspired to have fun on stage",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking mindset"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 24
+      },
+      "quote": "When I was on stage with Deepak Chopra MD (official) at Abu Dhabi Global Market (ADGM) Finance Week last year, he said something that really inspired me! “The greatest measure for success is fun.” As an entrepreneur, this inspired me to not just work, but also not to forget that I can have fun and that I can be in charge of my own schedule if I choose to. 👈🏽 As a public speaker, it inspired me even more because if you prepare yourself mentally, physically and, of course, intellectually to be rea",
+      "item_id": "website-flo-blog-2023-03-10-be-inspired-to-have-fun-on-stage-md-f4959492a5:0008-0024",
+      "source_id": "website-flo-blog-2023-03-10-be-inspired-to-have-fun-on-stage-md-f4959492a5",
+      "path": "website/flo-blog-2023-03-10-be-inspired-to-have-fun-on-stage.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Overcoming Stage Fright and Nervousness Through Repeated Exposure",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "stage fright"
+        },
+        {
+          "facet": "situation",
+          "label": "nervous and sweating on stage"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 30
+      },
+      "quote": "I did not die on stage, but I felt miserable. \"You’re not nervous when you speak on stage.\" That is what many people on the outside think when they see what I do. The truth is, there were times I had public speaking engagements where I was terrified and nervous on stage. 😬 I remember one event in Dubai when I was already nervous because it was my first opportunity with a large organization that promised to give me a lot of future business if I did well. This opportunity already made me nervous, ",
+      "item_id": "website-flo-blog-2023-03-10-i-did-no-die-on-stage-but-i-felt-miserable-md-5b3f1b8783:0008-0030",
+      "source_id": "website-flo-blog-2023-03-10-i-did-no-die-on-stage-but-i-felt-miserable-md-5b3f1b8783",
+      "path": "website/flo-blog-2023-03-10-i-did-no-die-on-stage-but-i-felt-miserable.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Be a memorable presenter",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "memorable presenting"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 26
+      },
+      "quote": "You are just full of yourself, aren’t you? Isn’t this for you? Some of the first thoughts that pop into your mind when you read my quote “as a presenter it is your job to be memorable”. It definitely came to mind a few years ago when I first came across the philosophy that a presenter should be memorable! Why? Shouldn’t it be all about the content? 🤔 I will challenge anyone on this point at any given time. 💥 Yes, your content has to be the main focus of your presentation speech or talk. Your con",
+      "item_id": "website-flo-blog-2023-03-10-be-a-memorable-presenter-md-9ecf0fae79:0008-0026",
+      "source_id": "website-flo-blog-2023-03-10-be-a-memorable-presenter-md-9ecf0fae79",
+      "path": "website/flo-blog-2023-03-10-be-a-memorable-presenter.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Does audience size matter?",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking mindset"
+        },
+        {
+          "facet": "situation",
+          "label": "speaking to large audiences"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 26
+      },
+      "quote": "What is the difference between speaking in front of 10, 1 000 or 10 000 people? 😬 The difference exists mainly in your head. 👈🏽 Of course, the size of the audience has an impact on the tools that you use, the microphone, the audio system, the lights, and the technology used - all of this changes as the size of the event or stage changes. ✅ But at the end of the day, what many people tend to forget is that whether you're speaking to 1, 10, 1 000 or 10 000 people, you are speaking to people. 💯 You",
+      "item_id": "website-flo-blog-2023-03-10-does-audience-size-matter-md-2379f5e3c2:0008-0026",
+      "source_id": "website-flo-blog-2023-03-10-does-audience-size-matter-md-2379f5e3c2",
+      "path": "website/flo-blog-2023-03-10-does-audience-size-matter.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Delete the part of the story that is only merely entertaining!",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "editing speech content"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 23
+      },
+      "quote": "1. Delete the part of the story that is only merely entertaining!",
+      "item_id": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90:0022-0023",
+      "source_id": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90",
+      "path": "website/flo-blog-2023-03-10-fewer-words-with-a-bigger-impact.md",
+      "prev": null,
+      "next": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90:0024-0025"
+    },
+    {
+      "title": "Delete the statistic parts, which are way too complicated, anyway!",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "simplifying presentation data"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 24,
+        "end_line": 25
+      },
+      "quote": "2. Delete the statistic parts, which are way too complicated, anyway!",
+      "item_id": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90:0024-0025",
+      "source_id": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90",
+      "path": "website/flo-blog-2023-03-10-fewer-words-with-a-bigger-impact.md",
+      "prev": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90:0022-0023",
+      "next": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90:0026-0034"
+    },
+    {
+      "title": "Delete data heavy sections, which even you have a tough time understanding.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "concise messaging"
+        },
+        {
+          "facet": "activity",
+          "label": "script editing"
+        }
+      ],
+      "span": {
+        "start_line": 26,
+        "end_line": 34
+      },
+      "quote": "3. Delete data heavy sections, which even you have a tough time understanding. Instead, go back to your outline, review it, and focus on the essentials. The best advice anyone can give is the wisdom of professional movie producers, editors, and writers, who live and breathe the following rule: Kill your darlings. Jerry Seinfeld is a great comedian and a great communicator and he gave a great lecture on communication when he said, “I will spend an hour taking an eight-word sentence and editing it",
+      "item_id": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90:0026-0034",
+      "source_id": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90",
+      "path": "website/flo-blog-2023-03-10-fewer-words-with-a-bigger-impact.md",
+      "prev": "website-flo-blog-2023-03-10-fewer-words-with-a-bigger-impact-md-b7ebe68e90:0024-0025",
+      "next": null
+    },
+    {
+      "title": "Dealing with stage fright",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "stage fright"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        },
+        {
+          "facet": "situation",
+          "label": "feeling nervous on stage"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 20
+      },
+      "quote": "Isn’t it amazing the difference between what you rehearse in your head by yourself in front of the mirror and what happens on stage. Very often we have this amazing idea in our heads and we want to be impactful and expressive but when we’re on the stage facing the audience, we tend to make ourselves smaller, a lot smaller than we actually thought. ✅ Giving presentations can be nerve-wracking, especially when you've done all the preparation and practice and it falls apart when you get on the stag",
+      "item_id": "website-flo-blog-2023-03-10-stage-fright-md-2b4d2dd90e:0008-0020",
+      "source_id": "website-flo-blog-2023-03-10-stage-fright-md-2b4d2dd90e",
+      "path": "website/flo-blog-2023-03-10-stage-fright.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The power of silence",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "pausing in public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 34
+      },
+      "quote": "Speech is silver, silence is golden. 🤫 Gulf News Thanks for featuring my article. The power of the pause, the power of silence, is something that gets you far not only with public speaking but literally in life in general. 💯 Enjoy diving into my views and experience on using silence in your presentation and public speaking and the impact it can have on your messages - Public speaking requires a clear understanding when best to deliver a silence or a pause. 👈🏽 I also suggest a second tool to help",
+      "item_id": "website-flo-blog-2023-03-10-the-power-of-silence-md-afde5e4d86:0008-0034",
+      "source_id": "website-flo-blog-2023-03-10-the-power-of-silence-md-afde5e4d86",
+      "path": "website/flo-blog-2023-03-10-the-power-of-silence.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Techniques to feel more confident when you're nervous and anxious",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking anxiety"
+        },
+        {
+          "facet": "situation",
+          "label": "nervousness before presentations"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 38
+      },
+      "quote": "How can you get over the initial nervousness and anxiety when delivering presentations and public speaking engagements? Public speaking is a scary task. But here is the truth: the first time is always the most difficult one. 👈🏽 When you step onto the stage and start speaking, it is the first couple of seconds, minutes, or moments that are the toughest ones. But once you get over them, it gets better and better and better. 💯 There are many techniques you can apply to feel more confident and relax",
+      "item_id": "website-flo-blog-2023-03-10-techniques-to-feel-more-confident-md-ee31726e92:0008-0038",
+      "source_id": "website-flo-blog-2023-03-10-techniques-to-feel-more-confident-md-ee31726e92",
+      "path": "website/flo-blog-2023-03-10-techniques-to-feel-more-confident.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The audience doesn't want you to FAIL!",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "fear of public speaking"
+        },
+        {
+          "facet": "situation",
+          "label": "hesitating to deliver an important presentation due to fear of failure"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 24
+      },
+      "quote": "‘Naaaah!!! I do not want to deliver this important presentation because I could fail…’ Is this you? First of all you need to be kind to yourself because even some of the best speakers were once trapped in this mindset. 🤯 But I have good news… The audience doesn’t want you to FAIL!!! 💯 I have realized that the fear of failure has stopped really smart and talented professionals from putting themselves out there. 😞 The next time you have the opportunity to deliver a presentation, speak in front of ",
+      "item_id": "website-flo-blog-2023-03-10-the-audience-doesnt-want-you-to-fail-md-b7cbf033fc:0008-0024",
+      "source_id": "website-flo-blog-2023-03-10-the-audience-doesnt-want-you-to-fail-md-b7cbf033fc",
+      "path": "website/flo-blog-2023-03-10-the-audience-doesnt-want-you-to-fail.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Overcoming Fear of Public Speaking Through Authenticity and Bravery",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "overcoming stage fright"
+        },
+        {
+          "facet": "situation",
+          "label": "nervousness and anxiety before presenting"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 24
+      },
+      "quote": "Public speaking feels to some like jumping out of a plane 🛩 Unfortunately, many people feel uncomfortable when they have to deliver a presentation or a speech. It's not easy to overcome your nervousness and anxiety right before stepping onto the stage. Fear of public speaking can be overcome! But remember this: as a speaker, your authenticity, uniqueness, and superpowers are like a parachute. They'll make your words land with impact 🪂 So all you got to do is find a way to be YOU! It is truly abo",
+      "item_id": "website-flo-blog-2023-10-03-fear-of-public-speaking-sometimes-feels-like-jumping-out-45426fe8e3:0008-0024",
+      "source_id": "website-flo-blog-2023-10-03-fear-of-public-speaking-sometimes-feels-like-jumping-out-45426fe8e3",
+      "path": "website/flo-blog-2023-10-03-fear-of-public-speaking-sometimes-feels-like-jumping-out-of-a-plane.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Overcoming the fear of being in front of the camera",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "on-camera confidence"
+        },
+        {
+          "facet": "situation",
+          "label": "fear of speaking to a camera"
+        },
+        {
+          "facet": "activity",
+          "label": "video presentation"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 18
+      },
+      "quote": "Do you hate being in front of the camera? 👀 🎬 Being in front of a camera can be challenging. But let me share a secret to help you ease into it 👇🏽 When looking into the camera lens, imagine you are talking to a friend and start your conversation with a genuine, heartwarming smile – just like you would if you were chatting with them face to face 👥 Talking to a camera, especially in a professional context, can feel intimidating. Once that recording is done, it might find its way onto the internet,",
+      "item_id": "website-flo-blog-2023-11-05-being-in-front-of-the-camera-can-be-scary-md-18fa7d8e6e:0008-0018",
+      "source_id": "website-flo-blog-2023-11-05-being-in-front-of-the-camera-can-be-scary-md-18fa7d8e6e",
+      "path": "website/flo-blog-2023-11-05-being-in-front-of-the-camera-can-be-scary.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Embrace the 'bad' to achieve the 'best'",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "overcoming performance anxiety"
+        },
+        {
+          "facet": "situation",
+          "label": "feeling nervous before public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 20
+      },
+      "quote": "We all know how challenging giving our first presentation can be. How nervous we can get before an interview or speech. And even anxious right before being on camera 😵‍💫 And guess what? That's perfectly okay! 👉🏽 Why? Because behind every seasoned expert was once a beginner who faced their 'bad' head-on, learned, and transformed 💥 Remember, our first attempt isn't the destination; it's the launchpad for growth! Embrace the 'bad' to achieve the 'best'. - Flo Akinbiyi",
+      "item_id": "website-flo-blog-2024-01-09-embrace-the-bad-to-achieve-the-best-md-6f3b47b641:0008-0020",
+      "source_id": "website-flo-blog-2024-01-09-embrace-the-bad-to-achieve-the-best-md-6f3b47b641",
+      "path": "website/flo-blog-2024-01-09-embrace-the-bad-to-achieve-the-best.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Don't turn down a panel discussion or speaking opportunity",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "panel discussions"
+        },
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "situation",
+          "label": "invited to speak at a panel discussion"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 30
+      },
+      "quote": "Have you ever been invited to speak at a panel discussion ? Here are 3 reasons why you should never turn down an invitation to speak. 🗣 Every speaking opportunity creates opportunities for you because you are amplifying your messages to a wider audience. 🤩 💫 Panel discussions are a great way to expand your network, during the preparation and speaking you get to know the Moderator and other speakers who are all seasoned experts. The invite recognizes the work that you have put into your career an",
+      "item_id": "website-flo-blog-2024-01-09-don-t-turn-down-a-panel-discussion-or-speaking-opportunit-3f05ce457d:0008-0030",
+      "source_id": "website-flo-blog-2024-01-09-don-t-turn-down-a-panel-discussion-or-speaking-opportunit-3f05ce457d",
+      "path": "website/flo-blog-2024-01-09-don-t-turn-down-a-panel-discussion-or-speaking-opportunity.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Don't Speak in a Monotone Voice",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "voice modulation"
+        },
+        {
+          "facet": "activity",
+          "label": "business presentations"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 20
+      },
+      "quote": "This is one of the worst mistakes in business presentations- speaking with a monotone voice. 😱 People underestimate the damage a monotone voice can do to their content, delivery and personal brand. Why❓ When you speak with a monotone voice, people are not engaged, not interested and very likely to be thinking about something completely different from the subject you are presenting. All you've got to do is learn voice modulation. 📈🗣️🎙️ Voice modulation allows you to transfer confidence, competenc",
+      "item_id": "website-flo-blog-2024-01-09-speaking-in-a-monotone-voice-md-5ab3907403:0008-0020",
+      "source_id": "website-flo-blog-2024-01-09-speaking-in-a-monotone-voice-md-5ab3907403",
+      "path": "website/flo-blog-2024-01-09-speaking-in-a-monotone-voice.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Be kind to yourself as a Public Speaker",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "self-compassion"
+        },
+        {
+          "facet": "situation",
+          "label": "suboptimal performance due to lack of sleep and preparation"
+        },
+        {
+          "facet": "activity",
+          "label": "video recording"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 26
+      },
+      "quote": "Being a public speaker has taught me to be kind to myself ✨ I recently recorded a few educational videos in studio 🎙 I have to say, honestly, that I was not at my best. I didn't sleep enough, which for me is getting less than 6 hours. I didn't have enough to prepare as well as I wanted. I had a busy and rather stressful morning, being a single parent, as my wife was travelling. Hats off to all the single parents out there! I had to rush to my son's school to see his winter concert, which I loooo",
+      "item_id": "website-flo-blog-2024-02-01-be-kind-to-yourself-as-a-public-speaker-md-dbaa85fe82:0008-0026",
+      "source_id": "website-flo-blog-2024-02-01-be-kind-to-yourself-as-a-public-speaker-md-dbaa85fe82",
+      "path": "website/flo-blog-2024-02-01-be-kind-to-yourself-as-a-public-speaker.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Memorable Introductions",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "self-introduction"
+        },
+        {
+          "facet": "situation",
+          "label": "networking event"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 42
+      },
+      "quote": "Public speaking is more than just the big stage 🎤 ⬇️ When you introduce yourself to a group of strangers at a networking event, for example, you should have your content ready and deliver it in a memorable way. Thanks to my job as a presenter, I get to meet many people. Unfortunately, I don't always remember who I shook hands with 🤝 📷 taken at Bits & Pretzels HealthTech 2023. I’m shaking hands with the CEO and co-founder Plug and Play Tech Center , Saeed Amidi 🙌🏽 Let me say this loud and clear: ",
+      "item_id": "website-flo-blog-2023-11-01-memorable-introductions-md-d13bbbe378:0008-0042",
+      "source_id": "website-flo-blog-2023-11-01-memorable-introductions-md-d13bbbe378",
+      "path": "website/flo-blog-2023-11-01-memorable-introductions.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Do you focus enough on the big picture?",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "content curation"
+        },
+        {
+          "facet": "topic",
+          "label": "editing presentations"
+        },
+        {
+          "facet": "activity",
+          "label": "presentation preparation"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 26
+      },
+      "quote": "Many presentations, speeches, and talks take a lot more time than required. Why is that Flo? Because the presenter is not curating his content enough. Instead of focusing on the big picture, the presenter goes down to a level of detail that is not relevant for everyone in the audience. What you want to do is: Focus on the big picture Evaluate which details are required Be a harsh editor and cut content that is not relevant Jerry Seinfeld says, “I will spend an hour taking an eight-word sentence ",
+      "item_id": "website-flo-blog-2023-02-09-do-you-focus-enough-on-the-big-picture-md-74f2f49e04:0008-0026",
+      "source_id": "website-flo-blog-2023-02-09-do-you-focus-enough-on-the-big-picture-md-74f2f49e04",
+      "path": "website/flo-blog-2023-02-09-do-you-focus-enough-on-the-big-picture.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Find inspiration in the every day",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "everyday inspiration and gratitude"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 18
+      },
+      "quote": "Inspiration can be found anywhere and in the most unexpected places! ✨ And when inspiration hits, we get moments of perspective. I love these moments. For me, it's about appreciating the little things. About being present and mindful, which can inspire gratitude. Gratitude grounds us in what truly matters. The people we love, the memories we've made, and the challenges we've overcome have shaped us. Reflecting on our accomplishments, no matter how small, and acknowledging those who supported us ",
+      "item_id": "website-flo-blog-2024-02-07-find-inspiration-in-the-every-day-md-2aac7375ac:0008-0018",
+      "source_id": "website-flo-blog-2024-02-07-find-inspiration-in-the-every-day-md-2aac7375ac",
+      "path": "website/flo-blog-2024-02-07-find-inspiration-in-the-every-day.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Public Speaking in front of an audience - big or small",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "communication delivery"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 16
+      },
+      "quote": "What do you picture when you hear public speaking? A large stage and a massive audience? Or a meeting room with your management? 🤔 Public speaking skills aren't just for addressing huge audiences; they're essential in various aspects of your professional and personal life. From boardroom presentations to everyday team meetings, from virtual presentations to speaking on the stage, opportunities to communicate effectively are everywhere! Whether you're in the spotlight on a massive stage, sharing ",
+      "item_id": "website-flo-blog-2024-02-16-public-speaking-in-front-of-an-audience-big-or-small-md-8c88656b68:0008-0016",
+      "source_id": "website-flo-blog-2024-02-16-public-speaking-in-front-of-an-audience-big-or-small-md-8c88656b68",
+      "path": "website/flo-blog-2024-02-16-public-speaking-in-front-of-an-audience-big-or-small.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Handling mistakes on stage as a speaker",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking mistakes"
+        },
+        {
+          "facet": "situation",
+          "label": "tripping over words on stage"
+        },
+        {
+          "facet": "activity",
+          "label": "keynote presentation"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 28
+      },
+      "quote": "Even as a professional speaker and presenter on international stages, I still sometimes get upset when I trip over a word ❗️ Here's the truth: Mistakes are part of the journey! 💯 And I have noticed many times that NOBODY in the audience cares or picks up on a little error. They care about your content, your energy and your delivery, and they have no problem with you being a human on stage – because you are! Mistakes happen to everybody, and rather than being mad at yourself, embrace those moment",
+      "item_id": "website-flo-blog-2024-02-20-mistakes-on-stage-as-a-professional-speaker-md-40d153a97d:0008-0028",
+      "source_id": "website-flo-blog-2024-02-20-mistakes-on-stage-as-a-professional-speaker-md-40d153a97d",
+      "path": "website/flo-blog-2024-02-20-mistakes-on-stage-as-a-professional-speaker.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Use pauses strategically!",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "pausing and silence in public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 24
+      },
+      "quote": "A pause ⏸ used strategically can take your public speaking to a new dimension! Sometimes, silence is seen as an awkward social experience. But, on stage and in front of an audience, silence isn't just empty space... It's a powerful tool that can be used in many ways to assist you in being a better speaker and help you create memorable moments. 💨 Embracing silence to take a deep breath gives you, the speaker, a chance to pause and re-oxygenate, infusing your blood and brain with fresh oxygen. It'",
+      "item_id": "website-flo-blog-2024-02-29-use-pauses-strategically-md-895ee85d67:0008-0024",
+      "source_id": "website-flo-blog-2024-02-29-use-pauses-strategically-md-895ee85d67",
+      "path": "website/flo-blog-2024-02-29-use-pauses-strategically.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Boost your energy while on stage",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "stage energy management"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        },
+        {
+          "facet": "situation",
+          "label": "feeling overwhelmed before a speech"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 20
+      },
+      "quote": "How can you boost your energy when you're about to speak on stage? When you deliver a speech on a big stage or give an important presentation, it is important that your energy level is set right ✅ The truth is that sometimes life is tough; we get dragged down by fights or discussions with other people, the news or overwhelmed with everything that is happening around us. But you need to leave all of this behind when you step onto the big stage and focus on delivering to the best of your abilities",
+      "item_id": "website-flo-blog-2024-03-05-boost-your-energy-while-on-stage-md-734a7ecaf6:0008-0020",
+      "source_id": "website-flo-blog-2024-03-05-boost-your-energy-while-on-stage-md-734a7ecaf6",
+      "path": "website/flo-blog-2024-03-05-boost-your-energy-while-on-stage.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Impactful stage moments",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "stage presence"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 24
+      },
+      "quote": "Never underestimate the possible impact you can have when you step onto the stage. Remember, public speaking is not just about your content... It's also about YOU as a speaker. It's about your authentic and unique ideas, personality, and expertise that come to life in front of your audience! 🚀 When I'm on stage, I am grateful to connect with the audience and share my energy with them, building excitement as their host and presenter 🤩 🔑 Here are some key pointers for your stage journey: 1️⃣ Dare ",
+      "item_id": "website-flo-blog-2024-03-21-impactful-stage-moments-md-026fd2e579:0008-0024",
+      "source_id": "website-flo-blog-2024-03-21-impactful-stage-moments-md-026fd2e579",
+      "path": "website/flo-blog-2024-03-21-impactful-stage-moments.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Overcoming the Fear of Being in Front of the Camera",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "camera confidence"
+        },
+        {
+          "facet": "situation",
+          "label": "fear of speaking to camera"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 16
+      },
+      "quote": "Being in front of a camera can be challenging. But let me share a secret to help you ease into it. When looking into the camera lens, imagine you are talking to a friend and start your conversation with a genuine, heartwarming smile – just like you would if you were chatting with them face to face 👥 Talking to a camera, especially in a professional context, can feel intimidating. Once that recording is done, it might find its way onto the internet, where it can exist forever! Therefore, you've g",
+      "item_id": "website-flo-blog-2024-03-15-as-a-public-speaker-do-you-hate-being-in-front-of-the-cam-ea348f86ac:0008-0016",
+      "source_id": "website-flo-blog-2024-03-15-as-a-public-speaker-do-you-hate-being-in-front-of-the-cam-ea348f86ac",
+      "path": "website/flo-blog-2024-03-15-as-a-public-speaker-do-you-hate-being-in-front-of-the-camera.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Elevate Your Presentations",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking and presentations"
+        },
+        {
+          "facet": "activity",
+          "label": "course overview"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 28
+      },
+      "quote": "About Program In this program, I show you strategies, tools and hacks used by world-class leaders that do not only work but make a real impact. Learn from BARACK OBAMA, ARNOLD SCHWARZENEGGER, SHEIKH MOHAMMED BIN RASHID AL MAKTOUM, TONY ROBBINS, and STEVE JOBS. Overview Course Introduction 2 steps How to deliver a powerful opening by Barack Obama 2 steps Deliver a memorable closing by Sheikh Mohammed 2 steps Load more Unlock Access Now!",
+      "item_id": "website-flo-page-2024-09-06-elevateyourpresentation-md-08601eb2ae:0008-0028",
+      "source_id": "website-flo-page-2024-09-06-elevateyourpresentation-md-08601eb2ae",
+      "path": "website/flo-page-2024-09-06-elevateyourpresentation.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Expressive public speaking and presentation skills",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "non-verbal communication"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 24
+      },
+      "quote": "Why is it good to be expressive while public speaking and delivering a presentation? 💥 There are multiple research findings that speak about the importance of non-verbal language. Your voice has the power to communicate competence, passion, and confidence 💪🏽 Your body language can create a powerful human connection, engage the audience and make your communication more effective. And that is a simple reason why you should not speak with a monotone voice 📣 👉🏽 Why you should smile and not present w",
+      "item_id": "website-flo-blog-2024-01-09-expressive-public-speaking-and-presentation-skills-md-c255d76570:0008-0024",
+      "source_id": "website-flo-blog-2024-01-09-expressive-public-speaking-and-presentation-skills-md-c255d76570",
+      "path": "website/flo-blog-2024-01-09-expressive-public-speaking-and-presentation-skills.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Speak, Engage, Present: The ABCs of Winning Communication",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking and presentation skills"
+        },
+        {
+          "facet": "activity",
+          "label": "online course"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 40
+      },
+      "quote": "About Program Get the job you always wanted, win new clients, and improve your life through the power of communication in only 45 days. ‘Speak, Engage, Present!’ This online course teaches you the ABCs of a winning communication. It doesn't matter if you don't have any skills or previous experience. Everything you need to know is provided step-by-step in this online course. In this course, you will: Improve your communication game in only 45 days. Deliver winning presentations, meetings, and spe",
+      "item_id": "website-flo-page-2025-10-08-speak-engage-present-course-md-954e26a88b:0008-0040",
+      "source_id": "website-flo-page-2025-10-08-speak-engage-present-course-md-954e26a88b",
+      "path": "website/flo-page-2025-10-08-speak-engage-present-course.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "SPEAK, ENGAGE, PRESENT: The ABC’s of Winning Communication",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "communication skills"
+        },
+        {
+          "facet": "topic",
+          "label": "presentation skills"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 42
+      },
+      "quote": "Presentations Falling Flat? Struggling to Captivate? Losing Deals? In today's competitive world... Average communication won't cut it. Transform Your Communication Skills in 45 Days! Presentations Falling Flat? Struggling to Captivate? Losing Deals? In today's competitive world... Average communication won't cut it. I AM FLO I am a Speaker, MC and Communication Expert with a background in experiential marketing. I have worked with more than 150 of the world's most successful brands, delivered hu",
+      "item_id": "website-flo-page-2026-11-09-about-3-md-0353be71b7:0008-0042",
+      "source_id": "website-flo-page-2026-11-09-about-3-md-0353be71b7",
+      "path": "website/flo-page-2026-11-09-about-3.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "About Flo",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "presentation coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 105
+      },
+      "quote": "\"SHOW THE WORLD WHO YOU ARE EVEN IF YOUR VOICE IS SHAKING.\" As a public speaker, it's easy to fall into the trap of trying to be someone you're not. But showing the world who you are is what sets you apart from the rest. Your unique perspective, voice and personal experiences have the potential to make a real impact on your audience. Be authentic, be vulnerable, and always be prepared. THE POWER OF YOUR SPEAKING LIES IN YOUR ABILITY TO SPEAK YOUR TRUTH WITH CONFIDENCE AND CONVICTION. SHARE YOUR ",
+      "item_id": "website-flo-page-2026-11-09-about-flo-md-d0635462e1:0008-0105",
+      "source_id": "website-flo-page-2026-11-09-about-flo-md-d0635462e1",
+      "path": "website/flo-page-2026-11-09-about-flo.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Step 1: Create a Vision for Yourself",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "goal setting"
+        },
+        {
+          "facet": "situation",
+          "label": "stage fright"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 14,
+        "end_line": 19
+      },
+      "quote": "Step 1: Create a Vision for Yourself You need a goal, and you've got to be a little bold about it. If you want to be someone who can speak in front of an audience, set that target. Maybe it's delivering a presentation to your boss, giving a TED Talk, or performing in a theatre - whatever it is, define it clearly. Once you have that goal, you can break it down. What are the steps you need to take to get there? That clarity is everything.",
+      "item_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0014-0019",
+      "source_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62",
+      "path": "website/flo-blog-2026-06-01-how-do-i-overcome-stage-fright.md",
+      "prev": null,
+      "next": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0020-0029"
+    },
+    {
+      "title": "Step 2: Focus on Your Superpowers",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "personal strengths"
+        },
+        {
+          "facet": "situation",
+          "label": "stage fright"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 29
+      },
+      "quote": "Step 2: Focus on Your Superpowers Understand what you're great at. Everyone is unique. Everyone has strengths. And when you know yours, you can weave them into your communication, and that is truly powerful. For me, one of my superpowers is my look. Yes, the Afro. You might think, \"What's so special about that?\" But let's be honest, some companies have hired me partly because of my appearance. We can debate whether that's the \"right\" reason to get hired, but here's my take: it puts money in my p",
+      "item_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0020-0029",
+      "source_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62",
+      "path": "website/flo-blog-2026-06-01-how-do-i-overcome-stage-fright.md",
+      "prev": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0014-0019",
+      "next": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0030-0039"
+    },
+    {
+      "title": "Step 3: Bravery Training",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "building confidence"
+        },
+        {
+          "facet": "situation",
+          "label": "fear of public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 30,
+        "end_line": 39
+      },
+      "quote": "Step 3: Bravery Training If you want to grow in the areas of communication, presentations, and public speaking, and you want to overcome stage fright, then you should work on becoming a more confident and, yes, a little braver person. What could that look like? If you've never jumped out of a plane, try skydiving. If you're afraid of heights, start climbing - it's very safe with a harness and ropes, but you still have to face that fear. Maybe try bungee jumping. The point is to do something that",
+      "item_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0030-0039",
+      "source_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62",
+      "path": "website/flo-blog-2026-06-01-how-do-i-overcome-stage-fright.md",
+      "prev": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0020-0029",
+      "next": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0040-0063"
+    },
+    {
+      "title": "Step 4: Manage Your Anxiety",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "anxiety management"
+        },
+        {
+          "facet": "situation",
+          "label": "stage fright"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 63
+      },
+      "quote": "Step 4: Manage Your Anxiety This is where we specifically work on your stage fright. First, you need to understand that every person is different, which is exactly why I've collected a list of over 30 different techniques drawn from research, conversations, and my own experience. These techniques fall into three brackets. The days and weeks before the event. In the lead-up, you want to regularly practise things like manifestation, telling yourself that you will be successful during the speaking ",
+      "item_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0040-0063",
+      "source_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62",
+      "path": "website/flo-blog-2026-06-01-how-do-i-overcome-stage-fright.md",
+      "prev": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0030-0039",
+      "next": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0064-0073"
+    },
+    {
+      "title": "Step 5: Practise and Prepare",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "presentation preparation"
+        },
+        {
+          "facet": "situation",
+          "label": "imposter syndrome"
+        },
+        {
+          "facet": "activity",
+          "label": "presentation design"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 73
+      },
+      "quote": "Step 5: Practise and Prepare This is a key step. I once worked with a student whose stage fright was so severe he couldn't sleep before a presentation. When I assessed his work and saw the state of his slides, I understood the problem immediately. He showed me his classmate's presentation, the benchmark, and then showed me his own. He knew his work wasn't up to standard. And that's the thing: how can you feel great about presenting something you know isn't fantastic? You're sabotaging yourself. ",
+      "item_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0064-0073",
+      "source_id": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62",
+      "path": "website/flo-blog-2026-06-01-how-do-i-overcome-stage-fright.md",
+      "prev": "website-flo-blog-2026-06-01-how-do-i-overcome-stage-fright-md-22a019cb62:0040-0063",
+      "next": null
+    },
+    {
+      "title": "AVP Technology for Coaches",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Acoustic Voice Profiling"
+        },
+        {
+          "facet": "topic",
+          "label": "voice coaching technology"
+        },
+        {
+          "facet": "activity",
+          "label": "coaching partnership"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- title: \"AVP Technology for Coaches\" url: \"https://www.flo-akinbiyi.com/avp-technology-for-coaches\" date: \"2026-11-09\" source: website --- DISTRIBUTOR FOR ACOUSTIC VOICE PROFILING® TECHNOLOGY Empowering Coaches to Elevate Communication Through the Science of the Voice Discover how it works TRANSFORM HOW YOUR CLIENTS SOUND, CONNECT, AND LEAD WELCOME TO THE FUTURE OF VOICE-BASED COACHING As a Certified Distributor for Acoustic Voice Profiling® Technology , I help communication coaches, leadersh",
+      "item_id": "website-flo-page-2026-11-09-avp-technology-for-coaches-md-769a7666ec:0001-0100",
+      "source_id": "website-flo-page-2026-11-09-avp-technology-for-coaches-md-769a7666ec",
+      "path": "website/flo-page-2026-11-09-avp-technology-for-coaches.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Corporate Communication and Public Speaking Coaching Programs",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "topic",
+          "label": "presentation skills"
+        },
+        {
+          "facet": "activity",
+          "label": "executive coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 78
+      },
+      "quote": "GREAT COMMUNICATORS DRIVE GREAT BUSINESS RESULTS Great companies have great leaders, and great leaders are great communicators. As an international Communication Coach, I have had the pleasure of working with many multinational corporations and government entities in the Middle East and creating relationships with clients from Europe, Asia, Africa and the US. I am passionate about empowering organizations, teams and individuals through workshops, keynotes, inspiration sessions and executive one-",
+      "item_id": "website-flo-page-2026-11-09-corporate-md-b114cc3482:0008-0078",
+      "source_id": "website-flo-page-2026-11-09-corporate-md-b114cc3482",
+      "path": "website/flo-page-2026-11-09-corporate.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Unlocking Success Through Public Speaking and Communication Coaching",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking skills"
+        },
+        {
+          "facet": "activity",
+          "label": "communication coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 106
+      },
+      "quote": "GREAT LEADERS ARE GREAT COMMUNICATORS Oprah Winfrey, Steve Jobs and Barack Obama are some of the greatest speakers. And they all have one thing in common: They know that outstanding communication is essential for achieving success. The way you speak and the words you use have a tremendous impact on your everyday life. As a communication coach, I work with organizations, teams and individuals to tap into their unique superpowers, unlocking their full potential and achieving greatness in every int",
+      "item_id": "website-flo-page-2026-11-09-communication-coach-md-6e4d87777e:0008-0106",
+      "source_id": "website-flo-page-2026-11-09-communication-coach-md-6e4d87777e",
+      "path": "website/flo-page-2026-11-09-communication-coach.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Elevate Your Presentations",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "presentation skills training"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 89
+      },
+      "quote": "Elevate Your Presentations with 5 public speaking strategies from world-class leaders. Join My Free Program In this program, I show you strategies, tools, and hacks used by world-class leaders that do not only work but make a real impact. Learn from BARACK OBAMA, ARNOLD SCHWARZENEGGER, SHEIKH MOHAMMED BIN RASHID AL MAKTOUM, TONY ROBBINS, and STEVE JOBS Elevate Your Communication Skills Today! DON’T SETTLE FOR AVERAGE WHEN YOU CAN BE GREAT Join this free program and learn 5 simple but highly effe",
+      "item_id": "website-flo-page-2026-11-09-elevate-your-presentations-md-52a75a481f:0008-0089",
+      "source_id": "website-flo-page-2026-11-09-elevate-your-presentations-md-52a75a481f",
+      "path": "website/flo-page-2026-11-09-elevate-your-presentations.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Executive One-on-one Communication Coaching",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "executive presence"
+        },
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "executive coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 103
+      },
+      "quote": "GREAT COMMUNICATORS INSPIRE THEIR AUDIENCE As an international Keynote Speaker and Communication Coach, I help individuals master the skills needed to deliver powerful keynotes, command any stage, and unlock new opportunities. Through personalized coaching, we’ll elevate your storytelling, sharpen your delivery, and turn your ideas into unforgettable moments through Human-first Communication. Explore executive coaching with Flo \"TODAY I PRESENTED OUR PROJECT TO HH SHEIKH MOHAMMED BIN RASHED AL M",
+      "item_id": "website-flo-page-2026-11-09-executive-one-on-one-coaching-md-8f8949b67b:0008-0103",
+      "source_id": "website-flo-page-2026-11-09-executive-one-on-one-coaching-md-8f8949b67b",
+      "path": "website/flo-page-2026-11-09-executive-one-on-one-coaching.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Flo.AI - Your AI Presenter & Communication Coach",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI presenter and communication coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 18
+      },
+      "quote": "Welcome to Flo.ai, the cutting-edge solution transforming the world of communication and event hosting. Created by renowned communication coach and presenter Flo Akinbiyi. Flo.ai embodies the future of effective and captivating interactions across the globe. Let's make every moment unforgettable. START YOUR JOURNEY INTO WINNING COMMUNICATION",
+      "item_id": "website-flo-page-2026-11-09-flo-ai-md-085dafdbe3:0008-0018",
+      "source_id": "website-flo-page-2026-11-09-flo-ai-md-085dafdbe3",
+      "path": "website/flo-page-2026-11-09-flo-ai.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Inspiring Audiences Across Global Industries",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "event hosting and keynote speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "master of ceremonies"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 78
+      },
+      "quote": "INSPIRING AUDIENCES AT THE FOREFRONT OF GLOBAL INDUSTRY As an international presenter, communication coach, and keynote speaker, I’ve had the privilege of working with leaders, brands, and innovators across a wide range of fields — from groundbreaking tech and life-changing medical advancements to automotive excellence and disruptive start-ups. Regardless of the industry, I deliver dynamic and memorable communication that resonates with audiences and motivates them to take action. Industries Flo",
+      "item_id": "website-flo-page-2026-11-09-industries-md-b2ce7c5afb:0008-0078",
+      "source_id": "website-flo-page-2026-11-09-industries-md-b2ce7c5afb",
+      "path": "website/flo-page-2026-11-09-industries.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "One-on-One Communication Coaching & Public Speaking Strategies",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "communication coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 107
+      },
+      "quote": "GREAT COMMUNICATORS INSPIRE THEIR AUDIENCE Great communicators are great storytellers who can turn strangers into friends. As an international Communication Coach, I have had the pleasure of working with many people who want to take their communication skills to the next level. Whether for an important presentation, a keynote or to develop your career path, I am passionate about empowering you through one-on-one communication coaching. Let's work together to unlock your potential and create a po",
+      "item_id": "website-flo-page-2026-11-09-individual-md-83f31dde58:0008-0107",
+      "source_id": "website-flo-page-2026-11-09-individual-md-83f31dde58",
+      "path": "website/flo-page-2026-11-09-individual.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "International Presenter & Communication Coach",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "communication coaching"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- title: \"Flo Akinbiyi | International Presenter & Communication Coach (/home)\" url: \"https://www.flo-akinbiyi.com/home\" date: \"2026-11-09\" source: website --- INTERNATIONAL COMMUNICATION COACH AND PRESENTER Whether it is presenting on stage or coaching behind-the-scenes professionals, I get out of bed to connect with your audience and guide you towar ds mastering the art of impactful public speaking Trusted by international brands and organisations , I strive to inspire and create memorable e",
+      "item_id": "website-flo-page-2026-11-09-home-page-md-c3f989a7e1:0001-0100",
+      "source_id": "website-flo-page-2026-11-09-home-page-md-c3f989a7e1",
+      "path": "website/flo-page-2026-11-09-home-page.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Inspire your team with a memorable end-of-year speech",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "webinar"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 74
+      },
+      "quote": "Inspire your team with a memorable end-of-year speech 4 December 2023 Join me for a FREE webinar END-OF-YEAR SPEECHES ARE MORE THAN JUST WORDS; THEY ARE AN OPPORTUNITY TO CONNECT, REFLECT, INSPIRE, AND MOTIVATE. Join Flo for an engaging and thought-provoking webinar where he will explore communication techniques and tools for speeches, the power of storytelling, and the art of audience engagement to help you create and deliver speeches that resonate with your audience. Whether you're addressing ",
+      "item_id": "website-flo-page-2026-11-09-memorable-speeches-md-fce31abffc:0010-0074",
+      "source_id": "website-flo-page-2026-11-09-memorable-speeches-md-fce31abffc",
+      "path": "website/flo-page-2026-11-09-memorable-speeches.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Flo Akinbiyi | International Presenter and Communication Coach",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "topic",
+          "label": "human-first communication"
+        },
+        {
+          "facet": "activity",
+          "label": "communication coaching"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 98
+      },
+      "quote": "--- title: \"Flo Akinbiyi | International Presenter and Communication Coach\" url: \"https://www.flo-akinbiyi.com\" date: \"2026-11-09\" source: website --- INTERNATIONAL PRESENTER, KEYNOTE SPEAKER AND COMMUNICATION COACH TRUSTED BY GLOBAL BRANDS AND CELEBRITIES, TEDX SPEAKER FLO AKINBIYI TRANSFORMS LEADERS AND TEAMS THROUGH HUMAN-FIRST COMMUNICATION. FLO'S SIGNATURE OFFERINGS BRANDS THAT TRUST FLO EVERY SPEECH IS AN OPPORTUNITY TO INSPIRE. EXPLORE HOW YOU CAN WORK WITH FLO PRESENTER & MC Captivating ",
+      "item_id": "website-flo-page-2026-11-09-home-md-5cb1f4d29c:0001-0098",
+      "source_id": "website-flo-page-2026-11-09-home-md-5cb1f4d29c",
+      "path": "website/flo-page-2026-11-09-home.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Presenter and Event Host Services",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "event hosting"
+        },
+        {
+          "facet": "activity",
+          "label": "moderating and emceeing"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 107
+      },
+      "quote": "AS AN EVENT HOST AND PRESENTER, I BRING ENERGY, FLO(W), AND EXCITEMENT TO EVERY STAGE Whether I'm presenting at conferences or product launches, moderating panel discussions, hosting digital discussions or interviewing industry experts, I ensure yo ur audience is on the edge of their seats and engaged in your message and field of expertise. As an internationally renowned presenter and public speaker, I bring high energy and a fresh eye-opening angle to topics and conversations that impact the wo",
+      "item_id": "website-flo-page-2026-11-09-presenter-md-b44d6ce807:0008-0107",
+      "source_id": "website-flo-page-2026-11-09-presenter-md-b44d6ce807",
+      "path": "website/flo-page-2026-11-09-presenter.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Intense Public Speaking Weekend",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "workshop"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 102
+      },
+      "quote": "Intense Public Speaking Weekend 11 & 12 November 2023 | Dubai Book here EVERY SPEECH IS AN OPPORTUNITY TO INSPIRE. I’m super excited to announce this workshop! This immersive two-day experience is designed to take your communication skills to new heights, whether you're speaking to a small group or a massive audience. Dive into a world of strategies, techniques, and insights that will transform the way you communicate. It's not just about mastering the stage – it's about making every word count,",
+      "item_id": "website-flo-page-2026-11-09-intense-public-speaking-weekend-md-8504ed9142:0008-0102",
+      "source_id": "website-flo-page-2026-11-09-intense-public-speaking-weekend-md-8504ed9142",
+      "path": "website/flo-page-2026-11-09-intense-public-speaking-weekend.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Corporate Workshops for Communication and Leadership",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "executive communication coaching"
+        },
+        {
+          "facet": "activity",
+          "label": "corporate workshop"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 100
+      },
+      "quote": "STRONGER COMMUNICATION. STRONGER TEAMS. STRONGER RESULTS. I transform leaders into charismatic speakers through mastering human-first communication skills. I’ve partnered with multinational corporations, government entities, and global teams across the Middle East, Europe, Asia, Africa, and the US. My workshops are designed to unlock confidence, elevate presentations, and equip leaders with the tools to inspire action. Explore Flo's workshop options BECOME AN IMPACTFUL COMMUNICATOR WITH THESE SI",
+      "item_id": "website-flo-page-2026-11-09-corporate-workshops-md-39d16d7f7e:0008-0100",
+      "source_id": "website-flo-page-2026-11-09-corporate-workshops-md-39d16d7f7e",
+      "path": "website/flo-page-2026-11-09-corporate-workshops.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Part 1 — Look Back with Intent",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "year-end speech"
+        },
+        {
+          "facet": "activity",
+          "label": "leadership communication"
+        }
+      ],
+      "span": {
+        "start_line": 92,
+        "end_line": 95
+      },
+      "quote": "Part 1 — Look Back with Intent How to acknowledge achievements and challenges in a way that feels human — not scripted.",
+      "item_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0092-0095",
+      "source_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2",
+      "path": "website/flo-page-2026-11-09-year-end-speech.md",
+      "prev": null,
+      "next": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0096-0099"
+    },
+    {
+      "title": "Part 2 — The Shift",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "team alignment"
+        },
+        {
+          "facet": "activity",
+          "label": "leadership communication"
+        }
+      ],
+      "span": {
+        "start_line": 96,
+        "end_line": 99
+      },
+      "quote": "Part 2 — The Shift How to move the team from reflection into meaningful focus without overpromising or sugar-coating.",
+      "item_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0096-0099",
+      "source_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2",
+      "path": "website/flo-page-2026-11-09-year-end-speech.md",
+      "prev": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0092-0095",
+      "next": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0100-0103"
+    },
+    {
+      "title": "Part 3 — The Call-Forward",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "shared vision"
+        },
+        {
+          "facet": "activity",
+          "label": "leadership communication"
+        }
+      ],
+      "span": {
+        "start_line": 100,
+        "end_line": 103
+      },
+      "quote": "Part 3 — The Call-Forward Crafting a clear message that fosters ownership, unity, and collective direction.",
+      "item_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0100-0103",
+      "source_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2",
+      "path": "website/flo-page-2026-11-09-year-end-speech.md",
+      "prev": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0096-0099",
+      "next": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0104-0107"
+    },
+    {
+      "title": "Part 4 — The Moment",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "memorable messaging"
+        },
+        {
+          "facet": "activity",
+          "label": "leadership communication"
+        }
+      ],
+      "span": {
+        "start_line": 104,
+        "end_line": 107
+      },
+      "quote": "Part 4 — The Moment How to add a simple, memorable element that makes the message stick.",
+      "item_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0104-0107",
+      "source_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2",
+      "path": "website/flo-page-2026-11-09-year-end-speech.md",
+      "prev": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0100-0103",
+      "next": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0108-0111"
+    },
+    {
+      "title": "Part 5 — Ask Flo Anything",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "speech refinement"
+        },
+        {
+          "facet": "activity",
+          "label": "live Q&A"
+        }
+      ],
+      "span": {
+        "start_line": 108,
+        "end_line": 111
+      },
+      "quote": "Part 5 — Ask Flo Anything Bring your outline or draft. We’ll refine it live.",
+      "item_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0108-0111",
+      "source_id": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2",
+      "path": "website/flo-page-2026-11-09-year-end-speech.md",
+      "prev": "website-flo-page-2026-11-09-year-end-speech-md-d021856ee2:0104-0107",
+      "next": null
+    },
+    {
+      "title": "Acoustic Voice Profiling® Technology",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Acoustic Voice Profiling"
+        },
+        {
+          "facet": "activity",
+          "label": "voice coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 107
+      },
+      "quote": "DISTRIBUTOR FOR ACOUSTIC VOICE PROFILING® TECHNOLOGY Empowering Global Communication Through the Science of the Voice See how it works TRANSFORM HOW YOU SOUND, CONNECT, AND LEAD WELCOME TO A NEW ERA IN VOICE COACHING I am proud to be an official distributor for Acoustic Voice Profiling® Technology , a groundbreaking approach that transforms communication skills by analyzing and optimizing the voice. Our AI-powered Acoustic Voice Profile (AVP) uses sophisticated algorithms to evaluate key aspects",
+      "item_id": "website-flo-page-2026-11-09-acoustic-voice-technology-md-8be729a629:0008-0107",
+      "source_id": "website-flo-page-2026-11-09-acoustic-voice-technology-md-8be729a629",
+      "path": "website/flo-page-2026-11-09-acoustic-voice-technology.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "COURSE INTRODUCTION",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "course overview"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 37
+      },
+      "quote": "COURSE INTRODUCTION Welcome to the Course: Speak, Engage, Present - The ABCs of Winning Communication. Over the next 45 days, you’ll master key communication skills like delivering impactful content, preparing effectively, and excelling in online and offline communication. By the end, you’ll feel confident and equipped to communicate like a pro!",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0032-0037",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": null,
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0038-0041"
+    },
+    {
+      "title": "Lesson 1: MINDSET, EVALUATION & SUPERPOWERS",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "mindset and evaluation"
+        }
+      ],
+      "span": {
+        "start_line": 38,
+        "end_line": 41
+      },
+      "quote": "Lesson 1: MINDSET, EVALUATION & SUPERPOWERS We’ll reflect on where you are in your journey and help you develop the right mindset for success. Get inspired and ready to stay committed to achieving your goals!",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0038-0041",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0032-0037",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0042-0045"
+    },
+    {
+      "title": "Lesson 2: SETTING THE SCENE",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "speech inspiration"
+        }
+      ],
+      "span": {
+        "start_line": 42,
+        "end_line": 45
+      },
+      "quote": "Lesson 2: SETTING THE SCENE We’ll explore world-class speeches from some of the greatest communicators. You’ll come away with a favorite speech or speaker that will inspire you for life!",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0042-0045",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0038-0041",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0046-0049"
+    },
+    {
+      "title": "Lesson 3: CREDIBILITY, DATA, FACTS",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "content crafting"
+        }
+      ],
+      "span": {
+        "start_line": 46,
+        "end_line": 49
+      },
+      "quote": "Lesson 3: CREDIBILITY, DATA, FACTS We’ll dive into the importance of content, the core of effective communication. You’ll learn how to craft your spoken words to ensure your message is clear, engaging, and impactful.",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0046-0049",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0042-0045",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0050-0053"
+    },
+    {
+      "title": "LESSON 4: STRUCTURE",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "talk structuring"
+        }
+      ],
+      "span": {
+        "start_line": 50,
+        "end_line": 53
+      },
+      "quote": "LESSON 4: STRUCTURE We’ll explore how structure helps your audience absorb your message. Get ready to learn a fun and incredibly effective approach to structuring your talk!",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0050-0053",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0046-0049",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0054-0057"
+    },
+    {
+      "title": "LESSON 5: VISUAL AIDS",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "visual aids"
+        }
+      ],
+      "span": {
+        "start_line": 54,
+        "end_line": 57
+      },
+      "quote": "LESSON 5: VISUAL AIDS We’ll explore the power of visual aids in enhancing your presentation. You’ll learn how to make your PowerPoint slides more effective and discover other visual tools that can take your message to the next level.",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0054-0057",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0050-0053",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0058-0061"
+    },
+    {
+      "title": "LESSON 6: ELEVATE YOUR SPEECH",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "storytelling"
+        }
+      ],
+      "span": {
+        "start_line": 58,
+        "end_line": 61
+      },
+      "quote": "LESSON 6: ELEVATE YOUR SPEECH We’ll dive into language hacks to make your speech more impactful, using the art of storytelling and adding that extra spark. Get ready to elevate your message!",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0058-0061",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0054-0057",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0062-0065"
+    },
+    {
+      "title": "LESSON 7: IMPROMPTU SPEAKING",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "impromptu speaking"
+        }
+      ],
+      "span": {
+        "start_line": 62,
+        "end_line": 65
+      },
+      "quote": "LESSON 7: IMPROMPTU SPEAKING We’ll explore impromptu speaking and how to handle those \"wing it\" moments. You’ll learn how to make your impromptu speeches shine!",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0062-0065",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0058-0061",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0066-0069"
+    },
+    {
+      "title": "LESSON 8: YOUR VOICE IS A FERRARI",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "diaphragmatic breathing"
+        }
+      ],
+      "span": {
+        "start_line": 66,
+        "end_line": 69
+      },
+      "quote": "LESSON 8: YOUR VOICE IS A FERRARI We’ll explore how to unlock your voice’s full potential. You’ll learn diaphragmatic breathing to speak with power and confidence.",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0066-0069",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0062-0065",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0070-0073"
+    },
+    {
+      "title": "LESSON 9: BODY LANGUAGE",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "body language"
+        }
+      ],
+      "span": {
+        "start_line": 70,
+        "end_line": 73
+      },
+      "quote": "LESSON 9: BODY LANGUAGE We’ll dive into body language, one of my favorite topics. We’ll cover appearance, posture, facial expressions, gestures, and eye contact to help you communicate effectively.",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0070-0073",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0066-0069",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0074-0077"
+    },
+    {
+      "title": "LESSON 10: LANGUAGE",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "accents and pronunciation"
+        }
+      ],
+      "span": {
+        "start_line": 74,
+        "end_line": 77
+      },
+      "quote": "LESSON 10: LANGUAGE We’ll revisit the power of language and why it's crucial to communicate in a way everyone understands. We’ll explore accents, pronunciation, and how to connect with any audience through your words.",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0074-0077",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0070-0073",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0078-0081"
+    },
+    {
+      "title": "LESSON 11: CONNECTION & AUDIENCE ENGAGEMENT",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "audience engagement"
+        }
+      ],
+      "span": {
+        "start_line": 78,
+        "end_line": 81
+      },
+      "quote": "LESSON 11: CONNECTION & AUDIENCE ENGAGEMENT We’ll focus on creating a genuine connection with your audience. You’ll discover strategies to engage them and turn your speech into an interactive conversation.",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0078-0081",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0074-0077",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0082-0085"
+    },
+    {
+      "title": "LESSON 12: PASSION & AUTHENTICITY",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "authenticity"
+        }
+      ],
+      "span": {
+        "start_line": 82,
+        "end_line": 85
+      },
+      "quote": "LESSON 12: PASSION & AUTHENTICITY We’ll discover what sets great speakers apart—passion and authenticity. You’ll learn how to speak with true passion and embrace your authentic voice.",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0082-0085",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0078-0081",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0086-0089"
+    },
+    {
+      "title": "LESSON 13 - PREPARATION",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "stage fright"
+        }
+      ],
+      "span": {
+        "start_line": 86,
+        "end_line": 89
+      },
+      "quote": "LESSON 13 - PREPARATION We’ll dive into the power of preparation. You’ll learn how to overcome stage fright and use the 3D methodology to deliver impactful, well-prepared communication.",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0086-0089",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0082-0085",
+      "next": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0090-0093"
+    },
+    {
+      "title": "BONUS LESSON VIRTUAL COMMUNICATION",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "virtual communication"
+        }
+      ],
+      "span": {
+        "start_line": 90,
+        "end_line": 93
+      },
+      "quote": "BONUS LESSON VIRTUAL COMMUNICATION We’ll dive into virtual communication and its growing importance. You’ll learn how to keep your audience engaged and make a lasting impact in online meetings.",
+      "item_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0090-0093",
+      "source_id": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0",
+      "path": "website/flo-page-2026-11-09-speak-engage-present.md",
+      "prev": "website-flo-page-2026-11-09-speak-engage-present-md-fa5969def0:0086-0089",
       "next": null
     }
   ]
