@@ -1,5 +1,5 @@
 channel_url: https://www.youtube.com/watch?v=1rrtbi7Qu7Q
-total_videos: 2
+total_videos: 4
 videos:
 - id: 1rrtbi7Qu7Q
   url: https://www.youtube.com/watch?v=1rrtbi7Qu7Q
@@ -29,6 +29,30 @@ videos:
   upload_date: '2021-01-25'
   description: In this video Gopal rajGuru talks about creating customer value in the digital selling age.
   author: Oration Speakers
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Gopal RajGuru
+- id: 4QUjhmrR17k
+  url: https://www.youtube.com/watch?v=4QUjhmrR17k
+  title: 'Speaker Sourcing Contest FINAL: Gopal RajGuru'
+  upload_date: '2018-08-23'
+  description: ''
+  author: Nordic Business Forum
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Gopal RajGuru
+- id: aDxJHoC4UJw
+  url: https://www.youtube.com/watch?v=aDxJHoC4UJw
+  title: 'World-Class Negotiator: How to be a great negotiator. Top 3 tips.'
+  upload_date: '2017-03-06'
+  description: 'What is negotiation? How to make a successful negotiation. Gopal RajGuru shares his insight on negotiation
+    skills, and gives his top three tips for business leaders to make a successful negotiation.
+
+
+    www.aaltoee.com/worldclassnegotiator'
+  author: Aalto EE
   model: universal-3-5-pro
   speaker_count: 1
   speakers:

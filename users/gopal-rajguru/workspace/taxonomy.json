@@ -79,6 +79,22 @@
         "sales keynote presentation"
       ],
       "count": 1
+    },
+    "keynote-speech": {
+      "id": "keynote-speech",
+      "preferred": "keynote speech",
+      "aliases": [
+        "keynote speech"
+      ],
+      "count": 1
+    },
+    "negotiation-preparation": {
+      "id": "negotiation-preparation",
+      "preferred": "negotiation preparation",
+      "aliases": [
+        "negotiation preparation"
+      ],
+      "count": 1
     }
   },
   "situation": {
@@ -313,6 +329,46 @@
       "preferred": "B2B sales strategy",
       "aliases": [
         "B2B sales strategy"
+      ],
+      "count": 1
+    },
+    "feedback-formula": {
+      "id": "feedback-formula",
+      "preferred": "feedback formula",
+      "aliases": [
+        "feedback formula"
+      ],
+      "count": 1
+    },
+    "employee-recognition": {
+      "id": "employee-recognition",
+      "preferred": "employee recognition",
+      "aliases": [
+        "employee recognition"
+      ],
+      "count": 1
+    },
+    "preparation": {
+      "id": "preparation",
+      "preferred": "preparation",
+      "aliases": [
+        "preparation"
+      ],
+      "count": 1
+    },
+    "goal-setting": {
+      "id": "goal-setting",
+      "preferred": "goal setting",
+      "aliases": [
+        "goal setting"
+      ],
+      "count": 1
+    },
+    "ego-management": {
+      "id": "ego-management",
+      "preferred": "ego management",
+      "aliases": [
+        "ego management"
       ],
       "count": 1
     }

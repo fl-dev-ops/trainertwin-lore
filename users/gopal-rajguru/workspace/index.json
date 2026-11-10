@@ -89,6 +89,16 @@
       "path": "youtube/video/2021-12-16-the-art-and-science-of-selling-beecon-elite-1rrtbi7Qu7Q.md",
       "sha256": "c466a6448f8b25954e1d9fe41845989dab64eb68119b535e5be6bcdfe52875bc",
       "basis": "whole"
+    },
+    "youtube-video-2018-08-23-speaker-sourcing-contest-final-gopal-rajguru-4qujhmrr17k-md-316e1ef63a": {
+      "path": "youtube/video/2018-08-23-speaker-sourcing-contest-final-gopal-rajguru-4QUjhmrR17k.md",
+      "sha256": "3162ae42de0b65b1c486f22f4247554af1b2a5533bcdcbebb9552439362ee6ea",
+      "basis": "whole"
+    },
+    "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2": {
+      "path": "youtube/video/2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-aDxJHoC4UJw.md",
+      "sha256": "570907e4bcc1ee8f836d19dd371b64865d70af4723d137645cd7a42d744455ca",
+      "basis": "list"
     }
   },
   "items": [
@@ -520,6 +530,94 @@
       "source_id": "youtube-video-2021-12-16-the-art-and-science-of-selling-beecon-elite-1rrtbi7qu7q-md-6351d0653a",
       "path": "youtube/video/2021-12-16-the-art-and-science-of-selling-beecon-elite-1rrtbi7Qu7Q.md",
       "prev": null,
+      "next": null
+    },
+    {
+      "title": "Speaker Sourcing Contest FINAL: Gopal RajGuru",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "feedback formula"
+        },
+        {
+          "facet": "topic",
+          "label": "employee recognition"
+        },
+        {
+          "facet": "activity",
+          "label": "keynote speech"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Good afternoon Everybody hot enough Yeah Okay very very good Thank you Its a great privilege to be here particularly because its Stockholm This is like my second home I was a Ill come to that in a little bit I was an exchange student here many years ago but I feel very privileged to be in this position and I want to thank you guys for the honor of being here amongst this incredibly distinguished group of speakers Its really really a great privilege to do that But I want to talk about this the te",
+      "item_id": "youtube-video-2018-08-23-speaker-sourcing-contest-final-gopal-rajguru-4qujhmrr17k-md-316e1ef63a:0015-0015",
+      "source_id": "youtube-video-2018-08-23-speaker-sourcing-contest-final-gopal-rajguru-4qujhmrr17k-md-316e1ef63a",
+      "path": "youtube/video/2018-08-23-speaker-sourcing-contest-final-gopal-rajguru-4QUjhmrR17k.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "number one prepare",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "preparation"
+        },
+        {
+          "facet": "activity",
+          "label": "negotiation preparation"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 18
+      },
+      "quote": "My background is a combination of things I worked in business for many years in the IT business and led sales teams to help them expand the way in which they sell their products outside the United States Ive now been in the consulting business for about 22 years Working with a wide variety of organizations to help them improve their business to business sales process and their leadership skills so that they can transform their sales organizations more effectively Negotiation to me is a part of l",
+      "item_id": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2:0018-0018",
+      "source_id": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2",
+      "path": "youtube/video/2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-aDxJHoC4UJw.md",
+      "prev": null,
+      "next": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2:0018-0018"
+    },
+    {
+      "title": "Define what you want out of the deal Thats number 2",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "goal setting"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 18
+      },
+      "quote": "My background is a combination of things I worked in business for many years in the IT business and led sales teams to help them expand the way in which they sell their products outside the United States Ive now been in the consulting business for about 22 years Working with a wide variety of organizations to help them improve their business to business sales process and their leadership skills so that they can transform their sales organizations more effectively Negotiation to me is a part of l",
+      "item_id": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2:0018-0018",
+      "source_id": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2",
+      "path": "youtube/video/2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-aDxJHoC4UJw.md",
+      "prev": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2:0018-0018",
+      "next": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2:0018-0018"
+    },
+    {
+      "title": "And 3 check your ego at the door",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "ego management"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 18
+      },
+      "quote": "My background is a combination of things I worked in business for many years in the IT business and led sales teams to help them expand the way in which they sell their products outside the United States Ive now been in the consulting business for about 22 years Working with a wide variety of organizations to help them improve their business to business sales process and their leadership skills so that they can transform their sales organizations more effectively Negotiation to me is a part of l",
+      "item_id": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2:0018-0018",
+      "source_id": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2",
+      "path": "youtube/video/2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-aDxJHoC4UJw.md",
+      "prev": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2:0018-0018",
       "next": null
     }
   ]
