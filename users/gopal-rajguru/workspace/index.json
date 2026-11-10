@@ -1,0 +1,526 @@
+{
+  "sources": {
+    "linkedin-posts-2019-02-01-i-am-excited-to-announce-md-a7f9487b0d": {
+      "path": "linkedin/posts/2019-02-01-i-am-excited-to-announce.md",
+      "sha256": "5ca64cd3735018e88906cfef21859ba93453e067c4341ab2ccdd593eb3c426bb",
+      "basis": "whole"
+    },
+    "linkedin-posts-2021-09-01-im-speaking-at-setsales-summit-md-0879bc80c7": {
+      "path": "linkedin/posts/2021-09-01-im-speaking-at-setsales-summit.md",
+      "sha256": "f2789c8ab3918adc2e43e4ee8fa233f840fa1a94303816c718f463db391e2e61",
+      "basis": "whole"
+    },
+    "linkedin-posts-2018-11-08-this-is-a-terrific-blog-md-b1c92933fc": {
+      "path": "linkedin/posts/2018-11-08-this-is-a-terrific-blog.md",
+      "sha256": "53570e5c2796aa83b9ad0b5fe68220ed6fbcf4d32aebecd2e2e7303308d7242c",
+      "basis": "whole"
+    },
+    "linkedin-posts-2021-08-16-just-had-an-interesting-experience-md-7dd78b2096": {
+      "path": "linkedin/posts/2021-08-16-just-had-an-interesting-experience.md",
+      "sha256": "683502ea7fb13fb42ef3ea96dc7bef3261f7500410921fb18868281919bef339",
+      "basis": "whole"
+    },
+    "linkedin-posts-2020-04-28-hello-all-as-we-md-174455098a": {
+      "path": "linkedin/posts/2020-04-28-hello-all---as-we.md",
+      "sha256": "88163c76037757c1b007ea36465629230f086050c21fe6078e74477fdb93b07a",
+      "basis": "whole"
+    },
+    "linkedin-posts-2018-08-14-entertainment-for-your-wednesday-afterno-md-f65a45a4f2": {
+      "path": "linkedin/posts/2018-08-14-entertainment-for-your-wednesday-afterno.md",
+      "sha256": "6efdcf3086dc291fa9279322c6ca23459214101db332428fa13beaff2f5284f7",
+      "basis": "whole"
+    },
+    "linkedin-posts-2021-08-02-big-news-for-turnium-sd-wan-md-a0e417406d": {
+      "path": "linkedin/posts/2021-08-02-big-news-for-turnium-sd-wan.md",
+      "sha256": "35420ed07f3ceffc6c0c42874ccbd193402db617e1f2a87a8bd786c48aa89b51",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-07-29-as-a-great-fan-of-md-c46413d9fd": {
+      "path": "linkedin/posts/2022-07-29-as-a-great-fan-of.md",
+      "sha256": "fda8d3a62b7f9ade71f66cb79dfcad3104f344791859266450cb234a2b3694ea",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-08-25-one-of-my-favourite-companies-md-2c852f76b9": {
+      "path": "linkedin/posts/2022-08-25-one-of-my-favourite-companies.md",
+      "sha256": "21288f288e6405d81a01df081de7905420e6e8905fb2a98738851147f30cf8d1",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-12-17-progress-its-something-for-md-2ad3bf34f2": {
+      "path": "linkedin/posts/2022-12-17-progress---its-something-for.md",
+      "sha256": "7a45a7d9db452ce549c85b37152da950ee71aaebb661fc15c2de23f049a5a3cd",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-03-19-research-is-important-and-md-825868a01e": {
+      "path": "linkedin/posts/2023-03-19-research-is-important---and.md",
+      "sha256": "df025d1d52974195ba741b33457d6ae2553264d792845f4cab5aec4f230d2226",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-03-08-on-this-international-womens-day-md-be5f101ce7": {
+      "path": "linkedin/posts/2026-03-08-on-this-international-womens-day.md",
+      "sha256": "699b6770ea329aa81e763b4a8449c22b17cfd373e6c103cc04652fcb1b2d1c53",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-09-11-hello-all-queen-elizabeth-md-e5d61a4674": {
+      "path": "linkedin/posts/2022-09-11-hello-all---queen-elizabeth.md",
+      "sha256": "d5c4a5b986985bec2aed29ed82596e28c02351b77993a8ed3ec4ef6686f424d2",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-03-21-exciting-times-bacula-systems-md-cc1e3c90a6": {
+      "path": "linkedin/posts/2024-03-21-exciting-times---bacula-systems.md",
+      "sha256": "78cb1a4473a3fb59e32f0d7028ae9e656c9b398f9238a3ac1a3e630e37adf58f",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-03-20-being-one-of-the-most-md-ab6e138080": {
+      "path": "linkedin/posts/2023-03-20-being-one-of-the-most.md",
+      "sha256": "a5ddb59855b06abd1b3cca4b9a3e6f3b9a35245a99870c3023c6be086cdc1dee",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-03-31-if-you-feel-at-times-md-d32fcf8a0e": {
+      "path": "linkedin/posts/2026-03-31-if-you-feel-at-times.md",
+      "sha256": "a7720fe328b103dd0d61cd404a69821357bab3cbda5aee86d2b092a0f7c7eb4c",
+      "basis": "whole"
+    },
+    "youtube-video-2021-01-25-avl-keynote-gopal-rajguru-expert-keynote-speaker-on-sales-x-013c747268": {
+      "path": "youtube/video/2021-01-25-avl-keynote-gopal-rajguru-expert-keynote-speaker-on-sales-X-kQGh9FGpQ.md",
+      "sha256": "5895e9f8829bdaada3206da09c43a93d5ee9f7255bb67572244eb9132a9adcf0",
+      "basis": "whole"
+    },
+    "youtube-video-2021-12-16-the-art-and-science-of-selling-beecon-elite-1rrtbi7qu7q-md-6351d0653a": {
+      "path": "youtube/video/2021-12-16-the-art-and-science-of-selling-beecon-elite-1rrtbi7Qu7Q.md",
+      "sha256": "c466a6448f8b25954e1d9fe41845989dab64eb68119b535e5be6bcdfe52875bc",
+      "basis": "whole"
+    }
+  },
+  "items": [
+    {
+      "title": "The Art and Science of Strategic Negotiation Masterclass",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "strategic negotiation"
+        },
+        {
+          "facet": "activity",
+          "label": "masterclass announcement"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 15
+      },
+      "quote": "--- id: '6497219176199974913' date: '2019-02-01T21:49:24.101Z' url: https://www.linkedin.com/posts/gopal-rajguru_the-art-and-science-of-strategic-negotiation-activity-6497219176199974913-jjTO likes: 91 comments: 22 article: title: The Art and Science of Strategic Negotiation subtitle: executive.epfl.ch link: https://executive.epfl.ch/the-art-and-science-of-strategic-negotiation/ --- I am excited to announce the beginning, or perhaps more correctly an expansion, of my 16-year collaboration with t",
+      "item_id": "linkedin-posts-2019-02-01-i-am-excited-to-announce-md-a7f9487b0d:0001-0015",
+      "source_id": "linkedin-posts-2019-02-01-i-am-excited-to-announce-md-a7f9487b0d",
+      "path": "linkedin/posts/2019-02-01-i-am-excited-to-announce.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Elements required for a successful sales transformation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales transformation"
+        },
+        {
+          "facet": "activity",
+          "label": "summit speaking presentation"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "I'm speaking at SetSales Summit 2021 - and talking about the 3 elements that are required for a successful sales transformation. Join us and find out what they are.",
+      "item_id": "linkedin-posts-2021-09-01-im-speaking-at-setsales-summit-md-0879bc80c7:0009-0009",
+      "source_id": "linkedin-posts-2021-09-01-im-speaking-at-setsales-summit-md-0879bc80c7",
+      "path": "linkedin/posts/2021-09-01-im-speaking-at-setsales-summit.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Put a coach on every sales person’s shoulder",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales coaching and training follow-up"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 15
+      },
+      "quote": "title: Put a coach on every sales person’s shoulder subtitle: infoteam-consulting.com link: https://www.infoteam-consulting.com/blog/put-a-coach-on-every-sales-persons-shoulder --- This is a terrific blog by my friend, partner and Managing Director of Infoteam Phil Kreindler about the importance of coaching in the implementation of any behaviour change (which is really what sales training is all about - getting salespeople to change the way they do the «thing» they do every day, all day for a li",
+      "item_id": "linkedin-posts-2018-11-08-this-is-a-terrific-blog-md-b1c92933fc:0008-0015",
+      "source_id": "linkedin-posts-2018-11-08-this-is-a-terrific-blog-md-b1c92933fc",
+      "path": "linkedin/posts/2018-11-08-this-is-a-terrific-blog.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Revelation, and Revolution",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "in-person workshops"
+        },
+        {
+          "facet": "activity",
+          "label": "facilitating workshops"
+        },
+        {
+          "facet": "situation",
+          "label": "returning to in-person events after lockdown"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 13
+      },
+      "quote": "--- id: '6833073450970570752' date: '2021-08-16T16:34:23.077Z' url: https://www.linkedin.com/posts/gopal-rajguru_just-had-an-interesting-experience-doing-activity-6833073450970570752-mN7E likes: 52 comments: 4 article: title: Revelation, and Revolution subtitle: innovate+grow group link: https://www.linkedin.com/pulse/revelation-revolution-innovate-grow?trackingId=l1cu1L1s50uxDx6%2BmQU%2FIQ%3D%3D --- Just had an interesting experience doing an in-person workshop after nearly 18 months locked up ",
+      "item_id": "linkedin-posts-2021-08-16-just-had-an-interesting-experience-md-7dd78b2096:0001-0013",
+      "source_id": "linkedin-posts-2021-08-16-just-had-an-interesting-experience-md-7dd78b2096",
+      "path": "linkedin/posts/2021-08-16-just-had-an-interesting-experience.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Humour and balancing life in online meetings",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "online meetings"
+        },
+        {
+          "facet": "situation",
+          "label": "meeting fatigue"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 13
+      },
+      "quote": "Hello All - As we all suffer under the burden of all too many on-line meetings, a little bit of humour helps. My partner Pierre found this little film to help you look more professional and balancing your «life» side as well. Have fun watching. - Gopal",
+      "item_id": "linkedin-posts-2020-04-28-hello-all-as-we-md-174455098a:0009-0013",
+      "source_id": "linkedin-posts-2020-04-28-hello-all-as-we-md-174455098a",
+      "path": "linkedin/posts/2020-04-28-hello-all---as-we.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Nordic Business Forum Speaker Sourcing Contest Finals",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking contest"
+        },
+        {
+          "facet": "activity",
+          "label": "livestream competition"
+        }
+      ],
+      "span": {
+        "start_line": 13,
+        "end_line": 23
+      },
+      "quote": "Entertainment for your Wednesday afternoon 15th of August! The Nordic Business Forum will hold the final competition of its speaker sourcing contest in which, in which I will be taking part as one of the 6 finalists chosen from 3 qualifying events. You can watch the final 6 speeches on-line through the live-stream. It starts at 15:00 CET and if you are there from the start, you can also cast your vote (for me of course!). Go to www.nbforum.com/contest on Wednesday 15 August a few minutes before ",
+      "item_id": "linkedin-posts-2018-08-14-entertainment-for-your-wednesday-afterno-md-f65a45a4f2:0013-0023",
+      "source_id": "linkedin-posts-2018-08-14-entertainment-for-your-wednesday-afterno-md-f65a45a4f2",
+      "path": "linkedin/posts/2018-08-14-entertainment-for-your-wednesday-afterno.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "IBM and Turnium Partnership for Containerized Cloud SD-WAN",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cloud-based SD-WAN"
+        },
+        {
+          "facet": "topic",
+          "label": "enterprise partnerships"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 17
+      },
+      "quote": "title: IBM Launches Turnium’s Containerized SD-WAN Into Cloud subtitle: sdxcentral.com link: https://www.sdxcentral.com/articles/news/ibm-launches-turniums-containerized-sd-wan-into-cloud/2021/07/ --- Big news for Turnium SD-WAN - This article announces some very big news for both Turnium and IBM, who have chosen to work together to create a powerful partnership that brings enterprise level cloud-based SD-WAN capabilities into IBM's telecommunications portfolio. It's the result of a lot of hard ",
+      "item_id": "linkedin-posts-2021-08-02-big-news-for-turnium-sd-wan-md-a0e417406d:0008-0017",
+      "source_id": "linkedin-posts-2021-08-02-big-news-for-turnium-sd-wan-md-a0e417406d",
+      "path": "linkedin/posts/2021-08-02-big-news-for-turnium-sd-wan.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Reflecting on Life and Retirement through Sebastian Vettel's Inspiration",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "retirement reflection"
+        },
+        {
+          "facet": "situation",
+          "label": "Sebastian Vettel retirement announcement"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "As a great fan of Formula 1 and the amazing talent this sport showcases, it's natural to be a fan of Sebastian Vettel and his demonstrated greatness... but wow, this announcement of his retirement has increased my esteem. He is a true inspiration. Please take a few minutes to watch and listen, and then a few minutes to reflect on your own life - which race do you still have to win?",
+      "item_id": "linkedin-posts-2022-07-29-as-a-great-fan-of-md-c46413d9fd:0009-0009",
+      "source_id": "linkedin-posts-2022-07-29-as-a-great-fan-of-md-c46413d9fd",
+      "path": "linkedin/posts/2022-07-29-as-a-great-fan-of.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Bacula Systems Hiring Remote Customer Support Engineer in the USA",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "job referral"
+        },
+        {
+          "facet": "activity",
+          "label": "hiring"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "One of my favourite companies who does enterprise backup and restore software (Bacula Systems) is #hiring a customer Support Engineer for remote work based in the USA. The company is Swiss - based in Yverdon - and has global operations. If you know anyone who might be interested - please have them get in touch with my friend Ludovic Piquerez or me so I can connect you. Look forward to hearing from you!",
+      "item_id": "linkedin-posts-2022-08-25-one-of-my-favourite-companies-md-2c852f76b9:0009-0009",
+      "source_id": "linkedin-posts-2022-08-25-one-of-my-favourite-companies-md-2c852f76b9",
+      "path": "linkedin/posts/2022-08-25-one-of-my-favourite-companies.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Questioning whether perceived progress actually yields positive outcomes",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "concept of progress"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 11
+      },
+      "quote": "Progress - it's something for which many of us look in our daily lives, both professional and personal. Don't know who created this video, but I have to say I love it, and it resonates well with a quotation from Arthur Dent in the Hitchhiker's Guide to the Galaxy... I've gone off the idea of progress, it's over-rated! Progress for the sake of «good» is what we all seek, but as these photos depict very nicely - is that what we actually get? You decide. #progress",
+      "item_id": "linkedin-posts-2022-12-17-progress-its-something-for-md-2ad3bf34f2:0009-0011",
+      "source_id": "linkedin-posts-2022-12-17-progress-its-something-for-md-2ad3bf34f2",
+      "path": "linkedin/posts/2022-12-17-progress---its-something-for.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Workplace Study Questionnaire on Working Styles and Employee Engagement",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "working styles"
+        },
+        {
+          "facet": "topic",
+          "label": "employee engagement"
+        },
+        {
+          "facet": "activity",
+          "label": "survey participation"
+        }
+      ],
+      "span": {
+        "start_line": 13,
+        "end_line": 17
+      },
+      "quote": "Research is important - and one of my colleagues is doing some now on working styles, ages, locations and how they affect the way in which people engage with work. I would like to ask you a small favour for just 3-4 minutes of your time to fill out this questionnaire for her. https://lnkd.in/esmvSFKi Thanks, Gopal",
+      "item_id": "linkedin-posts-2023-03-19-research-is-important-and-md-825868a01e:0013-0017",
+      "source_id": "linkedin-posts-2023-03-19-research-is-important-and-md-825868a01e",
+      "path": "linkedin/posts/2023-03-19-research-is-important---and.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Gratitude to Women on International Women's Day",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "International Women's Day"
+        },
+        {
+          "facet": "situation",
+          "label": "celebrating women's contributions"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "On this International Women's Day I would like to send a heartfelt note of deep gratitude to all the amazing women who have had such a powerful positive impact on my life. Starting with my dear mother and sister, my amazing wife, and inspiring daughter, the list of wonderful women is long and distinguished. Friends, colleagues, clients, team members and even amazing women met through work and travel - I salute you all and thank you from the bottom of my heart for your contribution to making the ",
+      "item_id": "linkedin-posts-2026-03-08-on-this-international-womens-day-md-be5f101ce7:0009-0009",
+      "source_id": "linkedin-posts-2026-03-08-on-this-international-womens-day-md-be5f101ce7",
+      "path": "linkedin/posts/2026-03-08-on-this-international-womens-day.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Royal Lessons for Business Leaders: Succession Planning",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "succession planning"
+        },
+        {
+          "facet": "topic",
+          "label": "leadership lessons"
+        },
+        {
+          "facet": "situation",
+          "label": "leadership transition"
+        }
+      ],
+      "span": {
+        "start_line": 7,
+        "end_line": 16
+      },
+      "quote": "article: title: Royal Lessons for Business Leaders subtitle: innovate+grow group link: https://www.linkedin.com/pulse/royal-lessons-business-leaders-innovate-grow?trackingId=%2BDk8FowWo4GQl%2Ba9q0rtFQ%3D%3D --- Hello All - Queen Elizabeth has passed... but her legacy will continue for a long time. I wrote a little article called «Royal Lessons for Business Leaders» focused on succession planning - something we see happening before our eyes in London at this very moment. There is something to lea",
+      "item_id": "linkedin-posts-2022-09-11-hello-all-queen-elizabeth-md-e5d61a4674:0007-0016",
+      "source_id": "linkedin-posts-2022-09-11-hello-all-queen-elizabeth-md-e5d61a4674",
+      "path": "linkedin/posts/2022-09-11-hello-all---queen-elizabeth.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Bacula Systems Hiring Territory Manager for Western and Central US",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "hiring territory manager"
+        },
+        {
+          "facet": "activity",
+          "label": "job posting"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "Exciting times - Bacula Systems is growing and looking for a new Territory Manager for the Western and Central US regions for new business development. Interested? Check out the job and apply or recommend someone you think would be suitable.",
+      "item_id": "linkedin-posts-2024-03-21-exciting-times-bacula-systems-md-cc1e3c90a6:0009-0009",
+      "source_id": "linkedin-posts-2024-03-21-exciting-times-bacula-systems-md-cc1e3c90a6",
+      "path": "linkedin/posts/2024-03-21-exciting-times---bacula-systems.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Addressing unconscious bias in hiring and AI recruitment initiatives",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "unconscious bias in hiring"
+        },
+        {
+          "facet": "topic",
+          "label": "diversity and recruitment"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "Being one of the most «diverse» people I know, I find this new initiative really interesting - identifying and addressing the unconscious biases (OK even I have them). I know one of the people involved, and am really excited to see what they create. I hope some of you will take the time to have a chat with them and share your experiences and learn more of theirs.",
+      "item_id": "linkedin-posts-2023-03-20-being-one-of-the-most-md-ab6e138080:0009-0009",
+      "source_id": "linkedin-posts-2023-03-20-being-one-of-the-most-md-ab6e138080",
+      "path": "linkedin/posts/2023-03-20-being-one-of-the-most.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Leading Responsibly in Times of Disruption",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "responsible SME leadership"
+        },
+        {
+          "facet": "situation",
+          "label": "economic, geopolitical, and AI disruption"
+        },
+        {
+          "facet": "activity",
+          "label": "DBA research survey participation"
+        }
+      ],
+      "span": {
+        "start_line": 13,
+        "end_line": 25
+      },
+      "quote": "If you feel at times overwhelmed as I do by the multi-pronged challenges of today’s business environment - from economic disruption, geopolitical uncertainty, digitalisation and the promise or threat of AI… then I would like to ask you a small favour.. My dear friend Khulan Berger is conducting a research project as part of her DBA studies and would like your help to provide a little input on… 𝐋𝐞𝐚𝐝𝐢𝐧𝐠 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐥𝐲 𝐢𝐧 𝐓𝐢𝐦𝐞𝐬 𝐨𝐟 𝐃𝐢𝐬𝐫𝐮𝐩𝐭𝐢𝐨𝐧 Disruption has become the new normal: from AI and digital tr",
+      "item_id": "linkedin-posts-2026-03-31-if-you-feel-at-times-md-d32fcf8a0e:0013-0025",
+      "source_id": "linkedin-posts-2026-03-31-if-you-feel-at-times-md-d32fcf8a0e",
+      "path": "linkedin/posts/2026-03-31-if-you-feel-at-times.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Creating customer value in the digital selling age",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "digital selling"
+        },
+        {
+          "facet": "situation",
+          "label": "adapting to changed buyer journey"
+        },
+        {
+          "facet": "activity",
+          "label": "sales keynote presentation"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Hi my name is Gopal RajGuru from Innovate and Grow Thank you for inviting me here to participate in the first digital AVL Sales Conference I am delighted to be here with you Well Im not really here with you but you know what I mean So I think this is an interesting time in our history It has been a challenging time 2020 was not an easy time for us to Well for the whole world actually And many of the things changed In fact the entire world changed People stayed at home they worked from home when ",
+      "item_id": "youtube-video-2021-01-25-avl-keynote-gopal-rajguru-expert-keynote-speaker-on-sales-x-013c747268:0015-0015",
+      "source_id": "youtube-video-2021-01-25-avl-keynote-gopal-rajguru-expert-keynote-speaker-on-sales-x-013c747268",
+      "path": "youtube/video/2021-01-25-avl-keynote-gopal-rajguru-expert-keynote-speaker-on-sales-X-kQGh9FGpQ.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The Art and Science of Selling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "B2B sales strategy"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 22
+      },
+      "quote": "So thank you all for joining this evening and welcome to this class on the art and science of selling Ive always maintained that selling is the oldest profession Its not the one you think because you had to sell it first So selling actually came before that profession But I think there is always a combination of art and science and everything And my goal this evening is to try and share a few ideas with you that I think will be interesting in terms of how to approach combining these 2 often disp",
+      "item_id": "youtube-video-2021-12-16-the-art-and-science-of-selling-beecon-elite-1rrtbi7qu7q-md-6351d0653a:0022-0022",
+      "source_id": "youtube-video-2021-12-16-the-art-and-science-of-selling-beecon-elite-1rrtbi7qu7q-md-6351d0653a",
+      "path": "youtube/video/2021-12-16-the-art-and-science-of-selling-beecon-elite-1rrtbi7Qu7Q.md",
+      "prev": null,
+      "next": null
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "activity": {
+    "sales-coaching": {
+      "id": "sales-coaching",
+      "preferred": "sales coaching",
+      "aliases": [
+        "sales coaching"
+      ],
+      "count": 2
+    },
+    "masterclass-announcement": {
+      "id": "masterclass-announcement",
+      "preferred": "masterclass announcement",
+      "aliases": [
+        "masterclass announcement"
+      ],
+      "count": 1
+    },
+    "summit-speaking-presentation": {
+      "id": "summit-speaking-presentation",
+      "preferred": "summit speaking presentation",
+      "aliases": [
+        "summit speaking presentation"
+      ],
+      "count": 1
+    },
+    "facilitating-workshops": {
+      "id": "facilitating-workshops",
+      "preferred": "facilitating workshops",
+      "aliases": [
+        "facilitating workshops"
+      ],
+      "count": 1
+    },
+    "livestream-competition": {
+      "id": "livestream-competition",
+      "preferred": "livestream competition",
+      "aliases": [
+        "livestream competition"
+      ],
+      "count": 1
+    },
+    "hiring": {
+      "id": "hiring",
+      "preferred": "hiring",
+      "aliases": [
+        "hiring"
+      ],
+      "count": 1
+    },
+    "survey-participation": {
+      "id": "survey-participation",
+      "preferred": "survey participation",
+      "aliases": [
+        "survey participation"
+      ],
+      "count": 1
+    },
+    "job-posting": {
+      "id": "job-posting",
+      "preferred": "job posting",
+      "aliases": [
+        "job posting"
+      ],
+      "count": 1
+    },
+    "dba-research-survey-participation": {
+      "id": "dba-research-survey-participation",
+      "preferred": "DBA research survey participation",
+      "aliases": [
+        "DBA research survey participation"
+      ],
+      "count": 1
+    },
+    "sales-keynote-presentation": {
+      "id": "sales-keynote-presentation",
+      "preferred": "sales keynote presentation",
+      "aliases": [
+        "sales keynote presentation"
+      ],
+      "count": 1
+    }
+  },
+  "situation": {
+    "returning-to-in-person-events-after-lockdown": {
+      "id": "returning-to-in-person-events-after-lockdown",
+      "preferred": "returning to in-person events after lockdown",
+      "aliases": [
+        "returning to in-person events after lockdown"
+      ],
+      "count": 1
+    },
+    "meeting-fatigue": {
+      "id": "meeting-fatigue",
+      "preferred": "meeting fatigue",
+      "aliases": [
+        "meeting fatigue"
+      ],
+      "count": 1
+    },
+    "sebastian-vettel-retirement-announcement": {
+      "id": "sebastian-vettel-retirement-announcement",
+      "preferred": "Sebastian Vettel retirement announcement",
+      "aliases": [
+        "Sebastian Vettel retirement announcement"
+      ],
+      "count": 1
+    },
+    "celebrating-women-s-contributions": {
+      "id": "celebrating-women-s-contributions",
+      "preferred": "celebrating women's contributions",
+      "aliases": [
+        "celebrating women's contributions"
+      ],
+      "count": 1
+    },
+    "leadership-transition": {
+      "id": "leadership-transition",
+      "preferred": "leadership transition",
+      "aliases": [
+        "leadership transition"
+      ],
+      "count": 1
+    },
+    "economic-geopolitical-and-ai-disruption": {
+      "id": "economic-geopolitical-and-ai-disruption",
+      "preferred": "economic, geopolitical, and AI disruption",
+      "aliases": [
+        "economic, geopolitical, and AI disruption"
+      ],
+      "count": 1
+    },
+    "adapting-to-changed-buyer-journey": {
+      "id": "adapting-to-changed-buyer-journey",
+      "preferred": "adapting to changed buyer journey",
+      "aliases": [
+        "adapting to changed buyer journey"
+      ],
+      "count": 1
+    }
+  },
+  "topic": {
+    "strategic-negotiation": {
+      "id": "strategic-negotiation",
+      "preferred": "strategic negotiation",
+      "aliases": [
+        "strategic negotiation"
+      ],
+      "count": 1
+    },
+    "sales-transformation": {
+      "id": "sales-transformation",
+      "preferred": "sales transformation",
+      "aliases": [
+        "sales transformation"
+      ],
+      "count": 1
+    },
+    "sales-coaching-and-training-follow-up": {
+      "id": "sales-coaching-and-training-follow-up",
+      "preferred": "sales coaching and training follow-up",
+      "aliases": [
+        "sales coaching and training follow-up"
+      ],
+      "count": 1
+    },
+    "in-person-workshops": {
+      "id": "in-person-workshops",
+      "preferred": "in-person workshops",
+      "aliases": [
+        "in-person workshops"
+      ],
+      "count": 1
+    },
+    "online-meetings": {
+      "id": "online-meetings",
+      "preferred": "online meetings",
+      "aliases": [
+        "online meetings"
+      ],
+      "count": 1
+    },
+    "public-speaking-contest": {
+      "id": "public-speaking-contest",
+      "preferred": "public speaking contest",
+      "aliases": [
+        "public speaking contest"
+      ],
+      "count": 1
+    },
+    "cloud-based-sd-wan": {
+      "id": "cloud-based-sd-wan",
+      "preferred": "cloud-based SD-WAN",
+      "aliases": [
+        "cloud-based SD-WAN"
+      ],
+      "count": 1
+    },
+    "enterprise-partnerships": {
+      "id": "enterprise-partnerships",
+      "preferred": "enterprise partnerships",
+      "aliases": [
+        "enterprise partnerships"
+      ],
+      "count": 1
+    },
+    "retirement-reflection": {
+      "id": "retirement-reflection",
+      "preferred": "retirement reflection",
+      "aliases": [
+        "retirement reflection"
+      ],
+      "count": 1
+    },
+    "job-referral": {
+      "id": "job-referral",
+      "preferred": "job referral",
+      "aliases": [
+        "job referral"
+      ],
+      "count": 1
+    },
+    "concept-of-progress": {
+      "id": "concept-of-progress",
+      "preferred": "concept of progress",
+      "aliases": [
+        "concept of progress"
+      ],
+      "count": 1
+    },
+    "working-styles": {
+      "id": "working-styles",
+      "preferred": "working styles",
+      "aliases": [
+        "working styles"
+      ],
+      "count": 1
+    },
+    "employee-engagement": {
+      "id": "employee-engagement",
+      "preferred": "employee engagement",
+      "aliases": [
+        "employee engagement"
+      ],
+      "count": 1
+    },
+    "international-women-s-day": {
+      "id": "international-women-s-day",
+      "preferred": "International Women's Day",
+      "aliases": [
+        "International Women's Day"
+      ],
+      "count": 1
+    },
+    "succession-planning": {
+      "id": "succession-planning",
+      "preferred": "succession planning",
+      "aliases": [
+        "succession planning"
+      ],
+      "count": 1
+    },
+    "leadership-lessons": {
+      "id": "leadership-lessons",
+      "preferred": "leadership lessons",
+      "aliases": [
+        "leadership lessons"
+      ],
+      "count": 1
+    },
+    "hiring-territory-manager": {
+      "id": "hiring-territory-manager",
+      "preferred": "hiring territory manager",
+      "aliases": [
+        "hiring territory manager"
+      ],
+      "count": 1
+    },
+    "unconscious-bias-in-hiring": {
+      "id": "unconscious-bias-in-hiring",
+      "preferred": "unconscious bias in hiring",
+      "aliases": [
+        "unconscious bias in hiring"
+      ],
+      "count": 1
+    },
+    "diversity-and-recruitment": {
+      "id": "diversity-and-recruitment",
+      "preferred": "diversity and recruitment",
+      "aliases": [
+        "diversity and recruitment"
+      ],
+      "count": 1
+    },
+    "responsible-sme-leadership": {
+      "id": "responsible-sme-leadership",
+      "preferred": "responsible SME leadership",
+      "aliases": [
+        "responsible SME leadership"
+      ],
+      "count": 1
+    },
+    "digital-selling": {
+      "id": "digital-selling",
+      "preferred": "digital selling",
+      "aliases": [
+        "digital selling"
+      ],
+      "count": 1
+    },
+    "b2b-sales-strategy": {
+      "id": "b2b-sales-strategy",
+      "preferred": "B2B sales strategy",
+      "aliases": [
+        "B2B sales strategy"
+      ],
+      "count": 1
+    }
+  }
+}

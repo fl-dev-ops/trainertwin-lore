@@ -1,0 +1,35 @@
+channel_url: https://www.youtube.com/watch?v=1rrtbi7Qu7Q
+total_videos: 2
+videos:
+- id: 1rrtbi7Qu7Q
+  url: https://www.youtube.com/watch?v=1rrtbi7Qu7Q
+  title: The Art and Science of Selling | Beecon Elite
+  upload_date: '2021-12-16'
+  description: 'In this Free Masterclass, the Keynote Speaker, Consultant, Sales Performance Coach, Educator, Workshop Facilitator,
+    and Author – Gopal RajGuru will teach you the principles on the art and science of selling.
+
+
+    You can look forward to:
+
+    👉🏻 Learn how to master the art of selling and apply it in your everyday life
+
+    👉🏻 Gain valuable insights in sales techniques and spar with the #1 subject expert
+
+    👉🏻 Tap into the mindset of a salesperson and learn from their go-getter attitudes
+
+    👉🏻 Develop your business qualifications and acquire new business perspectives'
+  author: Beecon Elite
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Gopal RajGuru
+- id: X-kQGh9FGpQ
+  url: https://www.youtube.com/watch?v=X-kQGh9FGpQ
+  title: AVL Keynote Gopal RajGuru - Expert Keynote Speaker on sales.
+  upload_date: '2021-01-25'
+  description: In this video Gopal rajGuru talks about creating customer value in the digital selling age.
+  author: Oration Speakers
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Gopal RajGuru
