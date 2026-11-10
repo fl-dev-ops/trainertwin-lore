@@ -6,7 +6,7 @@
       "aliases": [
         "public speaking"
       ],
-      "count": 25
+      "count": 78
     },
     "event-hosting": {
       "id": "event-hosting",
@@ -14,7 +14,35 @@
       "aliases": [
         "event hosting"
       ],
+      "count": 40
+    },
+    "presentation": {
+      "id": "presentation",
+      "preferred": "presentation",
+      "aliases": [
+        "presentation",
+        "presentations"
+      ],
+      "count": 14
+    },
+    "keynote-speaking": {
+      "id": "keynote-speaking",
+      "preferred": "keynote speaking",
+      "aliases": [
+        "conference keynote",
+        "keynote presentation",
+        "keynote speaking",
+        "keynote speech"
+      ],
       "count": 12
+    },
+    "communication-coaching": {
+      "id": "communication-coaching",
+      "preferred": "communication coaching",
+      "aliases": [
+        "communication coaching"
+      ],
+      "count": 10
     },
     "workshop": {
       "id": "workshop",
@@ -22,7 +50,23 @@
       "aliases": [
         "workshop"
       ],
-      "count": 3
+      "count": 5
+    },
+    "speech-analysis": {
+      "id": "speech-analysis",
+      "preferred": "speech analysis",
+      "aliases": [
+        "speech analysis"
+      ],
+      "count": 4
+    },
+    "communication-workshop": {
+      "id": "communication-workshop",
+      "preferred": "communication workshop",
+      "aliases": [
+        "communication workshop"
+      ],
+      "count": 4
     },
     "webinar": {
       "id": "webinar",
@@ -32,19 +76,27 @@
       ],
       "count": 3
     },
-    "communication-coaching": {
-      "id": "communication-coaching",
-      "preferred": "communication coaching",
+    "presentation-preparation": {
+      "id": "presentation-preparation",
+      "preferred": "presentation preparation",
       "aliases": [
-        "communication coaching"
+        "presentation preparation"
       ],
       "count": 3
     },
-    "communication-workshop": {
-      "id": "communication-workshop",
-      "preferred": "communication workshop",
+    "corporate-workshop": {
+      "id": "corporate-workshop",
+      "preferred": "corporate workshop",
       "aliases": [
-        "communication workshop"
+        "corporate workshop"
+      ],
+      "count": 3
+    },
+    "presentation-training": {
+      "id": "presentation-training",
+      "preferred": "presentation training",
+      "aliases": [
+        "presentation training"
       ],
       "count": 3
     },
@@ -56,23 +108,31 @@
       ],
       "count": 3
     },
-    "conference-keynote": {
-      "id": "conference-keynote",
-      "preferred": "conference keynote",
+    "emceeing": {
+      "id": "emceeing",
+      "preferred": "emceeing",
       "aliases": [
-        "conference keynote",
-        "keynote presentation",
-        "keynote speech"
+        "emceeing"
       ],
       "count": 3
     },
-    "workshop-announcement": {
-      "id": "workshop-announcement",
-      "preferred": "workshop announcement",
+    "stage-interview": {
+      "id": "stage-interview",
+      "preferred": "stage interview",
       "aliases": [
-        "workshop announcement"
+        "on-stage interview",
+        "stage interview"
       ],
-      "count": 2
+      "count": 3
+    },
+    "awards-ceremony": {
+      "id": "awards-ceremony",
+      "preferred": "awards ceremony",
+      "aliases": [
+        "awards ceremony",
+        "awards presentation"
+      ],
+      "count": 3
     },
     "climbing": {
       "id": "climbing",
@@ -82,45 +142,132 @@
       ],
       "count": 2
     },
-    "conference-hosting": {
-      "id": "conference-hosting",
-      "preferred": "conference hosting",
+    "live-interview": {
+      "id": "live-interview",
+      "preferred": "live interview",
       "aliases": [
-        "conference hosting"
+        "live interview"
       ],
       "count": 2
     },
-    "presentation": {
-      "id": "presentation",
-      "preferred": "presentation",
+    "corporate-training-workshop": {
+      "id": "corporate-training-workshop",
+      "preferred": "corporate training workshop",
       "aliases": [
-        "presentation"
+        "corporate training workshop"
       ],
       "count": 2
     },
-    "train-the-trainer": {
-      "id": "train-the-trainer",
-      "preferred": "Train the Trainer",
+    "presentation-design": {
+      "id": "presentation-design",
+      "preferred": "presentation design",
       "aliases": [
-        "Train the Trainer",
-        "train the trainer workshop"
+        "presentation design"
       ],
       "count": 2
     },
-    "on-stage-interview": {
-      "id": "on-stage-interview",
-      "preferred": "on-stage interview",
+    "speech-rehearsal": {
+      "id": "speech-rehearsal",
+      "preferred": "speech rehearsal",
       "aliases": [
-        "on-stage interview",
-        "stage interview"
+        "speech rehearsal"
       ],
       "count": 2
     },
-    "speech-analysis": {
-      "id": "speech-analysis",
-      "preferred": "speech analysis",
+    "creating-presentations": {
+      "id": "creating-presentations",
+      "preferred": "creating presentations",
       "aliases": [
-        "speech analysis"
+        "creating presentations"
+      ],
+      "count": 2
+    },
+    "public-speaking-preparation": {
+      "id": "public-speaking-preparation",
+      "preferred": "public speaking preparation",
+      "aliases": [
+        "public speaking preparation"
+      ],
+      "count": 2
+    },
+    "presenting": {
+      "id": "presenting",
+      "preferred": "presenting",
+      "aliases": [
+        "presenting"
+      ],
+      "count": 2
+    },
+    "radio-interview": {
+      "id": "radio-interview",
+      "preferred": "radio interview",
+      "aliases": [
+        "radio interview"
+      ],
+      "count": 2
+    },
+    "voice-coaching": {
+      "id": "voice-coaching",
+      "preferred": "voice coaching",
+      "aliases": [
+        "voice coaching"
+      ],
+      "count": 2
+    },
+    "tedx-talk": {
+      "id": "tedx-talk",
+      "preferred": "TEDx talk",
+      "aliases": [
+        "TEDx talk"
+      ],
+      "count": 2
+    },
+    "travel": {
+      "id": "travel",
+      "preferred": "travel",
+      "aliases": [
+        "travel"
+      ],
+      "count": 2
+    },
+    "leadership-communication": {
+      "id": "leadership-communication",
+      "preferred": "leadership communication",
+      "aliases": [
+        "leadership communication"
+      ],
+      "count": 2
+    },
+    "presentation-skills": {
+      "id": "presentation-skills",
+      "preferred": "presentation skills",
+      "aliases": [
+        "presentation skills"
+      ],
+      "count": 2
+    },
+    "timed-speaking-practice": {
+      "id": "timed-speaking-practice",
+      "preferred": "timed speaking practice",
+      "aliases": [
+        "timed speaking practice"
+      ],
+      "count": 2
+    },
+    "virtual-presentation": {
+      "id": "virtual-presentation",
+      "preferred": "virtual presentation",
+      "aliases": [
+        "virtual presentation",
+        "virtual presenting"
+      ],
+      "count": 2
+    },
+    "workshop-announcement": {
+      "id": "workshop-announcement",
+      "preferred": "workshop announcement",
+      "aliases": [
+        "workshop announcement"
       ],
       "count": 1
     },
@@ -137,14 +284,6 @@
       "preferred": "business communication",
       "aliases": [
         "business communication"
-      ],
-      "count": 1
-    },
-    "presentation-delivery": {
-      "id": "presentation-delivery",
-      "preferred": "presentation delivery",
-      "aliases": [
-        "presentation delivery"
       ],
       "count": 1
     },
@@ -220,35 +359,11 @@
       ],
       "count": 1
     },
-    "live-interview": {
-      "id": "live-interview",
-      "preferred": "live interview",
-      "aliases": [
-        "live interview"
-      ],
-      "count": 1
-    },
     "executive-coaching": {
       "id": "executive-coaching",
       "preferred": "executive coaching",
       "aliases": [
         "executive coaching"
-      ],
-      "count": 1
-    },
-    "presentation-preparation": {
-      "id": "presentation-preparation",
-      "preferred": "presentation preparation",
-      "aliases": [
-        "presentation preparation"
-      ],
-      "count": 1
-    },
-    "corporate-training-workshop": {
-      "id": "corporate-training-workshop",
-      "preferred": "corporate training workshop",
-      "aliases": [
-        "corporate training workshop"
       ],
       "count": 1
     },
@@ -268,19 +383,27 @@
       ],
       "count": 1
     },
+    "train-the-trainer": {
+      "id": "train-the-trainer",
+      "preferred": "Train the Trainer",
+      "aliases": [
+        "Train the Trainer"
+      ],
+      "count": 1
+    },
+    "train-the-trainer-workshop": {
+      "id": "train-the-trainer-workshop",
+      "preferred": "train the trainer workshop",
+      "aliases": [
+        "train the trainer workshop"
+      ],
+      "count": 1
+    },
     "event-hosting-and-moderation": {
       "id": "event-hosting-and-moderation",
       "preferred": "event hosting and moderation",
       "aliases": [
         "event hosting and moderation"
-      ],
-      "count": 1
-    },
-    "industry-conference": {
-      "id": "industry-conference",
-      "preferred": "industry conference",
-      "aliases": [
-        "industry conference"
       ],
       "count": 1
     },
@@ -297,14 +420,6 @@
       "preferred": "one-on-one coaching",
       "aliases": [
         "one-on-one coaching"
-      ],
-      "count": 1
-    },
-    "corporate-workshop": {
-      "id": "corporate-workshop",
-      "preferred": "corporate workshop",
-      "aliases": [
-        "corporate workshop"
       ],
       "count": 1
     },
@@ -332,6 +447,14 @@
       ],
       "count": 1
     },
+    "conference-hosting": {
+      "id": "conference-hosting",
+      "preferred": "conference hosting",
+      "aliases": [
+        "conference hosting"
+      ],
+      "count": 1
+    },
     "conference-hosting-and-pitch-coaching": {
       "id": "conference-hosting-and-pitch-coaching",
       "preferred": "conference hosting and pitch coaching",
@@ -348,54 +471,6 @@
       ],
       "count": 1
     },
-    "startup-pitch": {
-      "id": "startup-pitch",
-      "preferred": "startup pitch",
-      "aliases": [
-        "startup pitch"
-      ],
-      "count": 1
-    },
-    "school-presentation": {
-      "id": "school-presentation",
-      "preferred": "school presentation",
-      "aliases": [
-        "school presentation"
-      ],
-      "count": 1
-    },
-    "speech-training": {
-      "id": "speech-training",
-      "preferred": "speech training",
-      "aliases": [
-        "speech training"
-      ],
-      "count": 1
-    },
-    "award-ceremony-reflection": {
-      "id": "award-ceremony-reflection",
-      "preferred": "award ceremony reflection",
-      "aliases": [
-        "award ceremony reflection"
-      ],
-      "count": 1
-    },
-    "presentation-training": {
-      "id": "presentation-training",
-      "preferred": "presentation training",
-      "aliases": [
-        "presentation training"
-      ],
-      "count": 1
-    },
-    "awards-ceremony-hosting": {
-      "id": "awards-ceremony-hosting",
-      "preferred": "awards ceremony hosting",
-      "aliases": [
-        "awards ceremony hosting"
-      ],
-      "count": 1
-    },
     "testimonial": {
       "id": "testimonial",
       "preferred": "testimonial",
@@ -404,24 +479,570 @@
       ],
       "count": 1
     },
-    "presentation-demonstration": {
-      "id": "presentation-demonstration",
-      "preferred": "presentation demonstration",
+    "productivity-planning": {
+      "id": "productivity-planning",
+      "preferred": "productivity planning",
       "aliases": [
-        "presentation demonstration"
+        "productivity planning"
       ],
       "count": 1
     },
-    "workshop-training": {
-      "id": "workshop-training",
-      "preferred": "workshop training",
+    "stage-presentation": {
+      "id": "stage-presentation",
+      "preferred": "stage presentation",
       "aliases": [
-        "workshop training"
+        "stage presentation"
+      ],
+      "count": 1
+    },
+    "presentation-evaluation": {
+      "id": "presentation-evaluation",
+      "preferred": "presentation evaluation",
+      "aliases": [
+        "presentation evaluation"
+      ],
+      "count": 1
+    },
+    "creating-ai-music-playlists": {
+      "id": "creating-ai-music-playlists",
+      "preferred": "creating AI music playlists",
+      "aliases": [
+        "creating AI music playlists"
+      ],
+      "count": 1
+    },
+    "presentation-coaching": {
+      "id": "presentation-coaching",
+      "preferred": "presentation coaching",
+      "aliases": [
+        "presentation coaching"
+      ],
+      "count": 1
+    },
+    "fireside-chat": {
+      "id": "fireside-chat",
+      "preferred": "fireside chat",
+      "aliases": [
+        "fireside chat"
+      ],
+      "count": 1
+    },
+    "client-communication": {
+      "id": "client-communication",
+      "preferred": "client communication",
+      "aliases": [
+        "client communication"
+      ],
+      "count": 1
+    },
+    "relationship-building": {
+      "id": "relationship-building",
+      "preferred": "relationship building",
+      "aliases": [
+        "relationship building"
+      ],
+      "count": 1
+    },
+    "active-listening": {
+      "id": "active-listening",
+      "preferred": "active listening",
+      "aliases": [
+        "active listening"
+      ],
+      "count": 1
+    },
+    "speech-opening": {
+      "id": "speech-opening",
+      "preferred": "speech opening",
+      "aliases": [
+        "speech opening"
+      ],
+      "count": 1
+    },
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 1
+    },
+    "sales-coaching": {
+      "id": "sales-coaching",
+      "preferred": "sales coaching",
+      "aliases": [
+        "sales coaching"
+      ],
+      "count": 1
+    },
+    "brand-collaboration": {
+      "id": "brand-collaboration",
+      "preferred": "brand collaboration",
+      "aliases": [
+        "brand collaboration"
+      ],
+      "count": 1
+    },
+    "workshop-delivery": {
+      "id": "workshop-delivery",
+      "preferred": "workshop delivery",
+      "aliases": [
+        "workshop delivery"
+      ],
+      "count": 1
+    },
+    "event-promotion": {
+      "id": "event-promotion",
+      "preferred": "event promotion",
+      "aliases": [
+        "event promotion"
+      ],
+      "count": 1
+    },
+    "conference-presenting": {
+      "id": "conference-presenting",
+      "preferred": "conference presenting",
+      "aliases": [
+        "conference presenting"
+      ],
+      "count": 1
+    },
+    "speechwriting": {
+      "id": "speechwriting",
+      "preferred": "speechwriting",
+      "aliases": [
+        "speechwriting"
+      ],
+      "count": 1
+    },
+    "business-kongress": {
+      "id": "business-kongress",
+      "preferred": "Business-Kongress",
+      "aliases": [
+        "Business-Kongress"
+      ],
+      "count": 1
+    },
+    "conference-emcee": {
+      "id": "conference-emcee",
+      "preferred": "conference emcee",
+      "aliases": [
+        "conference emcee"
+      ],
+      "count": 1
+    },
+    "personal-reflection": {
+      "id": "personal-reflection",
+      "preferred": "personal reflection",
+      "aliases": [
+        "personal reflection"
+      ],
+      "count": 1
+    },
+    "conference-host-announcement": {
+      "id": "conference-host-announcement",
+      "preferred": "conference host announcement",
+      "aliases": [
+        "conference host announcement"
+      ],
+      "count": 1
+    },
+    "reflection": {
+      "id": "reflection",
+      "preferred": "reflection",
+      "aliases": [
+        "reflection"
+      ],
+      "count": 1
+    },
+    "milestone-celebration": {
+      "id": "milestone-celebration",
+      "preferred": "milestone celebration",
+      "aliases": [
+        "milestone celebration"
+      ],
+      "count": 1
+    },
+    "public-speaking-coaching": {
+      "id": "public-speaking-coaching",
+      "preferred": "public speaking coaching",
+      "aliases": [
+        "public speaking coaching"
+      ],
+      "count": 1
+    },
+    "speaking-skills-training": {
+      "id": "speaking-skills-training",
+      "preferred": "speaking skills training",
+      "aliases": [
+        "speaking skills training"
+      ],
+      "count": 1
+    },
+    "ticket-giveaway": {
+      "id": "ticket-giveaway",
+      "preferred": "ticket giveaway",
+      "aliases": [
+        "ticket giveaway"
+      ],
+      "count": 1
+    },
+    "tour-guiding": {
+      "id": "tour-guiding",
+      "preferred": "tour guiding",
+      "aliases": [
+        "tour guiding"
+      ],
+      "count": 1
+    },
+    "voice-messages-practice": {
+      "id": "voice-messages-practice",
+      "preferred": "voice messages practice",
+      "aliases": [
+        "voice messages practice"
+      ],
+      "count": 1
+    },
+    "coaching": {
+      "id": "coaching",
+      "preferred": "coaching",
+      "aliases": [
+        "coaching"
+      ],
+      "count": 1
+    },
+    "festival-hosting": {
+      "id": "festival-hosting",
+      "preferred": "festival hosting",
+      "aliases": [
+        "festival hosting"
+      ],
+      "count": 1
+    },
+    "interview": {
+      "id": "interview",
+      "preferred": "interview",
+      "aliases": [
+        "interview"
+      ],
+      "count": 1
+    },
+    "tech-conference-attendance": {
+      "id": "tech-conference-attendance",
+      "preferred": "tech conference attendance",
+      "aliases": [
+        "tech conference attendance"
+      ],
+      "count": 1
+    },
+    "morning-routine": {
+      "id": "morning-routine",
+      "preferred": "morning routine",
+      "aliases": [
+        "morning routine"
+      ],
+      "count": 1
+    },
+    "fitness-activity": {
+      "id": "fitness-activity",
+      "preferred": "fitness activity",
+      "aliases": [
+        "fitness activity"
+      ],
+      "count": 1
+    },
+    "closing-ceremony-hosting": {
+      "id": "closing-ceremony-hosting",
+      "preferred": "closing ceremony hosting",
+      "aliases": [
+        "closing ceremony hosting"
+      ],
+      "count": 1
+    },
+    "event-preparation": {
+      "id": "event-preparation",
+      "preferred": "event preparation",
+      "aliases": [
+        "event preparation"
+      ],
+      "count": 1
+    },
+    "fact-checking-ai-output": {
+      "id": "fact-checking-ai-output",
+      "preferred": "fact-checking AI output",
+      "aliases": [
+        "fact-checking AI output"
+      ],
+      "count": 1
+    },
+    "meet-and-greet": {
+      "id": "meet-and-greet",
+      "preferred": "meet-and-greet",
+      "aliases": [
+        "meet-and-greet"
+      ],
+      "count": 1
+    },
+    "online-course-announcement": {
+      "id": "online-course-announcement",
+      "preferred": "online course announcement",
+      "aliases": [
+        "online course announcement"
+      ],
+      "count": 1
+    },
+    "client-pitch-presentation": {
+      "id": "client-pitch-presentation",
+      "preferred": "client pitch presentation",
+      "aliases": [
+        "client pitch presentation"
+      ],
+      "count": 1
+    },
+    "event-presenting": {
+      "id": "event-presenting",
+      "preferred": "event presenting",
+      "aliases": [
+        "event presenting"
+      ],
+      "count": 1
+    },
+    "slide-design": {
+      "id": "slide-design",
+      "preferred": "slide design",
+      "aliases": [
+        "slide design"
+      ],
+      "count": 1
+    },
+    "vocal-exercise": {
+      "id": "vocal-exercise",
+      "preferred": "vocal exercise",
+      "aliases": [
+        "vocal exercise"
+      ],
+      "count": 1
+    },
+    "online-workshop": {
+      "id": "online-workshop",
+      "preferred": "online workshop",
+      "aliases": [
+        "online workshop"
+      ],
+      "count": 1
+    },
+    "master-of-ceremonies": {
+      "id": "master-of-ceremonies",
+      "preferred": "master of ceremonies",
+      "aliases": [
+        "master of ceremonies"
+      ],
+      "count": 1
+    },
+    "year-end-reflection": {
+      "id": "year-end-reflection",
+      "preferred": "year-end reflection",
+      "aliases": [
+        "year-end reflection"
+      ],
+      "count": 1
+    },
+    "greeting": {
+      "id": "greeting",
+      "preferred": "greeting",
+      "aliases": [
+        "greeting"
+      ],
+      "count": 1
+    },
+    "media-appearance": {
+      "id": "media-appearance",
+      "preferred": "media appearance",
+      "aliases": [
+        "media appearance"
+      ],
+      "count": 1
+    },
+    "motivational-speech": {
+      "id": "motivational-speech",
+      "preferred": "motivational speech",
+      "aliases": [
+        "motivational speech"
+      ],
+      "count": 1
+    },
+    "industry-conference": {
+      "id": "industry-conference",
+      "preferred": "industry conference",
+      "aliases": [
+        "industry conference"
+      ],
+      "count": 1
+    },
+    "gate-academy": {
+      "id": "gate-academy",
+      "preferred": "gate-Academy",
+      "aliases": [
+        "gate-Academy"
+      ],
+      "count": 1
+    },
+    "pitch-competition": {
+      "id": "pitch-competition",
+      "preferred": "pitch competition",
+      "aliases": [
+        "pitch competition"
+      ],
+      "count": 1
+    },
+    "speaking-coaching": {
+      "id": "speaking-coaching",
+      "preferred": "speaking coaching",
+      "aliases": [
+        "speaking coaching"
+      ],
+      "count": 1
+    },
+    "team-workshop": {
+      "id": "team-workshop",
+      "preferred": "team workshop",
+      "aliases": [
+        "team workshop"
+      ],
+      "count": 1
+    },
+    "panel-moderation": {
+      "id": "panel-moderation",
+      "preferred": "panel moderation",
+      "aliases": [
+        "panel moderation"
+      ],
+      "count": 1
+    },
+    "presentation-delivery": {
+      "id": "presentation-delivery",
+      "preferred": "presentation delivery",
+      "aliases": [
+        "presentation delivery"
+      ],
+      "count": 1
+    },
+    "pitching-presentation": {
+      "id": "pitching-presentation",
+      "preferred": "pitching presentation",
+      "aliases": [
+        "pitching presentation"
+      ],
+      "count": 1
+    },
+    "vocal-training": {
+      "id": "vocal-training",
+      "preferred": "vocal training",
+      "aliases": [
+        "vocal training"
+      ],
+      "count": 1
+    },
+    "sales-pitch": {
+      "id": "sales-pitch",
+      "preferred": "sales pitch",
+      "aliases": [
+        "sales pitch"
+      ],
+      "count": 1
+    },
+    "brand-scaling": {
+      "id": "brand-scaling",
+      "preferred": "brand scaling",
+      "aliases": [
+        "brand scaling"
+      ],
+      "count": 1
+    },
+    "pitching": {
+      "id": "pitching",
+      "preferred": "pitching",
+      "aliases": [
+        "pitching"
+      ],
+      "count": 1
+    },
+    "vr-practice": {
+      "id": "vr-practice",
+      "preferred": "VR practice",
+      "aliases": [
+        "VR practice"
+      ],
+      "count": 1
+    },
+    "toastmasters": {
+      "id": "toastmasters",
+      "preferred": "Toastmasters",
+      "aliases": [
+        "Toastmasters"
+      ],
+      "count": 1
+    },
+    "small-talk": {
+      "id": "small-talk",
+      "preferred": "small talk",
+      "aliases": [
+        "small talk"
+      ],
+      "count": 1
+    },
+    "self-introduction": {
+      "id": "self-introduction",
+      "preferred": "self-introduction",
+      "aliases": [
+        "self-introduction"
+      ],
+      "count": 1
+    },
+    "podcast-intro": {
+      "id": "podcast-intro",
+      "preferred": "podcast intro",
+      "aliases": [
+        "podcast intro"
+      ],
+      "count": 1
+    },
+    "speaker-introduction": {
+      "id": "speaker-introduction",
+      "preferred": "speaker introduction",
+      "aliases": [
+        "speaker introduction"
+      ],
+      "count": 1
+    },
+    "voice-practice": {
+      "id": "voice-practice",
+      "preferred": "voice practice",
+      "aliases": [
+        "voice practice"
       ],
       "count": 1
     }
   },
   "situation": {
+    "stage-fright": {
+      "id": "stage-fright",
+      "preferred": "stage fright",
+      "aliases": [
+        "feeling nervous before speaking on stage",
+        "stage fright"
+      ],
+      "count": 4
+    },
+    "presenting-on-stage": {
+      "id": "presenting-on-stage",
+      "preferred": "presenting on stage",
+      "aliases": [
+        "presenting on stage",
+        "speaking on stage"
+      ],
+      "count": 4
+    },
     "times-of-uncertainty": {
       "id": "times-of-uncertainty",
       "preferred": "times of uncertainty",
@@ -430,19 +1051,44 @@
       ],
       "count": 3
     },
-    "stage-fright": {
-      "id": "stage-fright",
-      "preferred": "stage fright",
+    "leaders-struggling-to-connect-with-gen-z": {
+      "id": "leaders-struggling-to-connect-with-gen-z",
+      "preferred": "leaders struggling to connect with Gen Z",
       "aliases": [
-        "stage fright"
+        "leaders struggling to connect with Gen Z"
       ],
-      "count": 3
+      "count": 2
     },
-    "presenting-on-stage": {
-      "id": "presenting-on-stage",
-      "preferred": "presenting on stage",
+    "communicating-in-the-age-of-ai": {
+      "id": "communicating-in-the-age-of-ai",
+      "preferred": "communicating in the age of AI",
       "aliases": [
-        "presenting on stage"
+        "communicating in the age of AI"
+      ],
+      "count": 2
+    },
+    "overreliance-on-ai": {
+      "id": "overreliance-on-ai",
+      "preferred": "overreliance on AI",
+      "aliases": [
+        "overreliance on AI"
+      ],
+      "count": 2
+    },
+    "facing-negativity-and-fear-about-the-future": {
+      "id": "facing-negativity-and-fear-about-the-future",
+      "preferred": "facing negativity and fear about the future",
+      "aliases": [
+        "facing negativity and fear about the future"
+      ],
+      "count": 2
+    },
+    "meeting-someone-for-the-first-time": {
+      "id": "meeting-someone-for-the-first-time",
+      "preferred": "meeting someone for the first time",
+      "aliases": [
+        "meeting someone for the first time",
+        "meeting someone new"
       ],
       "count": 2
     },
@@ -455,27 +1101,38 @@
       ],
       "count": 2
     },
-    "meeting-someone-for-the-first-time": {
-      "id": "meeting-someone-for-the-first-time",
-      "preferred": "meeting someone for the first time",
+    "presenting-to-an-internationally-diverse-audience": {
+      "id": "presenting-to-an-internationally-diverse-audience",
+      "preferred": "presenting to an internationally diverse audience",
       "aliases": [
-        "meeting someone for the first time"
+        "multicultural audience",
+        "presenting to an internationally diverse audience"
       ],
-      "count": 1
+      "count": 2
+    },
+    "preparing-annual-end-of-year-team-address": {
+      "id": "preparing-annual-end-of-year-team-address",
+      "preferred": "preparing annual end-of-year team address",
+      "aliases": [
+        "addressing a team or audience at year-end",
+        "preparing annual end-of-year team address"
+      ],
+      "count": 2
+    },
+    "english-is-not-first-language": {
+      "id": "english-is-not-first-language",
+      "preferred": "English is not first language",
+      "aliases": [
+        "English is not first language",
+        "speaking English as a second language"
+      ],
+      "count": 2
     },
     "maintaining-authenticity-and-leadership-presence-with-ai": {
       "id": "maintaining-authenticity-and-leadership-presence-with-ai",
       "preferred": "maintaining authenticity and leadership presence with AI",
       "aliases": [
         "maintaining authenticity and leadership presence with AI"
-      ],
-      "count": 1
-    },
-    "leading-conversations": {
-      "id": "leading-conversations",
-      "preferred": "leading conversations",
-      "aliases": [
-        "leading conversations"
       ],
       "count": 1
     },
@@ -540,14 +1197,6 @@
       "preferred": "stepping onto the stage",
       "aliases": [
         "stepping onto the stage"
-      ],
-      "count": 1
-    },
-    "five-minutes-before-stepping-on-stage": {
-      "id": "five-minutes-before-stepping-on-stage",
-      "preferred": "five minutes before stepping on stage",
-      "aliases": [
-        "five minutes before stepping on stage"
       ],
       "count": 1
     },
@@ -655,22 +1304,6 @@
       ],
       "count": 1
     },
-    "launching-controversial-or-polarizing-products": {
-      "id": "launching-controversial-or-polarizing-products",
-      "preferred": "launching controversial or polarizing products",
-      "aliases": [
-        "launching controversial or polarizing products"
-      ],
-      "count": 1
-    },
-    "launching-polarizing-products": {
-      "id": "launching-polarizing-products",
-      "preferred": "launching polarizing products",
-      "aliases": [
-        "launching polarizing products"
-      ],
-      "count": 1
-    },
     "presenting-slides-created-by-ai-without-prior-review": {
       "id": "presenting-slides-created-by-ai-without-prior-review",
       "preferred": "presenting slides created by AI without prior review",
@@ -716,14 +1349,6 @@
       "preferred": "high-ticket product shock",
       "aliases": [
         "high-ticket product shock"
-      ],
-      "count": 1
-    },
-    "connecting-digitally-in-an-ai-dominated-world": {
-      "id": "connecting-digitally-in-an-ai-dominated-world",
-      "preferred": "connecting digitally in an AI-dominated world",
-      "aliases": [
-        "connecting digitally in an AI-dominated world"
       ],
       "count": 1
     },
@@ -783,14 +1408,6 @@
       ],
       "count": 1
     },
-    "pitch-competition": {
-      "id": "pitch-competition",
-      "preferred": "pitch competition",
-      "aliases": [
-        "pitch competition"
-      ],
-      "count": 1
-    },
     "no-presenter-available": {
       "id": "no-presenter-available",
       "preferred": "no presenter available",
@@ -823,27 +1440,11 @@
       ],
       "count": 1
     },
-    "competing-with-distractions": {
-      "id": "competing-with-distractions",
-      "preferred": "competing with distractions",
-      "aliases": [
-        "competing with distractions"
-      ],
-      "count": 1
-    },
     "browsing-in-store-without-immediate-intent-to-buy": {
       "id": "browsing-in-store-without-immediate-intent-to-buy",
       "preferred": "browsing in-store without immediate intent to buy",
       "aliases": [
         "browsing in-store without immediate intent to buy"
-      ],
-      "count": 1
-    },
-    "leaving-full-time-employment": {
-      "id": "leaving-full-time-employment",
-      "preferred": "leaving full-time employment",
-      "aliases": [
-        "leaving full-time employment"
       ],
       "count": 1
     },
@@ -855,27 +1456,859 @@
       ],
       "count": 1
     },
-    "preparing-for-a-presentation": {
-      "id": "preparing-for-a-presentation",
-      "preferred": "preparing for a presentation",
+    "nervousness-presenting-to-stakeholders": {
+      "id": "nervousness-presenting-to-stakeholders",
+      "preferred": "nervousness presenting to stakeholders",
       "aliases": [
-        "preparing for a presentation"
+        "nervousness presenting to stakeholders"
       ],
       "count": 1
     },
-    "explaining-startup-challenges": {
-      "id": "explaining-startup-challenges",
-      "preferred": "explaining startup challenges",
+    "new-hire-backs-out-last-minute": {
+      "id": "new-hire-backs-out-last-minute",
+      "preferred": "new hire backs out last minute",
       "aliases": [
-        "explaining startup challenges"
+        "new hire backs out last minute"
       ],
       "count": 1
     },
-    "entering-a-room-to-connect-with-people": {
-      "id": "entering-a-room-to-connect-with-people",
-      "preferred": "entering a room to connect with people",
+    "returning-to-work-after-holidays": {
+      "id": "returning-to-work-after-holidays",
+      "preferred": "returning to work after holidays",
       "aliases": [
-        "entering a room to connect with people"
+        "returning to work after holidays"
+      ],
+      "count": 1
+    },
+    "performance-anxiety": {
+      "id": "performance-anxiety",
+      "preferred": "performance anxiety",
+      "aliases": [
+        "performance anxiety"
+      ],
+      "count": 1
+    },
+    "nervous-before-stepping-on-stage": {
+      "id": "nervous-before-stepping-on-stage",
+      "preferred": "nervous before stepping on stage",
+      "aliases": [
+        "nervous before stepping on stage"
+      ],
+      "count": 1
+    },
+    "standing-out-in-a-crowded-market": {
+      "id": "standing-out-in-a-crowded-market",
+      "preferred": "standing out in a crowded market",
+      "aliases": [
+        "standing out in a crowded market"
+      ],
+      "count": 1
+    },
+    "feeling-bad-before-a-keynote": {
+      "id": "feeling-bad-before-a-keynote",
+      "preferred": "feeling bad before a keynote",
+      "aliases": [
+        "feeling bad before a keynote"
+      ],
+      "count": 1
+    },
+    "preparing-founders-to-pitch-at-startup-challenges": {
+      "id": "preparing-founders-to-pitch-at-startup-challenges",
+      "preferred": "preparing founders to pitch at startup challenges",
+      "aliases": [
+        "preparing founders to pitch at startup challenges"
+      ],
+      "count": 1
+    },
+    "returning-to-an-old-sport-or-hobby": {
+      "id": "returning-to-an-old-sport-or-hobby",
+      "preferred": "returning to an old sport or hobby",
+      "aliases": [
+        "returning to an old sport or hobby"
+      ],
+      "count": 1
+    },
+    "disconnecting-on-the-weekend": {
+      "id": "disconnecting-on-the-weekend",
+      "preferred": "disconnecting on the weekend",
+      "aliases": [
+        "disconnecting on the weekend"
+      ],
+      "count": 1
+    },
+    "hating-your-accent-when-speaking-english": {
+      "id": "hating-your-accent-when-speaking-english",
+      "preferred": "hating your accent when speaking English",
+      "aliases": [
+        "hating your accent when speaking English"
+      ],
+      "count": 1
+    },
+    "valuable-contractor-leaving-agency": {
+      "id": "valuable-contractor-leaving-agency",
+      "preferred": "valuable contractor leaving agency",
+      "aliases": [
+        "valuable contractor leaving agency"
+      ],
+      "count": 1
+    },
+    "experienced-speaker-preparing-for-an-upcoming-presentation": {
+      "id": "experienced-speaker-preparing-for-an-upcoming-presentation",
+      "preferred": "experienced speaker preparing for an upcoming presentation",
+      "aliases": [
+        "experienced speaker preparing for an upcoming presentation"
+      ],
+      "count": 1
+    },
+    "training-during-ramadan": {
+      "id": "training-during-ramadan",
+      "preferred": "training during Ramadan",
+      "aliases": [
+        "training during Ramadan"
+      ],
+      "count": 1
+    },
+    "celebrating-and-empowering-women": {
+      "id": "celebrating-and-empowering-women",
+      "preferred": "celebrating and empowering women",
+      "aliases": [
+        "celebrating and empowering women"
+      ],
+      "count": 1
+    },
+    "nervous-about-speaking-in-front-of-an-audience": {
+      "id": "nervous-about-speaking-in-front-of-an-audience",
+      "preferred": "nervous about speaking in front of an audience",
+      "aliases": [
+        "nervous about speaking in front of an audience"
+      ],
+      "count": 1
+    },
+    "trying-something-completely-new": {
+      "id": "trying-something-completely-new",
+      "preferred": "trying something completely new",
+      "aliases": [
+        "trying something completely new"
+      ],
+      "count": 1
+    },
+    "trying-something-new": {
+      "id": "trying-something-new",
+      "preferred": "trying something new",
+      "aliases": [
+        "trying something new"
+      ],
+      "count": 1
+    },
+    "working-from-unconventional-locations": {
+      "id": "working-from-unconventional-locations",
+      "preferred": "working from unconventional locations",
+      "aliases": [
+        "working from unconventional locations"
+      ],
+      "count": 1
+    },
+    "struggling-to-remember-your-script-for-a-speech-or-presentat": {
+      "id": "struggling-to-remember-your-script-for-a-speech-or-presentat",
+      "preferred": "struggling to remember your script for a speech or presentation",
+      "aliases": [
+        "struggling to remember your script for a speech or presentation"
+      ],
+      "count": 1
+    },
+    "high-stakes-conversations": {
+      "id": "high-stakes-conversations",
+      "preferred": "high-stakes conversations",
+      "aliases": [
+        "high-stakes conversations"
+      ],
+      "count": 1
+    },
+    "shaking-or-nervous-before-a-talk": {
+      "id": "shaking-or-nervous-before-a-talk",
+      "preferred": "shaking or nervous before a talk",
+      "aliases": [
+        "shaking or nervous before a talk"
+      ],
+      "count": 1
+    },
+    "asked-what-do-you-do-or-tell-us-about-yourself": {
+      "id": "asked-what-do-you-do-or-tell-us-about-yourself",
+      "preferred": "asked 'what do you do?' or 'tell us about yourself'",
+      "aliases": [
+        "asked 'what do you do?' or 'tell us about yourself'"
+      ],
+      "count": 1
+    },
+    "self-criticism-and-downplaying-wins": {
+      "id": "self-criticism-and-downplaying-wins",
+      "preferred": "self-criticism and downplaying wins",
+      "aliases": [
+        "self-criticism and downplaying wins"
+      ],
+      "count": 1
+    },
+    "doing-something-unexpected-on-stage": {
+      "id": "doing-something-unexpected-on-stage",
+      "preferred": "doing something unexpected on stage",
+      "aliases": [
+        "doing something unexpected on stage"
+      ],
+      "count": 1
+    },
+    "speaking-to-high-profile-professionals": {
+      "id": "speaking-to-high-profile-professionals",
+      "preferred": "speaking to high-profile professionals",
+      "aliases": [
+        "speaking to high-profile professionals"
+      ],
+      "count": 1
+    },
+    "busy-work-schedule": {
+      "id": "busy-work-schedule",
+      "preferred": "busy work schedule",
+      "aliases": [
+        "busy work schedule"
+      ],
+      "count": 1
+    },
+    "preparing-for-wedding-season": {
+      "id": "preparing-for-wedding-season",
+      "preferred": "preparing for wedding season",
+      "aliases": [
+        "preparing for wedding season"
+      ],
+      "count": 1
+    },
+    "mind-goes-blank-on-stage": {
+      "id": "mind-goes-blank-on-stage",
+      "preferred": "mind goes blank on stage",
+      "aliases": [
+        "mind goes blank on stage"
+      ],
+      "count": 1
+    },
+    "speaking-on-stage-with-a-handheld-mic": {
+      "id": "speaking-on-stage-with-a-handheld-mic",
+      "preferred": "speaking on stage with a handheld mic",
+      "aliases": [
+        "speaking on stage with a handheld mic"
+      ],
+      "count": 1
+    },
+    "unexpected-encounter-with-another-speaker": {
+      "id": "unexpected-encounter-with-another-speaker",
+      "preferred": "unexpected encounter with another speaker",
+      "aliases": [
+        "unexpected encounter with another speaker"
+      ],
+      "count": 1
+    },
+    "meeting-nigerian-minister-at-gitex-europe": {
+      "id": "meeting-nigerian-minister-at-gitex-europe",
+      "preferred": "meeting Nigerian minister at GITEX EUROPE",
+      "aliases": [
+        "meeting Nigerian minister at GITEX EUROPE"
+      ],
+      "count": 1
+    },
+    "struggling-to-lift-heavy-weight": {
+      "id": "struggling-to-lift-heavy-weight",
+      "preferred": "struggling to lift heavy weight",
+      "aliases": [
+        "struggling to lift heavy weight"
+      ],
+      "count": 1
+    },
+    "navigating-personal-crisis-and-uncertainty": {
+      "id": "navigating-personal-crisis-and-uncertainty",
+      "preferred": "navigating personal crisis and uncertainty",
+      "aliases": [
+        "navigating personal crisis and uncertainty"
+      ],
+      "count": 1
+    },
+    "getting-makeup-done-before-going-on-stage": {
+      "id": "getting-makeup-done-before-going-on-stage",
+      "preferred": "getting makeup done before going on stage",
+      "aliases": [
+        "getting makeup done before going on stage"
+      ],
+      "count": 1
+    },
+    "speaking-without-seeing-the-audience": {
+      "id": "speaking-without-seeing-the-audience",
+      "preferred": "speaking without seeing the audience",
+      "aliases": [
+        "speaking without seeing the audience"
+      ],
+      "count": 1
+    },
+    "language-barrier": {
+      "id": "language-barrier",
+      "preferred": "language barrier",
+      "aliases": [
+        "language barrier"
+      ],
+      "count": 1
+    },
+    "stressful-and-challenging-times": {
+      "id": "stressful-and-challenging-times",
+      "preferred": "stressful and challenging times",
+      "aliases": [
+        "stressful and challenging times"
+      ],
+      "count": 1
+    },
+    "facing-difficult-times": {
+      "id": "facing-difficult-times",
+      "preferred": "facing difficult times",
+      "aliases": [
+        "facing difficult times"
+      ],
+      "count": 1
+    },
+    "holiday-reset": {
+      "id": "holiday-reset",
+      "preferred": "holiday reset",
+      "aliases": [
+        "holiday reset"
+      ],
+      "count": 1
+    },
+    "speaking-anxiety": {
+      "id": "speaking-anxiety",
+      "preferred": "speaking anxiety",
+      "aliases": [
+        "speaking anxiety"
+      ],
+      "count": 1
+    },
+    "learning-through-practice": {
+      "id": "learning-through-practice",
+      "preferred": "learning through practice",
+      "aliases": [
+        "learning through practice"
+      ],
+      "count": 1
+    },
+    "focusing-on-quality-over-volume": {
+      "id": "focusing-on-quality-over-volume",
+      "preferred": "focusing on quality over volume",
+      "aliases": [
+        "focusing on quality over volume"
+      ],
+      "count": 1
+    },
+    "busy-work-and-travel-schedule": {
+      "id": "busy-work-and-travel-schedule",
+      "preferred": "busy work and travel schedule",
+      "aliases": [
+        "busy work and travel schedule"
+      ],
+      "count": 1
+    },
+    "lacking-direction": {
+      "id": "lacking-direction",
+      "preferred": "lacking direction",
+      "aliases": [
+        "lacking direction"
+      ],
+      "count": 1
+    },
+    "being-misunderstood-due-to-an-accent": {
+      "id": "being-misunderstood-due-to-an-accent",
+      "preferred": "being misunderstood due to an accent",
+      "aliases": [
+        "being misunderstood due to an accent"
+      ],
+      "count": 1
+    },
+    "visiting-ancient-roman-ruins": {
+      "id": "visiting-ancient-roman-ruins",
+      "preferred": "visiting ancient Roman ruins",
+      "aliases": [
+        "visiting ancient Roman ruins"
+      ],
+      "count": 1
+    },
+    "audience-drifting-or-losing-focus": {
+      "id": "audience-drifting-or-losing-focus",
+      "preferred": "audience drifting or losing focus",
+      "aliases": [
+        "audience drifting or losing focus"
+      ],
+      "count": 1
+    },
+    "10-year-marriage-milestone": {
+      "id": "10-year-marriage-milestone",
+      "preferred": "10-year marriage milestone",
+      "aliases": [
+        "10-year marriage milestone"
+      ],
+      "count": 1
+    },
+    "in-flight-announcements": {
+      "id": "in-flight-announcements",
+      "preferred": "in-flight announcements",
+      "aliases": [
+        "in-flight announcements"
+      ],
+      "count": 1
+    },
+    "delivering-medical-keynotes-and-symposiums": {
+      "id": "delivering-medical-keynotes-and-symposiums",
+      "preferred": "delivering medical keynotes and symposiums",
+      "aliases": [
+        "delivering medical keynotes and symposiums"
+      ],
+      "count": 1
+    },
+    "15-year-anniversary-in-dubai": {
+      "id": "15-year-anniversary-in-dubai",
+      "preferred": "15-year anniversary in Dubai",
+      "aliases": [
+        "15-year anniversary in Dubai"
+      ],
+      "count": 1
+    },
+    "monotone-presentation-delivery": {
+      "id": "monotone-presentation-delivery",
+      "preferred": "monotone presentation delivery",
+      "aliases": [
+        "monotone presentation delivery"
+      ],
+      "count": 1
+    },
+    "medical-doctors-presenting-on-stage": {
+      "id": "medical-doctors-presenting-on-stage",
+      "preferred": "medical doctors presenting on stage",
+      "aliases": [
+        "medical doctors presenting on stage"
+      ],
+      "count": 1
+    },
+    "presentation-didn-t-land": {
+      "id": "presentation-didn-t-land",
+      "preferred": "presentation didn't land",
+      "aliases": [
+        "presentation didn't land"
+      ],
+      "count": 1
+    },
+    "balancing-weekend-work-shoot-with-parenting": {
+      "id": "balancing-weekend-work-shoot-with-parenting",
+      "preferred": "balancing weekend work shoot with parenting",
+      "aliases": [
+        "balancing weekend work shoot with parenting"
+      ],
+      "count": 1
+    },
+    "feeling-like-you-do-not-belong-or-are-being-judged": {
+      "id": "feeling-like-you-do-not-belong-or-are-being-judged",
+      "preferred": "feeling like you do not belong or are being judged",
+      "aliases": [
+        "feeling like you do not belong or are being judged"
+      ],
+      "count": 1
+    },
+    "sharing-data-with-chatgpt": {
+      "id": "sharing-data-with-chatgpt",
+      "preferred": "sharing data with ChatGPT",
+      "aliases": [
+        "sharing data with ChatGPT"
+      ],
+      "count": 1
+    },
+    "briefing-on-speakers-and-panels": {
+      "id": "briefing-on-speakers-and-panels",
+      "preferred": "briefing on speakers and panels",
+      "aliases": [
+        "briefing on speakers and panels"
+      ],
+      "count": 1
+    },
+    "requesting-industry-facts-and-sources": {
+      "id": "requesting-industry-facts-and-sources",
+      "preferred": "requesting industry facts and sources",
+      "aliases": [
+        "requesting industry facts and sources"
+      ],
+      "count": 1
+    },
+    "meeting-a-high-profile-figure": {
+      "id": "meeting-a-high-profile-figure",
+      "preferred": "meeting a high-profile figure",
+      "aliases": [
+        "meeting a high-profile figure"
+      ],
+      "count": 1
+    },
+    "delivering-forgettable-presentations-or-struggling-in-meetin": {
+      "id": "delivering-forgettable-presentations-or-struggling-in-meetin",
+      "preferred": "delivering forgettable presentations or struggling in meetings",
+      "aliases": [
+        "delivering forgettable presentations or struggling in meetings"
+      ],
+      "count": 1
+    },
+    "noticing-lack-of-engagement-during-a-remote-pitch": {
+      "id": "noticing-lack-of-engagement-during-a-remote-pitch",
+      "preferred": "noticing lack of engagement during a remote pitch",
+      "aliases": [
+        "noticing lack of engagement during a remote pitch"
+      ],
+      "count": 1
+    },
+    "working-remotely-near-the-beach": {
+      "id": "working-remotely-near-the-beach",
+      "preferred": "working remotely near the beach",
+      "aliases": [
+        "working remotely near the beach"
+      ],
+      "count": 1
+    },
+    "boarding-a-plane-late": {
+      "id": "boarding-a-plane-late",
+      "preferred": "boarding a plane late",
+      "aliases": [
+        "boarding a plane late"
+      ],
+      "count": 1
+    },
+    "traveling-in-iceland": {
+      "id": "traveling-in-iceland",
+      "preferred": "traveling in Iceland",
+      "aliases": [
+        "traveling in Iceland"
+      ],
+      "count": 1
+    },
+    "team-communication-at-year-end": {
+      "id": "team-communication-at-year-end",
+      "preferred": "team communication at year end",
+      "aliases": [
+        "team communication at year end"
+      ],
+      "count": 1
+    },
+    "year-end-burnout": {
+      "id": "year-end-burnout",
+      "preferred": "year-end burnout",
+      "aliases": [
+        "year-end burnout"
+      ],
+      "count": 1
+    },
+    "leaders-struggle-to-communicate-ideas-effectively": {
+      "id": "leaders-struggle-to-communicate-ideas-effectively",
+      "preferred": "leaders struggle to communicate ideas effectively",
+      "aliases": [
+        "leaders struggle to communicate ideas effectively"
+      ],
+      "count": 1
+    },
+    "approaching-year-end-goals": {
+      "id": "approaching-year-end-goals",
+      "preferred": "approaching year-end goals",
+      "aliases": [
+        "approaching year-end goals"
+      ],
+      "count": 1
+    },
+    "preparing-leadership-speeches-for-the-holidays": {
+      "id": "preparing-leadership-speeches-for-the-holidays",
+      "preferred": "preparing leadership speeches for the holidays",
+      "aliases": [
+        "preparing leadership speeches for the holidays"
+      ],
+      "count": 1
+    },
+    "celebrating-national-milestones": {
+      "id": "celebrating-national-milestones",
+      "preferred": "celebrating national milestones",
+      "aliases": [
+        "celebrating national milestones"
+      ],
+      "count": 1
+    },
+    "introducing-yourself-at-events-or-meetings": {
+      "id": "introducing-yourself-at-events-or-meetings",
+      "preferred": "introducing yourself at events or meetings",
+      "aliases": [
+        "introducing yourself at events or meetings"
+      ],
+      "count": 1
+    },
+    "navigating-personal-and-business-challenges": {
+      "id": "navigating-personal-and-business-challenges",
+      "preferred": "navigating personal and business challenges",
+      "aliases": [
+        "navigating personal and business challenges"
+      ],
+      "count": 1
+    },
+    "preparing-a-presentation-under-tight-deadlines": {
+      "id": "preparing-a-presentation-under-tight-deadlines",
+      "preferred": "preparing a presentation under tight deadlines",
+      "aliases": [
+        "preparing a presentation under tight deadlines"
+      ],
+      "count": 1
+    },
+    "racing-heart-before-speaking": {
+      "id": "racing-heart-before-speaking",
+      "preferred": "racing heart before speaking",
+      "aliases": [
+        "racing heart before speaking"
+      ],
+      "count": 1
+    },
+    "short-transactional-interactions": {
+      "id": "short-transactional-interactions",
+      "preferred": "short transactional interactions",
+      "aliases": [
+        "short transactional interactions"
+      ],
+      "count": 1
+    },
+    "customer-welcome-interaction": {
+      "id": "customer-welcome-interaction",
+      "preferred": "customer welcome interaction",
+      "aliases": [
+        "customer welcome interaction"
+      ],
+      "count": 1
+    },
+    "routine-updates-vs-inspiring-speeches": {
+      "id": "routine-updates-vs-inspiring-speeches",
+      "preferred": "routine updates vs inspiring speeches",
+      "aliases": [
+        "routine updates vs inspiring speeches"
+      ],
+      "count": 1
+    },
+    "watching-oneself-after-a-tv-interview": {
+      "id": "watching-oneself-after-a-tv-interview",
+      "preferred": "watching oneself after a TV interview",
+      "aliases": [
+        "watching oneself after a TV interview"
+      ],
+      "count": 1
+    },
+    "waiting-in-hospital": {
+      "id": "waiting-in-hospital",
+      "preferred": "waiting in hospital",
+      "aliases": [
+        "waiting in hospital"
+      ],
+      "count": 1
+    },
+    "stepping-away-from-work-for-the-holidays": {
+      "id": "stepping-away-from-work-for-the-holidays",
+      "preferred": "stepping away from work for the holidays",
+      "aliases": [
+        "stepping away from work for the holidays"
+      ],
+      "count": 1
+    },
+    "end-of-year-reflection": {
+      "id": "end-of-year-reflection",
+      "preferred": "end of year reflection",
+      "aliases": [
+        "end of year reflection"
+      ],
+      "count": 1
+    },
+    "stepping-on-stage": {
+      "id": "stepping-on-stage",
+      "preferred": "stepping on stage",
+      "aliases": [
+        "stepping on stage"
+      ],
+      "count": 1
+    },
+    "engaging-an-audience": {
+      "id": "engaging-an-audience",
+      "preferred": "engaging an audience",
+      "aliases": [
+        "engaging an audience"
+      ],
+      "count": 1
+    },
+    "rapid-change": {
+      "id": "rapid-change",
+      "preferred": "rapid change",
+      "aliases": [
+        "rapid change"
+      ],
+      "count": 1
+    },
+    "launching-polarizing-products": {
+      "id": "launching-polarizing-products",
+      "preferred": "launching polarizing products",
+      "aliases": [
+        "launching polarizing products"
+      ],
+      "count": 1
+    },
+    "launching-a-controversial-product": {
+      "id": "launching-a-controversial-product",
+      "preferred": "launching a controversial product",
+      "aliases": [
+        "launching a controversial product"
+      ],
+      "count": 1
+    },
+    "children-presenting-in-class": {
+      "id": "children-presenting-in-class",
+      "preferred": "children presenting in class",
+      "aliases": [
+        "children presenting in class"
+      ],
+      "count": 1
+    },
+    "ai-and-technology-automation": {
+      "id": "ai-and-technology-automation",
+      "preferred": "AI and technology automation",
+      "aliases": [
+        "AI and technology automation"
+      ],
+      "count": 1
+    },
+    "quitting-employment-to-pursue-a-calling": {
+      "id": "quitting-employment-to-pursue-a-calling",
+      "preferred": "quitting employment to pursue a calling",
+      "aliases": [
+        "quitting employment to pursue a calling"
+      ],
+      "count": 1
+    },
+    "handling-difficulties-under-pressure": {
+      "id": "handling-difficulties-under-pressure",
+      "preferred": "handling difficulties under pressure",
+      "aliases": [
+        "handling difficulties under pressure"
+      ],
+      "count": 1
+    },
+    "cannot-find-the-right-word-while-speaking": {
+      "id": "cannot-find-the-right-word-while-speaking",
+      "preferred": "cannot find the right word while speaking",
+      "aliases": [
+        "cannot find the right word while speaking"
+      ],
+      "count": 1
+    },
+    "struggling-with-speaking-in-english-as-a-non-native-speaker": {
+      "id": "struggling-with-speaking-in-english-as-a-non-native-speaker",
+      "preferred": "struggling with speaking in English as a non-native speaker",
+      "aliases": [
+        "struggling with speaking in English as a non-native speaker"
+      ],
+      "count": 1
+    },
+    "forgetting-words-while-speaking": {
+      "id": "forgetting-words-while-speaking",
+      "preferred": "forgetting words while speaking",
+      "aliases": [
+        "forgetting words while speaking"
+      ],
+      "count": 1
+    },
+    "presenting-in-english-with-an-accent": {
+      "id": "presenting-in-english-with-an-accent",
+      "preferred": "presenting in English with an accent",
+      "aliases": [
+        "presenting in English with an accent"
+      ],
+      "count": 1
+    },
+    "preparing-to-speak-before-a-presentation": {
+      "id": "preparing-to-speak-before-a-presentation",
+      "preferred": "preparing to speak before a presentation",
+      "aliases": [
+        "preparing to speak before a presentation"
+      ],
+      "count": 1
+    },
+    "speaking-with-a-monotone-voice": {
+      "id": "speaking-with-a-monotone-voice",
+      "preferred": "speaking with a monotone voice",
+      "aliases": [
+        "speaking with a monotone voice"
+      ],
+      "count": 1
+    },
+    "using-ai-for-social-media-posts": {
+      "id": "using-ai-for-social-media-posts",
+      "preferred": "using AI for social media posts",
+      "aliases": [
+        "using AI for social media posts"
+      ],
+      "count": 1
+    },
+    "lacking-public-speaking-confidence": {
+      "id": "lacking-public-speaking-confidence",
+      "preferred": "lacking public speaking confidence",
+      "aliases": [
+        "lacking public speaking confidence"
+      ],
+      "count": 1
+    },
+    "walking-into-a-room-of-strangers": {
+      "id": "walking-into-a-room-of-strangers",
+      "preferred": "walking into a room of strangers",
+      "aliases": [
+        "walking into a room of strangers"
+      ],
+      "count": 1
+    },
+    "stagnant-business-communication": {
+      "id": "stagnant-business-communication",
+      "preferred": "stagnant business communication",
+      "aliases": [
+        "stagnant business communication"
+      ],
+      "count": 1
+    },
+    "monotone-corporate-presentations": {
+      "id": "monotone-corporate-presentations",
+      "preferred": "monotone corporate presentations",
+      "aliases": [
+        "monotone corporate presentations"
+      ],
+      "count": 1
+    },
+    "cold-sales-calls": {
+      "id": "cold-sales-calls",
+      "preferred": "cold sales calls",
+      "aliases": [
+        "cold sales calls"
+      ],
+      "count": 1
+    },
+    "nervous-physical-delivery": {
+      "id": "nervous-physical-delivery",
+      "preferred": "nervous physical delivery",
+      "aliases": [
+        "nervous physical delivery"
+      ],
+      "count": 1
+    },
+    "reliance-on-digital-avatars": {
+      "id": "reliance-on-digital-avatars",
+      "preferred": "reliance on digital avatars",
+      "aliases": [
+        "reliance on digital avatars"
+      ],
+      "count": 1
+    },
+    "walking-into-a-room": {
+      "id": "walking-into-a-room",
+      "preferred": "walking into a room",
+      "aliases": [
+        "walking into a room"
       ],
       "count": 1
     },
@@ -887,57 +2320,159 @@
       ],
       "count": 1
     },
-    "communicating-across-digital-barriers": {
-      "id": "communicating-across-digital-barriers",
-      "preferred": "communicating across digital barriers",
+    "building-rapport-or-pitching": {
+      "id": "building-rapport-or-pitching",
+      "preferred": "building rapport or pitching",
       "aliases": [
-        "communicating across digital barriers"
+        "building rapport or pitching"
       ],
       "count": 1
     },
-    "speaking-to-an-audience": {
-      "id": "speaking-to-an-audience",
-      "preferred": "speaking to an audience",
+    "projecting-confidence-to-investors": {
+      "id": "projecting-confidence-to-investors",
+      "preferred": "projecting confidence to investors",
       "aliases": [
-        "speaking to an audience"
+        "projecting confidence to investors"
       ],
       "count": 1
     },
-    "difficult-technical-terms": {
-      "id": "difficult-technical-terms",
-      "preferred": "difficult technical terms",
+    "career-advancement": {
+      "id": "career-advancement",
+      "preferred": "career advancement",
       "aliases": [
-        "difficult technical terms"
+        "career advancement"
       ],
       "count": 1
     },
-    "nervousness-presenting-to-stakeholders": {
-      "id": "nervousness-presenting-to-stakeholders",
-      "preferred": "nervousness presenting to stakeholders",
+    "fear-of-stumbling": {
+      "id": "fear-of-stumbling",
+      "preferred": "fear of stumbling",
       "aliases": [
-        "nervousness presenting to stakeholders"
+        "fear of stumbling"
       ],
       "count": 1
     },
-    "diverse-audience-at-tech-conference": {
-      "id": "diverse-audience-at-tech-conference",
-      "preferred": "diverse audience at tech conference",
+    "speaking-fast-due-to-nervousness": {
+      "id": "speaking-fast-due-to-nervousness",
+      "preferred": "speaking fast due to nervousness",
       "aliases": [
-        "diverse audience at tech conference"
+        "speaking fast due to nervousness"
+      ],
+      "count": 1
+    },
+    "shaking-and-blushing": {
+      "id": "shaking-and-blushing",
+      "preferred": "shaking and blushing",
+      "aliases": [
+        "shaking and blushing"
+      ],
+      "count": 1
+    },
+    "imposter-syndrome": {
+      "id": "imposter-syndrome",
+      "preferred": "imposter syndrome",
+      "aliases": [
+        "imposter syndrome"
+      ],
+      "count": 1
+    },
+    "executive-communication": {
+      "id": "executive-communication",
+      "preferred": "executive communication",
+      "aliases": [
+        "executive communication"
+      ],
+      "count": 1
+    },
+    "learning-difficult-technical-words": {
+      "id": "learning-difficult-technical-words",
+      "preferred": "learning difficult technical words",
+      "aliases": [
+        "learning difficult technical words"
+      ],
+      "count": 1
+    },
+    "diverse-tech-conference-audience": {
+      "id": "diverse-tech-conference-audience",
+      "preferred": "diverse tech conference audience",
+      "aliases": [
+        "diverse tech conference audience"
+      ],
+      "count": 1
+    },
+    "communicating-without-extraordinary-credibility": {
+      "id": "communicating-without-extraordinary-credibility",
+      "preferred": "communicating without extraordinary credibility",
+      "aliases": [
+        "communicating without extraordinary credibility"
+      ],
+      "count": 1
+    },
+    "digital-vs-face-to-face-interaction": {
+      "id": "digital-vs-face-to-face-interaction",
+      "preferred": "digital vs face-to-face interaction",
+      "aliases": [
+        "digital vs face-to-face interaction"
+      ],
+      "count": 1
+    },
+    "handling-security-confrontations": {
+      "id": "handling-security-confrontations",
+      "preferred": "handling security confrontations",
+      "aliases": [
+        "handling security confrontations"
+      ],
+      "count": 1
+    },
+    "interacting-with-officials": {
+      "id": "interacting-with-officials",
+      "preferred": "interacting with officials",
+      "aliases": [
+        "interacting with officials"
+      ],
+      "count": 1
+    },
+    "de-escalating-sideline-shouting": {
+      "id": "de-escalating-sideline-shouting",
+      "preferred": "de-escalating sideline shouting",
+      "aliases": [
+        "de-escalating sideline shouting"
+      ],
+      "count": 1
+    },
+    "public-transit-announcements": {
+      "id": "public-transit-announcements",
+      "preferred": "public transit announcements",
+      "aliases": [
+        "public transit announcements"
+      ],
+      "count": 1
+    },
+    "calling-manchester-united-instead-of-city": {
+      "id": "calling-manchester-united-instead-of-city",
+      "preferred": "calling Manchester United instead of City",
+      "aliases": [
+        "calling Manchester United instead of City"
+      ],
+      "count": 1
+    },
+    "pitching-with-props": {
+      "id": "pitching-with-props",
+      "preferred": "pitching with props",
+      "aliases": [
+        "pitching with props"
       ],
       "count": 1
     }
   },
   "topic": {
-    "human-first-communication": {
-      "id": "human-first-communication",
-      "preferred": "human-first communication",
+    "event-hosting": {
+      "id": "event-hosting",
+      "preferred": "event hosting",
       "aliases": [
-        "Human-first Communication",
-        "human first communication",
-        "human-first communication"
+        "event hosting"
       ],
-      "count": 17
+      "count": 23
     },
     "public-speaking": {
       "id": "public-speaking",
@@ -945,64 +2480,29 @@
       "aliases": [
         "public speaking"
       ],
-      "count": 12
+      "count": 21
     },
-    "event-hosting": {
-      "id": "event-hosting",
-      "preferred": "event hosting",
+    "human-first-communication": {
+      "id": "human-first-communication",
+      "preferred": "human-first communication",
       "aliases": [
-        "event hosting"
+        "Human-First Communication",
+        "Human-first Communication",
+        "human first communication",
+        "human-first communication"
       ],
-      "count": 10
-    },
-    "leadership-communication": {
-      "id": "leadership-communication",
-      "preferred": "leadership communication",
-      "aliases": [
-        "leadership communication"
-      ],
-      "count": 7
+      "count": 19
     },
     "audience-engagement": {
       "id": "audience-engagement",
       "preferred": "audience engagement",
       "aliases": [
         "audience connection",
-        "audience engagement"
+        "audience engagement",
+        "audience interaction",
+        "human connection in public speaking"
       ],
-      "count": 5
-    },
-    "interpersonal-communication": {
-      "id": "interpersonal-communication",
-      "preferred": "interpersonal communication",
-      "aliases": [
-        "interpersonal communication"
-      ],
-      "count": 4
-    },
-    "customer-experience": {
-      "id": "customer-experience",
-      "preferred": "customer experience",
-      "aliases": [
-        "customer experience"
-      ],
-      "count": 4
-    },
-    "communication-skills": {
-      "id": "communication-skills",
-      "preferred": "communication skills",
-      "aliases": [
-        "communication skills"
-      ],
-      "count": 4
-    },
-    "body-language": {
-      "id": "body-language",
-      "preferred": "body language",
-      "aliases": [
-        "body language"
-      ],
-      "count": 4
+      "count": 16
     },
     "public-speaking-delivery": {
       "id": "public-speaking-delivery",
@@ -1012,15 +2512,74 @@
         "speech delivery",
         "vocal delivery"
       ],
-      "count": 4
+      "count": 11
     },
-    "first-impressions": {
-      "id": "first-impressions",
-      "preferred": "first impressions",
+    "body-language": {
+      "id": "body-language",
+      "preferred": "body language",
       "aliases": [
-        "first impressions"
+        "body language"
       ],
-      "count": 3
+      "count": 10
+    },
+    "communication-skills": {
+      "id": "communication-skills",
+      "preferred": "communication skills",
+      "aliases": [
+        "communication skills"
+      ],
+      "count": 9
+    },
+    "voice-modulation": {
+      "id": "voice-modulation",
+      "preferred": "voice modulation",
+      "aliases": [
+        "vocal modulation",
+        "voice modulation"
+      ],
+      "count": 9
+    },
+    "storytelling": {
+      "id": "storytelling",
+      "preferred": "storytelling",
+      "aliases": [
+        "storytelling"
+      ],
+      "count": 8
+    },
+    "leadership-communication": {
+      "id": "leadership-communication",
+      "preferred": "leadership communication",
+      "aliases": [
+        "leadership communication"
+      ],
+      "count": 6
+    },
+    "public-speaking-preparation": {
+      "id": "public-speaking-preparation",
+      "preferred": "public speaking preparation",
+      "aliases": [
+        "pre-speech preparation",
+        "public speaking preparation",
+        "speech preparation"
+      ],
+      "count": 6
+    },
+    "interpersonal-communication": {
+      "id": "interpersonal-communication",
+      "preferred": "interpersonal communication",
+      "aliases": [
+        "interpersonal communication"
+      ],
+      "count": 5
+    },
+    "customer-experience": {
+      "id": "customer-experience",
+      "preferred": "customer experience",
+      "aliases": [
+        "customer experience"
+      ],
+      "count": 5
     },
     "personal-branding": {
       "id": "personal-branding",
@@ -1028,13 +2587,105 @@
       "aliases": [
         "personal branding"
       ],
-      "count": 3
+      "count": 5
+    },
+    "human-connection": {
+      "id": "human-connection",
+      "preferred": "human connection",
+      "aliases": [
+        "human connection"
+      ],
+      "count": 5
+    },
+    "authenticity": {
+      "id": "authenticity",
+      "preferred": "authenticity",
+      "aliases": [
+        "authenticity"
+      ],
+      "count": 5
+    },
+    "human-to-human-communication": {
+      "id": "human-to-human-communication",
+      "preferred": "human-to-human communication",
+      "aliases": [
+        "human to human communication",
+        "human-to-human communication"
+      ],
+      "count": 5
+    },
+    "year-end-speech": {
+      "id": "year-end-speech",
+      "preferred": "year-end speech",
+      "aliases": [
+        "year-end speech",
+        "year-end speeches"
+      ],
+      "count": 5
+    },
+    "acoustic-voice-profiling": {
+      "id": "acoustic-voice-profiling",
+      "preferred": "Acoustic Voice Profiling",
+      "aliases": [
+        "Acoustic Voice Profile",
+        "Acoustic Voice Profiling"
+      ],
+      "count": 5
+    },
+    "first-impressions": {
+      "id": "first-impressions",
+      "preferred": "first impressions",
+      "aliases": [
+        "first impressions"
+      ],
+      "count": 4
     },
     "supercars": {
       "id": "supercars",
       "preferred": "supercars",
       "aliases": [
         "supercars"
+      ],
+      "count": 4
+    },
+    "executive-presence": {
+      "id": "executive-presence",
+      "preferred": "executive presence",
+      "aliases": [
+        "executive presence"
+      ],
+      "count": 4
+    },
+    "stage-fright": {
+      "id": "stage-fright",
+      "preferred": "stage fright",
+      "aliases": [
+        "stage fright"
+      ],
+      "count": 4
+    },
+    "stage-presence": {
+      "id": "stage-presence",
+      "preferred": "stage presence",
+      "aliases": [
+        "stage presence"
+      ],
+      "count": 4
+    },
+    "communication-coaching": {
+      "id": "communication-coaching",
+      "preferred": "communication coaching",
+      "aliases": [
+        "communication coaching",
+        "communication skills coaching"
+      ],
+      "count": 4
+    },
+    "work-life-balance": {
+      "id": "work-life-balance",
+      "preferred": "work-life balance",
+      "aliases": [
+        "work-life balance"
       ],
       "count": 3
     },
@@ -1046,19 +2697,86 @@
       ],
       "count": 3
     },
+    "positive-communication": {
+      "id": "positive-communication",
+      "preferred": "positive communication",
+      "aliases": [
+        "positive communication"
+      ],
+      "count": 3
+    },
+    "bits-pretzels": {
+      "id": "bits-pretzels",
+      "preferred": "Bits & Pretzels",
+      "aliases": [
+        "Bits & Pretzels"
+      ],
+      "count": 3
+    },
+    "public-speaking-inspiration": {
+      "id": "public-speaking-inspiration",
+      "preferred": "public speaking inspiration",
+      "aliases": [
+        "public speaking inspiration"
+      ],
+      "count": 3
+    },
+    "nonverbal-communication": {
+      "id": "nonverbal-communication",
+      "preferred": "nonverbal communication",
+      "aliases": [
+        "nonverbal communication"
+      ],
+      "count": 3
+    },
+    "filler-words": {
+      "id": "filler-words",
+      "preferred": "filler words",
+      "aliases": [
+        "filler words"
+      ],
+      "count": 3
+    },
+    "ai-hallucinations": {
+      "id": "ai-hallucinations",
+      "preferred": "AI hallucinations",
+      "aliases": [
+        "AI hallucinations"
+      ],
+      "count": 3
+    },
+    "intentional-communication": {
+      "id": "intentional-communication",
+      "preferred": "intentional communication",
+      "aliases": [
+        "intentional communication",
+        "intentional messaging"
+      ],
+      "count": 3
+    },
+    "communication-training": {
+      "id": "communication-training",
+      "preferred": "communication training",
+      "aliases": [
+        "communication skills training",
+        "communication training"
+      ],
+      "count": 3
+    },
+    "stage-fright-management": {
+      "id": "stage-fright-management",
+      "preferred": "stage fright management",
+      "aliases": [
+        "overcoming stage fright",
+        "stage fright management"
+      ],
+      "count": 3
+    },
     "annual-themes": {
       "id": "annual-themes",
       "preferred": "annual themes",
       "aliases": [
         "annual themes"
-      ],
-      "count": 2
-    },
-    "ai-in-communication": {
-      "id": "ai-in-communication",
-      "preferred": "AI in communication",
-      "aliases": [
-        "AI in communication"
       ],
       "count": 2
     },
@@ -1070,27 +2788,11 @@
       ],
       "count": 2
     },
-    "public-speaking-energy": {
-      "id": "public-speaking-energy",
-      "preferred": "public speaking energy",
+    "communication-structure": {
+      "id": "communication-structure",
+      "preferred": "communication structure",
       "aliases": [
-        "public speaking energy"
-      ],
-      "count": 2
-    },
-    "work-life-balance": {
-      "id": "work-life-balance",
-      "preferred": "work-life balance",
-      "aliases": [
-        "work-life balance"
-      ],
-      "count": 2
-    },
-    "voice-modulation": {
-      "id": "voice-modulation",
-      "preferred": "voice modulation",
-      "aliases": [
-        "voice modulation"
+        "communication structure"
       ],
       "count": 2
     },
@@ -1102,35 +2804,19 @@
       ],
       "count": 2
     },
-    "executive-presence": {
-      "id": "executive-presence",
-      "preferred": "executive presence",
-      "aliases": [
-        "executive presence"
-      ],
-      "count": 2
-    },
-    "intentional-communication": {
-      "id": "intentional-communication",
-      "preferred": "intentional communication",
-      "aliases": [
-        "intentional communication"
-      ],
-      "count": 2
-    },
-    "positive-communication": {
-      "id": "positive-communication",
-      "preferred": "positive communication",
-      "aliases": [
-        "positive communication"
-      ],
-      "count": 2
-    },
     "leadership-philosophy": {
       "id": "leadership-philosophy",
       "preferred": "leadership philosophy",
       "aliases": [
         "leadership philosophy"
+      ],
+      "count": 2
+    },
+    "leadership-lessons": {
+      "id": "leadership-lessons",
+      "preferred": "leadership lessons",
+      "aliases": [
+        "leadership lessons"
       ],
       "count": 2
     },
@@ -1142,35 +2828,11 @@
       ],
       "count": 2
     },
-    "communication-training": {
-      "id": "communication-training",
-      "preferred": "communication training",
-      "aliases": [
-        "communication training"
-      ],
-      "count": 2
-    },
-    "human-skills-vs-ai": {
-      "id": "human-skills-vs-ai",
-      "preferred": "human skills vs AI",
-      "aliases": [
-        "human skills vs AI"
-      ],
-      "count": 2
-    },
     "digital-detox": {
       "id": "digital-detox",
       "preferred": "digital detox",
       "aliases": [
         "digital detox"
-      ],
-      "count": 2
-    },
-    "stage-energy": {
-      "id": "stage-energy",
-      "preferred": "stage energy",
-      "aliases": [
-        "stage energy"
       ],
       "count": 2
     },
@@ -1182,6 +2844,216 @@
       ],
       "count": 2
     },
+    "public-speaking-energy": {
+      "id": "public-speaking-energy",
+      "preferred": "public speaking energy",
+      "aliases": [
+        "public speaking energy"
+      ],
+      "count": 2
+    },
+    "public-speaking-mistakes": {
+      "id": "public-speaking-mistakes",
+      "preferred": "public speaking mistakes",
+      "aliases": [
+        "public speaking mistakes"
+      ],
+      "count": 2
+    },
+    "negotiation-mindset": {
+      "id": "negotiation-mindset",
+      "preferred": "negotiation mindset",
+      "aliases": [
+        "negotiation mindset"
+      ],
+      "count": 2
+    },
+    "presentation-tools": {
+      "id": "presentation-tools",
+      "preferred": "presentation tools",
+      "aliases": [
+        "presentation tools"
+      ],
+      "count": 2
+    },
+    "healthcare-innovation": {
+      "id": "healthcare-innovation",
+      "preferred": "healthcare innovation",
+      "aliases": [
+        "healthcare innovation"
+      ],
+      "count": 2
+    },
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 2
+    },
+    "international-women-s-day": {
+      "id": "international-women-s-day",
+      "preferred": "International Women's Day",
+      "aliases": [
+        "International Women's Day"
+      ],
+      "count": 2
+    },
+    "public-speaking-fear": {
+      "id": "public-speaking-fear",
+      "preferred": "public speaking fear",
+      "aliases": [
+        "public speaking fear"
+      ],
+      "count": 2
+    },
+    "progress-over-perfection": {
+      "id": "progress-over-perfection",
+      "preferred": "progress over perfection",
+      "aliases": [
+        "progress over perfection"
+      ],
+      "count": 2
+    },
+    "self-introduction": {
+      "id": "self-introduction",
+      "preferred": "self-introduction",
+      "aliases": [
+        "self-introduction",
+        "self-introductions"
+      ],
+      "count": 2
+    },
+    "gitex-europe": {
+      "id": "gitex-europe",
+      "preferred": "GITEX Europe",
+      "aliases": [
+        "GITEX Europe"
+      ],
+      "count": 2
+    },
+    "public-speaking-presence": {
+      "id": "public-speaking-presence",
+      "preferred": "public speaking presence",
+      "aliases": [
+        "public speaking presence"
+      ],
+      "count": 2
+    },
+    "voice-coaching": {
+      "id": "voice-coaching",
+      "preferred": "voice coaching",
+      "aliases": [
+        "voice coaching"
+      ],
+      "count": 2
+    },
+    "presentation-structure": {
+      "id": "presentation-structure",
+      "preferred": "presentation structure",
+      "aliases": [
+        "presentation structure"
+      ],
+      "count": 2
+    },
+    "presentation-openings": {
+      "id": "presentation-openings",
+      "preferred": "presentation openings",
+      "aliases": [
+        "presentation opening",
+        "presentation openings"
+      ],
+      "count": 2
+    },
+    "overcoming-challenges": {
+      "id": "overcoming-challenges",
+      "preferred": "overcoming challenges",
+      "aliases": [
+        "overcoming challenges"
+      ],
+      "count": 2
+    },
+    "meditation": {
+      "id": "meditation",
+      "preferred": "meditation",
+      "aliases": [
+        "meditation"
+      ],
+      "count": 2
+    },
+    "presentation-skills": {
+      "id": "presentation-skills",
+      "preferred": "presentation skills",
+      "aliases": [
+        "presentation skills"
+      ],
+      "count": 2
+    },
+    "personal-growth": {
+      "id": "personal-growth",
+      "preferred": "personal growth",
+      "aliases": [
+        "personal growth"
+      ],
+      "count": 2
+    },
+    "vocal-charisma": {
+      "id": "vocal-charisma",
+      "preferred": "vocal charisma",
+      "aliases": [
+        "vocal charisma"
+      ],
+      "count": 2
+    },
+    "health-tech-innovations": {
+      "id": "health-tech-innovations",
+      "preferred": "health tech innovations",
+      "aliases": [
+        "health tech innovations"
+      ],
+      "count": 2
+    },
+    "humor-in-communication": {
+      "id": "humor-in-communication",
+      "preferred": "humor in communication",
+      "aliases": [
+        "humor in communication"
+      ],
+      "count": 2
+    },
+    "presentation-design": {
+      "id": "presentation-design",
+      "preferred": "presentation design",
+      "aliases": [
+        "presentation design"
+      ],
+      "count": 2
+    },
+    "stage-energy": {
+      "id": "stage-energy",
+      "preferred": "stage energy",
+      "aliases": [
+        "stage energy"
+      ],
+      "count": 2
+    },
+    "digital-communication": {
+      "id": "digital-communication",
+      "preferred": "digital communication",
+      "aliases": [
+        "digital communication"
+      ],
+      "count": 2
+    },
+    "pitching": {
+      "id": "pitching",
+      "preferred": "pitching",
+      "aliases": [
+        "pitching"
+      ],
+      "count": 2
+    },
     "pronunciation": {
       "id": "pronunciation",
       "preferred": "pronunciation",
@@ -1190,28 +3062,63 @@
       ],
       "count": 2
     },
-    "public-speaking-career-transition": {
-      "id": "public-speaking-career-transition",
-      "preferred": "public speaking career transition",
+    "career-transition": {
+      "id": "career-transition",
+      "preferred": "career transition",
       "aliases": [
-        "public speaking career transition"
+        "career transition"
       ],
       "count": 2
     },
-    "communication-coaching": {
-      "id": "communication-coaching",
-      "preferred": "communication coaching",
+    "optimism": {
+      "id": "optimism",
+      "preferred": "optimism",
       "aliases": [
-        "communication coaching"
+        "optimism"
       ],
       "count": 2
     },
-    "human-to-human-communication": {
-      "id": "human-to-human-communication",
-      "preferred": "human to human communication",
+    "impromptu-speaking": {
+      "id": "impromptu-speaking",
+      "preferred": "impromptu speaking",
       "aliases": [
-        "human to human communication",
-        "human-to-human communication"
+        "impromptu speaking"
+      ],
+      "count": 2
+    },
+    "charismatic-communication": {
+      "id": "charismatic-communication",
+      "preferred": "charismatic communication",
+      "aliases": [
+        "charismatic communication",
+        "charismatic speaking"
+      ],
+      "count": 2
+    },
+    "ai-content-generation": {
+      "id": "ai-content-generation",
+      "preferred": "AI content generation",
+      "aliases": [
+        "AI content generation",
+        "AI in content creation"
+      ],
+      "count": 2
+    },
+    "accent-in-communication": {
+      "id": "accent-in-communication",
+      "preferred": "accent in communication",
+      "aliases": [
+        "accent communication",
+        "accent in communication"
+      ],
+      "count": 2
+    },
+    "pausing-and-pacing": {
+      "id": "pausing-and-pacing",
+      "preferred": "pausing and pacing",
+      "aliases": [
+        "pacing and pausing",
+        "pausing and pacing"
       ],
       "count": 2
     },
@@ -1231,11 +3138,11 @@
       ],
       "count": 1
     },
-    "communication-structure-and-timing": {
-      "id": "communication-structure-and-timing",
-      "preferred": "communication structure and timing",
+    "ai-in-communication": {
+      "id": "ai-in-communication",
+      "preferred": "AI in communication",
       "aliases": [
-        "communication structure and timing"
+        "AI in communication"
       ],
       "count": 1
     },
@@ -1244,22 +3151,6 @@
       "preferred": "energy management",
       "aliases": [
         "energy management"
-      ],
-      "count": 1
-    },
-    "smart-ar-glasses": {
-      "id": "smart-ar-glasses",
-      "preferred": "smart AR glasses",
-      "aliases": [
-        "smart AR glasses"
-      ],
-      "count": 1
-    },
-    "teleprompting": {
-      "id": "teleprompting",
-      "preferred": "teleprompting",
-      "aliases": [
-        "teleprompting"
       ],
       "count": 1
     },
@@ -1284,14 +3175,6 @@
       "preferred": "rhetorical devices",
       "aliases": [
         "rhetorical devices"
-      ],
-      "count": 1
-    },
-    "communication-structure": {
-      "id": "communication-structure",
-      "preferred": "communication structure",
-      "aliases": [
-        "communication structure"
       ],
       "count": 1
     },
@@ -1335,14 +3218,6 @@
       ],
       "count": 1
     },
-    "public-speaking-principles": {
-      "id": "public-speaking-principles",
-      "preferred": "public speaking principles",
-      "aliases": [
-        "public speaking principles"
-      ],
-      "count": 1
-    },
     "speaking-mantras": {
       "id": "speaking-mantras",
       "preferred": "speaking mantras",
@@ -1372,14 +3247,6 @@
       "preferred": "AI image generation",
       "aliases": [
         "AI image generation"
-      ],
-      "count": 1
-    },
-    "pre-stage-self-talk": {
-      "id": "pre-stage-self-talk",
-      "preferred": "pre-stage self-talk",
-      "aliases": [
-        "pre-stage self-talk"
       ],
       "count": 1
     },
@@ -1431,38 +3298,6 @@
       ],
       "count": 1
     },
-    "perspective-shift": {
-      "id": "perspective-shift",
-      "preferred": "perspective shift",
-      "aliases": [
-        "perspective shift"
-      ],
-      "count": 1
-    },
-    "communication-delivery": {
-      "id": "communication-delivery",
-      "preferred": "communication delivery",
-      "aliases": [
-        "communication delivery"
-      ],
-      "count": 1
-    },
-    "personal-style": {
-      "id": "personal-style",
-      "preferred": "personal style",
-      "aliases": [
-        "personal style"
-      ],
-      "count": 1
-    },
-    "nonverbal-communication": {
-      "id": "nonverbal-communication",
-      "preferred": "nonverbal communication",
-      "aliases": [
-        "nonverbal communication"
-      ],
-      "count": 1
-    },
     "golden-visa-and-security-in-uae": {
       "id": "golden-visa-and-security-in-uae",
       "preferred": "Golden Visa and security in UAE",
@@ -1471,35 +3306,11 @@
       ],
       "count": 1
     },
-    "memorable-communication": {
-      "id": "memorable-communication",
-      "preferred": "memorable communication",
-      "aliases": [
-        "memorable communication"
-      ],
-      "count": 1
-    },
-    "capturing-attention": {
-      "id": "capturing-attention",
-      "preferred": "capturing attention",
-      "aliases": [
-        "capturing attention"
-      ],
-      "count": 1
-    },
     "social-media-strategy": {
       "id": "social-media-strategy",
       "preferred": "social media strategy",
       "aliases": [
         "social media strategy"
-      ],
-      "count": 1
-    },
-    "charismatic-communication": {
-      "id": "charismatic-communication",
-      "preferred": "charismatic communication",
-      "aliases": [
-        "charismatic communication"
       ],
       "count": 1
     },
@@ -1532,14 +3343,6 @@
       "preferred": "fear-based communication",
       "aliases": [
         "fear-based communication"
-      ],
-      "count": 1
-    },
-    "communication-style": {
-      "id": "communication-style",
-      "preferred": "communication style",
-      "aliases": [
-        "communication style"
       ],
       "count": 1
     },
@@ -1591,14 +3394,6 @@
       ],
       "count": 1
     },
-    "audience-empathy": {
-      "id": "audience-empathy",
-      "preferred": "audience empathy",
-      "aliases": [
-        "audience empathy"
-      ],
-      "count": 1
-    },
     "european-outdoor-week": {
       "id": "european-outdoor-week",
       "preferred": "European Outdoor Week",
@@ -1607,27 +3402,11 @@
       ],
       "count": 1
     },
-    "leadership-lessons": {
-      "id": "leadership-lessons",
-      "preferred": "leadership lessons",
-      "aliases": [
-        "leadership lessons"
-      ],
-      "count": 1
-    },
     "overcoming-fear-and-building-presence": {
       "id": "overcoming-fear-and-building-presence",
       "preferred": "overcoming fear and building presence",
       "aliases": [
         "overcoming fear and building presence"
-      ],
-      "count": 1
-    },
-    "public-speaking-preparation": {
-      "id": "public-speaking-preparation",
-      "preferred": "public speaking preparation",
-      "aliases": [
-        "public speaking preparation"
       ],
       "count": 1
     },
@@ -1655,43 +3434,11 @@
       ],
       "count": 1
     },
-    "brand-communication": {
-      "id": "brand-communication",
-      "preferred": "brand communication",
-      "aliases": [
-        "brand communication"
-      ],
-      "count": 1
-    },
-    "brand-positioning": {
-      "id": "brand-positioning",
-      "preferred": "brand positioning",
-      "aliases": [
-        "brand positioning"
-      ],
-      "count": 1
-    },
-    "communication-strategy": {
-      "id": "communication-strategy",
-      "preferred": "communication strategy",
-      "aliases": [
-        "communication strategy"
-      ],
-      "count": 1
-    },
     "ai-generated-presentations": {
       "id": "ai-generated-presentations",
       "preferred": "AI-generated presentations",
       "aliases": [
         "AI-generated presentations"
-      ],
-      "count": 1
-    },
-    "communication-skills-coaching": {
-      "id": "communication-skills-coaching",
-      "preferred": "communication skills coaching",
-      "aliases": [
-        "communication skills coaching"
       ],
       "count": 1
     },
@@ -1719,11 +3466,11 @@
       ],
       "count": 1
     },
-    "print-industry-event": {
-      "id": "print-industry-event",
-      "preferred": "print industry event",
+    "human-skills-vs-ai": {
+      "id": "human-skills-vs-ai",
+      "preferred": "human skills vs AI",
       "aliases": [
-        "print industry event"
+        "human skills vs AI"
       ],
       "count": 1
     },
@@ -1775,14 +3522,6 @@
       ],
       "count": 1
     },
-    "startup-pitching-and-communication": {
-      "id": "startup-pitching-and-communication",
-      "preferred": "startup pitching and communication",
-      "aliases": [
-        "startup pitching and communication"
-      ],
-      "count": 1
-    },
     "automotive-event-hosting": {
       "id": "automotive-event-hosting",
       "preferred": "automotive event hosting",
@@ -1796,14 +3535,6 @@
       "preferred": "communication effort",
       "aliases": [
         "communication effort"
-      ],
-      "count": 1
-    },
-    "human-connection": {
-      "id": "human-connection",
-      "preferred": "human connection",
-      "aliases": [
-        "human connection"
       ],
       "count": 1
     },
@@ -1828,14 +3559,6 @@
       "preferred": "Zayed National Museum",
       "aliases": [
         "Zayed National Museum"
-      ],
-      "count": 1
-    },
-    "subtle-communication-gestures": {
-      "id": "subtle-communication-gestures",
-      "preferred": "subtle communication gestures",
-      "aliases": [
-        "subtle communication gestures"
       ],
       "count": 1
     },
@@ -1887,14 +3610,6 @@
       ],
       "count": 1
     },
-    "creating-memorable-moments": {
-      "id": "creating-memorable-moments",
-      "preferred": "creating memorable moments",
-      "aliases": [
-        "creating memorable moments"
-      ],
-      "count": 1
-    },
     "conscientiousness-in-success": {
       "id": "conscientiousness-in-success",
       "preferred": "conscientiousness in success",
@@ -1903,43 +3618,11 @@
       ],
       "count": 1
     },
-    "resting-face": {
-      "id": "resting-face",
-      "preferred": "resting face",
-      "aliases": [
-        "resting face"
-      ],
-      "count": 1
-    },
-    "bits-pretzels": {
-      "id": "bits-pretzels",
-      "preferred": "Bits & Pretzels",
-      "aliases": [
-        "Bits & Pretzels"
-      ],
-      "count": 1
-    },
-    "public-speaking-inspiration": {
-      "id": "public-speaking-inspiration",
-      "preferred": "public speaking inspiration",
-      "aliases": [
-        "public speaking inspiration"
-      ],
-      "count": 1
-    },
     "communication-and-reframing-setbacks": {
       "id": "communication-and-reframing-setbacks",
       "preferred": "communication and reframing setbacks",
       "aliases": [
         "communication and reframing setbacks"
-      ],
-      "count": 1
-    },
-    "pitching": {
-      "id": "pitching",
-      "preferred": "pitching",
-      "aliases": [
-        "pitching"
       ],
       "count": 1
     },
@@ -1956,14 +3639,6 @@
       "preferred": "community networking",
       "aliases": [
         "community networking"
-      ],
-      "count": 1
-    },
-    "voice-technique": {
-      "id": "voice-technique",
-      "preferred": "voice technique",
-      "aliases": [
-        "voice technique"
       ],
       "count": 1
     },
@@ -2007,51 +3682,11 @@
       ],
       "count": 1
     },
-    "health-i-award": {
-      "id": "health-i-award",
-      "preferred": "Health-i Award",
-      "aliases": [
-        "Health-i Award"
-      ],
-      "count": 1
-    },
-    "health-tech-awards": {
-      "id": "health-tech-awards",
-      "preferred": "health tech awards",
-      "aliases": [
-        "health tech awards"
-      ],
-      "count": 1
-    },
-    "public-speaking-mistakes": {
-      "id": "public-speaking-mistakes",
-      "preferred": "public speaking mistakes",
-      "aliases": [
-        "public speaking mistakes"
-      ],
-      "count": 1
-    },
     "relationship-selling": {
       "id": "relationship-selling",
       "preferred": "relationship selling",
       "aliases": [
         "relationship selling"
-      ],
-      "count": 1
-    },
-    "social-enterprise": {
-      "id": "social-enterprise",
-      "preferred": "social enterprise",
-      "aliases": [
-        "social enterprise"
-      ],
-      "count": 1
-    },
-    "clean-water-access": {
-      "id": "clean-water-access",
-      "preferred": "clean water access",
-      "aliases": [
-        "clean water access"
       ],
       "count": 1
     },
@@ -2071,6 +3706,686 @@
       ],
       "count": 1
     },
+    "goal-setting-and-new-year-reflections": {
+      "id": "goal-setting-and-new-year-reflections",
+      "preferred": "goal setting and new year reflections",
+      "aliases": [
+        "goal setting and new year reflections"
+      ],
+      "count": 1
+    },
+    "staffing-challenges": {
+      "id": "staffing-challenges",
+      "preferred": "staffing challenges",
+      "aliases": [
+        "staffing challenges"
+      ],
+      "count": 1
+    },
+    "ai-employees": {
+      "id": "ai-employees",
+      "preferred": "AI employees",
+      "aliases": [
+        "AI employees"
+      ],
+      "count": 1
+    },
+    "90-90-1-rule": {
+      "id": "90-90-1-rule",
+      "preferred": "90-90-1 Rule",
+      "aliases": [
+        "90-90-1 Rule"
+      ],
+      "count": 1
+    },
+    "mastery": {
+      "id": "mastery",
+      "preferred": "mastery",
+      "aliases": [
+        "mastery"
+      ],
+      "count": 1
+    },
+    "servant-leadership": {
+      "id": "servant-leadership",
+      "preferred": "servant leadership",
+      "aliases": [
+        "servant leadership"
+      ],
+      "count": 1
+    },
+    "post-holiday-adjustment": {
+      "id": "post-holiday-adjustment",
+      "preferred": "post-holiday adjustment",
+      "aliases": [
+        "post-holiday adjustment"
+      ],
+      "count": 1
+    },
+    "negotiation-leverage": {
+      "id": "negotiation-leverage",
+      "preferred": "negotiation leverage",
+      "aliases": [
+        "negotiation leverage"
+      ],
+      "count": 1
+    },
+    "walk-away-power": {
+      "id": "walk-away-power",
+      "preferred": "walk-away power",
+      "aliases": [
+        "walk-away power"
+      ],
+      "count": 1
+    },
+    "decision-maker-positioning": {
+      "id": "decision-maker-positioning",
+      "preferred": "decision-maker positioning",
+      "aliases": [
+        "decision-maker positioning"
+      ],
+      "count": 1
+    },
+    "mutual-dependency": {
+      "id": "mutual-dependency",
+      "preferred": "mutual dependency",
+      "aliases": [
+        "mutual dependency"
+      ],
+      "count": 1
+    },
+    "ai-script-writing": {
+      "id": "ai-script-writing",
+      "preferred": "AI script writing",
+      "aliases": [
+        "AI script writing"
+      ],
+      "count": 1
+    },
+    "audience-engagement-tools": {
+      "id": "audience-engagement-tools",
+      "preferred": "audience engagement tools",
+      "aliases": [
+        "audience engagement tools"
+      ],
+      "count": 1
+    },
+    "vr-public-speaking-practice": {
+      "id": "vr-public-speaking-practice",
+      "preferred": "VR public speaking practice",
+      "aliases": [
+        "VR public speaking practice"
+      ],
+      "count": 1
+    },
+    "negotiation-alternatives": {
+      "id": "negotiation-alternatives",
+      "preferred": "negotiation alternatives",
+      "aliases": [
+        "negotiation alternatives"
+      ],
+      "count": 1
+    },
+    "walking-away": {
+      "id": "walking-away",
+      "preferred": "walking away",
+      "aliases": [
+        "walking away"
+      ],
+      "count": 1
+    },
+    "decision-maker-delegation": {
+      "id": "decision-maker-delegation",
+      "preferred": "decision-maker delegation",
+      "aliases": [
+        "decision-maker delegation"
+      ],
+      "count": 1
+    },
+    "leverage-and-power-dynamic": {
+      "id": "leverage-and-power-dynamic",
+      "preferred": "leverage and power dynamic",
+      "aliases": [
+        "leverage and power dynamic"
+      ],
+      "count": 1
+    },
+    "authenticity-in-presentations": {
+      "id": "authenticity-in-presentations",
+      "preferred": "authenticity in presentations",
+      "aliases": [
+        "authenticity in presentations"
+      ],
+      "count": 1
+    },
+    "presentation-design-and-visuals": {
+      "id": "presentation-design-and-visuals",
+      "preferred": "presentation design and visuals",
+      "aliases": [
+        "presentation design and visuals"
+      ],
+      "count": 1
+    },
+    "persuasion": {
+      "id": "persuasion",
+      "preferred": "persuasion",
+      "aliases": [
+        "persuasion"
+      ],
+      "count": 1
+    },
+    "motorsport-event-hosting": {
+      "id": "motorsport-event-hosting",
+      "preferred": "motorsport event hosting",
+      "aliases": [
+        "motorsport event hosting"
+      ],
+      "count": 1
+    },
+    "gestures": {
+      "id": "gestures",
+      "preferred": "gestures",
+      "aliases": [
+        "gestures"
+      ],
+      "count": 1
+    },
+    "managing-emotions": {
+      "id": "managing-emotions",
+      "preferred": "managing emotions",
+      "aliases": [
+        "managing emotions"
+      ],
+      "count": 1
+    },
+    "gulfood-top-table-hosting": {
+      "id": "gulfood-top-table-hosting",
+      "preferred": "Gulfood Top Table hosting",
+      "aliases": [
+        "Gulfood Top Table hosting"
+      ],
+      "count": 1
+    },
+    "pitching-and-storytelling": {
+      "id": "pitching-and-storytelling",
+      "preferred": "pitching and storytelling",
+      "aliases": [
+        "pitching and storytelling"
+      ],
+      "count": 1
+    },
+    "skill-retention": {
+      "id": "skill-retention",
+      "preferred": "skill retention",
+      "aliases": [
+        "skill retention"
+      ],
+      "count": 1
+    },
+    "snowboarding": {
+      "id": "snowboarding",
+      "preferred": "snowboarding",
+      "aliases": [
+        "snowboarding"
+      ],
+      "count": 1
+    },
+    "gulfood-2025-top-table": {
+      "id": "gulfood-2025-top-table",
+      "preferred": "Gulfood 2025 Top Table",
+      "aliases": [
+        "Gulfood 2025 Top Table"
+      ],
+      "count": 1
+    },
+    "culinary-trends-and-gastronomy-innovation": {
+      "id": "culinary-trends-and-gastronomy-innovation",
+      "preferred": "culinary trends and gastronomy innovation",
+      "aliases": [
+        "culinary trends and gastronomy innovation"
+      ],
+      "count": 1
+    },
+    "social-media-update": {
+      "id": "social-media-update",
+      "preferred": "social media update",
+      "aliases": [
+        "social media update"
+      ],
+      "count": 1
+    },
+    "gulfood-2025": {
+      "id": "gulfood-2025",
+      "preferred": "Gulfood 2025",
+      "aliases": [
+        "Gulfood 2025"
+      ],
+      "count": 1
+    },
+    "goal-setting-with-ai": {
+      "id": "goal-setting-with-ai",
+      "preferred": "goal setting with AI",
+      "aliases": [
+        "goal setting with AI"
+      ],
+      "count": 1
+    },
+    "hiring-full-time-talent": {
+      "id": "hiring-full-time-talent",
+      "preferred": "hiring full-time talent",
+      "aliases": [
+        "hiring full-time talent"
+      ],
+      "count": 1
+    },
+    "public-speaking-mentorship": {
+      "id": "public-speaking-mentorship",
+      "preferred": "public speaking mentorship",
+      "aliases": [
+        "public speaking mentorship"
+      ],
+      "count": 1
+    },
+    "self-worth-affirmation": {
+      "id": "self-worth-affirmation",
+      "preferred": "self-worth affirmation",
+      "aliases": [
+        "self-worth affirmation"
+      ],
+      "count": 1
+    },
+    "team-communication-skills": {
+      "id": "team-communication-skills",
+      "preferred": "team communication skills",
+      "aliases": [
+        "team communication skills"
+      ],
+      "count": 1
+    },
+    "cross-cultural-communication": {
+      "id": "cross-cultural-communication",
+      "preferred": "cross-cultural communication",
+      "aliases": [
+        "cross-cultural communication"
+      ],
+      "count": 1
+    },
+    "ai-startups": {
+      "id": "ai-startups",
+      "preferred": "AI startups",
+      "aliases": [
+        "AI startups"
+      ],
+      "count": 1
+    },
+    "public-speaking-fine-tuning": {
+      "id": "public-speaking-fine-tuning",
+      "preferred": "public speaking fine-tuning",
+      "aliases": [
+        "public speaking fine-tuning"
+      ],
+      "count": 1
+    },
+    "public-speaking-training": {
+      "id": "public-speaking-training",
+      "preferred": "public speaking training",
+      "aliases": [
+        "public speaking training"
+      ],
+      "count": 1
+    },
+    "doppelganger": {
+      "id": "doppelganger",
+      "preferred": "doppelganger",
+      "aliases": [
+        "doppelganger"
+      ],
+      "count": 1
+    },
+    "final-fantasy-xiii": {
+      "id": "final-fantasy-xiii",
+      "preferred": "Final Fantasy XIII",
+      "aliases": [
+        "Final Fantasy XIII"
+      ],
+      "count": 1
+    },
+    "panel-moderation": {
+      "id": "panel-moderation",
+      "preferred": "panel moderation",
+      "aliases": [
+        "panel moderation"
+      ],
+      "count": 1
+    },
+    "charismatic-speaking-voice": {
+      "id": "charismatic-speaking-voice",
+      "preferred": "charismatic speaking voice",
+      "aliases": [
+        "charismatic speaking voice"
+      ],
+      "count": 1
+    },
+    "charisma-in-public-speaking": {
+      "id": "charisma-in-public-speaking",
+      "preferred": "charisma in public speaking",
+      "aliases": [
+        "charisma in public speaking"
+      ],
+      "count": 1
+    },
+    "gen-z-slang": {
+      "id": "gen-z-slang",
+      "preferred": "Gen Z slang",
+      "aliases": [
+        "Gen Z slang"
+      ],
+      "count": 1
+    },
+    "content-vs-delivery": {
+      "id": "content-vs-delivery",
+      "preferred": "content vs delivery",
+      "aliases": [
+        "content vs delivery"
+      ],
+      "count": 1
+    },
+    "cross-cultural-public-speaking": {
+      "id": "cross-cultural-public-speaking",
+      "preferred": "cross-cultural public speaking",
+      "aliases": [
+        "cross-cultural public speaking"
+      ],
+      "count": 1
+    },
+    "gen-z-communication": {
+      "id": "gen-z-communication",
+      "preferred": "Gen Z communication",
+      "aliases": [
+        "Gen Z communication"
+      ],
+      "count": 1
+    },
+    "workplace-slang": {
+      "id": "workplace-slang",
+      "preferred": "workplace slang",
+      "aliases": [
+        "workplace slang"
+      ],
+      "count": 1
+    },
+    "remote-work-flexibility": {
+      "id": "remote-work-flexibility",
+      "preferred": "remote work flexibility",
+      "aliases": [
+        "remote work flexibility"
+      ],
+      "count": 1
+    },
+    "intercultural-innovation-hub": {
+      "id": "intercultural-innovation-hub",
+      "preferred": "Intercultural Innovation Hub",
+      "aliases": [
+        "Intercultural Innovation Hub"
+      ],
+      "count": 1
+    },
+    "memorizing-presentation-scripts": {
+      "id": "memorizing-presentation-scripts",
+      "preferred": "memorizing presentation scripts",
+      "aliases": [
+        "memorizing presentation scripts"
+      ],
+      "count": 1
+    },
+    "staying-informed": {
+      "id": "staying-informed",
+      "preferred": "staying informed",
+      "aliases": [
+        "staying informed"
+      ],
+      "count": 1
+    },
+    "reading-the-room": {
+      "id": "reading-the-room",
+      "preferred": "reading the room",
+      "aliases": [
+        "reading the room"
+      ],
+      "count": 1
+    },
+    "using-silence-in-public-speaking": {
+      "id": "using-silence-in-public-speaking",
+      "preferred": "using silence in public speaking",
+      "aliases": [
+        "using silence in public speaking"
+      ],
+      "count": 1
+    },
+    "confident-communication": {
+      "id": "confident-communication",
+      "preferred": "confident communication",
+      "aliases": [
+        "confident communication"
+      ],
+      "count": 1
+    },
+    "body-language-in-public-speaking": {
+      "id": "body-language-in-public-speaking",
+      "preferred": "body language in public speaking",
+      "aliases": [
+        "body language in public speaking"
+      ],
+      "count": 1
+    },
+    "remote-work": {
+      "id": "remote-work",
+      "preferred": "remote work",
+      "aliases": [
+        "remote work"
+      ],
+      "count": 1
+    },
+    "saudi-arabia-transformation": {
+      "id": "saudi-arabia-transformation",
+      "preferred": "Saudi Arabia Transformation",
+      "aliases": [
+        "Saudi Arabia Transformation"
+      ],
+      "count": 1
+    },
+    "riyadh-metro": {
+      "id": "riyadh-metro",
+      "preferred": "Riyadh Metro",
+      "aliases": [
+        "Riyadh Metro"
+      ],
+      "count": 1
+    },
+    "self-celebration": {
+      "id": "self-celebration",
+      "preferred": "self-celebration",
+      "aliases": [
+        "self-celebration"
+      ],
+      "count": 1
+    },
+    "public-speaking-confidence": {
+      "id": "public-speaking-confidence",
+      "preferred": "public speaking confidence",
+      "aliases": [
+        "public speaking confidence"
+      ],
+      "count": 1
+    },
+    "ai-conference-and-exhibition": {
+      "id": "ai-conference-and-exhibition",
+      "preferred": "AI conference and exhibition",
+      "aliases": [
+        "AI conference and exhibition"
+      ],
+      "count": 1
+    },
+    "future-of-work": {
+      "id": "future-of-work",
+      "preferred": "future of work",
+      "aliases": [
+        "future of work"
+      ],
+      "count": 1
+    },
+    "human-skills": {
+      "id": "human-skills",
+      "preferred": "human skills",
+      "aliases": [
+        "human skills"
+      ],
+      "count": 1
+    },
+    "gitex-asia": {
+      "id": "gitex-asia",
+      "preferred": "GITEX Asia",
+      "aliases": [
+        "GITEX Asia"
+      ],
+      "count": 1
+    },
+    "challenge-and-gt-days-2025": {
+      "id": "challenge-and-gt-days-2025",
+      "preferred": "Challenge and GT Days 2025",
+      "aliases": [
+        "Challenge and GT Days 2025"
+      ],
+      "count": 1
+    },
+    "overcoming-impostor-syndrome": {
+      "id": "overcoming-impostor-syndrome",
+      "preferred": "overcoming impostor syndrome",
+      "aliases": [
+        "overcoming impostor syndrome"
+      ],
+      "count": 1
+    },
+    "growth-mindset": {
+      "id": "growth-mindset",
+      "preferred": "growth mindset",
+      "aliases": [
+        "growth mindset"
+      ],
+      "count": 1
+    },
+    "mindfulness-and-taking-breaks": {
+      "id": "mindfulness-and-taking-breaks",
+      "preferred": "mindfulness and taking breaks",
+      "aliases": [
+        "mindfulness and taking breaks"
+      ],
+      "count": 1
+    },
+    "robotics-interaction": {
+      "id": "robotics-interaction",
+      "preferred": "robotics interaction",
+      "aliases": [
+        "robotics interaction"
+      ],
+      "count": 1
+    },
+    "wedding-speech-preparation": {
+      "id": "wedding-speech-preparation",
+      "preferred": "wedding speech preparation",
+      "aliases": [
+        "wedding speech preparation"
+      ],
+      "count": 1
+    },
+    "fithera-2025": {
+      "id": "fithera-2025",
+      "preferred": "fithera 2025",
+      "aliases": [
+        "fithera 2025"
+      ],
+      "count": 1
+    },
+    "the-saudi-food-show": {
+      "id": "the-saudi-food-show",
+      "preferred": "The Saudi Food Show",
+      "aliases": [
+        "The Saudi Food Show"
+      ],
+      "count": 1
+    },
+    "food-innovation": {
+      "id": "food-innovation",
+      "preferred": "food innovation",
+      "aliases": [
+        "food innovation"
+      ],
+      "count": 1
+    },
+    "microphone-technique": {
+      "id": "microphone-technique",
+      "preferred": "microphone technique",
+      "aliases": [
+        "microphone technique"
+      ],
+      "count": 1
+    },
+    "vulnerability-on-stage": {
+      "id": "vulnerability-on-stage",
+      "preferred": "vulnerability on stage",
+      "aliases": [
+        "vulnerability on stage"
+      ],
+      "count": 1
+    },
+    "authenticity-on-stage": {
+      "id": "authenticity-on-stage",
+      "preferred": "authenticity on stage",
+      "aliases": [
+        "authenticity on stage"
+      ],
+      "count": 1
+    },
+    "stepping-outside-comfort-zone": {
+      "id": "stepping-outside-comfort-zone",
+      "preferred": "stepping outside comfort zone",
+      "aliases": [
+        "stepping outside comfort zone"
+      ],
+      "count": 1
+    },
+    "emerging-tech-trends": {
+      "id": "emerging-tech-trends",
+      "preferred": "emerging tech trends",
+      "aliases": [
+        "emerging tech trends"
+      ],
+      "count": 1
+    },
+    "public-speaking-thrill": {
+      "id": "public-speaking-thrill",
+      "preferred": "public speaking thrill",
+      "aliases": [
+        "public speaking thrill"
+      ],
+      "count": 1
+    },
+    "ibm-quantum-computer-system-two": {
+      "id": "ibm-quantum-computer-system-two",
+      "preferred": "IBM Quantum Computer System Two",
+      "aliases": [
+        "IBM Quantum Computer System Two"
+      ],
+      "count": 1
+    },
+    "quantum-computing-applications": {
+      "id": "quantum-computing-applications",
+      "preferred": "quantum computing applications",
+      "aliases": [
+        "quantum computing applications"
+      ],
+      "count": 1
+    },
     "speaking-with-energy": {
       "id": "speaking-with-energy",
       "preferred": "speaking with energy",
@@ -2079,11 +4394,891 @@
       ],
       "count": 1
     },
-    "healthcare-innovation": {
-      "id": "healthcare-innovation",
-      "preferred": "healthcare innovation",
+    "cultural-identity-and-heritage-reconnection": {
+      "id": "cultural-identity-and-heritage-reconnection",
+      "preferred": "cultural identity and heritage reconnection",
       "aliases": [
-        "healthcare innovation"
+        "cultural identity and heritage reconnection"
+      ],
+      "count": 1
+    },
+    "audience-analysis": {
+      "id": "audience-analysis",
+      "preferred": "audience analysis",
+      "aliases": [
+        "audience analysis"
+      ],
+      "count": 1
+    },
+    "keynote-speech-delivery": {
+      "id": "keynote-speech-delivery",
+      "preferred": "keynote speech delivery",
+      "aliases": [
+        "keynote speech delivery"
+      ],
+      "count": 1
+    },
+    "event-atmosphere": {
+      "id": "event-atmosphere",
+      "preferred": "event atmosphere",
+      "aliases": [
+        "event atmosphere"
+      ],
+      "count": 1
+    },
+    "neuroscience-and-performance": {
+      "id": "neuroscience-and-performance",
+      "preferred": "neuroscience and performance",
+      "aliases": [
+        "neuroscience and performance"
+      ],
+      "count": 1
+    },
+    "visual-stimuli-and-colour": {
+      "id": "visual-stimuli-and-colour",
+      "preferred": "visual stimuli and colour",
+      "aliases": [
+        "visual stimuli and colour"
+      ],
+      "count": 1
+    },
+    "authentic-leadership": {
+      "id": "authentic-leadership",
+      "preferred": "authentic leadership",
+      "aliases": [
+        "authentic leadership"
+      ],
+      "count": 1
+    },
+    "human-connection-in-the-age-of-ai": {
+      "id": "human-connection-in-the-age-of-ai",
+      "preferred": "human connection in the age of AI",
+      "aliases": [
+        "human connection in the age of AI"
+      ],
+      "count": 1
+    },
+    "presentation-content-focus": {
+      "id": "presentation-content-focus",
+      "preferred": "presentation content focus",
+      "aliases": [
+        "presentation content focus"
+      ],
+      "count": 1
+    },
+    "client-testimonials": {
+      "id": "client-testimonials",
+      "preferred": "client testimonials",
+      "aliases": [
+        "client testimonials"
+      ],
+      "count": 1
+    },
+    "public-speaking-coaching": {
+      "id": "public-speaking-coaching",
+      "preferred": "public speaking coaching",
+      "aliases": [
+        "public speaking coaching"
+      ],
+      "count": 1
+    },
+    "resilience": {
+      "id": "resilience",
+      "preferred": "resilience",
+      "aliases": [
+        "resilience"
+      ],
+      "count": 1
+    },
+    "message-framing": {
+      "id": "message-framing",
+      "preferred": "message framing",
+      "aliases": [
+        "message framing"
+      ],
+      "count": 1
+    },
+    "presenter-coaching": {
+      "id": "presenter-coaching",
+      "preferred": "presenter coaching",
+      "aliases": [
+        "presenter coaching"
+      ],
+      "count": 1
+    },
+    "public-speaking-career-journey": {
+      "id": "public-speaking-career-journey",
+      "preferred": "public speaking career journey",
+      "aliases": [
+        "public speaking career journey"
+      ],
+      "count": 1
+    },
+    "supercars-and-classic-cars": {
+      "id": "supercars-and-classic-cars",
+      "preferred": "supercars and classic cars",
+      "aliases": [
+        "supercars and classic cars"
+      ],
+      "count": 1
+    },
+    "pets-as-family": {
+      "id": "pets-as-family",
+      "preferred": "pets as family",
+      "aliases": [
+        "pets as family"
+      ],
+      "count": 1
+    },
+    "practicing-art": {
+      "id": "practicing-art",
+      "preferred": "practicing art",
+      "aliases": [
+        "practicing art"
+      ],
+      "count": 1
+    },
+    "family-resilience": {
+      "id": "family-resilience",
+      "preferred": "family resilience",
+      "aliases": [
+        "family resilience"
+      ],
+      "count": 1
+    },
+    "rest-and-disconnection": {
+      "id": "rest-and-disconnection",
+      "preferred": "rest and disconnection",
+      "aliases": [
+        "rest and disconnection"
+      ],
+      "count": 1
+    },
+    "small-talk": {
+      "id": "small-talk",
+      "preferred": "small talk",
+      "aliases": [
+        "small talk"
+      ],
+      "count": 1
+    },
+    "smiling-in-presentations": {
+      "id": "smiling-in-presentations",
+      "preferred": "smiling in presentations",
+      "aliases": [
+        "smiling in presentations"
+      ],
+      "count": 1
+    },
+    "quantity-vs-quality": {
+      "id": "quantity-vs-quality",
+      "preferred": "quantity vs quality",
+      "aliases": [
+        "quantity vs quality"
+      ],
+      "count": 1
+    },
+    "perfectionism": {
+      "id": "perfectionism",
+      "preferred": "perfectionism",
+      "aliases": [
+        "perfectionism"
+      ],
+      "count": 1
+    },
+    "perspective-on-life": {
+      "id": "perspective-on-life",
+      "preferred": "perspective on life",
+      "aliases": [
+        "perspective on life"
+      ],
+      "count": 1
+    },
+    "daily-fitness": {
+      "id": "daily-fitness",
+      "preferred": "daily fitness",
+      "aliases": [
+        "daily fitness"
+      ],
+      "count": 1
+    },
+    "parenting": {
+      "id": "parenting",
+      "preferred": "parenting",
+      "aliases": [
+        "parenting"
+      ],
+      "count": 1
+    },
+    "finding-purpose": {
+      "id": "finding-purpose",
+      "preferred": "finding purpose",
+      "aliases": [
+        "finding purpose"
+      ],
+      "count": 1
+    },
+    "bmw-welt-and-museum": {
+      "id": "bmw-welt-and-museum",
+      "preferred": "BMW Welt and Museum",
+      "aliases": [
+        "BMW Welt and Museum"
+      ],
+      "count": 1
+    },
+    "community-growth-milestone": {
+      "id": "community-growth-milestone",
+      "preferred": "community growth milestone",
+      "aliases": [
+        "community growth milestone"
+      ],
+      "count": 1
+    },
+    "healthcare-innovation-awards": {
+      "id": "healthcare-innovation-awards",
+      "preferred": "healthcare innovation awards",
+      "aliases": [
+        "healthcare innovation awards"
+      ],
+      "count": 1
+    },
+    "wedding-anniversary": {
+      "id": "wedding-anniversary",
+      "preferred": "wedding anniversary",
+      "aliases": [
+        "wedding anniversary"
+      ],
+      "count": 1
+    },
+    "communication-career": {
+      "id": "communication-career",
+      "preferred": "communication career",
+      "aliases": [
+        "communication career"
+      ],
+      "count": 1
+    },
+    "communication-and-presentation-skills": {
+      "id": "communication-and-presentation-skills",
+      "preferred": "communication and presentation skills",
+      "aliases": [
+        "communication and presentation skills"
+      ],
+      "count": 1
+    },
+    "passion-in-presenting": {
+      "id": "passion-in-presenting",
+      "preferred": "passion in presenting",
+      "aliases": [
+        "passion in presenting"
+      ],
+      "count": 1
+    },
+    "supercar-owners-circle": {
+      "id": "supercar-owners-circle",
+      "preferred": "Supercar Owners Circle",
+      "aliases": [
+        "Supercar Owners Circle"
+      ],
+      "count": 1
+    },
+    "public-speaking-tips": {
+      "id": "public-speaking-tips",
+      "preferred": "public speaking tips",
+      "aliases": [
+        "public speaking tips"
+      ],
+      "count": 1
+    },
+    "bits-pretzels-conference": {
+      "id": "bits-pretzels-conference",
+      "preferred": "Bits & Pretzels conference",
+      "aliases": [
+        "Bits & Pretzels conference"
+      ],
+      "count": 1
+    },
+    "vocal-authority": {
+      "id": "vocal-authority",
+      "preferred": "vocal authority",
+      "aliases": [
+        "vocal authority"
+      ],
+      "count": 1
+    },
+    "relocation": {
+      "id": "relocation",
+      "preferred": "relocation",
+      "aliases": [
+        "relocation"
+      ],
+      "count": 1
+    },
+    "career-reflection": {
+      "id": "career-reflection",
+      "preferred": "career reflection",
+      "aliases": [
+        "career reflection"
+      ],
+      "count": 1
+    },
+    "public-speaking-and-storytelling": {
+      "id": "public-speaking-and-storytelling",
+      "preferred": "public speaking and storytelling",
+      "aliases": [
+        "public speaking and storytelling"
+      ],
+      "count": 1
+    },
+    "vocal-variety": {
+      "id": "vocal-variety",
+      "preferred": "vocal variety",
+      "aliases": [
+        "vocal variety"
+      ],
+      "count": 1
+    },
+    "gen-z-skills": {
+      "id": "gen-z-skills",
+      "preferred": "Gen Z skills",
+      "aliases": [
+        "Gen Z skills"
+      ],
+      "count": 1
+    },
+    "professional-success": {
+      "id": "professional-success",
+      "preferred": "professional success",
+      "aliases": [
+        "professional success"
+      ],
+      "count": 1
+    },
+    "feedback-delivery": {
+      "id": "feedback-delivery",
+      "preferred": "feedback delivery",
+      "aliases": [
+        "feedback delivery"
+      ],
+      "count": 1
+    },
+    "slide-design": {
+      "id": "slide-design",
+      "preferred": "slide design",
+      "aliases": [
+        "slide design"
+      ],
+      "count": 1
+    },
+    "presenting-slides": {
+      "id": "presenting-slides",
+      "preferred": "presenting slides",
+      "aliases": [
+        "presenting slides"
+      ],
+      "count": 1
+    },
+    "slide-explanation": {
+      "id": "slide-explanation",
+      "preferred": "slide explanation",
+      "aliases": [
+        "slide explanation"
+      ],
+      "count": 1
+    },
+    "presentation-closing": {
+      "id": "presentation-closing",
+      "preferred": "presentation closing",
+      "aliases": [
+        "presentation closing"
+      ],
+      "count": 1
+    },
+    "european-startup-ecosystem": {
+      "id": "european-startup-ecosystem",
+      "preferred": "European startup ecosystem",
+      "aliases": [
+        "European startup ecosystem"
+      ],
+      "count": 1
+    },
+    "bits-pretzels-founders-festival": {
+      "id": "bits-pretzels-founders-festival",
+      "preferred": "Bits & Pretzels Founders Festival",
+      "aliases": [
+        "Bits & Pretzels Founders Festival"
+      ],
+      "count": 1
+    },
+    "health-technology": {
+      "id": "health-technology",
+      "preferred": "health technology",
+      "aliases": [
+        "health technology"
+      ],
+      "count": 1
+    },
+    "health-tech-awards": {
+      "id": "health-tech-awards",
+      "preferred": "health tech awards",
+      "aliases": [
+        "health tech awards"
+      ],
+      "count": 1
+    },
+    "expand-north-star": {
+      "id": "expand-north-star",
+      "preferred": "Expand North Star",
+      "aliases": [
+        "Expand North Star"
+      ],
+      "count": 1
+    },
+    "audience-tailoring": {
+      "id": "audience-tailoring",
+      "preferred": "audience tailoring",
+      "aliases": [
+        "audience tailoring"
+      ],
+      "count": 1
+    },
+    "human-to-human-authenticity": {
+      "id": "human-to-human-authenticity",
+      "preferred": "human-to-human authenticity",
+      "aliases": [
+        "human-to-human authenticity"
+      ],
+      "count": 1
+    },
+    "work-life-integration": {
+      "id": "work-life-integration",
+      "preferred": "work-life integration",
+      "aliases": [
+        "work-life integration"
+      ],
+      "count": 1
+    },
+    "ai-voice-analysis": {
+      "id": "ai-voice-analysis",
+      "preferred": "AI voice analysis",
+      "aliases": [
+        "AI voice analysis"
+      ],
+      "count": 1
+    },
+    "business-turnaround": {
+      "id": "business-turnaround",
+      "preferred": "business turnaround",
+      "aliases": [
+        "business turnaround"
+      ],
+      "count": 1
+    },
+    "eu-inc-initiative": {
+      "id": "eu-inc-initiative",
+      "preferred": "EU-INC initiative",
+      "aliases": [
+        "EU-INC initiative"
+      ],
+      "count": 1
+    },
+    "european-startups": {
+      "id": "european-startups",
+      "preferred": "European startups",
+      "aliases": [
+        "European startups"
+      ],
+      "count": 1
+    },
+    "startup-ecosystem": {
+      "id": "startup-ecosystem",
+      "preferred": "startup ecosystem",
+      "aliases": [
+        "startup ecosystem"
+      ],
+      "count": 1
+    },
+    "imposter-syndrome": {
+      "id": "imposter-syndrome",
+      "preferred": "imposter syndrome",
+      "aliases": [
+        "imposter syndrome"
+      ],
+      "count": 1
+    },
+    "workshop-facilitation": {
+      "id": "workshop-facilitation",
+      "preferred": "workshop facilitation",
+      "aliases": [
+        "workshop facilitation"
+      ],
+      "count": 1
+    },
+    "dubai-fitness-challenge": {
+      "id": "dubai-fitness-challenge",
+      "preferred": "Dubai Fitness Challenge",
+      "aliases": [
+        "Dubai Fitness Challenge"
+      ],
+      "count": 1
+    },
+    "business-transformation": {
+      "id": "business-transformation",
+      "preferred": "business transformation",
+      "aliases": [
+        "business transformation"
+      ],
+      "count": 1
+    },
+    "anna-wintour": {
+      "id": "anna-wintour",
+      "preferred": "Anna Wintour",
+      "aliases": [
+        "Anna Wintour"
+      ],
+      "count": 1
+    },
+    "delivery-and-presentation-skills": {
+      "id": "delivery-and-presentation-skills",
+      "preferred": "delivery and presentation skills",
+      "aliases": [
+        "delivery and presentation skills"
+      ],
+      "count": 1
+    },
+    "remote-work-environment": {
+      "id": "remote-work-environment",
+      "preferred": "remote work environment",
+      "aliases": [
+        "remote work environment"
+      ],
+      "count": 1
+    },
+    "pausing-in-speech": {
+      "id": "pausing-in-speech",
+      "preferred": "pausing in speech",
+      "aliases": [
+        "pausing in speech"
+      ],
+      "count": 1
+    },
+    "event-hosting-milestone": {
+      "id": "event-hosting-milestone",
+      "preferred": "event hosting milestone",
+      "aliases": [
+        "event hosting milestone"
+      ],
+      "count": 1
+    },
+    "viking-scream": {
+      "id": "viking-scream",
+      "preferred": "Viking scream",
+      "aliases": [
+        "Viking scream"
+      ],
+      "count": 1
+    },
+    "voice-projection": {
+      "id": "voice-projection",
+      "preferred": "voice projection",
+      "aliases": [
+        "voice projection"
+      ],
+      "count": 1
+    },
+    "rest-and-recovery": {
+      "id": "rest-and-recovery",
+      "preferred": "rest and recovery",
+      "aliases": [
+        "rest and recovery"
+      ],
+      "count": 1
+    },
+    "executive-communication": {
+      "id": "executive-communication",
+      "preferred": "executive communication",
+      "aliases": [
+        "executive communication"
+      ],
+      "count": 1
+    },
+    "goal-setting-and-journey-appreciation": {
+      "id": "goal-setting-and-journey-appreciation",
+      "preferred": "goal setting and journey appreciation",
+      "aliases": [
+        "goal setting and journey appreciation"
+      ],
+      "count": 1
+    },
+    "uae-national-day": {
+      "id": "uae-national-day",
+      "preferred": "UAE National Day",
+      "aliases": [
+        "UAE National Day"
+      ],
+      "count": 1
+    },
+    "public-speaking-and-event-moderation": {
+      "id": "public-speaking-and-event-moderation",
+      "preferred": "public speaking and event moderation",
+      "aliases": [
+        "public speaking and event moderation"
+      ],
+      "count": 1
+    },
+    "executive-presentations": {
+      "id": "executive-presentations",
+      "preferred": "executive presentations",
+      "aliases": [
+        "executive presentations"
+      ],
+      "count": 1
+    },
+    "holiday-plans-and-rest": {
+      "id": "holiday-plans-and-rest",
+      "preferred": "holiday plans and rest",
+      "aliases": [
+        "holiday plans and rest"
+      ],
+      "count": 1
+    },
+    "startup-ecosystem-leadership": {
+      "id": "startup-ecosystem-leadership",
+      "preferred": "startup ecosystem leadership",
+      "aliases": [
+        "startup ecosystem leadership"
+      ],
+      "count": 1
+    },
+    "personal-reflection-and-growth": {
+      "id": "personal-reflection-and-growth",
+      "preferred": "personal reflection and growth",
+      "aliases": [
+        "personal reflection and growth"
+      ],
+      "count": 1
+    },
+    "event-hosting-and-communication-coaching-milestones": {
+      "id": "event-hosting-and-communication-coaching-milestones",
+      "preferred": "event hosting and communication coaching milestones",
+      "aliases": [
+        "event hosting and communication coaching milestones"
+      ],
+      "count": 1
+    },
+    "ai-impact-on-communication": {
+      "id": "ai-impact-on-communication",
+      "preferred": "AI impact on communication",
+      "aliases": [
+        "AI impact on communication"
+      ],
+      "count": 1
+    },
+    "ai-job-replacement": {
+      "id": "ai-job-replacement",
+      "preferred": "AI job replacement",
+      "aliases": [
+        "AI job replacement"
+      ],
+      "count": 1
+    },
+    "adaptive-communication": {
+      "id": "adaptive-communication",
+      "preferred": "adaptive communication",
+      "aliases": [
+        "adaptive communication"
+      ],
+      "count": 1
+    },
+    "media-and-communication-coaching": {
+      "id": "media-and-communication-coaching",
+      "preferred": "media and communication coaching",
+      "aliases": [
+        "media and communication coaching"
+      ],
+      "count": 1
+    },
+    "self-critique-and-confidence": {
+      "id": "self-critique-and-confidence",
+      "preferred": "self-critique and confidence",
+      "aliases": [
+        "self-critique and confidence"
+      ],
+      "count": 1
+    },
+    "family-and-presence": {
+      "id": "family-and-presence",
+      "preferred": "family and presence",
+      "aliases": [
+        "family and presence"
+      ],
+      "count": 1
+    },
+    "holiday-greetings": {
+      "id": "holiday-greetings",
+      "preferred": "holiday greetings",
+      "aliases": [
+        "holiday greetings"
+      ],
+      "count": 1
+    },
+    "smart-ar-glasses": {
+      "id": "smart-ar-glasses",
+      "preferred": "smart AR glasses",
+      "aliases": [
+        "smart AR glasses"
+      ],
+      "count": 1
+    },
+    "teleprompter": {
+      "id": "teleprompter",
+      "preferred": "teleprompter",
+      "aliases": [
+        "teleprompter"
+      ],
+      "count": 1
+    },
+    "pre-stage-self-talk": {
+      "id": "pre-stage-self-talk",
+      "preferred": "pre-stage self-talk",
+      "aliases": [
+        "pre-stage self-talk"
+      ],
+      "count": 1
+    },
+    "personal-style-and-nonverbal-communication": {
+      "id": "personal-style-and-nonverbal-communication",
+      "preferred": "personal style and nonverbal communication",
+      "aliases": [
+        "personal style and nonverbal communication"
+      ],
+      "count": 1
+    },
+    "perspective-shift": {
+      "id": "perspective-shift",
+      "preferred": "perspective shift",
+      "aliases": [
+        "perspective shift"
+      ],
+      "count": 1
+    },
+    "memorable-communication": {
+      "id": "memorable-communication",
+      "preferred": "memorable communication",
+      "aliases": [
+        "memorable communication"
+      ],
+      "count": 1
+    },
+    "capturing-attention": {
+      "id": "capturing-attention",
+      "preferred": "capturing attention",
+      "aliases": [
+        "capturing attention"
+      ],
+      "count": 1
+    },
+    "communication-style": {
+      "id": "communication-style",
+      "preferred": "communication style",
+      "aliases": [
+        "communication style"
+      ],
+      "count": 1
+    },
+    "b2b-vs-b2c": {
+      "id": "b2b-vs-b2c",
+      "preferred": "B2B vs B2C",
+      "aliases": [
+        "B2B vs B2C"
+      ],
+      "count": 1
+    },
+    "brand-positioning": {
+      "id": "brand-positioning",
+      "preferred": "brand positioning",
+      "aliases": [
+        "brand positioning"
+      ],
+      "count": 1
+    },
+    "brand-communication": {
+      "id": "brand-communication",
+      "preferred": "brand communication",
+      "aliases": [
+        "brand communication"
+      ],
+      "count": 1
+    },
+    "print-industry-event": {
+      "id": "print-industry-event",
+      "preferred": "print industry event",
+      "aliases": [
+        "print industry event"
+      ],
+      "count": 1
+    },
+    "startup-communication": {
+      "id": "startup-communication",
+      "preferred": "startup communication",
+      "aliases": [
+        "startup communication"
+      ],
+      "count": 1
+    },
+    "memorable-moments-in-presentations": {
+      "id": "memorable-moments-in-presentations",
+      "preferred": "memorable moments in presentations",
+      "aliases": [
+        "memorable moments in presentations"
+      ],
+      "count": 1
+    },
+    "voice-technique": {
+      "id": "voice-technique",
+      "preferred": "voice technique",
+      "aliases": [
+        "voice technique"
+      ],
+      "count": 1
+    },
+    "resting-facial-expressions": {
+      "id": "resting-facial-expressions",
+      "preferred": "resting facial expressions",
+      "aliases": [
+        "resting facial expressions"
+      ],
+      "count": 1
+    },
+    "health-i-award": {
+      "id": "health-i-award",
+      "preferred": "Health-i Award",
+      "aliases": [
+        "Health-i Award"
+      ],
+      "count": 1
+    },
+    "intentional-listening": {
+      "id": "intentional-listening",
+      "preferred": "intentional listening",
+      "aliases": [
+        "intentional listening"
+      ],
+      "count": 1
+    },
+    "social-entrepreneurship": {
+      "id": "social-entrepreneurship",
+      "preferred": "social entrepreneurship",
+      "aliases": [
+        "social entrepreneurship"
+      ],
+      "count": 1
+    },
+    "clean-water-access": {
+      "id": "clean-water-access",
+      "preferred": "clean water access",
+      "aliases": [
+        "clean water access"
       ],
       "count": 1
     },
@@ -2095,6 +5290,78 @@
       ],
       "count": 1
     },
+    "intercultural-innovation-hub-awards": {
+      "id": "intercultural-innovation-hub-awards",
+      "preferred": "Intercultural Innovation Hub Awards",
+      "aliases": [
+        "Intercultural Innovation Hub Awards"
+      ],
+      "count": 1
+    },
+    "charisma": {
+      "id": "charisma",
+      "preferred": "charisma",
+      "aliases": [
+        "charisma"
+      ],
+      "count": 1
+    },
+    "english-language-improvement": {
+      "id": "english-language-improvement",
+      "preferred": "English language improvement",
+      "aliases": [
+        "English language improvement"
+      ],
+      "count": 1
+    },
+    "fluency-and-overcoming-hesitation": {
+      "id": "fluency-and-overcoming-hesitation",
+      "preferred": "fluency and overcoming hesitation",
+      "aliases": [
+        "fluency and overcoming hesitation"
+      ],
+      "count": 1
+    },
+    "communication-techniques": {
+      "id": "communication-techniques",
+      "preferred": "communication techniques",
+      "aliases": [
+        "communication techniques"
+      ],
+      "count": 1
+    },
+    "script-memorization": {
+      "id": "script-memorization",
+      "preferred": "script memorization",
+      "aliases": [
+        "script memorization"
+      ],
+      "count": 1
+    },
+    "language-improvement": {
+      "id": "language-improvement",
+      "preferred": "language improvement",
+      "aliases": [
+        "language improvement"
+      ],
+      "count": 1
+    },
+    "public-speaking-resilience": {
+      "id": "public-speaking-resilience",
+      "preferred": "public speaking resilience",
+      "aliases": [
+        "public speaking resilience"
+      ],
+      "count": 1
+    },
+    "accent-and-pronunciation": {
+      "id": "accent-and-pronunciation",
+      "preferred": "accent and pronunciation",
+      "aliases": [
+        "accent and pronunciation"
+      ],
+      "count": 1
+    },
     "presentation-mindset": {
       "id": "presentation-mindset",
       "preferred": "presentation mindset",
@@ -2103,27 +5370,51 @@
       ],
       "count": 1
     },
-    "content-preparation": {
-      "id": "content-preparation",
-      "preferred": "content preparation",
+    "content-mastery": {
+      "id": "content-mastery",
+      "preferred": "content mastery",
       "aliases": [
-        "content preparation"
+        "content mastery"
       ],
       "count": 1
     },
-    "breathing-techniques": {
-      "id": "breathing-techniques",
-      "preferred": "breathing techniques",
+    "conscious-breathing": {
+      "id": "conscious-breathing",
+      "preferred": "conscious breathing",
       "aliases": [
-        "breathing techniques"
+        "conscious breathing"
       ],
       "count": 1
     },
-    "physiological-response-management": {
-      "id": "physiological-response-management",
-      "preferred": "physiological response management",
+    "physical-response-protocol": {
+      "id": "physical-response-protocol",
+      "preferred": "physical response protocol",
       "aliases": [
-        "physiological response management"
+        "physical response protocol"
+      ],
+      "count": 1
+    },
+    "communication-skills-for-doctors": {
+      "id": "communication-skills-for-doctors",
+      "preferred": "communication skills for doctors",
+      "aliases": [
+        "communication skills for doctors"
+      ],
+      "count": 1
+    },
+    "visual-props-in-communication": {
+      "id": "visual-props-in-communication",
+      "preferred": "visual props in communication",
+      "aliases": [
+        "visual props in communication"
+      ],
+      "count": 1
+    },
+    "storytelling-through-magic": {
+      "id": "storytelling-through-magic",
+      "preferred": "storytelling through magic",
+      "aliases": [
+        "storytelling through magic"
       ],
       "count": 1
     },
@@ -2135,75 +5426,347 @@
       ],
       "count": 1
     },
-    "pitching-techniques": {
-      "id": "pitching-techniques",
-      "preferred": "pitching techniques",
+    "voice-and-pronunciation": {
+      "id": "voice-and-pronunciation",
+      "preferred": "voice and pronunciation",
       "aliases": [
-        "pitching techniques"
+        "voice and pronunciation"
       ],
       "count": 1
     },
-    "storytelling-in-communication": {
-      "id": "storytelling-in-communication",
-      "preferred": "storytelling in communication",
+    "voice-melody": {
+      "id": "voice-melody",
+      "preferred": "voice melody",
       "aliases": [
-        "storytelling in communication"
+        "voice melody"
       ],
       "count": 1
     },
-    "human-connection-in-communication": {
-      "id": "human-connection-in-communication",
-      "preferred": "human connection in communication",
+    "speaking-pace": {
+      "id": "speaking-pace",
+      "preferred": "speaking pace",
       "aliases": [
-        "human connection in communication"
+        "speaking pace"
       ],
       "count": 1
     },
-    "human-connection-at-events": {
-      "id": "human-connection-at-events",
-      "preferred": "human connection at events",
+    "audience-centric-selling": {
+      "id": "audience-centric-selling",
+      "preferred": "audience-centric selling",
       "aliases": [
-        "human connection at events"
+        "audience-centric selling"
       ],
       "count": 1
     },
-    "digital-communication": {
-      "id": "digital-communication",
-      "preferred": "digital communication",
+    "speech-structuring": {
+      "id": "speech-structuring",
+      "preferred": "speech structuring",
       "aliases": [
-        "digital communication"
+        "speech structuring"
       ],
       "count": 1
     },
-    "stage-presence": {
-      "id": "stage-presence",
-      "preferred": "stage presence",
+    "body-language-and-gestures": {
+      "id": "body-language-and-gestures",
+      "preferred": "body language and gestures",
       "aliases": [
-        "stage presence"
+        "body language and gestures"
       ],
       "count": 1
     },
-    "memorable-presentation-moments": {
-      "id": "memorable-presentation-moments",
-      "preferred": "memorable presentation moments",
+    "authentic-communication-in-ai-era": {
+      "id": "authentic-communication-in-ai-era",
+      "preferred": "authentic communication in AI era",
       "aliases": [
-        "memorable presentation moments"
+        "authentic communication in AI era"
       ],
       "count": 1
     },
-    "facial-expressions-in-public-speaking": {
-      "id": "facial-expressions-in-public-speaking",
-      "preferred": "facial expressions in public speaking",
+    "communication-leverage": {
+      "id": "communication-leverage",
+      "preferred": "communication leverage",
       "aliases": [
-        "facial expressions in public speaking"
+        "communication leverage"
       ],
       "count": 1
     },
-    "simplifying-complex-concepts": {
-      "id": "simplifying-complex-concepts",
-      "preferred": "simplifying complex concepts",
+    "event-experience-design": {
+      "id": "event-experience-design",
+      "preferred": "event experience design",
       "aliases": [
-        "simplifying complex concepts"
+        "event experience design"
+      ],
+      "count": 1
+    },
+    "public-speaking-mindset": {
+      "id": "public-speaking-mindset",
+      "preferred": "public speaking mindset",
+      "aliases": [
+        "public speaking mindset"
+      ],
+      "count": 1
+    },
+    "vocal-rhythm": {
+      "id": "vocal-rhythm",
+      "preferred": "vocal rhythm",
+      "aliases": [
+        "vocal rhythm"
+      ],
+      "count": 1
+    },
+    "pacing-and-tempo": {
+      "id": "pacing-and-tempo",
+      "preferred": "pacing and tempo",
+      "aliases": [
+        "pacing and tempo"
+      ],
+      "count": 1
+    },
+    "stage-mistakes": {
+      "id": "stage-mistakes",
+      "preferred": "stage mistakes",
+      "aliases": [
+        "stage mistakes"
+      ],
+      "count": 1
+    },
+    "enunciation-and-accents": {
+      "id": "enunciation-and-accents",
+      "preferred": "enunciation and accents",
+      "aliases": [
+        "enunciation and accents"
+      ],
+      "count": 1
+    },
+    "hedging-words": {
+      "id": "hedging-words",
+      "preferred": "hedging words",
+      "aliases": [
+        "hedging words"
+      ],
+      "count": 1
+    },
+    "facial-expressions": {
+      "id": "facial-expressions",
+      "preferred": "facial expressions",
+      "aliases": [
+        "facial expressions"
+      ],
+      "count": 1
+    },
+    "simplifying-complex-topics": {
+      "id": "simplifying-complex-topics",
+      "preferred": "simplifying complex topics",
+      "aliases": [
+        "simplifying complex topics"
+      ],
+      "count": 1
+    },
+    "arnold-schwarzenegger": {
+      "id": "arnold-schwarzenegger",
+      "preferred": "Arnold Schwarzenegger",
+      "aliases": [
+        "Arnold Schwarzenegger"
+      ],
+      "count": 1
+    },
+    "rapport-building": {
+      "id": "rapport-building",
+      "preferred": "rapport building",
+      "aliases": [
+        "rapport building"
+      ],
+      "count": 1
+    },
+    "voice-patterns": {
+      "id": "voice-patterns",
+      "preferred": "voice patterns",
+      "aliases": [
+        "voice patterns"
+      ],
+      "count": 1
+    },
+    "vocal-tone": {
+      "id": "vocal-tone",
+      "preferred": "vocal tone",
+      "aliases": [
+        "vocal tone"
+      ],
+      "count": 1
+    },
+    "punchline-rhythm": {
+      "id": "punchline-rhythm",
+      "preferred": "punchline rhythm",
+      "aliases": [
+        "punchline rhythm"
+      ],
+      "count": 1
+    },
+    "vocal-emphasis": {
+      "id": "vocal-emphasis",
+      "preferred": "vocal emphasis",
+      "aliases": [
+        "vocal emphasis"
+      ],
+      "count": 1
+    },
+    "compliments": {
+      "id": "compliments",
+      "preferred": "compliments",
+      "aliases": [
+        "compliments"
+      ],
+      "count": 1
+    },
+    "fashion-and-presence": {
+      "id": "fashion-and-presence",
+      "preferred": "fashion and presence",
+      "aliases": [
+        "fashion and presence"
+      ],
+      "count": 1
+    },
+    "grooming-and-style": {
+      "id": "grooming-and-style",
+      "preferred": "grooming and style",
+      "aliases": [
+        "grooming and style"
+      ],
+      "count": 1
+    },
+    "personal-presentation": {
+      "id": "personal-presentation",
+      "preferred": "personal presentation",
+      "aliases": [
+        "personal presentation"
+      ],
+      "count": 1
+    },
+    "barack-obama": {
+      "id": "barack-obama",
+      "preferred": "Barack Obama",
+      "aliases": [
+        "Barack Obama"
+      ],
+      "count": 1
+    },
+    "voice-analysis": {
+      "id": "voice-analysis",
+      "preferred": "voice analysis",
+      "aliases": [
+        "voice analysis"
+      ],
+      "count": 1
+    },
+    "charisma-score": {
+      "id": "charisma-score",
+      "preferred": "charisma score",
+      "aliases": [
+        "charisma score"
+      ],
+      "count": 1
+    },
+    "vocal-variance": {
+      "id": "vocal-variance",
+      "preferred": "vocal variance",
+      "aliases": [
+        "vocal variance"
+      ],
+      "count": 1
+    },
+    "emphatic-pauses": {
+      "id": "emphatic-pauses",
+      "preferred": "emphatic pauses",
+      "aliases": [
+        "emphatic pauses"
+      ],
+      "count": 1
+    },
+    "self-deprecating-humor": {
+      "id": "self-deprecating-humor",
+      "preferred": "self-deprecating humor",
+      "aliases": [
+        "self-deprecating humor"
+      ],
+      "count": 1
+    },
+    "brand-maturity": {
+      "id": "brand-maturity",
+      "preferred": "brand maturity",
+      "aliases": [
+        "brand maturity"
+      ],
+      "count": 1
+    },
+    "clear-communication": {
+      "id": "clear-communication",
+      "preferred": "clear communication",
+      "aliases": [
+        "clear communication"
+      ],
+      "count": 1
+    },
+    "presentation-hooks": {
+      "id": "presentation-hooks",
+      "preferred": "presentation hooks",
+      "aliases": [
+        "presentation hooks"
+      ],
+      "count": 1
+    },
+    "speech-structure": {
+      "id": "speech-structure",
+      "preferred": "speech structure",
+      "aliases": [
+        "speech structure"
+      ],
+      "count": 1
+    },
+    "pep-guardiola": {
+      "id": "pep-guardiola",
+      "preferred": "Pep Guardiola",
+      "aliases": [
+        "Pep Guardiola"
+      ],
+      "count": 1
+    },
+    "emotional-communication": {
+      "id": "emotional-communication",
+      "preferred": "emotional communication",
+      "aliases": [
+        "emotional communication"
+      ],
+      "count": 1
+    },
+    "recovering-from-mistakes": {
+      "id": "recovering-from-mistakes",
+      "preferred": "recovering from mistakes",
+      "aliases": [
+        "recovering from mistakes"
+      ],
+      "count": 1
+    },
+    "personal-life": {
+      "id": "personal-life",
+      "preferred": "personal life",
+      "aliases": [
+        "personal life"
+      ],
+      "count": 1
+    },
+    "family-responsibility": {
+      "id": "family-responsibility",
+      "preferred": "family responsibility",
+      "aliases": [
+        "family responsibility"
+      ],
+      "count": 1
+    },
+    "football-terminology": {
+      "id": "football-terminology",
+      "preferred": "football terminology",
+      "aliases": [
+        "football terminology"
       ],
       "count": 1
     }

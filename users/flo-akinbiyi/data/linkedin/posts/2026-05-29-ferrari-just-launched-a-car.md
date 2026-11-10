@@ -3,7 +3,7 @@ id: '7466003278020108288'
 date: '2026-05-29T05:51:33.113Z'
 url: https://www.linkedin.com/posts/floakinbiyi_ferrari-just-launched-a-car-that-does-not-activity-7465642462062198784-b_gK
 likes: 94
-comments: 114
+comments: 104
 images_count: 1
 author_comments:
 - Do you try to please everybody or do you take a bold stance?

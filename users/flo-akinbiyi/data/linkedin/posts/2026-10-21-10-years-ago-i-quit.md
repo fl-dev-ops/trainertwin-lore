@@ -2,8 +2,8 @@
 id: '7518677705270226944'
 date: '2026-10-21T14:20:55.213Z'
 url: https://www.linkedin.com/posts/floakinbiyi_celebration-presenter-coach-ugcPost-7518544249756315648-uY98
-likes: 73
-comments: 22
+likes: 79
+comments: 24
 images_count: 8
 ---
 

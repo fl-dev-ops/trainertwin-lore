@@ -1,6 +1,54 @@
 channel_url: https://www.youtube.com/@FloAkinbiyi
-total_videos: 25
+total_videos: 32
 videos:
+- id: nmXpl4KF7JI
+  title: What is human first communication?
+  url: https://www.youtube.com/shorts/nmXpl4KF7JI
+  upload_date: '2026-11-03'
+  view_count: 26
+  description: 'What is human-first communication?
+
+
+    What makes it special?
+
+
+    #communicationcoaching #humanfirstcommunication #H2H #publicspeaking'
+  author: floakinbiyi
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Flo Akinbiyi
+- id: RmiiQ2_we8I
+  title: What is Obama’s secret to great communication?
+  url: https://www.youtube.com/shorts/RmiiQ2_we8I
+  upload_date: '2026-10-26'
+  view_count: 1900
+  description: 'What is Obama’s secret to great communication?
+
+
+    #publicspeaking #communication #communicationcoach #humanfirstcommunication #Obama'
+  author: floakinbiyi
+  model: universal-3-5-pro
+  speaker_count: 3
+  speakers:
+    speaker_1: Flo Akinbiyi
+    speaker_2: null
+    speaker_3: null
+- id: LJuWQTQ627w
+  title: The Elon Musk Effect
+  url: https://www.youtube.com/shorts/LJuWQTQ627w
+  upload_date: '2026-10-20'
+  view_count: 1400
+  description: 'Why do people listen to Elon Musk?
+
+
+    #publicspeaking #content #elonmusk'
+  author: floakinbiyi
+  model: universal-3-5-pro
+  speaker_count: 2
+  speakers:
+    speaker_1: Flo Akinbiyi
+    speaker_2: null
 - id: N2WmpncASs4
   title: Testimonial from Udie Chima Zillow
   url: https://www.youtube.com/watch?v=N2WmpncASs4
@@ -24,115 +72,6 @@ videos:
   speaker_count: 1
   speakers:
     speaker_1: null
-- id: FHCCMmvy8Zo
-  title: HUMAN 2 HUMAN SUMMIT 2026 The Human Connection
-  url: https://www.youtube.com/watch?v=FHCCMmvy8Zo
-  upload_date: '2026-05-05'
-  view_count: 46
-  description: What keeps people and society together?
-  author: floakinbiyi
-  model: universal-3-5-pro
-  speaker_count: 3
-  speakers:
-    speaker_1: null
-    speaker_2: null
-    speaker_3: null
-- id: 8SY1q4F6WEI
-  title: TEDxRWA THE HUMAN EDGE  Skills to Thrive in the Future of Work
-  url: https://www.youtube.com/watch?v=8SY1q4F6WEI
-  upload_date: '2026-04-28'
-  view_count: 39
-  description: Three skills that will keep you ahead of the game.
-  author: floakinbiyi
-  model: universal-3-5-pro
-  speaker_count: 1
-  speakers:
-    speaker_1: null
-- id: Qa4rGjrO82o
-  title: WEB SUMMIT LISBON 2024 The Voice as a Marketing Tool
-  url: https://www.youtube.com/watch?v=Qa4rGjrO82o
-  upload_date: '2026-04-28'
-  view_count: 22
-  description: Your voice has the power to sell  - it's one of your secret weapons.
-  author: floakinbiyi
-  model: universal-3-5-pro
-  speaker_count: 1
-  speakers:
-    speaker_1: null
-- id: udOwaZpSK80
-  title: Magic Trick for Entrepreneur
-  url: https://www.youtube.com/watch?v=udOwaZpSK80
-  upload_date: '2026-03-04'
-  view_count: 12
-  description: 'Be memorable!
-
-
-    #floakinbiyi #presenter #Entrepreneur #magic #pitching'
-  author: floakinbiyi
-  model: universal-3-5-pro
-  speaker_count: 2
-  speakers:
-    speaker_1: null
-    speaker_2: null
-- id: mqV3cZQGdEw
-  title: Testimonial from Felix Haas
-  url: https://www.youtube.com/watch?v=mqV3cZQGdEw
-  upload_date: '2026-02-11'
-  view_count: 21
-  description: Bits & Pretzels Founders Festival
-  author: floakinbiyi
-  model: universal-3-5-pro
-  speaker_count: 1
-  speakers:
-    speaker_1: null
-- id: nmXpl4KF7JI
-  title: What is human first communication?
-  url: https://www.youtube.com/shorts/nmXpl4KF7JI
-  upload_date: '2026-11-03'
-  view_count: 26
-  description: 'What is human-first communication?
-
-
-    What makes it special?
-
-
-    #communicationcoaching #humanfirstcommunication #H2H #publicspeaking'
-  author: floakinbiyi
-  model: universal-3-5-pro
-  speaker_count: 1
-  speakers:
-    speaker_1: null
-- id: RmiiQ2_we8I
-  title: What is Obama’s secret to great communication?
-  url: https://www.youtube.com/shorts/RmiiQ2_we8I
-  upload_date: '2026-10-26'
-  view_count: 1900
-  description: 'What is Obama’s secret to great communication?
-
-
-    #publicspeaking #communication #communicationcoach #humanfirstcommunication #Obama'
-  author: floakinbiyi
-  model: universal-3-5-pro
-  speaker_count: 3
-  speakers:
-    speaker_1: null
-    speaker_2: null
-    speaker_3: null
-- id: LJuWQTQ627w
-  title: The Elon Musk Effect
-  url: https://www.youtube.com/shorts/LJuWQTQ627w
-  upload_date: '2026-10-20'
-  view_count: 1400
-  description: 'Why do people listen to Elon Musk?
-
-
-    #publicspeaking #content #elonmusk'
-  author: floakinbiyi
-  model: universal-3-5-pro
-  speaker_count: 2
-  speakers:
-    speaker_1: null
-    speaker_2: null
 - id: -hGSCZBoNDc
   title: Gulfood Top Table
   url: https://www.youtube.com/shorts/-hGSCZBoNDc
@@ -157,7 +96,7 @@ videos:
   model: universal-3-5-pro
   speaker_count: 2
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
     speaker_2: null
 - id: R7IUGvnM88w
   title: Teach Me Communication
@@ -172,7 +111,7 @@ videos:
   model: universal-3-5-pro
   speaker_count: 1
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
 - id: 9Wj87kAluOQ
   title: How Do You Explain Complicated Topics?
   url: https://www.youtube.com/shorts/9Wj87kAluOQ
@@ -183,7 +122,7 @@ videos:
   model: universal-3-5-pro
   speaker_count: 1
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
 - id: DWZI1hbIAAU
   title: What’s wrong with the resting face?
   url: https://www.youtube.com/shorts/DWZI1hbIAAU
@@ -197,7 +136,7 @@ videos:
   model: universal-3-5-pro
   speaker_count: 2
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
     speaker_2: null
 - id: eHG7mxJOWBg
   title: Presenter testimonial from Aira Piva at the Gulfood
@@ -235,7 +174,7 @@ videos:
   model: universal-3-5-pro
   speaker_count: 1
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
 - id: pSiZrAwySgI
   title: Memorable Moment
   url: https://www.youtube.com/shorts/pSiZrAwySgI
@@ -247,7 +186,7 @@ videos:
   speaker_count: 2
   speakers:
     speaker_1: null
-    speaker_2: null
+    speaker_2: Flo Akinbiyi
 - id: 3qowE2bWHsY
   title: Energy is Not Just Being Loud
   url: https://www.youtube.com/shorts/3qowE2bWHsY
@@ -261,7 +200,7 @@ videos:
   model: universal-3-5-pro
   speaker_count: 2
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
     speaker_2: null
 - id: PqaVIfVsocs
   title: How to connect with people digitally
@@ -279,6 +218,98 @@ videos:
   speaker_count: 2
   speakers:
     speaker_1: null
+    speaker_2: Flo Akinbiyi
+- id: UpgSR3bph08
+  url: https://www.youtube.com/watch?v=UpgSR3bph08
+  title: The Communication Tricks That Make People Instantly Like You | Flo Akinbiyi
+  upload_date: '2026-06-13'
+  description: 'Communication might be the most underrated skill of the next decade — and in this episode, international presenter,
+    TEDx speaker and communication coach Flo Akinbiyi breaks down exactly how the best in the world do it.
+
+    We get into the science of charisma (and why Barack Obama scores an almost unbelievable 96%), how to use your voice as
+    a tool, why most people in business sound boring, and the small, almost invisible techniques that make people instantly
+    like and trust you.
+
+    Flo shares stories from sharing the stage with Arnold Schwarzenegger, Michelle Obama and Pep Guardiola, why self-deprecating
+    humour signals a mature personal brand, how to recover from mistakes in real time, and why "human-first communication"
+    matters more than ever in an AI world.
+
+    Whether you lead a team, build a brand, or just want to communicate with more impact, this one is full of practical tools
+    you can use immediately.
+
+    📲 Follow Flo Akinbiyi:
+
+    Instagram: https://www.instagram.com/flo_akinbiyi/
+
+
+    📲 Follow Mehran:
+
+    Instagram: https://www.instagram.com/mehranrowshan/
+
+
+    ⏱️ Timestamps:
+
+
+    00:00 Intro
+
+    01:26 Exploring Communication
+
+    03:37 Self-Introduction: Flo Akinbiyi
+
+    04:54 Arnold Schwarzenegger as a Communicator
+
+    09:32 Becoming a Better Communicator as You Age
+
+    10:58 Influencing People in a Positive Way
+
+    12:23 Voice Patterns
+
+    14:08 Punchline Rhythm
+
+    15:17 A Little Compliment Doesn''t Hurt
+
+    17:47 Humour is an Asset
+
+    19:03 Non-Verbal Communication
+
+    21:03 Dressing Well as Communication
+
+    22:26 Barack Obama as a Communicator
+
+    23:48 Voice Profile Charisma Score
+
+    25:10 Body Language vs Voice Modulation
+
+    27:07 Emphasis and Pauses
+
+    30:15 Personal Branding and Communication
+
+    33:21 Self-Deprecating Humour = Mature Brand
+
+    36:28 Miscommunication vs Clear Communication
+
+    40:29 Audience Attention and Creativity
+
+    41:23 Pep Guardiola as a Communicator
+
+    43:07 Human Relationships through Communication
+
+    47:36 Voice Awareness = Competence, Confidence, Passion
+
+    49:36 Human-First Communication
+
+    51:38 His Biggest Fear
+
+    53:10 It''s Always FOOTBALL, not Soccer
+
+    Which communicator do you admire most? Drop a comment 👇
+
+    #communication #publicspeaking #charisma #leadership #podcast #FloAkinbiyi #personalbranding #TEDx'
+  author: Mehran Rowshan
+  model: universal-3-5-pro
+  speaker_count: 2
+  speakers:
+    speaker_1: Flo Akinbiyi
     speaker_2: null
 - id: wObZhKQQ9Bw
   title: 'Powerful Communication: Connecting with Humans'
@@ -290,7 +321,7 @@ videos:
   model: universal-3-5-pro
   speaker_count: 1
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
 - id: LqX_6qasWX0
   title: Human 2 Human Communication
   url: https://www.youtube.com/shorts/LqX_6qasWX0
@@ -301,7 +332,20 @@ videos:
   model: universal-3-5-pro
   speaker_count: 1
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
+- id: FHCCMmvy8Zo
+  title: HUMAN 2 HUMAN SUMMIT 2026 The Human Connection
+  url: https://www.youtube.com/watch?v=FHCCMmvy8Zo
+  upload_date: '2026-05-05'
+  view_count: 46
+  description: What keeps people and society together?
+  author: floakinbiyi
+  model: universal-3-5-pro
+  speaker_count: 3
+  speakers:
+    speaker_1: Flo Akinbiyi
+    speaker_2: null
+    speaker_3: null
 - id: CbKdcoDtrg0
   title: Own Your First Impression
   url: https://www.youtube.com/shorts/CbKdcoDtrg0
@@ -312,9 +356,72 @@ videos:
   model: universal-3-5-pro
   speaker_count: 3
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
     speaker_2: null
     speaker_3: null
+- id: 8SY1q4F6WEI
+  title: TEDxRWA THE HUMAN EDGE  Skills to Thrive in the Future of Work
+  url: https://www.youtube.com/watch?v=8SY1q4F6WEI
+  upload_date: '2026-04-28'
+  view_count: 39
+  description: Three skills that will keep you ahead of the game.
+  author: floakinbiyi
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Flo Akinbiyi
+- id: Qa4rGjrO82o
+  title: WEB SUMMIT LISBON 2024 The Voice as a Marketing Tool
+  url: https://www.youtube.com/watch?v=Qa4rGjrO82o
+  upload_date: '2026-04-28'
+  view_count: 22
+  description: Your voice has the power to sell  - it's one of your secret weapons.
+  author: floakinbiyi
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Flo Akinbiyi
+- id: h_s5u9rE7Wg
+  url: https://www.youtube.com/watch?v=h_s5u9rE7Wg
+  title: Improving aesthetic treatments communication with Flo
+  upload_date: '2026-03-17'
+  description: "Learning to communicate better is important in any industry. While injectors often have many years of medical\
+    \ experience, they may lack the skills needed to clearly convey the value and purpose of the aesthetic treatments they\
+    \ provide.\n\nCommunication coach Flo Akinbiyi joined our Train the Trainer event in Iceland to help participants communicate\
+    \ better and stay relevant in the future. \n\nFlo Akinbiyi is an international presenter and communication coach. He has\
+    \ coached executives, managers, and professionals in trainings one-on-one and with teams. \n\nExplore this channel for\
+    \ more interviews with experts and click the subscribe button to not miss out on upcoming videos."
+  author: Nordberg Medical
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Flo Akinbiyi
+- id: udOwaZpSK80
+  title: Magic Trick for Entrepreneur
+  url: https://www.youtube.com/watch?v=udOwaZpSK80
+  upload_date: '2026-03-04'
+  view_count: 12
+  description: 'Be memorable!
+
+
+    #floakinbiyi #presenter #Entrepreneur #magic #pitching'
+  author: floakinbiyi
+  model: universal-3-5-pro
+  speaker_count: 2
+  speakers:
+    speaker_1: Flo Akinbiyi
+    speaker_2: null
+- id: mqV3cZQGdEw
+  title: Testimonial from Felix Haas
+  url: https://www.youtube.com/watch?v=mqV3cZQGdEw
+  upload_date: '2026-02-11'
+  view_count: 21
+  description: Bits & Pretzels Founders Festival
+  author: floakinbiyi
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
 - id: 3GS6HD1WNSo
   title: Don't Say Good Luck!
   url: https://www.youtube.com/shorts/3GS6HD1WNSo
@@ -325,7 +432,7 @@ videos:
   model: universal-3-5-pro
   speaker_count: 1
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
 - id: La11Ozc2sNQ
   title: Why Speak with Energy
   url: https://www.youtube.com/shorts/La11Ozc2sNQ
@@ -336,7 +443,7 @@ videos:
   model: universal-3-5-pro
   speaker_count: 1
   speakers:
-    speaker_1: null
+    speaker_1: Flo Akinbiyi
 - id: 1V_6L7WHdYM
   title: Three Techniques to Combat Stage Fright
   url: https://www.youtube.com/shorts/1V_6L7WHdYM
@@ -347,4 +454,88 @@ videos:
   model: universal-3-5-pro
   speaker_count: 1
   speakers:
+    speaker_1: Flo Akinbiyi
+- id: FeUNy3crnEM
+  url: https://www.youtube.com/watch?v=FeUNy3crnEM
+  title: Communication Hacks for 2026 — Featuring Flo Akinbiyi
+  upload_date: '2025-12-23'
+  description: Presenter and communication coach Flo Akinbiyi shares the biggest communication mistakes people make, how to
+    create memorable moments, and the small weekly habits that elevate presence and voice.
+  author: DUBAI ’one
+  model: universal-3-5-pro
+  speaker_count: 4
+  speakers:
     speaker_1: null
+    speaker_2: Flo Akinbiyi
+    speaker_3: null
+    speaker_4: null
+- id: aR3tiu2krFY
+  url: https://www.youtube.com/watch?v=aR3tiu2krFY
+  title: 'Effective Communication Skills for Success: Leadership, Public Speaking & Business'
+  upload_date: '2025-10-15'
+  description: "Why do some people instantly earn trust, influence a room and make their ideas understood?\n\nStrong Communication\
+    \ Skills are not simply about talking more. They are about Effective Communication, Leadership, Public Speaking and understanding\
+    \ how to connect your message with the person listening.\n\nIn this Skillionaires episode, we explore why Business Communication\
+    \ is one of the most underestimated skills behind professional and entrepreneurial success.\n\nYou’ll discover:\n\n• Why\
+    \ Communication Skills influence success\n• What makes Effective Communication different from simply speaking\n• Why listening\
+    \ is as important as talking\n• How Leadership depends on clarity and connection\n• How Public Speaking builds confidence\
+    \ and authority\n• Why Business Communication affects sales, teams and relationships\n• How better communication creates\
+    \ trust and influence\n\n━━━━━━━━━━━━━━━━━━\n\n⏱️ CHAPTERS\n\n00:00:00 - Introduction to the podcast and host Angela Thomas\n\
+    00:54 - Introduction of guest Flo Akinbiyi, Global Presenter and Communication Coach\n02:15 - Flo's personal eye-opening\
+    \ moment \n04:22 - The importance and power of voice tonality over body language\n05:25 - How pronunciation and voice\
+    \ melody impact confidence and perception\n08:30 - How to train voice modulation, pitch, volume, and pace\n11:15 - Why\
+    \ Flo dislikes typical cold sales calls and common selling mistakes\n13:20 - Understanding your audience as the main leverage\
+    \ in sales communication\n15:20 - Structure of a strong presentation: Openings vs. Closings\n19:10 - The relationship\
+    \ between body language, appearance, and verbal communication\n23:45 - The top 3 essential communication skills: Voice,\
+    \ Authenticity, and Storytelling\n25:20 - The role of AI in communication and why human soft skills will be crucial\n\
+    27:56 - Where to connect with Flo Akinbiyi and final takeaways\n\n━━━━━━━━━━━━━━━━━━\n\n\U0001F4AC QUESTION\n\nWhat is\
+    \ the hardest part of communication for you?\n\nSpeaking clearly, listening, confidence, difficult conversations or Public\
+    \ Speaking?\n\nTell us below.\n\n━━━━━━━━━━━━━━━━━━\n\n\U0001F399️ SKILLIONAIRE PODCAST\nStories Stick. Strategies Scale.\n\
+    \n\U0001F30D CONNECT WITH DR. ANGELA THOMAS\n\nWebsite\nhttps://www.skillionaires.me\n\nLinkedIn\nhttps://www.linkedin.com/in/angela-thomas8\n\
+    \nInstagram | Skillionaires\nhttps://www.instagram.com/skillionaires_official/\n\nInstagram | Angel Success Consulting\n\
+    https://www.instagram.com/angelsuccess_consulting/\n\n#CommunicationSkills #EffectiveCommunication #Leadership"
+  author: Skillionaires
+  model: universal-3-5-pro
+  speaker_count: 2
+  speakers:
+    speaker_1: null
+    speaker_2: Flo Akinbiyi
+- id: DP9msEva2P0
+  url: https://www.youtube.com/watch?v=DP9msEva2P0
+  title: Dubai Eye 103.8fm Interview with Helen Farmer
+  upload_date: '2025-07-17'
+  description: "Dubai Eye 103.8 \nAfternoons with Helen Farmer"
+  author: Flo Akinbiyi
+  model: universal-3-5-pro
+  speaker_count: 5
+  speakers:
+    speaker_1: null
+    speaker_2: Flo Akinbiyi
+    speaker_3: null
+    speaker_4: null
+    speaker_5: null
+- id: 4RKRLFpjKF4
+  url: https://www.youtube.com/watch?v=4RKRLFpjKF4
+  title: Is an Accent a Bad Thing?
+  upload_date: '2025-02-10'
+  description: "Is an accent bad? How can you improve your accent? \n\n#FloAkinbiyi #communication #accent #publicspeaking\
+    \ #communicationskills #understanding"
+  author: Flo Akinbiyi
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Flo Akinbiyi
+- id: N_zpuA8VD8s
+  url: https://www.youtube.com/watch?v=N_zpuA8VD8s
+  title: How do you learn a script?
+  upload_date: '2025-01-21'
+  description: 'Need to learn a script?
+
+
+    #floakinbiyi #presenter #communication #publicspeaking #keynotespeaker #practice #speech #rehearsal #script #speakingtips
+    #communicationcoach'
+  author: Flo Akinbiyi
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Flo Akinbiyi

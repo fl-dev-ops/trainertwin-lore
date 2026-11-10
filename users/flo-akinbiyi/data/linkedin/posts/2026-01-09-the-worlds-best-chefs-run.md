@@ -4,7 +4,7 @@ date: '2026-01-09T05:59:34.333Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-communicationcoach-activity-7415270995219054592-dU3d
 likes: 35
 comments: 5
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHfJwln3YZNUA/CeJxzMnGJKs0Iy8nIdbdwDdTVcULiu5ig8l3z0eQt0OQd0fieugCLqB1n?e=1794394800&v=beta&t=NDX6pMKghJfEwKoD-TWAMYZB1Q8Tc_O9kLt_MwLqGZs
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHfJwln3YZNUA/CeJxzMnGJKs0Iy8nIdbdwDdTVcULiu5ig8l3z0eQt0OQd0fieugCLqB1n?e=1794920400&v=beta&t=mTyH7KfWzztzSRmpFyStWUf8RiNuMI-xxT7wGROCmmc
 author_comments:
 - How much stronger would our communication be if we treated it with the same structure as a professional kitchen?
 - Even the world's best chefs understand how important good communication is.

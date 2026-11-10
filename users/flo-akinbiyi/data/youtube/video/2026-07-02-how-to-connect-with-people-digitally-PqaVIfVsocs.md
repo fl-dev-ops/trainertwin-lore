@@ -14,7 +14,7 @@ transcript: true
 speaker_count: 2
 speakers:
   speaker_1: null
-  speaker_2: null
+  speaker_2: Flo Akinbiyi
 ---
 
 speaker_1: So what do you think are the biggest mistakes that people make with communication now that were so heavily influenced by the digital age

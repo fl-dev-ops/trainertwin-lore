@@ -4,7 +4,7 @@ date: '2026-05-20T05:48:16.114Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-humanfirstcommunication-h2h-activity-7462740960955805696-rEn-
 likes: 15
 comments: 8
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFFyZhtez-p0w/CeJxzMnGJMnUxD6kw8Ip0KdfVcULmR6Lxk9H46Wj8fF0AZkEV3g?e=1794394800&v=beta&t=CB9QXAYxvfAsaECDzCKKl1uvlpyyYWpry2o9JJi271k
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFFyZhtez-p0w/CeJxzMnGJMnUxD6kw8Ip0KdfVcULmR6Lxk9H46Wj8fF0AZkEV3g?e=1794920400&v=beta&t=qWvEuRCDUbfG-uR6wrwy68CTz93NP8iHsFed7S7JwMw
 author_comments:
 - How do you see communication in 2026?
 ---

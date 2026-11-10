@@ -2,7 +2,7 @@
 id: '7515288399969169408'
 date: '2026-10-12T05:53:01.859Z'
 url: https://www.linkedin.com/posts/floakinbiyi_communicationcoach-presenter-humanfirstcommunication-activity-7515288399969169408-giFD
-likes: 25
+likes: 26
 comments: 4
 images_count: 1
 ---

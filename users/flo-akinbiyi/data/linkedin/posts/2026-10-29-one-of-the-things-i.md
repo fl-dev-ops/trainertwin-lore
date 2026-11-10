@@ -2,7 +2,7 @@
 id: '7521441774272344064'
 date: '2026-10-29T05:24:20.617Z'
 url: https://www.linkedin.com/posts/floakinbiyi_medica2026-healthcareinnovation-eventhost-activity-7521441774272344064-68s8
-likes: 37
+likes: 40
 comments: 11
 images_count: 1
 author_comments:

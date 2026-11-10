@@ -2,7 +2,7 @@
 id: '7513849454937100288'
 date: '2026-10-08T06:35:10.629Z'
 url: https://www.linkedin.com/posts/floakinbiyi_communicationcoach-learning-publicspeaking-activity-7513849454937100288-rq2c
-likes: 28
+likes: 29
 comments: 4
 images_count: 1
 ---

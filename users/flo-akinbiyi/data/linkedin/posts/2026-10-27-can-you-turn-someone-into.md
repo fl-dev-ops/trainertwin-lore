@@ -2,7 +2,7 @@
 id: '7520734529620226048'
 date: '2026-10-27T06:34:00.352Z'
 url: https://www.linkedin.com/posts/floakinbiyi_communicationcoaching-teamworkshop-activity-7520734529620226048-lMQF
-likes: 38
+likes: 40
 comments: 8
 images_count: 1
 ---

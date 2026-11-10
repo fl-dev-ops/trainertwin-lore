@@ -4,7 +4,7 @@ date: '2026-06-30T04:41:45.318Z'
 url: https://www.linkedin.com/posts/christophgamper_durstnext-durstnext-kyveris-ugcPost-7477106016166539266-eFf8
 likes: 538
 comments: 42
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEov5re35gGRQ/CeJxzMnGJsgh0LXKu8vR0jdTVcULiuxig8bPR-MW6AEFuEj0?e=1794394800&v=beta&t=KkjwR9DLwqLpDu2Wb5Iu6qB25Q4iC0EoBc2MEKTJ3eU
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEov5re35gGRQ/CeJxzMnGJsgh0LXKu8vR0jdTVcULiuxig8bPR-MW6AEFuEj0?e=1794920400&v=beta&t=o1yz8RkjP1sObRH7OYvxC0zbxgW2tw4zKUGl1jK68Ac
 ---
 
 The print industry does not celebrate itself enough.

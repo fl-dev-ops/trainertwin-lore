@@ -4,7 +4,7 @@ date: '2026-01-28T05:04:01.853Z'
 url: https://www.linkedin.com/posts/floakinbiyi_floakinbiyi-educational-activity-7422142387231264768-yUnO
 likes: 28
 comments: 7
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEr4OkTpqukuw/CeJxzMnGJKneOd61M8yh3KdfVcULiu3qi8l0M0PgmaOod0fjpugCTEx2y?e=1794394800&v=beta&t=WH67RKfW6h-ii5jC1oDKuCXTWNkTd2j0Qfp3VpW1UGg
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEr4OkTpqukuw/CeJxzMnGJKneOd61M8yh3KdfVcULiu3qi8l0M0PgmaOod0fjpugCTEx2y?e=1794920400&v=beta&t=hMRB2h28AYJekYCfU8ug4b8DmvKwPDVORIEYSj2HI2k
 author_comments:
 - If your voice, face, and body say “I’m excited to be here,” people lean in
 - Do you use enough energy to leave a lasting impression?

@@ -12,7 +12,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 3
 speakers:
-  speaker_1: null
+  speaker_1: Flo Akinbiyi
   speaker_2: null
   speaker_3: null
 ---

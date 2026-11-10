@@ -9,7 +9,7 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_1: null
+  speaker_1: Flo Akinbiyi
 ---
 
 speaker_1: When you organize an in person gathering it is not just B2B its not just B2C and its not just peer to peer It is and always should be human to human

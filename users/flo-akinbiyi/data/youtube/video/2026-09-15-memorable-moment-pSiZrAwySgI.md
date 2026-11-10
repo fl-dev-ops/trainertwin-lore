@@ -10,7 +10,7 @@ transcript: true
 speaker_count: 2
 speakers:
   speaker_1: null
-  speaker_2: null
+  speaker_2: Flo Akinbiyi
 ---
 
 speaker_1: Tell me about some memorable moments when it comes to stage presence

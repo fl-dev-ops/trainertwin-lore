@@ -2,7 +2,7 @@
 id: '7518905864292823041'
 date: '2026-10-22T05:27:32.563Z'
 url: https://www.linkedin.com/posts/floakinbiyi_humanfirstcommunication-communicationskills-activity-7518905864292823041-WO4l
-likes: 19
+likes: 20
 comments: 0
 images_count: 1
 ---

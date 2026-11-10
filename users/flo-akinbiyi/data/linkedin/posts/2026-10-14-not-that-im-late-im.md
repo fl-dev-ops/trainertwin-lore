@@ -2,7 +2,7 @@
 id: '7516002668104904704'
 date: '2026-10-14T05:11:16.653Z'
 url: https://www.linkedin.com/posts/floakinbiyi_presenter-healthtech-hamburg-activity-7516002668104904704-NpJm
-likes: 46
+likes: 48
 comments: 11
 images_count: 1
 ---
