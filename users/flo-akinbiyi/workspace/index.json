@@ -195,11 +195,6 @@
       "sha256": "13a99e54a703d2233f938ea396763370e69840891e15a213cc09bfa579cada85",
       "basis": "whole"
     },
-    "linkedin-posts-2026-03-18-yesterday-i-hosted-a-webinar-883136-md-178e043af7": {
-      "path": "linkedin/posts/2026-03-18-yesterday-i-hosted-a-webinar-883136.md",
-      "sha256": "11c099b2dbb8fc3ea1a448e1bdf25dfc86a779e12a6a463f91a08ea25929a456",
-      "basis": "whole"
-    },
     "linkedin-posts-2026-03-18-yesterday-i-hosted-a-webinar-md-c011b79fb6": {
       "path": "linkedin/posts/2026-03-18-yesterday-i-hosted-a-webinar.md",
       "sha256": "ca95b1f8b443e1432907683420de5f81848681f22c7076b1a7e08cae05113398",
@@ -220,11 +215,6 @@
       "sha256": "d1ef2a130f9ca95badbceb4c6a97d9aa37a8d13e6487b20a7562b6c8893bd01e",
       "basis": "whole"
     },
-    "linkedin-posts-2026-04-24-a-small-difference-in-how-068544-md-ccc16fd176": {
-      "path": "linkedin/posts/2026-04-24-a-small-difference-in-how-068544.md",
-      "sha256": "bb14d938741d4bac4b6848197989069e7343296e705c477bf7cce06106ba1bcf",
-      "basis": "whole"
-    },
     "linkedin-posts-2026-04-24-a-small-difference-in-how-md-d8133a1361": {
       "path": "linkedin/posts/2026-04-24-a-small-difference-in-how.md",
       "sha256": "03dd0d9b89c9db5b8f8cafec37bcff9dce873e85cad9a3e5c270ad9c7c1c4239",
@@ -235,24 +225,9 @@
       "sha256": "319a4d89968973008db50b6d5fe0670bff6410271abd44bb82d694200cbae924",
       "basis": "whole"
     },
-    "linkedin-posts-2026-04-27-last-year-i-had-a-929473-md-975290a116": {
-      "path": "linkedin/posts/2026-04-27-last-year-i-had-a-929473.md",
-      "sha256": "91adfd64b929f3b3c5b6c4c86303121bb00abf8d9319c51c896ba99f645595aa",
-      "basis": "whole"
-    },
-    "linkedin-posts-2026-04-28-i-have-been-thinking-about-234112-md-f2015e8f58": {
-      "path": "linkedin/posts/2026-04-28-i-have-been-thinking-about-234112.md",
-      "sha256": "58fdd73c9ecb6b9ecb3ca82b6d3f64e0dab4447cf5000630422877a688abd9ec",
-      "basis": "whole"
-    },
     "linkedin-posts-2026-04-28-i-have-been-thinking-about-md-fddfb59523": {
       "path": "linkedin/posts/2026-04-28-i-have-been-thinking-about.md",
       "sha256": "62468a4e8dea543042a8fece6dcde803ab31f770398e9005a54b4b594b89ccbf",
-      "basis": "whole"
-    },
-    "linkedin-posts-2026-04-29-most-leaders-aim-for-respect-056448-md-dd1acbe2ff": {
-      "path": "linkedin/posts/2026-04-29-most-leaders-aim-for-respect-056448.md",
-      "sha256": "88dab7fac81e0cdc2621020b09e80be7560bb7629524f91832d9a93de8255878",
       "basis": "whole"
     },
     "linkedin-posts-2026-04-30-weg-mit-der-german-angst-md-4ecef8494c": {
@@ -263,11 +238,6 @@
     "linkedin-posts-2026-05-01-people-dont-always-remember-what-md-31a7d27ebf": {
       "path": "linkedin/posts/2026-05-01-people-dont-always-remember-what.md",
       "sha256": "22677485e71bb45a25b6131d24de96194eeb931b679ab040268e86e91b444844",
-      "basis": "whole"
-    },
-    "linkedin-posts-2026-04-30-weg-mit-der-german-angst-955072-md-dc39037687": {
-      "path": "linkedin/posts/2026-04-30-weg-mit-der-german-angst-955072.md",
-      "sha256": "1e85da0055d487822720f12f77200cf9daa41eec6bdb1ee5ca57f6a1d2003528",
       "basis": "whole"
     },
     "linkedin-posts-2026-04-29-most-leaders-aim-for-respect-md-31f0b0ee01": {
@@ -313,11 +283,6 @@
     "linkedin-posts-2026-05-08-12-teams-of-non-technical-staff-md-7f64b66345": {
       "path": "linkedin/posts/2026-05-08-12-teams-of-non-technical-staff.md",
       "sha256": "42565765d620ec65a5a287b73960bb5d6f18ade50a2dbf2d32eb72716ac39a22",
-      "basis": "whole"
-    },
-    "linkedin-posts-2026-05-15-this-year-i-picked-up-298049-md-91ccfe7092": {
-      "path": "linkedin/posts/2026-05-15-this-year-i-picked-up-298049.md",
-      "sha256": "0dcdf6e1989db77dc91cac82eb32e01d38f19b9110efe6329414aa854eb5fb62",
       "basis": "whole"
     },
     "linkedin-posts-2026-05-19-let-me-tell-you-a-md-7d94fd64ff": {
@@ -490,11 +455,6 @@
       "sha256": "a1ee563fa507a1002db378fc906bd9d6d9fb79a11d08751a4d124a6462daa080",
       "basis": "whole"
     },
-    "linkedin-posts-2026-09-04-why-should-you-put-in-413824-md-1bc557dd96": {
-      "path": "linkedin/posts/2026-09-04-why-should-you-put-in-413824.md",
-      "sha256": "1b0d54236092318af97a7210c63cfd6fcae0897992e75023da3d0489096a65af",
-      "basis": "whole"
-    },
     "linkedin-posts-2026-09-02-whats-the-secret-to-having-md-b91ade0508": {
       "path": "linkedin/posts/2026-09-02-whats-the-secret-to-having.md",
       "sha256": "5a66eda55fb9db5713adb7cf8becd13d9cd0f4e3c5c5112958901d5a11f2a369",
@@ -575,11 +535,6 @@
       "sha256": "02b38d5b8f529b1de5f7f2bf5029bd8cff32b5f8f91c300a5288398ce3114252",
       "basis": "whole"
     },
-    "linkedin-posts-2026-08-31-seven-days-offline-twice-strict-354432-md-b888869c26": {
-      "path": "linkedin/posts/2026-08-31-seven-days-offline-twice-strict-354432.md",
-      "sha256": "9a08503dcf51e4e7a0fd8e8043f63569ab33586e81afa11b445d140ff7312d64",
-      "basis": "whole"
-    },
     "linkedin-posts-2026-09-25-a-bits-pretzels-veteran-is-md-1e1af6fd29": {
       "path": "linkedin/posts/2026-09-25-a-bits-pretzels-veteran-is.md",
       "sha256": "5f8bc7254d1427cd53b3244b88f216202872e272484d079afff7678c86b3c04d",
@@ -618,11 +573,6 @@
     "linkedin-posts-2026-10-01-bits-pretzels-26-was-once-md-77217ac7e3": {
       "path": "linkedin/posts/2026-10-01-bits-pretzels-26-was-once.md",
       "sha256": "b8ccc02f86c8ffcc66e775dfc5c04cfeaafb3f0d7041e0df1e7a249d9297c4ab",
-      "basis": "whole"
-    },
-    "linkedin-posts-2026-10-06-twenty-years-ago-i-hosted-271808-md-ecaf9f1d38": {
-      "path": "linkedin/posts/2026-10-06-twenty-years-ago-i-hosted-271808.md",
-      "sha256": "1c3879760fc92e8964ead9e429fed2758d2c4808c249f697187cc7caff6c8ae9",
       "basis": "whole"
     },
     "linkedin-posts-2026-10-02-what-is-emirates-captain-mike-md-340efc5ddc": {
@@ -835,11 +785,6 @@
       "sha256": "6c1cb8398537eddfce4b26a21c7eb29e3e2c80587db168b4ecc066ea6368a928",
       "basis": "whole"
     },
-    "linkedin-posts-2026-10-21-10-years-ago-i-quit-717376-md-5c5d54151a": {
-      "path": "linkedin/posts/2026-10-21-10-years-ago-i-quit-717376.md",
-      "sha256": "eb4001bca4d76bb02c29b6ca97087d94bb8c98d03df569806fb00243199c2e28",
-      "basis": "whole"
-    },
     "youtube-video-2026-09-28-what-s-wrong-with-the-resting-face-dwzi1hbiaau-md-68d018393b": {
       "path": "youtube/video/2026-09-28-what-s-wrong-with-the-resting-face-DWZI1hbIAAU.md",
       "sha256": "8bd40fd18a2cd0ad36b67ab23000e5176250b6082586c8ffdda20cd64197c892",
@@ -910,20 +855,10 @@
       "sha256": "bc3f74438574404073c04ee0eeb11c7160352c026d10010358aa043d28acaa7b",
       "basis": "whole"
     },
-    "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a": {
-      "path": "linkedin/posts/2025-01-15-how-can-you-turn-a-980420.md",
-      "sha256": "95ddf0b04c6d97b85f7dc68307d8d5cdc6ef6ba3572f6082eb2fd3b6f6f04a14",
-      "basis": "list"
-    },
     "linkedin-posts-2025-01-08-while-visiting-my-client-dhl-md-6d36a784df": {
       "path": "linkedin/posts/2025-01-08-while-visiting-my-client-dhl.md",
       "sha256": "7897b5a992302e9788f24e0f56adeb5611ce84c9e8c128be70552f8c453612f2",
       "basis": "list"
-    },
-    "linkedin-posts-2025-01-16-too-many-people-think-speaking-897536-md-a752907b75": {
-      "path": "linkedin/posts/2025-01-16-too-many-people-think-speaking-897536.md",
-      "sha256": "e83a4916e9f36a85e12517d3323bb5ec37a9cc10c387cfb31148bccfbd0a4930",
-      "basis": "whole"
     },
     "linkedin-posts-2025-01-15-how-can-you-turn-a-md-b5e1e8904a": {
       "path": "linkedin/posts/2025-01-15-how-can-you-turn-a.md",
@@ -948,11 +883,6 @@
     "linkedin-posts-2025-01-20-what-does-a-samosa-seller-md-b139ced998": {
       "path": "linkedin/posts/2025-01-20-what-does-a-samosa-seller.md",
       "sha256": "2c019604b3696b6bace0b7d04d4b7399cffe3a2b34a00eb14d5eda7ffafa6c21",
-      "basis": "whole"
-    },
-    "linkedin-posts-2025-01-22-powerpoint-is-dead-okay-maybe-097410-md-00bea5f589": {
-      "path": "linkedin/posts/2025-01-22-powerpoint-is-dead-okay-maybe-097410.md",
-      "sha256": "9fb04658a025a6ae689637ef188f17534d348f9326a89f636235d1cb892952ac",
       "basis": "whole"
     },
     "linkedin-posts-2025-01-28-nine-years-ago-i-hosted-md-bea83bd8e4": {
@@ -1120,11 +1050,6 @@
       "sha256": "56e3442c2654d95fbc216a9fa52934e808d2bb82bee9df04b83a1cc34bf035ea",
       "basis": "whole"
     },
-    "linkedin-posts-2025-03-12-exciting-news-ive-unlocked-704064-md-ac404d0159": {
-      "path": "linkedin/posts/2025-03-12-exciting-news---ive-unlocked-704064.md",
-      "sha256": "70f5f94f5dda76923ce361fac92191ab10d93402a98220334cd825fce1a2dc3a",
-      "basis": "whole"
-    },
     "linkedin-posts-2025-03-10-watch-closely-as-the-ceo-md-185c6a2e95": {
       "path": "linkedin/posts/2025-03-10-watch-closely-as-the-ceo.md",
       "sha256": "4c2a96fc2dda0abaaa8b49cf4b06832deaa55d03f87a257be933d60b5c89f02f",
@@ -1135,11 +1060,6 @@
       "sha256": "c200c1862475c9dfe9fe14e5d68ae6025b05e7a50c87e35cd2d283a6e811dc5f",
       "basis": "whole"
     },
-    "linkedin-posts-2025-03-14-take-a-moment-and-listen-689088-md-2aa77fc966": {
-      "path": "linkedin/posts/2025-03-14-take-a-moment-and-listen-689088.md",
-      "sha256": "0ff93cae122f00759cfe4f883a37f4f3aa4af0e54d400aa8e50b6c4fafd78bf7",
-      "basis": "whole"
-    },
     "linkedin-posts-2025-03-14-take-a-moment-and-listen-md-0ca9c02bd4": {
       "path": "linkedin/posts/2025-03-14-take-a-moment-and-listen.md",
       "sha256": "d486ce5330ff6536153fdb7d661ffc2bd39aea3c59a79d8589b96747a5210ae6",
@@ -1148,16 +1068,6 @@
     "linkedin-posts-2025-03-17-last-weekend-i-stepped-out-md-b8b7c8b35b": {
       "path": "linkedin/posts/2025-03-17-last-weekend-i-stepped-out.md",
       "sha256": "6d6e4d999256b08c7a4557caad32d82cb3dda9f146e3b7f447e4afeff3b58715",
-      "basis": "whole"
-    },
-    "linkedin-posts-2025-03-17-last-weekend-i-stepped-out-143810-md-ddd3e27afa": {
-      "path": "linkedin/posts/2025-03-17-last-weekend-i-stepped-out-143810.md",
-      "sha256": "cba28f7b3b732edd41b1ed8a91a1fda2b3fc547e8feae84222533b659f65bd1d",
-      "basis": "whole"
-    },
-    "linkedin-posts-2025-03-20-why-do-so-many-leaders-992640-md-9d887922f3": {
-      "path": "linkedin/posts/2025-03-20-why-do-so-many-leaders-992640.md",
-      "sha256": "ab6696be6591575c964ef8080c7775b7d6b8848f5bdc1cb0900fc29c453b8dd2",
       "basis": "whole"
     },
     "linkedin-posts-2025-03-18-is-elon-musk-a-great-md-1edb10af36": {
@@ -1455,19 +1365,9 @@
       "sha256": "dfa8cdea712aba138f80fe8b25dcfacba12aa688bc92d8922f23d05300dcc39e",
       "basis": "list"
     },
-    "linkedin-posts-2025-06-17-when-i-was-recently-in-964928-md-d7c606354a": {
-      "path": "linkedin/posts/2025-06-17-when-i-was-recently-in-964928.md",
-      "sha256": "4918fafcee140b507ec9b77579b94a10b4727748b7b4a992772387542d018f4a",
-      "basis": "whole"
-    },
     "linkedin-posts-2025-06-13-let-me-be-real-i-md-29e71b2091": {
       "path": "linkedin/posts/2025-06-13-let-me-be-real-i.md",
       "sha256": "dc22428860e864d64e188273179da85e7434d8519bc91434a7bd74f7b378fdd1",
-      "basis": "whole"
-    },
-    "linkedin-posts-2025-06-19-203904-md-90c072f49a": {
-      "path": "linkedin/posts/2025-06-19-𝗔-𝗯𝗼𝘅𝗶𝗻𝗴-𝘄𝗼𝗿𝗹𝗱-𝗰𝗵𝗮𝗺𝗽𝗶𝗼𝗻-𝗲𝗻𝘁𝗿𝗲𝗽𝗿𝗲𝗻𝗲𝘂𝗿-203904.md",
-      "sha256": "18e304b0f0027f95657614ef85ee033b2697a12a6e28e246c4112c193b8bfc53",
       "basis": "whole"
     },
     "linkedin-posts-2025-06-16-how-do-you-stay-sane-md-f186ace200": {
@@ -1478,11 +1378,6 @@
     "linkedin-posts-2025-06-17-when-i-was-recently-in-md-40dedf735a": {
       "path": "linkedin/posts/2025-06-17-when-i-was-recently-in.md",
       "sha256": "bfad33faa7184ea7b09ef4fc8292333c74b515fc3a72097d562549a03d095b8e",
-      "basis": "whole"
-    },
-    "linkedin-posts-2025-06-18-and-suddenly-i-didnt-know-876737-md-dcffd0cad9": {
-      "path": "linkedin/posts/2025-06-18-and-suddenly-i-didnt-know-876737.md",
-      "sha256": "10708b088053186d924214524da8987ecf69d2248e961371b7ad80ab3d8043e5",
       "basis": "whole"
     },
     "linkedin-posts-2025-06-18-and-suddenly-i-didnt-know-md-16a330906e": {
@@ -1513,11 +1408,6 @@
     "linkedin-posts-2025-06-25-md-78c456b311": {
       "path": "linkedin/posts/2025-06-25-𝗪𝗵𝗮𝘁-𝗮𝗻-𝗮𝗺𝗮𝘇𝗶𝗻𝗴-𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽-𝘄𝗶𝘁𝗵.md",
       "sha256": "d4e481ab911f2a49333e4c3dadad2d249cfd759867c7e8cce14b7af3fd1c053b",
-      "basis": "whole"
-    },
-    "linkedin-posts-2025-06-26-on-my-way-from-munich-536448-md-f9c074c700": {
-      "path": "linkedin/posts/2025-06-26-on-my-way-from-munich-536448.md",
-      "sha256": "ff64b7f490da6e0a3d26720744361944b4e2003923d9a269a931c0b5b2f49369",
       "basis": "whole"
     },
     "linkedin-posts-2025-06-27-md-c799f74b2e": {
@@ -1563,11 +1453,6 @@
     "linkedin-posts-2025-07-08-md-c4c7612ca9": {
       "path": "linkedin/posts/2025-07-08-𝗦𝗽𝗲𝗮𝗸𝗶𝗻𝗴-𝗶𝘀-𝘀𝗶𝗹𝘃𝗲𝗿-𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻-𝗶𝘀.md",
       "sha256": "fb2e3ac71e7398861e07bef5eaef016b8d7ddc026615769d160148f5b55df30a",
-      "basis": "whole"
-    },
-    "linkedin-posts-2025-07-08-578688-md-1808d5f935": {
-      "path": "linkedin/posts/2025-07-08-𝗦𝗽𝗲𝗮𝗸𝗶𝗻𝗴-𝗶𝘀-𝘀𝗶𝗹𝘃𝗲𝗿-𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻-𝗶𝘀-578688.md",
-      "sha256": "71161016b292d555325aff06bc944b01f1144aca77952ff2d147da5cd2401b56",
       "basis": "whole"
     },
     "linkedin-posts-2025-07-09-md-1ae1f581d0": {
@@ -2070,11 +1955,6 @@
       "sha256": "01d5a5d778494e0029a0d817d03e3c65c8eadf2abe9f0094b224dc9ee6fe896b",
       "basis": "whole"
     },
-    "linkedin-posts-2026-11-04-war-division-a-level-of-657664-md-acecedb37f": {
-      "path": "linkedin/posts/2026-11-04-war-division-a-level-of-657664.md",
-      "sha256": "aaf29b2f344ada4757043f0da95c3e806d7db9a0ecee457e18a9bae98969a30f",
-      "basis": "whole"
-    },
     "linkedin-posts-2026-11-08-after-this-week-i-feel-md-d00dbebd0c": {
       "path": "linkedin/posts/2026-11-08-after-this-week-i-feel.md",
       "sha256": "59fd9bf26bbd7601e698d5eebad1ede2ecd2294ee2af53539202e86310d4e3c7",
@@ -2094,11 +1974,6 @@
       "path": "linkedin/posts/2026-11-09-how-do-you-grab-your.md",
       "sha256": "617229b8bc9dd5ba5efac210ca12cdaced880e90a6f9bc91f59ab76c5d6375b0",
       "basis": "whole"
-    },
-    "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456": {
-      "path": "linkedin/posts/2026-11-09-i-cant-speak-well-because-916672.md",
-      "sha256": "77d0c6de7bcd838a98db3180c7159b0a5cffc88bfe335410da549e3ec65128b5",
-      "basis": "list"
     },
     "youtube-video-2025-01-21-how-do-you-learn-a-script-n-zpua8vd8s-md-3b966b009e": {
       "path": "youtube/video/2025-01-21-how-do-you-learn-a-script-N_zpuA8VD8s.md",
@@ -3168,11 +3043,6 @@
     "linkedin-posts-2024-10-31-ive-always-been-fascinated-by-md-41814c20fc": {
       "path": "linkedin/posts/2024-10-31-ive-always-been-fascinated-by.md",
       "sha256": "e0868aa057a6f0270aa9b7419f0d9736fac84464cdd8a9633e922d23b90ae655",
-      "basis": "whole"
-    },
-    "linkedin-posts-2024-11-06-205952-md-f17443d2e2": {
-      "path": "linkedin/posts/2024-11-06-𝗛𝗼𝘄-𝗱𝗼-𝘆𝗼𝘂-𝗯𝘂𝗶𝗹𝗱-𝘁𝗵𝗲-205952.md",
-      "sha256": "70c517410ee190e972ebb306463045bcfc6c4d12d8d67e911c0a68d2e8821736",
       "basis": "whole"
     },
     "linkedin-posts-2024-11-06-md-aee2defc7d": {
@@ -4466,33 +4336,6 @@
       "tags": [
         {
           "facet": "topic",
-          "label": "leadership communication"
-        },
-        {
-          "facet": "situation",
-          "label": "times of uncertainty"
-        },
-        {
-          "facet": "activity",
-          "label": "webinar"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 35
-      },
-      "quote": "Yesterday I hosted a webinar with the German Emirati Joint Council for Industry & Commerce (AHK) on the topic of: 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝘁𝗶𝗺𝗲𝘀 𝗼𝗳 𝘂𝗻𝗰𝗲𝗿𝘁𝗮𝗶𝗻𝘁𝘆. We had a strong attendance of almost 100 participants. And the opportunity to connect, to share experiences, and look at tools, strategies, and ideas on how leaders can communicate at this moment in time. This workshop fills the gap between crisis communication and psychological safety. A large portion of the session focused on how do",
-      "item_id": "linkedin-posts-2026-03-18-yesterday-i-hosted-a-webinar-883136-md-178e043af7:0013-0035",
-      "source_id": "linkedin-posts-2026-03-18-yesterday-i-hosted-a-webinar-883136-md-178e043af7",
-      "path": "linkedin/posts/2026-03-18-yesterday-i-hosted-a-webinar-883136.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Leadership communication in times of uncertainty",
-      "tags": [
-        {
-          "facet": "topic",
           "label": "crisis communication"
         },
         {
@@ -4601,29 +4444,6 @@
       "next": null
     },
     {
-      "title": "A small difference in how you communicate can change how people feel around you",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "intentional communication"
-        },
-        {
-          "facet": "topic",
-          "label": "positive communication"
-        }
-      ],
-      "span": {
-        "start_line": 12,
-        "end_line": 34
-      },
-      "quote": "A small difference in how you communicate can change how people feel around you. You can use your daily communication to make your co-workers, your clients, as well as everyone you interact with, feel better, worse or neutral. I choose positive and I push myself to communicate in a such a way every single day. And yes, it does take effort. I communicate very intentionally to make people feel better about me, about a situation and most importantly, about themselves. And the truth is that most peo",
-      "item_id": "linkedin-posts-2026-04-24-a-small-difference-in-how-068544-md-ccc16fd176:0012-0034",
-      "source_id": "linkedin-posts-2026-04-24-a-small-difference-in-how-068544-md-ccc16fd176",
-      "path": "linkedin/posts/2026-04-24-a-small-difference-in-how-068544.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Using Conscious and Positive Communication to Impact Others",
       "tags": [
         {
@@ -4670,52 +4490,6 @@
       "next": null
     },
     {
-      "title": "Human-first communication as a way to inspire and make an impact",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "human-first communication"
-        },
-        {
-          "facet": "activity",
-          "label": "public speaking"
-        }
-      ],
-      "span": {
-        "start_line": 12,
-        "end_line": 26
-      },
-      "quote": "Last year I had a Business Trip to Algeria and it was truly a humbling experience. Shortly after sunrise I sit by myself in an amazing little Roman Amphitheater right by the sea, almost 2000 years old and I reflect on the history that brought the Romans to Africa. I wonder who sat on the seats, and who performed on the stage and what kind of speeches were delivered here. It’s humbling to sit in a place like this and to realize how short a human’s life really is and how limited our time is to con",
-      "item_id": "linkedin-posts-2026-04-27-last-year-i-had-a-929473-md-975290a116:0012-0026",
-      "source_id": "linkedin-posts-2026-04-27-last-year-i-had-a-929473-md-975290a116",
-      "path": "linkedin/posts/2026-04-27-last-year-i-had-a-929473.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Leading through love rather than just respect",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "leadership philosophy"
-        },
-        {
-          "facet": "situation",
-          "label": "leading in times of uncertainty"
-        }
-      ],
-      "span": {
-        "start_line": 12,
-        "end_line": 51
-      },
-      "quote": "Most leaders aim for respect. The best ones aim for something stronger: love. Last year I had the opportunity to spend some time with the one and only Pep Guardiola on stage, and he left a strong impression on me. Over the past few weeks and months, I reflected, researched, and studied leadership in times of uncertainty, and Pep came to my mind again and again. During the interview, I asked him what is his leadership philosophy and he said something truly powerful. But let me first explain why I",
-      "item_id": "linkedin-posts-2026-04-29-most-leaders-aim-for-respect-056448-md-dd1acbe2ff:0012-0051",
-      "source_id": "linkedin-posts-2026-04-29-most-leaders-aim-for-respect-056448-md-dd1acbe2ff",
-      "path": "linkedin/posts/2026-04-29-most-leaders-aim-for-respect-056448.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Weg mit der German Angst! - No more German Angst!",
       "tags": [
         {
@@ -4758,33 +4532,6 @@
       "item_id": "linkedin-posts-2026-05-01-people-dont-always-remember-what-md-31a7d27ebf:0012-0038",
       "source_id": "linkedin-posts-2026-05-01-people-dont-always-remember-what-md-31a7d27ebf",
       "path": "linkedin/posts/2026-05-01-people-dont-always-remember-what.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Overcoming Fear and Negativity in Communication and Mindset",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "mindset"
-        },
-        {
-          "facet": "topic",
-          "label": "fear-based communication"
-        },
-        {
-          "facet": "situation",
-          "label": "navigating crisis"
-        }
-      ],
-      "span": {
-        "start_line": 12,
-        "end_line": 38
-      },
-      "quote": "Weg mit der German Angst! - No more German Angst! Germany has a mindset problem, and it's a problem that I see throughout Europe. Over the past years, I have observed the same pattern on stages, in coaching sessions, and within leadership teams. The focus is on the challenges. Negativity is leading, and opportunities come second, or sometimes even third, if at all. The number of negative conversations that I have with Germans, and to be fair, with many Europeans on various subjects, is truly sad",
-      "item_id": "linkedin-posts-2026-04-30-weg-mit-der-german-angst-955072-md-dc39037687:0012-0038",
-      "source_id": "linkedin-posts-2026-04-30-weg-mit-der-german-angst-955072-md-dc39037687",
-      "path": "linkedin/posts/2026-04-30-weg-mit-der-german-angst-955072.md",
       "prev": null,
       "next": null
     },
@@ -4954,29 +4701,6 @@
       "item_id": "linkedin-posts-2026-05-08-12-teams-of-non-technical-staff-md-7f64b66345:0013-0028",
       "source_id": "linkedin-posts-2026-05-08-12-teams-of-non-technical-staff-md-7f64b66345",
       "path": "linkedin/posts/2026-05-08-12-teams-of-non-technical-staff.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Mental and physical benefits of climbing for communication and personal presence",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "mental focus and fear management"
-        },
-        {
-          "facet": "activity",
-          "label": "climbing"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 28
-      },
-      "quote": "This year I picked up climbing. And I truly enjoy it, not just for the physical aspects, but also for the mental ones. Almost every city has an indoor climbing gym, which makes it easy to get a workout while traveling or to fit it into your day. What I love about this sport is that it constantly challenges me physically. To be honest, quite often I'm simply not strong enough yet to hold on to the wall or to pull myself up on these tiny little holds. That's how much of a newbie I still am. But th",
-      "item_id": "linkedin-posts-2026-05-15-this-year-i-picked-up-298049-md-91ccfe7092:0013-0028",
-      "source_id": "linkedin-posts-2026-05-15-this-year-i-picked-up-298049-md-91ccfe7092",
-      "path": "linkedin/posts/2026-05-15-this-year-i-picked-up-298049.md",
       "prev": null,
       "next": null
     },
@@ -5684,29 +5408,6 @@
       "next": null
     },
     {
-      "title": "Why should you put in an extra effort when you communicate?",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "communication effort"
-        },
-        {
-          "facet": "topic",
-          "label": "human connection"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 20
-      },
-      "quote": "Why should you put in an extra effort when you communicate? The answer is surprisingly simple. When I deliver communication workshops, I like to think about the audience and put myself into their shoes, into their communication scenarios, and show them creative examples of what communication can be. When I'm on stage as a presenter, I like to think how I can give the audience a moment to enjoy, to have fun, to connect to a story that I can tell them, because it's a lot of content, and a breath o",
-      "item_id": "linkedin-posts-2026-09-04-why-should-you-put-in-413824-md-1bc557dd96:0010-0020",
-      "source_id": "linkedin-posts-2026-09-04-why-should-you-put-in-413824-md-1bc557dd96",
-      "path": "linkedin/posts/2026-09-04-why-should-you-put-in-413824.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Putting extra effort into communication to build meaningful connection",
       "tags": [
         {
@@ -6022,29 +5723,6 @@
       "next": null
     },
     {
-      "title": "Seven days offline: lessons from taking a strict digital detox",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "digital detox"
-        },
-        {
-          "facet": "situation",
-          "label": "taking time off work and devices"
-        }
-      ],
-      "span": {
-        "start_line": 12,
-        "end_line": 32
-      },
-      "quote": "Seven days offline. Twice. Strict digital detox. No phone, no laptop, no social media. Something I have not done in over a decade. This is me doing a backflip of a balcony at one of my favorite lakes in Bavaria, Walchensee. The first week right at the start of the summer was almost too easy. I was so happy without devices that I missed most of the World Cup and didn’t watch any games. By day three on the beach in Liguria, I finished Terry Crew's book, which I had for more than six months and onl",
-      "item_id": "linkedin-posts-2026-08-31-seven-days-offline-twice-strict-354432-md-b888869c26:0012-0032",
-      "source_id": "linkedin-posts-2026-08-31-seven-days-offline-twice-strict-354432-md-b888869c26",
-      "path": "linkedin/posts/2026-08-31-seven-days-offline-twice-strict-354432.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Flo Returns to Host the Golden Pretzel Award at Bits & Pretzels 2026",
       "tags": [
         {
@@ -6160,33 +5838,6 @@
       "item_id": "linkedin-posts-2026-10-01-bits-pretzels-26-was-once-md-77217ac7e3:0012-0039",
       "source_id": "linkedin-posts-2026-10-01-bits-pretzels-26-was-once-md-77217ac7e3",
       "path": "linkedin/posts/2026-10-01-bits-pretzels-26-was-once.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Stepping Up to Host and the 20-Year Presenter Journey",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "event hosting"
-        },
-        {
-          "facet": "situation",
-          "label": "no presenter available"
-        },
-        {
-          "facet": "activity",
-          "label": "public speaking"
-        }
-      ],
-      "span": {
-        "start_line": 12,
-        "end_line": 64
-      },
-      "quote": "Twenty years ago, I hosted my first event. To be quite honest, I didn’t host it because I had an inner calling, or because I thought this was such a cool thing to do. I hosted it because I had to. I was organizing an event at Alpamare, the world-class swimming pool in my hometown of Bad Tölz. They had one of these standing waves, a FlowRider. It was my second event there, the Endless Peaks Surf Jam, and it was my own initiative. The first one came with a TV team and a presenter. The second one d",
-      "item_id": "linkedin-posts-2026-10-06-twenty-years-ago-i-hosted-271808-md-ecaf9f1d38:0012-0064",
-      "source_id": "linkedin-posts-2026-10-06-twenty-years-ago-i-hosted-271808-md-ecaf9f1d38",
-      "path": "linkedin/posts/2026-10-06-twenty-years-ago-i-hosted-271808.md",
       "prev": null,
       "next": null
     },
@@ -6633,101 +6284,6 @@
       "next": null
     },
     {
-      "title": "Have alternatives to your preferred option",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "negotiation leverage"
-        }
-      ],
-      "span": {
-        "start_line": 23,
-        "end_line": 24
-      },
-      "quote": "✅ Have alternatives to your preferred option If you have alternatives, you can approach a negotiation with a completely different level of confidence. When you only have one option, your leverage decreases, and so does your ability to negotiate effectively.",
-      "item_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0023-0024",
-      "source_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a",
-      "path": "linkedin/posts/2025-01-15-how-can-you-turn-a-980420.md",
-      "prev": null,
-      "next": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0026-0027"
-    },
-    {
-      "title": "Be ready to walk away",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "walk-away power"
-        }
-      ],
-      "span": {
-        "start_line": 26,
-        "end_line": 27
-      },
-      "quote": "✅ Be ready to walk away You must be willing to walk away from a negotiation. Only then will you have the strength to convince the other side and hold your ground.",
-      "item_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0026-0027",
-      "source_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a",
-      "path": "linkedin/posts/2025-01-15-how-can-you-turn-a-980420.md",
-      "prev": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0023-0024",
-      "next": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0029-0030"
-    },
-    {
-      "title": "Don’t be the final decision-maker",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "decision-maker positioning"
-        }
-      ],
-      "span": {
-        "start_line": 29,
-        "end_line": 30
-      },
-      "quote": "✅ Don’t be the final decision-maker Whether or not you are the final decision-maker, involve someone else in the process - your partner, CEO, manager, or even the bank. By doing this, you position yourself as a mediator rather than the person confronting the other side directly.",
-      "item_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0029-0030",
-      "source_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a",
-      "path": "linkedin/posts/2025-01-15-how-can-you-turn-a-980420.md",
-      "prev": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0026-0027",
-      "next": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0032-0033"
-    },
-    {
-      "title": "See negotiations as a game",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "negotiation mindset"
-        }
-      ],
-      "span": {
-        "start_line": 32,
-        "end_line": 33
-      },
-      "quote": "✅ See negotiations as a game Negotiations are a dance, a game. Sometimes you win, and sometimes you lose, but the key is to enjoy playing. This mindset will help you approach negotiations with less pressure and more confidence.",
-      "item_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0032-0033",
-      "source_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a",
-      "path": "linkedin/posts/2025-01-15-how-can-you-turn-a-980420.md",
-      "prev": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0029-0030",
-      "next": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0035-0036"
-    },
-    {
-      "title": "Remember you always have power",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "mutual dependency"
-        }
-      ],
-      "span": {
-        "start_line": 35,
-        "end_line": 36
-      },
-      "quote": "✅ Remember you always have power No matter what someone says, they need you just as much as you need them. Whether their organization is big or small, there is mutual dependency. Recognizing your own power in a negotiation can change how you approach it.",
-      "item_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0035-0036",
-      "source_id": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a",
-      "path": "linkedin/posts/2025-01-15-how-can-you-turn-a-980420.md",
-      "prev": "linkedin-posts-2025-01-15-how-can-you-turn-a-980420-md-8ce2f61e5a:0032-0033",
-      "next": null
-    },
-    {
       "title": "1. AI tools for script writing.",
       "tags": [
         {
@@ -6840,29 +6396,6 @@
       "source_id": "linkedin-posts-2025-01-08-while-visiting-my-client-dhl-md-6d36a784df",
       "path": "linkedin/posts/2025-01-08-while-visiting-my-client-dhl.md",
       "prev": "linkedin-posts-2025-01-08-while-visiting-my-client-dhl-md-6d36a784df:0028-0030",
-      "next": null
-    },
-    {
-      "title": "The Importance of Human-to-Human (H2H) Connection in Communication",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "human connection in public speaking"
-        },
-        {
-          "facet": "activity",
-          "label": "public speaking"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 32
-      },
-      "quote": "Too many people think speaking is all about content, slides, and delivery. Yes, all of these elements are important in the boardroom, on stage, or in a meeting. But regardless of who is in front of you, you’re not just talking: ❌ B2B (Business-to-Business) ❌ B2C (Business-to-Consumer) ❌ P2P (Peer-to-Peer) ✅ H2H (Human-to-Human) I have observed and experienced that connection can, in many cases, be just as important, or even more important, than content, slides, and delivery. When you have a stro",
-      "item_id": "linkedin-posts-2025-01-16-too-many-people-think-speaking-897536-md-a752907b75:0013-0032",
-      "source_id": "linkedin-posts-2025-01-16-too-many-people-think-speaking-897536-md-a752907b75",
-      "path": "linkedin/posts/2025-01-16-too-many-people-think-speaking-897536.md",
-      "prev": null,
       "next": null
     },
     {
@@ -7103,29 +6636,6 @@
       "item_id": "linkedin-posts-2025-01-20-what-does-a-samosa-seller-md-b139ced998:0013-0040",
       "source_id": "linkedin-posts-2025-01-20-what-does-a-samosa-seller-md-b139ced998",
       "path": "linkedin/posts/2025-01-20-what-does-a-samosa-seller.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "10 amazing tools to make creating presentations easier, better, and even fun",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "presentation tools"
-        },
-        {
-          "facet": "activity",
-          "label": "creating presentations"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 46
-      },
-      "quote": "PowerPoint is dead! Okay, maybe not yet. But let’s be honest, Microsoft, it’s time for a change. PowerPoint has been around for decades, but it’s been slow to keep up. We lose so much time with preparing presentations, formating pictures, getting the font and brand identity right, by now these types of things should be automated. While we wait, the competition is fierce, and today, there are smarter, faster, and more efficient tools out there that can revolutionize your presentation game. Here a",
-      "item_id": "linkedin-posts-2025-01-22-powerpoint-is-dead-okay-maybe-097410-md-00bea5f589:0013-0046",
-      "source_id": "linkedin-posts-2025-01-22-powerpoint-is-dead-okay-maybe-097410-md-00bea5f589",
-      "path": "linkedin/posts/2025-01-22-powerpoint-is-dead-okay-maybe-097410.md",
       "prev": null,
       "next": null
     },
@@ -7806,52 +7316,6 @@
       "next": null
     },
     {
-      "title": "Acoustic Voice Profiling® Technology for Charismatic Speaking",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "Acoustic Voice Profiling"
-        },
-        {
-          "facet": "topic",
-          "label": "charisma in public speaking"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 25
-      },
-      "quote": "Exciting news - I’ve unlocked the secret of charisma! After an incredible journey last summer with Professor Oliver Niebuhr and AllGoodSpeakers ApS, I’m officially certified in Acoustic Voice Profiling® Technology. This groundbreaking training dives deep into the science behind a charismatic speaking voice - analyzing pitch, pauses, speaking rate, and more. It’s a powerful tool that helps professionals elevate their communication skills. For the past two years, I’ve used the AVP assessment with ",
-      "item_id": "linkedin-posts-2025-03-12-exciting-news-ive-unlocked-704064-md-ac404d0159:0013-0025",
-      "source_id": "linkedin-posts-2025-03-12-exciting-news-ive-unlocked-704064-md-ac404d0159",
-      "path": "linkedin/posts/2025-03-12-exciting-news---ive-unlocked-704064.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "The Voices That Inspire",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "public speaking inspiration"
-        },
-        {
-          "facet": "activity",
-          "label": "speech analysis"
-        }
-      ],
-      "span": {
-        "start_line": 14,
-        "end_line": 26
-      },
-      "quote": "Take a moment and listen to some of the greatest speeches of our times… because tomorrow is World Speech Day! If you look through my selection of speeches that have changed and shaped the world, you’ll notice they all have something in common: These speakers use powerful words. They all share a vision that is far greater than themselves. They all dare to communicate it with passion, confidence, and competence. Enjoy these speeches - reflect on them, be inspired by them, absorb them, and become a",
-      "item_id": "linkedin-posts-2025-03-14-take-a-moment-and-listen-689088-md-2aa77fc966:0014-0026",
-      "source_id": "linkedin-posts-2025-03-14-take-a-moment-and-listen-689088-md-2aa77fc966",
-      "path": "linkedin/posts/2025-03-14-take-a-moment-and-listen-689088.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Characteristics of Inspiring and World-Changing Speeches",
       "tags": [
         {
@@ -7894,52 +7358,6 @@
       "item_id": "linkedin-posts-2025-03-17-last-weekend-i-stepped-out-md-b8b7c8b35b:0013-0019",
       "source_id": "linkedin-posts-2025-03-17-last-weekend-i-stepped-out-md-b8b7c8b35b",
       "path": "linkedin/posts/2025-03-17-last-weekend-i-stepped-out.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Embracing new challenges through steady progress and consistency",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "progress over perfection"
-        },
-        {
-          "facet": "situation",
-          "label": "trying something new"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 19
-      },
-      "quote": "Last weekend, I stepped out of my comfort zone and into something new - pump tracks. While I’ve always enjoyed longboarding, I hadn’t tried pump tracks until my son and wife introduced me to it. Dubai’s Meydan track was the perfect spot to start, and while I’m still getting the hang of it, the experience was all about progress, not perfection. The journey’s about steady progress and embracing the process - just like in business. Sometimes it’s not about perfection, but about showing up, learning",
-      "item_id": "linkedin-posts-2025-03-17-last-weekend-i-stepped-out-143810-md-ddd3e27afa:0013-0019",
-      "source_id": "linkedin-posts-2025-03-17-last-weekend-i-stepped-out-143810-md-ddd3e27afa",
-      "path": "linkedin/posts/2025-03-17-last-weekend-i-stepped-out-143810.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Understanding Gen Z Slang to Connect with the New Generation",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "Gen Z slang"
-        },
-        {
-          "facet": "situation",
-          "label": "leaders struggling to connect with Gen Z"
-        }
-      ],
-      "span": {
-        "start_line": 14,
-        "end_line": 31
-      },
-      "quote": "Why do so many leaders struggle to connect with Gen Z? Because they don’t understand them. Picture this: Someone says something like, \"That idea is GOAT-level, IMO.\" 👀 Do you: A) Nod like you totally get it B) Secretly Google \"IMO meaning\" C) Accept that you’re out of the loop ICYMI, Gen Z has reshaped the way we communicate. Whether in work emails, on social media, or during casual conversations, slang like FOMO, TBH, and SUS is everywhere. If you want to stay connected and relevant with the ne",
-      "item_id": "linkedin-posts-2025-03-20-why-do-so-many-leaders-992640-md-9d887922f3:0014-0031",
-      "source_id": "linkedin-posts-2025-03-20-why-do-so-many-leaders-992640-md-9d887922f3",
-      "path": "linkedin/posts/2025-03-20-why-do-so-many-leaders-992640.md",
       "prev": null,
       "next": null
     },
@@ -9308,29 +8726,6 @@
       "next": null
     },
     {
-      "title": "Henry Maske's inspiring keynote and comeback story",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "overcoming challenges"
-        },
-        {
-          "facet": "activity",
-          "label": "keynote speech"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 30
-      },
-      "quote": "𝗔 𝗯𝗼𝘅𝗶𝗻𝗴 𝘄𝗼𝗿𝗹𝗱 𝗰𝗵𝗮𝗺𝗽𝗶𝗼𝗻, 𝗲𝗻𝘁𝗿𝗲𝗽𝗿𝗲𝗻𝗲𝘂𝗿 𝗮𝗻𝗱 𝗮 𝘁𝗿𝘂𝗹𝘆 𝗶𝗻𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗽𝗲𝗿𝘀𝗼𝗻. Meeting 𝗛𝗲𝗻𝗿𝘆 𝗠𝗮𝘀𝗸𝗲 on and off the stage at fithera was a truly incredible experience. Both the audience and me, loved his keynote when he took us through his story - and man athletes have successful stories to tell! His is so unique because, after 𝟭𝟬 𝘆𝗲𝗮𝗿𝘀 of finishing his career, he decided to once again get into the ring and challenge the only opponent that he ever lost a fight again he put everything on the line. He gave it ",
-      "item_id": "linkedin-posts-2025-06-19-203904-md-90c072f49a:0013-0030",
-      "source_id": "linkedin-posts-2025-06-19-203904-md-90c072f49a",
-      "path": "linkedin/posts/2025-06-19-𝗔-𝗯𝗼𝘅𝗶𝗻𝗴-𝘄𝗼𝗿𝗹𝗱-𝗰𝗵𝗮𝗺𝗽𝗶𝗼𝗻-𝗲𝗻𝘁𝗿𝗲𝗽𝗿𝗲𝗻𝗲𝘂𝗿-203904.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Staying sane through meditation during crisis and uncertainty",
       "tags": [
         {
@@ -9354,33 +8749,6 @@
       "item_id": "linkedin-posts-2025-06-16-how-do-you-stay-sane-md-f186ace200:0013-0052",
       "source_id": "linkedin-posts-2025-06-16-how-do-you-stay-sane-md-f186ace200",
       "path": "linkedin/posts/2025-06-16-how-do-you-stay-sane.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Using Open Hand Gestures for Trustworthy Stage Presence and Body Language",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "body language"
-        },
-        {
-          "facet": "situation",
-          "label": "speaking on stage"
-        },
-        {
-          "facet": "activity",
-          "label": "public speaking"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 48
-      },
-      "quote": "And suddenly, I didn’t know what to do with my own hands. Does that sound familiar? As soon as we step on a stage or speak in front of high-status people, something strange happens: Our body language changes and not always for the better. Hands, which we never think about 99% of the time, suddenly feel like awkward, dangling appendages. What do most people do? • Hands in pockets • Locked in front of the body • The “steeple” position - made famous by Angela Merkel Some communication coaches even ",
-      "item_id": "linkedin-posts-2025-06-18-and-suddenly-i-didnt-know-876737-md-dcffd0cad9:0013-0048",
-      "source_id": "linkedin-posts-2025-06-18-and-suddenly-i-didnt-know-876737-md-dcffd0cad9",
-      "path": "linkedin/posts/2025-06-18-and-suddenly-i-didnt-know-876737.md",
       "prev": null,
       "next": null
     },
@@ -9508,29 +8876,6 @@
       "item_id": "linkedin-posts-2025-06-25-md-78c456b311:0013-0031",
       "source_id": "linkedin-posts-2025-06-25-md-78c456b311",
       "path": "linkedin/posts/2025-06-25-𝗪𝗵𝗮𝘁-𝗮𝗻-𝗮𝗺𝗮𝘇𝗶𝗻𝗴-𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽-𝘄𝗶𝘁𝗵.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Hosting the Supercar Owners Classic Weekend in Andermatt",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "supercars"
-        },
-        {
-          "facet": "activity",
-          "label": "event hosting"
-        }
-      ],
-      "span": {
-        "start_line": 14,
-        "end_line": 26
-      },
-      "quote": "On my way… From Munich to Andermatt, Switzerland for the 𝗦𝘂𝗽𝗲𝗿𝗰𝗮𝗿 𝗢𝘄𝗻𝗲𝗿𝘀 𝗖𝗹𝗮𝘀𝘀𝗶𝗰 𝘄𝗲𝗲𝗸𝗲𝗻𝗱! So thrilled to be a part of this event again. We continue a 𝗴𝗿𝗮𝗻𝗱 𝘁𝗿𝗮𝗱𝗶𝘁𝗶𝗼𝗻 of celebrating automotive mastery in the heart of the 𝗦𝘄𝗶𝘀𝘀 𝗔𝗹𝗽𝘀. There will be a wide variety of classic and modern supercars, including rare models driving through, exploring iconic mountain passes. It promises to be a real treat with an epic 𝟯 𝗗𝗮𝘆 𝗽𝗿𝗼𝗴𝗿𝗮𝗺 from start to finish! It is always a great pleasure hosting for SOC - looki",
-      "item_id": "linkedin-posts-2025-06-26-on-my-way-from-munich-536448-md-f9c074c700:0014-0026",
-      "source_id": "linkedin-posts-2025-06-26-on-my-way-from-munich-536448-md-f9c074c700",
-      "path": "linkedin/posts/2025-06-26-on-my-way-from-munich-536448.md",
       "prev": null,
       "next": null
     },
@@ -9773,29 +9118,6 @@
       "item_id": "linkedin-posts-2025-07-08-md-c4c7612ca9:0013-0034",
       "source_id": "linkedin-posts-2025-07-08-md-c4c7612ca9",
       "path": "linkedin/posts/2025-07-08-𝗦𝗽𝗲𝗮𝗸𝗶𝗻𝗴-𝗶𝘀-𝘀𝗶𝗹𝘃𝗲𝗿-𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻-𝗶𝘀.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Speaking is silver, interaction is Gold!",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "audience interaction"
-        },
-        {
-          "facet": "activity",
-          "label": "presentations"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 32
-      },
-      "quote": "𝗦𝗽𝗲𝗮𝗸𝗶𝗻𝗴 𝗶𝘀 𝘀𝗶𝗹𝘃𝗲𝗿, 𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗶𝘀 𝗚𝗼𝗹𝗱! If you think about a pop concert, or a concert of any A-list singer - the best moments are always the one where the audience participate and sings along. Aren’t they the same goal for presentation? That’s why I’ve been using 𝗦𝗟𝗜𝗗𝗢 for the past 𝟱 𝘆𝗲𝗮𝗿𝘀. 𝗜𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗦𝗶𝗺𝗽𝗹𝗲𝘀𝘁, 𝗺𝗼𝘀𝘁 𝗲𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗮𝗻𝗱 𝗺𝗼𝘀𝘁 𝘄𝗼𝗻𝗱𝗲𝗿𝗳𝘂𝗹 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝘁𝗼𝗼𝗹 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗳𝗶𝗻𝗱. Whether you use it for: 𝗣𝗼𝗹𝗹𝘀 𝗤𝗡𝗔 𝗦𝘂𝗿𝘃𝗲𝘆 𝗤𝘂𝗶𝘇𝗹𝗲𝘁 Or other interaction this tour is always brilliant! And one of m",
-      "item_id": "linkedin-posts-2025-07-08-578688-md-1808d5f935:0013-0032",
-      "source_id": "linkedin-posts-2025-07-08-578688-md-1808d5f935",
-      "path": "linkedin/posts/2025-07-08-𝗦𝗽𝗲𝗮𝗸𝗶𝗻𝗴-𝗶𝘀-𝘀𝗶𝗹𝘃𝗲𝗿-𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻-𝗶𝘀-578688.md",
       "prev": null,
       "next": null
     },
@@ -12254,33 +11576,6 @@
       "next": null
     },
     {
-      "title": "Transitioning from Employment to Professional Presenting and Public Speaking",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "public speaking"
-        },
-        {
-          "facet": "topic",
-          "label": "career transition"
-        },
-        {
-          "facet": "situation",
-          "label": "quitting employment to pursue a calling"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 28
-      },
-      "quote": "10 years ago, I quit my job. The truth is that being employed was just not part of my journey. I was passionate about organizing events, but I had an inner calling. And because of that calling and because of my incredible life coach, Kate Walsh, I started to work on my communication and public speaking skills for several years. That work gave me the knowledge, the confidence, and the know-how to leave the safety of employment and do my own thing. In 2016, I did 2 additional presenter courses, on",
-      "item_id": "linkedin-posts-2026-10-21-10-years-ago-i-quit-717376-md-5c5d54151a:0010-0028",
-      "source_id": "linkedin-posts-2026-10-21-10-years-ago-i-quit-717376-md-5c5d54151a",
-      "path": "linkedin/posts/2026-10-21-10-years-ago-i-quit-717376.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Developing Leadership Communication and Intentional Listening",
       "tags": [
         {
@@ -12354,29 +11649,6 @@
       "item_id": "linkedin-posts-2026-10-29-one-of-the-things-i-md-60d2e3ddda:0015-0042",
       "source_id": "linkedin-posts-2026-10-29-one-of-the-things-i-md-60d2e3ddda",
       "path": "linkedin/posts/2026-10-29-one-of-the-things-i.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Intercultural Innovation Hub Awards and Staying Optimistic Through Dialogue",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "intercultural dialogue"
-        },
-        {
-          "facet": "activity",
-          "label": "event hosting"
-        }
-      ],
-      "span": {
-        "start_line": 12,
-        "end_line": 51
-      },
-      "quote": "War. Division. A level of geopolitical complexity that is hard to even look at. So how do you stay optimistic? Last night in Milan I met ten answers. Once again I had the honour of hosting the Intercultural Innovation Hub Awards, the partnership between the United Nations Alliance of Civilizations (UNAOC) and the BMW Group, together with Accenture, at the BMW GROUP ITALIA headquarters in Milan. Ten organisations were chosen from thousands. Not for the tools they use. For the impact they have. Th",
-      "item_id": "linkedin-posts-2026-11-04-war-division-a-level-of-657664-md-acecedb37f:0012-0051",
-      "source_id": "linkedin-posts-2026-11-04-war-division-a-level-of-657664-md-acecedb37f",
-      "path": "linkedin/posts/2026-11-04-war-division-a-level-of-657664.md",
       "prev": null,
       "next": null
     },
@@ -12497,75 +11769,6 @@
       "source_id": "linkedin-posts-2026-11-09-how-do-you-grab-your-md-7d277aa1fa",
       "path": "linkedin/posts/2026-11-09-how-do-you-grab-your.md",
       "prev": null,
-      "next": null
-    },
-    {
-      "title": "Improve your English",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "English language improvement"
-        },
-        {
-          "facet": "situation",
-          "label": "English is not first language"
-        }
-      ],
-      "span": {
-        "start_line": 24,
-        "end_line": 25
-      },
-      "quote": "1️⃣Improve your English. Work on your grammar, build your vocabulary. Get a tutor or a coach and have conversations with them. The more you use it and practice it, the easier it gets.",
-      "item_id": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456:0024-0025",
-      "source_id": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456",
-      "path": "linkedin/posts/2026-11-09-i-cant-speak-well-because-916672.md",
-      "prev": null,
-      "next": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456:0027-0028"
-    },
-    {
-      "title": "Don’t stop",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "fluency and overcoming hesitation"
-        },
-        {
-          "facet": "situation",
-          "label": "cannot find the right word while speaking"
-        }
-      ],
-      "span": {
-        "start_line": 27,
-        "end_line": 28
-      },
-      "quote": "2️⃣Don’t stop. Keep going no matter what. If you can’t find a word, explain what this word means using words you already know. And yes, you can even ask the audience to help you find it. It is an opportunity to interact with the audience and have a bit of fun!",
-      "item_id": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456:0027-0028",
-      "source_id": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456",
-      "path": "linkedin/posts/2026-11-09-i-cant-speak-well-because-916672.md",
-      "prev": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456:0024-0025",
-      "next": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456:0030-0031"
-    },
-    {
-      "title": "Practice speaking on the spot",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "impromptu speaking"
-        },
-        {
-          "facet": "activity",
-          "label": "timed speaking practice"
-        }
-      ],
-      "span": {
-        "start_line": 30,
-        "end_line": 31
-      },
-      "quote": "3️⃣Practice speaking on the spot. Pick a topic, set a timer for 60 to 90 seconds and explain it out loud. I use impromptu speaking exercises all the time in my coaching because you get used to working with the words you have under time pressure.",
-      "item_id": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456:0030-0031",
-      "source_id": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456",
-      "path": "linkedin/posts/2026-11-09-i-cant-speak-well-because-916672.md",
-      "prev": "linkedin-posts-2026-11-09-i-cant-speak-well-because-916672-md-e59091a456:0027-0028",
       "next": null
     },
     {
@@ -21114,33 +20317,6 @@
       "next": null
     },
     {
-      "title": "Investing in Team Communication and Public Speaking to Build a Top Recruitment Agency",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "public speaking and presentation skills"
-        },
-        {
-          "facet": "topic",
-          "label": "team development"
-        },
-        {
-          "facet": "activity",
-          "label": "communication coaching"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 23
-      },
-      "quote": "𝗛𝗼𝘄 𝗱𝗼 𝘆𝗼𝘂 𝗯𝘂𝗶𝗹𝗱 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗮𝗻𝗱 𝗹𝗮𝗿𝗴𝗲𝘀𝘁 𝗽𝗿𝗶𝘃𝗮𝘁𝗲𝗹𝘆 𝗼𝘄𝗻𝗲𝗱 𝗿𝗲𝗰𝗿𝘂𝗶𝘁𝗺𝗲𝗻𝘁 𝗮𝗴𝗲𝗻𝗰𝘆 𝗶𝗻 𝘁𝗵𝗲 𝗠𝗜𝗔 𝗿𝗲𝗴𝗶𝗼𝗻? Mohammad Osama and his team have spent years building an exceptional recruitment company, and the reason I can confidently say they’re the best is simple: they invest in their people. That’s why Robyn Abou Chedid brought me on board to work with the entire leadership team and an additional cohort to enhance their #PublicSpeaking, presentation, and communication skills. I was nothing short of impressed by ",
-      "item_id": "linkedin-posts-2024-11-06-205952-md-f17443d2e2:0013-0023",
-      "source_id": "linkedin-posts-2024-11-06-205952-md-f17443d2e2",
-      "path": "linkedin/posts/2024-11-06-𝗛𝗼𝘄-𝗱𝗼-𝘆𝗼𝘂-𝗯𝘂𝗶𝗹𝗱-𝘁𝗵𝗲-205952.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Investing in Leadership Communication and Presentation Skills",
       "tags": [
         {
@@ -22654,29 +21830,6 @@
       "next": null
     },
     {
-      "title": "Using 'The Cropped World' to Shape Messages and Tell Intentional Stories",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "storytelling perspective"
-        },
-        {
-          "facet": "topic",
-          "label": "intentional messaging"
-        }
-      ],
-      "span": {
-        "start_line": 13,
-        "end_line": 21
-      },
-      "quote": "When I was recently in Berlin, I found myself with a bit of extra time… so I visited the Museum of Communication. As a communication coach, I thought it might offer a little inspiration. It turned out to offer a lot more. One exhibit completely blew my mind. Take a look at this short video where I explore “The Cropped World” - and how this powerful piece can inspire you to shape your messages and tell your stories more intentionally.",
-      "item_id": "linkedin-posts-2025-06-17-when-i-was-recently-in-964928-md-d7c606354a:0013-0021",
-      "source_id": "linkedin-posts-2025-06-17-when-i-was-recently-in-964928-md-d7c606354a",
-      "path": "linkedin/posts/2025-06-17-when-i-was-recently-in-964928.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Presenting and Having Fun with Robotics at GITEX Asia",
       "tags": [
         {
@@ -22757,33 +21910,6 @@
       "item_id": "linkedin-posts-2025-07-09-md-1ae1f581d0:0013-0020",
       "source_id": "linkedin-posts-2025-07-09-md-1ae1f581d0",
       "path": "linkedin/posts/2025-07-09-𝗧𝗵𝗲-𝘀𝗲𝗰𝗿𝗲𝘁-𝘁𝗼-𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹-𝗴𝗿𝗼𝘄𝘁𝗵.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Human-first Communication",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "Human-first Communication"
-        },
-        {
-          "facet": "topic",
-          "label": "presence and delivery"
-        },
-        {
-          "facet": "activity",
-          "label": "public speaking"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 34
-      },
-      "quote": "I have been thinking about this a lot lately. Every week I stand on stages, sit in coaching sessions, and work with leaders who run some of the biggest companies in the world. And I keep seeing the same thing. The way you walk into a room. The way you use your voice. The way you hold a pause and let someone actually feel what you just said instead of rushing. Above all, the human connection that you create in any communication. The intersection of all of this is what I call Human-first Communica",
-      "item_id": "linkedin-posts-2026-04-28-i-have-been-thinking-about-234112-md-f2015e8f58:0010-0034",
-      "source_id": "linkedin-posts-2026-04-28-i-have-been-thinking-about-234112-md-f2015e8f58",
-      "path": "linkedin/posts/2026-04-28-i-have-been-thinking-about-234112.md",
       "prev": null,
       "next": null
     },
