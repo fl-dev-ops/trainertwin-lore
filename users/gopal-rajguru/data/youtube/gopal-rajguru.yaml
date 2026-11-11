@@ -1,5 +1,5 @@
 channel_url: https://www.youtube.com/watch?v=1rrtbi7Qu7Q
-total_videos: 4
+total_videos: 7
 videos:
 - id: 1rrtbi7Qu7Q
   url: https://www.youtube.com/watch?v=1rrtbi7Qu7Q
@@ -57,3 +57,42 @@ videos:
   speaker_count: 1
   speakers:
     speaker_1: Gopal RajGuru
+- id: tv7ct1vJCJg
+  url: https://www.youtube.com/watch?v=tv7ct1vJCJg
+  title: Gopal RajGuru - Expert Keynote Speaker on sales, leadership and negotiation
+  upload_date: '2020-04-21'
+  description: "Welcome to Oration Speakers - Influencer's and Thought Leaders Series. \nToday we ee interview Mr Gopal RajGuru.\
+    \ Gopal is an expert on sales, leadership and negotiation."
+  author: Oration Speakers
+  model: universal-3-5-pro
+  speaker_count: 2
+  speakers:
+    speaker_1: Rachel (Oration Speakers host)
+    speaker_2: Gopal RajGuru
+- id: kEB4kyOAI-M
+  url: https://www.youtube.com/watch?v=kEB4kyOAI-M
+  title: Pod_Bacula - Ep 04 - Entrevista com Gopal RajGuru, Presidente Bacula Systems
+  upload_date: '2024-07-24'
+  description: "Uma entrevista especial com o Gopal RajGuru, Presidente Bacula Systems e o CTO da Bacula Jorge Gea.\r\n\r\n\
+    Pod_Bacula é um oferecimento de:\r\n\r\nBacula: bacula.lat\r\nProxVe: proxve.lat\r\nPostgresPro: postgrespro.lat"
+  author: PodHeitor
+  model: universal-3-5-pro
+  speaker_count: 4
+  speakers:
+    speaker_1: Heitor Faria (host)
+    speaker_2: Jorge Gea
+    speaker_3: Gopal RajGuru
+    speaker_4: Marcos (co-host)
+- id: wfNxHJ6KM5I
+  url: https://www.youtube.com/watch?v=wfNxHJ6KM5I
+  title: 'Executive Interview: Gopal RajGuru, Innovate+Grow Group'
+  upload_date: '2011-07-09'
+  description: This video is part of NO FEAR leadership development project. Read more about the project and contribute with
+    your own comments and insights to http://Nofear-community.com
+  author: Bulld0zerExternal
+  model: universal-3-5-pro
+  speaker_count: 3
+  speakers:
+    speaker_1: Narrator
+    speaker_2: Interviewer
+    speaker_3: Gopal RajGuru

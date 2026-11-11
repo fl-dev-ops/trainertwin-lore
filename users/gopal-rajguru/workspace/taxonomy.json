@@ -6,6 +6,79 @@
       "aliases": [
         "sales coaching"
       ],
+      "count": 5
+    },
+    "sales-training": {
+      "id": "sales-training",
+      "preferred": "sales training",
+      "aliases": [
+        "sales training"
+      ],
+      "count": 5
+    },
+    "social-selling-training": {
+      "id": "social-selling-training",
+      "preferred": "social selling training",
+      "aliases": [
+        "social selling training"
+      ],
+      "count": 4
+    },
+    "negotiation-preparation": {
+      "id": "negotiation-preparation",
+      "preferred": "negotiation preparation",
+      "aliases": [
+        "negotiation preparation"
+      ],
+      "count": 3
+    },
+    "executive-interview": {
+      "id": "executive-interview",
+      "preferred": "executive interview",
+      "aliases": [
+        "executive interview"
+      ],
+      "count": 3
+    },
+    "interview": {
+      "id": "interview",
+      "preferred": "interview",
+      "aliases": [
+        "interview"
+      ],
+      "count": 2
+    },
+    "live-q-a-session": {
+      "id": "live-q-a-session",
+      "preferred": "live Q&A session",
+      "aliases": [
+        "live Q&A session"
+      ],
+      "count": 2
+    },
+    "negotiation-training": {
+      "id": "negotiation-training",
+      "preferred": "negotiation training",
+      "aliases": [
+        "negotiation training"
+      ],
+      "count": 2
+    },
+    "negotiation-practice": {
+      "id": "negotiation-practice",
+      "preferred": "negotiation practice",
+      "aliases": [
+        "negotiation practice"
+      ],
+      "count": 2
+    },
+    "keynote-speech": {
+      "id": "keynote-speech",
+      "preferred": "keynote speech",
+      "aliases": [
+        "keynote speaking",
+        "keynote speech"
+      ],
       "count": 2
     },
     "masterclass-announcement": {
@@ -80,19 +153,155 @@
       ],
       "count": 1
     },
-    "keynote-speech": {
-      "id": "keynote-speech",
-      "preferred": "keynote speech",
+    "podcast-outro": {
+      "id": "podcast-outro",
+      "preferred": "podcast outro",
       "aliases": [
-        "keynote speech"
+        "podcast outro"
       ],
       "count": 1
     },
-    "negotiation-preparation": {
-      "id": "negotiation-preparation",
-      "preferred": "negotiation preparation",
+    "sales-consulting": {
+      "id": "sales-consulting",
+      "preferred": "sales consulting",
       "aliases": [
-        "negotiation preparation"
+        "sales consulting"
+      ],
+      "count": 1
+    },
+    "b2b-sales-strategy": {
+      "id": "b2b-sales-strategy",
+      "preferred": "B2B sales strategy",
+      "aliases": [
+        "B2B sales strategy"
+      ],
+      "count": 1
+    },
+    "sales-assessment": {
+      "id": "sales-assessment",
+      "preferred": "sales assessment",
+      "aliases": [
+        "sales assessment"
+      ],
+      "count": 1
+    },
+    "executive-training": {
+      "id": "executive-training",
+      "preferred": "executive training",
+      "aliases": [
+        "executive training"
+      ],
+      "count": 1
+    },
+    "leadership-training": {
+      "id": "leadership-training",
+      "preferred": "leadership training",
+      "aliases": [
+        "leadership training"
+      ],
+      "count": 1
+    },
+    "tailored-concept-preparation": {
+      "id": "tailored-concept-preparation",
+      "preferred": "tailored concept preparation",
+      "aliases": [
+        "tailored concept preparation"
+      ],
+      "count": 1
+    },
+    "sales-workshop": {
+      "id": "sales-workshop",
+      "preferred": "sales workshop",
+      "aliases": [
+        "sales workshop"
+      ],
+      "count": 1
+    },
+    "experiential-learning": {
+      "id": "experiential-learning",
+      "preferred": "experiential learning",
+      "aliases": [
+        "experiential learning"
+      ],
+      "count": 1
+    },
+    "closing-deals": {
+      "id": "closing-deals",
+      "preferred": "closing deals",
+      "aliases": [
+        "closing deals"
+      ],
+      "count": 1
+    },
+    "design-workshop": {
+      "id": "design-workshop",
+      "preferred": "design workshop",
+      "aliases": [
+        "design workshop"
+      ],
+      "count": 1
+    },
+    "sales-team-workshop": {
+      "id": "sales-team-workshop",
+      "preferred": "sales team workshop",
+      "aliases": [
+        "sales team workshop"
+      ],
+      "count": 1
+    },
+    "organizational-alignment": {
+      "id": "organizational-alignment",
+      "preferred": "organizational alignment",
+      "aliases": [
+        "organizational alignment"
+      ],
+      "count": 1
+    },
+    "programme-customization": {
+      "id": "programme-customization",
+      "preferred": "programme customization",
+      "aliases": [
+        "programme customization"
+      ],
+      "count": 1
+    },
+    "customer-interviews": {
+      "id": "customer-interviews",
+      "preferred": "customer interviews",
+      "aliases": [
+        "customer interviews"
+      ],
+      "count": 1
+    },
+    "account-planning-workshop": {
+      "id": "account-planning-workshop",
+      "preferred": "account planning workshop",
+      "aliases": [
+        "account planning workshop"
+      ],
+      "count": 1
+    },
+    "plan-approval": {
+      "id": "plan-approval",
+      "preferred": "plan approval",
+      "aliases": [
+        "plan approval"
+      ],
+      "count": 1
+    },
+    "executive-training-programme": {
+      "id": "executive-training-programme",
+      "preferred": "executive training programme",
+      "aliases": [
+        "executive training programme"
+      ],
+      "count": 1
+    },
+    "coaching": {
+      "id": "coaching",
+      "preferred": "coaching",
+      "aliases": [
+        "coaching"
       ],
       "count": 1
     }
@@ -153,9 +362,90 @@
         "adapting to changed buyer journey"
       ],
       "count": 1
+    },
+    "market-migration-following-broadcom-vmware-acquisition": {
+      "id": "market-migration-following-broadcom-vmware-acquisition",
+      "preferred": "market migration following Broadcom VMware acquisition",
+      "aliases": [
+        "market migration following Broadcom VMware acquisition"
+      ],
+      "count": 1
+    },
+    "turbulent-business-conditions": {
+      "id": "turbulent-business-conditions",
+      "preferred": "turbulent business conditions",
+      "aliases": [
+        "turbulent business conditions"
+      ],
+      "count": 1
+    },
+    "uncertainty-and-market-disruption": {
+      "id": "uncertainty-and-market-disruption",
+      "preferred": "uncertainty and market disruption",
+      "aliases": [
+        "uncertainty and market disruption"
+      ],
+      "count": 1
+    },
+    "top-performer-mistreating-team-members": {
+      "id": "top-performer-mistreating-team-members",
+      "preferred": "top performer mistreating team members",
+      "aliases": [
+        "top performer mistreating team members"
+      ],
+      "count": 1
+    },
+    "entrepreneurial-business-development": {
+      "id": "entrepreneurial-business-development",
+      "preferred": "entrepreneurial business development",
+      "aliases": [
+        "entrepreneurial business development"
+      ],
+      "count": 1
+    },
+    "coronavirus-crisis": {
+      "id": "coronavirus-crisis",
+      "preferred": "coronavirus crisis",
+      "aliases": [
+        "coronavirus crisis"
+      ],
+      "count": 1
+    },
+    "difficult-negotiations": {
+      "id": "difficult-negotiations",
+      "preferred": "difficult negotiations",
+      "aliases": [
+        "difficult negotiations"
+      ],
+      "count": 1
     }
   },
   "topic": {
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 2
+    },
+    "sales-leadership-coaching": {
+      "id": "sales-leadership-coaching",
+      "preferred": "sales leadership coaching",
+      "aliases": [
+        "sales leadership coaching"
+      ],
+      "count": 2
+    },
+    "building-rapport-and-goodwill": {
+      "id": "building-rapport-and-goodwill",
+      "preferred": "building rapport and goodwill",
+      "aliases": [
+        "building rapport and goodwill",
+        "relationship building"
+      ],
+      "count": 2
+    },
     "strategic-negotiation": {
       "id": "strategic-negotiation",
       "preferred": "strategic negotiation",
@@ -369,6 +659,518 @@
       "preferred": "ego management",
       "aliases": [
         "ego management"
+      ],
+      "count": 1
+    },
+    "digital-equalization": {
+      "id": "digital-equalization",
+      "preferred": "digital equalization",
+      "aliases": [
+        "digital equalization"
+      ],
+      "count": 1
+    },
+    "cross-cultural-leadership": {
+      "id": "cross-cultural-leadership",
+      "preferred": "cross-cultural leadership",
+      "aliases": [
+        "cross-cultural leadership"
+      ],
+      "count": 1
+    },
+    "executive-leadership-and-company-vision": {
+      "id": "executive-leadership-and-company-vision",
+      "preferred": "executive leadership and company vision",
+      "aliases": [
+        "executive leadership and company vision"
+      ],
+      "count": 1
+    },
+    "company-mission-and-enterprise-open-core": {
+      "id": "company-mission-and-enterprise-open-core",
+      "preferred": "company mission and enterprise open core",
+      "aliases": [
+        "company mission and enterprise open core"
+      ],
+      "count": 1
+    },
+    "role-based-user-interface": {
+      "id": "role-based-user-interface",
+      "preferred": "role-based user interface",
+      "aliases": [
+        "role-based user interface"
+      ],
+      "count": 1
+    },
+    "cybersecurity-and-enterprise-use-cases": {
+      "id": "cybersecurity-and-enterprise-use-cases",
+      "preferred": "cybersecurity and enterprise use cases",
+      "aliases": [
+        "cybersecurity and enterprise use cases"
+      ],
+      "count": 1
+    },
+    "partner-ecosystem-and-hosted-software-trial": {
+      "id": "partner-ecosystem-and-hosted-software-trial",
+      "preferred": "partner ecosystem and hosted software trial",
+      "aliases": [
+        "partner ecosystem and hosted software trial"
+      ],
+      "count": 1
+    },
+    "hypervisor-migration-and-virtualization-plugins": {
+      "id": "hypervisor-migration-and-virtualization-plugins",
+      "preferred": "hypervisor migration and virtualization plugins",
+      "aliases": [
+        "hypervisor migration and virtualization plugins"
+      ],
+      "count": 1
+    },
+    "proxmox-integration-and-management-interface": {
+      "id": "proxmox-integration-and-management-interface",
+      "preferred": "Proxmox integration and management interface",
+      "aliases": [
+        "Proxmox integration and management interface"
+      ],
+      "count": 1
+    },
+    "hpc-backup-architecture-and-free-enterprise-edition-strategy": {
+      "id": "hpc-backup-architecture-and-free-enterprise-edition-strategy",
+      "preferred": "HPC backup architecture and free enterprise edition strategy",
+      "aliases": [
+        "HPC backup architecture and free enterprise edition strategy"
+      ],
+      "count": 1
+    },
+    "bacula-installation-manager-and-cloud-plugins": {
+      "id": "bacula-installation-manager-and-cloud-plugins",
+      "preferred": "Bacula Installation Manager and cloud plugins",
+      "aliases": [
+        "Bacula Installation Manager and cloud plugins"
+      ],
+      "count": 1
+    },
+    "community-appreciation-and-concluding-remarks": {
+      "id": "community-appreciation-and-concluding-remarks",
+      "preferred": "community appreciation and concluding remarks",
+      "aliases": [
+        "community appreciation and concluding remarks"
+      ],
+      "count": 1
+    },
+    "oracle-cloud-marketplace-appliance-integration": {
+      "id": "oracle-cloud-marketplace-appliance-integration",
+      "preferred": "Oracle Cloud Marketplace appliance integration",
+      "aliases": [
+        "Oracle Cloud Marketplace appliance integration"
+      ],
+      "count": 1
+    },
+    "cloudstack-compatibility-and-clientless-hypervisor-backup": {
+      "id": "cloudstack-compatibility-and-clientless-hypervisor-backup",
+      "preferred": "CloudStack compatibility and clientless hypervisor backup",
+      "aliases": [
+        "CloudStack compatibility and clientless hypervisor backup"
+      ],
+      "count": 1
+    },
+    "opennebula-compatibility-and-community-giveaway": {
+      "id": "opennebula-compatibility-and-community-giveaway",
+      "preferred": "OpenNebula compatibility and community giveaway",
+      "aliases": [
+        "OpenNebula compatibility and community giveaway"
+      ],
+      "count": 1
+    },
+    "client-relationship-management": {
+      "id": "client-relationship-management",
+      "preferred": "client relationship management",
+      "aliases": [
+        "client relationship management"
+      ],
+      "count": 1
+    },
+    "leadership-communication": {
+      "id": "leadership-communication",
+      "preferred": "leadership communication",
+      "aliases": [
+        "leadership communication"
+      ],
+      "count": 1
+    },
+    "people-centric-negotiation": {
+      "id": "people-centric-negotiation",
+      "preferred": "people-centric negotiation",
+      "aliases": [
+        "people-centric negotiation"
+      ],
+      "count": 1
+    },
+    "crisis-leadership": {
+      "id": "crisis-leadership",
+      "preferred": "crisis leadership",
+      "aliases": [
+        "crisis leadership"
+      ],
+      "count": 1
+    },
+    "ai-sales-enablement": {
+      "id": "ai-sales-enablement",
+      "preferred": "AI sales enablement",
+      "aliases": [
+        "AI sales enablement"
+      ],
+      "count": 1
+    },
+    "managing-toxic-high-performers": {
+      "id": "managing-toxic-high-performers",
+      "preferred": "managing toxic high performers",
+      "aliases": [
+        "managing toxic high performers"
+      ],
+      "count": 1
+    },
+    "selling-skills": {
+      "id": "selling-skills",
+      "preferred": "selling skills",
+      "aliases": [
+        "selling skills"
+      ],
+      "count": 1
+    },
+    "commercial-growth-sales-capability": {
+      "id": "commercial-growth-sales-capability",
+      "preferred": "commercial growth & sales capability",
+      "aliases": [
+        "commercial growth & sales capability"
+      ],
+      "count": 1
+    },
+    "marketing-and-sales-alignment": {
+      "id": "marketing-and-sales-alignment",
+      "preferred": "marketing and sales alignment",
+      "aliases": [
+        "marketing and sales alignment"
+      ],
+      "count": 1
+    },
+    "b2b-sales-transformation": {
+      "id": "b2b-sales-transformation",
+      "preferred": "B2B sales transformation",
+      "aliases": [
+        "B2B sales transformation"
+      ],
+      "count": 1
+    },
+    "digital-sales-framework": {
+      "id": "digital-sales-framework",
+      "preferred": "digital sales framework",
+      "aliases": [
+        "digital sales framework"
+      ],
+      "count": 1
+    },
+    "business-simulations": {
+      "id": "business-simulations",
+      "preferred": "business simulations",
+      "aliases": [
+        "business simulations"
+      ],
+      "count": 1
+    },
+    "channel-management": {
+      "id": "channel-management",
+      "preferred": "channel management",
+      "aliases": [
+        "channel management"
+      ],
+      "count": 1
+    },
+    "partner-sales-training": {
+      "id": "partner-sales-training",
+      "preferred": "partner sales training",
+      "aliases": [
+        "partner sales training"
+      ],
+      "count": 1
+    },
+    "sales-pipeline-training": {
+      "id": "sales-pipeline-training",
+      "preferred": "sales pipeline training",
+      "aliases": [
+        "sales pipeline training"
+      ],
+      "count": 1
+    },
+    "target-account-prospecting": {
+      "id": "target-account-prospecting",
+      "preferred": "target account prospecting",
+      "aliases": [
+        "target account prospecting"
+      ],
+      "count": 1
+    },
+    "sales-implementation": {
+      "id": "sales-implementation",
+      "preferred": "sales implementation",
+      "aliases": [
+        "sales implementation"
+      ],
+      "count": 1
+    },
+    "emotions-in-decision-making": {
+      "id": "emotions-in-decision-making",
+      "preferred": "emotions in decision making",
+      "aliases": [
+        "emotions in decision making"
+      ],
+      "count": 1
+    },
+    "negotiation-styles": {
+      "id": "negotiation-styles",
+      "preferred": "negotiation styles",
+      "aliases": [
+        "negotiation styles"
+      ],
+      "count": 1
+    },
+    "cognitive-biases-in-negotiation": {
+      "id": "cognitive-biases-in-negotiation",
+      "preferred": "cognitive biases in negotiation",
+      "aliases": [
+        "cognitive biases in negotiation"
+      ],
+      "count": 1
+    },
+    "apec-r-negotiation-process": {
+      "id": "apec-r-negotiation-process",
+      "preferred": "APEC+R negotiation process",
+      "aliases": [
+        "APEC+R negotiation process"
+      ],
+      "count": 1
+    },
+    "negotiation-tools": {
+      "id": "negotiation-tools",
+      "preferred": "negotiation tools",
+      "aliases": [
+        "negotiation tools"
+      ],
+      "count": 1
+    },
+    "video-review-and-feedback": {
+      "id": "video-review-and-feedback",
+      "preferred": "video review and feedback",
+      "aliases": [
+        "video review and feedback"
+      ],
+      "count": 1
+    },
+    "implementation-coaching": {
+      "id": "implementation-coaching",
+      "preferred": "implementation coaching",
+      "aliases": [
+        "implementation coaching"
+      ],
+      "count": 1
+    },
+    "buying-center-analysis": {
+      "id": "buying-center-analysis",
+      "preferred": "buying center analysis",
+      "aliases": [
+        "buying center analysis"
+      ],
+      "count": 1
+    },
+    "negotiation-toolbox": {
+      "id": "negotiation-toolbox",
+      "preferred": "negotiation toolbox",
+      "aliases": [
+        "negotiation toolbox"
+      ],
+      "count": 1
+    },
+    "deal-execution": {
+      "id": "deal-execution",
+      "preferred": "deal execution",
+      "aliases": [
+        "deal execution"
+      ],
+      "count": 1
+    },
+    "experiential-learning": {
+      "id": "experiential-learning",
+      "preferred": "experiential learning",
+      "aliases": [
+        "experiential learning"
+      ],
+      "count": 1
+    },
+    "professional-profile": {
+      "id": "professional-profile",
+      "preferred": "professional profile",
+      "aliases": [
+        "professional profile"
+      ],
+      "count": 1
+    },
+    "content-curation-and-publishing": {
+      "id": "content-curation-and-publishing",
+      "preferred": "content curation and publishing",
+      "aliases": [
+        "content curation and publishing"
+      ],
+      "count": 1
+    },
+    "meeting-preparation": {
+      "id": "meeting-preparation",
+      "preferred": "meeting preparation",
+      "aliases": [
+        "meeting preparation"
+      ],
+      "count": 1
+    },
+    "sales-process-codification": {
+      "id": "sales-process-codification",
+      "preferred": "sales process codification",
+      "aliases": [
+        "sales process codification"
+      ],
+      "count": 1
+    },
+    "must-win-deal-enablement": {
+      "id": "must-win-deal-enablement",
+      "preferred": "must-win deal enablement",
+      "aliases": [
+        "must-win deal enablement"
+      ],
+      "count": 1
+    },
+    "opportunity-reviews": {
+      "id": "opportunity-reviews",
+      "preferred": "opportunity reviews",
+      "aliases": [
+        "opportunity reviews"
+      ],
+      "count": 1
+    },
+    "business-growth-and-sales-consulting": {
+      "id": "business-growth-and-sales-consulting",
+      "preferred": "business growth and sales consulting",
+      "aliases": [
+        "business growth and sales consulting"
+      ],
+      "count": 1
+    },
+    "value-based-selling": {
+      "id": "value-based-selling",
+      "preferred": "value-based selling",
+      "aliases": [
+        "value-based selling"
+      ],
+      "count": 1
+    },
+    "sales-meeting-preparation": {
+      "id": "sales-meeting-preparation",
+      "preferred": "sales meeting preparation",
+      "aliases": [
+        "sales meeting preparation"
+      ],
+      "count": 1
+    },
+    "value-propositions": {
+      "id": "value-propositions",
+      "preferred": "value propositions",
+      "aliases": [
+        "value propositions"
+      ],
+      "count": 1
+    },
+    "discovery-questions": {
+      "id": "discovery-questions",
+      "preferred": "discovery questions",
+      "aliases": [
+        "discovery questions"
+      ],
+      "count": 1
+    },
+    "n-e-w-s-model": {
+      "id": "n-e-w-s-model",
+      "preferred": "N.E.W.S.™ model",
+      "aliases": [
+        "N.E.W.S.™ model"
+      ],
+      "count": 1
+    },
+    "cultural-change": {
+      "id": "cultural-change",
+      "preferred": "cultural change",
+      "aliases": [
+        "cultural change"
+      ],
+      "count": 1
+    },
+    "management-kick-off": {
+      "id": "management-kick-off",
+      "preferred": "management kick-off",
+      "aliases": [
+        "management kick-off"
+      ],
+      "count": 1
+    },
+    "insight-interviews": {
+      "id": "insight-interviews",
+      "preferred": "insight interviews",
+      "aliases": [
+        "insight interviews"
+      ],
+      "count": 1
+    },
+    "growth-planning": {
+      "id": "growth-planning",
+      "preferred": "growth planning",
+      "aliases": [
+        "growth planning"
+      ],
+      "count": 1
+    },
+    "customer-review": {
+      "id": "customer-review",
+      "preferred": "customer review",
+      "aliases": [
+        "customer review"
+      ],
+      "count": 1
+    },
+    "executive-strategic-negotiations": {
+      "id": "executive-strategic-negotiations",
+      "preferred": "executive strategic negotiations",
+      "aliases": [
+        "executive strategic negotiations"
+      ],
+      "count": 1
+    },
+    "team-alignment": {
+      "id": "team-alignment",
+      "preferred": "team alignment",
+      "aliases": [
+        "team alignment"
+      ],
+      "count": 1
+    },
+    "organisational-alignment": {
+      "id": "organisational-alignment",
+      "preferred": "organisational alignment",
+      "aliases": [
+        "organisational alignment"
+      ],
+      "count": 1
+    },
+    "career-roadmap": {
+      "id": "career-roadmap",
+      "preferred": "career roadmap",
+      "aliases": [
+        "career roadmap"
       ],
       "count": 1
     }

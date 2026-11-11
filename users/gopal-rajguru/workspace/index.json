@@ -99,6 +99,131 @@
       "path": "youtube/video/2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-aDxJHoC4UJw.md",
       "sha256": "570907e4bcc1ee8f836d19dd371b64865d70af4723d137645cd7a42d744455ca",
       "basis": "list"
+    },
+    "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b": {
+      "path": "youtube/video/2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfNxHJ6KM5I.md",
+      "sha256": "e257868f534e996a0742fdb07a0fc583dcdfeba3567fbf3d167f2934614a0dfd",
+      "basis": "sections"
+    },
+    "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19": {
+      "path": "youtube/video/2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-tv7ct1vJCJg.md",
+      "sha256": "3853b32bd46d9fd7940c71315da0c1a537dc2cd987033d8d274b128ddcf77b3f",
+      "basis": "sections"
+    },
+    "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e": {
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "sha256": "bf4dc3a5c8a631cfeda88136df23f023ac1eb3ac6907dea59c377832df08a889",
+      "basis": "sections"
+    },
+    "website-ig-page-2026-11-11-ai-powered-human-led-md-d68876c756": {
+      "path": "website/ig-page-2026-11-11-ai-powered-human-led.md",
+      "sha256": "f3d4f69ac3488b7aaf958296fd863a24ceacefd561806bc161d5c316ac700ee5",
+      "basis": "whole"
+    },
+    "website-ig-blog-2012-09-01-using-our-resources-optimally-md-f10d1f7ea3": {
+      "path": "website/ig-blog-2012-09-01-using-our-resources-optimally.md",
+      "sha256": "87802c839fe2c0c3b2c063734518b398c5614eb1bf6189ff1d9e14cf5980472a",
+      "basis": "whole"
+    },
+    "website-ig-blog-2012-08-31-selling-is-an-essential-skill-for-entrepreneurs-and-everyo-fea1c4ac05": {
+      "path": "website/ig-blog-2012-08-31-selling-is-an-essential-skill-for-entrepreneurs--and-everyone-else.md",
+      "sha256": "02efcd1267513b127e0db37eb1c5614cfc5183246e8c8b4ae74ae963287e56ae",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-en-home-2026-md-aa41d536b6": {
+      "path": "website/ig-page-2026-11-11-en-home-2026.md",
+      "sha256": "c17110a14dc32f1348ef6780d0767ff962beaadab75b9f350c5f54f0b3d96306",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-our-team-md-459baaee6c": {
+      "path": "website/ig-page-2026-11-11-our-team.md",
+      "sha256": "a16629f77800c7d6250bac9c6953db481770e1e2c6cabc294b80e65bcdfc6411",
+      "basis": "whole"
+    },
+    "website-ig-blog-2020-05-04-selling-in-challenging-times-md-467187dfd4": {
+      "path": "website/ig-blog-2020-05-04-selling-in-challenging-times.md",
+      "sha256": "24a2e2029491cbb00f13918f98689bf1d004710c5260f2b9998b86236f949bd8",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-business-simulations-md-8de261b56a": {
+      "path": "website/ig-page-2026-11-11-business-simulations.md",
+      "sha256": "815f4cc748b0132c82f853ea57eff3528ee872b97bd2f52b8cde1fd2facf2d13",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-services-channel-management-md-44f72276f6": {
+      "path": "website/ig-page-2026-11-11-services-channel-management.md",
+      "sha256": "9444e01d046037c72656758dee38b6f3ada2197bb1ddcadc14c9a24391a8a441",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-services-lighthouse-leadership-md-47b984b400": {
+      "path": "website/ig-page-2026-11-11-services-lighthouse-leadership.md",
+      "sha256": "2deaf41e04538040ac9d157344abc9fde8eaa5cc7bc68a8830c09935c6562e5a",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1": {
+      "path": "website/ig-page-2026-11-11-services-develop-new-business.md",
+      "sha256": "06264755ee6814826501b0044d2e94791a3630eb8dd1cfe126492cb75b574a92",
+      "basis": "list"
+    },
+    "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4": {
+      "path": "website/ig-page-2026-11-11-services-negotiation-difficult-people.md",
+      "sha256": "4018cf8b4112eabe99cf5f5cfc04228e41cb97b692ea6d3ab2d9e5b90d768662",
+      "basis": "list"
+    },
+    "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98": {
+      "path": "website/ig-page-2026-11-11-services-negotiation-purchasing-professionals.md",
+      "sha256": "db05472b2f792deca86ad45dccbee37a6efc8fce37328277503ee0a5f52857fe",
+      "basis": "list"
+    },
+    "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9": {
+      "path": "website/ig-page-2026-11-11-services-negotiation-sales-professionals.md",
+      "sha256": "e4e1b822bd2bdc69900adf9293b431a05383413bd630c5ce8488ff7b429bcfa0",
+      "basis": "list"
+    },
+    "website-ig-page-2026-11-11-services-sales-leadership-coaching-md-c321ba25f7": {
+      "path": "website/ig-page-2026-11-11-services-sales-leadership-coaching.md",
+      "sha256": "8776bc2fb5ea196805301d500e7f3b78d563de5fe11884c2f3b8f9c21e868294",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349": {
+      "path": "website/ig-page-2026-11-11-services-social-selling.md",
+      "sha256": "b9431c9da7448ff1ae6e3314da0db34804ab7cc45f2fbed0948b8255a798d195",
+      "basis": "list"
+    },
+    "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397": {
+      "path": "website/ig-page-2026-11-11-services-win-more-opportunities.md",
+      "sha256": "b3732320f98770c444c157b09b3aadf33147fdec84ac13f9d00d09cf13598ed4",
+      "basis": "list"
+    },
+    "website-ig-page-2026-11-11-welcome-to-innovation-growth2-md-a2b5b43bc2": {
+      "path": "website/ig-page-2026-11-11-welcome-to-innovation-growth2.md",
+      "sha256": "f46eed7e57be9c6bf3a7a02978c65585dc8f73008b7ac500535f1784e3437697",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49": {
+      "path": "website/ig-page-2026-11-11-services-sell-customer-value.md",
+      "sha256": "2a743951353b16ce30ed4cd8d7103531e7392a62e6d7bfd7f6c636d9348458aa",
+      "basis": "list"
+    },
+    "website-ig-page-2026-11-11-services-cultural-change-md-751734d691": {
+      "path": "website/ig-page-2026-11-11-services-cultural-change.md",
+      "sha256": "113184178e142aad098e76a17ece5adc9526614d088bddbe92090b4db206c93d",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3": {
+      "path": "website/ig-page-2026-11-11-services-develop-key-accounts.md",
+      "sha256": "6d4712beef5bd8a130ec0dea945c70023816dc9b850dacec22c44f70cc7cf68f",
+      "basis": "list"
+    },
+    "website-ig-page-2026-11-11-services-negotiation-top-executives-md-e722061e31": {
+      "path": "website/ig-page-2026-11-11-services-negotiation-top-executives.md",
+      "sha256": "8506f53b49edcd2de2c7869c0da8364db97df2e4ef520a719be4af485a74863d",
+      "basis": "whole"
+    },
+    "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959": {
+      "path": "website/ig-page-2026-11-11-services-organisation-team-alignment.md",
+      "sha256": "765fb57a668572a1eef67d864e09638e77ee23ef7145f5bf39681f74d11d9574",
+      "basis": "list"
     }
   },
   "items": [
@@ -618,6 +743,1484 @@
       "source_id": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2",
       "path": "youtube/video/2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-aDxJHoC4UJw.md",
       "prev": "youtube-video-2017-03-06-world-class-negotiator-how-to-be-a-great-negotiator-top-3-ti-6d168475c2:0018-0018",
+      "next": null
+    },
+    {
+      "title": "Digital Technology and Global Awareness of Differences",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "digital equalization"
+        },
+        {
+          "facet": "activity",
+          "label": "executive interview"
+        }
+      ],
+      "span": {
+        "start_line": 17,
+        "end_line": 28
+      },
+      "quote": "This video is brought to you by the No Fear Community Gopal RajGuru is a managing partner at Innovate and Grow Group Hes also a consultant a sales performance coach an educator and a facilitator Welcome Could you tell us a bit what is it exactly that you do and a bit about your background Okay lets talk about my background I am I mean we were talking about diversity I guess I embody it in many ways because I had through no real work of my own but I had the experience of being born and raised in ",
+      "item_id": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b:0017-0028",
+      "source_id": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b",
+      "path": "youtube/video/2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfNxHJ6KM5I.md",
+      "prev": null,
+      "next": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b:0029-0040"
+    },
+    {
+      "title": "Adapting Corporate Leadership and Education to Modern Communication",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "leadership development"
+        },
+        {
+          "facet": "activity",
+          "label": "executive interview"
+        }
+      ],
+      "span": {
+        "start_line": 29,
+        "end_line": 40
+      },
+      "quote": "Not as quickly as I think it should because I think much of the corporate leadership that you see today are the same ones that were in place 5 years ago Okay in the case of PECO thats changed specifically but in many of these organizations that I work with today particularly in the industrial sectors and consulting businesses and things like that the leadership does recognize the need to integrate this widening playing field if you will I wouldnt say its a leveling one but its a widening playing",
+      "item_id": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b:0029-0040",
+      "source_id": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b",
+      "path": "youtube/video/2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfNxHJ6KM5I.md",
+      "prev": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b:0017-0028",
+      "next": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b:0041-0047"
+    },
+    {
+      "title": "Unifying Multicultural Teams Around Common Purpose in the Digital Age",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cross-cultural leadership"
+        },
+        {
+          "facet": "activity",
+          "label": "executive interview"
+        }
+      ],
+      "span": {
+        "start_line": 41,
+        "end_line": 47
+      },
+      "quote": "Yes I believe that cultural differences although they will never go away and I hope they dont because its part of what makes the world rich in terms of the human interaction in terms of business environment I do think that they are to some extent being overtaken by the need for greater communication and that the technology has enabled communication in a way that some of the cultural differences Are in fact less significant Yes absolutely I mean I led a team of people that spanned 7 different off",
+      "item_id": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b:0041-0047",
+      "source_id": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b",
+      "path": "youtube/video/2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfNxHJ6KM5I.md",
+      "prev": "youtube-video-2011-07-09-executive-interview-gopal-rajguru-innovate-grow-group-wfnxhj-ad1a7fa44b:0029-0040",
+      "next": null
+    },
+    {
+      "title": "Introduction of Gopal RajGuru and Future Direction",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "executive leadership and company vision"
+        },
+        {
+          "facet": "activity",
+          "label": "interview"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 29
+      },
+      "quote": "Hello hello good morning This is an interview with Gopal Rajguru Its the president the new Bacula Systems CEO We are very thrilled with his participation in our podcast and we also have Jorge How do you whats the best way to spell your name Jorge the the last name Well thank you for asking Heitor I would say its a difficult sound normally for non Spanish speakers because in Spain you would say Gea So its a but usually Im perfectly okay with Gea because this is how most people is saying it these ",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0018-0029",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": null,
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0030-0041"
+    },
+    {
+      "title": "Bacula Systems Enterprise Mission and Open-Core Model",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "company mission and enterprise open core"
+        }
+      ],
+      "span": {
+        "start_line": 30,
+        "end_line": 41
+      },
+      "quote": "Thats wonderful wonderful very exciting news So initially I believe Bacula Systems mission was to be the leader right in the backup market And I saw in its website that it just changed Whats your view now Do you plan to change that mission How do you want to how do you plan to pursue that mission Well I hadnt seen a change in the vision so maybe youre one step ahead of me So whats the new vision exactly Let me let me I have to I have to look it up here Im going to see what the what the new visio",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0030-0041",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0018-0029",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0042-0053"
+    },
+    {
+      "title": "Developing a Role-Based User Experience and Modern Interface",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "role-based user interface"
+        }
+      ],
+      "span": {
+        "start_line": 42,
+        "end_line": 53
+      },
+      "quote": "Okay thats good to hear When compared for example with Amazon and other companies do you think that user experience could be added to the Bacula Systems mission Oh very much so very much so And its one of the things on which were working right now Heitor actually is to create I mean you know that we have a graphical user interface in the form of bWeb And bWeb has been there from well I wouldnt say the start but certainly from quite a few years ago And it has been the graphical user interface tha",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0042-0053",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0030-0041",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0054-0065"
+    },
+    {
+      "title": "Security Capabilities and Iconic Enterprise Customers",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cybersecurity and enterprise use cases"
+        }
+      ],
+      "span": {
+        "start_line": 54,
+        "end_line": 65
+      },
+      "quote": "Yeah its the epicenter right My users they are very excited and they are anxious to test that new interface Is there a release an estimated release date for that I think at this point its a little too early to actually talk about a release date We have a preliminary version of this a very early version of this actually available in the online demo that you you can download today So that if you go to the Bacula Systems website to baculasystemscom by try youll find there the link to download actua",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0054-0065",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0042-0053",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0066-0077"
+    },
+    {
+      "title": "Growth Strategies, Hosted Demos, and Strategic Storage Partnerships",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "partner ecosystem and hosted software trial"
+        }
+      ],
+      "span": {
+        "start_line": 66,
+        "end_line": 77
+      },
+      "quote": "Yes Nice Wonderful Yeah I had no idea about the Linux Magazine and I had no idea about PayPal Indeed its a very big company See even you learned something today Heitor Im always learning Im always trying to learn Exactly Exactly So uh so this is this is more for Gopal What would you be now that you are a few months in Bacula Systems what will be the the strategies for the next level for Bacula Systems I know Bacula Systems is not as big as another competitors as as Veeam as Veritas but we are gr",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0066-0077",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0054-0065",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0078-0089"
+    },
+    {
+      "title": "Broadcom Acquisition Impact and Multi-Hypervisor Support",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "hypervisor migration and virtualization plugins"
+        },
+        {
+          "facet": "situation",
+          "label": "market migration following Broadcom VMware acquisition"
+        }
+      ],
+      "span": {
+        "start_line": 78,
+        "end_line": 89
+      },
+      "quote": "Yeah thats very good Alliances are very desired Yeah very important you know for any company growth better performance certified solutions Yes Gopal this year we had a very big event which was the Broadcom the VMware acquisition by Broadcom Yes It changed the market Many of our customers are looking into Virtualization solutions or maybe sometimes alternative solutions And we we know that Bacula its very good on that aspect because Bacula has integrations you know with Proxmox with KVM with a lo",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0078-0089",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0066-0077",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0090-0101"
+    },
+    {
+      "title": "Adoption of Proxmox and Upcoming B Center Interface",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Proxmox integration and management interface"
+        }
+      ],
+      "span": {
+        "start_line": 90,
+        "end_line": 101
+      },
+      "quote": "Exactly Heitor I dont know Have you seen anything different than that Have you seen theres one of those platforms thats being favored more than all the others Well in Latin America we are having many customers go into Proxmox Its a solution from Austria and it seems to be very reliable We we have that in our laboratories for many years right now and thats the main partnership that we are having here with our integrators And and we are very excited with the pipeline It seems to be very big when w",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0090-0101",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0078-0089",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0102-0113"
+    },
+    {
+      "title": "High-Performance Computing Capabilities and Free Enterprise Plans",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "HPC backup architecture and free enterprise edition strategy"
+        }
+      ],
+      "span": {
+        "start_line": 102,
+        "end_line": 113
+      },
+      "quote": "Honestly I dont think I mean what is missing is to release of course when we have it finished and the people see it in action Because if you come from Bacula you will be surprised from how its doing the things how easy it is to configure clients backup jobs restore things and everything But if you dont come from Bacula you will find a very easy platform to use which historically because of the reasons I have exposed before for some people it was like a not the first feeling right So I think its ",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0102-0113",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0090-0101",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0114-0125"
+    },
+    {
+      "title": "Community Tools and Upcoming Cloud Database Plugins",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Bacula Installation Manager and cloud plugins"
+        }
+      ],
+      "span": {
+        "start_line": 114,
+        "end_line": 125
+      },
+      "quote": "Speaking of the community Bacula Edition do you have the roadmap I mean maybe a plugin that will be made available for the community edition an interface Do you have any plans for that There is one thing that I think we can share because for the community the plugins of course need a study and we need to think every time we release one or what can be released and what not But there is the Bacula Installation Manager which is a tool that is going to simplify as well as we have commented for with ",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0114-0125",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0102-0113",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0126-0137"
+    },
+    {
+      "title": "Closing Remarks and Acknowledgments to the Community",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "community appreciation and concluding remarks"
+        },
+        {
+          "facet": "activity",
+          "label": "interview"
+        }
+      ],
+      "span": {
+        "start_line": 126,
+        "end_line": 137
+      },
+      "quote": "Thats great thats great Jorge So any final words Gopal Jorge It was an amazing interview Thanks so much for for being able to join This space is yours you know and so anytime you want to make announcements regarding Bacula Systems feel free to just schedule With us So what do you have to say to your customers and prospects as final words Okay so final words Okay 3 final words One Heitor thank you for inviting us Its been a pleasure to be here and to talk to both you and to the to the users that ",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0126-0137",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0114-0125",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0138-0149"
+    },
+    {
+      "title": "Live Post-Interview Discussion and Oracle Cloud Marketplace Launch",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Oracle Cloud Marketplace appliance integration"
+        },
+        {
+          "facet": "activity",
+          "label": "live Q&A session"
+        }
+      ],
+      "span": {
+        "start_line": 138,
+        "end_line": 149
+      },
+      "quote": "Sure we can Sure we can Thank you Hector It was it was it was it was very very kind of you to invite us and thank you for the opportunity Thank you so much Bye bye Thank you Bye bye Boa noite pessoal Agora sim boa noite a todos Estamos aqui acompanhando né os comentários Essa entrevista pessoal ela foi pré gravada tá Por conta da questão do fuso Inclusive foi antes da questão do CrowdStrike etc por isso não foi abordado mas a gente conversou aqui sobre temas muito interessantes né Aqui como semp",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0138-0149",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0126-0137",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0150-0161"
+    },
+    {
+      "title": "CloudStack Integration Challenges and Image-Level Hypervisor Backups",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "CloudStack compatibility and clientless hypervisor backup"
+        }
+      ],
+      "span": {
+        "start_line": 150,
+        "end_line": 161
+      },
+      "quote": "Não eu tinha até respondido ali né Aproveitar ali porque às vezes tem algumas pessoas que não podem ficar até o final né da live Então a gente já foi já fui tentando respondendo alguns aí E aí você pode complementar com mais detalhes Heitor Isso perfeito né E aí no caso lá do Marketplace a métrica é por hora tá Então muito fácil né Até a tarifação muito simples né Vai junto com a fatura da Oracle Então você pode montar um sistema lá com gerenciador com storage de daemon gravar na nuvem Oracle né",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0150-0161",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0138-0149",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0162-0173"
+    },
+    {
+      "title": "OpenNebula Overview and Audience Giveaway Winners",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "OpenNebula compatibility and community giveaway"
+        },
+        {
+          "facet": "activity",
+          "label": "live Q&A session"
+        }
+      ],
+      "span": {
+        "start_line": 162,
+        "end_line": 173
+      },
+      "quote": "eu vou botar na fogueira de novo Escolhe as pessoas aí Vou estar botando meu WhatsApp aqui para as pessoas mandarem Vocês mandam nome completo CPF endereço para a gente tá mandando as canecas Aí você fala se quer a caneca do Bacula do Proxmox ou do Postgres Pro Ó eu achei bacana né até a pergunta aqui Eu não sei se já ganhou né em outras Aí qualquer coisa você fala aí mas o Wellington Pinto E ele que foi o primeiro que fez a pergunta né a respeito lá do Bacula Enterprise para Oracle Cloud né e o",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0162-0173",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0150-0161",
+      "next": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0174-0176"
+    },
+    {
+      "title": "Podcast Sign-Off and Goodnight",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "podcast outro"
+        }
+      ],
+      "span": {
+        "start_line": 174,
+        "end_line": 176
+      },
+      "quote": "Isso aí boa noite a todos pessoal Com Deus",
+      "item_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0174-0176",
+      "source_id": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e",
+      "path": "youtube/video/2024-07-24-pod_bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-kEB4kyOAI-M.md",
+      "prev": "youtube-video-2024-07-24-pod-bacula-ep-04-entrevista-com-gopal-rajguru-presidente-bac-ffa0eceb9e:0162-0173",
+      "next": null
+    },
+    {
+      "title": "Maintaining Personal Relationships and Usability, Sustainability, and Pragmatism in Sales During Turbulence",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "client relationship management"
+        },
+        {
+          "facet": "situation",
+          "label": "turbulent business conditions"
+        },
+        {
+          "facet": "activity",
+          "label": "sales consulting"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "As part of Oration Speakers Influencers and Thought Leaders Series today I would like to introduce you to Mr Gopal RajGuru Gopal is an expert keynote speaker on sales leadership and negotiation and he is the Managing Director of Innovate Grow Thank you for taking the time to speak with me today Can you tell me a little bit about yourself and what you do Yes thank you Rachel Its a real pleasure to be with you And just a little bit of my background as you can probably guess from the name Gopal Gop",
+      "item_id": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19:0016-0027",
+      "source_id": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19",
+      "path": "youtube/video/2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-tv7ct1vJCJg.md",
+      "prev": null,
+      "next": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19:0028-0039"
+    },
+    {
+      "title": "Actionable Leadership and People-Centric Negotiation Methodologies",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "leadership communication"
+        },
+        {
+          "facet": "topic",
+          "label": "people-centric negotiation"
+        },
+        {
+          "facet": "activity",
+          "label": "keynote speaking"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "So you also as you mentioned Gopal you also focus on leadership So why is this so critical at the moment I know obviously And why should somebody engage you to talk about it Well I think there are a couple of reasons First I do truly agree with you that theres never been a more important time for leaders to actually demonstrate their presence in peoples lives I mean when youre separated by physical distance I think it actually creates more of a need for communication And many leaders I think don",
+      "item_id": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19:0028-0039",
+      "source_id": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19",
+      "path": "youtube/video/2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-tv7ct1vJCJg.md",
+      "prev": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19:0016-0027",
+      "next": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19:0040-0048"
+    },
+    {
+      "title": "Proactive Engagement and Decisive Leadership in Crisis",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "crisis leadership"
+        },
+        {
+          "facet": "situation",
+          "label": "uncertainty and market disruption"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 48
+      },
+      "quote": "Its been a pleasure And I look forward to working with you in the future Indeed Thank you very much And look best of luck to you as well because both our businesses are affected by the current situation You know Id like to encourage everyone to again remember that your customers are still your customers your employees are still your employees So dont hole yourself up and believe that somehow just waiting a few months everything will get better Make it better now Thank you Make it better now Enga",
+      "item_id": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19:0040-0048",
+      "source_id": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19",
+      "path": "youtube/video/2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-tv7ct1vJCJg.md",
+      "prev": "youtube-video-2020-04-21-gopal-rajguru-expert-keynote-speaker-on-sales-leadership-and-356bb49f19:0028-0039",
+      "next": null
+    },
+    {
+      "title": "AI-Powered. Human-Led. Sales Transformation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI sales enablement"
+        },
+        {
+          "facet": "activity",
+          "label": "B2B sales strategy"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 108
+      },
+      "quote": "AI-Powered. Human-Led. | innovate+grow Authorise a focused AI Sales Agent pilot. Select three customer-value workflows, nominate an accountable leader and define evidence of success before scaling. Human-Led. AI-Powered. Analyze Your Potential Better preparation. Stronger differentiation. More confident customer decisions. Watch the video 1:31 67% of B2B buyers prefer a rep-free experience Gartner, March 2026 (646 B2B buyers) 45% used AI during a recent purchase Gartner, March 2026 74% of buying",
+      "item_id": "website-ig-page-2026-11-11-ai-powered-human-led-md-d68876c756:0009-0108",
+      "source_id": "website-ig-page-2026-11-11-ai-powered-human-led-md-d68876c756",
+      "path": "website/ig-page-2026-11-11-ai-powered-human-led.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Leadership - Using our resources optimally",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "managing toxic high performers"
+        },
+        {
+          "facet": "situation",
+          "label": "top performer mistreating team members"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 40
+      },
+      "quote": "Leadership - Using our resources optimally Leadership Leadership - Using our resources optimally I recently had the great pleasure of visiting my old friend Birket Foster (www.mbfoster.com) in Ottawa.. Gopal RajGuruSeptember 1, 2012 · 5 min read Contents I recently had the great pleasure of visiting my old friend Birket Foster (www.mbfoster.com) in Ottawa. He is a wonderful host for this amazing city, and it feels like he missed out on a career as its ambassador! The timing of our visit coincide",
+      "item_id": "website-ig-blog-2012-09-01-using-our-resources-optimally-md-f10d1f7ea3:0009-0040",
+      "source_id": "website-ig-blog-2012-09-01-using-our-resources-optimally-md-f10d1f7ea3",
+      "path": "website/ig-blog-2012-09-01-using-our-resources-optimally.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Selling is an essential skill for entrepreneurs... and everyone else",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "selling skills"
+        },
+        {
+          "facet": "situation",
+          "label": "entrepreneurial business development"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 45
+      },
+      "quote": "Selling is an essential skill for entrepreneurs... and everyone else Sales Selling is an essential skill for entrepreneurs... and everyone else I had the opportunity recently to re-connect with Ago Cluytens, a terrific entrepreneur and participant in the Management of Technology or MoT ... Gopal RajGuruSeptember 1, 2012 · 5 min read Contents I had the opportunity recently to re-connect with Ago Cluytens, a terrific entrepreneur and participant in the Management of Technology or MoT program at th",
+      "item_id": "website-ig-blog-2012-08-31-selling-is-an-essential-skill-for-entrepreneurs-and-everyo-fea1c4ac05:0009-0045",
+      "source_id": "website-ig-blog-2012-08-31-selling-is-an-essential-skill-for-entrepreneurs-and-everyo-fea1c4ac05",
+      "path": "website/ig-blog-2012-08-31-selling-is-an-essential-skill-for-entrepreneurs--and-everyone-else.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Win more business, build stronger teams",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "commercial growth & sales capability"
+        },
+        {
+          "facet": "activity",
+          "label": "sales assessment"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 75
+      },
+      "quote": "innovate+grow | Win more business, build stronger teams Win more business, Build stronger teams. Strengthen how your organisation sells, negotiates and leads. We bring together tailored development, practical AI applications and implementation support around your commercial priorities. Discuss your priorities Tell us what you want to improve. Together, we’ll identify where to start. Quick self-check What’s holding your growth back? Select everything that sounds familiar – we’ll show you where to",
+      "item_id": "website-ig-page-2026-11-11-en-home-2026-md-aa41d536b6:0009-0075",
+      "source_id": "website-ig-page-2026-11-11-en-home-2026-md-aa41d536b6",
+      "path": "website/ig-page-2026-11-11-en-home-2026.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Team and Transformation Solutions at innovate+grow",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "marketing and sales alignment"
+        },
+        {
+          "facet": "topic",
+          "label": "B2B sales transformation"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 101
+      },
+      "quote": "Team | innovate+grow Who we are The people behind innovate+grow We enable our clients to grow their business profitably by implementing marketing+sales solutions that provide them with a tangible return on investment and sustainable performance improvement. Meet the team What we believe Marketing, sales and service working as one We strongly believe that in today’s rapidly changing (VUCA) world an improved and effective collaboration between marketing, sales, and customer service is essential to",
+      "item_id": "website-ig-page-2026-11-11-our-team-md-459baaee6c:0009-0101",
+      "source_id": "website-ig-page-2026-11-11-our-team-md-459baaee6c",
+      "path": "website/ig-page-2026-11-11-our-team.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Selling in Challenging Times",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "digital sales framework"
+        },
+        {
+          "facet": "situation",
+          "label": "coronavirus crisis"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 70
+      },
+      "quote": "Selling in Challenging Times Sales Selling in Challenging Times May you live in interesting times the saying goes. Today, whether we like it or not, we do. One could almost say we live in surreal times Gopal RajGuruMay 4, 2020 · 4 min read Contents A market study by the innovate+grow group May you live in interesting times the saying goes. Today, whether we like it or not, we do. One could almost say we live in surreal times – the bustling streets of major cities are like empty movie sets except",
+      "item_id": "website-ig-blog-2020-05-04-selling-in-challenging-times-md-467187dfd4:0009-0070",
+      "source_id": "website-ig-blog-2020-05-04-selling-in-challenging-times-md-467187dfd4",
+      "path": "website/ig-blog-2020-05-04-selling-in-challenging-times.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Business Simulations for Executive Training",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "business simulations"
+        },
+        {
+          "facet": "activity",
+          "label": "executive training"
+        }
+      ],
+      "span": {
+        "start_line": 79,
+        "end_line": 98
+      },
+      "quote": "Business simulations One of the biggest challenges in executive education is bridging the gap between theory and doing. Business simulations can be an effective solution as they are able to bring concepts to life in a risk-free environment. The corporate world doesn’t forgive mistakes while professionals learn the most when they are given a chance to practice skills. That is exactly why every aspect of business simulations is tailored to the challenges professionals face every day. The only diff",
+      "item_id": "website-ig-page-2026-11-11-business-simulations-md-8de261b56a:0079-0098",
+      "source_id": "website-ig-page-2026-11-11-business-simulations-md-8de261b56a",
+      "path": "website/ig-page-2026-11-11-business-simulations.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Channel Management & Partner Sales Training",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "channel management"
+        },
+        {
+          "facet": "topic",
+          "label": "partner sales training"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 77
+      },
+      "quote": "Channel Management & Partner Sales Training | innovate+grow Channel Management A channel strategy that works hand-in-hand with direct sales – to broaden market presence, minimise conflicts and maximise customer intimacy. Custom-built programme Enablement workshops Coaching + monitoring Where channel sales lose momentum The partners you have Opportunistic development instead of the partners you need and want. Lack of alignment Uncoordinated, contradictory actions confuse and alienate customers. C",
+      "item_id": "website-ig-page-2026-11-11-services-channel-management-md-44f72276f6:0009-0077",
+      "source_id": "website-ig-page-2026-11-11-services-channel-management-md-44f72276f6",
+      "path": "website/ig-page-2026-11-11-services-channel-management.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Lighthouse Leadership Programme",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "leadership development"
+        },
+        {
+          "facet": "topic",
+          "label": "sales leadership coaching"
+        },
+        {
+          "facet": "activity",
+          "label": "leadership training"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 35
+      },
+      "quote": "--- title: \"Lighthouse Leadership Programme\" url: \"https://www.innovateandgrow.com/services/lighthouse-leadership\" date: \"2026-11-11\" source: website author: \"innovate+grow (company page)\" --- Lighthouse Leadership Programme | innovate+grow Leadership programme Lighthouse Leadership A leader is someone people choose to follow. Lighthouse Leadership focuses on the simple – but not simplistic – skills that help your people achieve greatness. Pragmatic skills For leaders + teams The programme What ",
+      "item_id": "website-ig-page-2026-11-11-services-lighthouse-leadership-md-47b984b400:0001-0035",
+      "source_id": "website-ig-page-2026-11-11-services-lighthouse-leadership-md-47b984b400",
+      "path": "website/ig-page-2026-11-11-services-lighthouse-leadership.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Preparation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales pipeline training"
+        },
+        {
+          "facet": "activity",
+          "label": "tailored concept preparation"
+        }
+      ],
+      "span": {
+        "start_line": 39,
+        "end_line": 44
+      },
+      "quote": "Preparation Tailored concept Workshop concepts and examples are tailored to your company’s specific business.",
+      "item_id": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1:0039-0044",
+      "source_id": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1",
+      "path": "website/ig-page-2026-11-11-services-develop-new-business.md",
+      "prev": null,
+      "next": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1:0045-0050"
+    },
+    {
+      "title": "Workshop · 2 days",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "target account prospecting"
+        },
+        {
+          "facet": "activity",
+          "label": "sales workshop"
+        }
+      ],
+      "span": {
+        "start_line": 45,
+        "end_line": 50
+      },
+      "quote": "Workshop · 2 days Applied to real target accounts Your salespeople apply the concepts to selected target accounts – not to case studies.",
+      "item_id": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1:0045-0050",
+      "source_id": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1",
+      "path": "website/ig-page-2026-11-11-services-develop-new-business.md",
+      "prev": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1:0039-0044",
+      "next": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1:0051-0056"
+    },
+    {
+      "title": "Coaching",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales implementation"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 51,
+        "end_line": 56
+      },
+      "quote": "Coaching Implementation support Ongoing coaching and implementation support ensure a fast and sustained impact on business results.",
+      "item_id": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1:0051-0056",
+      "source_id": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1",
+      "path": "website/ig-page-2026-11-11-services-develop-new-business.md",
+      "prev": "website-ig-page-2026-11-11-services-develop-new-business-md-285d6828b1:0045-0050",
+      "next": null
+    },
+    {
+      "title": "Emotions",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "emotions in decision making"
+        },
+        {
+          "facet": "situation",
+          "label": "difficult negotiations"
+        }
+      ],
+      "span": {
+        "start_line": 43,
+        "end_line": 48
+      },
+      "quote": "Emotions How emotions affect decisions Yours and the other party’s – even when carried over from unrelated events.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0043-0048",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4",
+      "path": "website/ig-page-2026-11-11-services-negotiation-difficult-people.md",
+      "prev": null,
+      "next": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0049-0054"
+    },
+    {
+      "title": "Styles",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "negotiation styles"
+        }
+      ],
+      "span": {
+        "start_line": 49,
+        "end_line": 54
+      },
+      "quote": "Styles Negotiation styles Understand both styles and their impact on flow and results.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0049-0054",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4",
+      "path": "website/ig-page-2026-11-11-services-negotiation-difficult-people.md",
+      "prev": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0043-0048",
+      "next": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0055-0060"
+    },
+    {
+      "title": "Biases",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cognitive biases in negotiation"
+        }
+      ],
+      "span": {
+        "start_line": 55,
+        "end_line": 60
+      },
+      "quote": "Biases Reduce cognitive biases Limit the effects of overconfidence and egocentrism on your thinking.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0055-0060",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4",
+      "path": "website/ig-page-2026-11-11-services-negotiation-difficult-people.md",
+      "prev": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0049-0054",
+      "next": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0061-0066"
+    },
+    {
+      "title": "Rapport",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "building rapport and goodwill"
+        }
+      ],
+      "span": {
+        "start_line": 61,
+        "end_line": 66
+      },
+      "quote": "Rapport Use positive emotions Build rapport, goodwill and mutual respect.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0061-0066",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4",
+      "path": "website/ig-page-2026-11-11-services-negotiation-difficult-people.md",
+      "prev": "website-ig-page-2026-11-11-services-negotiation-difficult-people-md-474ed7b5c4:0055-0060",
+      "next": null
+    },
+    {
+      "title": "Process",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "APEC+R negotiation process"
+        },
+        {
+          "facet": "activity",
+          "label": "negotiation training"
+        }
+      ],
+      "span": {
+        "start_line": 43,
+        "end_line": 48
+      },
+      "quote": "Process APEC+R A structured process for analysis, preparation, execution, closing and review.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0043-0048",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98",
+      "path": "website/ig-page-2026-11-11-services-negotiation-purchasing-professionals.md",
+      "prev": null,
+      "next": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0049-0054"
+    },
+    {
+      "title": "Tools",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "negotiation tools"
+        },
+        {
+          "facet": "activity",
+          "label": "negotiation training"
+        }
+      ],
+      "span": {
+        "start_line": 49,
+        "end_line": 54
+      },
+      "quote": "Tools Adapted to your environment Pragmatic tools, adapted in the workshop, support the process.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0049-0054",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98",
+      "path": "website/ig-page-2026-11-11-services-negotiation-purchasing-professionals.md",
+      "prev": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0043-0048",
+      "next": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0055-0060"
+    },
+    {
+      "title": "Practice",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "video review and feedback"
+        },
+        {
+          "facet": "activity",
+          "label": "negotiation practice"
+        }
+      ],
+      "span": {
+        "start_line": 55,
+        "end_line": 60
+      },
+      "quote": "Practice Video review + feedback Practise in a safe environment with personal and group feedback.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0055-0060",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98",
+      "path": "website/ig-page-2026-11-11-services-negotiation-purchasing-professionals.md",
+      "prev": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0049-0054",
+      "next": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0061-0066"
+    },
+    {
+      "title": "Coaching",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "implementation coaching"
+        },
+        {
+          "facet": "activity",
+          "label": "experiential learning"
+        }
+      ],
+      "span": {
+        "start_line": 61,
+        "end_line": 66
+      },
+      "quote": "Coaching Sustainable change Experiential learning and implementation coaching change behaviour for good.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0061-0066",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98",
+      "path": "website/ig-page-2026-11-11-services-negotiation-purchasing-professionals.md",
+      "prev": "website-ig-page-2026-11-11-services-negotiation-purchasing-professionals-md-b9ea5d1c98:0055-0060",
+      "next": null
+    },
+    {
+      "title": "Analyse",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "buying center analysis"
+        },
+        {
+          "facet": "activity",
+          "label": "negotiation preparation"
+        }
+      ],
+      "span": {
+        "start_line": 43,
+        "end_line": 48
+      },
+      "quote": "Analyse Buying center + interests Systematically analyse the people involved in a negotiation and their interests.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0043-0048",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9",
+      "path": "website/ig-page-2026-11-11-services-negotiation-sales-professionals.md",
+      "prev": null,
+      "next": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0049-0054"
+    },
+    {
+      "title": "Prepare",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "negotiation toolbox"
+        },
+        {
+          "facet": "activity",
+          "label": "negotiation preparation"
+        }
+      ],
+      "span": {
+        "start_line": 49,
+        "end_line": 54
+      },
+      "quote": "Prepare Negotiation toolbox An easy-to-use toolbox to prepare and conduct successful negotiations – even from a weaker position.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0049-0054",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9",
+      "path": "website/ig-page-2026-11-11-services-negotiation-sales-professionals.md",
+      "prev": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0043-0048",
+      "next": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0055-0060"
+    },
+    {
+      "title": "Execute",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "deal execution"
+        },
+        {
+          "facet": "activity",
+          "label": "closing deals"
+        }
+      ],
+      "span": {
+        "start_line": 55,
+        "end_line": 60
+      },
+      "quote": "Execute Keep control A pragmatic, best-practice process helps you stay in control and close value-for-value deals.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0055-0060",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9",
+      "path": "website/ig-page-2026-11-11-services-negotiation-sales-professionals.md",
+      "prev": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0049-0054",
+      "next": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0061-0066"
+    },
+    {
+      "title": "Practice",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "experiential learning"
+        },
+        {
+          "facet": "activity",
+          "label": "negotiation practice"
+        }
+      ],
+      "span": {
+        "start_line": 61,
+        "end_line": 66
+      },
+      "quote": "Practice Experiential learning Transfer knowledge into practice through experiential learning.",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0061-0066",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9",
+      "path": "website/ig-page-2026-11-11-services-negotiation-sales-professionals.md",
+      "prev": "website-ig-page-2026-11-11-services-negotiation-sales-professionals-md-be7c8c79d9:0055-0060",
+      "next": null
+    },
+    {
+      "title": "Sales Leadership & Coaching Programme",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales leadership coaching"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 55
+      },
+      "quote": "--- title: \"Sales Leadership & Coaching Programme\" url: \"https://www.innovateandgrow.com/services/sales-leadership-coaching\" date: \"2026-11-11\" source: website author: \"innovate+grow (company page)\" --- Sales Leadership & Coaching Programme | innovate+grow Sales leadership Sales Leadership + Coaching Leadership coaching is the most critical success factor in sales transformation. Enable your sales leaders to coach their teams more effectively. Hands-on workshops Pit-Stops Peer feedback How the p",
+      "item_id": "website-ig-page-2026-11-11-services-sales-leadership-coaching-md-c321ba25f7:0001-0055",
+      "source_id": "website-ig-page-2026-11-11-services-sales-leadership-coaching-md-c321ba25f7",
+      "path": "website/ig-page-2026-11-11-services-sales-leadership-coaching.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "A cohesive professional profile",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "professional profile"
+        },
+        {
+          "facet": "activity",
+          "label": "social selling training"
+        }
+      ],
+      "span": {
+        "start_line": 39,
+        "end_line": 44
+      },
+      "quote": "Why A cohesive professional profile Why your social media presence matters in today’s customer engagement process.",
+      "item_id": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0039-0044",
+      "source_id": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349",
+      "path": "website/ig-page-2026-11-11-services-social-selling.md",
+      "prev": null,
+      "next": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0045-0050"
+    },
+    {
+      "title": "Create, curate, publish",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "content curation and publishing"
+        },
+        {
+          "facet": "activity",
+          "label": "social selling training"
+        }
+      ],
+      "span": {
+        "start_line": 45,
+        "end_line": 50
+      },
+      "quote": "Presence Create, curate, publish Position yourself as an expert by following a well-established content etiquette.",
+      "item_id": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0045-0050",
+      "source_id": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349",
+      "path": "website/ig-page-2026-11-11-services-social-selling.md",
+      "prev": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0039-0044",
+      "next": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0051-0056"
+    },
+    {
+      "title": "Smarter meeting preparation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "meeting preparation"
+        },
+        {
+          "facet": "activity",
+          "label": "social selling training"
+        }
+      ],
+      "span": {
+        "start_line": 51,
+        "end_line": 56
+      },
+      "quote": "Preparation Smarter meeting preparation Understand people, identify connections and build credibility before the first meeting.",
+      "item_id": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0051-0056",
+      "source_id": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349",
+      "path": "website/ig-page-2026-11-11-services-social-selling.md",
+      "prev": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0045-0050",
+      "next": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0057-0062"
+    },
+    {
+      "title": "Listen and add value",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "relationship building"
+        },
+        {
+          "facet": "activity",
+          "label": "social selling training"
+        }
+      ],
+      "span": {
+        "start_line": 57,
+        "end_line": 62
+      },
+      "quote": "Relationships Listen and add value Follow trends and your contacts’ careers, and keep adding value to their network.",
+      "item_id": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0057-0062",
+      "source_id": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349",
+      "path": "website/ig-page-2026-11-11-services-social-selling.md",
+      "prev": "website-ig-page-2026-11-11-services-social-selling-md-ca5bdde349:0051-0056",
+      "next": null
+    },
+    {
+      "title": "Preparation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales process codification"
+        },
+        {
+          "facet": "activity",
+          "label": "design workshop"
+        }
+      ],
+      "span": {
+        "start_line": 39,
+        "end_line": 44
+      },
+      "quote": "Preparation Design workshop We codify your sales process and tools, create examples and prepare your leaders to coach their teams.",
+      "item_id": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397:0039-0044",
+      "source_id": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397",
+      "path": "website/ig-page-2026-11-11-services-win-more-opportunities.md",
+      "prev": null,
+      "next": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397:0045-0050"
+    },
+    {
+      "title": "Workshop · 2 days",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "must-win deal enablement"
+        },
+        {
+          "facet": "activity",
+          "label": "sales team workshop"
+        }
+      ],
+      "span": {
+        "start_line": 45,
+        "end_line": 50
+      },
+      "quote": "Workshop · 2 days Enablement on must-win deals Sales teams analyse current must-win opportunities, close process gaps and sharpen strategy and action plan.",
+      "item_id": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397:0045-0050",
+      "source_id": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397",
+      "path": "website/ig-page-2026-11-11-services-win-more-opportunities.md",
+      "prev": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397:0039-0044",
+      "next": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397:0051-0056"
+    },
+    {
+      "title": "Implementation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "opportunity reviews"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 51,
+        "end_line": 56
+      },
+      "quote": "Implementation Deal Pit-Stops + coaching Facilitated opportunity reviews and coaching of sales leaders ensure fast, sustained, measurable impact.",
+      "item_id": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397:0051-0056",
+      "source_id": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397",
+      "path": "website/ig-page-2026-11-11-services-win-more-opportunities.md",
+      "prev": "website-ig-page-2026-11-11-services-win-more-opportunities-md-af4ac65397:0045-0050",
+      "next": null
+    },
+    {
+      "title": "Welcome to innovate+grow!",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "business growth and sales consulting"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- title: \"Welcome to innovate+grow!\" url: \"https://www.innovateandgrow.com/en/blog/welcome-to-innovation-growth2\" date: \"2026-11-11\" source: website author: \"innovate+grow (company page)\" --- Welcome to innovate+grow! Services Sales Growth Acceleration Assess Sales Skills Channel Management Develop Key Accounts Sell Customer Value Transform Executive Conversations Negotiation + Dealmaking Sales Professionals Top executives + Business Owners Sourcing + Purchasing Professionals Dealing With Diff",
+      "item_id": "website-ig-page-2026-11-11-welcome-to-innovation-growth2-md-a2b5b43bc2:0001-0100",
+      "source_id": "website-ig-page-2026-11-11-welcome-to-innovation-growth2-md-a2b5b43bc2",
+      "path": "website/ig-page-2026-11-11-welcome-to-innovation-growth2.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Foundation: From features to value",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "value-based selling"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 39,
+        "end_line": 44
+      },
+      "quote": "Foundation From features to value Selling skills that move the conversation from products and functions to the value you deliver.",
+      "item_id": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0039-0044",
+      "source_id": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49",
+      "path": "website/ig-page-2026-11-11-services-sell-customer-value.md",
+      "prev": null,
+      "next": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0045-0050"
+    },
+    {
+      "title": "Method: Structured customer meetings",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales meeting preparation"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 45,
+        "end_line": 50
+      },
+      "quote": "Method Structured customer meetings Target the right people, prepare and conduct more effective first meetings.",
+      "item_id": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0045-0050",
+      "source_id": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49",
+      "path": "website/ig-page-2026-11-11-services-sell-customer-value.md",
+      "prev": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0039-0044",
+      "next": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0051-0056"
+    },
+    {
+      "title": "Tools: Individual value propositions",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "value propositions"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 51,
+        "end_line": 56
+      },
+      "quote": "Tools Individual value propositions Formulas and tools to articulate compelling value for the specific needs of each person.",
+      "item_id": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0051-0056",
+      "source_id": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49",
+      "path": "website/ig-page-2026-11-11-services-sell-customer-value.md",
+      "prev": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0045-0050",
+      "next": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0057-0062"
+    },
+    {
+      "title": "Skills: Better questions",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "discovery questions"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 57,
+        "end_line": 62
+      },
+      "quote": "Skills Better questions Deepen your understanding of the customer’s business and develop specific needs.",
+      "item_id": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0057-0062",
+      "source_id": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49",
+      "path": "website/ig-page-2026-11-11-services-sell-customer-value.md",
+      "prev": "website-ig-page-2026-11-11-services-sell-customer-value-md-a40c5b8a49:0051-0056",
+      "next": null
+    },
+    {
+      "title": "Cultural Change with the N.E.W.S.™ Model",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "N.E.W.S.™ model"
+        },
+        {
+          "facet": "topic",
+          "label": "cultural change"
+        },
+        {
+          "facet": "activity",
+          "label": "organizational alignment"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 81
+      },
+      "quote": "Cultural Change with the N.E.W.S.™ Model | innovate+grow Change programme Cultural Change The N.E.W.S.™ model is a systematic compass that helps individuals, teams and organisations align what they do with what they want to be – and unleash their potential. N.E.W.S.™ model Coaching tools Measurable progress When the N.E.W.S.™ model helps most Transition Starting a new role, project, team or organisation. Performance or behaviour challenges For managers and executives. Developing future leaders F",
+      "item_id": "website-ig-page-2026-11-11-services-cultural-change-md-751734d691:0009-0081",
+      "source_id": "website-ig-page-2026-11-11-services-cultural-change-md-751734d691",
+      "path": "website/ig-page-2026-11-11-services-cultural-change.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Kick-off",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "management kick-off"
+        },
+        {
+          "facet": "activity",
+          "label": "programme customization"
+        }
+      ],
+      "span": {
+        "start_line": 41,
+        "end_line": 46
+      },
+      "quote": "Kick-off Management kick-off We initiate and customise the programme with your management.",
+      "item_id": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0041-0046",
+      "source_id": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3",
+      "path": "website/ig-page-2026-11-11-services-develop-key-accounts.md",
+      "prev": null,
+      "next": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0047-0052"
+    },
+    {
+      "title": "Insight",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "insight interviews"
+        },
+        {
+          "facet": "activity",
+          "label": "customer interviews"
+        }
+      ],
+      "span": {
+        "start_line": 47,
+        "end_line": 52
+      },
+      "quote": "Insight Insight interviews Interviews to better understand your customer’s objectives and issues.",
+      "item_id": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0047-0052",
+      "source_id": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3",
+      "path": "website/ig-page-2026-11-11-services-develop-key-accounts.md",
+      "prev": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0041-0046",
+      "next": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0053-0058"
+    },
+    {
+      "title": "Workshop",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "growth planning"
+        },
+        {
+          "facet": "activity",
+          "label": "account planning workshop"
+        }
+      ],
+      "span": {
+        "start_line": 53,
+        "end_line": 58
+      },
+      "quote": "Workshop Growth planning Account and partner teams plan how to grow the business.",
+      "item_id": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0053-0058",
+      "source_id": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3",
+      "path": "website/ig-page-2026-11-11-services-develop-key-accounts.md",
+      "prev": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0047-0052",
+      "next": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0059-0064"
+    },
+    {
+      "title": "Approval",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "customer review"
+        },
+        {
+          "facet": "activity",
+          "label": "plan approval"
+        }
+      ],
+      "span": {
+        "start_line": 59,
+        "end_line": 64
+      },
+      "quote": "Approval Customer review The customer reviews and approves the development plan.",
+      "item_id": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0059-0064",
+      "source_id": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3",
+      "path": "website/ig-page-2026-11-11-services-develop-key-accounts.md",
+      "prev": "website-ig-page-2026-11-11-services-develop-key-accounts-md-cde7e7fcf3:0053-0058",
+      "next": null
+    },
+    {
+      "title": "Negotiation Programme for Executives & Owners",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "executive strategic negotiations"
+        },
+        {
+          "facet": "activity",
+          "label": "executive training programme"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 93
+      },
+      "quote": "--- title: \"Negotiation Programme for Executives & Owners\" url: \"https://www.innovateandgrow.com/services/negotiation-top-executives\" date: \"2026-11-11\" source: website author: \"innovate+grow (company page)\" --- Negotiation Programme for Executives & Owners | innovate+grow Executive programme Top Executives + Business Owners Critical customer deals, partnerships, acquisitions, unions, shareholders – negotiate strategic deals with confidence in an executives-only programme. Executives only Peer t",
+      "item_id": "website-ig-page-2026-11-11-services-negotiation-top-executives-md-e722061e31:0001-0093",
+      "source_id": "website-ig-page-2026-11-11-services-negotiation-top-executives-md-e722061e31",
+      "path": "website/ig-page-2026-11-11-services-negotiation-top-executives.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Team NAVIGATOR",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "team alignment"
+        }
+      ],
+      "span": {
+        "start_line": 43,
+        "end_line": 48
+      },
+      "quote": "Team Team NAVIGATOR Align the team’s direction with its values, barriers and ability to plan and execute.",
+      "item_id": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959:0043-0048",
+      "source_id": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959",
+      "path": "website/ig-page-2026-11-11-services-organisation-team-alignment.md",
+      "prev": null,
+      "next": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959:0049-0054"
+    },
+    {
+      "title": "Organisational NAVIGATOR",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "organisational alignment"
+        }
+      ],
+      "span": {
+        "start_line": 49,
+        "end_line": 54
+      },
+      "quote": "Organisation Organisational NAVIGATOR Align the organisation to its purpose: strategy, values, obstacles and tactical action plans.",
+      "item_id": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959:0049-0054",
+      "source_id": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959",
+      "path": "website/ig-page-2026-11-11-services-organisation-team-alignment.md",
+      "prev": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959:0043-0048",
+      "next": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959:0055-0060"
+    },
+    {
+      "title": "Career NAVIGATOR",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "career roadmap"
+        },
+        {
+          "facet": "activity",
+          "label": "coaching"
+        }
+      ],
+      "span": {
+        "start_line": 55,
+        "end_line": 60
+      },
+      "quote": "Career Career NAVIGATOR Individual or group coaching to chart a clear roadmap for the next career steps.",
+      "item_id": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959:0055-0060",
+      "source_id": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959",
+      "path": "website/ig-page-2026-11-11-services-organisation-team-alignment.md",
+      "prev": "website-ig-page-2026-11-11-services-organisation-team-alignment-md-4f619de959:0049-0054",
       "next": null
     }
   ]
