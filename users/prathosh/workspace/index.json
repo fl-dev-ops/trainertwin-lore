@@ -1919,6 +1919,416 @@
       "path": "youtube/video/2026-04-09-Lec 64 NCE, Info-NCE, SimCLR, JEPA [vRX_5wwImec].md",
       "sha256": "62008f619d9106bd49ad05c41c0efa0491b04204076ddde0163e6e220c431eaf",
       "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-01-mahabharata-tatparya-nirnaya-sri-madhvacharya-u2f-8547cb2427": {
+      "path": "youtube/video/2026-06-23-Adhyaya 01   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [_U2FOFPxH18].md",
+      "sha256": "29d9e4c77b9a721768c8334e05a5ee11a72164a21c613112887d6b96986c5c4e",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-04-mahabharata-tatparya-nirnaya-sri-madhvacharya-0lh-f3d6642aa0": {
+      "path": "youtube/video/2026-06-23-Adhyaya 04   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [0LHKyVUB1CI].md",
+      "sha256": "00c4a2c35c248b15be6637e921f3988a153ff5ec97dbd96aee4f44a29fb75a19",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-05-mahabharata-tatparya-nirnaya-sri-madhvacharya-us-6767642023": {
+      "path": "youtube/video/2026-06-23-Adhyaya 05   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [uS_s_3Ma3XA].md",
+      "sha256": "6da4e252d4c6e13b080339e5b6c1a0ec4f56a731378a47f6c0b82c892ead8f2f",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-02-mahabharata-tatparya-nirnaya-sri-madhvacharya-p02-9b12d29d99": {
+      "path": "youtube/video/2026-06-23-Adhyaya 02   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [p022uNl88vc].md",
+      "sha256": "e32c92400405d0b7ec8e81e53f163416986cb177da9a64ff2789ccb90323b2f0",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-08-mahabharata-tatparya-nirnaya-sri-madhvacharya-xuv-57f0d592ff": {
+      "path": "youtube/video/2026-06-23-Adhyaya 08   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [XUViA5AY5Q8].md",
+      "sha256": "6f5f8999cf0e23927f6f39ecf2e390e0adb7ebe937a82f3a540861f6fab95a13",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-03-mahabharata-tatparya-nirnaya-sri-madhvacharya-lfj-8df8b62ba0": {
+      "path": "youtube/video/2026-06-23-Adhyaya 03   Mahabharata Tatparya Nirnaya —Sri Madhvacharya [LFjr2sHIzd8].md",
+      "sha256": "fcffaf54a65b1fbdd14320bc6d401e06f56c61e1082fbc85e597ed1e88ea8a8a",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-06-mahabharata-tatparya-nirnaya-sri-madhvacharya-5a8-51adbc36ae": {
+      "path": "youtube/video/2026-06-23-Adhyaya 06   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [5A8_jk-pRaE].md",
+      "sha256": "53ff9f645c9d99e89dc4e021c738d4539c01770ae90406ce74828adf81ec8f5d",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-07-mahabharata-tatparya-nirnaya-sri-madhvacharya-lqx-18c5aea46d": {
+      "path": "youtube/video/2026-06-23-Adhyaya 07   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [LQXbl__fZLM].md",
+      "sha256": "43be2e4327d45924b9431b5917ccd96e62ca3106f70194a97882b76e53656a73",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-09-mahabharata-tatparya-nirnaya-sri-madhvacharya-fnt-6a1b8eec27": {
+      "path": "youtube/video/2026-06-23-Adhyaya 09   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [FnT9QuAlpzk].md",
+      "sha256": "d279d64fe04f4a67765bcc46590c1617428d598e1b02b100a513868b4ef6407d",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-10-mahabharata-tatparya-nirnaya-sri-madhvacharya-cmi-717781127f": {
+      "path": "youtube/video/2026-06-23-Adhyaya 10   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [CmIJMZxnneM].md",
+      "sha256": "45f0d9587af1f67ecb3a1a5d3122af900d1b6b98da9d94150de697ab3a9e124b",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-11-mahabharata-tatparya-nirnaya-sri-madhvacharya-krj-ca4272a66b": {
+      "path": "youtube/video/2026-06-23-Adhyaya 11   Mahabharata Tatparya Nirnaya —Sri Madhvacharya [KrJvDyoghoM].md",
+      "sha256": "f06d7521b4e2ba9920138bde73273636771f0b69210f9778381c862d7aca2444",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-15-mahabharata-tatparya-nirnaya-sri-madhvacharya-pq2-82104b29ab": {
+      "path": "youtube/video/2026-06-23-Adhyaya 15   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [PQ2mrcHnQSo].md",
+      "sha256": "2d357907b5acf6a8cfd6df088e0bc81956b683e5c0f69522c0465f31aff0d866",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-13-mahabharata-tatparya-nirnaya-sri-madhvacharya-d6l-a811237f2b": {
+      "path": "youtube/video/2026-06-23-Adhyaya 13   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [D6l7G9hKEvk].md",
+      "sha256": "174a4207842fcb3aa4611079c0b8e9495d0d0dc4800e73a3e5d24f92cdaab7d7",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-12-mahabharata-tatparya-nirnaya-sri-madhvacharya-hyl-f7aca2cd94": {
+      "path": "youtube/video/2026-06-23-Adhyaya 12   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [hYllUwGQm1U].md",
+      "sha256": "0ab290bc3926a5dc8915ab960e58c941c706b9d7b26e858f8acebd37c893d998",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-14-mahabharata-tatparya-nirnaya-sri-madhvacharya-ikz-6785e66adf": {
+      "path": "youtube/video/2026-06-23-Adhyaya 14   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [IKZUxlaIpMc].md",
+      "sha256": "95e0f5c06db3d3c3f08699f1ae125eaa3c5d4ab8519da214eb20769ecf2e5231",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-16-mahabharata-tatparya-nirnaya-sri-madhvacharya-79q-59d7a4243c": {
+      "path": "youtube/video/2026-06-23-Adhyaya 16   Mahabharata Tatparya Nirnaya —   Sri Madhvacharya [79QIDTzKomw].md",
+      "sha256": "10720534b3142fb303bed7924820d63b7ab153aae780221d97cb22a0f5773547",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-17-mahabharata-tatparya-nirnaya-sri-madhvacharya-guj-9eb4a24972": {
+      "path": "youtube/video/2026-06-23-Adhyaya 17   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [GujRFphny7M].md",
+      "sha256": "7a0e69cb53c90f59bf9158e3f54cba868f05155b15f18f75fe99856075304ff4",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-18-mahabharata-tatparya-nirnaya-sri-madhvacharya-rgp-764daa1766": {
+      "path": "youtube/video/2026-06-23-Adhyaya 18   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [Rgp2N681lvU].md",
+      "sha256": "e359bc706dca20d96fcd6d916c3f40596f526c7c286f52bd6e859f852c8d6f32",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-21-mahabharata-tatparya-nirnaya-sri-madhvacharya-4w1-493f04820f": {
+      "path": "youtube/video/2026-06-23-Adhyaya 21   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [4W1C3wteBlA].md",
+      "sha256": "170453d523331f7150c1fa689aaff91219ffe68d60249288e45ab99fe5840cae",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-19-mahabharata-tatparya-nirnaya-sri-madhvacharya-zkq-d4758ca37e": {
+      "path": "youtube/video/2026-06-23-Adhyaya 19   Mahabharata Tatparya Nirnaya —Sri Madhvacharya [zKqMvIcaitQ].md",
+      "sha256": "f07a1ceebf3f63a3542df1b2fd43778a6c333573b7eac417e80d8fd6fc94bbe1",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-20-mahabharata-tatparya-nirnaya-sri-madhvacharya-nnp-911fe88382": {
+      "path": "youtube/video/2026-06-23-Adhyaya 20   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [NnPC8L4VMik].md",
+      "sha256": "dd7feab0e1c9074553dfa229c3e1fc5747e6bde37c0dd2f2d3e2387ec3dae589",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-22-mahabharata-tatparya-nirnaya-sri-madhvacharya-mxw-3065dcbc20": {
+      "path": "youtube/video/2026-06-23-Adhyaya 22   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [MXWND3m7AU4].md",
+      "sha256": "5bc3feaaea889a6eefbd0476a2238342e6eddb3e70c3bcaaedc3ba3b20758be0",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-23-mahabharata-tatparya-nirnaya-sri-madhvacharya-c7l-34cf900c84": {
+      "path": "youtube/video/2026-06-23-Adhyaya 23   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [c7LelmsjggA].md",
+      "sha256": "7e051c9698795668e97d2dc72f16239db1cdf5f2d3e1565a9a7f083f47e66cc3",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-26-mahabharata-tatparya-nirnaya-sri-madhvacharya-9uj-cff21adf7f": {
+      "path": "youtube/video/2026-06-23-Adhyaya 26    Mahabharata Tatparya Nirnaya —Sri Madhvacharya [9uJQqwEcO9c].md",
+      "sha256": "9029868bdfa02c8ec2366709018eda6566b97fd2b6a980a1027311b45dd3617c",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-25-mahabharata-tatparya-nirnaya-sri-madhvacharya-qor-378ecc562c": {
+      "path": "youtube/video/2026-06-23-Adhyaya 25   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [qor0r8aBwRw].md",
+      "sha256": "dfaa837ab37fdbfa1e42bc49e0ff0a239aebec492b576fc6d04eb2fbb92c2a00",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-29-mahabharata-tatparya-nirnaya-sri-madhvacharya-edv-5421b6dd4c": {
+      "path": "youtube/video/2026-06-23-Adhyaya 29   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [EDVkcY89ZH0].md",
+      "sha256": "612f6050014b5c40799bcde06190343a7555f86b3e2d0f5f24fab2ef637809aa",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-27-mahabharata-tatparya-nirnaya-sri-madhvacharya-fvp-3eb52bdcfa": {
+      "path": "youtube/video/2026-06-23-Adhyaya 27   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [fvPAjdvmJfE].md",
+      "sha256": "4fde2514974fbe21f23ca4fb4b83a980de036165fbb6bad59729a7177df39f42",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-30-mahabharata-tatparya-nirnaya-sri-madhvacharya-wfa-282b7ca7dc": {
+      "path": "youtube/video/2026-06-23-Adhyaya 30   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [wFARC85bCkc].md",
+      "sha256": "c2fced48e27e89784285ac3a0f9cd9b32b1f2f0b5967eef679bea659e248fdce",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-28-mahabharata-tatparya-nirnaya-sri-madhvacharya-dr3-66118452ad": {
+      "path": "youtube/video/2026-06-23-Adhyaya 28   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [DR3aJFDnrPQ].md",
+      "sha256": "6bb437b2f2c49cb310b6ae77fdd2dbcc7611aeb82968b0d1562b24cc9ddce17b",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-31-mahabharata-tatparya-nirnaya-sri-madhvacharya-vkw-d932891d3b": {
+      "path": "youtube/video/2026-06-23-Adhyaya 31   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [VkwTs2nRd6M].md",
+      "sha256": "01984f94cec63d89a7e2dc698a618bb260ceee96fa033f3926445e1a4ffb08fe",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-24-mahabharata-tatparya-nirnaya-sri-madhvacharya-dby-4f7f38f143": {
+      "path": "youtube/video/2026-06-23-Adhyaya 24   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [DbyxByGjC74].md",
+      "sha256": "64bc361791c795fb69f550527304fd557e92ccf1e4f483a1689052ceaab7b5d3",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-23-adhyaya-32-mahabharata-tatparya-nirnaya-sri-madhvacharya-hrw-f14a621df6": {
+      "path": "youtube/video/2026-06-23-Adhyaya 32   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [HRwX0C1GTxA].md",
+      "sha256": "eb7716afc776d5c26111b183d6c547059f4051d633b829d171c611868eba159e",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-02-adhyaya-1-to-10-srimadbhagavatam-x-qh2yf-hpe-md-031df2047e": {
+      "path": "youtube/video/2026-06-28-Skandha 02 Adhyaya 1 to 10 SrimadBhagavatam [X-Qh2yf-HpE].md",
+      "sha256": "419a42081bfbfec5142e34670406c2626ea9d86133dbd87a31eb2ec5e65b5408",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-03-adhyaya-1-to-13-srimadbhagavatam-v1x5weo0z4e-md-8563104f27": {
+      "path": "youtube/video/2026-06-28-Skandha 03 Adhyaya 1 to 13 SrimadBhagavatam [V1x5WEo0z4E].md",
+      "sha256": "d63c23040509a5363a65c6768be4c805f96f1456baf4530a6cbf1cff0fd133f9",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-01-adhyaya-10-to-20-srimadbhagavatam-xtologriuk0-md-32ca5b60f9": {
+      "path": "youtube/video/2026-06-28-Skandha 01 Adhyaya 10 to 20 SrimadBhagavatam [XToloGRiUk0].md",
+      "sha256": "7ebbe897c5d0f6264f3580684084ee4b8fa7d1ee5c360aa8ce041d357c989f7b",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-03-adhyaya-24-to-34-srimadbhagavatam-m0kccyue7ng-md-16880991af": {
+      "path": "youtube/video/2026-06-28-Skandha 03 Adhyaya 24 to 34 SrimadBhagavatam [M0kccYue7ng].md",
+      "sha256": "3bebff32f23a5a15073978780ccf839ba0f3c362e8581b60b7fe08aca6c28059",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-04-adhyaya-1-to-10-srimadbhagavatam-tsj5cotmjpc-md-81b8aeaa02": {
+      "path": "youtube/video/2026-06-28-Skandha 04 Adhyaya 1 to 10 SrimadBhagavatam [TSj5cOTmJpc].md",
+      "sha256": "b640282ae87c4c7827095ca0e46a9a932a10a3acf35c954199623e8c21933d4f",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-05-adhyaya-1-to-14-srimadbhagavatam-p4cccldshma-md-5c47feb67a": {
+      "path": "youtube/video/2026-06-28-Skandha 05 Adhyaya 1 to 14 SrimadBhagavatam [P4CCcLDShmA].md",
+      "sha256": "ea27a9008603b6a67a997e2e6ebc9d6e1b589a8bcf3478f6c669c5165fddb1f7",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-03-adhyaya-14-to-23-srimadbhagavatam-sspkuvrtpr8-md-e9046ffb51": {
+      "path": "youtube/video/2026-06-28-Skandha 03 Adhyaya 14 to 23 SrimadBhagavatam [ssPkUVrTPr8].md",
+      "sha256": "0209acf8b6f083accd89479a42189aab8bb742b4aab0db66f9465c2f5d2b6053",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-05-adhyaya-15-to-24-srimadbhagavatam-kmkmzdsov2i-md-81f72f1afe": {
+      "path": "youtube/video/2026-06-28-Skandha 05 Adhyaya 15 to 24 SrimadBhagavatam [KmKmZDSov2I].md",
+      "sha256": "089ef23c9616df7dd7ea2f2fea55648aba44b908bfc4da1cfe0e1699c227ebab",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-04-adhyaya-22-to-31-srimadbhagavatam-qhjinwci0vs-md-5591b6f01d": {
+      "path": "youtube/video/2026-06-28-Skandha 04 Adhyaya 22 to 31 SrimadBhagavatam [qhjInwcI0vs].md",
+      "sha256": "4902ec688e73d2094b6e4aadb4b62cfedf3efdf45144a3256a4e3cf1c04975fe",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-06-adhyaya-1-to-9-srimadbhagavatam-fimlv3p54d0-md-9092290e04": {
+      "path": "youtube/video/2026-06-28-Skandha 06 Adhyaya 1 to 9 SrimadBhagavatam [fiMLV3P54d0].md",
+      "sha256": "d6fcbc96882b728d9f46799fcd3053f094962b57d39ad924b5abfd0e2a4e9222",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-07-adhyaya-1-to-8-srimadbhagavatam-qiuhioc2bv0-md-66b1a76312": {
+      "path": "youtube/video/2026-06-28-Skandha 07 Adhyaya 1 to 8 SrimadBhagavatam [QIuhIoC2bV0].md",
+      "sha256": "40646b481d49a120cc4d2bde9f1bf14476e0c3732c71091299c492e24a23abf2",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-06-adhyaya-10-to-19-srimadbhagavatam-t2ysrry8p1y-md-4e240002d5": {
+      "path": "youtube/video/2026-06-28-Skandha 06 Adhyaya 10 to 19 SrimadBhagavatam [T2ysRrY8p1Y].md",
+      "sha256": "9b1ce9b6eddc45aa077a942900c7ebc01352973c3ca7a2591cb8b8c80436e9fb",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-08-adhyaya-12-to-22-srimadbhagavatam-lv1qbzv2-l8-md-3f2586648c": {
+      "path": "youtube/video/2026-06-28-Skandha 08 Adhyaya 12 to 22 SrimadBhagavatam [lv1qBzv2-L8].md",
+      "sha256": "e2e8a37bcffa68d0ad9aafe94e3ad110fb5ffab0a91aca2a862cb1dfd594fcaa",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-01-adhyaya-1-to-9-srimadbhagavatam-fjt8dgaww38-md-f5e643d555": {
+      "path": "youtube/video/2026-06-28-Skandha 01 Adhyaya 1 to 9 SrimadBhagavatam [fJt8dgAWw38].md",
+      "sha256": "ec6c9139209e0447c8e590b106a3e16c7a92b7352afe82571d58cf22c468547b",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-08-adhyaya-1-to-11-srimadbhagavatam-1cjzpfbasqy-md-87339dd2f7": {
+      "path": "youtube/video/2026-06-28-Skandha 08 Adhyaya 1 to 11 SrimadBhagavatam [1cJzpfbASqY].md",
+      "sha256": "af88703aa5005b2c095f7ae7d47550e8d4f3dadf5baa967dfb5f170638e2abb2",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-07-adhyaya-9-to-15-srimadbhagavatam-pptepbtggaq-md-6b6963bb5d": {
+      "path": "youtube/video/2026-06-28-Skandha 07 Adhyaya 9 to 15 SrimadBhagavatam [PpTEPBTGGaQ].md",
+      "sha256": "6cf96495dfa2866d02298ca7073e651d49c3497775eaca24b1f41d940e76987e",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-04-adhyaya-11-to-21-srimadbhagavatam-nzs4hcwu0ry-md-9e35b8c09b": {
+      "path": "youtube/video/2026-06-28-Skandha 04 Adhyaya 11 to 21 SrimadBhagavatam [NZS4hcwu0RY].md",
+      "sha256": "4a40a3b78801f3d7d882f8e1463a2a0d02c985f5683c7ec08d4e952aeed32c0a",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-09-adhyaya-11-to-21-srimadbhagavatam-vki5szh1mtc-md-6feb71c345": {
+      "path": "youtube/video/2026-06-28-Skandha 09 Adhyaya 11 to 21 SrimadBhagavatam [Vki5sZh1mTc].md",
+      "sha256": "646ffaf55647b0b972547319eca8e72884c61fbf5e73365149ad205836d03afd",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-10-adhyaya-14-to-28-srimadbhagavatam-bxanfrisutu-md-7176958efc": {
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 14 to 28 SrimadBhagavatam [BxaNFRISuTU].md",
+      "sha256": "6acb350298e4dd6af5a5a1096c0514937e9057df3c31bf2dffbb5fa3a753a9c5",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-10-adhyaya-55-to-67-srimadbhagavatam-il7diqkofjw-md-07f476bb47": {
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 55 to 67 SrimadBhagavatam [IL7diQKoFjw].md",
+      "sha256": "ad73f6f1d5190e2e541f3b4a79c92c698169340574ea93e0dbdd03b56cce6118",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-10-adhyaya-43-to-54-srimadbhagavatam-ntgqiwwguik-md-299f75d7d4": {
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 43 to 54 SrimadBhagavatam [NtGqIwwGuIk].md",
+      "sha256": "89a68c28b9874348c5ff6cdf358d2a5df603630e72c59cbd20f3b9ffdee8bed0",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-10-adhyaya-68-to-78-srimadbhagavatam-9aqy8anfgrc-md-bdb639d276": {
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 68 to 78 SrimadBhagavatam [9AQY8ANfGRc].md",
+      "sha256": "8cd092525c422e2dfadb3c6aed19a1690e281a13a451fcd2be5b883dd6045e28",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-09-adhyaya-1-to-10-srimadbhagavatam-lgyqzkivrcq-md-10c23ea699": {
+      "path": "youtube/video/2026-06-28-Skandha 09 Adhyaya 1 to 10 SrimadBhagavatam [lGYQZKivrcQ].md",
+      "sha256": "41b1990bfa074bee94e9ddd316a620bce5bc86e39a00594e893b684a8e0dba54",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-10-adhyaya-92-to-105-srimadbhagavatam-4n7tyrvsdx0-md-09f07fc284": {
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 92 to 105 SrimadBhagavatam [4n7tyrvsdx0].md",
+      "sha256": "0d0552b58363427964fa85a87c34b526b971136873c596e54ec8279368d52a4e",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-11-adhyaya-1-to-10-srimadbhagavatam-h61hsrjhovc-md-c16c91c7ea": {
+      "path": "youtube/video/2026-06-28-Skandha 11 Adhyaya 1 to 10 SrimadBhagavatam [h61hsrjhovc].md",
+      "sha256": "3cd9d98d1f98c49717b740f9452124d61844cae3c5e9b6bb6909e7429de81d40",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-10-adhyaya-1-to-13-srimadbhagavatam-iubkppwcejq-md-b3c5f65b86": {
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 1 to 13 SrimadBhagavatam [iUBKPpWceJQ].md",
+      "sha256": "fef2aba61773ac9567a0d4a3c8c9c12350641ec73263c114e3fa92e1bed245fd",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-11-adhyaya-22-to-31-srimadbhagavatam-n3cmnqa7jpk-md-699b744e92": {
+      "path": "youtube/video/2026-06-28-Skandha 11 Adhyaya 22 to 31 SrimadBhagavatam [N3cMNqa7jpk].md",
+      "sha256": "b9b7f82f46877f533c9a264c896836a04f7a02e1ef1b52d542967ab042029804",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-12-adhyaya-1-to-13-srimadbhagavatam-bhp02r-71bm-md-335d3c4ecf": {
+      "path": "youtube/video/2026-06-28-Skandha 12 Adhyaya 1 to 13 SrimadBhagavatam [bHp02R-71BM].md",
+      "sha256": "7f984e954b5f39436619562ade97a9f601e8e364de2c2dfa4a5ca0cf5eb92e1e",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-11-adhyaya-11-to-21-srimadbhagavatam-xy-o6llrwm-md-52194ba9d2": {
+      "path": "youtube/video/2026-06-28-Skandha 11 Adhyaya 11 to 21 SrimadBhagavatam [Xy__O6lLrWM].md",
+      "sha256": "250a812c1bbf5725d9e594c8583e22262ffc1a7380926304b3606660271a835c",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter01-g3g-bz7j-oi-md-0d2011cec2": {
+      "path": "youtube/video/2026-10-01-chapter01 [g3G-bZ7j_OI].md",
+      "sha256": "7f73c7ca15297ebf8a3cc01c0ac54047108c0bb96a6abea16bcfd24198fdb5d3",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter05-gf3ky9gjxdw-md-31243b70cc": {
+      "path": "youtube/video/2026-10-01-chapter05 [Gf3KY9gjxDw].md",
+      "sha256": "c41d975509bc3358a2b7de4072213c47e35ad6baf74f63240d9b4c2c58a7f983",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter03-b4k8wr48n34-md-9cdc750b97": {
+      "path": "youtube/video/2026-10-01-chapter03 [b4K8wR48n34].md",
+      "sha256": "82d6c0a8a8c1b9d1b8ad76b52709a56c2d9815fbcdccf59500660d3a35edae6f",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter04-5bnoazmgbj8-md-099bc6bb83": {
+      "path": "youtube/video/2026-10-01-chapter04 [5bnoAzmGbJ8].md",
+      "sha256": "3891e21cec6910d526554a6559eaf1f429f77fd6fa5a50a9638843984c940aad",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter02-bonenbpmw7i-md-07d70b2a18": {
+      "path": "youtube/video/2026-10-01-chapter02 [BONEnBPmW7I].md",
+      "sha256": "9b42e9f3609e7ed3752e520e552b15de87fde0fc0ae124bf75cc192ce6162d3e",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter06-2qznmm7nvtq-md-746c8b5fd1": {
+      "path": "youtube/video/2026-10-01-chapter06 [2qzNmm7NVTQ].md",
+      "sha256": "75babd552e0404ef842bebe3cdea8801fee567cfc54dc602b890de1a5391c7c7",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter07-rxrjgipdid4-md-4b1ca27b78": {
+      "path": "youtube/video/2026-10-01-chapter07 [rxRJgiPdId4].md",
+      "sha256": "5abebfbf497d1f798b54bedbe1a91d55529b92176d5bc80dbc89a11e2d06d6f2",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter09-9zj8sg1snwo-md-662c9c9f6b": {
+      "path": "youtube/video/2026-10-01-chapter09 [9Zj8SG1sNwo].md",
+      "sha256": "45a4b016df63c23dba829d0880a1ea026d28f0515b5a9912beea3b9b3084a63d",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter08-vbrdqm49pzq-md-bdfb46d456": {
+      "path": "youtube/video/2026-10-01-chapter08 [VBRDQm49pZQ].md",
+      "sha256": "aa5730dbe7b480c0101a68a110ea6d63337cc4b452a93c5310f0ad190017b127",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter10-toldr-t1rrs-md-affede0f3a": {
+      "path": "youtube/video/2026-10-01-chapter10 [TOLdr-T1Rrs].md",
+      "sha256": "11de77e671a1e81f013e79c6c07b8ef32d6ab308ab01de9001844402906f0b4e",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter11-eyowo4nqinw-md-7855f47ee8": {
+      "path": "youtube/video/2026-10-01-chapter11 [EyOwO4nQINw].md",
+      "sha256": "c258c62ab07895f951d48ef8c52d8a17a2a93540fb238aadd345213708c316ea",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter12-dc-2nvsmses-md-ae4b69a1ae": {
+      "path": "youtube/video/2026-10-01-chapter12 [dC-2NvSmses].md",
+      "sha256": "38cdf3b9796ec238e1c174437fb3aef20605ff48047c0317a9432fd7943b3651",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter16-pyuqxykdqai-md-0517357d4f": {
+      "path": "youtube/video/2026-10-01-chapter16 [PyuqXYkdQaI].md",
+      "sha256": "9c0893bad0537b914253dfaa7dd3fbffb71458db4703ee8970f4f5db951a75da",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter13-hv9qrw6zmzc-md-6ce2088017": {
+      "path": "youtube/video/2026-10-01-chapter13 [hV9QRW6ZmZc].md",
+      "sha256": "dc4746de0fd1c1ffb100831ab9f8d526da59ebe2b961f251b23ab5a22b8eeae8",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter17-mndyiediwak-md-cd7bca1ca1": {
+      "path": "youtube/video/2026-10-01-chapter17 [MNdyIEdiwAk].md",
+      "sha256": "0ba2cf921d58762c77cbaa9c67b92fc70c41131951b8c9015b254202e278ac57",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter14-foue-slwau0-md-e01b02a87c": {
+      "path": "youtube/video/2026-10-01-chapter14 [FouE-SLWAU0].md",
+      "sha256": "e0ad4385b06292a1a7ba7db7bcb54c37b44c44ebd6889ca053f75cf797cebdd7",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter15-7tq-hednbne-md-d2e36b06c5": {
+      "path": "youtube/video/2026-10-01-chapter15 [7tq_HEDNbnE].md",
+      "sha256": "9d5a5b69e451da56c55797d36244434de3108c2618d53defe9e0d88ede188031",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-01-chapter18-hpatl2e7cee-md-083913359e": {
+      "path": "youtube/video/2026-10-01-chapter18 [HPaTL2E7cEE].md",
+      "sha256": "7fabbb934ce2721c6ad48c233aab029d7107884ef6ce53bbea4a68aa0e9cc210",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-10-adhyaya-79-to-91-srimadbhagavatam-g4ndygcjxoa-md-44d76a9b38": {
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 79 to 91 SrimadBhagavatam [g4NdYgcJXOA].md",
+      "sha256": "85fd0e0b216151b3d73cd8883ae4a06a8432664d71be071917b0fb3648599ba2",
+      "basis": "whole"
+    },
+    "youtube-video-2026-06-28-skandha-10-adhyaya-29-to-42-srimadbhagavatam-oxpmwvipsgk-md-035ba394d8": {
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 29 to 42 SrimadBhagavatam [oxpMwvIpsgk].md",
+      "sha256": "5e8167de3dacfd77b839e64e1b813b36a5cfd15465a00662eebf86113877fdd6",
+      "basis": "whole"
+    },
+    "youtube-video-2026-09-27-the-indian-thought-process-of-life-sw-elnmgqqw-md-be42c3d44e": {
+      "path": "youtube/video/2026-09-27-The Indian thought Process of Life. [Sw_ELnmgqQw].md",
+      "sha256": "5dd3c0954640560ecfc6e486bd645b89958044fbf7381fe7ef669f3f8f92c992",
+      "basis": "whole"
     }
   },
   "items": [
@@ -26741,6 +27151,1904 @@
       "item_id": "youtube-video-2026-04-09-lec-64-nce-info-nce-simclr-jepa-vrx-5wwimec-md-43b883fedb:0013-0112",
       "source_id": "youtube-video-2026-04-09-lec-64-nce-info-nce-simclr-jepa-vrx-5wwimec-md-43b883fedb",
       "path": "youtube/video/2026-04-09-Lec 64 NCE, Info-NCE, SimCLR, JEPA [vRX_5wwImec].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "सर्वशास्त्रार्थनिर्णयः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Sarvashastrartha Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "श्री गुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गत रामकृष्ण वेदव्यासात्मक लक्ष्मी हयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये सर्वशास्त्रार्थनिर्णयो नाम प्रथमोऽध्यायः नारायणाय परिपूर्णगुणार्णवाय विश्वोदयस्थितिलयोन्नियतिप्रदाय ज्ञानप्रदाय विबुधासुरसौख्यदुःखसत्कारणाय वितताय नमो नमस्ते आसीदुदारगुणवारिधिरप्रमेयो नारायणः परतमः परमात्स एकः संशान्तसंविदखिलं जठरे निधाय लक्ष्मीभुजान्तरगतस्वरतोऽपि चाग्रे तस्योदरस्थ जगतः सदमन्दसान्द्रस्वानन्दतुष्टवपुषोऽपि रमारमस्य भूत्य",
+      "item_id": "youtube-video-2026-06-23-adhyaya-01-mahabharata-tatparya-nirnaya-sri-madhvacharya-u2f-8547cb2427:0016-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-01-mahabharata-tatparya-nirnaya-sri-madhvacharya-u2f-8547cb2427",
+      "path": "youtube/video/2026-06-23-Adhyaya 01   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [_U2FOFPxH18].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "श्रीरामचरिते बालकाण्डकथानिरूपणम्",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 4"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये श्रीरामचरिते बालकाण्डकथानिरूपणन् नाम चतुर्थोऽध्यायः अथाभ्यवर्धंश्चतुराः कुमारानृपस्य गेहे पुरुषोत्तमाद्याः नित्यप्रवृद्धस्य च तस्य वृद्धिरपेक्ष लोकस्य हिमन्ददृष्टिम् निरीक्षणित्यं चतुरः कुमारान् पितामुदं सन्ततमापचोच्चम् विशेषतो राममुखेन्दुबिम्बमवेक्ष्य राजा कृतकृत्य आसीत् तन्मातरः पौरजना अमात्या अन्तःपुरा वैशयिकाश्च सर्वे अवेक्षमाणाः परमं प",
+      "item_id": "youtube-video-2026-06-23-adhyaya-04-mahabharata-tatparya-nirnaya-sri-madhvacharya-0lh-f3d6642aa0:0016-0115",
+      "source_id": "youtube-video-2026-06-23-adhyaya-04-mahabharata-tatparya-nirnaya-sri-madhvacharya-0lh-f3d6642aa0",
+      "path": "youtube/video/2026-06-23-Adhyaya 04   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [0LHKyVUB1CI].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 05 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "topic",
+          "label": "Rama Charita"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्री गुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गत रामकृष्ण वेदव्यासात्मक लक्ष्मी हयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये श्रीरामचरिते हनुमद्दर्शनं नाम पञ्चमोऽध्यायः इत्थं विश्वेश्वरेस्मिन्निखिलगदवस्थाप्य सीता सहाये भूमिष्ठे सर्वलोकास्तु तु सुरनुदिनं वृद्धभक्त्या नितान्तम् राजाराज्याभिषेके प्रकृतिजनवचोमानयन्नात्मनोर्थ्यन्दध्रे तन्मन्थरायाः श्रुतिपथमगमद्भूमिगाया अलक्ष्म्याः पूर्वं क्षीराब्धिजाता कथमपि तपसैवाप्सरस्त्वम् प्रयाता तान्नेतुं तत्तमोद्धं कमलजनिरु",
+      "item_id": "youtube-video-2026-06-23-adhyaya-05-mahabharata-tatparya-nirnaya-sri-madhvacharya-us-6767642023:0016-0115",
+      "source_id": "youtube-video-2026-06-23-adhyaya-05-mahabharata-tatparya-nirnaya-sri-madhvacharya-us-6767642023",
+      "path": "youtube/video/2026-06-23-Adhyaya 05   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [uS_s_3Ma3XA].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 02: Suvakyoddharana",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "topic",
+          "label": "Vishnu Sarvottamatva"
+        },
+        {
+          "facet": "activity",
+          "label": "scriptural recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये सुवाक्योद्धरणं नाम द्वितीयोऽध्यायः जयति हरिरचिन्त्यः सर्वदेवैकवन्द्यः परमगुरुरभेष्टावाप्तिदः सज्जनानाम् निखिलगुणगणार्णो नित्यनिर्मुक्तदोषः सरसि जनयनो सौ श्रीपतिर्मानदोनः उक्तः पूर्वाध्याये शास्त्राणां निर्णयः परो दिव्यः अथ भारतवाक्यान्येतैरेवाध्यवस्यन्ते क्वचिद्ग्रन्थान् प्रक्षिपन्ति क्वचिदन्तरितानपि कुर्युः क्वचिच्च व्यत्यासं प्रमादात् क्व",
+      "item_id": "youtube-video-2026-06-23-adhyaya-02-mahabharata-tatparya-nirnaya-sri-madhvacharya-p02-9b12d29d99:0016-0115",
+      "source_id": "youtube-video-2026-06-23-adhyaya-02-mahabharata-tatparya-nirnaya-sri-madhvacharya-p02-9b12d29d99",
+      "path": "youtube/video/2026-06-23-Adhyaya 02   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [p022uNl88vc].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 08 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Yuddha Kanda Nirupana"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: XUViA5AY5Q8 title: Adhyaya 08 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=XUViA5AY5Q8 date: '2026-06-23' duration: 00:52:49 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये श्रीरामचरिते युद्धकाण्डकथानिरूपणन्नामाष्टमोऽध्यायः श्र",
+      "item_id": "youtube-video-2026-06-23-adhyaya-08-mahabharata-tatparya-nirnaya-sri-madhvacharya-xuv-57f0d592ff:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-08-mahabharata-tatparya-nirnaya-sri-madhvacharya-xuv-57f0d592ff",
+      "path": "youtube/video/2026-06-23-Adhyaya 08   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [XUViA5AY5Q8].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "सर्गानुसर्गप्रादुर्भावनिर्णयः (Mahabharata Tatparya Nirnaya Adhyaya 3)",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 3"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "श्री गुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गत रामकृष्ण वेदव्यासात्मक लक्ष्मी हयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये सर्गानुसर्गप्रादुर्भावनिर्णयो नाम तृतीयोऽध्यायः जयत्यजोखण्डगुणोरुमण्डलः सदोदितो ज्ञानमरीचिमाली स्वभक्तहार्दोच्चतमो निहन्ता व्यासावतारो हरिरात्मभास्करः जयत्यजो क्षीणसुखात्मबिम्बस्वैश्वर्यकान्तिप्रततः सदोदितः स्वभक्तसन्तापदुरिष्टहन्ता रामावतारो हरिरीशचन्द्रमाः जयत्यसङ्ख्यो रुबलाम्बुपूरो गुणोच्चरत्नाकर आत्मवैभवः सदा सदात्मज्ञनदीभिराप्यः क",
+      "item_id": "youtube-video-2026-06-23-adhyaya-03-mahabharata-tatparya-nirnaya-sri-madhvacharya-lfj-8df8b62ba0:0016-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-03-mahabharata-tatparya-nirnaya-sri-madhvacharya-lfj-8df8b62ba0",
+      "path": "youtube/video/2026-06-23-Adhyaya 03   Mahabharata Tatparya Nirnaya —Sri Madhvacharya [LFjr2sHIzd8].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 06 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: 5A8_jk-pRaE title: Adhyaya 06 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=5A8_jk-pRaE date: '2026-06-23' duration: 00:14:11 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये श्रीरामचरिते समुद्रतरणनिश्चयो नाम षष्ठोऽध्यायः उत्थाप्",
+      "item_id": "youtube-video-2026-06-23-adhyaya-06-mahabharata-tatparya-nirnaya-sri-madhvacharya-5a8-51adbc36ae:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-06-mahabharata-tatparya-nirnaya-sri-madhvacharya-5a8-51adbc36ae",
+      "path": "youtube/video/2026-06-23-Adhyaya 06   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [5A8_jk-pRaE].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "श्रीरामचरिते सुन्दरकाण्डकथा निरूपणं नाम सप्तमोऽध्यायः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये श्रीरामचरिते सुन्दरकाण्डकथा निरूपणं नाम सप्तमोऽध्यायः रामाय शाश्वतसुविस्तृतषड्गुणाय सर्वेश्वराय बलवीर्यमहार्णवाय नत्वा लिलङ्घयिशुरर्णवमुत्पपात निष्पीड्य तं गिरिवरं पवनस्य सूनुः चुक्षोभवारिधिरनुप्रययौ च शीघ्रं यादोगणैस्सह तदीयबलाभिकृष्टः वृक्षाश्च पर्वतगताः पवनेन पूर्वं क्षिप्तोर्णवे गिरिरुदागमदस्य हेतोः शालोहरस्य गिरिपक्षविनाशकाले क्षिप्तोर",
+      "item_id": "youtube-video-2026-06-23-adhyaya-07-mahabharata-tatparya-nirnaya-sri-madhvacharya-lqx-18c5aea46d:0016-0115",
+      "source_id": "youtube-video-2026-06-23-adhyaya-07-mahabharata-tatparya-nirnaya-sri-madhvacharya-lqx-18c5aea46d",
+      "path": "youtube/video/2026-06-23-Adhyaya 07   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [LQXbl__fZLM].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "श्रीरामचरिते उत्तरकाण्डकथानिरूपणम्",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 9"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये श्रीरामचरिते उत्तरकाण्डकथा निरूपणन्नाम नवमोऽध्यायः अथाप्तराज्यो भगवान् स लक्ष्मणं जगाद राजा तरुणो भवाशु इतीरितस्त्वाहस लक्ष्मणो गुरुं भवत्पदाब्जान् न परं वृणोम्यहम् न मां भवत्पादनिषेवणैकस्पृहं तदन्यत्र नियोक्तुमर्हसि न हि दृशः कश्चिदनुग्रहः क्वचित् तदेव मे देहि ततः सदैव इति रितस्तस्य तदेव दत्वा दृढं समाश्लिष्य च राघवः प्रभुः स यौवराज्ये भरत",
+      "item_id": "youtube-video-2026-06-23-adhyaya-09-mahabharata-tatparya-nirnaya-sri-madhvacharya-fnt-6a1b8eec27:0016-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-09-mahabharata-tatparya-nirnaya-sri-madhvacharya-fnt-6a1b8eec27",
+      "path": "youtube/video/2026-06-23-Adhyaya 09   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [FnT9QuAlpzk].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "व्यासावतारकथा निरूपणम्",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 100
+      },
+      "quote": "अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये व्यासावतारकथा निरूपणन्नाम दशमोऽध्यायः द्वापरेथ युगे प्राप्ते त्वष्टाविंशतिमे पुनः स्वयम्भुशर्वशक्राद्या दुग्धाब्धेस्थीरमाययुः पयोब्धेरुत्तरन्तीरमासाद्यविबुधर्षभाः तुष्टुवुः पुण्डरीकाक्षमक्षयं पुरुषोत्तमम् नमो नमो गण्यगुणैकधाम्ने समस्तविज्ञानमरीचिमालिने अनाद्यविज्ञानतमोनिहन्त्रे परामृतानन्दपदप्रदायिने स्वदत्तमाला भुवि पातकोपतो दुर्वाससः शापत आशुहि श्रिया शक्रे विहीने दितिजैः पराजिते पुरावयन् त्वां शरणं गतास्मः त्वदाज्ञया बलिना",
+      "item_id": "youtube-video-2026-06-23-adhyaya-10-mahabharata-tatparya-nirnaya-sri-madhvacharya-cmi-717781127f:0020-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-10-mahabharata-tatparya-nirnaya-sri-madhvacharya-cmi-717781127f",
+      "path": "youtube/video/2026-06-23-Adhyaya 10   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [CmIJMZxnneM].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 11 | Mahabharata Tatparya Nirnaya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 11"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: KrJvDyoghoM title: Adhyaya 11 | Mahabharata Tatparya Nirnaya —Sri Madhvacharya url: https://www.youtube.com/watch?v=KrJvDyoghoM date: '2026-06-23' duration: 00:48:48 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये एकादशोऽध्याः शशाङ्कपुत्रादभवत् पुरूरवास्तस्यायुरायोर्नह",
+      "item_id": "youtube-video-2026-06-23-adhyaya-11-mahabharata-tatparya-nirnaya-sri-madhvacharya-krj-ca4272a66b:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-11-mahabharata-tatparya-nirnaya-sri-madhvacharya-krj-ca4272a66b",
+      "path": "youtube/video/2026-06-23-Adhyaya 11   Mahabharata Tatparya Nirnaya —Sri Madhvacharya [KrJvDyoghoM].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 15 | Mahabharata Tatparya Nirnaya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 15"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये पञ्चदशोऽध्यायः एवं प्रशासति जगत्पुरुषोत्तमेऽस्मिन् भीमार्जुनौ तु सहदेवयुतावनुज्ञाम् कृष्णादवाप्यवर्षत्रितयात्पुरं स्वमाजग्मतुरहरिसुतेन विशोकनाम्ना सैरन्ध्रिकोदरभवस्सतु नारदस्य शिष्यो वृकोदररथस्य बभूवयन्ता यापिङ्गलान्यभव आत्मनि संस्थितन्तं संस्मृत्य कान्तमुरुगायमभूत्रिवक्रा तं पञ्चरात्रविदमाप्य सुसारथिं स भीमो मुमोद पुनरापपरात्मविद्याम् व्या",
+      "item_id": "youtube-video-2026-06-23-adhyaya-15-mahabharata-tatparya-nirnaya-sri-madhvacharya-pq2-82104b29ab:0016-0115",
+      "source_id": "youtube-video-2026-06-23-adhyaya-15-mahabharata-tatparya-nirnaya-sri-madhvacharya-pq2-82104b29ab",
+      "path": "youtube/video/2026-06-23-Adhyaya 15   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [PQ2mrcHnQSo].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 13 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: D6l7G9hKEvk title: Adhyaya 13 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=D6l7G9hKEvk date: '2026-06-23' duration: 00:33:07 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये कंसवधो नाम त्रयोदशोऽध्यायः गर्गशूरसुतोक्त्या व्रजमायात",
+      "item_id": "youtube-video-2026-06-23-adhyaya-13-mahabharata-tatparya-nirnaya-sri-madhvacharya-d6l-a811237f2b:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-13-mahabharata-tatparya-nirnaya-sri-madhvacharya-d6l-a811237f2b",
+      "path": "youtube/video/2026-06-23-Adhyaya 13   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [D6l7G9hKEvk].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 12: Sri Krishnavatare Pandavotpatti",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 119
+      },
+      "quote": "अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये श्रीकृष्णावतारे पाण्डवोत्पत्तिर्नामद्वादशोऽध्यायः बभूव गन्धर्वमुनिस्तु देवकस्स आससेवार्थमथाहुकाद्धरेः सौग्रसेनावरजस्तथैव नामास्य तस्मादजनिस्म देवकी अन्याश्च याः कश्यपस्यैव भार्या ज्येष्ठां तु तामाहुकात्मपुत्रीम् चकार तस्माद्धि पितृश्वसा सा स्वसा च कंसस्य बभूव देवकी सैवादितिर्वसुदेवस्य दत्ता तस्यारथं माङ्गलं कंस एव संयापयामास तदा हि वायुर्जगाद वाक्यं गगनस्थितो मुम् विनापराधाद्धिततो गरीयसो न मातुलो वध्यतामेति विष्णोः लोकस्य धर्",
+      "item_id": "youtube-video-2026-06-23-adhyaya-12-mahabharata-tatparya-nirnaya-sri-madhvacharya-hyl-f7aca2cd94:0020-0119",
+      "source_id": "youtube-video-2026-06-23-adhyaya-12-mahabharata-tatparya-nirnaya-sri-madhvacharya-hyl-f7aca2cd94",
+      "path": "youtube/video/2026-06-23-Adhyaya 12   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [hYllUwGQm1U].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 14 of Mahabharata Tatparya Nirnaya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 14"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: IKZUxlaIpMc title: Adhyaya 14 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=IKZUxlaIpMc date: '2026-06-23' duration: 00:29:16 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये चतुर्दशोऽध्यायः कृष्णो विमोच्य पितरावभिवन्द्य सर्ववन्द",
+      "item_id": "youtube-video-2026-06-23-adhyaya-14-mahabharata-tatparya-nirnaya-sri-madhvacharya-ikz-6785e66adf:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-14-mahabharata-tatparya-nirnaya-sri-madhvacharya-ikz-6785e66adf",
+      "path": "youtube/video/2026-06-23-Adhyaya 14   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [IKZUxlaIpMc].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 16 | Mahabharata Tatparya Nirnaya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: 79QIDTzKomw title: Adhyaya 16 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=79QIDTzKomw date: '2026-06-23' duration: 00:07:42 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्री गुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गत रामकृष्ण वेदव्यासात्मक लक्ष्मी हयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये षोडशोऽयः काले त्वे तस्मिन् भूय एवाखिलैश्च नृपैर्य",
+      "item_id": "youtube-video-2026-06-23-adhyaya-16-mahabharata-tatparya-nirnaya-sri-madhvacharya-79q-59d7a4243c:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-16-mahabharata-tatparya-nirnaya-sri-madhvacharya-79q-59d7a4243c",
+      "path": "youtube/video/2026-06-23-Adhyaya 16   Mahabharata Tatparya Nirnaya —   Sri Madhvacharya [79QIDTzKomw].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Mahabharata Tatparya Nirnaya Adhyaya 17 Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 17"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: GujRFphny7M title: Adhyaya 17 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=GujRFphny7M date: '2026-06-23' duration: 00:49:25 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये सदशोऽध्यायः गते थ चेदिपे स्वकं पुरं जनार्दनो शृणोत् रम",
+      "item_id": "youtube-video-2026-06-23-adhyaya-17-mahabharata-tatparya-nirnaya-sri-madhvacharya-guj-9eb4a24972:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-17-mahabharata-tatparya-nirnaya-sri-madhvacharya-guj-9eb4a24972",
+      "path": "youtube/video/2026-06-23-Adhyaya 17   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [GujRFphny7M].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 18 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Bhimarjuna Digvijaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: Rgp2N681lvU title: Adhyaya 18 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=Rgp2N681lvU date: '2026-06-23' duration: 00:30:04 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये भीमार्जुनदिग्विजयो नामाष्टादशोऽध्यायः यदा रामादवाप्तान",
+      "item_id": "youtube-video-2026-06-23-adhyaya-18-mahabharata-tatparya-nirnaya-sri-madhvacharya-rgp-764daa1766:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-18-mahabharata-tatparya-nirnaya-sri-madhvacharya-rgp-764daa1766",
+      "path": "youtube/video/2026-06-23-Adhyaya 18   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [Rgp2N681lvU].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "पाण्डववनप्रवेशो नाम एकविंशोऽध्यायः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 21"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: 4W1C3wteBlA title: Adhyaya 21 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=4W1C3wteBlA date: '2026-06-23' duration: 01:15:46 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये पाण्डववनप्रवेशो नाम एकविंशोऽध्यायः जनार्दनाज्ञया मयः स",
+      "item_id": "youtube-video-2026-06-23-adhyaya-21-mahabharata-tatparya-nirnaya-sri-madhvacharya-4w1-493f04820f:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-21-mahabharata-tatparya-nirnaya-sri-madhvacharya-4w1-493f04820f",
+      "path": "youtube/video/2026-06-23-Adhyaya 21   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [4W1C3wteBlA].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "पाण्डवराज्यलाभो नाम एकोनविंशोऽध्यायः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 19"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: zKqMvIcaitQ title: Adhyaya 19 | Mahabharata Tatparya Nirnaya —Sri Madhvacharya url: https://www.youtube.com/watch?v=zKqMvIcaitQ date: '2026-06-23' duration: 00:57:16 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये पाण्डवराज्यलाभो नाम एकोनविंशोऽध्यायः एवं शुभोच्चगुणवत्स",
+      "item_id": "youtube-video-2026-06-23-adhyaya-19-mahabharata-tatparya-nirnaya-sri-madhvacharya-zkq-d4758ca37e:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-19-mahabharata-tatparya-nirnaya-sri-madhvacharya-zkq-d4758ca37e",
+      "path": "youtube/video/2026-06-23-Adhyaya 19   Mahabharata Tatparya Nirnaya —Sri Madhvacharya [zKqMvIcaitQ].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "खाण्डवदाहो नाम विंशोऽध्यायः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्री गुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गत रामकृष्ण वेदव्यासात्मक लक्ष्मी हयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये खाण्डवदाहो नाम विंशोऽध्यायः यज्ञो रुदाननरदेववन्द्यता प्रश्नर्षिपूजासु युधिष्ठिरो भूत् धर्मानुशास्तिहरितत्वशं सनस्वराष्ट्ररक्षादिषु भीम आसीत् स्त्रीधर्मसंशासनभृत्यकोशरक्षाव्ययादौ गुणदोषचिन्तने अन्तःपुरस्थस्य जनस्य कृष्णात्वासीद्धरेर्धर्मनिदर्शनी च बीभत्सुरासीत् परराष्ट्रमर्दने तेन नियम्यांस्तु जरासुतादीन् सकीचकादीन्श्च ममर्द भीमस्तस्यैव",
+      "item_id": "youtube-video-2026-06-23-adhyaya-20-mahabharata-tatparya-nirnaya-sri-madhvacharya-nnp-911fe88382:0016-0115",
+      "source_id": "youtube-video-2026-06-23-adhyaya-20-mahabharata-tatparya-nirnaya-sri-madhvacharya-nnp-911fe88382",
+      "path": "youtube/video/2026-06-23-Adhyaya 20   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [NnPC8L4VMik].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 22 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 22"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: MXWND3m7AU4 title: Adhyaya 22 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=MXWND3m7AU4 date: '2026-06-23' duration: 01:32:03 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये अरणीप्राप्तिर्नाम द्वाविंशोऽध्यायः आगन्तुकामान् पुरवास",
+      "item_id": "youtube-video-2026-06-23-adhyaya-22-mahabharata-tatparya-nirnaya-sri-madhvacharya-mxw-3065dcbc20:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-22-mahabharata-tatparya-nirnaya-sri-madhvacharya-mxw-3065dcbc20",
+      "path": "youtube/video/2026-06-23-Adhyaya 22   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [MXWND3m7AU4].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 23 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: c7LelmsjggA title: Adhyaya 23 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=c7LelmsjggA date: '2026-06-23' duration: 00:12:26 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये विराटपर्वकथा निरूपणं नाम त्रयोविंशोऽध्यायः नारायणानुग्",
+      "item_id": "youtube-video-2026-06-23-adhyaya-23-mahabharata-tatparya-nirnaya-sri-madhvacharya-c7l-34cf900c84:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-23-mahabharata-tatparya-nirnaya-sri-madhvacharya-c7l-34cf900c84",
+      "path": "youtube/video/2026-06-23-Adhyaya 23   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [c7LelmsjggA].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 26 | Mahabharata Tatparya Nirnaya —Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 26"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: 9uJQqwEcO9c title: Adhyaya 26 | Mahabharata Tatparya Nirnaya —Sri Madhvacharya url: https://www.youtube.com/watch?v=9uJQqwEcO9c date: '2026-06-23' duration: 01:03:30 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये नारायणास्त्रोपशमनं नाम षड्विंशोऽध्यायः अथाखिलानां पृथिव",
+      "item_id": "youtube-video-2026-06-23-adhyaya-26-mahabharata-tatparya-nirnaya-sri-madhvacharya-9uj-cff21adf7f:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-26-mahabharata-tatparya-nirnaya-sri-madhvacharya-9uj-cff21adf7f",
+      "path": "youtube/video/2026-06-23-Adhyaya 26    Mahabharata Tatparya Nirnaya —Sri Madhvacharya [9uJQqwEcO9c].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 25: Bhishmapata from Mahabharata Tatparya Nirnaya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Bhishmapata"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: qor0r8aBwRw title: Adhyaya 25 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=qor0r8aBwRw date: '2026-06-23' duration: 00:28:18 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्री गुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गत रामकृष्ण वेदव्यासात्मक लक्ष्मी हयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये भीष्मपातो नाम पञ्चविंशोऽध्यायः तेसेने समरारम्भे स",
+      "item_id": "youtube-video-2026-06-23-adhyaya-25-mahabharata-tatparya-nirnaya-sri-madhvacharya-qor-378ecc562c:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-25-mahabharata-tatparya-nirnaya-sri-madhvacharya-qor-378ecc562c",
+      "path": "youtube/video/2026-06-23-Adhyaya 25   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [qor0r8aBwRw].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 29 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: EDVkcY89ZH0 title: Adhyaya 29 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=EDVkcY89ZH0 date: '2026-06-23' duration: 00:12:18 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये धर्मसारनिरूपणन्नाम एकोनत्रिंशोऽध्यायः यदैव कृष्णौ सकला",
+      "item_id": "youtube-video-2026-06-23-adhyaya-29-mahabharata-tatparya-nirnaya-sri-madhvacharya-edv-5421b6dd4c:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-29-mahabharata-tatparya-nirnaya-sri-madhvacharya-edv-5421b6dd4c",
+      "path": "youtube/video/2026-06-23-Adhyaya 29   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [EDVkcY89ZH0].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 27 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Karna Parva"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: fvPAjdvmJfE title: Adhyaya 27 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=fvPAjdvmJfE date: '2026-06-23' duration: 00:37:43 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये कर्णपातो नाम सप्तविंशोऽध्यायः अथानुज्ञामुपादाय द्रौणेर",
+      "item_id": "youtube-video-2026-06-23-adhyaya-27-mahabharata-tatparya-nirnaya-sri-madhvacharya-fvp-3eb52bdcfa:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-27-mahabharata-tatparya-nirnaya-sri-madhvacharya-fvp-3eb52bdcfa",
+      "path": "youtube/video/2026-06-23-Adhyaya 27   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [fvPAjdvmJfE].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 30 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये त्रिंशोऽध्यायः अथ कृष्णमनुस्मृत्य भीष्मे स्वां वसुताङ्गते कृत्वा कार्याणि सर्वाणि गङ्गामाश्वास्य दुःखिताम् आश्वासितश्च कृष्णाभ्यां धर्मजो दुःखितः पुनः पराशरसुतेनोक्तः कृष्णेनानन्तराधसा अपापे पापशङ्कित्वादश्वमेधैर्यजाच्युतम् कुरुष्व राज्यं धर्मेण पालया पालकाः प्रजाः इत्युक्तः स तथा चक्रे त्यक्त्वा भोगांश्च कृत्स्नशः गोव्रतादिव्रतैर्युक्तः पा",
+      "item_id": "youtube-video-2026-06-23-adhyaya-30-mahabharata-tatparya-nirnaya-sri-madhvacharya-wfa-282b7ca7dc:0016-0115",
+      "source_id": "youtube-video-2026-06-23-adhyaya-30-mahabharata-tatparya-nirnaya-sri-madhvacharya-wfa-282b7ca7dc",
+      "path": "youtube/video/2026-06-23-Adhyaya 30   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [wFARC85bCkc].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 28: Pandavarajyalabha",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: DR3aJFDnrPQ title: Adhyaya 28 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=DR3aJFDnrPQ date: '2026-06-23' duration: 00:44:21 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये पाण्डवराज्यलाभो नाम वष्टाविंशोऽध्यायः प्रभातायान्तु शर",
+      "item_id": "youtube-video-2026-06-23-adhyaya-28-mahabharata-tatparya-nirnaya-sri-madhvacharya-dr3-66118452ad:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-28-mahabharata-tatparya-nirnaya-sri-madhvacharya-dr3-66118452ad",
+      "path": "youtube/video/2026-06-23-Adhyaya 28   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [DR3aJFDnrPQ].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 31 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 31"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: VkwTs2nRd6M title: Adhyaya 31 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=VkwTs2nRd6M date: '2026-06-23' duration: 00:14:23 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये एकत्रिंशोऽध्यायः यज्ञेश्वरेणाभियुतेषु भक्त्या महीं प्र",
+      "item_id": "youtube-video-2026-06-23-adhyaya-31-mahabharata-tatparya-nirnaya-sri-madhvacharya-vkw-d932891d3b:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-31-mahabharata-tatparya-nirnaya-sri-madhvacharya-vkw-d932891d3b",
+      "path": "youtube/video/2026-06-23-Adhyaya 31   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [VkwTs2nRd6M].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 24 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya Adhyaya 24"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: DbyxByGjC74 title: Adhyaya 24 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=DbyxByGjC74 date: '2026-06-23' duration: 00:16:51 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीगुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये युद्धोद्योगो नाम चतुर्विंशोऽध्यायः ततः सम्मन्त्र्यानुम",
+      "item_id": "youtube-video-2026-06-23-adhyaya-24-mahabharata-tatparya-nirnaya-sri-madhvacharya-dby-4f7f38f143:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-24-mahabharata-tatparya-nirnaya-sri-madhvacharya-dby-4f7f38f143",
+      "path": "youtube/video/2026-06-23-Adhyaya 24   Mahabharata Tatparya Nirnaya —  Sri Madhvacharya [DbyxByGjC74].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Adhyaya 32 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Mahabharata Tatparya Nirnaya"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: HRwX0C1GTxA title: Adhyaya 32 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya url: https://www.youtube.com/watch?v=HRwX0C1GTxA date: '2026-06-23' duration: 00:35:23 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्री गुरुभ्यो नमः श्रीमद्धनुमद्भीममध्वान्तर्गत रामकृष्ण वेदव्यासात्मक लक्ष्मी हयग्रीवाय नमः अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये पाण्डवस्वर्गारोहणं नाम द्वात्रिंशोऽध्यायः ततः कुर",
+      "item_id": "youtube-video-2026-06-23-adhyaya-32-mahabharata-tatparya-nirnaya-sri-madhvacharya-hrw-f14a621df6:0001-0100",
+      "source_id": "youtube-video-2026-06-23-adhyaya-32-mahabharata-tatparya-nirnaya-sri-madhvacharya-hrw-f14a621df6",
+      "path": "youtube/video/2026-06-23-Adhyaya 32   Mahabharata Tatparya Nirnaya — Sri Madhvacharya [HRwX0C1GTxA].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 02 Adhyaya 1 to 10 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "scriptural recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: X-Qh2yf-HpE title: Skandha 02 Adhyaya 1 to 10 SrimadBhagavatam url: https://www.youtube.com/watch?v=X-Qh2yf-HpE date: '2026-06-28' duration: 01:18:34 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- शुक उवाच वरीयानेषते प्रश्नः कृतो लोकहितं नृप आत्मवित्सम्मतः पुंसां श्रोतव्यादिषु यः परः श्रोतव्यानीह राजेन्द्रनृणां सन्ति सहस्रशः अपश्यतामात्मतत्त्वं गृहेषु गृहमेधिनाम् निद्रया ह्रियते नक्तं व्यवायेन नवं वयः दिवाचार्थे हया राजन् ",
+      "item_id": "youtube-video-2026-06-28-skandha-02-adhyaya-1-to-10-srimadbhagavatam-x-qh2yf-hpe-md-031df2047e:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-02-adhyaya-1-to-10-srimadbhagavatam-x-qh2yf-hpe-md-031df2047e",
+      "path": "youtube/video/2026-06-28-Skandha 02 Adhyaya 1 to 10 SrimadBhagavatam [X-Qh2yf-HpE].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 03 Adhyaya 1 to 13 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Canto 3 Recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: V1x5WEo0z4E title: Skandha 03 Adhyaya 1 to 13 SrimadBhagavatam url: https://www.youtube.com/watch?v=V1x5WEo0z4E date: '2026-06-28' duration: 01:33:52 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीशुक उवाच एवमेतत्पुरा पृष्टो मैत्रेयो भगवान् किल क्षत्रावनं प्रविष्टेन त्यक्त्वा स्वगृहमृद्धिमत् यदा त्वयं मन्त्रकृद्वो भगवानखिलेश्वरः पौरवेन्द्रपुरं हित्वा प्रविवेशात्मसात्कृतम् परीक्षिदुवाच कुत्र क्षत्तुर्भगवता मैत्रेयेणाससङ",
+      "item_id": "youtube-video-2026-06-28-skandha-03-adhyaya-1-to-13-srimadbhagavatam-v1x5weo0z4e-md-8563104f27:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-03-adhyaya-1-to-13-srimadbhagavatam-v1x5weo0z4e-md-8563104f27",
+      "path": "youtube/video/2026-06-28-Skandha 03 Adhyaya 1 to 13 SrimadBhagavatam [V1x5WEo0z4E].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 01 Adhyaya 10 to 20 SrimadBhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Canto 1"
+        },
+        {
+          "facet": "activity",
+          "label": "scripture recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: XToloGRiUk0 title: Skandha 01 Adhyaya 10 to 20 SrimadBhagavatam url: https://www.youtube.com/watch?v=XToloGRiUk0 date: '2026-06-28' duration: 01:24:10 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- शौनक उवाच हत्वा स्वरिक्थस्पृध आततायिनो युधिष्ठिरो धर्मभृताङ्गविस्थितः सहानुजैः प्रत्यवरुद्धभोजनः कथं प्रवृत्तः किमकार्षीत्ततः सूत उवाच वंशं कुरोर्वंशदवाग्निनिर्हृतं संरोहयित्वा भवतापनो हरिः निवेशयित्वा निजराज्य ईश्वरो युधिष्ठिरं",
+      "item_id": "youtube-video-2026-06-28-skandha-01-adhyaya-10-to-20-srimadbhagavatam-xtologriuk0-md-32ca5b60f9:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-01-adhyaya-10-to-20-srimadbhagavatam-xtologriuk0-md-32ca5b60f9",
+      "path": "youtube/video/2026-06-28-Skandha 01 Adhyaya 10 to 20 SrimadBhagavatam [XToloGRiUk0].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 03 Adhyaya 24 to 34 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Kapila Gita"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: M0kccYue7ng title: Skandha 03 Adhyaya 24 to 34 SrimadBhagavatam url: https://www.youtube.com/watch?v=M0kccYue7ng date: '2026-06-28' duration: 01:35:26 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- मैत्रेय उवाच पितृभ्यां प्रस्थिते साध्वी पतिमिङ्गितकोविदा नित्यं पर्यचरत्प्रीत्या भवानीव भवं प्रभुम् विश्रम्भेणात्मशौचेन गौरवेण दमेन च शुश्रूषया सौहृदेन वाचा मधुरया प्रभो विसृज्य कामन्दम्भं च द्वेषं लोभमघं मदम् अप्रमत्तोद्यता नित",
+      "item_id": "youtube-video-2026-06-28-skandha-03-adhyaya-24-to-34-srimadbhagavatam-m0kccyue7ng-md-16880991af:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-03-adhyaya-24-to-34-srimadbhagavatam-m0kccyue7ng-md-16880991af",
+      "path": "youtube/video/2026-06-28-Skandha 03 Adhyaya 24 to 34 SrimadBhagavatam [M0kccYue7ng].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 04 Adhyaya 1 to 10 SrimadBhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 4"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "मैत्रेय उवाच मनोस्तु शतरूपायान्ति स्रः कन्याश्च जज्ञिरे आकूतिर्देवहूतिश्च प्रसूतिरिति विश्रुताः आकूतिं रुचये प्रादादपि भ्रातृमतीनृपः पुत्रिकाधर्ममाश्रित्य शतरूपानुमोदितः प्रजापतिस्स भगवान् रुचिस्तस्यामजीजनत् मिथुनं ब्रह्मवर्चस्वी परमेण समाधिना यस्तयोः पुरुषः साक्षात् विष्णुर्यज्ञस्वरूपधृक् या स्त्री सा दक्षिणा भूतेरंशभूतानपायिनी आनिन्ये स्वगृहं पुत्र्याः पुत्रं विततरोचिषम् स्वायम्भुवो मुदायुक्तो रुचिर्जग्राह दक्षिणाम् तां कामयानां भगवानुवाह यजुषां पतिः तुष्टायान्तोषमापन्नो जनयद्वादशात्मजान् तोषः",
+      "item_id": "youtube-video-2026-06-28-skandha-04-adhyaya-1-to-10-srimadbhagavatam-tsj5cotmjpc-md-81b8aeaa02:0016-0115",
+      "source_id": "youtube-video-2026-06-28-skandha-04-adhyaya-1-to-10-srimadbhagavatam-tsj5cotmjpc-md-81b8aeaa02",
+      "path": "youtube/video/2026-06-28-Skandha 04 Adhyaya 1 to 10 SrimadBhagavatam [TSj5cOTmJpc].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 05 Adhyaya 1 to 14 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 5"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "राजोवाच प्रियव्रतो भागवत आत्मारामः कथं मुने गृहे रमतयन्मूलः कर्मबन्धः पराभवः न नूनं मुक्तसङ्गानां तादृशानां महामुने गृहेष्वभिनिवेशोऽयं पुंसां भवितुमर्हति महतां खलु विप्रर्षे उत्तमश्लोकपादयोः छायानिर्वृतचित्तानां न कुटुम्बे स्पृहा मतिः संशयोऽयं महान् ब्रह्मन् दारागारसुतादिषु सक्तस्य यत्सिद्धिरभूत् कृष्णे च मतिरच्युता श्रीशुक उवाच बाढमुक्तं भगवत उत्तमश्लोकस्य श्रीमच्चरणारविन्दमकरन्दरस आदित आवेशितचेतसो भागवतपारमहंस्यदयितः कथञ्चिदन्तराय विहताम् शिवतमां पदवीं न प्रायेण हि हिन्वन्नास्ते यर्हि वावसराजप",
+      "item_id": "youtube-video-2026-06-28-skandha-05-adhyaya-1-to-14-srimadbhagavatam-p4cccldshma-md-5c47feb67a:0016-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-05-adhyaya-1-to-14-srimadbhagavatam-p4cccldshma-md-5c47feb67a",
+      "path": "youtube/video/2026-06-28-Skandha 05 Adhyaya 1 to 14 SrimadBhagavatam [P4CCcLDShmA].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 03 Adhyaya 14 to 23 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: ssPkUVrTPr8 title: Skandha 03 Adhyaya 14 to 23 SrimadBhagavatam url: https://www.youtube.com/watch?v=ssPkUVrTPr8 date: '2026-06-28' duration: 01:26:46 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- शुक उवाच निशम्य वाचं वदतो मुनेः पुण्यतमान् नृप भूयः प्रच्छकौरव्यो वासुदेवकथाधृतः विदुर उवाच स वै स्वायम्भुवः सम्राट् प्रियः पुत्रः स्वयम्भुवः प्रतिलभ्य प्रियां पत्नीं किञ्चकार ततो मुने चरितन्तस्य राजर्षेरादिराजस्य सत्तमा ब्रूहि ",
+      "item_id": "youtube-video-2026-06-28-skandha-03-adhyaya-14-to-23-srimadbhagavatam-sspkuvrtpr8-md-e9046ffb51:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-03-adhyaya-14-to-23-srimadbhagavatam-sspkuvrtpr8-md-e9046ffb51",
+      "path": "youtube/video/2026-06-28-Skandha 03 Adhyaya 14 to 23 SrimadBhagavatam [ssPkUVrTPr8].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Recitation of Srimad Bhagavatam Skandha 05 Adhyaya 15 to 24",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 5"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीशुक उवाच भरतस्यात्मजः सुमतिर्नामभिहितो यमुहवावकेचित् पाषण्डिनो विलोक्य ऋषभपदवीमनुवर्तमानमनार्या अवेद समां नाताम् देवतां सुमनीषया पापीयसीं कलौ कल्पयिष्यन्ति तस्माद्गृध्रसेनायां देवपादिर्नाम पुत्रोभवत् तथा सूर्यान्तत्तनयो देवद्युम्नस्ततो धेनुमत्यां सुतः परमेष्ठी तस्य सुवर्चलायां प्रतीह उपजातो य आत्मविद्यायाम् स्वयमखिलायां संसिद्धो महापुरुषमनुसस्मार प्रतीहात्सुवर्चलायां प्रतिहर्तादयस्त्रया सन्निज्या कोविदास्सूनवः प्रतिहर्तुस्तुत्यां व्योमभूमानावजनिशाताम् व्योन्नरुषिकुल्यायामुद्गीथः प्रस्तोता दे",
+      "item_id": "youtube-video-2026-06-28-skandha-05-adhyaya-15-to-24-srimadbhagavatam-kmkmzdsov2i-md-81f72f1afe:0016-0115",
+      "source_id": "youtube-video-2026-06-28-skandha-05-adhyaya-15-to-24-srimadbhagavatam-kmkmzdsov2i-md-81f72f1afe",
+      "path": "youtube/video/2026-06-28-Skandha 05 Adhyaya 15 to 24 SrimadBhagavatam [KmKmZDSov2I].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 04 Adhyaya 22 to 31 Srimad Bhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "मैत्रेय उवाच जनेषु प्रगुणत्स्वेवं पृथुं पृथुलविक्रमम् तत्रोपजग्मुर्मुनयश्चत्वारः सूर्यवर्चसः तांस्तु सिद्धेश्वरान् राजा व्योम्नो वतरतोर्चिषा लोकानपापान् कुर्वन्त्यासानुगोचष्टलक्षितान् तद्दर्शनोद्गतप्राणान् प्रत्यादित्सुरिवोत्थितः ससदस्यानुगोवैन्य इन्द्रियेषो गुणानिव गौरवाद्यन्त्रितः सभ्यः प्रशया नतकन्धरः विधिवत् पूजयान् चक्रे गृहीतार्घ्यार्हणासनान् तत्पादशौचसलिलैर्मार्जितालकबन्धनः तत्र शीलवतां वृत्तिमाचरन्मानयन्निव हाटकासन आसीनान् स्वधिष्ण्येष्विव पावकान् श्रद्धा संयमसम्पन्नः प्रीतः प्राह भवाग्र",
+      "item_id": "youtube-video-2026-06-28-skandha-04-adhyaya-22-to-31-srimadbhagavatam-qhjinwci0vs-md-5591b6f01d:0016-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-04-adhyaya-22-to-31-srimadbhagavatam-qhjinwci0vs-md-5591b6f01d",
+      "path": "youtube/video/2026-06-28-Skandha 04 Adhyaya 22 to 31 SrimadBhagavatam [qhjInwcI0vs].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 06 Adhyaya 1 to 9 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 6 Recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: fiMLV3P54d0 title: Skandha 06 Adhyaya 1 to 9 SrimadBhagavatam url: https://www.youtube.com/watch?v=fiMLV3P54d0 date: '2026-06-28' duration: 01:24:40 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- राजोवाच निवृत्तिमार्गः कथित आदौ भगवता यथा क्रमयोगोपलब्धेन ब्रह्मणा यदसंस्कृतिः प्रवृत्तिलक्षणश्चैव त्रैगुण्यविषयो मुने योसावलीनः प्रकृतेर्गुणसङ्गः पुनः पुनः अधर्मलक्षणानानानरकाश्चोपवर्णिताः मन्वन्तरश्च व्याख्यात आद्यः स्वायम्भुवो ",
+      "item_id": "youtube-video-2026-06-28-skandha-06-adhyaya-1-to-9-srimadbhagavatam-fimlv3p54d0-md-9092290e04:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-06-adhyaya-1-to-9-srimadbhagavatam-fimlv3p54d0-md-9092290e04",
+      "path": "youtube/video/2026-06-28-Skandha 06 Adhyaya 1 to 9 SrimadBhagavatam [fiMLV3P54d0].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 07 Adhyaya 1 to 8 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Canto 7 Prahlada Charitam"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: QIuhIoC2bV0 title: Skandha 07 Adhyaya 1 to 8 SrimadBhagavatam url: https://www.youtube.com/watch?v=QIuhIoC2bV0 date: '2026-06-28' duration: 01:18:20 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- राजोवाच समः प्रियः सुहृद्ब्रह्मन् भूतानां भगवान् स्वयम् इन्द्रस्यार्थे कथं दैत्यानवधीद्विषमो यथा न ह्यस्यार्थः सुरगणैः साक्षान्निःश्रेयसात्मनः नैवासुरेभ्यो विद्वेषो नोद्वेगश्चागुणस्य हि इति नः सुमहाभाग नारायणगुणान् प्रति संशयः सुम",
+      "item_id": "youtube-video-2026-06-28-skandha-07-adhyaya-1-to-8-srimadbhagavatam-qiuhioc2bv0-md-66b1a76312:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-07-adhyaya-1-to-8-srimadbhagavatam-qiuhioc2bv0-md-66b1a76312",
+      "path": "youtube/video/2026-06-28-Skandha 07 Adhyaya 1 to 8 SrimadBhagavatam [QIuhIoC2bV0].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 06 Adhyaya 10 to 19 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीशुक उवाच इन्द्रमेवं समादिश्य भगवान् विश्वभावनः पश्यतामनिमेषाणां तत्रैवान्तर्दधे हरिः तथाभियाचितो देवैर्ऋषिराथर्वणो महान् मोदमान उवाचेदं प्रहसन्नेव भारत अपि वृन्दारकायूयन्नजानीथशरीरिणां संस्थायां यस्त्वभिद्रोहो दुस्सहश्चेतनापहः जिजीविषूणां जीवानामात्मा प्रेष्ठ इहेप्सितः क उत्सहे ततन्दातुं भिक्षमाणाय विष्णवे देवा ऊचुः किन्नु तद्दुस्त्यजं ब्रह्मन् पुंसां भूतानुकम्पिनाम् भवद्विधानां महतां पुण्यश्लोकेड्यकर्मणाम् नूनं स्वार्थपरो लोको न वेद परसङ्कटम् यदि वेदनया चेतनेति नाह यदिश्वरः ऋषिरुवाच धर्मं व",
+      "item_id": "youtube-video-2026-06-28-skandha-06-adhyaya-10-to-19-srimadbhagavatam-t2ysrry8p1y-md-4e240002d5:0016-0115",
+      "source_id": "youtube-video-2026-06-28-skandha-06-adhyaya-10-to-19-srimadbhagavatam-t2ysrry8p1y-md-4e240002d5",
+      "path": "youtube/video/2026-06-28-Skandha 06 Adhyaya 10 to 19 SrimadBhagavatam [T2ysRrY8p1Y].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 08 Adhyaya 12 to 22 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Vamana and Matsya Avataras"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीशुक उवाच मनुर्विवस्वतः पुत्रः श्राद्धदेव इति श्रुतः सप्तमो वर्तमानो यस्तदपत्यानि मे शृणु इक्ष्वाकुश्चनभश्चैव धृष्टश्चर्यातिरेव च नरिष्यन्तोथनाभागः सप्तमोऽदिष्ट उच्यते करूषश्च विषद्ध्रश्च दशमो वसुमान् स्मृतः मनोर्वैवस्वतस्यैते दशपुत्राः परन्तप आदित्या वसवो रुद्रा विश्वे देवा मरुद्गणाः अश्विना वृभवो राजन् इन्द्रस्तेषां पुरन्दरः कश्यपोत्रिर्वसिष्ठश्च विश्वामित्रोथ गौतमः जमदग्निर्भरद्वाज इति सप्तर्षयः स्मृताः अत्रापि भगवज्जन्मकश्यपाददितेरभूत् आदित्यानामवरजो विष्णुर्वामनरूपधृक् संक्षेपतो मयोक्तान",
+      "item_id": "youtube-video-2026-06-28-skandha-08-adhyaya-12-to-22-srimadbhagavatam-lv1qbzv2-l8-md-3f2586648c:0016-0115",
+      "source_id": "youtube-video-2026-06-28-skandha-08-adhyaya-12-to-22-srimadbhagavatam-lv1qbzv2-l8-md-3f2586648c",
+      "path": "youtube/video/2026-06-28-Skandha 08 Adhyaya 12 to 22 SrimadBhagavatam [lv1qBzv2-L8].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 01 Adhyaya 1 to 9 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam First Canto"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "ॐ नमो भगवते वासुदेवाय जन्माद्यस्य यतोऽन्वयादितरतश्चार्थेष्वभिज्ञस्वराट्तेने ब्रह्महृदाय आदिकवये मुह्यन्तीयं सूरयः तेजोवारिमृदां यथा विनिमयो यत्र त्रिसर्गो मृषाधाम्नास्वेन सदा निरस्तकुहकं सत्यं परं धीमहि धर्मः प्रोद्धितकैतवोत्र परमो निर्मत्सराणां सतां वेद्यं वास्तवमत्र वस्तु शिवदन्तापत्रयोन्मूलनम् श्रीमद्भागवते महामुनिकृते किं वा परैरीश्वरः सद्यो हृद्यवरुध्यतेत्रकृतिभिः शुश्रूषुभिस्तत्क्षणात् निगमकल्पतरोर्गलितं फलं शुकमुखादमृतद्रवसंयुतम् पिबत भागवतं रसमालयं मुहुरहो रसिका भुवि भावुकाः नैमिषे निमिष",
+      "item_id": "youtube-video-2026-06-28-skandha-01-adhyaya-1-to-9-srimadbhagavatam-fjt8dgaww38-md-f5e643d555:0016-0115",
+      "source_id": "youtube-video-2026-06-28-skandha-01-adhyaya-1-to-9-srimadbhagavatam-fjt8dgaww38-md-f5e643d555",
+      "path": "youtube/video/2026-06-28-Skandha 01 Adhyaya 1 to 9 SrimadBhagavatam [fJt8dgAWw38].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 08 Adhyaya 1 to 11 Srimad Bhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 8"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 99
+      },
+      "quote": "--- id: 1cJzpfbASqY title: Skandha 08 Adhyaya 1 to 11 SrimadBhagavatam url: https://www.youtube.com/watch?v=1cJzpfbASqY date: '2026-06-28' duration: 01:33:53 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- राजोवाच स्वायंभुवस्येह मनोर्वंशोयं विस्तराच्छ्रुतः यत्र विश्वसृजां सर्गो मनूनन्यान् वदस्वनः यत्र धर्मा हि विविधाश्चतुर्वर्णाश्रिताशुभाः मन्वन्तरे हरेर्जन्मकर्माणि च महीयसः गृणन्ति कवयो ब्रह्मन् तानि नो वद शृण्वताम् यदस्मिन्नन्तरे",
+      "item_id": "youtube-video-2026-06-28-skandha-08-adhyaya-1-to-11-srimadbhagavatam-1cjzpfbasqy-md-87339dd2f7:0001-0099",
+      "source_id": "youtube-video-2026-06-28-skandha-08-adhyaya-1-to-11-srimadbhagavatam-1cjzpfbasqy-md-87339dd2f7",
+      "path": "youtube/video/2026-06-28-Skandha 08 Adhyaya 1 to 11 SrimadBhagavatam [1cJzpfbASqY].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 07 Adhyaya 9 to 15 SrimadBhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 7"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "नारद उवाच एवं सुरादयः सर्वे ब्रह्मरुद्रपुरःसराः नोपेतुमशकान्मन्युसङ्ग्रहं सुदुरासदम् साक्षात् श्रीः प्रेषिता देवैर्दृष्ट्वा तन्महदद्भुतम् अदृष्टा श्रुतपूर्वत्वात् सा नोपेयायशङ्किता प्रह्लादं प्रेषयामास ब्रह्मावस्थितमन्तिके तातप्रशमयोपेहिस्वपित्रे कुपितं प्रभुम् तथेति शनकैराजन्महाभागवतोर्भकः उपेत्य भुविकायेन न नाम विधृताञ्जलिः स्वपादमूले पतितं तमर्भकं विलोक्य देवः कृपया परिप्लुतः स्थाप्य तच्छीर्षदधात्कराम्बुजं कालाहि निर्दष्टधियां कृताभयं सतत्करस्पर्शधुताखिलाशुभस्सपद्यभिव्यक्तपरात्मदर्शनः तत्पादप",
+      "item_id": "youtube-video-2026-06-28-skandha-07-adhyaya-9-to-15-srimadbhagavatam-pptepbtggaq-md-6b6963bb5d:0016-0115",
+      "source_id": "youtube-video-2026-06-28-skandha-07-adhyaya-9-to-15-srimadbhagavatam-pptepbtggaq-md-6b6963bb5d",
+      "path": "youtube/video/2026-06-28-Skandha 07 Adhyaya 9 to 15 SrimadBhagavatam [PpTEPBTGGaQ].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 04 Adhyaya 11 to 21 SrimadBhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Canto 4 Chapters 11-21"
+        },
+        {
+          "facet": "activity",
+          "label": "scriptural recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 105
+      },
+      "quote": "मैत्रेय उवाच प्रजापतेर्दुहितरं शिंशुमारस्य वै ध्रुवः उपयेमे भ्रमिन्नमतत्सुतौ कल्पवत्सरौ इलायामपि भार्यायां वायोः पुत्र्यां महाबलः पुत्रमुत्कलनामानं योगेश्वरमजीजनत् तमस्त्वकृतोद्वाहो मृगयायां बलीयसा हतः पुण्यजनेनाद्रौ तन्माता तद्गतिं गता ध्रुवो भ्रातृवधं श्रुत्वा कोपामर्षशुचार्पितः जैत्रं स्यन्दनमास्थाय गतः पुण्यजनालयम् गत्वोदीचीन्दिशं राजा रुद्रानुचरसेविताम् ददर्श हिमवद्रोण्यां पुरीं गुह्यकसङ्कुलाम् तद्मौ शङ्खं महाबाहुः खन्दिशश्चानुनादयन् येनोद्विग्नदृशः क्षत्तरुपदेव्योत्रसन्भृशम् ततो निष्क्रम्य",
+      "item_id": "youtube-video-2026-06-28-skandha-04-adhyaya-11-to-21-srimadbhagavatam-nzs4hcwu0ry-md-9e35b8c09b:0016-0105",
+      "source_id": "youtube-video-2026-06-28-skandha-04-adhyaya-11-to-21-srimadbhagavatam-nzs4hcwu0ry-md-9e35b8c09b",
+      "path": "youtube/video/2026-06-28-Skandha 04 Adhyaya 11 to 21 SrimadBhagavatam [NZS4hcwu0RY].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 09 Adhyaya 11 to 21 SrimadBhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "श्रीशुक उवाच निमिरिक्ष्वाकुतनयो वसिष्ठमवृतर्त्विजम् आरभ्यसत्रं सोप्याह शक्रेण प्राघृतोऽस्मि भोः तन्निर्वर्त्यागमिष्यामि तावन्मां प्रतिपालय तूष्णीमासीद् गृहपतिः सोपीन्द्रस्याकरोन्मुखम् निमिश्चलमिदं विद्वान् सत्रमारभतात्मवान् ऋत्विग्भिरपरैस्तावद्यावत्तन्नागमद्गुरुः शिष्यव्यतिक्रमं वीक्ष्य निर्वर्त्य गुरुरागतः अशपत्पततान्देहो निमेः पण्डितमानिनः निमिः प्रतिददौ शापङ्गुरवे धर्मवर्तिने तवापि पततान्देहो लोभाद्धर्ममजानतः इत्युत्ससर्जतन्देहन्निमिरध्यात्मकोविदः मित्रावरुणयोर्जज्ञे ऊर्वश्यां प्रपितामहः गन्ध",
+      "item_id": "youtube-video-2026-06-28-skandha-09-adhyaya-11-to-21-srimadbhagavatam-vki5szh1mtc-md-6feb71c345:0016-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-09-adhyaya-11-to-21-srimadbhagavatam-vki5szh1mtc-md-6feb71c345",
+      "path": "youtube/video/2026-06-28-Skandha 09 Adhyaya 11 to 21 SrimadBhagavatam [Vki5sZh1mTc].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 10 Adhyaya 14 to 28 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: BxaNFRISuTU title: Skandha 10 Adhyaya 14 to 28 SrimadBhagavatam url: https://www.youtube.com/watch?v=BxaNFRISuTU date: '2026-06-28' duration: 01:41:24 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीशुक उवाच विलोक्य दूषितां कृष्णां कृष्णः कृष्णा हिना विभुः तस्या विशुद्धिमन्विच्छन् सर्पन्तमुदवासयत् राजोवाच कथमन्तर्जले गाधेन्यगृह्णाद् भगवानहिम् स वै बहुयुगावासी यथासीद्विप्रकथ्यताम् ब्रह्मन् भगवतस्तस्य भूम्नः स्वच्छन्दवर्त",
+      "item_id": "youtube-video-2026-06-28-skandha-10-adhyaya-14-to-28-srimadbhagavatam-bxanfrisutu-md-7176958efc:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-10-adhyaya-14-to-28-srimadbhagavatam-bxanfrisutu-md-7176958efc",
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 14 to 28 SrimadBhagavatam [BxaNFRISuTU].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 10 Adhyaya 55 to 67 Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: IL7diQKoFjw title: Skandha 10 Adhyaya 55 to 67 SrimadBhagavatam url: https://www.youtube.com/watch?v=IL7diQKoFjw date: '2026-06-28' duration: 01:49:22 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- इत्थं सोनुगृहीतोङ्गकृष्णेनेक्ष्वाकुनन्दनः तं परिक्रम्य सन्नम्य निश्चक्रामगुहामुखात् सवीक्ष क्षुल्लकान् मर्त्यान् पशून् वीरुद्वनस्पतीन् मत्वा कलियुगं प्राप्तं जगाम दिशमुत्तराम् तपःश्रद्धायुतो वीरो निस्सङ्गो मुक्तसंशयः समाधाय मनः ",
+      "item_id": "youtube-video-2026-06-28-skandha-10-adhyaya-55-to-67-srimadbhagavatam-il7diqkofjw-md-07f476bb47:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-10-adhyaya-55-to-67-srimadbhagavatam-il7diqkofjw-md-07f476bb47",
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 55 to 67 SrimadBhagavatam [IL7diQKoFjw].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 10 Adhyaya 43 to 54 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Krishna Leela"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "श्रीशुक उवाच पितरा उपलब्धार्थौ विदित्वा पुरुषोत्तमः मा भूदिति निजान् मायान् तता न जनमोहिनीम् उवाच पितरावेत्यसाग्रजस्सात्वतर्षभः प्रशयावनतः प्रीणन्नं वतातेति सादरम् नास्मत्तो युवयोस्तातनित्योत्कण्ठितयोरपि बाल्यपौगण्डकैशोराः पुत्राभ्यामगमन् क्वचित् न लब्धो दैवहतयोर्वासो नौ भवदन्ति के यां बालाः पितृगेहस्था विन्दन्ते लालितामुदम् सर्वार्थसम्भवो देहो जनितः पोषितो यतः न तयोर्याति निर्वेषं पित्रोर्मर्त्यः शतायुषा यस्तयोरात्मजः कल्प आत्मना च धनेन च वृत्तिन्न दद्यात्तं प्रेत्य स्वमांसं खादयन्तिहि मातरं पि",
+      "item_id": "youtube-video-2026-06-28-skandha-10-adhyaya-43-to-54-srimadbhagavatam-ntgqiwwguik-md-299f75d7d4:0016-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-10-adhyaya-43-to-54-srimadbhagavatam-ntgqiwwguik-md-299f75d7d4",
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 43 to 54 SrimadBhagavatam [NtGqIwwGuIk].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 10 Adhyaya 68 to 78 SrimadBhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 10"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: 9AQY8ANfGRc title: Skandha 10 Adhyaya 68 to 78 SrimadBhagavatam url: https://www.youtube.com/watch?v=9AQY8ANfGRc date: '2026-06-28' duration: 01:42:54 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- श्रीशुक उवाच आराध्य देवदेवेशं शङ्करं लोकशङ्करम् तपसा तोषयित्वा तं कैलासगिरिवासिनम् रुग्मिण्यान्तनयं लेभे दग्धं कामं पुनर्हरिः वीरं प्रद्युम्ननामानं रूपौदार्यगुणान्वितम् पुत्रार्थमीश्वरं दृष्ट्वा स्वयं लब्धवरो हरिः अवाप कीदृशं पु",
+      "item_id": "youtube-video-2026-06-28-skandha-10-adhyaya-68-to-78-srimadbhagavatam-9aqy8anfgrc-md-bdb639d276:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-10-adhyaya-68-to-78-srimadbhagavatam-9aqy8anfgrc-md-bdb639d276",
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 68 to 78 SrimadBhagavatam [9AQY8ANfGRc].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Recitation of Srimad Bhagavatam Skandha 9 Adhyayas 1 to 10",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Surya Vamsha genealogies and legends"
+        },
+        {
+          "facet": "activity",
+          "label": "purana recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "राजोवाच मन्वन्तराणि सर्वाणि त्वयोक्तानि श्रुतानि मे वीर्याण्यनन्तवीर्यस्य हरेस्तत्र कृतानि च यो सौ सत्यव्रतो नाम राजर्षिद्रविडेश्वरः ज्ञानं योति तकल्पान्ते लेभे पुरुषसेवया स वै विवस्वतः पुत्रो मनुरासीदिति श्रुतम् त्वया तस्य सुताः प्रोक्ता इक्ष्वाकुप्रमुखा नृपाः तेषां वंशं पृथग्ब्रह्मन्वंशानुचरितानि च कीर्तयस्व महाभागनित्यं शुश्रूषतां हि नः ये भूता ये भविष्याश्च भवन्त्यद्यतनाश्च ये तेषान् नः पुण्यकीर्तीनां सर्वेषां वदविक्रमान् सूत उवाच एवं परीक्षिताराज्ञा सदसि ब्रह्मवादिनाम् पृष्टः प्रोवाच भगवान्",
+      "item_id": "youtube-video-2026-06-28-skandha-09-adhyaya-1-to-10-srimadbhagavatam-lgyqzkivrcq-md-10c23ea699:0016-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-09-adhyaya-1-to-10-srimadbhagavatam-lgyqzkivrcq-md-10c23ea699",
+      "path": "youtube/video/2026-06-28-Skandha 09 Adhyaya 1 to 10 SrimadBhagavatam [lGYQZKivrcQ].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 10 Adhyaya 92 to 105 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Tenth Canto"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "श्रीशुक उवाच दुर्योधनसुतां राजन् लक्षणां समितिं जयः स्वयंवरस्थामहरत्साम्बो जाम्बवतीसुतः कुरवः कुपिता ऊचुर्दुर्विनीतो यमर्भकः कदर्थीकृत्यनः कन्यामकामामहरद्बलात् बध्नीतैनं दुर्विनीतं किं करिष्यन्ति वृष्णयः येस्मत्प्रसादोपचितान् दत्तान् नो भुञ्जते महीम् निगृहीतं सुतं श्रुत्वा यद्येष्यन्तीह वृष्णयः भग्नदर्पाशमं यान्ति शीर्णदन्ता इवा हयः इति कर्णं समालोक्य भूरिश्रवसुयोधनौ सदुःशासनगान्धारौ दुर्मन्त्रैकान्तशीलिनौ एतेतिक्रम्य विदुरं गान्धारीं च यशस्विनीम् साम्बमारेभिरे बद्धुं कुरु वृद्धैरसङ्गताः दृष्ट्व",
+      "item_id": "youtube-video-2026-06-28-skandha-10-adhyaya-92-to-105-srimadbhagavatam-4n7tyrvsdx0-md-09f07fc284:0016-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-10-adhyaya-92-to-105-srimadbhagavatam-4n7tyrvsdx0-md-09f07fc284",
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 92 to 105 SrimadBhagavatam [4n7tyrvsdx0].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 11 Adhyaya 1 to 10 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "scripture recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "श्रीशुक उवाच कृत्वा दैत्यवधं कृष्णः स रामो यदुभिर्वृतः भुवोवतारयं भारं जविष्ठं जनयन् कलिम् ये कोपिताः सुबहु पाण्डुसुताः सपत्नैर्दुर्द्यूतहेलनकचग्रहणादिभिस्तान् कृत्वा निमित्तमितरेतरतस्समेतान् हत्वा परान् निरहरत् क्षितिभारमीशः भूभारराजपृतना यदुभिर्निरस्य गुप्तैः स्वबाहुभिरचिन्तयदप्रमेयः मन्ये वनेर्ननुगतोऽप्यगतोऽपि भारो यद्यादवं कुलमहो अविषह्यमास्ते नैवान्यतः परिभवोऽस्य भवेत् कथञ्चित् मत्संशयस्य विभवोन्नहनस्य नित्यम् अन्तःकलिं यदुकुलस्य विधाय वेणुसङ्घस्य वह्निमिव शान्तिमुपैमि धाम एवं व्यवसितो राजन",
+      "item_id": "youtube-video-2026-06-28-skandha-11-adhyaya-1-to-10-srimadbhagavatam-h61hsrjhovc-md-c16c91c7ea:0016-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-11-adhyaya-1-to-10-srimadbhagavatam-h61hsrjhovc-md-c16c91c7ea",
+      "path": "youtube/video/2026-06-28-Skandha 11 Adhyaya 1 to 10 SrimadBhagavatam [h61hsrjhovc].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Recitation of Srimad Bhagavatam Skandha 10 Adhyayas 1 to 13",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Krishna Leela"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 105
+      },
+      "quote": "राजोवाच कथितो वंशविस्तारो भवता सोमसूर्ययोः राज्ञाञ्चोभयवंश्यानां चरितं परमाद्भुतम् यदोश्च धर्मशीलस्य नितरां मुनिसत्तम तत्रांशेनावतीर्णस्य विष्णोर्वीर्याणि शंसनः अवतीर्य यदोर्वंशे भगवान् भूतभावनः कृतवान् यानि विश्वात्मा तानि नो वद विस्तरात् निवृत्ततरशैरुपगीयमानाद्भवौषधाच्छ्रोत्रमनोभिरामात् क उत्तमश्लोकगुणानुवादात् पुमान् विरज्येत विना विनाति मुग्धान् पितामहामे समरे मरञ्जयर्देवव्रताद्यातिरथैस्तिमिङ्गिलैः दुरत्ययं कौरवसैन्यसागरं कृत्वा तरन्वत्सपदं स्मयत्प्लवाः द्रौण्यस्त्रविप्लुष्टमिदं मदङ्गं सन्ता",
+      "item_id": "youtube-video-2026-06-28-skandha-10-adhyaya-1-to-13-srimadbhagavatam-iubkppwcejq-md-b3c5f65b86:0016-0105",
+      "source_id": "youtube-video-2026-06-28-skandha-10-adhyaya-1-to-13-srimadbhagavatam-iubkppwcejq-md-b3c5f65b86",
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 1 to 13 SrimadBhagavatam [iUBKPpWceJQ].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 11 Adhyaya 22 to 31 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Uddhava Gita and Krishna's departure"
+        },
+        {
+          "facet": "activity",
+          "label": "scriptural recitation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "--- id: N3cMNqa7jpk title: Skandha 11 Adhyaya 22 to 31 SrimadBhagavatam url: https://www.youtube.com/watch?v=N3cMNqa7jpk date: '2026-06-28' duration: 01:23:08 model: sarvam saaras:v4 transcript: true speaker_count: 1 speakers: null language: sa-IN content: recitation --- द्वाविंशः अध्यायः थव उवाच कानि तत्त्वानि विश्वेशसङ्ख्यातानि ऋषिभिः प्रभो नवैकादशपञ्चत्रीनाथत्वमिह शुश्रुम केचित् षड्विंशतिं प्राहुरपरे पञ्चविंशतिम् सप्तैके नवषट्केचित् चत्वार्येकादशापरे केचित् सप्तदशप्राहुः षोडशैके त्रयोदश श्रीभ",
+      "item_id": "youtube-video-2026-06-28-skandha-11-adhyaya-22-to-31-srimadbhagavatam-n3cmnqa7jpk-md-699b744e92:0001-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-11-adhyaya-22-to-31-srimadbhagavatam-n3cmnqa7jpk-md-699b744e92",
+      "path": "youtube/video/2026-06-28-Skandha 11 Adhyaya 22 to 31 SrimadBhagavatam [N3cMNqa7jpk].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 12 Adhyaya 1 to 13 Srimad Bhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 12"
+        },
+        {
+          "facet": "activity",
+          "label": "scriptural recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीशुक उवाच योन्त्योरिपुञ्जयो नाम भविष्यो बारुहद्रथः तस्यामात्यस्तु मुनिको हत्वा स्वामिनमात्मजम् प्रद्योतसङ्घ्यं राजानं कर्ता यत्पालकः सुतः विशाखयूपस्तत्पुत्रो भविता चाजकस्ततः नन्दिवर्धस्तु तत्पुत्रः पञ्चप्रद्योतना इमे अष्टत्रिंशोत्तरशतं भोक्ष्यन्ति पृथिवीमिमाम् शिशुनागस्ततो भाव्यः काकवर्णस्तु तत्सुतः क्षेमधर्मा तस्य सुतः क्षेत्रज्ञः क्षेमधर्मजः विधिसारस्सुतस्तस्याजातशत्रुर् भविष्यति दर्भकस्तत्सुतो भाव्यो दर्भकस्याजयस्ततः नन्दिवर्धन आजेयो महानन्दिश्च तत्सुतः शैशुनागादशैते वै षष्ट्युत्तरशतत्रयम्",
+      "item_id": "youtube-video-2026-06-28-skandha-12-adhyaya-1-to-13-srimadbhagavatam-bhp02r-71bm-md-335d3c4ecf:0016-0115",
+      "source_id": "youtube-video-2026-06-28-skandha-12-adhyaya-1-to-13-srimadbhagavatam-bhp02r-71bm-md-335d3c4ecf",
+      "path": "youtube/video/2026-06-28-Skandha 12 Adhyaya 1 to 13 SrimadBhagavatam [bHp02R-71BM].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 11 Adhyaya 11 to 21 SrimadBhagavatam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Uddhava Gita"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "श्रीभगवानुवाच बद्धो मुक्त इति ह्याख्या गुणतो मे न वस्तुतः गुणस्य माया मूलत्वान्न मे मोक्षो न बन्धनम् शोकमोहौ सुखं दुःखं देहापत्तिश्च मायया स्वप्ने यथात्मनः ख्यातिः संस्कृतिर्न तु वास्तवी विद्याविद्ये मम तनु विद्युद्धवशरीरिणाम् मोक्षबन्धकरी आद्ये मायया मे विनिर्मिते एकस्यैव ममांशस्य जीवस्यैवं महामते बन्धोऽस्याविद्यानादिर्विद्यया च तथेतरात् अथ बद्धस्य मुक्तस्य वैलक्षण्यं वदामि ते विरुद्धधर्मिणोस्तातस्थितयोरेकधर्मिणी सुपर्णावेतौ सदृशौ सखायौ यदृच्छया कृतनीडौ च वृक्षे एकस्तयोः खादति पिप्पलान्नमन्यो न",
+      "item_id": "youtube-video-2026-06-28-skandha-11-adhyaya-11-to-21-srimadbhagavatam-xy-o6llrwm-md-52194ba9d2:0016-0100",
+      "source_id": "youtube-video-2026-06-28-skandha-11-adhyaya-11-to-21-srimadbhagavatam-xy-o6llrwm-md-52194ba9d2",
+      "path": "youtube/video/2026-06-28-Skandha 11 Adhyaya 11 to 21 SrimadBhagavatam [Xy__O6lLrWM].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "अर्जुनविषादयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Bhagavad Gita Chapter 1"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ प्रथमोऽध्यायः अर्जुनविषादयोगः धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् पश्यैतां पाण्डुपुत्राणाम् आचार्यमहतीं च मूम् व्यूढान् द्रुपदपुत्रेण तव शिष्येण धीमता अत्र शूरा महेश्वासा भीमार्जुनसमायुधी युयुधानो विराटश्च द्रुपदश्च महारथः धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् पुरुजित्कुन्तिभोजश्च शैभ्यश्च नरपुङ्गवः युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्",
+      "item_id": "youtube-video-2026-10-01-chapter01-g3g-bz7j-oi-md-0d2011cec2:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter01-g3g-bz7j-oi-md-0d2011cec2",
+      "path": "youtube/video/2026-10-01-chapter01 [g3G-bZ7j_OI].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "कर्मसंन्यासयोगः (Karma Sannyasa Yoga)",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Karma Sannyasa Yoga"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ पञ्चमोऽध्यायः कर्मसंन्यासयोगः अर्जुन उवाच संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् श्रीभगवानुवाच संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ तयोस्तु कर्मसन्न्यासात् कर्मयोगो विशिष्यते ज्ञेयः स नित्यसन्न्यासी यो न द्वेष्टि न काङ्क्षति निर्द्वन्द्वो हि महाबाहो सुखं बन्धात् प्रमुच्यते साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम् यत्साङ्ख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते एकं साङ्ख्यं च योगं च यः पश्यति स पश्यति संन्यास",
+      "item_id": "youtube-video-2026-10-01-chapter05-gf3ky9gjxdw-md-31243b70cc:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter05-gf3ky9gjxdw-md-31243b70cc",
+      "path": "youtube/video/2026-10-01-chapter05 [Gf3KY9gjxDw].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "तृतीयोऽध्यायः कर्मयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "कर्मयोग"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ तृतीयोऽध्यायः कर्मयोगः अर्जुन उवाच ज्यायसि चेत् कर्मणस्ते मता बुद्धिर्जनार्दन तत्किं कर्मणि घोरे मन्योजयसि केशव व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीवमे तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् श्री भगवानुवाच लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मया नघ ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् न कर्मणा मनारम्भान्नैष्कर्म्यं पुरुषोष्नुते न च संन्यसनादेव सिद्धिं समधिगच्छति न हि कश्चित् क्षणमपि जातु तिष्ठत्यकर्मकृत् कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः कर्मेन्द्रियाणि संयम्य य आस्ते म",
+      "item_id": "youtube-video-2026-10-01-chapter03-b4k8wr48n34-md-9cdc750b97:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter03-b4k8wr48n34-md-9cdc750b97",
+      "path": "youtube/video/2026-10-01-chapter03 [b4K8wR48n34].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "ज्ञानकर्मसन्न्यासयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Jnana Karma Sanyasa Yoga"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ चतुर्थोऽध्यायः ज्ञानकर्मसन्न्यासयोगः श्रीभगवानुवाच इमं विवस्वते योगं प्रोक्तवानहमव्ययम् विवस्वान् मनवे प्राहमनुरिक्ष्वाकवे ब्रवीत् एवं परम्परा प्राप्तमिमं राजर्षयो विदुः स काले नेहमहता योगो नष्टः परन्तप स एवायं मया तेद्ययोगः प्रोक्तः पुरातनः भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् अर्जुन उवाच अपरं भवतो जन्म परं जन्म विवस्वतः कथमेतद्विजानीयान् त्वमादौ प्रोक्तवानिति श्री भगवानुवाच बहूनि मे व्यतीतानि जन्मानि तव चार्जुन तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽ",
+      "item_id": "youtube-video-2026-10-01-chapter04-5bnoazmgbj8-md-099bc6bb83:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter04-5bnoazmgbj8-md-099bc6bb83",
+      "path": "youtube/video/2026-10-01-chapter04 [5bnoAzmGbJ8].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "साङ्ख्ययोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "साङ्ख्ययोगः"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ द्वितीयोऽध्यायः साङ्ख्ययोगः सञ्जय उवाच तन्तथा कृपयाविष्टम् अश्रुपूर्णाकुलेक्षणम् विशीदन्तमिदं वाक्यमुवाच मधुसूदनः श्रीभगवानुवाच कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन क्लैव्यं मास्मकमः पार्थ नैतत्त्वय्युपपद्यते क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठपरन्तप अर्जुन उवाच कथं भीष्ममहं सङ्ख्ये द्रोणञ्च मधुसूदन इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन गुरु न हत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपि हलोके हत्वार्थकांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान",
+      "item_id": "youtube-video-2026-10-01-chapter02-bonenbpmw7i-md-07d70b2a18:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter02-bonenbpmw7i-md-07d70b2a18",
+      "path": "youtube/video/2026-10-01-chapter02 [BONEnBPmW7I].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "आत्मसंयमयोगः (Bhagavad Gita Chapter 6 Recitation)",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Atma Samyama Yoga"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ षष्ठोऽध्यायः आत्मसंयमयोगः श्रीभगवानुवाच अनाश्रितः कर्मफलं कार्यं कर्म करोति यः ससंन्यासी च योगी च न निरग्निर्न चाक्रियः यं संन्यासमिति प्राहुर्योगन्तं विद्धि पाण्डव न ह्यसन्यस्तसङ्कल्पो योगी भवति कश्चन आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते योगारूढस्य तस्यैव शमः कारणमुच्यते यदा हिनेन्द्रियार्थेषु न कर्मस्वनुषज्जते सर्वसङ्कल्पसन्न्यासी योगारूढस्तदोच्यते उद्धरेदात्मनात्मानन्नात्मानमवसादयेत् आत्मैव ह्यात्मनो बन्धुरात्मैवरिपुरात्मनः बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः अनात्मनस्तु शत्रुत्वे",
+      "item_id": "youtube-video-2026-10-01-chapter06-2qznmm7nvtq-md-746c8b5fd1:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter06-2qznmm7nvtq-md-746c8b5fd1",
+      "path": "youtube/video/2026-10-01-chapter06 [2qzNmm7NVTQ].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "ज्ञानविज्ञानयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "bhagavad gita chapter 7"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ सप्तमोऽध्यायः ज्ञानविज्ञानयोगः श्रीभगवानुवाच मय्यासक्तमनाः पार्थ योगं युञ्जनमदाश्रयः असंशयं समग्रं मां यथाज्ञास्यसि तच्छृणु ज्ञानन्तेहं सविज्ञानमिदं वक्ष्याम्यशेषतः यज्ञात्वानेह भूयोऽन्यज्ञातव्यमवशिष्यते मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये यततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः भूमिरापो नलो वायुः खं मनो बुद्धिरेव च अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा अपरेयमितस्त्वन्यां प्रकृतिं विद्धिमे पराम् जीवभूतां महाबाहो ययेदं धार्यते जगत् एतद्योनीनि भूतानि सर्वाणीत्युपधारय अहंकृत्स्नस्य जगतः",
+      "item_id": "youtube-video-2026-10-01-chapter07-rxrjgipdid4-md-4b1ca27b78:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter07-rxrjgipdid4-md-4b1ca27b78",
+      "path": "youtube/video/2026-10-01-chapter07 [rxRJgiPdId4].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "राजविद्याराजगुह्ययोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Bhagavad Gita Chapter 9"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ नवमोऽध्यायः राजविद्याराजगुह्ययोगः श्रीभगवानुवाच इदन्तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ज्ञानं विज्ञानसहितं यज्ञात्वा मोक्ष्यसे शुभात् राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् अश्रद्धधानाः पुरुषा धर्मस्यास्य परन्तप अप्राप्यमान्निवर्तन्ते मृत्युसंसारवर्त्मनि मया ततमिदं सर्वं जगदव्यक्तमूर्तिना मत्स्थानि सर्वभूतानि न चाहन्तेष्ववस्थितः न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् भूतभृन्न च भूतस्थो ममात्मा भूतभावनः यथाकाशस्थितो नित्यं वायुः सर्वत्र गो महान् तथा ",
+      "item_id": "youtube-video-2026-10-01-chapter09-9zj8sg1snwo-md-662c9c9f6b:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter09-9zj8sg1snwo-md-662c9c9f6b",
+      "path": "youtube/video/2026-10-01-chapter09 [9Zj8SG1sNwo].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "अक्षरब्रह्मयोगः (भगवद्गीता अध्याय ८)",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Akshara Brahma Yoga"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ अष्टमोऽध्यायः अक्षरब्रह्मयोगः अर्जुन उवाच किं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते अधियज्ञः कथं कोत्र देहेस्मिन् मधुसूदन प्रयाणकाले च कथं ज्ञेयोषि नियतात्मभिः श्री भगवानुवाच अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते भूतभावोद्भवकरो विसर्गः कर्मसञ्ज्ञितः अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् अधियज्ञोऽहमेवात्र देहे देहभृतां वर अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् यः प्रयाति समद्भावं याति नास्त्यत्र संशयः यं यं वापि स्मरन् भावन्त्यजत्यन्ते कलेवरम् तन्",
+      "item_id": "youtube-video-2026-10-01-chapter08-vbrdqm49pzq-md-bdfb46d456:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter08-vbrdqm49pzq-md-bdfb46d456",
+      "path": "youtube/video/2026-10-01-chapter08 [VBRDQm49pZQ].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "विभूतियोगः (दशमोऽध्यायः)",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "विभूतियोगः"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "अथ दशमोऽध्यायः विभूतियोगः श्रीभगवानुवाच भूय एव महाबाहो शृणु मे परमं वचः यत्तेहं प्रीयमाणाय वक्ष्यामि हितकाम्यया न मे विदुस्सुरगणाः प्रभवन्नमहर्षयः अहमादिर्हि देवानां महर्षीणां च सर्वशः यो मामजमनादिं च वेत्ति लोकमहेश्वरम् असम्मूढः समर्थ्येषु सर्वपापैः प्रमुच्यते बुद्धिर्ज्ञानमसंमोहः क्षमा सत्यं दमः शमः सुखं दुःखं भवो भावो भयञ्चाभयमेव च अहिंसा समता तुष्टिस्तपोदानं यशो यशः भवन्ति भावा भूतानां मत्त एव पृथग्विधाः महर्षयः सप्तपूर्वे चत्वारो मनवस्तथा मद्भावा मानसा जाता येषां लोकैमाः प्रजाः एतां विभूतिं",
+      "item_id": "youtube-video-2026-10-01-chapter10-toldr-t1rrs-md-affede0f3a:0016-0100",
+      "source_id": "youtube-video-2026-10-01-chapter10-toldr-t1rrs-md-affede0f3a",
+      "path": "youtube/video/2026-10-01-chapter10 [TOLdr-T1Rrs].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "विश्वरूपदर्शनयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "विश्वरूपदर्शन योग"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 114
+      },
+      "quote": "अथ एकादशोऽध्यायः विश्वरूपदर्शनयोगः अर्जुन उवाच मदनुग्रहाय परमं गुह्यमध्यात्मसन्नितम् यत्त्वयोक्तं वचस्तेन मोहो यं विगतो मम भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया त्वत्तः कमलपत्राक्षमाहात्म्यमपि चाव्ययम् एवमेतद्यथार्थत्वमात्मानं परमेश्वर द्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो योगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम् श्री भगवानुवाच पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः नानाविधानि दिव्यानि नानावर्णाकृतीनि च पश्यादित्यान् वसून् रुद्रानश्विनौ मरुतस्तथा बहून्य",
+      "item_id": "youtube-video-2026-10-01-chapter11-eyowo4nqinw-md-7855f47ee8:0016-0114",
+      "source_id": "youtube-video-2026-10-01-chapter11-eyowo4nqinw-md-7855f47ee8",
+      "path": "youtube/video/2026-10-01-chapter11 [EyOwO4nQINw].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "भक्तियोगः (द्वादशोऽध्यायः)",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Bhakti Yoga"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 90
+      },
+      "quote": "अथ द्वादशोऽध्यायः भक्तियोगः अर्जुन उवाच एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः श्री भगवानुवाच मय्यावेश्य मनो ये मान् नित्ययुक्ता उपासते श्रद्धया परयोपेतास्ते मे युक्ततमा मताः ये त्वक्षरमनिर्देश्यम् अव्यक्तं पर्युपासते सर्वत्रगमचिन्त्यञ्च कूटस्थम् अचलम् ध्रुवम् सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः ते प्राप्नुवन्ति मामेव सर्वभूतहितेरताः क्लेशोधिकतरस्तेषाम् अव्यक्तासक्तचेतसाम् अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ये तु सर्वाणि कर्माणि मयि संन्यस्य",
+      "item_id": "youtube-video-2026-10-01-chapter12-dc-2nvsmses-md-ae4b69a1ae:0016-0090",
+      "source_id": "youtube-video-2026-10-01-chapter12-dc-2nvsmses-md-ae4b69a1ae",
+      "path": "youtube/video/2026-10-01-chapter12 [dC-2NvSmses].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "दैवासुरसम्पद्विभागयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "दैवासुरसम्पद्विभागयोगः"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 102
+      },
+      "quote": "अथ षोडशोऽध्यायः दैवासुरसम्पद्विभागयोगः श्रीभगवानुवाच अभयं सत्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् तेजः शमा धृतिः शौचमद्रोहो नातिमानिता भवन्ति सम्पदं दैवीमभिजातस्य भारत दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च अज्ञानं चाभिजातस्य पार्थसम्पदमासुरीम् दैवी सम्पद्विमोक्षाय निबन्धाय सुरीमता माशुचः सम्पदं दैवीमभिजातोसि पाण्डव द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च दैवो विस्तरशः प्रोक्त ",
+      "item_id": "youtube-video-2026-10-01-chapter16-pyuqxykdqai-md-0517357d4f:0016-0102",
+      "source_id": "youtube-video-2026-10-01-chapter16-pyuqxykdqai-md-0517357d4f",
+      "path": "youtube/video/2026-10-01-chapter16 [PyuqXYkdQaI].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "क्षेत्रक्षेत्रज्ञविभागयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "क्षेत्रक्षेत्रज्ञविभागयोग"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ त्रयोदशोऽध्यायः क्षेत्रक्षेत्रज्ञविभागयोगः श्रीभगवानुवाच इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते एतद्यो वेत्तितं प्राहुः क्षेत्रज्ञ इति तद्विदः क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ञानं मतं मम तत्क्षेत्रं यच्च यादृक्च यद्विकारियतश्च यत् स च यो यत्प्रभावश्च तत्समासेन मे शृणु ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च इन्द्रियाणि दशैकञ्च पञ्चचेन्द्रियगोचराः इच्छाद्वेषः सुखं द",
+      "item_id": "youtube-video-2026-10-01-chapter13-hv9qrw6zmzc-md-6ce2088017:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter13-hv9qrw6zmzc-md-6ce2088017",
+      "path": "youtube/video/2026-10-01-chapter13 [hV9QRW6ZmZc].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "श्रद्धात्रयविभागयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "shraddhatraya vibhaga yoga"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 112
+      },
+      "quote": "अथ सप्तदशोऽध्यायः श्रद्धात्रयविभागयोगः अर्जुन उवाच ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः तेषां निष्ठा तु का कृष्णसत्त्वमाहोरजस्तमः श्री भगवानुवाच त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा सात्विकी राजसी चैव तामसी चेति तां शृणु सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः यजन्ते सात्विका देवान्यक्षरक्षांश्च राजसाः प्रेतान् भूतगणांश्चान्ये यजन्ते तामसा जनाः अशास्त्रविहितं घोरं तप्यन्ते ये तपोजनाः तम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः कर्षयन्तश्शरीरस्थ",
+      "item_id": "youtube-video-2026-10-01-chapter17-mndyiediwak-md-cd7bca1ca1:0016-0112",
+      "source_id": "youtube-video-2026-10-01-chapter17-mndyiediwak-md-cd7bca1ca1",
+      "path": "youtube/video/2026-10-01-chapter17 [MNdyIEdiwAk].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "गुणत्रयविभागयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Gunatraya Vibhaga Yoga"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "अथ चतुर्दशोऽध्यायः गुणत्रयविभागयोगः श्रीभगवानुवाच परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् यज्ञात्वा मुनयः सर्वे परां सिद्धिमितोगताः इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः सर्गेऽपि नोपजायन्ते प्रलयेन व्यथन्ति च मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम् सम्भवः सर्वभूतानां ततो भवति भारत सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्त्याः तासां ब्रह्म महद्योनिरहं बीजप्रदः पिता सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः निबध्नन्ति महाबाहो देहे देहिनमव्ययम् तत्र सत्त्वं निर्मलत्वात् प्रकाशकमनामयम् सुखसङ्गेन ",
+      "item_id": "youtube-video-2026-10-01-chapter14-foue-slwau0-md-e01b02a87c:0016-0115",
+      "source_id": "youtube-video-2026-10-01-chapter14-foue-slwau0-md-e01b02a87c",
+      "path": "youtube/video/2026-10-01-chapter14 [FouE-SLWAU0].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "अथ पञ्चदशोऽध्यायः पुरुषोत्तमयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Purushottama Yoga"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 93
+      },
+      "quote": "अथ पञ्चदशोऽध्यायः पुरुषोत्तमयोगः श्रीभगवानुवाच ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् अधश्चोर्ध्वं प्रसृतास्तस्य शाखाः गुणप्रवृद्धा विषयप्रवालाः अधश्च मूलान्यनुसन्ततानि कर्मानुबन्धीनि मनुष्यलोके न रूपमस्येह तथोपलभ्यते नान्तो न चादिर्न च सम्प्रतिष्ठा अश्वत्थमेनं सुविरूढमूलम् असङ्गशस्त्रेण दृढेन छित्वा ततः पदं तत्परिमार्गितव्यं यस्मिन् गता न निवर्तन्ती भूयः तमेव चाद्यं पुरुषं प्रपद्ये यतः प्रवृत्तिः प्रसृता पुराणी निर्माणमोहाजितसङ्गदोषा अध्यात्मनित्याविनिवृ",
+      "item_id": "youtube-video-2026-10-01-chapter15-7tq-hednbne-md-d2e36b06c5:0016-0093",
+      "source_id": "youtube-video-2026-10-01-chapter15-7tq-hednbne-md-d2e36b06c5",
+      "path": "youtube/video/2026-10-01-chapter15 [7tq_HEDNbnE].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "अथ अष्टादशोऽध्यायः मोक्षसंन्यासयोगः",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "मोक्षसंन्यासयोगः"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 100
+      },
+      "quote": "अथ अष्टादशोऽध्यायः मोक्षसंन्यासयोगः अर्जुन उवाच संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् त्यागस्य च हृषीकेश पृथक्केशिनिशूदन श्रीभगवानुवाच काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः यज्ञदानतपः कर्म न त्याज्यमिति चापरे निश्चयं शृणुमे तत्र त्यागे भरतसत्तम त्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् यज्ञोदानं तपश्चैव पावनानि मनीषिणाम् एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा ",
+      "item_id": "youtube-video-2026-10-01-chapter18-hpatl2e7cee-md-083913359e:0016-0100",
+      "source_id": "youtube-video-2026-10-01-chapter18-hpatl2e7cee-md-083913359e",
+      "path": "youtube/video/2026-10-01-chapter18 [HPaTL2E7cEE].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Recitation of Srimad Bhagavatam Skandha 10",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 10 recitation"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "श्रीशुक उवाच तथा ताभिर्वरस्त्रीभिः रममाणो जनार्दनः दिनानि हतसापत्नः सुबहुन्यत्यवासयत् राजोवाच तासां षोडशसहस्रमहिषीणां जनार्दनः तृप्तिं कथञ्चकारैको मानुषं देहमाश्रितः श्रीशुक उवाच हन्तते कथयिष्यामि श्रोत्रूणां विस्मयावहम् यथा चकार बह्वीनामेकस्तृप्तिं जनार्दनः नरकं निहतं श्रुत्वा तथोद्वाहञ्च योषिताम् कृष्णेनैकेन बह्वीनां तद्दिदृक्षुस्म नारदः चित्रं वतयितदेकेन वपुषा युगपत् पृथक् गृहेषु वद्यष्टसहस्रस्त्रिय एक उदावहत् इत्युत्सुकोद्वारवतीन् देवर्षिर्द्रष्टुमागमत् पुष्पितोपवनारामान् द्विजालिकुलनादिताम्",
+      "item_id": "youtube-video-2026-06-28-skandha-10-adhyaya-79-to-91-srimadbhagavatam-g4ndygcjxoa-md-44d76a9b38:0016-0115",
+      "source_id": "youtube-video-2026-06-28-skandha-10-adhyaya-79-to-91-srimadbhagavatam-g4ndygcjxoa-md-44d76a9b38",
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 79 to 91 SrimadBhagavatam [g4NdYgcJXOA].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Skandha 10 Adhyaya 29 to 42 Srimad Bhagavatam Recitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Srimad Bhagavatam Skandha 10"
+        },
+        {
+          "facet": "activity",
+          "label": "recitation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 115
+      },
+      "quote": "गोप्यवूचुः जयति ते अधिकं जन्मनाव्रजश्रयत इन्दिरा साधु तत्र हि दैतदृश्यतां त्वान्दिदृक्षतां त्वयिगता सवस्त्वां विचिन्वते व्रजजनार्तिहन् वीरयोषितान् निजजनस्मयध्वंसनस्मित भजसखे भवे किंकरीस्मनो जलरुहाननञ्चारुदर्शयन् शरदुदाशये साधुजातसत्सरसिजोदरश्रीमुशादृशा सुरतनाथते शुल्कदासिकावरदनिघ्नतो नेह किं वधः विषजलाशयाद्व्यालराक्षसाद्वर्षमारुताद्वैद्युतानलात् वृषमयाद्भयाद्विश्वतोमुखाद्वृषभते वयं रक्षिता मुहुः सखलु गोपिकानन्दनो भवानखिलदेहिनामन्तरात्मदृक् विखनसार्चितो विश्वगुप्तये सख उदेयिवान् सात्वताङ्कुले विर",
+      "item_id": "youtube-video-2026-06-28-skandha-10-adhyaya-29-to-42-srimadbhagavatam-oxpmwvipsgk-md-035ba394d8:0016-0115",
+      "source_id": "youtube-video-2026-06-28-skandha-10-adhyaya-29-to-42-srimadbhagavatam-oxpmwvipsgk-md-035ba394d8",
+      "path": "youtube/video/2026-06-28-Skandha 10 Adhyaya 29 to 42 SrimadBhagavatam [oxpMwvIpsgk].md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Relevance of Vedas and Shastras in the Modern Era",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "relevance of shastras"
+        },
+        {
+          "facet": "topic",
+          "label": "Indian knowledge systems"
+        },
+        {
+          "facet": "activity",
+          "label": "keynote speech"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 126
+      },
+      "quote": "But with the blessings of my gurus I have had this privilege of treading these two seemingly orthogonal paths of life So Ive Ive had the bhagya of studying Vedas and shastras and Ive also had the bhagya of going to IITs and studying BTechs and now teaching in one of these institutions So perhaps that is the reason Im here today Now everybody asks me this question in this todays era of AI and computer science what is the relevance of our shastras Why should think about it We have so many people h",
+      "item_id": "youtube-video-2026-09-27-the-indian-thought-process-of-life-sw-elnmgqqw-md-be42c3d44e:0064-0126",
+      "source_id": "youtube-video-2026-09-27-the-indian-thought-process-of-life-sw-elnmgqqw-md-be42c3d44e",
+      "path": "youtube/video/2026-09-27-The Indian thought Process of Life. [Sw_ELnmgqQw].md",
       "prev": null,
       "next": null
     }

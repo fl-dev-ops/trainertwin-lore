@@ -1,5 +1,13 @@
 {
   "activity": {
+    "recitation": {
+      "id": "recitation",
+      "preferred": "recitation",
+      "aliases": [
+        "recitation"
+      ],
+      "count": 73
+    },
     "lecture": {
       "id": "lecture",
       "preferred": "lecture",
@@ -34,19 +42,20 @@
       ],
       "count": 13
     },
+    "research-paper-publication": {
+      "id": "research-paper-publication",
+      "preferred": "research paper publication",
+      "aliases": [
+        "research paper publication",
+        "research publication"
+      ],
+      "count": 12
+    },
     "research-publication-announcement": {
       "id": "research-publication-announcement",
       "preferred": "research publication announcement",
       "aliases": [
         "research publication announcement"
-      ],
-      "count": 10
-    },
-    "research-paper-publication": {
-      "id": "research-paper-publication",
-      "preferred": "research paper publication",
-      "aliases": [
-        "research paper publication"
       ],
       "count": 10
     },
@@ -120,6 +129,14 @@
       "preferred": "course material sharing",
       "aliases": [
         "course material sharing"
+      ],
+      "count": 5
+    },
+    "scriptural-recitation": {
+      "id": "scriptural-recitation",
+      "preferred": "scriptural recitation",
+      "aliases": [
+        "scriptural recitation"
       ],
       "count": 5
     },
@@ -257,14 +274,6 @@
       "preferred": "hiring announcement",
       "aliases": [
         "hiring announcement"
-      ],
-      "count": 2
-    },
-    "research-publication": {
-      "id": "research-publication",
-      "preferred": "research publication",
-      "aliases": [
-        "research publication"
       ],
       "count": 2
     },
@@ -433,6 +442,14 @@
       "preferred": "LLM training",
       "aliases": [
         "LLM training"
+      ],
+      "count": 2
+    },
+    "scripture-recitation": {
+      "id": "scripture-recitation",
+      "preferred": "scripture recitation",
+      "aliases": [
+        "scripture recitation"
       ],
       "count": 2
     },
@@ -1594,6 +1611,22 @@
       "preferred": "elevator pitch",
       "aliases": [
         "elevator pitch"
+      ],
+      "count": 1
+    },
+    "purana-recitation": {
+      "id": "purana-recitation",
+      "preferred": "purana recitation",
+      "aliases": [
+        "purana recitation"
+      ],
+      "count": 1
+    },
+    "keynote-speech": {
+      "id": "keynote-speech",
+      "preferred": "keynote speech",
+      "aliases": [
+        "keynote speech"
       ],
       "count": 1
     }
@@ -2897,6 +2930,14 @@
     }
   },
   "topic": {
+    "mahabharata-tatparya-nirnaya": {
+      "id": "mahabharata-tatparya-nirnaya",
+      "preferred": "Mahabharata Tatparya Nirnaya",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya"
+      ],
+      "count": 14
+    },
     "diffusion-models": {
       "id": "diffusion-models",
       "preferred": "diffusion models",
@@ -2953,16 +2994,6 @@
       ],
       "count": 8
     },
-    "generative-modeling": {
-      "id": "generative-modeling",
-      "preferred": "generative modeling",
-      "aliases": [
-        "generative model formulation",
-        "generative modeling",
-        "generative modelling"
-      ],
-      "count": 8
-    },
     "mathematical-foundations-of-machine-learning": {
       "id": "mathematical-foundations-of-machine-learning",
       "preferred": "mathematical foundations of machine learning",
@@ -2978,6 +3009,24 @@
       "aliases": [
         "Noise Contrastive Estimation",
         "noise contrastive estimation"
+      ],
+      "count": 7
+    },
+    "srimad-bhagavatam-recitation": {
+      "id": "srimad-bhagavatam-recitation",
+      "preferred": "Srimad Bhagavatam recitation",
+      "aliases": [
+        "Srimad Bhagavatam Recitation",
+        "Srimad Bhagavatam recitation"
+      ],
+      "count": 7
+    },
+    "generative-modeling": {
+      "id": "generative-modeling",
+      "preferred": "generative modeling",
+      "aliases": [
+        "generative modeling",
+        "generative modelling"
       ],
       "count": 7
     },
@@ -3073,6 +3122,15 @@
       ],
       "count": 4
     },
+    "indian-knowledge-systems": {
+      "id": "indian-knowledge-systems",
+      "preferred": "Indian Knowledge Systems",
+      "aliases": [
+        "Indian Knowledge Systems",
+        "Indian knowledge systems"
+      ],
+      "count": 4
+    },
     "agentic-ai": {
       "id": "agentic-ai",
       "preferred": "Agentic AI",
@@ -3159,15 +3217,6 @@
       ],
       "count": 4
     },
-    "phd-recruitment": {
-      "id": "phd-recruitment",
-      "preferred": "PhD recruitment",
-      "aliases": [
-        "PhD admissions",
-        "PhD recruitment"
-      ],
-      "count": 4
-    },
     "variational-divergence-minimisation": {
       "id": "variational-divergence-minimisation",
       "preferred": "variational divergence minimisation",
@@ -3228,14 +3277,6 @@
       "preferred": "autism spectrum disorder assessment",
       "aliases": [
         "autism spectrum disorder assessment"
-      ],
-      "count": 3
-    },
-    "indian-knowledge-systems": {
-      "id": "indian-knowledge-systems",
-      "preferred": "Indian Knowledge Systems",
-      "aliases": [
-        "Indian Knowledge Systems"
       ],
       "count": 3
     },
@@ -3366,6 +3407,15 @@
       ],
       "count": 3
     },
+    "srimad-bhagavatam-skandha-10": {
+      "id": "srimad-bhagavatam-skandha-10",
+      "preferred": "Srimad Bhagavatam Skandha 10",
+      "aliases": [
+        "Srimad Bhagavatam Skandha 10",
+        "Srimad Bhagavatam Tenth Canto"
+      ],
+      "count": 3
+    },
     "convex-conjugate": {
       "id": "convex-conjugate",
       "preferred": "convex conjugate",
@@ -3432,6 +3482,22 @@
       "aliases": [
         "Domain Generalization",
         "domain generalization"
+      ],
+      "count": 2
+    },
+    "phd-recruitment": {
+      "id": "phd-recruitment",
+      "preferred": "PhD recruitment",
+      "aliases": [
+        "PhD recruitment"
+      ],
+      "count": 2
+    },
+    "phd-admissions": {
+      "id": "phd-admissions",
+      "preferred": "PhD admissions",
+      "aliases": [
+        "PhD admissions"
       ],
       "count": 2
     },
@@ -3888,6 +3954,22 @@
       ],
       "count": 2
     },
+    "srimad-bhagavatam-skandha-5": {
+      "id": "srimad-bhagavatam-skandha-5",
+      "preferred": "Srimad Bhagavatam Skandha 5",
+      "aliases": [
+        "Srimad Bhagavatam Skandha 5"
+      ],
+      "count": 2
+    },
+    "krishna-leela": {
+      "id": "krishna-leela",
+      "preferred": "Krishna Leela",
+      "aliases": [
+        "Krishna Leela"
+      ],
+      "count": 2
+    },
     "autism-spectrum-disorder-clinical-intervention": {
       "id": "autism-spectrum-disorder-clinical-intervention",
       "preferred": "autism spectrum disorder clinical intervention",
@@ -3912,15 +3994,6 @@
       "aliases": [
         "unpaired image translation",
         "unpaired image-to-image translation"
-      ],
-      "count": 2
-    },
-    "ai-in-sanskrit": {
-      "id": "ai-in-sanskrit",
-      "preferred": "AI in Sanskrit",
-      "aliases": [
-        "AI in Sanskrit",
-        "AI in Sanskrit Texts"
       ],
       "count": 2
     },
@@ -4900,6 +4973,14 @@
       ],
       "count": 1
     },
+    "ai-in-sanskrit": {
+      "id": "ai-in-sanskrit",
+      "preferred": "AI in Sanskrit",
+      "aliases": [
+        "AI in Sanskrit"
+      ],
+      "count": 1
+    },
     "image-editing": {
       "id": "image-editing",
       "preferred": "image editing",
@@ -5649,6 +5730,14 @@
       "preferred": "AI impact on system vs production knowledge",
       "aliases": [
         "AI impact on system vs production knowledge"
+      ],
+      "count": 1
+    },
+    "ai-in-sanskrit-texts": {
+      "id": "ai-in-sanskrit-texts",
+      "preferred": "AI in Sanskrit Texts",
+      "aliases": [
+        "AI in Sanskrit Texts"
       ],
       "count": 1
     },
@@ -9252,6 +9341,14 @@
       ],
       "count": 1
     },
+    "generative-model-formulation": {
+      "id": "generative-model-formulation",
+      "preferred": "generative model formulation",
+      "aliases": [
+        "generative model formulation"
+      ],
+      "count": 1
+    },
     "distribution-divergence": {
       "id": "distribution-divergence",
       "preferred": "distribution divergence",
@@ -12009,6 +12106,406 @@
       "preferred": "scientific inquiry",
       "aliases": [
         "scientific inquiry"
+      ],
+      "count": 1
+    },
+    "sarvashastrartha-nirnaya": {
+      "id": "sarvashastrartha-nirnaya",
+      "preferred": "Sarvashastrartha Nirnaya",
+      "aliases": [
+        "Sarvashastrartha Nirnaya"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-4": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-4",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 4",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 4"
+      ],
+      "count": 1
+    },
+    "rama-charita": {
+      "id": "rama-charita",
+      "preferred": "Rama Charita",
+      "aliases": [
+        "Rama Charita"
+      ],
+      "count": 1
+    },
+    "vishnu-sarvottamatva": {
+      "id": "vishnu-sarvottamatva",
+      "preferred": "Vishnu Sarvottamatva",
+      "aliases": [
+        "Vishnu Sarvottamatva"
+      ],
+      "count": 1
+    },
+    "yuddha-kanda-nirupana": {
+      "id": "yuddha-kanda-nirupana",
+      "preferred": "Yuddha Kanda Nirupana",
+      "aliases": [
+        "Yuddha Kanda Nirupana"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-3": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-3",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 3",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 3"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-9": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-9",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 9",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 9"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-11": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-11",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 11",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 11"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-15": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-15",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 15",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 15"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-14": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-14",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 14",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 14"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-17": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-17",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 17",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 17"
+      ],
+      "count": 1
+    },
+    "bhimarjuna-digvijaya": {
+      "id": "bhimarjuna-digvijaya",
+      "preferred": "Bhimarjuna Digvijaya",
+      "aliases": [
+        "Bhimarjuna Digvijaya"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-21": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-21",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 21",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 21"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-19": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-19",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 19",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 19"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-22": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-22",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 22",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 22"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-26": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-26",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 26",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 26"
+      ],
+      "count": 1
+    },
+    "bhishmapata": {
+      "id": "bhishmapata",
+      "preferred": "Bhishmapata",
+      "aliases": [
+        "Bhishmapata"
+      ],
+      "count": 1
+    },
+    "karna-parva": {
+      "id": "karna-parva",
+      "preferred": "Karna Parva",
+      "aliases": [
+        "Karna Parva"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-31": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-31",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 31",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 31"
+      ],
+      "count": 1
+    },
+    "mahabharata-tatparya-nirnaya-adhyaya-24": {
+      "id": "mahabharata-tatparya-nirnaya-adhyaya-24",
+      "preferred": "Mahabharata Tatparya Nirnaya Adhyaya 24",
+      "aliases": [
+        "Mahabharata Tatparya Nirnaya Adhyaya 24"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-canto-3-recitation": {
+      "id": "srimad-bhagavatam-canto-3-recitation",
+      "preferred": "Srimad Bhagavatam Canto 3 Recitation",
+      "aliases": [
+        "Srimad Bhagavatam Canto 3 Recitation"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-canto-1": {
+      "id": "srimad-bhagavatam-canto-1",
+      "preferred": "Srimad Bhagavatam Canto 1",
+      "aliases": [
+        "Srimad Bhagavatam Canto 1"
+      ],
+      "count": 1
+    },
+    "kapila-gita": {
+      "id": "kapila-gita",
+      "preferred": "Kapila Gita",
+      "aliases": [
+        "Kapila Gita"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-skandha-4": {
+      "id": "srimad-bhagavatam-skandha-4",
+      "preferred": "Srimad Bhagavatam Skandha 4",
+      "aliases": [
+        "Srimad Bhagavatam Skandha 4"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-skandha-6-recitation": {
+      "id": "srimad-bhagavatam-skandha-6-recitation",
+      "preferred": "Srimad Bhagavatam Skandha 6 Recitation",
+      "aliases": [
+        "Srimad Bhagavatam Skandha 6 Recitation"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-canto-7-prahlada-charitam": {
+      "id": "srimad-bhagavatam-canto-7-prahlada-charitam",
+      "preferred": "Srimad Bhagavatam Canto 7 Prahlada Charitam",
+      "aliases": [
+        "Srimad Bhagavatam Canto 7 Prahlada Charitam"
+      ],
+      "count": 1
+    },
+    "vamana-and-matsya-avataras": {
+      "id": "vamana-and-matsya-avataras",
+      "preferred": "Vamana and Matsya Avataras",
+      "aliases": [
+        "Vamana and Matsya Avataras"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-first-canto": {
+      "id": "srimad-bhagavatam-first-canto",
+      "preferred": "Srimad Bhagavatam First Canto",
+      "aliases": [
+        "Srimad Bhagavatam First Canto"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-skandha-8": {
+      "id": "srimad-bhagavatam-skandha-8",
+      "preferred": "Srimad Bhagavatam Skandha 8",
+      "aliases": [
+        "Srimad Bhagavatam Skandha 8"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-skandha-7": {
+      "id": "srimad-bhagavatam-skandha-7",
+      "preferred": "Srimad Bhagavatam Skandha 7",
+      "aliases": [
+        "Srimad Bhagavatam Skandha 7"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-canto-4-chapters-11-21": {
+      "id": "srimad-bhagavatam-canto-4-chapters-11-21",
+      "preferred": "Srimad Bhagavatam Canto 4 Chapters 11-21",
+      "aliases": [
+        "Srimad Bhagavatam Canto 4 Chapters 11-21"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam": {
+      "id": "srimad-bhagavatam",
+      "preferred": "Srimad Bhagavatam",
+      "aliases": [
+        "Srimad Bhagavatam"
+      ],
+      "count": 1
+    },
+    "surya-vamsha-genealogies-and-legends": {
+      "id": "surya-vamsha-genealogies-and-legends",
+      "preferred": "Surya Vamsha genealogies and legends",
+      "aliases": [
+        "Surya Vamsha genealogies and legends"
+      ],
+      "count": 1
+    },
+    "uddhava-gita-and-krishna-s-departure": {
+      "id": "uddhava-gita-and-krishna-s-departure",
+      "preferred": "Uddhava Gita and Krishna's departure",
+      "aliases": [
+        "Uddhava Gita and Krishna's departure"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-skandha-12": {
+      "id": "srimad-bhagavatam-skandha-12",
+      "preferred": "Srimad Bhagavatam Skandha 12",
+      "aliases": [
+        "Srimad Bhagavatam Skandha 12"
+      ],
+      "count": 1
+    },
+    "uddhava-gita": {
+      "id": "uddhava-gita",
+      "preferred": "Uddhava Gita",
+      "aliases": [
+        "Uddhava Gita"
+      ],
+      "count": 1
+    },
+    "bhagavad-gita-chapter-1": {
+      "id": "bhagavad-gita-chapter-1",
+      "preferred": "Bhagavad Gita Chapter 1",
+      "aliases": [
+        "Bhagavad Gita Chapter 1"
+      ],
+      "count": 1
+    },
+    "karma-sannyasa-yoga": {
+      "id": "karma-sannyasa-yoga",
+      "preferred": "Karma Sannyasa Yoga",
+      "aliases": [
+        "Karma Sannyasa Yoga"
+      ],
+      "count": 1
+    },
+    "unnamed": {
+      "id": "unnamed",
+      "preferred": "मोक्षसंन्यासयोगः",
+      "aliases": [
+        "मोक्षसंन्यासयोगः"
+      ],
+      "count": 1
+    },
+    "jnana-karma-sanyasa-yoga": {
+      "id": "jnana-karma-sanyasa-yoga",
+      "preferred": "Jnana Karma Sanyasa Yoga",
+      "aliases": [
+        "Jnana Karma Sanyasa Yoga"
+      ],
+      "count": 1
+    },
+    "atma-samyama-yoga": {
+      "id": "atma-samyama-yoga",
+      "preferred": "Atma Samyama Yoga",
+      "aliases": [
+        "Atma Samyama Yoga"
+      ],
+      "count": 1
+    },
+    "bhagavad-gita-chapter-7": {
+      "id": "bhagavad-gita-chapter-7",
+      "preferred": "bhagavad gita chapter 7",
+      "aliases": [
+        "bhagavad gita chapter 7"
+      ],
+      "count": 1
+    },
+    "bhagavad-gita-chapter-9": {
+      "id": "bhagavad-gita-chapter-9",
+      "preferred": "Bhagavad Gita Chapter 9",
+      "aliases": [
+        "Bhagavad Gita Chapter 9"
+      ],
+      "count": 1
+    },
+    "akshara-brahma-yoga": {
+      "id": "akshara-brahma-yoga",
+      "preferred": "Akshara Brahma Yoga",
+      "aliases": [
+        "Akshara Brahma Yoga"
+      ],
+      "count": 1
+    },
+    "bhakti-yoga": {
+      "id": "bhakti-yoga",
+      "preferred": "Bhakti Yoga",
+      "aliases": [
+        "Bhakti Yoga"
+      ],
+      "count": 1
+    },
+    "shraddhatraya-vibhaga-yoga": {
+      "id": "shraddhatraya-vibhaga-yoga",
+      "preferred": "shraddhatraya vibhaga yoga",
+      "aliases": [
+        "shraddhatraya vibhaga yoga"
+      ],
+      "count": 1
+    },
+    "gunatraya-vibhaga-yoga": {
+      "id": "gunatraya-vibhaga-yoga",
+      "preferred": "Gunatraya Vibhaga Yoga",
+      "aliases": [
+        "Gunatraya Vibhaga Yoga"
+      ],
+      "count": 1
+    },
+    "purushottama-yoga": {
+      "id": "purushottama-yoga",
+      "preferred": "Purushottama Yoga",
+      "aliases": [
+        "Purushottama Yoga"
+      ],
+      "count": 1
+    },
+    "srimad-bhagavatam-skandha-10-recitation": {
+      "id": "srimad-bhagavatam-skandha-10-recitation",
+      "preferred": "Srimad Bhagavatam Skandha 10 recitation",
+      "aliases": [
+        "Srimad Bhagavatam Skandha 10 recitation"
+      ],
+      "count": 1
+    },
+    "relevance-of-shastras": {
+      "id": "relevance-of-shastras",
+      "preferred": "relevance of shastras",
+      "aliases": [
+        "relevance of shastras"
       ],
       "count": 1
     }

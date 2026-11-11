@@ -9,7 +9,7 @@ transcript: true
 speaker_count: 3
 speakers:
   speaker_1: null
-  speaker_2: null
+  speaker_2: 'Prathosh A P'
   speaker_3: null
 language: en-IN
 ---
