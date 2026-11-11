@@ -14,7 +14,7 @@
       "aliases": [
         "lecture"
       ],
-      "count": 65
+      "count": 66
     },
     "job-posting": {
       "id": "job-posting",
@@ -42,20 +42,19 @@
       ],
       "count": 13
     },
-    "research-paper-publication": {
-      "id": "research-paper-publication",
-      "preferred": "research paper publication",
-      "aliases": [
-        "research paper publication",
-        "research publication"
-      ],
-      "count": 12
-    },
     "research-publication-announcement": {
       "id": "research-publication-announcement",
       "preferred": "research publication announcement",
       "aliases": [
         "research publication announcement"
+      ],
+      "count": 10
+    },
+    "research-paper-publication": {
+      "id": "research-paper-publication",
+      "preferred": "research paper publication",
+      "aliases": [
+        "research paper publication"
       ],
       "count": 10
     },
@@ -68,6 +67,14 @@
       ],
       "count": 10
     },
+    "q-a": {
+      "id": "q-a",
+      "preferred": "Q&A",
+      "aliases": [
+        "Q&A"
+      ],
+      "count": 10
+    },
     "product-launch": {
       "id": "product-launch",
       "preferred": "product launch",
@@ -75,6 +82,14 @@
         "product launch"
       ],
       "count": 9
+    },
+    "q-a-session": {
+      "id": "q-a-session",
+      "preferred": "Q&A session",
+      "aliases": [
+        "Q&A session"
+      ],
+      "count": 8
     },
     "derivation": {
       "id": "derivation",
@@ -196,6 +211,14 @@
       ],
       "count": 3
     },
+    "panel-discussion": {
+      "id": "panel-discussion",
+      "preferred": "panel discussion",
+      "aliases": [
+        "panel discussion"
+      ],
+      "count": 3
+    },
     "nptel-course": {
       "id": "nptel-course",
       "preferred": "NPTEL course",
@@ -228,6 +251,14 @@
       ],
       "count": 3
     },
+    "closing-remarks": {
+      "id": "closing-remarks",
+      "preferred": "closing remarks",
+      "aliases": [
+        "closing remarks"
+      ],
+      "count": 3
+    },
     "lecture-boardwork": {
       "id": "lecture-boardwork",
       "preferred": "lecture boardwork",
@@ -241,6 +272,14 @@
       "preferred": "theory explanation",
       "aliases": [
         "theory explanation"
+      ],
+      "count": 3
+    },
+    "audio-check": {
+      "id": "audio-check",
+      "preferred": "audio check",
+      "aliases": [
+        "audio check"
       ],
       "count": 3
     },
@@ -274,6 +313,14 @@
       "preferred": "hiring announcement",
       "aliases": [
         "hiring announcement"
+      ],
+      "count": 2
+    },
+    "research-publication": {
+      "id": "research-publication",
+      "preferred": "research publication",
+      "aliases": [
+        "research publication"
       ],
       "count": 2
     },
@@ -389,14 +436,6 @@
       ],
       "count": 2
     },
-    "closing-remarks": {
-      "id": "closing-remarks",
-      "preferred": "closing remarks",
-      "aliases": [
-        "closing remarks"
-      ],
-      "count": 2
-    },
     "problem-solving": {
       "id": "problem-solving",
       "preferred": "problem solving",
@@ -450,6 +489,14 @@
       "preferred": "scripture recitation",
       "aliases": [
         "scripture recitation"
+      ],
+      "count": 2
+    },
+    "conference-talk": {
+      "id": "conference-talk",
+      "preferred": "conference talk",
+      "aliases": [
+        "conference talk"
       ],
       "count": 2
     },
@@ -555,14 +602,6 @@
       "preferred": "academic recruitment",
       "aliases": [
         "academic recruitment"
-      ],
-      "count": 1
-    },
-    "q-a-session": {
-      "id": "q-a-session",
-      "preferred": "Q&A session",
-      "aliases": [
-        "Q&A session"
       ],
       "count": 1
     },
@@ -771,14 +810,6 @@
       "preferred": "documentary appearance",
       "aliases": [
         "documentary appearance"
-      ],
-      "count": 1
-    },
-    "panel-discussion": {
-      "id": "panel-discussion",
-      "preferred": "panel discussion",
-      "aliases": [
-        "panel discussion"
       ],
       "count": 1
     },
@@ -1627,6 +1658,110 @@
       "preferred": "keynote speech",
       "aliases": [
         "keynote speech"
+      ],
+      "count": 1
+    },
+    "q-a-discussion": {
+      "id": "q-a-discussion",
+      "preferred": "q&a discussion",
+      "aliases": [
+        "q&a discussion"
+      ],
+      "count": 1
+    },
+    "philosophy-lecture": {
+      "id": "philosophy-lecture",
+      "preferred": "philosophy lecture",
+      "aliases": [
+        "philosophy lecture"
+      ],
+      "count": 1
+    },
+    "class-sign-off": {
+      "id": "class-sign-off",
+      "preferred": "class sign-off",
+      "aliases": [
+        "class sign-off"
+      ],
+      "count": 1
+    },
+    "defining-vakya": {
+      "id": "defining-vakya",
+      "preferred": "defining vakya",
+      "aliases": [
+        "defining vakya"
+      ],
+      "count": 1
+    },
+    "lecture-review": {
+      "id": "lecture-review",
+      "preferred": "lecture review",
+      "aliases": [
+        "lecture review"
+      ],
+      "count": 1
+    },
+    "course-wrap-up": {
+      "id": "course-wrap-up",
+      "preferred": "course wrap-up",
+      "aliases": [
+        "course wrap-up"
+      ],
+      "count": 1
+    },
+    "philosophical-lecture": {
+      "id": "philosophical-lecture",
+      "preferred": "philosophical lecture",
+      "aliases": [
+        "philosophical lecture"
+      ],
+      "count": 1
+    },
+    "lecture-opening": {
+      "id": "lecture-opening",
+      "preferred": "lecture opening",
+      "aliases": [
+        "lecture opening"
+      ],
+      "count": 1
+    },
+    "anecdotal-illustration": {
+      "id": "anecdotal-illustration",
+      "preferred": "anecdotal illustration",
+      "aliases": [
+        "anecdotal illustration"
+      ],
+      "count": 1
+    },
+    "session-wrap-up": {
+      "id": "session-wrap-up",
+      "preferred": "session wrap-up",
+      "aliases": [
+        "session wrap-up"
+      ],
+      "count": 1
+    },
+    "research-meeting": {
+      "id": "research-meeting",
+      "preferred": "research meeting",
+      "aliases": [
+        "research meeting"
+      ],
+      "count": 1
+    },
+    "interview-introduction": {
+      "id": "interview-introduction",
+      "preferred": "interview introduction",
+      "aliases": [
+        "interview introduction"
+      ],
+      "count": 1
+    },
+    "podcast-conclusion": {
+      "id": "podcast-conclusion",
+      "preferred": "podcast conclusion",
+      "aliases": [
+        "podcast conclusion"
       ],
       "count": 1
     }
@@ -2927,6 +3062,294 @@
         "tech adoption in India"
       ],
       "count": 1
+    },
+    "skepticism-about-need-for-unlearning": {
+      "id": "skepticism-about-need-for-unlearning",
+      "preferred": "skepticism about need for unlearning",
+      "aliases": [
+        "skepticism about need for unlearning"
+      ],
+      "count": 1
+    },
+    "students-scared-of-asking-questions": {
+      "id": "students-scared-of-asking-questions",
+      "preferred": "students scared of asking questions",
+      "aliases": [
+        "students scared of asking questions"
+      ],
+      "count": 1
+    },
+    "fear-of-questioning-status-quo": {
+      "id": "fear-of-questioning-status-quo",
+      "preferred": "fear of questioning status quo",
+      "aliases": [
+        "fear of questioning status quo"
+      ],
+      "count": 1
+    },
+    "incorporating-shastras-into-regular-curriculum": {
+      "id": "incorporating-shastras-into-regular-curriculum",
+      "preferred": "incorporating Shastras into regular curriculum",
+      "aliases": [
+        "incorporating Shastras into regular curriculum"
+      ],
+      "count": 1
+    },
+    "student-asks-if-time-can-be-cyclic": {
+      "id": "student-asks-if-time-can-be-cyclic",
+      "preferred": "student asks if time can be cyclic",
+      "aliases": [
+        "student asks if time can be cyclic"
+      ],
+      "count": 1
+    },
+    "student-inquires-about-time-travel-and-comprehending-infinit": {
+      "id": "student-inquires-about-time-travel-and-comprehending-infinit",
+      "preferred": "student inquires about time travel and comprehending infinite time",
+      "aliases": [
+        "student inquires about time travel and comprehending infinite time"
+      ],
+      "count": 1
+    },
+    "student-asks-if-varna-is-purely-subjective-perception": {
+      "id": "student-asks-if-varna-is-purely-subjective-perception",
+      "preferred": "student asks if varna is purely subjective perception",
+      "aliases": [
+        "student asks if varna is purely subjective perception"
+      ],
+      "count": 1
+    },
+    "student-asks-about-the-nobel-prize-proving-local-non-reality": {
+      "id": "student-asks-about-the-nobel-prize-proving-local-non-reality",
+      "preferred": "student asks about the Nobel Prize proving local non-reality",
+      "aliases": [
+        "student asks about the Nobel Prize proving local non-reality"
+      ],
+      "count": 1
+    },
+    "comparing-vedic-claims-of-origin-with-other-religious-texts": {
+      "id": "comparing-vedic-claims-of-origin-with-other-religious-texts",
+      "preferred": "comparing Vedic claims of origin with other religious texts",
+      "aliases": [
+        "comparing Vedic claims of origin with other religious texts"
+      ],
+      "count": 1
+    },
+    "student-questions-word-order-variations-in-sanskrit": {
+      "id": "student-questions-word-order-variations-in-sanskrit",
+      "preferred": "student questions word order variations in Sanskrit",
+      "aliases": [
+        "student questions word order variations in Sanskrit"
+      ],
+      "count": 1
+    },
+    "skepticism-toward-traditional-rituals-and-philosophy": {
+      "id": "skepticism-toward-traditional-rituals-and-philosophy",
+      "preferred": "skepticism toward traditional rituals and philosophy",
+      "aliases": [
+        "skepticism toward traditional rituals and philosophy"
+      ],
+      "count": 1
+    },
+    "addressing-modern-youth-anxiety-and-philosophical-relevance": {
+      "id": "addressing-modern-youth-anxiety-and-philosophical-relevance",
+      "preferred": "addressing modern youth anxiety and philosophical relevance",
+      "aliases": [
+        "addressing modern youth anxiety and philosophical relevance"
+      ],
+      "count": 1
+    },
+    "circular-dependency-between-ishvara-and-vedas": {
+      "id": "circular-dependency-between-ishvara-and-vedas",
+      "preferred": "circular dependency between Ishvara and Vedas",
+      "aliases": [
+        "circular dependency between Ishvara and Vedas"
+      ],
+      "count": 1
+    },
+    "student-challenges-absence-of-artha-dosha": {
+      "id": "student-challenges-absence-of-artha-dosha",
+      "preferred": "student challenges absence of artha dosha",
+      "aliases": [
+        "student challenges absence of artha dosha"
+      ],
+      "count": 1
+    },
+    "student-questions-difference-between-knowing-an-object-and-k": {
+      "id": "student-questions-difference-between-knowing-an-object-and-k",
+      "preferred": "student questions difference between knowing an object and knowing that one knows",
+      "aliases": [
+        "student questions difference between knowing an object and knowing that one knows"
+      ],
+      "count": 1
+    },
+    "student-asks-whether-sakshi-is-aprakrita": {
+      "id": "student-asks-whether-sakshi-is-aprakrita",
+      "preferred": "student asks whether Sakshi is aprakrita",
+      "aliases": [
+        "student asks whether Sakshi is aprakrita"
+      ],
+      "count": 1
+    },
+    "student-inquires-about-lingadeha-and-dasa-sahitya-references": {
+      "id": "student-inquires-about-lingadeha-and-dasa-sahitya-references",
+      "preferred": "student inquires about Lingadeha and Dasa Sahitya references",
+      "aliases": [
+        "student inquires about Lingadeha and Dasa Sahitya references"
+      ],
+      "count": 1
+    },
+    "speaker-disconnects-before-answering-chat-query": {
+      "id": "speaker-disconnects-before-answering-chat-query",
+      "preferred": "speaker disconnects before answering chat query",
+      "aliases": [
+        "speaker disconnects before answering chat query"
+      ],
+      "count": 1
+    },
+    "clarifying-student-terminology": {
+      "id": "clarifying-student-terminology",
+      "preferred": "clarifying student terminology",
+      "aliases": [
+        "clarifying student terminology"
+      ],
+      "count": 1
+    },
+    "student-confusion-on-dharmi": {
+      "id": "student-confusion-on-dharmi",
+      "preferred": "student confusion on dharmi",
+      "aliases": [
+        "student confusion on dharmi"
+      ],
+      "count": 1
+    },
+    "explaining-pramanya-cognition": {
+      "id": "explaining-pramanya-cognition",
+      "preferred": "explaining pramanya cognition",
+      "aliases": [
+        "explaining pramanya cognition"
+      ],
+      "count": 1
+    },
+    "explaining-sakshi-and-illusion": {
+      "id": "explaining-sakshi-and-illusion",
+      "preferred": "explaining Sakshi and illusion",
+      "aliases": [
+        "explaining Sakshi and illusion"
+      ],
+      "count": 1
+    },
+    "cognition-of-rope-as-snake": {
+      "id": "cognition-of-rope-as-snake",
+      "preferred": "cognition of rope as snake",
+      "aliases": [
+        "cognition of rope as snake"
+      ],
+      "count": 1
+    },
+    "fear-arising-from-snake-illusion": {
+      "id": "fear-arising-from-snake-illusion",
+      "preferred": "fear arising from snake illusion",
+      "aliases": [
+        "fear arising from snake illusion"
+      ],
+      "count": 1
+    },
+    "modern-schooling-curriculum-challenges": {
+      "id": "modern-schooling-curriculum-challenges",
+      "preferred": "modern schooling curriculum challenges",
+      "aliases": [
+        "modern schooling curriculum challenges"
+      ],
+      "count": 1
+    },
+    "reconciling-ai-adoption-with-shastric-values": {
+      "id": "reconciling-ai-adoption-with-shastric-values",
+      "preferred": "reconciling AI adoption with shastric values",
+      "aliases": [
+        "reconciling AI adoption with shastric values"
+      ],
+      "count": 1
+    },
+    "teacher-pay-and-systemic-school-pressures": {
+      "id": "teacher-pay-and-systemic-school-pressures",
+      "preferred": "teacher pay and systemic school pressures",
+      "aliases": [
+        "teacher pay and systemic school pressures"
+      ],
+      "count": 1
+    },
+    "students-avoiding-rigorous-education": {
+      "id": "students-avoiding-rigorous-education",
+      "preferred": "students avoiding rigorous education",
+      "aliases": [
+        "students avoiding rigorous education"
+      ],
+      "count": 1
+    },
+    "clarifying-object-versus-cognizer-properties": {
+      "id": "clarifying-object-versus-cognizer-properties",
+      "preferred": "clarifying object versus cognizer properties",
+      "aliases": [
+        "clarifying object versus cognizer properties"
+      ],
+      "count": 1
+    },
+    "evaluating-astronomical-discovery-analogy": {
+      "id": "evaluating-astronomical-discovery-analogy",
+      "preferred": "evaluating astronomical discovery analogy",
+      "aliases": [
+        "evaluating astronomical discovery analogy"
+      ],
+      "count": 1
+    },
+    "correcting-misconception-about-discovery-timing": {
+      "id": "correcting-misconception-about-discovery-timing",
+      "preferred": "correcting misconception about discovery timing",
+      "aliases": [
+        "correcting misconception about discovery timing"
+      ],
+      "count": 1
+    },
+    "student-query-on-mortality-and-discovery": {
+      "id": "student-query-on-mortality-and-discovery",
+      "preferred": "student query on mortality and discovery",
+      "aliases": [
+        "student query on mortality and discovery"
+      ],
+      "count": 1
+    },
+    "anticipating-next-lecture-topic": {
+      "id": "anticipating-next-lecture-topic",
+      "preferred": "anticipating next lecture topic",
+      "aliases": [
+        "anticipating next lecture topic"
+      ],
+      "count": 1
+    },
+    "student-question-on-non-human-beings": {
+      "id": "student-question-on-non-human-beings",
+      "preferred": "student question on non-human beings",
+      "aliases": [
+        "student question on non-human beings"
+      ],
+      "count": 1
+    },
+    "addressing-misconception-about-mind-knowing-happiness": {
+      "id": "addressing-misconception-about-mind-knowing-happiness",
+      "preferred": "addressing misconception about mind knowing happiness",
+      "aliases": [
+        "addressing misconception about mind knowing happiness"
+      ],
+      "count": 1
+    },
+    "informal-student-query-after-class": {
+      "id": "informal-student-query-after-class",
+      "preferred": "informal student query after class",
+      "aliases": [
+        "informal student query after class"
+      ],
+      "count": 1
     }
   },
   "topic": {
@@ -2954,6 +3377,17 @@
       ],
       "count": 9
     },
+    "deep-generative-models": {
+      "id": "deep-generative-models",
+      "preferred": "Deep Generative Models",
+      "aliases": [
+        "Deep Generative Models",
+        "deep generative modelling",
+        "deep generative models",
+        "mathematics of deep generative modelling"
+      ],
+      "count": 9
+    },
     "generative-adversarial-networks": {
       "id": "generative-adversarial-networks",
       "preferred": "Generative Adversarial Networks",
@@ -2972,13 +3406,20 @@
       ],
       "count": 8
     },
-    "deep-generative-models": {
-      "id": "deep-generative-models",
-      "preferred": "Deep Generative Models",
+    "epistemology": {
+      "id": "epistemology",
+      "preferred": "epistemology",
       "aliases": [
-        "Deep Generative Models",
-        "deep generative modelling",
-        "deep generative models"
+        "Epistemology",
+        "epistemology"
+      ],
+      "count": 8
+    },
+    "jnataikasattva": {
+      "id": "jnataikasattva",
+      "preferred": "jnataikasattva",
+      "aliases": [
+        "jnataikasattva"
       ],
       "count": 8
     },
@@ -3018,6 +3459,25 @@
       "aliases": [
         "Srimad Bhagavatam Recitation",
         "Srimad Bhagavatam recitation"
+      ],
+      "count": 7
+    },
+    "anuvyavasaya": {
+      "id": "anuvyavasaya",
+      "preferred": "anuvyavasaya",
+      "aliases": [
+        "Anuvyavasaya",
+        "anuvyavasaya"
+      ],
+      "count": 7
+    },
+    "apaurusheyatva": {
+      "id": "apaurusheyatva",
+      "preferred": "apaurusheyatva",
+      "aliases": [
+        "Apaurusheyatva",
+        "Apaurusheyatva of Vedas",
+        "apaurusheyatva"
       ],
       "count": 7
     },
@@ -3066,6 +3526,18 @@
       ],
       "count": 6
     },
+    "pramanya-svatastva": {
+      "id": "pramanya-svatastva",
+      "preferred": "Pramanya-svatastva",
+      "aliases": [
+        "Pramanya-Svatastva",
+        "Pramanya-svatastva",
+        "Svatah Pramanya",
+        "pramanya-svatastva",
+        "svatah pramanya"
+      ],
+      "count": 6
+    },
     "probabilistic-machine-learning": {
       "id": "probabilistic-machine-learning",
       "preferred": "probabilistic machine learning",
@@ -3079,6 +3551,42 @@
       "preferred": "density estimation",
       "aliases": [
         "density estimation"
+      ],
+      "count": 5
+    },
+    "pramanya": {
+      "id": "pramanya",
+      "preferred": "pramanya",
+      "aliases": [
+        "Pramanya",
+        "pramanya"
+      ],
+      "count": 5
+    },
+    "sakshi": {
+      "id": "sakshi",
+      "preferred": "Sakshi",
+      "aliases": [
+        "Sakshi",
+        "sakshi"
+      ],
+      "count": 5
+    },
+    "manovritti": {
+      "id": "manovritti",
+      "preferred": "manovritti",
+      "aliases": [
+        "Manovritti",
+        "manovritti"
+      ],
+      "count": 5
+    },
+    "artificial-intelligence": {
+      "id": "artificial-intelligence",
+      "preferred": "artificial intelligence",
+      "aliases": [
+        "AI intelligence",
+        "artificial intelligence"
       ],
       "count": 5
     },
@@ -3217,6 +3725,15 @@
       ],
       "count": 4
     },
+    "dharma-and-dharmi": {
+      "id": "dharma-and-dharmi",
+      "preferred": "dharma and dharmi",
+      "aliases": [
+        "dharma and dharmi",
+        "dharmi and dharma"
+      ],
+      "count": 4
+    },
     "variational-divergence-minimisation": {
       "id": "variational-divergence-minimisation",
       "preferred": "variational divergence minimisation",
@@ -3277,6 +3794,15 @@
       "preferred": "autism spectrum disorder assessment",
       "aliases": [
         "autism spectrum disorder assessment"
+      ],
+      "count": 3
+    },
+    "vedanta": {
+      "id": "vedanta",
+      "preferred": "Vedanta",
+      "aliases": [
+        "Vedanta",
+        "vedanta"
       ],
       "count": 3
     },
@@ -3389,6 +3915,41 @@
       ],
       "count": 3
     },
+    "vedic-authority": {
+      "id": "vedic-authority",
+      "preferred": "Vedic authority",
+      "aliases": [
+        "Vedic authority",
+        "vedic authority"
+      ],
+      "count": 3
+    },
+    "chetana": {
+      "id": "chetana",
+      "preferred": "chetana",
+      "aliases": [
+        "chetana"
+      ],
+      "count": 3
+    },
+    "ai-in-healthcare": {
+      "id": "ai-in-healthcare",
+      "preferred": "AI in healthcare",
+      "aliases": [
+        "AI in healthcare",
+        "healthcare AI"
+      ],
+      "count": 3
+    },
+    "peer-review": {
+      "id": "peer-review",
+      "preferred": "peer review",
+      "aliases": [
+        "peer review",
+        "peer review process"
+      ],
+      "count": 3
+    },
     "coding-agents": {
       "id": "coding-agents",
       "preferred": "coding agents",
@@ -3413,6 +3974,15 @@
       "aliases": [
         "Srimad Bhagavatam Skandha 10",
         "Srimad Bhagavatam Tenth Canto"
+      ],
+      "count": 3
+    },
+    "pramana-shastra": {
+      "id": "pramana-shastra",
+      "preferred": "Pramana Shastra",
+      "aliases": [
+        "Pramana Shastra",
+        "Shastra epistemology"
       ],
       "count": 3
     },
@@ -3456,14 +4026,6 @@
       "preferred": "autism screening",
       "aliases": [
         "autism screening"
-      ],
-      "count": 2
-    },
-    "ai-in-healthcare": {
-      "id": "ai-in-healthcare",
-      "preferred": "AI in healthcare",
-      "aliases": [
-        "AI in healthcare"
       ],
       "count": 2
     },
@@ -3553,14 +4115,6 @@
       ],
       "count": 2
     },
-    "vedanta": {
-      "id": "vedanta",
-      "preferred": "Vedanta",
-      "aliases": [
-        "Vedanta"
-      ],
-      "count": 2
-    },
     "generative-models": {
       "id": "generative-models",
       "preferred": "generative models",
@@ -3575,6 +4129,23 @@
       "aliases": [
         "Generative AI mathematics",
         "generative AI mathematics"
+      ],
+      "count": 2
+    },
+    "vishnu-tattva-vinirnaya": {
+      "id": "vishnu-tattva-vinirnaya",
+      "preferred": "Vishnu-tattva-vinirnaya",
+      "aliases": [
+        "Vishnu-tattva-vinirnaya"
+      ],
+      "count": 2
+    },
+    "nyaya-shastra": {
+      "id": "nyaya-shastra",
+      "preferred": "Nyaya-shastra",
+      "aliases": [
+        "Nyaya Shastra",
+        "Nyaya-shastra"
       ],
       "count": 2
     },
@@ -3609,6 +4180,14 @@
       "aliases": [
         "Mathematical Foundations of Generative Models",
         "mathematical foundations of generative models"
+      ],
+      "count": 2
+    },
+    "brahman": {
+      "id": "brahman",
+      "preferred": "Brahman",
+      "aliases": [
+        "Brahman"
       ],
       "count": 2
     },
@@ -3705,6 +4284,14 @@
       "preferred": "uniform distribution density",
       "aliases": [
         "uniform distribution density"
+      ],
+      "count": 2
+    },
+    "session-wrap-up": {
+      "id": "session-wrap-up",
+      "preferred": "session wrap-up",
+      "aliases": [
+        "session wrap-up"
       ],
       "count": 2
     },
@@ -3970,6 +4557,89 @@
       ],
       "count": 2
     },
+    "pramana": {
+      "id": "pramana",
+      "preferred": "pramana",
+      "aliases": [
+        "pramana"
+      ],
+      "count": 2
+    },
+    "agama": {
+      "id": "agama",
+      "preferred": "agama",
+      "aliases": [
+        "Agama",
+        "agama"
+      ],
+      "count": 2
+    },
+    "aptavakya": {
+      "id": "aptavakya",
+      "preferred": "aptavakya",
+      "aliases": [
+        "Aptavakya",
+        "aptavakya"
+      ],
+      "count": 2
+    },
+    "sensory-perception": {
+      "id": "sensory-perception",
+      "preferred": "sensory perception",
+      "aliases": [
+        "sensory perception"
+      ],
+      "count": 2
+    },
+    "bhrama": {
+      "id": "bhrama",
+      "preferred": "bhrama",
+      "aliases": [
+        "Bhrama",
+        "bhrama"
+      ],
+      "count": 2
+    },
+    "anuvyavasaya-attributes": {
+      "id": "anuvyavasaya-attributes",
+      "preferred": "anuvyavasaya attributes",
+      "aliases": [
+        "anuvyavasaya attributes"
+      ],
+      "count": 2
+    },
+    "samadhi": {
+      "id": "samadhi",
+      "preferred": "Samadhi",
+      "aliases": [
+        "Samadhi"
+      ],
+      "count": 2
+    },
+    "anuvyakhyana": {
+      "id": "anuvyakhyana",
+      "preferred": "Anuvyakhyana",
+      "aliases": [
+        "Anuvyakhyana"
+      ],
+      "count": 2
+    },
+    "manovikara": {
+      "id": "manovikara",
+      "preferred": "manovikara",
+      "aliases": [
+        "manovikara"
+      ],
+      "count": 2
+    },
+    "brahma-sutras": {
+      "id": "brahma-sutras",
+      "preferred": "Brahma Sutras",
+      "aliases": [
+        "Brahma Sutras"
+      ],
+      "count": 2
+    },
     "autism-spectrum-disorder-clinical-intervention": {
       "id": "autism-spectrum-disorder-clinical-intervention",
       "preferred": "autism spectrum disorder clinical intervention",
@@ -3997,21 +4667,21 @@
       ],
       "count": 2
     },
+    "ai-in-sanskrit": {
+      "id": "ai-in-sanskrit",
+      "preferred": "AI in Sanskrit",
+      "aliases": [
+        "AI in Sanskrit",
+        "AI in Sanskrit Texts"
+      ],
+      "count": 2
+    },
     "academic-paper-rejections": {
       "id": "academic-paper-rejections",
       "preferred": "academic paper rejections",
       "aliases": [
         "academic paper rejections",
         "paper rejections"
-      ],
-      "count": 2
-    },
-    "artificial-intelligence": {
-      "id": "artificial-intelligence",
-      "preferred": "artificial intelligence",
-      "aliases": [
-        "AI intelligence",
-        "artificial intelligence"
       ],
       "count": 2
     },
@@ -4060,12 +4730,75 @@
       ],
       "count": 2
     },
+    "academic-career-path": {
+      "id": "academic-career-path",
+      "preferred": "academic career path",
+      "aliases": [
+        "academic career path",
+        "faculty career"
+      ],
+      "count": 2
+    },
+    "shannon-surprisal": {
+      "id": "shannon-surprisal",
+      "preferred": "Shannon surprisal",
+      "aliases": [
+        "Shannon surprisal",
+        "surprisal"
+      ],
+      "count": 2
+    },
     "dcgan-architecture": {
       "id": "dcgan-architecture",
       "preferred": "DCGAN architecture",
       "aliases": [
         "DCGAN",
         "DCGAN architecture"
+      ],
+      "count": 2
+    },
+    "apaurusheya-validity": {
+      "id": "apaurusheya-validity",
+      "preferred": "apaurusheya validity",
+      "aliases": [
+        "Veda validity",
+        "apaurusheya validity"
+      ],
+      "count": 2
+    },
+    "rope-snake-illusion": {
+      "id": "rope-snake-illusion",
+      "preferred": "rope-snake illusion",
+      "aliases": [
+        "rope-snake analogy",
+        "rope-snake illusion"
+      ],
+      "count": 2
+    },
+    "meta-cognition": {
+      "id": "meta-cognition",
+      "preferred": "meta-cognition",
+      "aliases": [
+        "meta-cognition",
+        "second-level cognition"
+      ],
+      "count": 2
+    },
+    "jada-vs-chetana": {
+      "id": "jada-vs-chetana",
+      "preferred": "jada vs chetana",
+      "aliases": [
+        "chetana vs jada",
+        "jada vs chetana"
+      ],
+      "count": 2
+    },
+    "madhva-vedanta": {
+      "id": "madhva-vedanta",
+      "preferred": "madhva vedanta",
+      "aliases": [
+        "Dvaita Vedanta",
+        "madhva vedanta"
       ],
       "count": 2
     },
@@ -4925,14 +5658,6 @@
       ],
       "count": 1
     },
-    "peer-review": {
-      "id": "peer-review",
-      "preferred": "peer review",
-      "aliases": [
-        "peer review"
-      ],
-      "count": 1
-    },
     "ml-internship": {
       "id": "ml-internship",
       "preferred": "ML Internship",
@@ -4970,14 +5695,6 @@
       "preferred": "mechanics and machine learning",
       "aliases": [
         "mechanics and machine learning"
-      ],
-      "count": 1
-    },
-    "ai-in-sanskrit": {
-      "id": "ai-in-sanskrit",
-      "preferred": "AI in Sanskrit",
-      "aliases": [
-        "AI in Sanskrit"
       ],
       "count": 1
     },
@@ -5325,22 +6042,6 @@
       ],
       "count": 1
     },
-    "vishnu-tattva-vinirnaya": {
-      "id": "vishnu-tattva-vinirnaya",
-      "preferred": "Vishnu-tattva-vinirnaya",
-      "aliases": [
-        "Vishnu-tattva-vinirnaya"
-      ],
-      "count": 1
-    },
-    "nyaya-shastra": {
-      "id": "nyaya-shastra",
-      "preferred": "Nyaya-shastra",
-      "aliases": [
-        "Nyaya-shastra"
-      ],
-      "count": 1
-    },
     "data-influence-on-ml-models": {
       "id": "data-influence-on-ml-models",
       "preferred": "data influence on ML models",
@@ -5354,14 +6055,6 @@
       "preferred": "Mamba architecture",
       "aliases": [
         "Mamba architecture"
-      ],
-      "count": 1
-    },
-    "mathematics-of-deep-generative-modelling": {
-      "id": "mathematics-of-deep-generative-modelling",
-      "preferred": "mathematics of deep generative modelling",
-      "aliases": [
-        "mathematics of deep generative modelling"
       ],
       "count": 1
     },
@@ -5418,14 +6111,6 @@
       "preferred": "UI/UX hiring",
       "aliases": [
         "UI/UX hiring"
-      ],
-      "count": 1
-    },
-    "brahman": {
-      "id": "brahman",
-      "preferred": "Brahman",
-      "aliases": [
-        "Brahman"
       ],
       "count": 1
     },
@@ -5730,14 +6415,6 @@
       "preferred": "AI impact on system vs production knowledge",
       "aliases": [
         "AI impact on system vs production knowledge"
-      ],
-      "count": 1
-    },
-    "ai-in-sanskrit-texts": {
-      "id": "ai-in-sanskrit-texts",
-      "preferred": "AI in Sanskrit Texts",
-      "aliases": [
-        "AI in Sanskrit Texts"
       ],
       "count": 1
     },
@@ -6802,14 +7479,6 @@
       "preferred": "continuous probability concepts",
       "aliases": [
         "continuous probability concepts"
-      ],
-      "count": 1
-    },
-    "session-wrap-up": {
-      "id": "session-wrap-up",
-      "preferred": "session wrap-up",
-      "aliases": [
-        "session wrap-up"
       ],
       "count": 1
     },
@@ -9677,14 +10346,6 @@
       ],
       "count": 1
     },
-    "academic-career-path": {
-      "id": "academic-career-path",
-      "preferred": "academic career path",
-      "aliases": [
-        "academic career path"
-      ],
-      "count": 1
-    },
     "regional-differences-and-city-living": {
       "id": "regional-differences-and-city-living",
       "preferred": "regional differences and city living",
@@ -10053,14 +10714,6 @@
       ],
       "count": 1
     },
-    "shannon-surprisal": {
-      "id": "shannon-surprisal",
-      "preferred": "Shannon surprisal",
-      "aliases": [
-        "Shannon surprisal"
-      ],
-      "count": 1
-    },
     "information-extremes": {
       "id": "information-extremes",
       "preferred": "information extremes",
@@ -10290,14 +10943,6 @@
       "preferred": "entropy",
       "aliases": [
         "entropy"
-      ],
-      "count": 1
-    },
-    "surprisal": {
-      "id": "surprisal",
-      "preferred": "surprisal",
-      "aliases": [
-        "surprisal"
       ],
       "count": 1
     },
@@ -12506,6 +13151,2582 @@
       "preferred": "relevance of shastras",
       "aliases": [
         "relevance of shastras"
+      ],
+      "count": 1
+    },
+    "shastra-studies": {
+      "id": "shastra-studies",
+      "preferred": "Shastra studies",
+      "aliases": [
+        "Shastra studies"
+      ],
+      "count": 1
+    },
+    "unlearning": {
+      "id": "unlearning",
+      "preferred": "unlearning",
+      "aliases": [
+        "unlearning"
+      ],
+      "count": 1
+    },
+    "student-behavior": {
+      "id": "student-behavior",
+      "preferred": "student behavior",
+      "aliases": [
+        "student behavior"
+      ],
+      "count": 1
+    },
+    "technical-innovation": {
+      "id": "technical-innovation",
+      "preferred": "technical innovation",
+      "aliases": [
+        "technical innovation"
+      ],
+      "count": 1
+    },
+    "interdisciplinary-teaching": {
+      "id": "interdisciplinary-teaching",
+      "preferred": "interdisciplinary teaching",
+      "aliases": [
+        "interdisciplinary teaching"
+      ],
+      "count": 1
+    },
+    "shastric-methodology-in-research": {
+      "id": "shastric-methodology-in-research",
+      "preferred": "Shastric methodology in research",
+      "aliases": [
+        "Shastric methodology in research"
+      ],
+      "count": 1
+    },
+    "curriculum-integration": {
+      "id": "curriculum-integration",
+      "preferred": "curriculum integration",
+      "aliases": [
+        "curriculum integration"
+      ],
+      "count": 1
+    },
+    "ncert-syllabus-inclusion": {
+      "id": "ncert-syllabus-inclusion",
+      "preferred": "NCERT syllabus inclusion",
+      "aliases": [
+        "NCERT syllabus inclusion"
+      ],
+      "count": 1
+    },
+    "joint-academic-programs": {
+      "id": "joint-academic-programs",
+      "preferred": "joint academic programs",
+      "aliases": [
+        "joint academic programs"
+      ],
+      "count": 1
+    },
+    "interdisciplinary-learning": {
+      "id": "interdisciplinary-learning",
+      "preferred": "interdisciplinary learning",
+      "aliases": [
+        "interdisciplinary learning"
+      ],
+      "count": 1
+    },
+    "disciplinary-dialogue": {
+      "id": "disciplinary-dialogue",
+      "preferred": "disciplinary dialogue",
+      "aliases": [
+        "disciplinary dialogue"
+      ],
+      "count": 1
+    },
+    "scientific-and-shastric-epistemology": {
+      "id": "scientific-and-shastric-epistemology",
+      "preferred": "scientific and Shastric epistemology",
+      "aliases": [
+        "scientific and Shastric epistemology"
+      ],
+      "count": 1
+    },
+    "scriptural-hermeneutics": {
+      "id": "scriptural-hermeneutics",
+      "preferred": "scriptural hermeneutics",
+      "aliases": [
+        "scriptural hermeneutics"
+      ],
+      "count": 1
+    },
+    "scriptural-authenticity": {
+      "id": "scriptural-authenticity",
+      "preferred": "scriptural authenticity",
+      "aliases": [
+        "scriptural authenticity"
+      ],
+      "count": 1
+    },
+    "interpretation-of-vedas": {
+      "id": "interpretation-of-vedas",
+      "preferred": "interpretation of vedas",
+      "aliases": [
+        "interpretation of vedas"
+      ],
+      "count": 1
+    },
+    "tatparya-linga": {
+      "id": "tatparya-linga",
+      "preferred": "tatparya linga",
+      "aliases": [
+        "tatparya linga"
+      ],
+      "count": 1
+    },
+    "pramanashastra": {
+      "id": "pramanashastra",
+      "preferred": "pramanashastra",
+      "aliases": [
+        "pramanashastra"
+      ],
+      "count": 1
+    },
+    "cosmology-in-scripture": {
+      "id": "cosmology-in-scripture",
+      "preferred": "cosmology in scripture",
+      "aliases": [
+        "cosmology in scripture"
+      ],
+      "count": 1
+    },
+    "bhagavata-purana": {
+      "id": "bhagavata-purana",
+      "preferred": "bhagavata purana",
+      "aliases": [
+        "bhagavata purana"
+      ],
+      "count": 1
+    },
+    "aptatva-verification": {
+      "id": "aptatva-verification",
+      "preferred": "aptatva verification",
+      "aliases": [
+        "aptatva verification"
+      ],
+      "count": 1
+    },
+    "atindriya-prameya": {
+      "id": "atindriya-prameya",
+      "preferred": "atindriya prameya",
+      "aliases": [
+        "atindriya prameya"
+      ],
+      "count": 1
+    },
+    "atindriya": {
+      "id": "atindriya",
+      "preferred": "atindriya",
+      "aliases": [
+        "atindriya"
+      ],
+      "count": 1
+    },
+    "anyonyashraya": {
+      "id": "anyonyashraya",
+      "preferred": "anyonyashraya",
+      "aliases": [
+        "anyonyashraya"
+      ],
+      "count": 1
+    },
+    "ishvara-existence": {
+      "id": "ishvara-existence",
+      "preferred": "ishvara existence",
+      "aliases": [
+        "ishvara existence"
+      ],
+      "count": 1
+    },
+    "creator-argument": {
+      "id": "creator-argument",
+      "preferred": "creator argument",
+      "aliases": [
+        "creator argument"
+      ],
+      "count": 1
+    },
+    "tarkika-view": {
+      "id": "tarkika-view",
+      "preferred": "tarkika view",
+      "aliases": [
+        "tarkika view"
+      ],
+      "count": 1
+    },
+    "scriptural-transmission": {
+      "id": "scriptural-transmission",
+      "preferred": "scriptural transmission",
+      "aliases": [
+        "scriptural transmission"
+      ],
+      "count": 1
+    },
+    "tarkika-schools": {
+      "id": "tarkika-schools",
+      "preferred": "tarkika schools",
+      "aliases": [
+        "tarkika schools"
+      ],
+      "count": 1
+    },
+    "logic-vs-faith": {
+      "id": "logic-vs-faith",
+      "preferred": "logic vs faith",
+      "aliases": [
+        "logic vs faith"
+      ],
+      "count": 1
+    },
+    "purva-paksha": {
+      "id": "purva-paksha",
+      "preferred": "purva paksha",
+      "aliases": [
+        "purva paksha"
+      ],
+      "count": 1
+    },
+    "vedic-debate-tradition": {
+      "id": "vedic-debate-tradition",
+      "preferred": "vedic debate tradition",
+      "aliases": [
+        "vedic debate tradition"
+      ],
+      "count": 1
+    },
+    "anaditva-and-time-space-axioms": {
+      "id": "anaditva-and-time-space-axioms",
+      "preferred": "Anaditva and Time-Space Axioms",
+      "aliases": [
+        "Anaditva and Time-Space Axioms"
+      ],
+      "count": 1
+    },
+    "nature-of-kala": {
+      "id": "nature-of-kala",
+      "preferred": "Nature of Kala",
+      "aliases": [
+        "Nature of Kala"
+      ],
+      "count": 1
+    },
+    "linear-time-in-shastra": {
+      "id": "linear-time-in-shastra",
+      "preferred": "Linear Time in Shastra",
+      "aliases": [
+        "Linear Time in Shastra"
+      ],
+      "count": 1
+    },
+    "sattva-and-anadinityatva": {
+      "id": "sattva-and-anadinityatva",
+      "preferred": "Sattva and Anadinityatva",
+      "aliases": [
+        "Sattva and Anadinityatva"
+      ],
+      "count": 1
+    },
+    "desha-and-kala": {
+      "id": "desha-and-kala",
+      "preferred": "Desha and Kala",
+      "aliases": [
+        "Desha and Kala"
+      ],
+      "count": 1
+    },
+    "varna-vs-dhvani": {
+      "id": "varna-vs-dhvani",
+      "preferred": "Varna vs Dhvani",
+      "aliases": [
+        "Varna vs Dhvani"
+      ],
+      "count": 1
+    },
+    "aprakrita-entities": {
+      "id": "aprakrita-entities",
+      "preferred": "Aprakrita Entities",
+      "aliases": [
+        "Aprakrita Entities"
+      ],
+      "count": 1
+    },
+    "quantum-physics-and-vedanta": {
+      "id": "quantum-physics-and-vedanta",
+      "preferred": "Quantum Physics and Vedanta",
+      "aliases": [
+        "Quantum Physics and Vedanta"
+      ],
+      "count": 1
+    },
+    "pratyabhijnana": {
+      "id": "pratyabhijnana",
+      "preferred": "Pratyabhijnana",
+      "aliases": [
+        "Pratyabhijnana"
+      ],
+      "count": 1
+    },
+    "varna-nityatva": {
+      "id": "varna-nityatva",
+      "preferred": "Varna Nityatva",
+      "aliases": [
+        "Varna Nityatva"
+      ],
+      "count": 1
+    },
+    "krama-vishishta-varna": {
+      "id": "krama-vishishta-varna",
+      "preferred": "Krama-vishishta-varna",
+      "aliases": [
+        "Krama-vishishta-varna"
+      ],
+      "count": 1
+    },
+    "aprasiddha-kartrikatva": {
+      "id": "aprasiddha-kartrikatva",
+      "preferred": "Aprasiddha-kartrikatva",
+      "aliases": [
+        "Aprasiddha-kartrikatva"
+      ],
+      "count": 1
+    },
+    "vedic-syntax-and-incorruptibility": {
+      "id": "vedic-syntax-and-incorruptibility",
+      "preferred": "Vedic Syntax and Incorruptibility",
+      "aliases": [
+        "Vedic Syntax and Incorruptibility"
+      ],
+      "count": 1
+    },
+    "vedic-tradition-and-modern-science": {
+      "id": "vedic-tradition-and-modern-science",
+      "preferred": "Vedic tradition and modern science",
+      "aliases": [
+        "Vedic tradition and modern science"
+      ],
+      "count": 1
+    },
+    "karma-siddhanta-and-rebirth": {
+      "id": "karma-siddhanta-and-rebirth",
+      "preferred": "Karma Siddhanta and rebirth",
+      "aliases": [
+        "Karma Siddhanta and rebirth"
+      ],
+      "count": 1
+    },
+    "linguistic-components": {
+      "id": "linguistic-components",
+      "preferred": "linguistic components",
+      "aliases": [
+        "linguistic components"
+      ],
+      "count": 1
+    },
+    "varna-and-dhvani": {
+      "id": "varna-and-dhvani",
+      "preferred": "varna and dhvani",
+      "aliases": [
+        "varna and dhvani"
+      ],
+      "count": 1
+    },
+    "acoustic-waveforms": {
+      "id": "acoustic-waveforms",
+      "preferred": "acoustic waveforms",
+      "aliases": [
+        "acoustic waveforms"
+      ],
+      "count": 1
+    },
+    "waveform-observation": {
+      "id": "waveform-observation",
+      "preferred": "waveform observation",
+      "aliases": [
+        "waveform observation"
+      ],
+      "count": 1
+    },
+    "speech-pressure-changes": {
+      "id": "speech-pressure-changes",
+      "preferred": "speech pressure changes",
+      "aliases": [
+        "speech pressure changes"
+      ],
+      "count": 1
+    },
+    "dhvani-vs-varna": {
+      "id": "dhvani-vs-varna",
+      "preferred": "dhvani vs varna",
+      "aliases": [
+        "dhvani vs varna"
+      ],
+      "count": 1
+    },
+    "phonemic-mapping": {
+      "id": "phonemic-mapping",
+      "preferred": "phonemic mapping",
+      "aliases": [
+        "phonemic mapping"
+      ],
+      "count": 1
+    },
+    "akshara-concept": {
+      "id": "akshara-concept",
+      "preferred": "akshara concept",
+      "aliases": [
+        "akshara concept"
+      ],
+      "count": 1
+    },
+    "varna-manifestation": {
+      "id": "varna-manifestation",
+      "preferred": "varna manifestation",
+      "aliases": [
+        "varna manifestation"
+      ],
+      "count": 1
+    },
+    "abhivyakti": {
+      "id": "abhivyakti",
+      "preferred": "abhivyakti",
+      "aliases": [
+        "abhivyakti"
+      ],
+      "count": 1
+    },
+    "phonetics-vs-semantics": {
+      "id": "phonetics-vs-semantics",
+      "preferred": "phonetics vs semantics",
+      "aliases": [
+        "phonetics vs semantics"
+      ],
+      "count": 1
+    },
+    "sound-vs-meaning": {
+      "id": "sound-vs-meaning",
+      "preferred": "sound vs meaning",
+      "aliases": [
+        "sound vs meaning"
+      ],
+      "count": 1
+    },
+    "written-script-and-varna": {
+      "id": "written-script-and-varna",
+      "preferred": "written script and varna",
+      "aliases": [
+        "written script and varna"
+      ],
+      "count": 1
+    },
+    "mental-perception-of-varna": {
+      "id": "mental-perception-of-varna",
+      "preferred": "mental perception of varna",
+      "aliases": [
+        "mental perception of varna"
+      ],
+      "count": 1
+    },
+    "perceptual-entity": {
+      "id": "perceptual-entity",
+      "preferred": "perceptual entity",
+      "aliases": [
+        "perceptual entity"
+      ],
+      "count": 1
+    },
+    "shabda-and-artha": {
+      "id": "shabda-and-artha",
+      "preferred": "shabda and artha",
+      "aliases": [
+        "shabda and artha"
+      ],
+      "count": 1
+    },
+    "dhvani-without-varna": {
+      "id": "dhvani-without-varna",
+      "preferred": "dhvani without varna",
+      "aliases": [
+        "dhvani without varna"
+      ],
+      "count": 1
+    },
+    "acoustic-clustering": {
+      "id": "acoustic-clustering",
+      "preferred": "acoustic clustering",
+      "aliases": [
+        "acoustic clustering"
+      ],
+      "count": 1
+    },
+    "visual-presentation": {
+      "id": "visual-presentation",
+      "preferred": "visual presentation",
+      "aliases": [
+        "visual presentation"
+      ],
+      "count": 1
+    },
+    "phonemic-invariance": {
+      "id": "phonemic-invariance",
+      "preferred": "phonemic invariance",
+      "aliases": [
+        "phonemic invariance"
+      ],
+      "count": 1
+    },
+    "krama-vishishta-varna-samuha": {
+      "id": "krama-vishishta-varna-samuha",
+      "preferred": "krama vishishta varna samuha",
+      "aliases": [
+        "krama vishishta varna samuha"
+      ],
+      "count": 1
+    },
+    "shastric-definition-of-sentence": {
+      "id": "shastric-definition-of-sentence",
+      "preferred": "shastric definition of sentence",
+      "aliases": [
+        "shastric definition of sentence"
+      ],
+      "count": 1
+    },
+    "sentence-composition": {
+      "id": "sentence-composition",
+      "preferred": "sentence composition",
+      "aliases": [
+        "sentence composition"
+      ],
+      "count": 1
+    },
+    "poetic-composition": {
+      "id": "poetic-composition",
+      "preferred": "poetic composition",
+      "aliases": [
+        "poetic composition"
+      ],
+      "count": 1
+    },
+    "phoneme-ordering": {
+      "id": "phoneme-ordering",
+      "preferred": "phoneme ordering",
+      "aliases": [
+        "phoneme ordering"
+      ],
+      "count": 1
+    },
+    "composition-as-structure-creation": {
+      "id": "composition-as-structure-creation",
+      "preferred": "composition as structure creation",
+      "aliases": [
+        "composition as structure creation"
+      ],
+      "count": 1
+    },
+    "krama-creation": {
+      "id": "krama-creation",
+      "preferred": "krama creation",
+      "aliases": [
+        "krama creation"
+      ],
+      "count": 1
+    },
+    "reproducing-sentence-structures": {
+      "id": "reproducing-sentence-structures",
+      "preferred": "reproducing sentence structures",
+      "aliases": [
+        "reproducing sentence structures"
+      ],
+      "count": 1
+    },
+    "mental-reproduction": {
+      "id": "mental-reproduction",
+      "preferred": "mental reproduction",
+      "aliases": [
+        "mental reproduction"
+      ],
+      "count": 1
+    },
+    "mental-phonemic-structures": {
+      "id": "mental-phonemic-structures",
+      "preferred": "mental phonemic structures",
+      "aliases": [
+        "mental phonemic structures"
+      ],
+      "count": 1
+    },
+    "mind-and-sentence-structure": {
+      "id": "mind-and-sentence-structure",
+      "preferred": "mind and sentence structure",
+      "aliases": [
+        "mind and sentence structure"
+      ],
+      "count": 1
+    },
+    "apaurusheyatva-definition": {
+      "id": "apaurusheyatva-definition",
+      "preferred": "apaurusheyatva definition",
+      "aliases": [
+        "apaurusheyatva definition"
+      ],
+      "count": 1
+    },
+    "eternal-mental-structures": {
+      "id": "eternal-mental-structures",
+      "preferred": "eternal mental structures",
+      "aliases": [
+        "eternal mental structures"
+      ],
+      "count": 1
+    },
+    "authorial-vs-uncreated-structures": {
+      "id": "authorial-vs-uncreated-structures",
+      "preferred": "authorial vs uncreated structures",
+      "aliases": [
+        "authorial vs uncreated structures"
+      ],
+      "count": 1
+    },
+    "vedic-krama": {
+      "id": "vedic-krama",
+      "preferred": "Vedic krama",
+      "aliases": [
+        "Vedic krama"
+      ],
+      "count": 1
+    },
+    "uncreated-structure-plausibility": {
+      "id": "uncreated-structure-plausibility",
+      "preferred": "uncreated structure plausibility",
+      "aliases": [
+        "uncreated structure plausibility"
+      ],
+      "count": 1
+    },
+    "krama-and-semantics": {
+      "id": "krama-and-semantics",
+      "preferred": "krama and semantics",
+      "aliases": [
+        "krama and semantics"
+      ],
+      "count": 1
+    },
+    "varna-permutation-and-meaning": {
+      "id": "varna-permutation-and-meaning",
+      "preferred": "varna permutation and meaning",
+      "aliases": [
+        "varna permutation and meaning"
+      ],
+      "count": 1
+    },
+    "dushta-krama-and-artha": {
+      "id": "dushta-krama-and-artha",
+      "preferred": "dushta krama and artha",
+      "aliases": [
+        "dushta krama and artha"
+      ],
+      "count": 1
+    },
+    "speech-transmission-pipeline": {
+      "id": "speech-transmission-pipeline",
+      "preferred": "speech transmission pipeline",
+      "aliases": [
+        "speech transmission pipeline"
+      ],
+      "count": 1
+    },
+    "apti-components": {
+      "id": "apti-components",
+      "preferred": "apti components",
+      "aliases": [
+        "apti components"
+      ],
+      "count": 1
+    },
+    "authorless-error-objection": {
+      "id": "authorless-error-objection",
+      "preferred": "authorless error objection",
+      "aliases": [
+        "authorless error objection"
+      ],
+      "count": 1
+    },
+    "origin-of-textual-error": {
+      "id": "origin-of-textual-error",
+      "preferred": "origin of textual error",
+      "aliases": [
+        "origin of textual error"
+      ],
+      "count": 1
+    },
+    "faultless-uncreated-text": {
+      "id": "faultless-uncreated-text",
+      "preferred": "faultless uncreated text",
+      "aliases": [
+        "faultless uncreated text"
+      ],
+      "count": 1
+    },
+    "pedagogical-scope": {
+      "id": "pedagogical-scope",
+      "preferred": "pedagogical scope",
+      "aliases": [
+        "pedagogical scope"
+      ],
+      "count": 1
+    },
+    "pramanya-and-anuvyavasaya": {
+      "id": "pramanya-and-anuvyavasaya",
+      "preferred": "Pramanya and Anuvyavasaya",
+      "aliases": [
+        "Pramanya and Anuvyavasaya"
+      ],
+      "count": 1
+    },
+    "jnana-swaroopa": {
+      "id": "jnana-swaroopa",
+      "preferred": "Jnana Swaroopa",
+      "aliases": [
+        "Jnana Swaroopa"
+      ],
+      "count": 1
+    },
+    "cognition-and-origin-of-jnana": {
+      "id": "cognition-and-origin-of-jnana",
+      "preferred": "Cognition and Origin of Jnana",
+      "aliases": [
+        "Cognition and Origin of Jnana"
+      ],
+      "count": 1
+    },
+    "biological-basis-of-perception": {
+      "id": "biological-basis-of-perception",
+      "preferred": "Biological Basis of Perception",
+      "aliases": [
+        "Biological Basis of Perception"
+      ],
+      "count": 1
+    },
+    "neurobiology-and-shastra-on-cognition": {
+      "id": "neurobiology-and-shastra-on-cognition",
+      "preferred": "Neurobiology and Shastra on Cognition",
+      "aliases": [
+        "Neurobiology and Shastra on Cognition"
+      ],
+      "count": 1
+    },
+    "manovikara-and-atma": {
+      "id": "manovikara-and-atma",
+      "preferred": "Manovikara and Atma",
+      "aliases": [
+        "Manovikara and Atma"
+      ],
+      "count": 1
+    },
+    "properties-of-manas": {
+      "id": "properties-of-manas",
+      "preferred": "Properties of Manas",
+      "aliases": [
+        "Properties of Manas"
+      ],
+      "count": 1
+    },
+    "manas-vikara-and-samsara": {
+      "id": "manas-vikara-and-samsara",
+      "preferred": "Manas Vikara and Samsara",
+      "aliases": [
+        "Manas Vikara and Samsara"
+      ],
+      "count": 1
+    },
+    "manovritti-vs-sakshi": {
+      "id": "manovritti-vs-sakshi",
+      "preferred": "Manovritti vs Sakshi",
+      "aliases": [
+        "Manovritti vs Sakshi"
+      ],
+      "count": 1
+    },
+    "primary-cognition-vs-metacognition": {
+      "id": "primary-cognition-vs-metacognition",
+      "preferred": "Primary Cognition vs Metacognition",
+      "aliases": [
+        "Primary Cognition vs Metacognition"
+      ],
+      "count": 1
+    },
+    "sakshi-recognition-of-manovritti": {
+      "id": "sakshi-recognition-of-manovritti",
+      "preferred": "Sakshi Recognition of Manovritti",
+      "aliases": [
+        "Sakshi Recognition of Manovritti"
+      ],
+      "count": 1
+    },
+    "nature-of-sakshi-and-jiva": {
+      "id": "nature-of-sakshi-and-jiva",
+      "preferred": "Nature of Sakshi and Jiva",
+      "aliases": [
+        "Nature of Sakshi and Jiva"
+      ],
+      "count": 1
+    },
+    "lingadeha-and-manas": {
+      "id": "lingadeha-and-manas",
+      "preferred": "Lingadeha and Manas",
+      "aliases": [
+        "Lingadeha and Manas"
+      ],
+      "count": 1
+    },
+    "course-planning-and-transition": {
+      "id": "course-planning-and-transition",
+      "preferred": "Course Planning and Transition",
+      "aliases": [
+        "Course Planning and Transition"
+      ],
+      "count": 1
+    },
+    "post-lecture-discussion": {
+      "id": "post-lecture-discussion",
+      "preferred": "Post-Lecture Discussion",
+      "aliases": [
+        "Post-Lecture Discussion"
+      ],
+      "count": 1
+    },
+    "pramana-definition": {
+      "id": "pramana-definition",
+      "preferred": "pramana definition",
+      "aliases": [
+        "pramana definition"
+      ],
+      "count": 1
+    },
+    "realism": {
+      "id": "realism",
+      "preferred": "realism",
+      "aliases": [
+        "realism"
+      ],
+      "count": 1
+    },
+    "perception-of-validity": {
+      "id": "perception-of-validity",
+      "preferred": "perception of validity",
+      "aliases": [
+        "perception of validity"
+      ],
+      "count": 1
+    },
+    "epistemic-correctness": {
+      "id": "epistemic-correctness",
+      "preferred": "epistemic correctness",
+      "aliases": [
+        "epistemic correctness"
+      ],
+      "count": 1
+    },
+    "perception-analysis": {
+      "id": "perception-analysis",
+      "preferred": "perception analysis",
+      "aliases": [
+        "perception analysis"
+      ],
+      "count": 1
+    },
+    "epistemic-realism": {
+      "id": "epistemic-realism",
+      "preferred": "epistemic realism",
+      "aliases": [
+        "epistemic realism"
+      ],
+      "count": 1
+    },
+    "jnana-and-reality": {
+      "id": "jnana-and-reality",
+      "preferred": "jnana and reality",
+      "aliases": [
+        "jnana and reality"
+      ],
+      "count": 1
+    },
+    "illusion-analysis": {
+      "id": "illusion-analysis",
+      "preferred": "illusion analysis",
+      "aliases": [
+        "illusion analysis"
+      ],
+      "count": 1
+    },
+    "apramana": {
+      "id": "apramana",
+      "preferred": "apramana",
+      "aliases": [
+        "apramana"
+      ],
+      "count": 1
+    },
+    "verification": {
+      "id": "verification",
+      "preferred": "verification",
+      "aliases": [
+        "verification"
+      ],
+      "count": 1
+    },
+    "levels-of-cognition": {
+      "id": "levels-of-cognition",
+      "preferred": "levels of cognition",
+      "aliases": [
+        "levels of cognition"
+      ],
+      "count": 1
+    },
+    "doubt-definition": {
+      "id": "doubt-definition",
+      "preferred": "doubt definition",
+      "aliases": [
+        "doubt definition"
+      ],
+      "count": 1
+    },
+    "verification-hypothesis": {
+      "id": "verification-hypothesis",
+      "preferred": "verification hypothesis",
+      "aliases": [
+        "verification hypothesis"
+      ],
+      "count": 1
+    },
+    "epistemic-verification": {
+      "id": "epistemic-verification",
+      "preferred": "epistemic verification",
+      "aliases": [
+        "epistemic verification"
+      ],
+      "count": 1
+    },
+    "pratyaksha-validation": {
+      "id": "pratyaksha-validation",
+      "preferred": "pratyaksha validation",
+      "aliases": [
+        "pratyaksha validation"
+      ],
+      "count": 1
+    },
+    "anavastha": {
+      "id": "anavastha",
+      "preferred": "anavastha",
+      "aliases": [
+        "anavastha"
+      ],
+      "count": 1
+    },
+    "paratah-pramanya": {
+      "id": "paratah-pramanya",
+      "preferred": "paratah-pramanya",
+      "aliases": [
+        "paratah-pramanya"
+      ],
+      "count": 1
+    },
+    "madhvacharya-contributions": {
+      "id": "madhvacharya-contributions",
+      "preferred": "Madhvacharya contributions",
+      "aliases": [
+        "Madhvacharya contributions"
+      ],
+      "count": 1
+    },
+    "sushupti": {
+      "id": "sushupti",
+      "preferred": "Sushupti",
+      "aliases": [
+        "Sushupti"
+      ],
+      "count": 1
+    },
+    "smarana": {
+      "id": "smarana",
+      "preferred": "Smarana",
+      "aliases": [
+        "Smarana"
+      ],
+      "count": 1
+    },
+    "samskara": {
+      "id": "samskara",
+      "preferred": "Samskara",
+      "aliases": [
+        "Samskara"
+      ],
+      "count": 1
+    },
+    "chitta-and-chetana": {
+      "id": "chitta-and-chetana",
+      "preferred": "Chitta and Chetana",
+      "aliases": [
+        "Chitta and Chetana"
+      ],
+      "count": 1
+    },
+    "manovritti-nirodha": {
+      "id": "manovritti-nirodha",
+      "preferred": "Manovritti Nirodha",
+      "aliases": [
+        "Manovritti Nirodha"
+      ],
+      "count": 1
+    },
+    "deep-sleep": {
+      "id": "deep-sleep",
+      "preferred": "Deep Sleep",
+      "aliases": [
+        "Deep Sleep"
+      ],
+      "count": 1
+    },
+    "illusion": {
+      "id": "illusion",
+      "preferred": "Illusion",
+      "aliases": [
+        "Illusion"
+      ],
+      "count": 1
+    },
+    "sakshi-infallibility": {
+      "id": "sakshi-infallibility",
+      "preferred": "Sakshi Infallibility",
+      "aliases": [
+        "Sakshi Infallibility"
+      ],
+      "count": 1
+    },
+    "prama": {
+      "id": "prama",
+      "preferred": "Prama",
+      "aliases": [
+        "Prama"
+      ],
+      "count": 1
+    },
+    "doshas": {
+      "id": "doshas",
+      "preferred": "Doshas",
+      "aliases": [
+        "Doshas"
+      ],
+      "count": 1
+    },
+    "samshaya": {
+      "id": "samshaya",
+      "preferred": "Samshaya",
+      "aliases": [
+        "Samshaya"
+      ],
+      "count": 1
+    },
+    "sakshi-udasina": {
+      "id": "sakshi-udasina",
+      "preferred": "Sakshi Udasina",
+      "aliases": [
+        "Sakshi Udasina"
+      ],
+      "count": 1
+    },
+    "apramanya": {
+      "id": "apramanya",
+      "preferred": "Apramanya",
+      "aliases": [
+        "Apramanya"
+      ],
+      "count": 1
+    },
+    "pravritti": {
+      "id": "pravritti",
+      "preferred": "Pravritti",
+      "aliases": [
+        "Pravritti"
+      ],
+      "count": 1
+    },
+    "veda-pramanya": {
+      "id": "veda-pramanya",
+      "preferred": "Veda Pramanya",
+      "aliases": [
+        "Veda Pramanya"
+      ],
+      "count": 1
+    },
+    "alternative-metrics-of-success": {
+      "id": "alternative-metrics-of-success",
+      "preferred": "alternative metrics of success",
+      "aliases": [
+        "alternative metrics of success"
+      ],
+      "count": 1
+    },
+    "curriculum-reform": {
+      "id": "curriculum-reform",
+      "preferred": "curriculum reform",
+      "aliases": [
+        "curriculum reform"
+      ],
+      "count": 1
+    },
+    "purushartha-in-science": {
+      "id": "purushartha-in-science",
+      "preferred": "purushartha in science",
+      "aliases": [
+        "purushartha in science"
+      ],
+      "count": 1
+    },
+    "philosophy-of-science": {
+      "id": "philosophy-of-science",
+      "preferred": "philosophy of science",
+      "aliases": [
+        "philosophy of science"
+      ],
+      "count": 1
+    },
+    "epistemic-absolutism-vs-pariksha": {
+      "id": "epistemic-absolutism-vs-pariksha",
+      "preferred": "epistemic absolutism vs pariksha",
+      "aliases": [
+        "epistemic absolutism vs pariksha"
+      ],
+      "count": 1
+    },
+    "history-of-mathematics": {
+      "id": "history-of-mathematics",
+      "preferred": "history of mathematics",
+      "aliases": [
+        "history of mathematics"
+      ],
+      "count": 1
+    },
+    "svakriya-virodha-in-technology": {
+      "id": "svakriya-virodha-in-technology",
+      "preferred": "svakriya virodha in technology",
+      "aliases": [
+        "svakriya virodha in technology"
+      ],
+      "count": 1
+    },
+    "gurukula-schooling-model": {
+      "id": "gurukula-schooling-model",
+      "preferred": "Gurukula schooling model",
+      "aliases": [
+        "Gurukula schooling model"
+      ],
+      "count": 1
+    },
+    "rigor-in-shastras-and-mathematics": {
+      "id": "rigor-in-shastras-and-mathematics",
+      "preferred": "rigor in shastras and mathematics",
+      "aliases": [
+        "rigor in shastras and mathematics"
+      ],
+      "count": 1
+    },
+    "mathematical-rigor-in-ai": {
+      "id": "mathematical-rigor-in-ai",
+      "preferred": "mathematical rigor in AI",
+      "aliases": [
+        "mathematical rigor in AI"
+      ],
+      "count": 1
+    },
+    "historical-material-prosperity-in-india": {
+      "id": "historical-material-prosperity-in-india",
+      "preferred": "historical material prosperity in India",
+      "aliases": [
+        "historical material prosperity in India"
+      ],
+      "count": 1
+    },
+    "mangalacharana": {
+      "id": "mangalacharana",
+      "preferred": "mangalacharana",
+      "aliases": [
+        "mangalacharana"
+      ],
+      "count": 1
+    },
+    "counterexample-analysis": {
+      "id": "counterexample-analysis",
+      "preferred": "counterexample analysis",
+      "aliases": [
+        "counterexample analysis"
+      ],
+      "count": 1
+    },
+    "ontology": {
+      "id": "ontology",
+      "preferred": "ontology",
+      "aliases": [
+        "ontology"
+      ],
+      "count": 1
+    },
+    "simultaneous-cognition": {
+      "id": "simultaneous-cognition",
+      "preferred": "simultaneous cognition",
+      "aliases": [
+        "simultaneous cognition"
+      ],
+      "count": 1
+    },
+    "logical-contrapositive": {
+      "id": "logical-contrapositive",
+      "preferred": "logical contrapositive",
+      "aliases": [
+        "logical contrapositive"
+      ],
+      "count": 1
+    },
+    "vikara-of-manas": {
+      "id": "vikara-of-manas",
+      "preferred": "vikara of manas",
+      "aliases": [
+        "vikara of manas"
+      ],
+      "count": 1
+    },
+    "bimba-pratibimba-bhava": {
+      "id": "bimba-pratibimba-bhava",
+      "preferred": "bimba-pratibimba bhava",
+      "aliases": [
+        "bimba-pratibimba bhava"
+      ],
+      "count": 1
+    },
+    "jiva-svarupa": {
+      "id": "jiva-svarupa",
+      "preferred": "jiva svarupa",
+      "aliases": [
+        "jiva svarupa"
+      ],
+      "count": 1
+    },
+    "turing-test": {
+      "id": "turing-test",
+      "preferred": "turing test",
+      "aliases": [
+        "turing test"
+      ],
+      "count": 1
+    },
+    "definition-of-intelligence": {
+      "id": "definition-of-intelligence",
+      "preferred": "definition of intelligence",
+      "aliases": [
+        "definition of intelligence"
+      ],
+      "count": 1
+    },
+    "etymology": {
+      "id": "etymology",
+      "preferred": "etymology",
+      "aliases": [
+        "etymology"
+      ],
+      "count": 1
+    },
+    "sukha": {
+      "id": "sukha",
+      "preferred": "sukha",
+      "aliases": [
+        "sukha"
+      ],
+      "count": 1
+    },
+    "sthitaprajna": {
+      "id": "sthitaprajna",
+      "preferred": "sthitaprajna",
+      "aliases": [
+        "sthitaprajna"
+      ],
+      "count": 1
+    },
+    "samsara": {
+      "id": "samsara",
+      "preferred": "samsara",
+      "aliases": [
+        "samsara"
+      ],
+      "count": 1
+    },
+    "svaprakashatva": {
+      "id": "svaprakashatva",
+      "preferred": "svaprakashatva",
+      "aliases": [
+        "svaprakashatva"
+      ],
+      "count": 1
+    },
+    "manas": {
+      "id": "manas",
+      "preferred": "manas",
+      "aliases": [
+        "manas"
+      ],
+      "count": 1
+    },
+    "moksha": {
+      "id": "moksha",
+      "preferred": "moksha",
+      "aliases": [
+        "moksha"
+      ],
+      "count": 1
+    },
+    "antahkarana": {
+      "id": "antahkarana",
+      "preferred": "antahkarana",
+      "aliases": [
+        "antahkarana"
+      ],
+      "count": 1
+    },
+    "paper-writing": {
+      "id": "paper-writing",
+      "preferred": "paper writing",
+      "aliases": [
+        "paper writing"
+      ],
+      "count": 1
+    },
+    "guest-background": {
+      "id": "guest-background",
+      "preferred": "guest background",
+      "aliases": [
+        "guest background"
+      ],
+      "count": 1
+    },
+    "traditional-invocation": {
+      "id": "traditional-invocation",
+      "preferred": "traditional invocation",
+      "aliases": [
+        "traditional invocation"
+      ],
+      "count": 1
+    },
+    "guru-parampara": {
+      "id": "guru-parampara",
+      "preferred": "guru parampara",
+      "aliases": [
+        "guru parampara"
+      ],
+      "count": 1
+    },
+    "academic-research": {
+      "id": "academic-research",
+      "preferred": "academic research",
+      "aliases": [
+        "academic research"
+      ],
+      "count": 1
+    },
+    "scientific-publishing": {
+      "id": "scientific-publishing",
+      "preferred": "scientific publishing",
+      "aliases": [
+        "scientific publishing"
+      ],
+      "count": 1
+    },
+    "academic-journey": {
+      "id": "academic-journey",
+      "preferred": "academic journey",
+      "aliases": [
+        "academic journey"
+      ],
+      "count": 1
+    },
+    "engineering-to-phd": {
+      "id": "engineering-to-phd",
+      "preferred": "engineering to PhD",
+      "aliases": [
+        "engineering to PhD"
+      ],
+      "count": 1
+    },
+    "iisc-bangalore": {
+      "id": "iisc-bangalore",
+      "preferred": "IISc Bangalore",
+      "aliases": [
+        "IISc Bangalore"
+      ],
+      "count": 1
+    },
+    "machine-learning": {
+      "id": "machine-learning",
+      "preferred": "machine learning",
+      "aliases": [
+        "machine learning"
+      ],
+      "count": 1
+    },
+    "vaidika-shastra": {
+      "id": "vaidika-shastra",
+      "preferred": "Vaidika Shastra",
+      "aliases": [
+        "Vaidika Shastra"
+      ],
+      "count": 1
+    },
+    "early-traditional-education": {
+      "id": "early-traditional-education",
+      "preferred": "early traditional education",
+      "aliases": [
+        "early traditional education"
+      ],
+      "count": 1
+    },
+    "traditional-pedagogy": {
+      "id": "traditional-pedagogy",
+      "preferred": "traditional pedagogy",
+      "aliases": [
+        "traditional pedagogy"
+      ],
+      "count": 1
+    },
+    "disciplined-lifestyle": {
+      "id": "disciplined-lifestyle",
+      "preferred": "disciplined lifestyle",
+      "aliases": [
+        "disciplined lifestyle"
+      ],
+      "count": 1
+    },
+    "traditional-study": {
+      "id": "traditional-study",
+      "preferred": "traditional study",
+      "aliases": [
+        "traditional study"
+      ],
+      "count": 1
+    },
+    "jnana-parampara": {
+      "id": "jnana-parampara",
+      "preferred": "Jnana Parampara",
+      "aliases": [
+        "Jnana Parampara"
+      ],
+      "count": 1
+    },
+    "knowledge-classification": {
+      "id": "knowledge-classification",
+      "preferred": "knowledge classification",
+      "aliases": [
+        "knowledge classification"
+      ],
+      "count": 1
+    },
+    "rishi-tradition": {
+      "id": "rishi-tradition",
+      "preferred": "Rishi tradition",
+      "aliases": [
+        "Rishi tradition"
+      ],
+      "count": 1
+    },
+    "parampara": {
+      "id": "parampara",
+      "preferred": "parampara",
+      "aliases": [
+        "parampara"
+      ],
+      "count": 1
+    },
+    "prameya-shastra": {
+      "id": "prameya-shastra",
+      "preferred": "Prameya Shastra",
+      "aliases": [
+        "Prameya Shastra"
+      ],
+      "count": 1
+    },
+    "inference": {
+      "id": "inference",
+      "preferred": "inference",
+      "aliases": [
+        "inference"
+      ],
+      "count": 1
+    },
+    "shabda-pramana": {
+      "id": "shabda-pramana",
+      "preferred": "Shabda Pramana",
+      "aliases": [
+        "Shabda Pramana"
+      ],
+      "count": 1
+    },
+    "received-knowledge": {
+      "id": "received-knowledge",
+      "preferred": "received knowledge",
+      "aliases": [
+        "received knowledge"
+      ],
+      "count": 1
+    },
+    "epistemic-validation": {
+      "id": "epistemic-validation",
+      "preferred": "epistemic validation",
+      "aliases": [
+        "epistemic validation"
+      ],
+      "count": 1
+    },
+    "evidence": {
+      "id": "evidence",
+      "preferred": "evidence",
+      "aliases": [
+        "evidence"
+      ],
+      "count": 1
+    },
+    "mathematical-proof": {
+      "id": "mathematical-proof",
+      "preferred": "mathematical proof",
+      "aliases": [
+        "mathematical proof"
+      ],
+      "count": 1
+    },
+    "epistemic-tools": {
+      "id": "epistemic-tools",
+      "preferred": "epistemic tools",
+      "aliases": [
+        "epistemic tools"
+      ],
+      "count": 1
+    },
+    "epistemology-and-ontology": {
+      "id": "epistemology-and-ontology",
+      "preferred": "epistemology and ontology",
+      "aliases": [
+        "epistemology and ontology"
+      ],
+      "count": 1
+    },
+    "calculus-of-newton": {
+      "id": "calculus-of-newton",
+      "preferred": "calculus of Newton",
+      "aliases": [
+        "calculus of Newton"
+      ],
+      "count": 1
+    },
+    "atma": {
+      "id": "atma",
+      "preferred": "Atma",
+      "aliases": [
+        "Atma"
+      ],
+      "count": 1
+    },
+    "padartha": {
+      "id": "padartha",
+      "preferred": "Padartha",
+      "aliases": [
+        "Padartha"
+      ],
+      "count": 1
+    },
+    "gravitation": {
+      "id": "gravitation",
+      "preferred": "gravitation",
+      "aliases": [
+        "gravitation"
+      ],
+      "count": 1
+    },
+    "calculus-epistemology": {
+      "id": "calculus-epistemology",
+      "preferred": "calculus epistemology",
+      "aliases": [
+        "calculus epistemology"
+      ],
+      "count": 1
+    },
+    "technology-in-shastra": {
+      "id": "technology-in-shastra",
+      "preferred": "technology in Shastra",
+      "aliases": [
+        "technology in Shastra"
+      ],
+      "count": 1
+    },
+    "moksha-as-application": {
+      "id": "moksha-as-application",
+      "preferred": "Moksha as application",
+      "aliases": [
+        "Moksha as application"
+      ],
+      "count": 1
+    },
+    "vaidika-darshanas": {
+      "id": "vaidika-darshanas",
+      "preferred": "Vaidika Darshanas",
+      "aliases": [
+        "Vaidika Darshanas"
+      ],
+      "count": 1
+    },
+    "avaidika-darshanas": {
+      "id": "avaidika-darshanas",
+      "preferred": "Avaidika Darshanas",
+      "aliases": [
+        "Avaidika Darshanas"
+      ],
+      "count": 1
+    },
+    "shad-darshanas": {
+      "id": "shad-darshanas",
+      "preferred": "Shad Darshanas",
+      "aliases": [
+        "Shad Darshanas"
+      ],
+      "count": 1
+    },
+    "charvaka-and-bauddha": {
+      "id": "charvaka-and-bauddha",
+      "preferred": "Charvaka and Bauddha",
+      "aliases": [
+        "Charvaka and Bauddha"
+      ],
+      "count": 1
+    },
+    "pratyaksha": {
+      "id": "pratyaksha",
+      "preferred": "Pratyaksha",
+      "aliases": [
+        "Pratyaksha"
+      ],
+      "count": 1
+    },
+    "anumana": {
+      "id": "anumana",
+      "preferred": "Anumana",
+      "aliases": [
+        "Anumana"
+      ],
+      "count": 1
+    },
+    "sutras": {
+      "id": "sutras",
+      "preferred": "Sutras",
+      "aliases": [
+        "Sutras"
+      ],
+      "count": 1
+    },
+    "jaiminiya-sutras": {
+      "id": "jaiminiya-sutras",
+      "preferred": "Jaiminiya Sutras",
+      "aliases": [
+        "Jaiminiya Sutras"
+      ],
+      "count": 1
+    },
+    "purva-mimamsa": {
+      "id": "purva-mimamsa",
+      "preferred": "Purva Mimamsa",
+      "aliases": [
+        "Purva Mimamsa"
+      ],
+      "count": 1
+    },
+    "yagna-technology": {
+      "id": "yagna-technology",
+      "preferred": "Yagna technology",
+      "aliases": [
+        "Yagna technology"
+      ],
+      "count": 1
+    },
+    "nyaya-vaisheshika": {
+      "id": "nyaya-vaisheshika",
+      "preferred": "Nyaya Vaisheshika",
+      "aliases": [
+        "Nyaya Vaisheshika"
+      ],
+      "count": 1
+    },
+    "padartha-tattvajnana": {
+      "id": "padartha-tattvajnana",
+      "preferred": "Padartha Tattvajnana",
+      "aliases": [
+        "Padartha Tattvajnana"
+      ],
+      "count": 1
+    },
+    "vaisheshika-physics": {
+      "id": "vaisheshika-physics",
+      "preferred": "Vaisheshika physics",
+      "aliases": [
+        "Vaisheshika physics"
+      ],
+      "count": 1
+    },
+    "ishvara-in-nyaya": {
+      "id": "ishvara-in-nyaya",
+      "preferred": "Ishvara in Nyaya",
+      "aliases": [
+        "Ishvara in Nyaya"
+      ],
+      "count": 1
+    },
+    "sankhya": {
+      "id": "sankhya",
+      "preferred": "Sankhya",
+      "aliases": [
+        "Sankhya"
+      ],
+      "count": 1
+    },
+    "yoga-sutras": {
+      "id": "yoga-sutras",
+      "preferred": "Yoga Sutras",
+      "aliases": [
+        "Yoga Sutras"
+      ],
+      "count": 1
+    },
+    "uttara-mimamsa": {
+      "id": "uttara-mimamsa",
+      "preferred": "Uttara Mimamsa",
+      "aliases": [
+        "Uttara Mimamsa"
+      ],
+      "count": 1
+    },
+    "pramana-validity": {
+      "id": "pramana-validity",
+      "preferred": "Pramana validity",
+      "aliases": [
+        "Pramana validity"
+      ],
+      "count": 1
+    },
+    "sentence-validity": {
+      "id": "sentence-validity",
+      "preferred": "sentence validity",
+      "aliases": [
+        "sentence validity"
+      ],
+      "count": 1
+    },
+    "statement-credibility": {
+      "id": "statement-credibility",
+      "preferred": "statement credibility",
+      "aliases": [
+        "statement credibility"
+      ],
+      "count": 1
+    },
+    "deception-in-testimony": {
+      "id": "deception-in-testimony",
+      "preferred": "deception in testimony",
+      "aliases": [
+        "deception in testimony"
+      ],
+      "count": 1
+    },
+    "circular-reasoning": {
+      "id": "circular-reasoning",
+      "preferred": "circular reasoning",
+      "aliases": [
+        "circular reasoning"
+      ],
+      "count": 1
+    },
+    "scriptural-justification": {
+      "id": "scriptural-justification",
+      "preferred": "scriptural justification",
+      "aliases": [
+        "scriptural justification"
+      ],
+      "count": 1
+    },
+    "veda-pramana": {
+      "id": "veda-pramana",
+      "preferred": "Veda Pramana",
+      "aliases": [
+        "Veda Pramana"
+      ],
+      "count": 1
+    },
+    "perception-validity": {
+      "id": "perception-validity",
+      "preferred": "perception validity",
+      "aliases": [
+        "perception validity"
+      ],
+      "count": 1
+    },
+    "non-invalidation": {
+      "id": "non-invalidation",
+      "preferred": "non-invalidation",
+      "aliases": [
+        "non-invalidation"
+      ],
+      "count": 1
+    },
+    "parama-pramana": {
+      "id": "parama-pramana",
+      "preferred": "Parama Pramana",
+      "aliases": [
+        "Parama Pramana"
+      ],
+      "count": 1
+    },
+    "puranas": {
+      "id": "puranas",
+      "preferred": "Puranas",
+      "aliases": [
+        "Puranas"
+      ],
+      "count": 1
+    },
+    "itihasas": {
+      "id": "itihasas",
+      "preferred": "Itihasas",
+      "aliases": [
+        "Itihasas"
+      ],
+      "count": 1
+    },
+    "aptatva": {
+      "id": "aptatva",
+      "preferred": "Aptatva",
+      "aliases": [
+        "Aptatva"
+      ],
+      "count": 1
+    },
+    "vedic-corroboration": {
+      "id": "vedic-corroboration",
+      "preferred": "Vedic corroboration",
+      "aliases": [
+        "Vedic corroboration"
+      ],
+      "count": 1
+    },
+    "vedavyasa": {
+      "id": "vedavyasa",
+      "preferred": "Vedavyasa",
+      "aliases": [
+        "Vedavyasa"
+      ],
+      "count": 1
+    },
+    "epistemic-consistency": {
+      "id": "epistemic-consistency",
+      "preferred": "epistemic consistency",
+      "aliases": [
+        "epistemic consistency"
+      ],
+      "count": 1
+    },
+    "advaita-vedanta": {
+      "id": "advaita-vedanta",
+      "preferred": "Advaita Vedanta",
+      "aliases": [
+        "Advaita Vedanta"
+      ],
+      "count": 1
+    },
+    "brahma-satyam": {
+      "id": "brahma-satyam",
+      "preferred": "Brahma Satyam",
+      "aliases": [
+        "Brahma Satyam"
+      ],
+      "count": 1
+    },
+    "mithyatva": {
+      "id": "mithyatva",
+      "preferred": "Mithyatva",
+      "aliases": [
+        "Mithyatva"
+      ],
+      "count": 1
+    },
+    "sanskrit-technical-terms": {
+      "id": "sanskrit-technical-terms",
+      "preferred": "Sanskrit technical terms",
+      "aliases": [
+        "Sanskrit technical terms"
+      ],
+      "count": 1
+    },
+    "superimposition": {
+      "id": "superimposition",
+      "preferred": "superimposition",
+      "aliases": [
+        "superimposition"
+      ],
+      "count": 1
+    },
+    "brahman-realization": {
+      "id": "brahman-realization",
+      "preferred": "Brahman realization",
+      "aliases": [
+        "Brahman realization"
+      ],
+      "count": 1
+    },
+    "maya": {
+      "id": "maya",
+      "preferred": "Maya",
+      "aliases": [
+        "Maya"
+      ],
+      "count": 1
+    },
+    "dream-analogy": {
+      "id": "dream-analogy",
+      "preferred": "dream analogy",
+      "aliases": [
+        "dream analogy"
+      ],
+      "count": 1
+    },
+    "illusion-dissolution": {
+      "id": "illusion-dissolution",
+      "preferred": "illusion dissolution",
+      "aliases": [
+        "illusion dissolution"
+      ],
+      "count": 1
+    },
+    "vyavaharika-satya": {
+      "id": "vyavaharika-satya",
+      "preferred": "Vyavaharika Satya",
+      "aliases": [
+        "Vyavaharika Satya"
+      ],
+      "count": 1
+    },
+    "sublation": {
+      "id": "sublation",
+      "preferred": "sublation",
+      "aliases": [
+        "sublation"
+      ],
+      "count": 1
+    },
+    "non-dual-reality": {
+      "id": "non-dual-reality",
+      "preferred": "non-dual reality",
+      "aliases": [
+        "non-dual reality"
+      ],
+      "count": 1
+    },
+    "advaita-ontology": {
+      "id": "advaita-ontology",
+      "preferred": "Advaita ontology",
+      "aliases": [
+        "Advaita ontology"
+      ],
+      "count": 1
+    },
+    "substratum": {
+      "id": "substratum",
+      "preferred": "substratum",
+      "aliases": [
+        "substratum"
+      ],
+      "count": 1
+    },
+    "mahavakyas": {
+      "id": "mahavakyas",
+      "preferred": "Mahavakyas",
+      "aliases": [
+        "Mahavakyas"
+      ],
+      "count": 1
+    },
+    "upanishadic-interpretation": {
+      "id": "upanishadic-interpretation",
+      "preferred": "Upanishadic interpretation",
+      "aliases": [
+        "Upanishadic interpretation"
+      ],
+      "count": 1
+    },
+    "advaitic-hermeneutics": {
+      "id": "advaitic-hermeneutics",
+      "preferred": "Advaitic hermeneutics",
+      "aliases": [
+        "Advaitic hermeneutics"
+      ],
+      "count": 1
+    },
+    "vedic-reinterpretation": {
+      "id": "vedic-reinterpretation",
+      "preferred": "Vedic reinterpretation",
+      "aliases": [
+        "Vedic reinterpretation"
+      ],
+      "count": 1
+    },
+    "brahma-bhava-patti": {
+      "id": "brahma-bhava-patti",
+      "preferred": "Brahma Bhava Patti",
+      "aliases": [
+        "Brahma Bhava Patti"
+      ],
+      "count": 1
+    },
+    "moksha-in-advaita": {
+      "id": "moksha-in-advaita",
+      "preferred": "Moksha in Advaita",
+      "aliases": [
+        "Moksha in Advaita"
+      ],
+      "count": 1
+    },
+    "vishishtadvaita": {
+      "id": "vishishtadvaita",
+      "preferred": "Vishishtadvaita",
+      "aliases": [
+        "Vishishtadvaita"
+      ],
+      "count": 1
+    },
+    "sharira-shariri-bhava": {
+      "id": "sharira-shariri-bhava",
+      "preferred": "Sharira-Shariri Bhava",
+      "aliases": [
+        "Sharira-Shariri Bhava"
+      ],
+      "count": 1
+    },
+    "jivatma-plurality": {
+      "id": "jivatma-plurality",
+      "preferred": "Jivatma plurality",
+      "aliases": [
+        "Jivatma plurality"
+      ],
+      "count": 1
+    },
+    "liberation-bliss": {
+      "id": "liberation-bliss",
+      "preferred": "liberation bliss",
+      "aliases": [
+        "liberation bliss"
+      ],
+      "count": 1
+    },
+    "philosophical-completeness": {
+      "id": "philosophical-completeness",
+      "preferred": "philosophical completeness",
+      "aliases": [
+        "philosophical completeness"
+      ],
+      "count": 1
+    },
+    "problem-of-evil": {
+      "id": "problem-of-evil",
+      "preferred": "problem of evil",
+      "aliases": [
+        "problem of evil"
+      ],
+      "count": 1
+    },
+    "theodicy": {
+      "id": "theodicy",
+      "preferred": "theodicy",
+      "aliases": [
+        "theodicy"
+      ],
+      "count": 1
+    },
+    "divine-compassion": {
+      "id": "divine-compassion",
+      "preferred": "divine compassion",
+      "aliases": [
+        "divine compassion"
+      ],
+      "count": 1
+    },
+    "cosmic-suffering": {
+      "id": "cosmic-suffering",
+      "preferred": "cosmic suffering",
+      "aliases": [
+        "cosmic suffering"
+      ],
+      "count": 1
+    },
+    "anaditva-of-jiva": {
+      "id": "anaditva-of-jiva",
+      "preferred": "anaditva of Jiva",
+      "aliases": [
+        "anaditva of Jiva"
+      ],
+      "count": 1
+    },
+    "uncreated-souls": {
+      "id": "uncreated-souls",
+      "preferred": "uncreated souls",
+      "aliases": [
+        "uncreated souls"
+      ],
+      "count": 1
+    },
+    "embodiment": {
+      "id": "embodiment",
+      "preferred": "embodiment",
+      "aliases": [
+        "embodiment"
+      ],
+      "count": 1
+    },
+    "ishvara-s-role": {
+      "id": "ishvara-s-role",
+      "preferred": "Ishvara's role",
+      "aliases": [
+        "Ishvara's role"
+      ],
+      "count": 1
+    },
+    "madhva-bhashya": {
+      "id": "madhva-bhashya",
+      "preferred": "Madhva Bhashya",
+      "aliases": [
+        "Madhva Bhashya"
+      ],
+      "count": 1
+    },
+    "vishayavakya": {
+      "id": "vishayavakya",
+      "preferred": "Vishayavakya",
+      "aliases": [
+        "Vishayavakya"
+      ],
+      "count": 1
+    },
+    "sutra-hermeneutics": {
+      "id": "sutra-hermeneutics",
+      "preferred": "Sutra hermeneutics",
+      "aliases": [
+        "Sutra hermeneutics"
+      ],
+      "count": 1
+    },
+    "satyatva": {
+      "id": "satyatva",
+      "preferred": "Satyatva",
+      "aliases": [
+        "Satyatva"
+      ],
+      "count": 1
+    },
+    "ontological-realism": {
+      "id": "ontological-realism",
+      "preferred": "ontological realism",
+      "aliases": [
+        "ontological realism"
+      ],
+      "count": 1
+    },
+    "causality": {
+      "id": "causality",
+      "preferred": "causality",
+      "aliases": [
+        "causality"
+      ],
+      "count": 1
+    },
+    "divine-agency": {
+      "id": "divine-agency",
+      "preferred": "divine agency",
+      "aliases": [
+        "divine agency"
+      ],
+      "count": 1
+    },
+    "embodiment-purpose": {
+      "id": "embodiment-purpose",
+      "preferred": "embodiment purpose",
+      "aliases": [
+        "embodiment purpose"
+      ],
+      "count": 1
+    },
+    "innate-nature": {
+      "id": "innate-nature",
+      "preferred": "innate nature",
+      "aliases": [
+        "innate nature"
+      ],
+      "count": 1
+    },
+    "swabhava": {
+      "id": "swabhava",
+      "preferred": "Swabhava",
+      "aliases": [
+        "Swabhava"
+      ],
+      "count": 1
+    },
+    "divine-impartiality": {
+      "id": "divine-impartiality",
+      "preferred": "divine impartiality",
+      "aliases": [
+        "divine impartiality"
+      ],
+      "count": 1
+    },
+    "svarupena-vyavasthiti": {
+      "id": "svarupena-vyavasthiti",
+      "preferred": "Svarupena Vyavasthiti",
+      "aliases": [
+        "Svarupena Vyavasthiti"
+      ],
+      "count": 1
+    },
+    "moksha-in-dvaita": {
+      "id": "moksha-in-dvaita",
+      "preferred": "Moksha in Dvaita",
+      "aliases": [
+        "Moksha in Dvaita"
+      ],
+      "count": 1
+    },
+    "vaikuntha": {
+      "id": "vaikuntha",
+      "preferred": "Vaikuntha",
+      "aliases": [
+        "Vaikuntha"
+      ],
+      "count": 1
+    },
+    "mukta-jivas": {
+      "id": "mukta-jivas",
+      "preferred": "Mukta Jivas",
+      "aliases": [
+        "Mukta Jivas"
+      ],
+      "count": 1
+    },
+    "prakriti-sambandha": {
+      "id": "prakriti-sambandha",
+      "preferred": "Prakriti sambandha",
+      "aliases": [
+        "Prakriti sambandha"
+      ],
+      "count": 1
+    },
+    "innate-bliss": {
+      "id": "innate-bliss",
+      "preferred": "innate bliss",
+      "aliases": [
+        "innate bliss"
+      ],
+      "count": 1
+    },
+    "karunya": {
+      "id": "karunya",
+      "preferred": "Karunya",
+      "aliases": [
+        "Karunya"
+      ],
+      "count": 1
+    },
+    "svarupa-realization": {
+      "id": "svarupa-realization",
+      "preferred": "Svarupa realization",
+      "aliases": [
+        "Svarupa realization"
+      ],
+      "count": 1
+    },
+    "immutable-individuality": {
+      "id": "immutable-individuality",
+      "preferred": "immutable individuality",
+      "aliases": [
+        "immutable individuality"
+      ],
+      "count": 1
+    },
+    "theological-justice": {
+      "id": "theological-justice",
+      "preferred": "theological justice",
+      "aliases": [
+        "theological justice"
+      ],
+      "count": 1
+    },
+    "distribution-of-bliss": {
+      "id": "distribution-of-bliss",
+      "preferred": "distribution of bliss",
+      "aliases": [
+        "distribution of bliss"
+      ],
+      "count": 1
+    },
+    "equity-vs-equality": {
+      "id": "equity-vs-equality",
+      "preferred": "equity vs equality",
+      "aliases": [
+        "equity vs equality"
+      ],
+      "count": 1
+    },
+    "swatantrya": {
+      "id": "swatantrya",
+      "preferred": "Swatantrya",
+      "aliases": [
+        "Swatantrya"
+      ],
+      "count": 1
+    },
+    "divine-supremacy": {
+      "id": "divine-supremacy",
+      "preferred": "divine supremacy",
+      "aliases": [
+        "divine supremacy"
+      ],
+      "count": 1
+    },
+    "individuality": {
+      "id": "individuality",
+      "preferred": "individuality",
+      "aliases": [
+        "individuality"
+      ],
+      "count": 1
+    },
+    "cosmic-justice": {
+      "id": "cosmic-justice",
+      "preferred": "cosmic justice",
+      "aliases": [
+        "cosmic justice"
+      ],
+      "count": 1
+    },
+    "equal-opportunity": {
+      "id": "equal-opportunity",
+      "preferred": "equal opportunity",
+      "aliases": [
+        "equal opportunity"
+      ],
+      "count": 1
+    },
+    "divine-governance": {
+      "id": "divine-governance",
+      "preferred": "divine governance",
+      "aliases": [
+        "divine governance"
+      ],
+      "count": 1
+    },
+    "taratamya": {
+      "id": "taratamya",
+      "preferred": "Taratamya",
+      "aliases": [
+        "Taratamya"
+      ],
+      "count": 1
+    },
+    "gradation-of-souls": {
+      "id": "gradation-of-souls",
+      "preferred": "gradation of souls",
+      "aliases": [
+        "gradation of souls"
+      ],
+      "count": 1
+    },
+    "rank-ordering": {
+      "id": "rank-ordering",
+      "preferred": "rank ordering",
+      "aliases": [
+        "rank ordering"
+      ],
+      "count": 1
+    },
+    "number-line-analogy": {
+      "id": "number-line-analogy",
+      "preferred": "number line analogy",
+      "aliases": [
+        "number line analogy"
+      ],
+      "count": 1
+    },
+    "empirical-inequality": {
+      "id": "empirical-inequality",
+      "preferred": "empirical inequality",
+      "aliases": [
+        "empirical inequality"
+      ],
+      "count": 1
+    },
+    "individual-differences": {
+      "id": "individual-differences",
+      "preferred": "individual differences",
+      "aliases": [
+        "individual differences"
+      ],
+      "count": 1
+    },
+    "innate-vs-acquired-traits": {
+      "id": "innate-vs-acquired-traits",
+      "preferred": "innate vs acquired traits",
+      "aliases": [
+        "innate vs acquired traits"
+      ],
+      "count": 1
+    },
+    "svarupa-qualities": {
+      "id": "svarupa-qualities",
+      "preferred": "Svarupa qualities",
+      "aliases": [
+        "Svarupa qualities"
+      ],
+      "count": 1
+    },
+    "swabhava-immutability": {
+      "id": "swabhava-immutability",
+      "preferred": "Swabhava immutability",
+      "aliases": [
+        "Swabhava immutability"
+      ],
+      "count": 1
+    },
+    "absence-of-discrimination": {
+      "id": "absence-of-discrimination",
+      "preferred": "absence of discrimination",
+      "aliases": [
+        "absence of discrimination"
+      ],
+      "count": 1
+    },
+    "sadhana": {
+      "id": "sadhana",
+      "preferred": "Sadhana",
+      "aliases": [
+        "Sadhana"
+      ],
+      "count": 1
+    },
+    "manifestation-of-nature": {
+      "id": "manifestation-of-nature",
+      "preferred": "manifestation of nature",
+      "aliases": [
+        "manifestation of nature"
+      ],
+      "count": 1
+    },
+    "mathematical-mapping-of-jivas": {
+      "id": "mathematical-mapping-of-jivas",
+      "preferred": "mathematical mapping of Jivas",
+      "aliases": [
+        "mathematical mapping of Jivas"
+      ],
+      "count": 1
+    },
+    "traditional-schools": {
+      "id": "traditional-schools",
+      "preferred": "traditional schools",
+      "aliases": [
+        "traditional schools"
+      ],
+      "count": 1
+    },
+    "bhashyas-and-tikas": {
+      "id": "bhashyas-and-tikas",
+      "preferred": "Bhashyas and Tikas",
+      "aliases": [
+        "Bhashyas and Tikas"
+      ],
+      "count": 1
+    },
+    "academic-rigor-in-vedanta": {
+      "id": "academic-rigor-in-vedanta",
+      "preferred": "academic rigor in Vedanta",
+      "aliases": [
+        "academic rigor in Vedanta"
+      ],
+      "count": 1
+    },
+    "nyaya-sudha": {
+      "id": "nyaya-sudha",
+      "preferred": "Nyaya Sudha",
+      "aliases": [
+        "Nyaya Sudha"
+      ],
+      "count": 1
+    },
+    "akhyativada": {
+      "id": "akhyativada",
+      "preferred": "Akhyativada",
+      "aliases": [
+        "Akhyativada"
+      ],
+      "count": 1
+    },
+    "anyathakhyativada": {
+      "id": "anyathakhyativada",
+      "preferred": "Anyathakhyativada",
+      "aliases": [
+        "Anyathakhyativada"
+      ],
+      "count": 1
+    },
+    "sanskrit-exegesis": {
+      "id": "sanskrit-exegesis",
+      "preferred": "Sanskrit exegesis",
+      "aliases": [
+        "Sanskrit exegesis"
+      ],
+      "count": 1
+    },
+    "hermeneutic-depth": {
+      "id": "hermeneutic-depth",
+      "preferred": "hermeneutic depth",
+      "aliases": [
+        "hermeneutic depth"
+      ],
+      "count": 1
+    },
+    "jayatirtha": {
+      "id": "jayatirtha",
+      "preferred": "Jayatirtha",
+      "aliases": [
+        "Jayatirtha"
+      ],
+      "count": 1
+    },
+    "vyasatirtha": {
+      "id": "vyasatirtha",
+      "preferred": "Vyasatirtha",
+      "aliases": [
+        "Vyasatirtha"
+      ],
+      "count": 1
+    },
+    "study-of-shastras": {
+      "id": "study-of-shastras",
+      "preferred": "study of Shastras",
+      "aliases": [
+        "study of Shastras"
       ],
       "count": 1
     }
