@@ -1,0 +1,16 @@
+---
+id: '7459851696282959873'
+date: '2026-05-12T06:27:21.736Z'
+url: https://www.linkedin.com/posts/seanweafer_leadership-management-styles-activity-7459851696282959873-eaCP
+likes: 5
+comments: 2
+article:
+  title: Leadership & Management Styles
+  subtitle: vimeo.com
+  link: https://vimeo.com/1140135554/9663ce74c5?share=copy&fl=sv&fe=ci
+---
+
+Leadership and Management Styles: Understand the difference between traditional 'Command and Control' leadership and 'Service-Based Leadership' (or coaching style) and when they are best deployed when managing teams.
+#leadership #management  #coaching
+
+https://lnkd.in/eVgAtFMy
