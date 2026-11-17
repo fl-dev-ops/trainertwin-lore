@@ -1,0 +1,2469 @@
+{
+  "sources": {
+    "youtube-video-2026-10-22-accelerate-learning-first-find-what-you-need-to-learn-update-44d541a003": {
+      "path": "youtube/video/2026-10-22-accelerate-learning-first-find-what-you-need-to-learn-update-F4CE8GqJujw.md",
+      "sha256": "03381d9447c69b53c22fd350d378993907d2d28b9699606bfed3274d765b18f4",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-22-accelerate-learning-define-competence-update-b3ziftk5yso-md-1f253293d3": {
+      "path": "youtube/video/2026-10-22-accelerate-learning-define-competence-update-b3ZIFTK5Yso.md",
+      "sha256": "554748d39eb938c5970fe2c513c56d16d49e2e4ee25ffda6cc98fd416029271c",
+      "basis": "whole"
+    },
+    "youtube-video-2023-07-28-belinda-bleakley-sliptest-co-founder-sharing-her-perspective-55cb1bdecf": {
+      "path": "youtube/video/2023-07-28-belinda-bleakley-sliptest-co-founder-sharing-her-perspective-g7Df7-jUWVM.md",
+      "sha256": "d1111231b6f9cc239c9bcd5ebbf5d01973c7ef60d8b5f8ef36f5409b6a2e1182",
+      "basis": "whole"
+    },
+    "youtube-video-2023-07-28-harry-beacall-of-sliptest-on-salessense-training-and-coachin-fbc4640ed1": {
+      "path": "youtube/video/2023-07-28-harry-beacall-of-sliptest-on-salessense-training-and-coachin-XM-_4h3MsSc.md",
+      "sha256": "b1e744b2cc20b4cb407a3c34bcb1da237e39aa58780010e5186c7a7815d2f399",
+      "basis": "whole"
+    },
+    "youtube-video-2026-10-22-accelerate-learning-motivate-behaviour-change-update-npfo9fo-73761017e8": {
+      "path": "youtube/video/2026-10-22-accelerate-learning-motivate-behaviour-change-update-npFO9FOMQqc.md",
+      "sha256": "b171083c4604104927e84c0aa79ee8be9ed5bbcc95f11310fcc1e83215df6be0",
+      "basis": "whole"
+    },
+    "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1": {
+      "path": "youtube/video/2021-09-29-top-salespeople-interviewed-lee-edge-5FQcZ9PtOfo.md",
+      "sha256": "63f8803c5394e8e3fd521998b9f2b5c75abf15a9affbceeaa29cc1f6e48e400e",
+      "basis": "sections"
+    },
+    "youtube-video-2026-10-22-sales-success-formula-digue0nzyaw-md-ed095597c8": {
+      "path": "youtube/video/2026-10-22-sales-success-formula-DIGuE0nzyAw.md",
+      "sha256": "16957be85da614ad29e848fb0780a566620552fe5c9dab528fca246e8bc85c89",
+      "basis": "whole"
+    },
+    "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a": {
+      "path": "youtube/video/2021-08-19-top-salespeople-interviewed-john-bycroft-8mSBnmBVqoU.md",
+      "sha256": "53ccd83cadaea73485f75c73cfd094ea6b2cbc2b40cf30d1311e91137c773336",
+      "basis": "sections"
+    },
+    "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f": {
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "sha256": "9adeef1b154d90f4c0544d8412b330f13582183facd07e1bd33f2f90c5fd688d",
+      "basis": "sections"
+    },
+    "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1": {
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "sha256": "14bb39cb76bd4f3d87369e9975cc4f29dc5c4aadde9f529dc59c538be2fb40a6",
+      "basis": "sections"
+    },
+    "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3": {
+      "path": "youtube-guests/video/2022-06-07-selling-before-the-internet-what-can-we-learn-clive-miller-HYyBPQZIk-4.md",
+      "sha256": "1c3f469e8e20e31221f33be4f03c4d186ee224d34406248bd39ee10f2d765ebe",
+      "basis": "sections"
+    },
+    "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8": {
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "sha256": "f058a0e59ecb29ec057c0cd8770d573ed719e492fc8021d674d79273cb389eda",
+      "basis": "sections"
+    },
+    "linkedin-posts-2025-01-22-ways-to-increase-sales-through-md-cbe39ce7d4": {
+      "path": "linkedin/posts/2025-01-22-ways-to-increase-sales-through.md",
+      "sha256": "1f394ea009133e2538a1e449c8afb88febd2186a434416bb3fd72c575e7b7063",
+      "basis": "whole"
+    },
+    "linkedin-posts-2025-01-21-ways-to-increase-sales-through-md-908c61ea48": {
+      "path": "linkedin/posts/2025-01-21-ways-to-increase-sales-through.md",
+      "sha256": "998a135e64022c14eae95a969c19e3d79c89d0bf7e22374581eb9ad6ac551d15",
+      "basis": "whole"
+    },
+    "linkedin-posts-2025-01-17-sales-management-practices-for-increasin-md-ec8da05bec": {
+      "path": "linkedin/posts/2025-01-17-sales-management-practices-for-increasin.md",
+      "sha256": "2bcab8f4601d740b70ef6ca0910a2c52a5e20a0e736231a4787875ac1997a5e2",
+      "basis": "whole"
+    },
+    "linkedin-posts-2025-01-30-ways-to-increase-sales-through-md-78783f8e0d": {
+      "path": "linkedin/posts/2025-01-30-ways-to-increase-sales-through.md",
+      "sha256": "c49918eac23c299c70eaaab6a35bde70b1aa01233aaace6723439a452e7d8cbc",
+      "basis": "whole"
+    },
+    "linkedin-posts-2025-05-06-appealing-to-business-experts-my-md-a65eba47f9": {
+      "path": "linkedin/posts/2025-05-06-appealing-to-business-experts-my.md",
+      "sha256": "e3f47e128f018fba94f9389589ce3c638985f2f85c6ca26b1aafcc191ad17a8b",
+      "basis": "whole"
+    },
+    "linkedin-posts-2025-01-17-how-would-you-fix-a-md-3d0d41bb84": {
+      "path": "linkedin/posts/2025-01-17-how-would-you-fix-a.md",
+      "sha256": "e2381da3b469ec119deabf52002595a90969cd942223188839f8a175d2a9b550",
+      "basis": "whole"
+    },
+    "linkedin-posts-2025-05-28-how-many-small-b2b-businesses-md-9aec097694": {
+      "path": "linkedin/posts/2025-05-28-how-many-small-b2b-businesses.md",
+      "sha256": "f663e9ec8d15ffda29f851ee65ab6ada278db8047bd4f71554b19c13d3f276df",
+      "basis": "whole"
+    },
+    "linkedin-posts-2025-05-20-wild-numbers-how-many-small-md-1bd6326dcd": {
+      "path": "linkedin/posts/2025-05-20-wild-numbers-how-many-small.md",
+      "sha256": "4c6e158cf0909c1be5bc687996369a35709c1c5a7ded66c7d59179f8fd5ca0cb",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-02-16-could-an-ai-sales-agent-md-d05d7ba316": {
+      "path": "linkedin/posts/2026-02-16-could-an-ai-sales-agent.md",
+      "sha256": "f8f64ccb46b94a3f925828a61a0732baf32707cd2568f93deb2399cd52981b29",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-02-05-remember-the-water-shortage-horror-md-525d0bc9ff": {
+      "path": "linkedin/posts/2026-02-05-remember-the-water-shortage-horror.md",
+      "sha256": "c0f2a7b6d196a8b147f45e2f8686e03872c1e1ca9a090bbcc2f5c049e8d53dcf",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-01-29-the-noise-about-ai-is-md-8e2aabeffa": {
+      "path": "linkedin/posts/2026-01-29-the-noise-about-ai-is.md",
+      "sha256": "05bd31204621e13857d0822360fe9deff073d175057ee48f3373484b1d7b090f",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-02-09-is-being-willing-to-compromise-md-5e985f7bad": {
+      "path": "linkedin/posts/2026-02-09-is-being-willing-to-compromise.md",
+      "sha256": "ef2935b96a8c2a6b541d382db29e7d6e39e64656eb23e7feda607553824cc382",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-04-17-sales-salestraining-salestrainingneedsan-md-94181ae824": {
+      "path": "linkedin/posts/2026-04-17-sales-salestraining-salestrainingneedsan.md",
+      "sha256": "44df5cf69c23c30c09418628f8d088f58a2d61f8eccba77b8b1c41184e7f34f6",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-06-16-a-couple-of-new-things-md-61b07f3e00": {
+      "path": "linkedin/posts/2026-06-16-a-couple-of-new-things.md",
+      "sha256": "fea86f7ed8eb81c381986d3a97f5a11e17278509f2f8df2f217044170d153bd3",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-06-29-if-you-are-not-selling-md-e19d9b9cbc": {
+      "path": "linkedin/posts/2026-06-29-if-you-are-not-selling.md",
+      "sha256": "c92c88a844a4042dabe27bac87b2394abbb9cd80ce176172959eab309111da9f",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-03-01-ive-just-finished-an-article-md-ffeb45964f": {
+      "path": "linkedin/posts/2026-03-01-ive-just-finished-an-article.md",
+      "sha256": "2b187d4dbbc31c79a057b128f2d0be61e1b157cf5c89bcde59263177ae60454e",
+      "basis": "whole"
+    },
+    "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1": {
+      "path": "linkedin/posts/2026-11-06-had-a-great-time-on.md",
+      "sha256": "9e8f823156ad18d590a316929431e10c672c5ff566e92f7eb2f3d6e04a723282",
+      "basis": "list"
+    },
+    "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0": {
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "sha256": "6d22cce5727808e5fb2168991a7f545771f00f752386289fde63c583f2ffe9f9",
+      "basis": "list"
+    },
+    "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f": {
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "sha256": "73bd0fe6a88b1902a9785b90614c0f4ae596a7adbd5e172dd62ac5eabf9ef85f",
+      "basis": "list"
+    }
+  },
+  "items": [
+    {
+      "title": "Accelerate Learning - First Find What You Need to Learn",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "learning circle"
+        },
+        {
+          "facet": "topic",
+          "label": "competence model"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 20
+      },
+      "quote": "Hello my name is Clive Miller Thanks for your attention Ive made this short video to explain the best way to initiate and accelerate learning Do you remember when you first stepped into a car to learn how to drive What happened Did you stall the engine I did You see I thought I would be able to start the engine and just pull away But I didnt have the skills I was unconsciously incompetent I didnt know what I needed to learn I quickly realised that I didnt know how to balance the power of the eng",
+      "item_id": "youtube-video-2026-10-22-accelerate-learning-first-find-what-you-need-to-learn-update-44d541a003:0020-0020",
+      "source_id": "youtube-video-2026-10-22-accelerate-learning-first-find-what-you-need-to-learn-update-44d541a003",
+      "path": "youtube/video/2026-10-22-accelerate-learning-first-find-what-you-need-to-learn-update-F4CE8GqJujw.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Accelerate Learning Define Competence Update",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "defining competence"
+        },
+        {
+          "facet": "topic",
+          "label": "learning strategies"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 20
+      },
+      "quote": "Hello my name is Clive Miller Thanks for your attention I have made this short video to explain how to pin down learning objectives and adopt the right learning strategies Competence in anything is a combination of 3 things knowing what you should know being able to do what you should be able to do and habitually doing what you should do So when you know what you should know and you can do what you should be able to do and you habitually do the things that should be done you can be considered co",
+      "item_id": "youtube-video-2026-10-22-accelerate-learning-define-competence-update-b3ziftk5yso-md-1f253293d3:0020-0020",
+      "source_id": "youtube-video-2026-10-22-accelerate-learning-define-competence-update-b3ziftk5yso-md-1f253293d3",
+      "path": "youtube/video/2026-10-22-accelerate-learning-define-competence-update-b3ZIFTK5Yso.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Impact of SalesSense Sales Coaching and Management on Business Development",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales coaching"
+        },
+        {
+          "facet": "situation",
+          "label": "managing sales personnel post-furlough"
+        },
+        {
+          "facet": "activity",
+          "label": "sales management"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Im Belinda Im the co owner of SlipTest which is a small business which focuses on measuring the slip resistance of floor surfaces in various markets around the UK and Ireland We also provide a consultancy service and a training service to our customers to help them manage the way that they clean and maintain their floor surfaces to ensure that they perform at the optimum level so they can demonstrate their duty of care to the people walking on them During COVID we furloughed our business develop",
+      "item_id": "youtube-video-2023-07-28-belinda-bleakley-sliptest-co-founder-sharing-her-perspective-55cb1bdecf:0015-0015",
+      "source_id": "youtube-video-2023-07-28-belinda-bleakley-sliptest-co-founder-sharing-her-perspective-55cb1bdecf",
+      "path": "youtube/video/2023-07-28-belinda-bleakley-sliptest-co-founder-sharing-her-perspective-g7Df7-jUWVM.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Harry Beacall of SlipTest on SalesSense Training and Coaching",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "enterprise sales cycle"
+        },
+        {
+          "facet": "topic",
+          "label": "pipeline management"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        },
+        {
+          "facet": "situation",
+          "label": "transitioning from short to long sales cycles"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "My names Harry I have been at SlipTest now for coming up 7 years as their Business Development Manager SlipTest are the leading slip resistance testing company in the UK established now for 25 years working with customers to reduce the number of slips that occur in their premises and aid them with defending slip claims in court Started working with Clive after COVID really after having been furloughed for some considerable time and sort of gradually getting back into work and then becoming more ",
+      "item_id": "youtube-video-2023-07-28-harry-beacall-of-sliptest-on-salessense-training-and-coachin-fbc4640ed1:0015-0015",
+      "source_id": "youtube-video-2023-07-28-harry-beacall-of-sliptest-on-salessense-training-and-coachin-fbc4640ed1",
+      "path": "youtube/video/2023-07-28-harry-beacall-of-sliptest-on-salessense-training-and-coachin-XM-_4h3MsSc.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Accelerate Learning Motivate Behaviour Change Update",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "behaviour change"
+        },
+        {
+          "facet": "topic",
+          "label": "learning adoption"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 20
+      },
+      "quote": "Hello and thanks for your attention My name is Clive Miller and Ive made this short video to detail some options for driving learning adoption and motivating behavioural change Making use of learning depends on changing behaviour If we dont do something differently we cannot hope to benefit from the learning The following common causes of behaviour change reveal ways that learners can motivate themselves to take advantage of their learning and managers and learning professionals can leverage the",
+      "item_id": "youtube-video-2026-10-22-accelerate-learning-motivate-behaviour-change-update-npfo9fo-73761017e8:0020-0020",
+      "source_id": "youtube-video-2026-10-22-accelerate-learning-motivate-behaviour-change-update-npfo9fo-73761017e8",
+      "path": "youtube/video/2026-10-22-accelerate-learning-motivate-behaviour-change-update-npFO9FOMQqc.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Pipeline Management and Sales Qualification Frameworks",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "pipeline qualification"
+        },
+        {
+          "facet": "topic",
+          "label": "MEDDIC"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "Thanks for your attention My name is Clive Miller and this is our interview series for Top Sales Performance and today were interviewing Lee Edge Now Lees sales experience stems from initially 11 years at PWC and then a stint at KPMG Hes a specialist in GRC which is Governance Risk and Compliance and so I wont get into the details of what all thats about because this is about sales Then he spent maybe a decade or so as an independent consultant and that can be quite challenging selling yourself ",
+      "item_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0016-0027",
+      "source_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1",
+      "path": "youtube/video/2021-09-29-top-salespeople-interviewed-lee-edge-5FQcZ9PtOfo.md",
+      "prev": null,
+      "next": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0028-0039"
+    },
+    {
+      "title": "Daily Sales Routines and Visualizing Opportunity Data",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "mind mapping"
+        },
+        {
+          "facet": "activity",
+          "label": "opportunity management"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "I was going to ask a secondary question how did you learn to do these things It was primarily you know mentors really you know in the Big 4 I think theres a great Im surprised to use the word great theres a great development lifecycle there in terms of career path But theres a distinct lack in my experience of dedicated mentors You know if youre in certain areas you may find a few and youre quite lucky but others are really you know theyve got so much on their plate theyre really dedicating to t",
+      "item_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0028-0039",
+      "source_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1",
+      "path": "youtube/video/2021-09-29-top-salespeople-interviewed-lee-edge-5FQcZ9PtOfo.md",
+      "prev": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0016-0027",
+      "next": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0040-0051"
+    },
+    {
+      "title": "Focusing on Core Product Strengths over Broader Opportunities",
+      "tags": [
+        {
+          "facet": "situation",
+          "label": "chasing poorly aligned deals"
+        },
+        {
+          "facet": "topic",
+          "label": "deal qualification"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 51
+      },
+      "quote": "Yeah thats brilliant I mean a lot of people do buy into mind mapping and perhaps some viewers might say oh Id like to try that you know So thats why I wanted to draw it out So what mistakes have you learned to avoid in your sales career What have I learned to avoid I think when I first joined RSA Archer as a subject matter expert slash sales I was more of a go to for GRC as you mentioned before governance risk and compliance The sales team around me had about 5 or 6 products they were trying to ",
+      "item_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0040-0051",
+      "source_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1",
+      "path": "youtube/video/2021-09-29-top-salespeople-interviewed-lee-edge-5FQcZ9PtOfo.md",
+      "prev": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0028-0039",
+      "next": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0052-0063"
+    },
+    {
+      "title": "Adopting a Consultative Approach and Trusted Advisor Role",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "consultative selling"
+        },
+        {
+          "facet": "topic",
+          "label": "enterprise sales cycle"
+        }
+      ],
+      "span": {
+        "start_line": 52,
+        "end_line": 63
+      },
+      "quote": "Yeah Which is very much a trusted and a truly trusted advisor I coined the TTA I dont think that exists so Im going to copyright that But really Really being someone that is you know Im selling stuff that requires a lot of time with a client and to understand their problems and also proof of concept proof of value whatever whichever term you want to use or both So its more of a consultative approach to the selling side I know theres various styles of selling but I find within the GRC market and ",
+      "item_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0052-0063",
+      "source_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1",
+      "path": "youtube/video/2021-09-29-top-salespeople-interviewed-lee-edge-5FQcZ9PtOfo.md",
+      "prev": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0040-0051",
+      "next": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0064-0075"
+    },
+    {
+      "title": "Developing Presentation Skills and Applying Sales Methodologies",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "sales presentations"
+        },
+        {
+          "facet": "topic",
+          "label": "Challenger sales method"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 75
+      },
+      "quote": "Yes very much so I think it was Malcolm Gladwell who wrote about the 10000 hours to become an expert in anything Absolutely yeah and I think Beethoven had done that by the time he was 11 right So he quickly ticked off those hours But in terms of I think it was one of your earlier questions actually and I was trying to pull it up before the call but somebody put me on to Jeffrey Gitomers audiobooks as well The Little Red Book of Sales and I do remember reading those while I was theres a few of th",
+      "item_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0064-0075",
+      "source_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1",
+      "path": "youtube/video/2021-09-29-top-salespeople-interviewed-lee-edge-5FQcZ9PtOfo.md",
+      "prev": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0052-0063",
+      "next": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0076-0087"
+    },
+    {
+      "title": "Balancing Constructive Tension with Trusted Advisory Relationships",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "managing client tension"
+        },
+        {
+          "facet": "activity",
+          "label": "consultative questioning"
+        }
+      ],
+      "span": {
+        "start_line": 76,
+        "end_line": 87
+      },
+      "quote": "Yeah thats interesting its interesting because many many years ago they had a program at Intel called Management by Confrontation Right okay It was somewhat similar but yeah I know the Challenger thing its very good Yeah well dialing up that tension bit it was an interesting one for me because Im still not completely sold its the thing to do But as its a skill that Id like to work on its something I thought I need to give it a go and I need to probably utilize it to a certain level not to where ",
+      "item_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0076-0087",
+      "source_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1",
+      "path": "youtube/video/2021-09-29-top-salespeople-interviewed-lee-edge-5FQcZ9PtOfo.md",
+      "prev": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0064-0075",
+      "next": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0088-0099"
+    },
+    {
+      "title": "Eliminating Internal Admin Distractions and Sustaining Client Focus",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales productivity"
+        },
+        {
+          "facet": "activity",
+          "label": "client relationship building"
+        }
+      ],
+      "span": {
+        "start_line": 88,
+        "end_line": 99
+      },
+      "quote": "Yeah I guess it depends on how you interpret what the trainer says or what the training says Exactly right yeah Yeah so its kind of a similar question but Im trying to sort of dig down So what do you see as the Character traits and qualities that you consider important factors for success in sales Character characteristics Ive worked and seen many many different characters over the last excuse me 8 years in the sales roles that Ive been doing and all successful to varying degrees But the main 3 ",
+      "item_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0088-0099",
+      "source_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1",
+      "path": "youtube/video/2021-09-29-top-salespeople-interviewed-lee-edge-5FQcZ9PtOfo.md",
+      "prev": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0076-0087",
+      "next": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0100-0108"
+    },
+    {
+      "title": "Combining Subject Matter Expertise with Ethical Sales Execution",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales ethics"
+        },
+        {
+          "facet": "topic",
+          "label": "trusted advisor"
+        }
+      ],
+      "span": {
+        "start_line": 100,
+        "end_line": 108
+      },
+      "quote": "Yeah But ultimately I think its tenacity and not you know not being knocked back from people you know mentioning negative things about your software or the competitors offer this and then so you know some people drop their price Its all about holding that price So its a belief in yourself and the product and a bit more tenacity Id say Yeah thats a good answer Okay so if you had to distill all this into one piece of advice I know thats quite challenging Because youve gone youve covered an enormou",
+      "item_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0100-0108",
+      "source_id": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1",
+      "path": "youtube/video/2021-09-29-top-salespeople-interviewed-lee-edge-5FQcZ9PtOfo.md",
+      "prev": "youtube-video-2021-09-29-top-salespeople-interviewed-lee-edge-5fqcz9ptofo-md-c32915f3d1:0088-0099",
+      "next": null
+    },
+    {
+      "title": "Sales Success Formula",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales enablement"
+        },
+        {
+          "facet": "topic",
+          "label": "sales process"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Thanks for your interest in this resource My name is Clive Miller and I am the author of most Sales Sense material and the Sales Success Formula In the process of selling technology solutions managing sales teams and developing sales training programmes I have invested over 40 years of my life in solving sales performance challenges Since the frontiers of knowledge and human capabilities keep expanding there is no end in sight The Sales Success Formula is a set of building blocks rather than a s",
+      "item_id": "youtube-video-2026-10-22-sales-success-formula-digue0nzyaw-md-ed095597c8:0015-0015",
+      "source_id": "youtube-video-2026-10-22-sales-success-formula-digue0nzyaw-md-ed095597c8",
+      "path": "youtube/video/2026-10-22-sales-success-formula-DIGuE0nzyAw.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Core Drivers of Sales Success and Alignment",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales fundamentals"
+        },
+        {
+          "facet": "topic",
+          "label": "solution selling"
+        },
+        {
+          "facet": "activity",
+          "label": "sales interview"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "Welcome this is a project that Ive started to interview top salespeople thats people who are consistently successful to try and draw out their secrets and Id like to start by introducing you to John Bycroft whos on the call John Ive known for more than 20 years and before I knew him he was in IT originally before getting a sales job with Olivetti And then he started selling branch automation systems to banks and building societies and he was so successful at it that they had him start a global t",
+      "item_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0016-0027",
+      "source_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a",
+      "path": "youtube/video/2021-08-19-top-salespeople-interviewed-john-bycroft-8mSBnmBVqoU.md",
+      "prev": null,
+      "next": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0028-0039"
+    },
+    {
+      "title": "Balancing Perseverance Against Overbearing Outreach",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "perseverance"
+        },
+        {
+          "facet": "situation",
+          "label": "handling prospect non-responses"
+        },
+        {
+          "facet": "activity",
+          "label": "sales interview"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "Thats brilliant thanks John Would you say that are there things that youve learned not to do over the years in sales There is a fine line between that perseverance and being an absolute pain in the proverbial But and weve all seen foot in the door salesmen and women probably less so nowadays but people who just will not take no for an answer Well that doesnt win anybody any friends or get business and it can only cause hostility which I dont see the point of that Im having an issue at the moment",
+      "item_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0028-0039",
+      "source_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a",
+      "path": "youtube/video/2021-08-19-top-salespeople-interviewed-john-bycroft-8mSBnmBVqoU.md",
+      "prev": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0016-0027",
+      "next": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0040-0051"
+    },
+    {
+      "title": "Personal Strengths in Discovery and Struggles with Time Management",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "discovery questions"
+        },
+        {
+          "facet": "topic",
+          "label": "time management"
+        },
+        {
+          "facet": "activity",
+          "label": "sales interview"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 51
+      },
+      "quote": "Yeah okay theres always a risk its going to get a little bit I gave you too much too soon thats the problem No thats a problem it was really good So which aspects are strengths for you and which do you wish you were better at As I say I enjoy the questioning I like asking questions and I generally seem able to quickly engage in that conversation which isnt just following a script or you know have you got this did you do that Its really understanding well hang on why have you done that Were you p",
+      "item_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0040-0051",
+      "source_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a",
+      "path": "youtube/video/2021-08-19-top-salespeople-interviewed-john-bycroft-8mSBnmBVqoU.md",
+      "prev": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0028-0039",
+      "next": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0052-0063"
+    },
+    {
+      "title": "The Role of Humility, Empathy, and Collaborative Journey in Sales",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "humility in sales"
+        },
+        {
+          "facet": "topic",
+          "label": "buyer empathy"
+        },
+        {
+          "facet": "activity",
+          "label": "sales interview"
+        }
+      ],
+      "span": {
+        "start_line": 52,
+        "end_line": 63
+      },
+      "quote": "Law thats the one And I can go back to my school and university you know give me a year to do a project and I will start it with 3 days to go and submit it and generally pass not with distinction perhaps I might have possibly been able to do a better job but So time management preparation often Again part of being interested is to at least research the company and find out what challenges and what did the chairman say in the last financial report that may actually cascade down into something whi",
+      "item_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0052-0063",
+      "source_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a",
+      "path": "youtube/video/2021-08-19-top-salespeople-interviewed-john-bycroft-8mSBnmBVqoU.md",
+      "prev": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0040-0051",
+      "next": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0064-0075"
+    },
+    {
+      "title": "Interview Wrap-Up and Mutual Continuous Learning",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "continuous learning"
+        },
+        {
+          "facet": "activity",
+          "label": "sales interview wrap-up"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 75
+      },
+      "quote": "Thats fantastic John This has been a really interesting hour Ill look at the recording obviously Ill send you a copy of it or give you a link to look at it but I think this would be really valuable to share with other people and what I hope to do is do that via my social media and via the website but Ill await your feedback before I do that of course Okay so anything to add Just thanks very much this has been brilliant Okay well yeah I mean you know all this of course I mean Ive learned a lot fr",
+      "item_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0064-0075",
+      "source_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a",
+      "path": "youtube/video/2021-08-19-top-salespeople-interviewed-john-bycroft-8mSBnmBVqoU.md",
+      "prev": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0052-0063",
+      "next": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0076-0082"
+    },
+    {
+      "title": "Final Farewells and Interview Sign-Off",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "interview sign-off"
+        }
+      ],
+      "span": {
+        "start_line": 76,
+        "end_line": 82
+      },
+      "quote": "Speak to you again soon Thank you All the best Yeah Bye bye",
+      "item_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0076-0082",
+      "source_id": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a",
+      "path": "youtube/video/2021-08-19-top-salespeople-interviewed-john-bycroft-8mSBnmBVqoU.md",
+      "prev": "youtube-video-2021-08-19-top-salespeople-interviewed-john-bycroft-8msbnmbvqou-md-ec1c05188a:0064-0075",
+      "next": null
+    },
+    {
+      "title": "Nikola Dabic's Background in Medical Device Sales",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "sales interview"
+        },
+        {
+          "facet": "topic",
+          "label": "medical device sales career"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "Well welcome everybody thanks for your attention and joining this or viewing this video This is a project I started a while back to interview top performing salespeople and today I want to introduce you to Nikola Dabic if Im saying that right Nikola Yeah Whos a sales leader at Medtronic Yeah And Medtronic are Im going to leave you to explain it Nikola because I should Yeah yeah thank you thank you thank you Clive for the invitation And it is really a privilege to be here with you and to discuss ",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0016-0027",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": null,
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0028-0039"
+    },
+    {
+      "title": "Core Habits: Preparation, Needs Discovery, and Open Questions",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales call preparation"
+        },
+        {
+          "facet": "topic",
+          "label": "discovery questioning"
+        },
+        {
+          "facet": "situation",
+          "label": "customer conversation"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "Thats excellent Nikola Thank you very much for explaining And so my first question then to dive straight in what are the habits and practices that you consider to have been most productive for you in your sales roles or when youre on the selling side or for your people if you like First allow me just to mention that whatever I mention here on this interview is just my personal belief and does not reflect the standpoint of my company So this is a very important disclaimer just to differentiate th",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0028-0039",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0016-0027",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0040-0051"
+    },
+    {
+      "title": "Using Impactful Questions to Stimulate Customer Thinking",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "open-ended questions"
+        },
+        {
+          "facet": "situation",
+          "label": "engaging client conversation"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 51
+      },
+      "quote": "How do you spell his second name Bob T I E D E T I E D E Brilliant Yeah And as I said it takes a short portion of time but it is very useful And I can also quote my favorite question from that book The question goes what is impossible but if would be done it would make a great impact on our success Thats a great question Indeed You know people uh people will first ask you to repeat the question but for sure when they start thinking and speaking yeah it will make them it will make them speak And ",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0040-0051",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0028-0039",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0052-0063"
+    },
+    {
+      "title": "Emotional Intelligence and Empathy in Sales",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "emotional intelligence"
+        },
+        {
+          "facet": "topic",
+          "label": "empathy in sales"
+        }
+      ],
+      "span": {
+        "start_line": 52,
+        "end_line": 63
+      },
+      "quote": "absolutely agree with you about theres no such thing as a born salesman I mean well you know you wouldnt allow a born surgeon to operate on you would you Yes yes Probably not but we have born salesmen out there all the time dont we I also have a if you can if you allow me just to do a small digression I think that the natural born salespeople are the people who have developed emotional intelligence and especially empathy So theyre empathic in listening and understanding the needs of the person w",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0052-0063",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0040-0051",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0064-0075"
+    },
+    {
+      "title": "Avoiding the Rush to Close and Prioritizing Long-Term Value",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "closing tactics"
+        },
+        {
+          "facet": "situation",
+          "label": "pushy sales behavior"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 75
+      },
+      "quote": "Yeah and I think theres a lot of people who struggle with that aspect of communication and there are some that for whatever reason have become good at it Im not sure its a born thing But part of nature and nurture its a combination of nature and nurture isnt it So some people do have that kind of lets call it a talent and that is a valuable talent to nurture in sales certainly Yeah for sure Okay so what mistakes have you learned to avoid in your sales career Most important is dont push to close ",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0064-0075",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0052-0063",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0076-0087"
+    },
+    {
+      "title": "Learning Cold Calling and Insights from Other Industries",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cold calling"
+        },
+        {
+          "facet": "topic",
+          "label": "cross-industry sales learning"
+        }
+      ],
+      "span": {
+        "start_line": 76,
+        "end_line": 87
+      },
+      "quote": "Okay tell me about the knowledge that you have that supports your success in your current role and how you came by it Thats not necessarily just sales knowledge I mean certainly how do you do the selling Youre clearly an expert in that but Im interested in this question Im interested in understanding what your supplementary technical wider knowledge is and how you can apply it Very good question I will just shortly touch base the standard methodology It is the sales integrity something that I th",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0076-0087",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0064-0075",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0088-0099"
+    },
+    {
+      "title": "Creating Emotional Impact and the Role of Optimism",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "optimism in sales"
+        },
+        {
+          "facet": "topic",
+          "label": "emotional connection"
+        }
+      ],
+      "span": {
+        "start_line": 88,
+        "end_line": 99
+      },
+      "quote": "Yeah absolutely There have been a few truly great salespeople If you Google worlds greatest salespeople you find some names and Im desperately trying to think of one But one of them in particular sold I dont know something about 200 times more cars than anybody else in the country Its an American one of course And it is always good to speak with the people about their sales experience I remember one colleague told me he went to buy his first car and he had the budget for I dont know lets say For",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0088-0099",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0076-0087",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0100-0111"
+    },
+    {
+      "title": "Handling Rejection and Structuring the Four-Step Sales Method",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "storytelling"
+        },
+        {
+          "facet": "topic",
+          "label": "structured sales process"
+        },
+        {
+          "facet": "situation",
+          "label": "dealing with sales failure"
+        }
+      ],
+      "span": {
+        "start_line": 100,
+        "end_line": 111
+      },
+      "quote": "Oh dear laughing made me cough again Yeah And actually they did a study on how optimists perform and how pessimists perform And of course optimists were way better And actually they stayed longer in the industry And even they did an experiment on the optimists who didnt who failed the initial test So the study leader it was Seligman he convinced MetLife to hire these people although they lack basic skills And then he was measuring their success in the next 2 years And they were better than pessi",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0100-0111",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0088-0099",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0112-0123"
+    },
+    {
+      "title": "Diagnosing Outcomes Using a Structured Sales Framework",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales frameworks"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 112,
+        "end_line": 123
+      },
+      "quote": "Yeah I found that Ive come across a lot of resistance amongst salespeople to frameworks But the research says the research that Ive seen anyway suggests that using a method actually increases sales Of course and I refer back to the situation when we when the outcome is not what we desired what are you going to do So you have to look back you have to look back at what you did but if you dont have a structure how would you know what things you should improve for the next conversation And I agree w",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0112-0123",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0100-0111",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0124-0135"
+    },
+    {
+      "title": "Building Long-Term Trust Through Radical Honesty",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "trust building"
+        },
+        {
+          "facet": "situation",
+          "label": "competitor has better product"
+        }
+      ],
+      "span": {
+        "start_line": 124,
+        "end_line": 135
+      },
+      "quote": "So can you tell me a bit more about the character traits and qualities So Ive referred to qualities so this might be a bit repetitious but character traits and qualities that you consider important factors in sales success I think you perhaps alluded to a couple of these already but feel free to say them again Well I will bring in a new element that you and me already discussed about and that is honesty I think the honesty is the main character trait that salespeople should develop And honesty i",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0124-0135",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0112-0123",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0136-0147"
+    },
+    {
+      "title": "Honesty as a Foundation for Personal Branding",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "personal branding"
+        },
+        {
+          "facet": "topic",
+          "label": "customer relationships"
+        }
+      ],
+      "span": {
+        "start_line": 136,
+        "end_line": 147
+      },
+      "quote": "So I think this is the most important trait and I think that we all have to work a lot in these times on being honest in all possible situations And its easy to say isnt it Its not so straightforward to deliver that honesty in a way that is acceptable without demolishing your own In that situation you have to think about the big picture about long term So not just about today but also about tomorrow also about situation when youre going to visit the same customer but you will change the company ",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0136-0147",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0124-0135",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0148-0159"
+    },
+    {
+      "title": "Adopting an Infinite Game Mindset for Sales Newcomers",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales mindset"
+        },
+        {
+          "facet": "situation",
+          "label": "advising new salespeople"
+        }
+      ],
+      "span": {
+        "start_line": 148,
+        "end_line": 159
+      },
+      "quote": "Yeah yeah I agree Exactly so Thats very good Okay so if you had to distill all of this into one piece of advice for a newcomer what would it be I would say that for the newcomer that tomorrow is another day to close the sales So what is important is to keep playing And I recall one anecdote from basketball Basketball is very popular in my country and And there was one young player going to NBA He was very successful and talented And one evening he finishes the match with 13 attempts and 0 scores",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0148-0159",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0136-0147",
+      "next": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0160-0166"
+    },
+    {
+      "title": "Interview Wrap-Up and Reflection on Sales Learning",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "interview closing"
+        },
+        {
+          "facet": "topic",
+          "label": "continuous learning"
+        }
+      ],
+      "span": {
+        "start_line": 160,
+        "end_line": 166
+      },
+      "quote": "Very much so This has been a tremendous interview I think theres been youve produced some really really great material and some wonderful book recommendations They will they should be apparent but when we do the transcript Ill make sure that theyre clear in there And so I thank you for coming on this interview Thank you Thank you for the invitation I look forward to talking to you again in the future Yeah thank you for the invitation and this was a really great experience for me and I enjoyed it",
+      "item_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0160-0166",
+      "source_id": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f",
+      "path": "youtube/video/2021-12-03-salessense-managing-partner-2LFiEDYQdR0.md",
+      "prev": "youtube-video-2021-12-03-salessense-managing-partner-2lfiedyqdr0-md-114517a56f:0148-0159",
+      "next": null
+    },
+    {
+      "title": "Maintaining Pipeline Discipline and Planning in Sales",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "pipeline management"
+        },
+        {
+          "facet": "topic",
+          "label": "prospecting"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "Welcome everybody this is a project that Ive started recently to interview top performing salespeople so we can present for you or you can hear for yourselves the techniques and practices and skills that top performers use in order to achieve consistent results rather than hearing it from old soldiers like me So Im going to introduce you now to Cary Duffy and Id like to ask Cary to just briefly summarize his career to date and some of the high points before we get into the questions Cary could y",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0016-0027",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": null,
+      "next": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0028-0039"
+    },
+    {
+      "title": "Pipeline Ratios and Opportunity Qualification Through Discovery",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales qualification"
+        },
+        {
+          "facet": "topic",
+          "label": "discovery call"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "What sort of pipeline ratio do you try to maintain Id like its a good question 3 times is kind of like what you would say So youd like to 3 times of your annual quota your number So if Ive got a 1 million quota rolling some people Ive spoken to prefer 5 It really depends on the type of you know where you are in your sales career and what youre selling because obviously you know you could be in some sort of sweet spot You have the ability to sell very large solutions which ultimately could you kn",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0028-0039",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0016-0027",
+      "next": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0040-0051"
+    },
+    {
+      "title": "Disqualifying Non-Deals and Daily Task Prioritization",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "deal disqualification"
+        },
+        {
+          "facet": "topic",
+          "label": "daily planning"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 51
+      },
+      "quote": "They dont buy anything Absolutely I I think you know its great to in order to do that you only really get there by experience and I think or learning from people with experience You take a you know not not necessarily a negative view Im always looking for the nos rather than the yeses I think thats a good way of looking at it right You find your nos you can clear that time out Theres nothing greater than getting time back when you think youve got something right You go oh okay Ive decided thats ",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0040-0051",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0028-0039",
+      "next": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0052-0063"
+    },
+    {
+      "title": "Monotasking and Detaching Self-Worth from Sales Outcomes",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Pomodoro technique"
+        },
+        {
+          "facet": "situation",
+          "label": "deal outcome attachment"
+        }
+      ],
+      "span": {
+        "start_line": 52,
+        "end_line": 63
+      },
+      "quote": "20 minutes I have Yeah you know that right So just do that Just drill down drill down drill down Monotask Ignore all of the dopamine potential hits of like your teams coming up or your phone going off or an email coming in If you could do as I say not do as I do right But Im just you know thats kind of the ideal scenario That you would just be able to focus on one task at a time giving it your full attention and then breaking after 20 minutes taking a taking a break refreshing your brain and goi",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0052-0063",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0040-0051",
+      "next": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0064-0075"
+    },
+    {
+      "title": "Gaining Buyer Perspective and Committing to Continuous Learning",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "buyer perspective"
+        },
+        {
+          "facet": "topic",
+          "label": "professional development"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 75
+      },
+      "quote": "Yeah absolutely Theres uh there is always learning in failure I mean theres no fail forward Tom Peters wasnt it who said fail forward faster Yeah yeah Sometimes its the the worst part is when you just dont really understand the tangible reasons for that outcome And sometimes you can understand them but they might not compute because what you have is obviously youre seeing it and so youre not necessarily doing the right thing which is putting yourself in your buyers shoes You can only see the out",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0064-0075",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0052-0063",
+      "next": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0076-0087"
+    },
+    {
+      "title": "Recommended Sales and Critical Thinking Books",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales literature"
+        },
+        {
+          "facet": "topic",
+          "label": "critical thinking"
+        }
+      ],
+      "span": {
+        "start_line": 76,
+        "end_line": 87
+      },
+      "quote": "that Whats the best book youve read this year or listened to this year Um its a really good question I am read sales wise sales wise um there was one uh called Inked by Jeb Blount whos an American Sales Kind of Leader that was really good as well Id say that one was really impressive In fact Ill just get my audible up as well at the moment Outside of that Ive read some really interesting pieces Im reading one called Sales Secrets of the Top 2 percent by Brandon Burchin and thats like 15 hours It",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0076-0087",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0064-0075",
+      "next": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0088-0099"
+    },
+    {
+      "title": "Applying Stoic Philosophy and Psychology to Sales Mindset",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales psychology"
+        },
+        {
+          "facet": "topic",
+          "label": "Stoic philosophy"
+        }
+      ],
+      "span": {
+        "start_line": 88,
+        "end_line": 99
+      },
+      "quote": "Dale Owen brilliant Okay And then the other one just as a which Ive been meaning to read for ages was Mans Search for Meaning by Viktor Frankl which is not sales um but thats uh hes a psychiatrist who was a concentration camp survivor which again is just incredible kind of and that talks about psychology as well as his his experiences and that reading stuff like that does give you some context of when you think you know how lucky we are to not be in those situations but how lucky we are in being",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0088-0099",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0076-0087",
+      "next": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0100-0111"
+    },
+    {
+      "title": "Bridging Technical Knowledge with Business Acumen",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "business acumen"
+        },
+        {
+          "facet": "topic",
+          "label": "solution selling"
+        }
+      ],
+      "span": {
+        "start_line": 100,
+        "end_line": 111
+      },
+      "quote": "No worries its really valuable I think its very valuable anyway And so the question what about your technical knowledge That was what I was trying to you know so what is the knowledge you have about IT or technology software that you use in order to diagnose and propose solutions you know Good very good question Now a really high valued salesperson is someone who can do pretty much everything you know has a business acumen that means with the right experience they may be able to work technically",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0100-0111",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0088-0099",
+      "next": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0112-0123"
+    },
+    {
+      "title": "Essential Sales Character Traits and Reading for Newcomers",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales onboarding"
+        },
+        {
+          "facet": "topic",
+          "label": "curiosity and resilience"
+        }
+      ],
+      "span": {
+        "start_line": 112,
+        "end_line": 123
+      },
+      "quote": "Okay so what do you consider to be the character traits and qualities that are important factors in success Good question again I think a dedication to self development I really think is really key I think you know the worlds a big classroom right And I think you can learn from every scenario and everyone you speak with So if youre curious enough so curiosity is the main one but I mean if youre curious enough to want to learn and pursue excellence in what you do then I think thats a you know I t",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0112-0123",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0100-0111",
+      "next": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0124-0130"
+    },
+    {
+      "title": "Leveraging Sales Mentorship and Wrapping Up",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales mentorship"
+        },
+        {
+          "facet": "activity",
+          "label": "sales interview wrap-up"
+        }
+      ],
+      "span": {
+        "start_line": 124,
+        "end_line": 130
+      },
+      "quote": "And thats absolutely theres an incredible amount of resource out there to people who are you know wanting to get where they want to get to in sales But the key to that the key to that for anyone else joining after what theyre reading is like get themselves a mentor get someone who actually cares about their development Well be you know Im always very happy I mentor quite a few people Im very happy to do it And you know who knows what might become of it as well But no yeah as I say you and I coul",
+      "item_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0124-0130",
+      "source_id": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1",
+      "path": "youtube/video/2021-10-29-top-salespeople-interviewed-cary-duffy-W4wwoL3qsNo.md",
+      "prev": "youtube-video-2021-10-29-top-salespeople-interviewed-cary-duffy-w4wwol3qsno-md-76da2677c1:0112-0123",
+      "next": null
+    },
+    {
+      "title": "Pitfalls of modern digital outreach and missing sales fundamentals",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "social selling"
+        },
+        {
+          "facet": "situation",
+          "label": "pitching without establishing need or trust"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "So youve got to be prepared to reach out and people do it on LinkedIn but theyre hiding behind the approach Nobody picks up the phone anymore They say cold calling is dead Long live cold calling Hi everyone Welcome back to the Selling With Love Podcast This is Jason Markk Campbell And today I have a guest thats my God we started already into our conversations geeking out about sales before our introduction was even made But I want to make sure that he is properly And we can get into this convers",
+      "item_id": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0016-0027",
+      "source_id": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3",
+      "path": "youtube-guests/video/2022-06-07-selling-before-the-internet-what-can-we-learn-clive-miller-HYyBPQZIk-4.md",
+      "prev": null,
+      "next": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0028-0039"
+    },
+    {
+      "title": "Technology impact on sales quotas and navigating complex B2B sales cycles",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "B2B sales strategy"
+        },
+        {
+          "facet": "topic",
+          "label": "sales quota productivity"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "Absolutely I ask whats the you have to find a comparable organization to ask this question You say whats the average yield of a salesperson now Compared with say 1995 or even 1975 for that matter And so I can think back to my first sales target it was actually 1979 and it was about 700K a year I was supposed to bring in and that was for Intel components And then I moved into a different territory into the London area and I had a higher target about 1 point 5 million And then I moved to I had a s",
+      "item_id": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0028-0039",
+      "source_id": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3",
+      "path": "youtube-guests/video/2022-06-07-selling-before-the-internet-what-can-we-learn-clive-miller-HYyBPQZIk-4.md",
+      "prev": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0016-0027",
+      "next": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0040-0051"
+    },
+    {
+      "title": "Role evolution in complex selling and buyer facilitation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "buyer facilitation"
+        },
+        {
+          "facet": "situation",
+          "label": "prospect early in buying cycle"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 51
+      },
+      "quote": "Thats a wonderful way of putting it Its exactly right Yes So I find that you know giving the title of a salesperson in that type of sale is such an underwhelming title because you become a CEO you become an HR specialist you become a salesperson a marketer Youre doing all sorts of things And I think that Im hoping for people that are listening are realizing that when youre talking about sophisticated sales individuals for these types of accounts its going into a whole new set of skills that you ",
+      "item_id": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0040-0051",
+      "source_id": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3",
+      "path": "youtube-guests/video/2022-06-07-selling-before-the-internet-what-can-we-learn-clive-miller-HYyBPQZIk-4.md",
+      "prev": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0028-0039",
+      "next": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0052-0058"
+    },
+    {
+      "title": "Relationship building on LinkedIn and differing sales mindsets",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales ethics"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 52,
+        "end_line": 58
+      },
+      "quote": "I think you have to be I think you just have to be open Its the long game LinkedIn is a long all the LinkedIn specialists out there will say the same thing all the ones Ive talked to anyway They all say its a long game You build relationships with people by connecting with them by expressing an interest in what theyre doing finding common ground Finding a way to establish communication and that communication often doesnt happen on LinkedIn LinkedIn is is a substrate if you like a platform in whi",
+      "item_id": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0052-0058",
+      "source_id": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3",
+      "path": "youtube-guests/video/2022-06-07-selling-before-the-internet-what-can-we-learn-clive-miller-HYyBPQZIk-4.md",
+      "prev": "youtube-guests-video-2022-06-07-selling-before-the-internet-what-can-we-learn-clive-m-e83bbf56e3:0040-0051",
+      "next": null
+    },
+    {
+      "title": "Scaling a Sales Consultancy and Experiencing Business Setbacks",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "business scaling"
+        },
+        {
+          "facet": "situation",
+          "label": "running out of money trying to scale"
+        }
+      ],
+      "span": {
+        "start_line": 55,
+        "end_line": 66
+      },
+      "quote": "Hello everyone thank you for watching or listening to The Adaptive Edge Podcast Today our guest is Clive from UK Clive is a very long time friend 20 years ago if I want to trace back At that time I was running my Shanghai training company and I invited him to deliver some training on enterprise selling training program to the clients in Shanghai and Beijing So Clive thank you for accepting the invitation to the podcast Would you like to introduce yourself a little bit more Yeah sure Thank you Ju",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0055-0066",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": null,
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0067-0078"
+    },
+    {
+      "title": "Navigating VUCA After Crisis and Rebuilding the Business",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "VUCA"
+        },
+        {
+          "facet": "situation",
+          "label": "September 11 contract cancellations"
+        }
+      ],
+      "span": {
+        "start_line": 67,
+        "end_line": 78
+      },
+      "quote": "Yeah So you think you would do it differently right And how long did it take you To go through this complex situation Well I suppose I started after the Twin Towers came down in the US 2 or 3 contracts were canceled not because of anything I did just because of the circumstances of the situation and nobody knew what was happening You asked about complexity and that was probably when I first came to learn about something called VUCA which is A term invented by some Americans in 1987 American cons",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0067-0078",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0055-0066",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0079-0090"
+    },
+    {
+      "title": "Resilience and the Impact of Economic Cycles on Sales Training",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "discretionary spending in sales training"
+        },
+        {
+          "facet": "situation",
+          "label": "economic downturn"
+        }
+      ],
+      "span": {
+        "start_line": 79,
+        "end_line": 90
+      },
+      "quote": "Yeah So you kept it going and whats really behind it What kind of strength supporting you to keep going Oh Im not sure it was strength I mean you do what you can You face what for me life you just face whats in front of you and get on with it And yeah you know there are ups and downs Ive always been a fan of Rudyard Kiplings poem If you know I dont know if youre familiar with it but it sounds a bit trite when you say it in a situation like this But if you can face the challenge if you can face I",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0079-0090",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0067-0078",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0091-0102"
+    },
+    {
+      "title": "The Risks of Pipeline Drought and Neglecting Sales Development",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "pipeline management"
+        },
+        {
+          "facet": "situation",
+          "label": "pipeline runs dry"
+        }
+      ],
+      "span": {
+        "start_line": 91,
+        "end_line": 102
+      },
+      "quote": "Yes yes I totally agree with you because Im in the training industry for almost 20 years now and now many trainings are moved into online and then in the virtual room we found out people coming in and go very frequently They just couldnt focus while companies spending lots of money on the leadership training Yeah Well interestingly I lately got to know in the Philippines in some industrial zone some factories closed because they dont have sales and then they dont have qualified salespeople to br",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0091-0102",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0079-0090",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0103-0114"
+    },
+    {
+      "title": "The CLEAR Model and the Three Rules for Complex Sales",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "CLEAR model"
+        },
+        {
+          "facet": "topic",
+          "label": "enterprise selling"
+        }
+      ],
+      "span": {
+        "start_line": 103,
+        "end_line": 114
+      },
+      "quote": "Yes especially the B2B sale the sales cycle seems to be much longer almost like you know 200 days even the whole year you are building the pipeline So when you I know your training is called enterprise selling and especially handle the complex sales right And would you like to say a little bit more about this kind of how to make complex selling successful Okay Forethought planning and preparation is the short version So the higher the value of the sale the more people are going to be involved in",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0103-0114",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0091-0102",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0115-0126"
+    },
+    {
+      "title": "Slowing Down the Sales Process and Avoiding the Black Hole",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales qualification"
+        },
+        {
+          "facet": "situation",
+          "label": "prospect stops responding after receiving solution"
+        }
+      ],
+      "span": {
+        "start_line": 115,
+        "end_line": 126
+      },
+      "quote": "Hmm And that jumps over all these assumptions like you know who are the people impacted by this and do they all think the same thing And nobody ever does you know people have different ideas about complex things And so the CLEAR process is about slowing down and making sure you get that information out while youve still got something to trade with which is your willingness to do a proposal ultimately So salespeople are mostly much too eager because the request for information is like yeah theyre",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0115-0126",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0103-0114",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0127-0138"
+    },
+    {
+      "title": "Advice for Starting Salespeople and Interpersonal Navigation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales self-education"
+        },
+        {
+          "facet": "topic",
+          "label": "stakeholder questioning"
+        }
+      ],
+      "span": {
+        "start_line": 127,
+        "end_line": 138
+      },
+      "quote": "Did that answer your question Oh yes yes very insightful I mean Im like Im like having a very quick condensed sales training course from you right now because I quickly flashback how I do in sales Because I also do selling sometimes especially I also encounter the challenge you know working with bigger companies takes so long and I kind of lose the patience sometimes But I think certainly your training your methodology your approach you accumulated for so many years its very very helpful for peo",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0127-0138",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0115-0126",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0139-0150"
+    },
+    {
+      "title": "The Power of Listening and Prompting in Technical Sales",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "active listening"
+        },
+        {
+          "facet": "situation",
+          "label": "selling without deep engineering expertise"
+        }
+      ],
+      "span": {
+        "start_line": 139,
+        "end_line": 150
+      },
+      "quote": "Interpersonal skills Yeah And having an understanding of psychology and personality and listening more Listening is essential Right Lesson from my early years my first sales job I was selling Intel components for a distributor and I didnt really feel I was a competent electronics engineer And to get past this because I was going to see R D managers electronics engineers and the like I would ask them what they were working on and prompt them with a few questions and shut up and listen It worked r",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0139-0150",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0127-0138",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0151-0162"
+    },
+    {
+      "title": "Listening Aptitude and Core Sales Resource Publications",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales talent traits"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training resources"
+        }
+      ],
+      "span": {
+        "start_line": 151,
+        "end_line": 162
+      },
+      "quote": "Yeah Very important Yes I remember my first job as a saleswoman for real estate and I told my manager I dont think I will be a good salesperson And then my manager said no Actually you should be a good salesperson because youre good at listening So that kind of helped me really you know clear up the hurdle Like I thought salesperson has to be really good at talking which is my husband Right Okay How is Ramil Very good Hes doing well and setting up a new cooperative All right Here Yeah Yes thats ",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0151-0162",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0139-0150",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0163-0174"
+    },
+    {
+      "title": "Practical AI Adoption and Geopolitical Tech Uncertainty",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI adoption"
+        },
+        {
+          "facet": "topic",
+          "label": "modern VUCA"
+        }
+      ],
+      "span": {
+        "start_line": 163,
+        "end_line": 174
+      },
+      "quote": "Okay 10 or something Theres something called the Sales Success Formula which I give away for nothing You might think its like a lead magnet but it describes how to build a high performing sales team or how to become a high performing salesperson And The Power to Speak which is just something Ive been rewriting which I wrote 30 years ago And its more or less up to speed Okay Very good Yeah Yeah please do provide the link so people can download if its free Yeah therell be good resource for them Ye",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0163-0174",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0151-0162",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0175-0186"
+    },
+    {
+      "title": "Moving Forward with Generative AI Productivity Tools",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI productivity"
+        },
+        {
+          "facet": "activity",
+          "label": "podcast production"
+        }
+      ],
+      "span": {
+        "start_line": 175,
+        "end_line": 186
+      },
+      "quote": "Yes I agree totally Yes Yeah So I think how do we do it I mean we just live Well we just have to press on Yeah we have to press on dont we I mean theres doomsayers about every other major technological advance in the past So nobody knows whats gonna happen We feel our way forward Yes I agree Yes Yeah actually Im gonna use Claude to finish the production of the podcast So Ive been using CLEAR a lot Yeah So I think yeah its useful for it really empowered me to do what I want to do Yeah So yes I ag",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0175-0186",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0163-0174",
+      "next": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0187-0195"
+    },
+    {
+      "title": "Reconnecting and Closing the Conversation",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "podcast wrap-up"
+        }
+      ],
+      "span": {
+        "start_line": 187,
+        "end_line": 195
+      },
+      "quote": "person Yes Okay great Thank you Clive I learned a lot from you and its really nice to catch up with you again after 20 years I hope we dont have to wait that long anymore Just keep in touch anytime Yes Yeah we should we should speak more often Definitely Yes Yes Thank you Thank you Clive Thank you for your time Thank you Thanks very much for the opportunity Bye bye Thank you Bye bye",
+      "item_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0187-0195",
+      "source_id": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8",
+      "path": "youtube-guests/video/2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-complex-b2-1iOOg8LKuvU.md",
+      "prev": "youtube-guests-video-2026-09-22-the-adaptive-edge-podcast-ep-04-with-clive-miller-com-0557c6b9b8:0175-0186",
+      "next": null
+    },
+    {
+      "title": "Ways to increase sales through sales management practices - No. 2: Coaching",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales coaching"
+        },
+        {
+          "facet": "activity",
+          "label": "deal reviews"
+        },
+        {
+          "facet": "situation",
+          "label": "balancing sales targets with capability development"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 26
+      },
+      "quote": "Ways to increase sales through sales management practices - No. 2 ▶️ Coaching Most sales managers are aware of their responsibility for developing team capabilities and often try to serve this purpose through deal reviews. Discussing how to win a sale often presents opportunities for coaching. Unfortunately, the aim of coaching - the improvement of skills, methods, and knowledge - may conflict with a managers priority of ensuring the sales target is achieved. Most people learn by doing rather th",
+      "item_id": "linkedin-posts-2025-01-22-ways-to-increase-sales-through-md-cbe39ce7d4:0010-0026",
+      "source_id": "linkedin-posts-2025-01-22-ways-to-increase-sales-through-md-cbe39ce7d4",
+      "path": "linkedin/posts/2025-01-22-ways-to-increase-sales-through.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Ways to increase sales through sales management practices: Deal Reviews",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "deal reviews"
+        },
+        {
+          "facet": "activity",
+          "label": "sales management"
+        }
+      ],
+      "span": {
+        "start_line": 12,
+        "end_line": 23
+      },
+      "quote": "Ways to increase sales through sales management practices. ▶️ Deal Reviews This is something that all sales managers do to find out what is happening with important sales opportunities that have yet to close. Yet without a commonly understood framework it can be a hit and miss process. Salespeople are highly motivated to defend their position, previous declarations, and forecast commitments. There credibility is at stake. Without a commonly understood process that uses stages and stage exit crit",
+      "item_id": "linkedin-posts-2025-01-21-ways-to-increase-sales-through-md-908c61ea48:0012-0023",
+      "source_id": "linkedin-posts-2025-01-21-ways-to-increase-sales-through-md-908c61ea48",
+      "path": "linkedin/posts/2025-01-21-ways-to-increase-sales-through.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Sales Management Practices for Increasing Sales",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales management training"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 13,
+        "end_line": 21
+      },
+      "quote": "Sales Management Practices for Increasing Sales I'm looking for three sales managers who want to increase team sales performance, get ahead of a challenging sales target, or take a comprehensive sales management course via weekly online sessions. The course is limited to five people to facilitate discussion, engagement, and the practical application of best practices. Participants are invited to review each week's materials in advance so that in-session time is available for testing, practice an",
+      "item_id": "linkedin-posts-2025-01-17-sales-management-practices-for-increasin-md-ec8da05bec:0013-0021",
+      "source_id": "linkedin-posts-2025-01-17-sales-management-practices-for-increasin-md-ec8da05bec",
+      "path": "linkedin/posts/2025-01-17-sales-management-practices-for-increasin.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Quantified Qualification",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "quantified qualification assessment"
+        },
+        {
+          "facet": "topic",
+          "label": "sales qualification scorecards"
+        },
+        {
+          "facet": "activity",
+          "label": "sales management"
+        }
+      ],
+      "span": {
+        "start_line": 12,
+        "end_line": 23
+      },
+      "quote": "Ways to increase sales through sales management practices - No. 3 ▶️ Quantified Qualification There are many formal qualification guides such as BANT, MEDDPIC, MAN etcetera. Yet I have rarely seen sales qualification schemes turned into a scorecard that formed part of the sales process. All of the elements of a qualification scheme can be expressed as a statement that can be scored. The resulting scores can be summed to indicate progress. More than this, low scores for individual statements indi",
+      "item_id": "linkedin-posts-2025-01-30-ways-to-increase-sales-through-md-78783f8e0d:0012-0023",
+      "source_id": "linkedin-posts-2025-01-30-ways-to-increase-sales-through-md-78783f8e0d",
+      "path": "linkedin/posts/2025-01-30-ways-to-increase-sales-through.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Appealing to Business Experts",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "client acquisition for business experts"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 26
+      },
+      "quote": "Appealing to Business Experts My main business – SalesSense – focuses on helping those selling complex things to other businesses increase sales. Now I have a way to use my experience and know-how to help independent business experts get more clients. I have joined Find a Business Expert. Previously known as Business Butler. Find a Business Expert is a platform that puts business experts in front of thousands of people looking for help. Imagine a way to make your website and LinkedIn profile mor",
+      "item_id": "linkedin-posts-2025-05-06-appealing-to-business-experts-my-md-a65eba47f9:0010-0026",
+      "source_id": "linkedin-posts-2025-05-06-appealing-to-business-experts-my-md-a65eba47f9",
+      "path": "linkedin/posts/2025-05-06-appealing-to-business-experts-my.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "How would you fix a sales crisis provoked by any of the following situations?",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales management"
+        },
+        {
+          "facet": "situation",
+          "label": "sales crisis"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 30
+      },
+      "quote": "How would you fix a sales crisis provoked by any of the following situations? ▶️ A sales forecast that significantly over-predicts results. Stakeholders can get very upset when sales fall far short of expectations, and over-provisioning has repercussions throughout the organisation. ▶️ A sales forecast that regularly underpredicts results against the target. Spending plans reflect the expected sales. Predicting significant underperformance usually means everyone has to cut their spending. ▶️ Sal",
+      "item_id": "linkedin-posts-2025-01-17-how-would-you-fix-a-md-3d0d41bb84:0010-0030",
+      "source_id": "linkedin-posts-2025-01-17-how-would-you-fix-a-md-3d0d41bb84",
+      "path": "linkedin/posts/2025-01-17-how-would-you-fix-a.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Narrow Niche Targeting and Efficient Marketing for Small B2B Businesses",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "niche marketing"
+        },
+        {
+          "facet": "situation",
+          "label": "spending excessive time on ineffective organic marketing"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 56
+      },
+      "quote": "How many small B2B businesses are there in the UK? Let’s be more specific. I’m thinking of solopreneurs, one-person businesses, partnerships without employees, and small businesses with fewer than five employees. After a few minutes' research via Google and ChatGPT, I arrived at the number, 345,000. Are you a business expert or part of a small business selling to other businesses? If you are in a narrow enough niche and have established a prominent reputation, perhaps business flows to you witho",
+      "item_id": "linkedin-posts-2025-05-28-how-many-small-b2b-businesses-md-9aec097694:0009-0056",
+      "source_id": "linkedin-posts-2025-05-28-how-many-small-b2b-businesses-md-9aec097694",
+      "path": "linkedin/posts/2025-05-28-how-many-small-b2b-businesses.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Narrow niche targeting and the time cost of B2B marketing channels",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "niche targeting"
+        },
+        {
+          "facet": "topic",
+          "label": "B2B marketing"
+        },
+        {
+          "facet": "situation",
+          "label": "spending excessive time on marketing without results"
+        }
+      ],
+      "span": {
+        "start_line": 12,
+        "end_line": 63
+      },
+      "quote": "Wild Numbers How many small B2B businesses are there in the UK? I’m thinking of solopreneurs, one-person businesses, partnerships without employees, and small businesses with fewer than five employees. Take a wild guess. About 345,000! Based on extrapolation from the national numbers, there are around 5900 in Devon! Are you a business expert or part of a small business selling to other businesses? If you are in a narrow enough niche and have established a prominent reputation, perhaps business f",
+      "item_id": "linkedin-posts-2025-05-20-wild-numbers-how-many-small-md-1bd6326dcd:0012-0063",
+      "source_id": "linkedin-posts-2025-05-20-wild-numbers-how-many-small-md-1bd6326dcd",
+      "path": "linkedin/posts/2025-05-20-wild-numbers-how-many-small.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Could an AI sales agent do your job?",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI sales agents"
+        },
+        {
+          "facet": "activity",
+          "label": "discovery call"
+        }
+      ],
+      "span": {
+        "start_line": 12,
+        "end_line": 44
+      },
+      "quote": "Could an AI sales agent do your job? I have yet to be engaged in a spoken sales conversation with an AI agent that is trying to sell me something. Are there any AI agents reading this that would like to try? One or two demonstrations by human AI sellers haven't been convincing. I'm interested in testing the technology, so this is an invitation to anyone who would like to use me as a sounding board for an AI sales agent. The early implementations seem to be task-focused and limited to their use c",
+      "item_id": "linkedin-posts-2026-02-16-could-an-ai-sales-agent-md-d05d7ba316:0012-0044",
+      "source_id": "linkedin-posts-2026-02-16-could-an-ai-sales-agent-md-d05d7ba316",
+      "path": "linkedin/posts/2026-02-16-could-an-ai-sales-agent.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Replenishing Personal Reserves and Preparing for Hardship During Times of Plenty",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "preparedness"
+        },
+        {
+          "facet": "topic",
+          "label": "personal reserves"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 28
+      },
+      "quote": "Remember the water shortage horror stories from a few months ago? It is nothing new to have a wet winter in the UK and this year's deluge is a reassuring reminder. Resovoirs are a good analogy for our individual reserves of resources like health, wealth, and interesting opportunities. Sometimes they are drained and things look bleak. It is wise to replenshish our resovioirs in times of plenty yet this is an easy thing to defer. Times of plenty often seem more like recovering the status quo. It i",
+      "item_id": "linkedin-posts-2026-02-05-remember-the-water-shortage-horror-md-525d0bc9ff:0010-0028",
+      "source_id": "linkedin-posts-2026-02-05-remember-the-water-shortage-horror-md-525d0bc9ff",
+      "path": "linkedin/posts/2026-02-05-remember-the-water-shortage-horror.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Overreliance on AI for sales prospecting risks making salespeople weaker",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI in sales prospecting"
+        },
+        {
+          "facet": "situation",
+          "label": "relying on AI as a crutch"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 22
+      },
+      "quote": "The noise about AI is overwhelming. Could it be just a new way to sell businesses more tools? Don't get me wrong. I use AI regularly and have been doing so for two years. I pay the ChatGPT fee. It helps me with content creation, tech support, writing software, creating images, and getting more intelligent answers to general queries that I would have previously explored with Google. Like CRM systems, AI has proved hugely useful and continues to get better, yet like CRM systems, could we be trying",
+      "item_id": "linkedin-posts-2026-01-29-the-noise-about-ai-is-md-8e2aabeffa:0010-0022",
+      "source_id": "linkedin-posts-2026-01-29-the-noise-about-ai-is-md-8e2aabeffa",
+      "path": "linkedin/posts/2026-01-29-the-noise-about-ai-is.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Should we be prepared to compromise on principles in a group setting",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "compromising on principles"
+        },
+        {
+          "facet": "situation",
+          "label": "group decision making and collaboration"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 35
+      },
+      "quote": "Is being willing to compromise an important aspect of getting things done in a group? Should people be willing to compromise on their principles for the greater good? Those who hold onto their principles are easier to trust because if we know their principles, we can predict what they will do in any given situation. Are principles malleable? I'm fond of saying, \"Truth is, truth is what you think it is.\" If you think something is true, it is to you, until you accept some other truth. Facts are no",
+      "item_id": "linkedin-posts-2026-02-09-is-being-willing-to-compromise-md-5e985f7bad:0009-0035",
+      "source_id": "linkedin-posts-2026-02-09-is-being-willing-to-compromise-md-5e985f7bad",
+      "path": "linkedin/posts/2026-02-09-is-being-willing-to-compromise.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Sales Training Needs Analysis Tool",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "training needs analysis"
+        },
+        {
+          "facet": "activity",
+          "label": "sales assessment"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 22
+      },
+      "quote": "I've just completed a new sales training needs analysis tool. It consists of 18 statements that you can score between 1 and 5. It takes about 2 minutes to complete. If you try it, let me know what you think in the comments. It will help me improve it. You can see it here: https://lnkd.in/e8sJUKdJ",
+      "item_id": "linkedin-posts-2026-04-17-sales-salestraining-salestrainingneedsan-md-94181ae824:0015-0022",
+      "source_id": "linkedin-posts-2026-04-17-sales-salestraining-salestrainingneedsan-md-94181ae824",
+      "path": "linkedin/posts/2026-04-17-sales-salestraining-salestrainingneedsan.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Four Levels of Sales Qualification and Win Predictor Tool",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales qualification"
+        },
+        {
+          "facet": "topic",
+          "label": "win probability scoring"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 24
+      },
+      "quote": "A couple of new things that you might find of value. I have published a new article titled: Four Levels of Sales Qualification Every Sales Manager Should Understand One of the four involves quantifying sales qualification criteria. You can use our free Win Predictor to get a score that represents the current likelihood of winning any sales opportunity. It takes less than 2 minutes to score 14 statements. See it here: https://lnkd.in/egp2Ewuv Read the article explaining the four levels of sales q",
+      "item_id": "linkedin-posts-2026-06-16-a-couple-of-new-things-md-61b07f3e00:0010-0024",
+      "source_id": "linkedin-posts-2026-06-16-a-couple-of-new-things-md-61b07f3e00",
+      "path": "linkedin/posts/2026-06-16-a-couple-of-new-things.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Free sales diagnostic tool",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales diagnostic"
+        },
+        {
+          "facet": "situation",
+          "label": "not selling enough"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 12
+      },
+      "quote": "If you are not selling enough, try our free diagnostic: https://lnkd.in/ecFAp_88",
+      "item_id": "linkedin-posts-2026-06-29-if-you-are-not-selling-md-e19d9b9cbc:0010-0012",
+      "source_id": "linkedin-posts-2026-06-29-if-you-are-not-selling-md-e19d9b9cbc",
+      "path": "linkedin/posts/2026-06-29-if-you-are-not-selling.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "How Salespeople Can Keep Their Jobs in the Age of AI",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI impact on sales roles"
+        },
+        {
+          "facet": "situation",
+          "label": "job security in the age of AI"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 13
+      },
+      "quote": "title: How Salespeople Can Keep Their Jobs in the Age of AI (When Many Sales Roles Won’t Survive) subtitle: Clive Miller link: https://www.linkedin.com/pulse/how-salespeople-can-keep-jobs-age-ai-when-many-sales-roles-miller-h5fie?trackingId=VayTKhztTQFVnCQzz6hQqA%3D%3D --- I've just finished an article offering some practical steps that salespeople can take to remain employed in the age of AI.",
+      "item_id": "linkedin-posts-2026-03-01-ive-just-finished-an-article-md-ffeb45964f:0008-0013",
+      "source_id": "linkedin-posts-2026-03-01-ive-just-finished-an-article-md-ffeb45964f",
+      "path": "linkedin/posts/2026-03-01-ive-just-finished-an-article.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The number one thing for most organisations is finding new business leads, new opportunities, and filling the pipeline",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "lead generation and pipeline management"
+        }
+      ],
+      "span": {
+        "start_line": 19,
+        "end_line": 20
+      },
+      "quote": "1. The number one thing for most organisations is finding new business leads, new opportunities, and filling the pipeline. That's why we get inundated by emails from people offering to do it for us.",
+      "item_id": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1:0019-0020",
+      "source_id": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1",
+      "path": "linkedin/posts/2026-11-06-had-a-great-time-on.md",
+      "prev": null,
+      "next": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1:0021-0022"
+    },
+    {
+      "title": "The challenge of a complex sale is this. It is like trying to get two herds of cats on the same page at the same time.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "complex sales"
+        },
+        {
+          "facet": "situation",
+          "label": "aligning multiple stakeholders in complex sales"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 22
+      },
+      "quote": "2. The challenge of a complex sale is this. It is like trying to get two herds of cats on the same page at the same time.",
+      "item_id": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1:0021-0022",
+      "source_id": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1",
+      "path": "linkedin/posts/2026-11-06-had-a-great-time-on.md",
+      "prev": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1:0019-0020",
+      "next": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1:0023-0029"
+    },
+    {
+      "title": "Sales is about helping people do what they want to do",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales mindset"
+        },
+        {
+          "facet": "topic",
+          "label": "buyer motivation"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 29
+      },
+      "quote": "3. Sales is about helping people do what they want to do. If that sounds odd. Why don't people do what they want to do anyway? How many of the people you know are doing exactly what they want to do? We also got into the role of AI in sales and the challenges of complex sales. Full conversation here: YouTube: https://lnkd.in/e_8SAE_Q Apple Podcasts: https://lnkd.in/eSFuhbyQ Spotify: https://lnkd.in/eXPkbX_E",
+      "item_id": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1:0023-0029",
+      "source_id": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1",
+      "path": "linkedin/posts/2026-11-06-had-a-great-time-on.md",
+      "prev": "linkedin-posts-2026-11-06-had-a-great-time-on-md-45cabcdba1:0021-0022",
+      "next": null
+    },
+    {
+      "title": "Asking for help from those we know well, have helped, and like us.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "asking for help"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 24,
+        "end_line": 25
+      },
+      "quote": "1. Asking for help from those we know well, have helped, and like us.",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0024-0025",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": null,
+      "next": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0026-0027"
+    },
+    {
+      "title": "Reviewing brand, CV, content, etc., to identify opportunities.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "brand and CV review"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 26,
+        "end_line": 27
+      },
+      "quote": "2. Reviewing brand, CV, content, etc., to identify opportunities.",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0026-0027",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0024-0025",
+      "next": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0028-0029"
+    },
+    {
+      "title": "Research to identify the few with an immediate need for what we offer.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "target research"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 29
+      },
+      "quote": "3. Research to identify the few with an immediate need for what we offer.",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0028-0029",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0026-0027",
+      "next": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0030-0031"
+    },
+    {
+      "title": "Brainstorming for missed opportunities - like the Acres of Diamonds story.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "brainstorming opportunities"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 30,
+        "end_line": 31
+      },
+      "quote": "4. Brainstorming for missed opportunities - like the Acres of Diamonds story.",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0030-0031",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0028-0029",
+      "next": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0032-0033"
+    },
+    {
+      "title": "Refreshing brand, CV, content, etc., to increase appeal.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "brand and CV refresh"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 33
+      },
+      "quote": "5. Refreshing brand, CV, content, etc., to increase appeal.",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0032-0033",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0030-0031",
+      "next": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0034-0035"
+    },
+    {
+      "title": "Structured forethought, planning, and preparation for taking the initiative.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "planning and preparation"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 34,
+        "end_line": 35
+      },
+      "quote": "6. Structured forethought, planning, and preparation for taking the initiative.",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0034-0035",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0032-0033",
+      "next": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0036-0037"
+    },
+    {
+      "title": "Interactive practice for better engagement.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "interactive practice"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 36,
+        "end_line": 37
+      },
+      "quote": "7. Interactive practice for better engagement.",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0036-0037",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0034-0035",
+      "next": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0038-0039"
+    },
+    {
+      "title": "How to stay top of mind as prospects consider their options.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "staying top of mind"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 38,
+        "end_line": 39
+      },
+      "quote": "8. How to stay top of mind as prospects consider their options.",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0038-0039",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0036-0037",
+      "next": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0040-0041"
+    },
+    {
+      "title": "Tools for staying in control and maintaining clarity through multiple campaigns and conversations.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "campaign management tools"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 41
+      },
+      "quote": "9. Tools for staying in control and maintaining clarity through multiple campaigns and conversations.",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0040-0041",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0038-0039",
+      "next": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0042-0046"
+    },
+    {
+      "title": "Drawing out and reinforcing learning.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "reinforcing learning"
+        },
+        {
+          "facet": "situation",
+          "label": "lost momentum"
+        }
+      ],
+      "span": {
+        "start_line": 42,
+        "end_line": 46
+      },
+      "quote": "10. Drawing out and reinforcing learning. So if you have a crisis to deal with, reach out to Nick and ask him to explain his ten-phase programme. www.peakthinking.co.uk",
+      "item_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0042-0046",
+      "source_id": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0",
+      "path": "linkedin/posts/2025-09-22-have-you-lost-momentum-we.md",
+      "prev": "linkedin-posts-2025-09-22-have-you-lost-momentum-we-md-5235a5b8c0:0040-0041",
+      "next": null
+    },
+    {
+      "title": "Cold open",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI sales bots"
+        }
+      ],
+      "span": {
+        "start_line": 51,
+        "end_line": 56
+      },
+      "quote": "Put it in writing and then they think they dont need you anymore Have you made your minds up yet Its trying to get two herds of cats on the same page at the same time You know people do business with people they like not with robots and so on The robots are coming I use ChatGPT every day and I quite enjoy engaging with them Ive had calls from AI salesbots I dont think its the end for humans Not quite Not yet",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0051-0056",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": null,
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0057-0060"
+    },
+    {
+      "title": "Intro",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "guest introduction"
+        }
+      ],
+      "span": {
+        "start_line": 57,
+        "end_line": 60
+      },
+      "quote": "So today Im sitting down remotely with Clive Miller the founder and managing partner at SalesSense Clive welcome Thank you Michlas and thanks for the opportunity I really appreciate the opportunity to talk about things I love",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0057-0060",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0051-0056",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0061-0064"
+    },
+    {
+      "title": "From Sun Microsystems And Silicon Graphics To SalesSense",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "career journey"
+        }
+      ],
+      "span": {
+        "start_line": 61,
+        "end_line": 64
+      },
+      "quote": "Amazing So you founded SalesSense A long while ago actually longer than Im alive after selling at Sun Microsystems and Silicon Graphics So um what was it about you know corporate sales and these complex sales is what you do right now that made you want to build your own thing Uh I I think well perhaps everybody wants to start their own business sometime or at least a lot of people do But for me it was at my first sales training course where I was being trained at something called K Training in 1",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0061-0064",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0057-0060",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0065-0072"
+    },
+    {
+      "title": "The Biggest Sales Struggle Is Filling The Pipeline",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "pipeline generation"
+        },
+        {
+          "facet": "situation",
+          "label": "finding new business leads"
+        }
+      ],
+      "span": {
+        "start_line": 65,
+        "end_line": 72
+      },
+      "quote": "And in terms of what you do today Whats kind of like the biggest struggle that you see people having around sales Well the number one thing for most organizations is finding new business leads new opportunities filling the pipeline Its the thing that most people struggle with Thats why we get inundated by emails from people offering to do it for us All businesses if you if you unless youve got very good spam controls you know you get endless emails from people offering to do your cold calling fo",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0065-0072",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0061-0064",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0073-0076"
+    },
+    {
+      "title": "Why A Complex Sale Is Project Management",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "complex B2B sales"
+        }
+      ],
+      "span": {
+        "start_line": 73,
+        "end_line": 76
+      },
+      "quote": "And if you look at how organizations usually handle these complex sales What do you think is kind of like the main bottleneck for most of them Uh treating it treating them more like sales and less like project management Its really um the challenge of a complex sale is trying to get 2 herds of cats on the same page at the same time And because youve got all you you its If its high value lets say a million pounds or half a million pounds or hundreds of thousands of pounds or even tens in some cas",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0073-0076",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0065-0072",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0077-0080"
+    },
+    {
+      "title": "The Three Rules For Aligning Every Stakeholder",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "CLEAR sales framework"
+        },
+        {
+          "facet": "situation",
+          "label": "aligning multiple stakeholders"
+        }
+      ],
+      "span": {
+        "start_line": 77,
+        "end_line": 80
+      },
+      "quote": "If there are multiple stakeholders in the deal how do you actually align them and keep them on the same page Well you have youve got to be able to contact youve got to be able to speak to a broad range of people within the customers organization That alone is sometimes a challenge Youll find that quite often somebodys appointed to be the interface for the potential vendors and that person maybe deliberately maybe not deliberately tends to try and channel the information through themselves wherea",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0077-0080",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0073-0076",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0081-0088"
+    },
+    {
+      "title": "The Four Levels Of Sales Qualification",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "deal qualification"
+        }
+      ],
+      "span": {
+        "start_line": 81,
+        "end_line": 88
+      },
+      "quote": "So one of the things that you have on your website is also the 4 levels of sales qualification Um and the the 4th level talks about quantifying the criteria Yeah thats thats the I think thats the 2nd level So the 1st level is prequalification Does it fit your ICP Do they fit your ICP The second level is quantified qualification The third level is historical conversion rates And the fourth level is the salesmans gut instinct So those are the 4 levels in the article Im sure youre referring to an a",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0081-0088",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0077-0080",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0089-0092"
+    },
+    {
+      "title": "Are Great Salespeople Born Or Made",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales motivation and skills"
+        }
+      ],
+      "span": {
+        "start_line": 89,
+        "end_line": 92
+      },
+      "quote": "What about kind of the never ending debate around that people are born with the sales capability What do you think about that and do you think its true There are people who are there are people who like talking to other people more than some do So some people hate talking to others and And others love it right And thats a good starting point You need to like talking to people to be good at selling You need to at some point become quite masterful of interpersonal communication skills right And un",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0089-0092",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0081-0088",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0093-0108"
+    },
+    {
+      "title": "AI SDRs And The Email Campaign That Works",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "AI sales automation"
+        },
+        {
+          "facet": "activity",
+          "label": "cold email campaigns"
+        }
+      ],
+      "span": {
+        "start_line": 93,
+        "end_line": 108
+      },
+      "quote": "How do you look at kind of the fast and easy Replacements that are coming up with the AI capabilities like the AI SDRs Im not sure if youve seen them or you probably got an email from them you know saying that they would you know AI cold call businesses and book meetings from you Like how do you look at that Because like Ive never seen it work just from the first Yeah Kind of principles of you know people do business with people they like not with robots and so on Whats your take Okay Its coming",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0093-0108",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0089-0092",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0109-0116"
+    },
+    {
+      "title": "Sales Training Is Discretionary Spending",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales training consulting"
+        },
+        {
+          "facet": "situation",
+          "label": "budget cuts in economic downturns"
+        }
+      ],
+      "span": {
+        "start_line": 109,
+        "end_line": 116
+      },
+      "quote": "Clive if you could go back to 1996 when you started the company and give yourself you know one kind of piece of business advice uh what would that be Yeah Uh retrain as a coder Um no I dont know Im I love the only reason Im still doing the main reason Im still doing what Im doing is because I love doing it Um you know helping people um do what they want to do The the um The advice the reason Im a bit skeptical about diving into a consultancy type training sales training type business is because ",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0109-0116",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0093-0108",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0117-0120"
+    },
+    {
+      "title": "Systemize Early, And What CRMs Are Really For",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "CRM utility and business systemization"
+        }
+      ],
+      "span": {
+        "start_line": 117,
+        "end_line": 120
+      },
+      "quote": "When you say systemizing what sort of things would you systemize earlier on Thats like cast myself back to 1996 and what would be the see there werent really any CRMs then even then The technology the internet was still early days I built a website and making information available Information it was all about getting stuff out there in the beginning You could sell any kind of old information data online back at the beginning Im not sure what I would do Im not sure I would even do it in the same ",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0117-0120",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0109-0116",
+      "next": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0121-0129"
+    },
+    {
+      "title": "Where To Find Clive Miller",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "SalesSense resources and books"
+        }
+      ],
+      "span": {
+        "start_line": 121,
+        "end_line": 129
+      },
+      "quote": "Today is different Um if people would like to find more about the stuff that you post about um whats the best place to find you Oh the website https salesensecouk with all Ss Thats salesensecouk Anybody who wants it can get a copy of one of my books which is called Sales Success Formula Yeah Its 40 odd pages Its not you know its not a thin lead magnet It is a lead magnet Because if youve got the book and you read it and think thats all good ideas youll find you dont have the resources to do it A",
+      "item_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0121-0129",
+      "source_id": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f",
+      "path": "youtube-guests/video/2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-clive-mil-T2RbB55I4e0.md",
+      "prev": "youtube-guests-video-2026-11-06-pitch-the-solution-early-and-they-stop-needing-you-cl-013840658f:0117-0120",
+      "next": null
+    }
+  ]
+}
