@@ -1,0 +1,5555 @@
+{
+  "activity": {
+    "executive-coaching": {
+      "id": "executive-coaching",
+      "preferred": "executive coaching",
+      "aliases": [
+        "executive coaching"
+      ],
+      "count": 18
+    },
+    "career-coaching": {
+      "id": "career-coaching",
+      "preferred": "career coaching",
+      "aliases": [
+        "career coaching"
+      ],
+      "count": 9
+    },
+    "leadership-coaching": {
+      "id": "leadership-coaching",
+      "preferred": "leadership coaching",
+      "aliases": [
+        "leadership coaching"
+      ],
+      "count": 8
+    },
+    "1-1-meeting": {
+      "id": "1-1-meeting",
+      "preferred": "1:1 meeting",
+      "aliases": [
+        "1:1 meeting"
+      ],
+      "count": 4
+    },
+    "setting-the-stage-before-meetings": {
+      "id": "setting-the-stage-before-meetings",
+      "preferred": "setting the stage before meetings",
+      "aliases": [
+        "setting the stage before meetings"
+      ],
+      "count": 3
+    },
+    "public-speaking": {
+      "id": "public-speaking",
+      "preferred": "public speaking",
+      "aliases": [
+        "public speaking"
+      ],
+      "count": 3
+    },
+    "meeting-preparation": {
+      "id": "meeting-preparation",
+      "preferred": "meeting preparation",
+      "aliases": [
+        "meeting preparation"
+      ],
+      "count": 3
+    },
+    "coaching": {
+      "id": "coaching",
+      "preferred": "coaching",
+      "aliases": [
+        "coaching"
+      ],
+      "count": 3
+    },
+    "pitching-ideas": {
+      "id": "pitching-ideas",
+      "preferred": "pitching ideas",
+      "aliases": [
+        "pitching ideas"
+      ],
+      "count": 3
+    },
+    "communication": {
+      "id": "communication",
+      "preferred": "communication",
+      "aliases": [
+        "communication"
+      ],
+      "count": 2
+    },
+    "performance-management": {
+      "id": "performance-management",
+      "preferred": "performance management",
+      "aliases": [
+        "performance management"
+      ],
+      "count": 2
+    },
+    "tracking-achievements": {
+      "id": "tracking-achievements",
+      "preferred": "tracking achievements",
+      "aliases": [
+        "tracking achievements"
+      ],
+      "count": 2
+    },
+    "masterclass": {
+      "id": "masterclass",
+      "preferred": "masterclass",
+      "aliases": [
+        "masterclass"
+      ],
+      "count": 2
+    },
+    "coffee-chats": {
+      "id": "coffee-chats",
+      "preferred": "coffee chats",
+      "aliases": [
+        "coffee chats"
+      ],
+      "count": 1
+    },
+    "sponsorship-request": {
+      "id": "sponsorship-request",
+      "preferred": "sponsorship request",
+      "aliases": [
+        "sponsorship request"
+      ],
+      "count": 1
+    },
+    "presentation-preparation": {
+      "id": "presentation-preparation",
+      "preferred": "presentation preparation",
+      "aliases": [
+        "presentation preparation"
+      ],
+      "count": 1
+    },
+    "career-planning": {
+      "id": "career-planning",
+      "preferred": "career planning",
+      "aliases": [
+        "career planning"
+      ],
+      "count": 1
+    },
+    "verbal-delivery": {
+      "id": "verbal-delivery",
+      "preferred": "verbal delivery",
+      "aliases": [
+        "verbal delivery"
+      ],
+      "count": 1
+    },
+    "work-journal-tracking": {
+      "id": "work-journal-tracking",
+      "preferred": "work journal tracking",
+      "aliases": [
+        "work journal tracking"
+      ],
+      "count": 1
+    },
+    "building-a-business-case": {
+      "id": "building-a-business-case",
+      "preferred": "building a business case",
+      "aliases": [
+        "building a business case"
+      ],
+      "count": 1
+    },
+    "strategic-conversation": {
+      "id": "strategic-conversation",
+      "preferred": "strategic conversation",
+      "aliases": [
+        "strategic conversation"
+      ],
+      "count": 1
+    },
+    "team-meetings": {
+      "id": "team-meetings",
+      "preferred": "team meetings",
+      "aliases": [
+        "team meetings"
+      ],
+      "count": 1
+    },
+    "career-leverage-building": {
+      "id": "career-leverage-building",
+      "preferred": "career leverage building",
+      "aliases": [
+        "career leverage building"
+      ],
+      "count": 1
+    },
+    "stakeholder-communication": {
+      "id": "stakeholder-communication",
+      "preferred": "stakeholder communication",
+      "aliases": [
+        "stakeholder communication"
+      ],
+      "count": 1
+    },
+    "tracking-results": {
+      "id": "tracking-results",
+      "preferred": "tracking results",
+      "aliases": [
+        "tracking results"
+      ],
+      "count": 1
+    },
+    "business-meetings": {
+      "id": "business-meetings",
+      "preferred": "business meetings",
+      "aliases": [
+        "business meetings"
+      ],
+      "count": 1
+    },
+    "career-conversations": {
+      "id": "career-conversations",
+      "preferred": "career conversations",
+      "aliases": [
+        "career conversations"
+      ],
+      "count": 1
+    },
+    "direct-conversation-script": {
+      "id": "direct-conversation-script",
+      "preferred": "direct conversation script",
+      "aliases": [
+        "direct conversation script"
+      ],
+      "count": 1
+    },
+    "weekly-work-journal": {
+      "id": "weekly-work-journal",
+      "preferred": "weekly work journal",
+      "aliases": [
+        "weekly work journal"
+      ],
+      "count": 1
+    },
+    "status-reporting": {
+      "id": "status-reporting",
+      "preferred": "status reporting",
+      "aliases": [
+        "status reporting"
+      ],
+      "count": 1
+    },
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 1
+    },
+    "leadership-communication": {
+      "id": "leadership-communication",
+      "preferred": "leadership communication",
+      "aliases": [
+        "leadership communication"
+      ],
+      "count": 1
+    },
+    "presenting-to-senior-leadership": {
+      "id": "presenting-to-senior-leadership",
+      "preferred": "presenting to senior leadership",
+      "aliases": [
+        "presenting to senior leadership"
+      ],
+      "count": 1
+    },
+    "manager-1-on-1": {
+      "id": "manager-1-on-1",
+      "preferred": "manager 1-on-1",
+      "aliases": [
+        "manager 1-on-1"
+      ],
+      "count": 1
+    },
+    "promotion-conversation": {
+      "id": "promotion-conversation",
+      "preferred": "promotion conversation",
+      "aliases": [
+        "promotion conversation"
+      ],
+      "count": 1
+    },
+    "cross-company-initiative-volunteering": {
+      "id": "cross-company-initiative-volunteering",
+      "preferred": "cross-company initiative volunteering",
+      "aliases": [
+        "cross-company initiative volunteering"
+      ],
+      "count": 1
+    },
+    "networking-and-professional-development-event": {
+      "id": "networking-and-professional-development-event",
+      "preferred": "networking and professional development event",
+      "aliases": [
+        "networking and professional development event"
+      ],
+      "count": 1
+    },
+    "interviewing-for-external-roles": {
+      "id": "interviewing-for-external-roles",
+      "preferred": "interviewing for external roles",
+      "aliases": [
+        "interviewing for external roles"
+      ],
+      "count": 1
+    },
+    "communicating-recommendations": {
+      "id": "communicating-recommendations",
+      "preferred": "communicating recommendations",
+      "aliases": [
+        "communicating recommendations"
+      ],
+      "count": 1
+    },
+    "manager-conversation": {
+      "id": "manager-conversation",
+      "preferred": "manager conversation",
+      "aliases": [
+        "manager conversation"
+      ],
+      "count": 1
+    },
+    "self-reflection": {
+      "id": "self-reflection",
+      "preferred": "self-reflection",
+      "aliases": [
+        "self-reflection"
+      ],
+      "count": 1
+    },
+    "internal-networking": {
+      "id": "internal-networking",
+      "preferred": "internal networking",
+      "aliases": [
+        "internal networking"
+      ],
+      "count": 1
+    },
+    "calendar-confirmation": {
+      "id": "calendar-confirmation",
+      "preferred": "calendar confirmation",
+      "aliases": [
+        "calendar confirmation"
+      ],
+      "count": 1
+    },
+    "leadership-program": {
+      "id": "leadership-program",
+      "preferred": "leadership program",
+      "aliases": [
+        "leadership program"
+      ],
+      "count": 1
+    },
+    "booking-a-consultation": {
+      "id": "booking-a-consultation",
+      "preferred": "booking a consultation",
+      "aliases": [
+        "booking a consultation"
+      ],
+      "count": 1
+    },
+    "event-onboarding": {
+      "id": "event-onboarding",
+      "preferred": "event onboarding",
+      "aliases": [
+        "event onboarding"
+      ],
+      "count": 1
+    },
+    "leadership-training": {
+      "id": "leadership-training",
+      "preferred": "leadership training",
+      "aliases": [
+        "leadership training"
+      ],
+      "count": 1
+    },
+    "newsletter-onboarding": {
+      "id": "newsletter-onboarding",
+      "preferred": "newsletter onboarding",
+      "aliases": [
+        "newsletter onboarding"
+      ],
+      "count": 1
+    },
+    "corporate-workshops": {
+      "id": "corporate-workshops",
+      "preferred": "corporate workshops",
+      "aliases": [
+        "corporate workshops"
+      ],
+      "count": 1
+    },
+    "strategy-consultation-call": {
+      "id": "strategy-consultation-call",
+      "preferred": "strategy consultation call",
+      "aliases": [
+        "strategy consultation call"
+      ],
+      "count": 1
+    },
+    "podcast-interview": {
+      "id": "podcast-interview",
+      "preferred": "podcast interview",
+      "aliases": [
+        "podcast interview"
+      ],
+      "count": 1
+    },
+    "career-self-reflection": {
+      "id": "career-self-reflection",
+      "preferred": "career self-reflection",
+      "aliases": [
+        "career self-reflection"
+      ],
+      "count": 1
+    },
+    "promotional-offer": {
+      "id": "promotional-offer",
+      "preferred": "promotional offer",
+      "aliases": [
+        "promotional offer"
+      ],
+      "count": 1
+    }
+  },
+  "situation": {
+    "passed-over-for-promotion": {
+      "id": "passed-over-for-promotion",
+      "preferred": "passed over for promotion",
+      "aliases": [
+        "being overlooked for promotion",
+        "delivering great results but getting passed over for promotion",
+        "delivering results but overlooked for promotion",
+        "feeling overlooked for promotions",
+        "getting passed over despite strong performance",
+        "getting passed over for promotion despite high performance",
+        "high performer feeling overlooked",
+        "missed promotion despite high performance",
+        "overlooked for career advancement",
+        "overlooked for promotion",
+        "overlooked for promotion despite delivering real results",
+        "overlooked for promotion despite delivering results",
+        "overlooked for promotion despite high competence",
+        "overlooked for promotion despite high performance",
+        "overlooked for promotion despite strong performance",
+        "passed over for promotion",
+        "passed over for promotion despite strong performance",
+        "passed over for promotions"
+      ],
+      "count": 32
+    },
+    "working-hard-without-getting-promoted": {
+      "id": "working-hard-without-getting-promoted",
+      "preferred": "working hard without getting promoted",
+      "aliases": [
+        "career ceiling",
+        "career progression stalled despite hard work",
+        "hard work not leading to promotion",
+        "hitting an invisible ceiling despite working hard",
+        "overworking without career progression",
+        "overworking without getting promoted",
+        "working hard but stuck in the same role",
+        "working hard without getting promoted"
+      ],
+      "count": 12
+    },
+    "stuck-in-role-despite-high-performance": {
+      "id": "stuck-in-role-despite-high-performance",
+      "preferred": "stuck in role despite high performance",
+      "aliases": [
+        "feeling stagnant despite high performance",
+        "hitting career ceiling despite strong performance",
+        "lack of career growth despite high performance",
+        "stalled career despite strong performance",
+        "stuck at a career plateau despite delivering results",
+        "stuck at career plateau despite delivering results",
+        "stuck at same title and pay despite strong performance",
+        "stuck in role despite high performance",
+        "stuck on career plateau despite delivering results"
+      ],
+      "count": 10
+    },
+    "waiting-for-promotion": {
+      "id": "waiting-for-promotion",
+      "preferred": "waiting for promotion",
+      "aliases": [
+        "stuck waiting for promotions",
+        "waiting for promotion",
+        "waiting to be promoted"
+      ],
+      "count": 7
+    },
+    "someone-talks-down-to-you-at-work": {
+      "id": "someone-talks-down-to-you-at-work",
+      "preferred": "someone talks down to you at work",
+      "aliases": [
+        "someone talks down to you at work"
+      ],
+      "count": 6
+    },
+    "boss-doesn-t-recognize-your-value": {
+      "id": "boss-doesn-t-recognize-your-value",
+      "preferred": "boss doesn't recognize your value",
+      "aliases": [
+        "boss doesn't recognize your value"
+      ],
+      "count": 6
+    },
+    "working-toward-next-promotion": {
+      "id": "working-toward-next-promotion",
+      "preferred": "working toward next promotion",
+      "aliases": [
+        "working toward next promotion"
+      ],
+      "count": 6
+    },
+    "seeking-promotion": {
+      "id": "seeking-promotion",
+      "preferred": "seeking promotion",
+      "aliases": [
+        "seeking a promotion",
+        "seeking promotion"
+      ],
+      "count": 6
+    },
+    "transitioning-from-individual-contributor-to-leader": {
+      "id": "transitioning-from-individual-contributor-to-leader",
+      "preferred": "transitioning from individual contributor to leader",
+      "aliases": [
+        "moving from individual contributor to people leader",
+        "transitioning from individual contributor to leader",
+        "transitioning from individual contributor to manager"
+      ],
+      "count": 6
+    },
+    "making-a-mistake-at-work": {
+      "id": "making-a-mistake-at-work",
+      "preferred": "making a mistake at work",
+      "aliases": [
+        "making a mistake at work"
+      ],
+      "count": 5
+    },
+    "returning-from-maternity-leave": {
+      "id": "returning-from-maternity-leave",
+      "preferred": "returning from maternity leave",
+      "aliases": [
+        "returning from maternity leave"
+      ],
+      "count": 5
+    },
+    "outgrowing-a-role": {
+      "id": "outgrowing-a-role",
+      "preferred": "outgrowing a role",
+      "aliases": [
+        "outgrowing a current comfortable role",
+        "outgrowing a role",
+        "outgrowing an established role after long tenure",
+        "outgrowing your role"
+      ],
+      "count": 5
+    },
+    "doing-great-work-but-being-overlooked-for-promotions": {
+      "id": "doing-great-work-but-being-overlooked-for-promotions",
+      "preferred": "doing great work but being overlooked for promotions",
+      "aliases": [
+        "doing everything right but not getting promoted",
+        "doing good work without getting promoted",
+        "doing great work but being overlooked for promotions",
+        "doing great work without getting recognition or promotion",
+        "effort stops being the lever for promotions"
+      ],
+      "count": 5
+    },
+    "manager-isn-t-advocating-for-you": {
+      "id": "manager-isn-t-advocating-for-you",
+      "preferred": "manager isn't advocating for you",
+      "aliases": [
+        "manager isn't advocating for you"
+      ],
+      "count": 4
+    },
+    "preparing-for-a-next-level-promotion": {
+      "id": "preparing-for-a-next-level-promotion",
+      "preferred": "preparing for a next-level promotion",
+      "aliases": [
+        "preparing for a next-level promotion",
+        "preparing for career advancement"
+      ],
+      "count": 4
+    },
+    "presenting-to-leadership-team": {
+      "id": "presenting-to-leadership-team",
+      "preferred": "presenting to leadership team",
+      "aliases": [
+        "presenting to leadership team",
+        "presenting to senior leaders"
+      ],
+      "count": 4
+    },
+    "prioritizing-busyness-over-strategic-growth": {
+      "id": "prioritizing-busyness-over-strategic-growth",
+      "preferred": "prioritizing busyness over strategic growth",
+      "aliases": [
+        "prioritizing busyness over strategic growth",
+        "prioritizing day-to-day work over career growth"
+      ],
+      "count": 4
+    },
+    "networking-anxiety": {
+      "id": "networking-anxiety",
+      "preferred": "networking anxiety",
+      "aliases": [
+        "feeling awkward about networking",
+        "networking anxiety"
+      ],
+      "count": 4
+    },
+    "feeling-guilty-for-wanting-more-career-growth": {
+      "id": "feeling-guilty-for-wanting-more-career-growth",
+      "preferred": "feeling guilty for wanting more career growth",
+      "aliases": [
+        "feeling guilty about changing ambition",
+        "feeling guilty for wanting more career growth",
+        "feeling guilty for wanting more success"
+      ],
+      "count": 4
+    },
+    "feeling-stuck-in-career": {
+      "id": "feeling-stuck-in-career",
+      "preferred": "feeling stuck in career",
+      "aliases": [
+        "feeling stagnant in career",
+        "feeling stuck in career",
+        "professionals feeling stuck in their careers"
+      ],
+      "count": 4
+    },
+    "high-pressure-situations": {
+      "id": "high-pressure-situations",
+      "preferred": "high-pressure situations",
+      "aliases": [
+        "high-pressure situations"
+      ],
+      "count": 3
+    },
+    "preparing-for-senior-director-promotion": {
+      "id": "preparing-for-senior-director-promotion",
+      "preferred": "preparing for senior director promotion",
+      "aliases": [
+        "preparing for senior director promotion"
+      ],
+      "count": 3
+    },
+    "playing-small-to-support-senior-colleagues": {
+      "id": "playing-small-to-support-senior-colleagues",
+      "preferred": "playing small to support senior colleagues",
+      "aliases": [
+        "playing small to support senior colleagues"
+      ],
+      "count": 3
+    },
+    "underpaid-compared-to-peers": {
+      "id": "underpaid-compared-to-peers",
+      "preferred": "underpaid compared to peers",
+      "aliases": [
+        "underpaid compared to peers"
+      ],
+      "count": 3
+    },
+    "working-hard-for-next-promotion": {
+      "id": "working-hard-for-next-promotion",
+      "preferred": "working hard for next promotion",
+      "aliases": [
+        "working hard for next promotion"
+      ],
+      "count": 3
+    },
+    "stepping-into-leadership": {
+      "id": "stepping-into-leadership",
+      "preferred": "stepping into leadership",
+      "aliases": [
+        "stepping into leadership"
+      ],
+      "count": 3
+    },
+    "advocating-without-bragging": {
+      "id": "advocating-without-bragging",
+      "preferred": "advocating without bragging",
+      "aliases": [
+        "advocating without bragging"
+      ],
+      "count": 3
+    },
+    "prepares-for-vp-promotion": {
+      "id": "prepares-for-vp-promotion",
+      "preferred": "prepares for VP promotion",
+      "aliases": [
+        "prepares for VP promotion"
+      ],
+      "count": 3
+    },
+    "asking-for-a-promotion": {
+      "id": "asking-for-a-promotion",
+      "preferred": "asking for a promotion",
+      "aliases": [
+        "asking for a promotion"
+      ],
+      "count": 3
+    },
+    "being-overlooked-for-opportunities": {
+      "id": "being-overlooked-for-opportunities",
+      "preferred": "being overlooked for opportunities",
+      "aliases": [
+        "being overlooked for opportunities"
+      ],
+      "count": 3
+    },
+    "high-stakes-conversation": {
+      "id": "high-stakes-conversation",
+      "preferred": "high stakes conversation",
+      "aliases": [
+        "high stakes conversation"
+      ],
+      "count": 3
+    },
+    "waiting-for-a-promotion-to-lead": {
+      "id": "waiting-for-a-promotion-to-lead",
+      "preferred": "waiting for a promotion to lead",
+      "aliases": [
+        "waiting for a promotion to lead",
+        "waiting for promotion before acting senior"
+      ],
+      "count": 3
+    },
+    "unrecognized-high-performer": {
+      "id": "unrecognized-high-performer",
+      "preferred": "unrecognized high performer",
+      "aliases": [
+        "high performer not getting promoted or recognized",
+        "unrecognized high performer"
+      ],
+      "count": 3
+    },
+    "feeling-pressured-to-reply-instantly": {
+      "id": "feeling-pressured-to-reply-instantly",
+      "preferred": "feeling pressured to reply instantly",
+      "aliases": [
+        "feeling obligated to reply immediately",
+        "feeling pressured to reply instantly",
+        "feeling pressured to respond immediately"
+      ],
+      "count": 3
+    },
+    "top-performers-pressured-into-management": {
+      "id": "top-performers-pressured-into-management",
+      "preferred": "top performers pressured into management",
+      "aliases": [
+        "high performers pushed into management roles",
+        "promoting high performers without leadership training",
+        "top performers pressured into management"
+      ],
+      "count": 3
+    },
+    "team-interactions": {
+      "id": "team-interactions",
+      "preferred": "team interactions",
+      "aliases": [
+        "team interactions"
+      ],
+      "count": 2
+    },
+    "feeling-awkward-in-meetings": {
+      "id": "feeling-awkward-in-meetings",
+      "preferred": "feeling awkward in meetings",
+      "aliases": [
+        "feeling awkward in meetings"
+      ],
+      "count": 2
+    },
+    "toxic-boss-taking-credit": {
+      "id": "toxic-boss-taking-credit",
+      "preferred": "toxic boss taking credit",
+      "aliases": [
+        "toxic boss taking credit"
+      ],
+      "count": 2
+    },
+    "seeking-promotion-to-managing-director": {
+      "id": "seeking-promotion-to-managing-director",
+      "preferred": "seeking promotion to Managing Director",
+      "aliases": [
+        "seeking promotion to Managing Director"
+      ],
+      "count": 2
+    },
+    "busywork-preventing-career-growth": {
+      "id": "busywork-preventing-career-growth",
+      "preferred": "busywork preventing career growth",
+      "aliases": [
+        "busywork preventing career growth"
+      ],
+      "count": 2
+    },
+    "starting-a-new-role": {
+      "id": "starting-a-new-role",
+      "preferred": "starting a new role",
+      "aliases": [
+        "starting a new role"
+      ],
+      "count": 2
+    },
+    "underpaid-despite-high-performance": {
+      "id": "underpaid-despite-high-performance",
+      "preferred": "underpaid despite high performance",
+      "aliases": [
+        "underpaid despite high performance"
+      ],
+      "count": 2
+    },
+    "inconsistent-team-results": {
+      "id": "inconsistent-team-results",
+      "preferred": "inconsistent team results",
+      "aliases": [
+        "inconsistent team results"
+      ],
+      "count": 2
+    },
+    "navigating-office-politics": {
+      "id": "navigating-office-politics",
+      "preferred": "navigating office politics",
+      "aliases": [
+        "navigating office politics"
+      ],
+      "count": 2
+    },
+    "tying-self-worth-to-productivity": {
+      "id": "tying-self-worth-to-productivity",
+      "preferred": "tying self-worth to productivity",
+      "aliases": [
+        "tying self-worth to productivity"
+      ],
+      "count": 2
+    },
+    "career-stagnation": {
+      "id": "career-stagnation",
+      "preferred": "career stagnation",
+      "aliases": [
+        "career stagnation"
+      ],
+      "count": 2
+    },
+    "high-stakes-meetings": {
+      "id": "high-stakes-meetings",
+      "preferred": "high-stakes meetings",
+      "aliases": [
+        "high-stakes meetings"
+      ],
+      "count": 2
+    },
+    "navigating-workplace-relationships": {
+      "id": "navigating-workplace-relationships",
+      "preferred": "navigating workplace relationships",
+      "aliases": [
+        "navigating workplace relationships"
+      ],
+      "count": 2
+    },
+    "stepping-into-people-leadership": {
+      "id": "stepping-into-people-leadership",
+      "preferred": "stepping into people leadership",
+      "aliases": [
+        "stepping into people leadership"
+      ],
+      "count": 2
+    },
+    "high-pressure-environments": {
+      "id": "high-pressure-environments",
+      "preferred": "high-pressure environments",
+      "aliases": [
+        "high-pressure environments"
+      ],
+      "count": 2
+    },
+    "preparing-for-promotion": {
+      "id": "preparing-for-promotion",
+      "preferred": "preparing for promotion",
+      "aliases": [
+        "preparing for promotion"
+      ],
+      "count": 2
+    },
+    "colleague-conflict": {
+      "id": "colleague-conflict",
+      "preferred": "colleague conflict",
+      "aliases": [
+        "colleague conflict"
+      ],
+      "count": 2
+    },
+    "feeling-out-of-place-at-work": {
+      "id": "feeling-out-of-place-at-work",
+      "preferred": "feeling out of place at work",
+      "aliases": [
+        "feeling like a square peg in a round hole at work",
+        "feeling out of place at work"
+      ],
+      "count": 2
+    },
+    "hesitating-to-speak-up-without-100-certainty": {
+      "id": "hesitating-to-speak-up-without-100-certainty",
+      "preferred": "hesitating to speak up without 100% certainty",
+      "aliases": [
+        "hesitating to speak from fear of being wrong",
+        "hesitating to speak up without 100% certainty"
+      ],
+      "count": 2
+    },
+    "outgrowing-current-career-level": {
+      "id": "outgrowing-current-career-level",
+      "preferred": "outgrowing current career level",
+      "aliases": [
+        "outgrowing current career level",
+        "outgrowing current career stage"
+      ],
+      "count": 2
+    },
+    "second-guessing-career-moves": {
+      "id": "second-guessing-career-moves",
+      "preferred": "second-guessing career moves",
+      "aliases": [
+        "second-guessing career decisions",
+        "second-guessing career moves"
+      ],
+      "count": 2
+    },
+    "spinning-your-wheels-despite-following-advice": {
+      "id": "spinning-your-wheels-despite-following-advice",
+      "preferred": "spinning your wheels despite following advice",
+      "aliases": [
+        "spinning wheels despite following generic advice",
+        "spinning your wheels despite following advice"
+      ],
+      "count": 2
+    },
+    "feeling-self-doubt-at-work-due-to-lack-of-support": {
+      "id": "feeling-self-doubt-at-work-due-to-lack-of-support",
+      "preferred": "feeling self-doubt at work due to lack of support",
+      "aliases": [
+        "feeling self-doubt at work due to lack of support",
+        "questioning self-worth due to unsupportive work environment"
+      ],
+      "count": 2
+    },
+    "trusting-colleagues-who-prioritize-their-own-agenda": {
+      "id": "trusting-colleagues-who-prioritize-their-own-agenda",
+      "preferred": "trusting colleagues who prioritize their own agenda",
+      "aliases": [
+        "trusting colleagues who prioritize self-interest",
+        "trusting colleagues who prioritize their own agenda"
+      ],
+      "count": 2
+    },
+    "burnt-out-from-invisible-work-and-unpromoted-overperformance": {
+      "id": "burnt-out-from-invisible-work-and-unpromoted-overperformance",
+      "preferred": "burnt out from invisible work and unpromoted overperformance",
+      "aliases": [
+        "burnt out from invisible work and unpromoted overperformance",
+        "overwhelmed by invisible work without getting promoted"
+      ],
+      "count": 2
+    },
+    "feeling-stagnant": {
+      "id": "feeling-stagnant",
+      "preferred": "feeling stagnant",
+      "aliases": [
+        "feeling stagnant",
+        "feeling stuck in career progression"
+      ],
+      "count": 2
+    },
+    "seeking-promotion-or-visibility": {
+      "id": "seeking-promotion-or-visibility",
+      "preferred": "seeking promotion or visibility",
+      "aliases": [
+        "seeking career advancement and executive visibility",
+        "seeking promotion or visibility"
+      ],
+      "count": 2
+    },
+    "seeking-promotion-and-raise": {
+      "id": "seeking-promotion-and-raise",
+      "preferred": "seeking promotion and raise",
+      "aliases": [
+        "asking for a promotion or raise",
+        "seeking promotion and raise"
+      ],
+      "count": 2
+    },
+    "talking-oneself-out-of-high-visibility-projects": {
+      "id": "talking-oneself-out-of-high-visibility-projects",
+      "preferred": "talking oneself out of high-visibility projects",
+      "aliases": [
+        "talking oneself out of high-visibility projects",
+        "talking yourself out of applying for a high-visibility project"
+      ],
+      "count": 2
+    },
+    "comparing-yourself-to-others-in-corporate": {
+      "id": "comparing-yourself-to-others-in-corporate",
+      "preferred": "comparing yourself to others in corporate",
+      "aliases": [
+        "comparing yourself to colleagues",
+        "comparing yourself to others in corporate"
+      ],
+      "count": 2
+    },
+    "high-performer-stalled-mid-career": {
+      "id": "high-performer-stalled-mid-career",
+      "preferred": "high performer stalled mid-career",
+      "aliases": [
+        "high performer stalled mid-career",
+        "high performers stalling mid-career"
+      ],
+      "count": 2
+    },
+    "high-performers-becoming-quiet-and-pulling-back": {
+      "id": "high-performers-becoming-quiet-and-pulling-back",
+      "preferred": "high performers becoming quiet and pulling back",
+      "aliases": [
+        "high performers becoming quiet and pulling back",
+        "high performers quietly disengaging"
+      ],
+      "count": 2
+    },
+    "meeting-anxiety-for-introverts": {
+      "id": "meeting-anxiety-for-introverts",
+      "preferred": "meeting anxiety for introverts",
+      "aliases": [
+        "meeting anxiety for introverts"
+      ],
+      "count": 1
+    },
+    "promoted-without-support-or-guidance": {
+      "id": "promoted-without-support-or-guidance",
+      "preferred": "promoted without support or guidance",
+      "aliases": [
+        "promoted without support or guidance"
+      ],
+      "count": 1
+    },
+    "receiving-feedback-on-workplace-behavior": {
+      "id": "receiving-feedback-on-workplace-behavior",
+      "preferred": "receiving feedback on workplace behavior",
+      "aliases": [
+        "receiving feedback on workplace behavior"
+      ],
+      "count": 1
+    },
+    "stepping-into-what-s-next": {
+      "id": "stepping-into-what-s-next",
+      "preferred": "stepping into what's next",
+      "aliases": [
+        "stepping into what's next"
+      ],
+      "count": 1
+    },
+    "career-stagnation-after-maternity-leave": {
+      "id": "career-stagnation-after-maternity-leave",
+      "preferred": "career stagnation after maternity leave",
+      "aliases": [
+        "career stagnation after maternity leave"
+      ],
+      "count": 1
+    },
+    "old-high-performer-strategies-stop-working": {
+      "id": "old-high-performer-strategies-stop-working",
+      "preferred": "old high-performer strategies stop working",
+      "aliases": [
+        "old high-performer strategies stop working"
+      ],
+      "count": 1
+    },
+    "stagnating-in-the-same-role-due-to-loyalty": {
+      "id": "stagnating-in-the-same-role-due-to-loyalty",
+      "preferred": "stagnating in the same role due to loyalty",
+      "aliases": [
+        "stagnating in the same role due to loyalty"
+      ],
+      "count": 1
+    },
+    "labeled-high-performer-low-potential-with-no-clear-feedback": {
+      "id": "labeled-high-performer-low-potential-with-no-clear-feedback",
+      "preferred": "labeled high performer low potential with no clear feedback",
+      "aliases": [
+        "labeled high performer low potential with no clear feedback"
+      ],
+      "count": 1
+    },
+    "feeling-stuck-in-a-career": {
+      "id": "feeling-stuck-in-a-career",
+      "preferred": "feeling stuck in a career",
+      "aliases": [
+        "feeling stuck in a career"
+      ],
+      "count": 1
+    },
+    "deciding-who-gets-a-people-leader-title": {
+      "id": "deciding-who-gets-a-people-leader-title",
+      "preferred": "deciding who gets a people-leader title",
+      "aliases": [
+        "deciding who gets a people-leader title"
+      ],
+      "count": 1
+    },
+    "seeking-promotion-or-career-advancement-despite-qualificatio": {
+      "id": "seeking-promotion-or-career-advancement-despite-qualificatio",
+      "preferred": "seeking promotion or career advancement despite qualifications",
+      "aliases": [
+        "seeking promotion or career advancement despite qualifications"
+      ],
+      "count": 1
+    },
+    "measuring-value-by-output-rather-than-impact": {
+      "id": "measuring-value-by-output-rather-than-impact",
+      "preferred": "measuring value by output rather than impact",
+      "aliases": [
+        "measuring value by output rather than impact"
+      ],
+      "count": 1
+    },
+    "feeling-unchallenged-despite-high-performance": {
+      "id": "feeling-unchallenged-despite-high-performance",
+      "preferred": "feeling unchallenged despite high performance",
+      "aliases": [
+        "feeling unchallenged despite high performance"
+      ],
+      "count": 1
+    },
+    "networking-for-career-growth": {
+      "id": "networking-for-career-growth",
+      "preferred": "networking for career growth",
+      "aliases": [
+        "networking for career growth"
+      ],
+      "count": 1
+    },
+    "hesitating-to-speak-in-meetings": {
+      "id": "hesitating-to-speak-in-meetings",
+      "preferred": "hesitating to speak in meetings",
+      "aliases": [
+        "hesitating to speak in meetings"
+      ],
+      "count": 1
+    },
+    "sounding-unconfident-in-meetings": {
+      "id": "sounding-unconfident-in-meetings",
+      "preferred": "sounding unconfident in meetings",
+      "aliases": [
+        "sounding unconfident in meetings"
+      ],
+      "count": 1
+    },
+    "disagreeing-with-company-leadership-direction-without-blowin": {
+      "id": "disagreeing-with-company-leadership-direction-without-blowin",
+      "preferred": "disagreeing with company leadership direction without blowing up career",
+      "aliases": [
+        "disagreeing with company leadership direction without blowing up career"
+      ],
+      "count": 1
+    },
+    "high-performer-burnout": {
+      "id": "high-performer-burnout",
+      "preferred": "high performer burnout",
+      "aliases": [
+        "high performer burnout"
+      ],
+      "count": 1
+    },
+    "performing-well-but-not-advancing": {
+      "id": "performing-well-but-not-advancing",
+      "preferred": "performing well but not advancing",
+      "aliases": [
+        "performing well but not advancing"
+      ],
+      "count": 1
+    },
+    "fearing-feedback-makes-you-look-insecure": {
+      "id": "fearing-feedback-makes-you-look-insecure",
+      "preferred": "fearing feedback makes you look insecure",
+      "aliases": [
+        "fearing feedback makes you look insecure"
+      ],
+      "count": 1
+    },
+    "hesitation-in-key-meetings": {
+      "id": "hesitation-in-key-meetings",
+      "preferred": "hesitation in key meetings",
+      "aliases": [
+        "hesitation in key meetings"
+      ],
+      "count": 1
+    },
+    "feeling-behind-or-missing-the-window-for-growth": {
+      "id": "feeling-behind-or-missing-the-window-for-growth",
+      "preferred": "feeling behind or missing the window for growth",
+      "aliases": [
+        "feeling behind or missing the window for growth"
+      ],
+      "count": 1
+    },
+    "staying-quiet-to-keep-the-peace": {
+      "id": "staying-quiet-to-keep-the-peace",
+      "preferred": "staying quiet to keep the peace",
+      "aliases": [
+        "staying quiet to keep the peace"
+      ],
+      "count": 1
+    },
+    "passed-over-for-opportunities-despite-mentoring-and-reliable": {
+      "id": "passed-over-for-opportunities-despite-mentoring-and-reliable",
+      "preferred": "passed over for opportunities despite mentoring and reliable work",
+      "aliases": [
+        "passed over for opportunities despite mentoring and reliable work"
+      ],
+      "count": 1
+    },
+    "navigating-uncertainty": {
+      "id": "navigating-uncertainty",
+      "preferred": "navigating uncertainty",
+      "aliases": [
+        "navigating uncertainty"
+      ],
+      "count": 1
+    },
+    "doubting-yourself-as-an-executive": {
+      "id": "doubting-yourself-as-an-executive",
+      "preferred": "doubting yourself as an executive",
+      "aliases": [
+        "doubting yourself as an executive"
+      ],
+      "count": 1
+    },
+    "overcoming-mediocre-leadership-practices": {
+      "id": "overcoming-mediocre-leadership-practices",
+      "preferred": "overcoming mediocre leadership practices",
+      "aliases": [
+        "overcoming mediocre leadership practices"
+      ],
+      "count": 1
+    },
+    "making-time-for-leadership-development": {
+      "id": "making-time-for-leadership-development",
+      "preferred": "making time for leadership development",
+      "aliases": [
+        "making time for leadership development"
+      ],
+      "count": 1
+    },
+    "advancing-to-leadership": {
+      "id": "advancing-to-leadership",
+      "preferred": "advancing to leadership",
+      "aliases": [
+        "advancing to leadership"
+      ],
+      "count": 1
+    },
+    "feedback-isn-t-landing-or-being-acted-upon": {
+      "id": "feedback-isn-t-landing-or-being-acted-upon",
+      "preferred": "feedback isn't landing or being acted upon",
+      "aliases": [
+        "feedback isn't landing or being acted upon"
+      ],
+      "count": 1
+    },
+    "giving-feedback": {
+      "id": "giving-feedback",
+      "preferred": "giving feedback",
+      "aliases": [
+        "giving feedback"
+      ],
+      "count": 1
+    },
+    "self-doubt": {
+      "id": "self-doubt",
+      "preferred": "self-doubt",
+      "aliases": [
+        "self-doubt"
+      ],
+      "count": 1
+    },
+    "facing-fear-and-imposter-syndrome-during-career-growth": {
+      "id": "facing-fear-and-imposter-syndrome-during-career-growth",
+      "preferred": "facing fear and imposter syndrome during career growth",
+      "aliases": [
+        "facing fear and imposter syndrome during career growth"
+      ],
+      "count": 1
+    },
+    "career-progression-beyond-performance": {
+      "id": "career-progression-beyond-performance",
+      "preferred": "career progression beyond performance",
+      "aliases": [
+        "career progression beyond performance"
+      ],
+      "count": 1
+    },
+    "overlooked-for-promotion-while-keeping-everything-running": {
+      "id": "overlooked-for-promotion-while-keeping-everything-running",
+      "preferred": "overlooked for promotion while keeping everything running",
+      "aliases": [
+        "overlooked for promotion while keeping everything running"
+      ],
+      "count": 1
+    },
+    "experiencing-mistakes-as-a-leader": {
+      "id": "experiencing-mistakes-as-a-leader",
+      "preferred": "experiencing mistakes as a leader",
+      "aliases": [
+        "experiencing mistakes as a leader"
+      ],
+      "count": 1
+    },
+    "waiting-for-permission-to-lead": {
+      "id": "waiting-for-permission-to-lead",
+      "preferred": "waiting for permission to lead",
+      "aliases": [
+        "waiting for permission to lead"
+      ],
+      "count": 1
+    },
+    "preventing-burnout-and-protecting-calendar": {
+      "id": "preventing-burnout-and-protecting-calendar",
+      "preferred": "preventing burnout and protecting calendar",
+      "aliases": [
+        "preventing burnout and protecting calendar"
+      ],
+      "count": 1
+    },
+    "work-stress-and-high-pressure-trading-floor": {
+      "id": "work-stress-and-high-pressure-trading-floor",
+      "preferred": "work stress and high-pressure trading floor",
+      "aliases": [
+        "work stress and high-pressure trading floor"
+      ],
+      "count": 1
+    },
+    "stuck-executing-rather-than-leading": {
+      "id": "stuck-executing-rather-than-leading",
+      "preferred": "stuck executing rather than leading",
+      "aliases": [
+        "stuck executing rather than leading"
+      ],
+      "count": 1
+    },
+    "feeling-overlooked-despite-high-performance": {
+      "id": "feeling-overlooked-despite-high-performance",
+      "preferred": "feeling overlooked despite high performance",
+      "aliases": [
+        "feeling overlooked despite high performance"
+      ],
+      "count": 1
+    },
+    "stagnant-leadership-growth": {
+      "id": "stagnant-leadership-growth",
+      "preferred": "stagnant leadership growth",
+      "aliases": [
+        "stagnant leadership growth"
+      ],
+      "count": 1
+    },
+    "navigating-systems-that-reward-silence": {
+      "id": "navigating-systems-that-reward-silence",
+      "preferred": "navigating systems that reward silence",
+      "aliases": [
+        "navigating systems that reward silence"
+      ],
+      "count": 1
+    },
+    "leading-a-team-toward-a-shared-vision": {
+      "id": "leading-a-team-toward-a-shared-vision",
+      "preferred": "leading a team toward a shared vision",
+      "aliases": [
+        "leading a team toward a shared vision"
+      ],
+      "count": 1
+    },
+    "team-lacks-purpose-and-clarity": {
+      "id": "team-lacks-purpose-and-clarity",
+      "preferred": "team lacks purpose and clarity",
+      "aliases": [
+        "team lacks purpose and clarity"
+      ],
+      "count": 1
+    },
+    "gaining-team-buy-in": {
+      "id": "gaining-team-buy-in",
+      "preferred": "gaining team buy-in",
+      "aliases": [
+        "gaining team buy-in"
+      ],
+      "count": 1
+    },
+    "hesitation-to-pursue-career-growth-due-to-external-projectio": {
+      "id": "hesitation-to-pursue-career-growth-due-to-external-projectio",
+      "preferred": "hesitation to pursue career growth due to external projection",
+      "aliases": [
+        "hesitation to pursue career growth due to external projection"
+      ],
+      "count": 1
+    },
+    "feeling-insecure-or-intimidated-at-work": {
+      "id": "feeling-insecure-or-intimidated-at-work",
+      "preferred": "feeling insecure or intimidated at work",
+      "aliases": [
+        "feeling insecure or intimidated at work"
+      ],
+      "count": 1
+    },
+    "holding-yourself-back-from-senior-opportunities": {
+      "id": "holding-yourself-back-from-senior-opportunities",
+      "preferred": "holding yourself back from senior opportunities",
+      "aliases": [
+        "holding yourself back from senior opportunities"
+      ],
+      "count": 1
+    },
+    "claiming-authority-at-work": {
+      "id": "claiming-authority-at-work",
+      "preferred": "claiming authority at work",
+      "aliases": [
+        "claiming authority at work"
+      ],
+      "count": 1
+    },
+    "speaking-up-in-meetings": {
+      "id": "speaking-up-in-meetings",
+      "preferred": "speaking up in meetings",
+      "aliases": [
+        "speaking up in meetings"
+      ],
+      "count": 1
+    },
+    "idea-theft-in-meetings": {
+      "id": "idea-theft-in-meetings",
+      "preferred": "idea theft in meetings",
+      "aliases": [
+        "idea theft in meetings"
+      ],
+      "count": 1
+    },
+    "seeking-promotion-and-recognition": {
+      "id": "seeking-promotion-and-recognition",
+      "preferred": "seeking promotion and recognition",
+      "aliases": [
+        "seeking promotion and recognition"
+      ],
+      "count": 1
+    },
+    "seeking-approval": {
+      "id": "seeking-approval",
+      "preferred": "seeking approval",
+      "aliases": [
+        "seeking approval"
+      ],
+      "count": 1
+    },
+    "requesting-a-raise": {
+      "id": "requesting-a-raise",
+      "preferred": "requesting a raise",
+      "aliases": [
+        "requesting a raise"
+      ],
+      "count": 1
+    },
+    "waiting-to-be-noticed": {
+      "id": "waiting-to-be-noticed",
+      "preferred": "waiting to be noticed",
+      "aliases": [
+        "waiting to be noticed"
+      ],
+      "count": 1
+    },
+    "less-qualified-people-taking-opportunities": {
+      "id": "less-qualified-people-taking-opportunities",
+      "preferred": "less-qualified people taking opportunities",
+      "aliases": [
+        "less-qualified people taking opportunities"
+      ],
+      "count": 1
+    },
+    "hesitating-out-of-fear-of-making-the-wrong-decision": {
+      "id": "hesitating-out-of-fear-of-making-the-wrong-decision",
+      "preferred": "hesitating out of fear of making the wrong decision",
+      "aliases": [
+        "hesitating out of fear of making the wrong decision"
+      ],
+      "count": 1
+    },
+    "annual-review-timing": {
+      "id": "annual-review-timing",
+      "preferred": "annual review timing",
+      "aliases": [
+        "annual review timing"
+      ],
+      "count": 1
+    },
+    "handling-rejection-of-a-raise-request": {
+      "id": "handling-rejection-of-a-raise-request",
+      "preferred": "handling rejection of a raise request",
+      "aliases": [
+        "handling rejection of a raise request"
+      ],
+      "count": 1
+    },
+    "over-controlling-composure-and-performance-anxiety": {
+      "id": "over-controlling-composure-and-performance-anxiety",
+      "preferred": "over-controlling composure and performance anxiety",
+      "aliases": [
+        "over-controlling composure and performance anxiety"
+      ],
+      "count": 1
+    },
+    "feeling-overlooked-as-a-minority-in-the-workplace": {
+      "id": "feeling-overlooked-as-a-minority-in-the-workplace",
+      "preferred": "feeling overlooked as a minority in the workplace",
+      "aliases": [
+        "feeling overlooked as a minority in the workplace"
+      ],
+      "count": 1
+    },
+    "receiving-vague-or-surface-level-feedback": {
+      "id": "receiving-vague-or-surface-level-feedback",
+      "preferred": "receiving vague or surface-level feedback",
+      "aliases": [
+        "receiving vague or surface-level feedback"
+      ],
+      "count": 1
+    },
+    "fear-of-speaking-up-in-team-meetings": {
+      "id": "fear-of-speaking-up-in-team-meetings",
+      "preferred": "fear of speaking up in team meetings",
+      "aliases": [
+        "fear of speaking up in team meetings"
+      ],
+      "count": 1
+    },
+    "waiting-to-be-noticed-by-management": {
+      "id": "waiting-to-be-noticed-by-management",
+      "preferred": "waiting to be noticed by management",
+      "aliases": [
+        "waiting to be noticed by management"
+      ],
+      "count": 1
+    },
+    "sharing-weekly-wins": {
+      "id": "sharing-weekly-wins",
+      "preferred": "sharing weekly wins",
+      "aliases": [
+        "sharing weekly wins"
+      ],
+      "count": 1
+    },
+    "feeling-the-need-to-re-prove-yourself": {
+      "id": "feeling-the-need-to-re-prove-yourself",
+      "preferred": "feeling the need to re-prove yourself",
+      "aliases": [
+        "feeling the need to re-prove yourself"
+      ],
+      "count": 1
+    },
+    "stepping-into-a-new-room-or-role": {
+      "id": "stepping-into-a-new-room-or-role",
+      "preferred": "stepping into a new room or role",
+      "aliases": [
+        "stepping into a new room or role"
+      ],
+      "count": 1
+    },
+    "imposter-syndrome": {
+      "id": "imposter-syndrome",
+      "preferred": "imposter syndrome",
+      "aliases": [
+        "imposter syndrome"
+      ],
+      "count": 1
+    },
+    "hitting-a-professional-ceiling-or-burnout": {
+      "id": "hitting-a-professional-ceiling-or-burnout",
+      "preferred": "hitting a professional ceiling or burnout",
+      "aliases": [
+        "hitting a professional ceiling or burnout"
+      ],
+      "count": 1
+    },
+    "stillness-feels-like-failure-for-high-performers": {
+      "id": "stillness-feels-like-failure-for-high-performers",
+      "preferred": "stillness feels like failure for high performers",
+      "aliases": [
+        "stillness feels like failure for high performers"
+      ],
+      "count": 1
+    },
+    "feeling-burned-out-from-misaligned-hustle": {
+      "id": "feeling-burned-out-from-misaligned-hustle",
+      "preferred": "feeling burned out from misaligned hustle",
+      "aliases": [
+        "feeling burned out from misaligned hustle"
+      ],
+      "count": 1
+    },
+    "career-burnout": {
+      "id": "career-burnout",
+      "preferred": "career burnout",
+      "aliases": [
+        "career burnout"
+      ],
+      "count": 1
+    },
+    "high-performer-overworking": {
+      "id": "high-performer-overworking",
+      "preferred": "high performer overworking",
+      "aliases": [
+        "high performer overworking"
+      ],
+      "count": 1
+    },
+    "protecting-capacity": {
+      "id": "protecting-capacity",
+      "preferred": "protecting capacity",
+      "aliases": [
+        "protecting capacity"
+      ],
+      "count": 1
+    },
+    "over-adapting-to-corporate-culture": {
+      "id": "over-adapting-to-corporate-culture",
+      "preferred": "over-adapting to corporate culture",
+      "aliases": [
+        "over-adapting to corporate culture"
+      ],
+      "count": 1
+    },
+    "hesitating-to-take-the-next-career-step": {
+      "id": "hesitating-to-take-the-next-career-step",
+      "preferred": "hesitating to take the next career step",
+      "aliases": [
+        "hesitating to take the next career step"
+      ],
+      "count": 1
+    },
+    "receiving-feedback-on-workplace-reaction": {
+      "id": "receiving-feedback-on-workplace-reaction",
+      "preferred": "receiving feedback on workplace reaction",
+      "aliases": [
+        "receiving feedback on workplace reaction"
+      ],
+      "count": 1
+    },
+    "career-growth": {
+      "id": "career-growth",
+      "preferred": "career growth",
+      "aliases": [
+        "career growth"
+      ],
+      "count": 1
+    },
+    "communicating-career-goals": {
+      "id": "communicating-career-goals",
+      "preferred": "communicating career goals",
+      "aliases": [
+        "communicating career goals"
+      ],
+      "count": 1
+    },
+    "balancing-likeability-and-respect": {
+      "id": "balancing-likeability-and-respect",
+      "preferred": "balancing likeability and respect",
+      "aliases": [
+        "balancing likeability and respect"
+      ],
+      "count": 1
+    },
+    "getting-promoted": {
+      "id": "getting-promoted",
+      "preferred": "getting promoted",
+      "aliases": [
+        "getting promoted"
+      ],
+      "count": 1
+    },
+    "feeling-uncomfortable-speaking-up-in-meetings": {
+      "id": "feeling-uncomfortable-speaking-up-in-meetings",
+      "preferred": "feeling uncomfortable speaking up in meetings",
+      "aliases": [
+        "feeling uncomfortable speaking up in meetings"
+      ],
+      "count": 1
+    },
+    "stepping-into-a-bigger-leadership-role": {
+      "id": "stepping-into-a-bigger-leadership-role",
+      "preferred": "stepping into a bigger leadership role",
+      "aliases": [
+        "stepping into a bigger leadership role"
+      ],
+      "count": 1
+    },
+    "dealing-with-toxic-colleagues": {
+      "id": "dealing-with-toxic-colleagues",
+      "preferred": "dealing with toxic colleagues",
+      "aliases": [
+        "dealing with toxic colleagues"
+      ],
+      "count": 1
+    },
+    "managing-team-culture-and-daily-interactions": {
+      "id": "managing-team-culture-and-daily-interactions",
+      "preferred": "managing team culture and daily interactions",
+      "aliases": [
+        "managing team culture and daily interactions"
+      ],
+      "count": 1
+    },
+    "seeking-promotion-without-visibility": {
+      "id": "seeking-promotion-without-visibility",
+      "preferred": "seeking promotion without visibility",
+      "aliases": [
+        "seeking promotion without visibility"
+      ],
+      "count": 1
+    },
+    "demanding-careers-causing-self-care-habits-to-slip": {
+      "id": "demanding-careers-causing-self-care-habits-to-slip",
+      "preferred": "demanding careers causing self-care habits to slip",
+      "aliases": [
+        "demanding careers causing self-care habits to slip"
+      ],
+      "count": 1
+    },
+    "feeling-stagnant-in-a-comfortable-role": {
+      "id": "feeling-stagnant-in-a-comfortable-role",
+      "preferred": "feeling stagnant in a comfortable role",
+      "aliases": [
+        "feeling stagnant in a comfortable role"
+      ],
+      "count": 1
+    },
+    "taking-time-off-during-the-holidays": {
+      "id": "taking-time-off-during-the-holidays",
+      "preferred": "taking time off during the holidays",
+      "aliases": [
+        "taking time off during the holidays"
+      ],
+      "count": 1
+    },
+    "leaving-corporate-career-to-start-a-business": {
+      "id": "leaving-corporate-career-to-start-a-business",
+      "preferred": "leaving corporate career to start a business",
+      "aliases": [
+        "leaving corporate career to start a business"
+      ],
+      "count": 1
+    },
+    "feeling-stuck-or-uncertain": {
+      "id": "feeling-stuck-or-uncertain",
+      "preferred": "feeling stuck or uncertain",
+      "aliases": [
+        "feeling stuck or uncertain"
+      ],
+      "count": 1
+    },
+    "new-year-s-day": {
+      "id": "new-year-s-day",
+      "preferred": "New Year's Day",
+      "aliases": [
+        "New Year's Day"
+      ],
+      "count": 1
+    },
+    "feeling-pressure-to-reset-and-plan-by-january-1st": {
+      "id": "feeling-pressure-to-reset-and-plan-by-january-1st",
+      "preferred": "feeling pressure to reset and plan by January 1st",
+      "aliases": [
+        "feeling pressure to reset and plan by January 1st"
+      ],
+      "count": 1
+    },
+    "new-year-reflection": {
+      "id": "new-year-reflection",
+      "preferred": "new year reflection",
+      "aliases": [
+        "new year reflection"
+      ],
+      "count": 1
+    },
+    "feeling-directionless-despite-success": {
+      "id": "feeling-directionless-despite-success",
+      "preferred": "feeling directionless despite success",
+      "aliases": [
+        "feeling directionless despite success"
+      ],
+      "count": 1
+    },
+    "avoiding-feedback-out-of-fear-of-looking-insecure": {
+      "id": "avoiding-feedback-out-of-fear-of-looking-insecure",
+      "preferred": "avoiding feedback out of fear of looking insecure",
+      "aliases": [
+        "avoiding feedback out of fear of looking insecure"
+      ],
+      "count": 1
+    },
+    "high-performer-burnout-from-misaligned-success": {
+      "id": "high-performer-burnout-from-misaligned-success",
+      "preferred": "high performer burnout from misaligned success",
+      "aliases": [
+        "high performer burnout from misaligned success"
+      ],
+      "count": 1
+    },
+    "feeling-overlooked-and-undervalued": {
+      "id": "feeling-overlooked-and-undervalued",
+      "preferred": "feeling overlooked and undervalued",
+      "aliases": [
+        "feeling overlooked and undervalued"
+      ],
+      "count": 1
+    },
+    "stalled-career-from-being-overly-agreeable": {
+      "id": "stalled-career-from-being-overly-agreeable",
+      "preferred": "stalled career from being overly agreeable",
+      "aliases": [
+        "stalled career from being overly agreeable"
+      ],
+      "count": 1
+    },
+    "being-overlooked-for-promotion-despite-being-a-high-performe": {
+      "id": "being-overlooked-for-promotion-despite-being-a-high-performe",
+      "preferred": "being overlooked for promotion despite being a high performer",
+      "aliases": [
+        "being overlooked for promotion despite being a high performer"
+      ],
+      "count": 1
+    },
+    "second-guessing-career-success-and-overworking": {
+      "id": "second-guessing-career-success-and-overworking",
+      "preferred": "second-guessing career success and overworking",
+      "aliases": [
+        "second-guessing career success and overworking"
+      ],
+      "count": 1
+    },
+    "trust-in-corporate-environments": {
+      "id": "trust-in-corporate-environments",
+      "preferred": "trust in corporate environments",
+      "aliases": [
+        "trust in corporate environments"
+      ],
+      "count": 1
+    },
+    "stuck-waiting-for-senior-promotion-despite-high-performance": {
+      "id": "stuck-waiting-for-senior-promotion-despite-high-performance",
+      "preferred": "stuck waiting for senior promotion despite high performance",
+      "aliases": [
+        "stuck waiting for senior promotion despite high performance"
+      ],
+      "count": 1
+    },
+    "stepping-into-senior-leadership": {
+      "id": "stepping-into-senior-leadership",
+      "preferred": "stepping into senior leadership",
+      "aliases": [
+        "stepping into senior leadership"
+      ],
+      "count": 1
+    },
+    "top-talent-not-getting-promoted": {
+      "id": "top-talent-not-getting-promoted",
+      "preferred": "top talent not getting promoted",
+      "aliases": [
+        "top talent not getting promoted"
+      ],
+      "count": 1
+    },
+    "career-transition": {
+      "id": "career-transition",
+      "preferred": "career transition",
+      "aliases": [
+        "career transition"
+      ],
+      "count": 1
+    },
+    "career-growth-plateaued": {
+      "id": "career-growth-plateaued",
+      "preferred": "career growth plateaued",
+      "aliases": [
+        "career growth plateaued"
+      ],
+      "count": 1
+    },
+    "team-sees-leader-as-a-friend-first": {
+      "id": "team-sees-leader-as-a-friend-first",
+      "preferred": "team sees leader as a friend first",
+      "aliases": [
+        "team sees leader as a friend first"
+      ],
+      "count": 1
+    },
+    "direct-report-not-acting-on-feedback": {
+      "id": "direct-report-not-acting-on-feedback",
+      "preferred": "direct report not acting on feedback",
+      "aliases": [
+        "direct report not acting on feedback"
+      ],
+      "count": 1
+    },
+    "waiting-for-confidence-before-leading": {
+      "id": "waiting-for-confidence-before-leading",
+      "preferred": "waiting for confidence before leading",
+      "aliases": [
+        "waiting for confidence before leading"
+      ],
+      "count": 1
+    },
+    "presenting-to-senior-leadership": {
+      "id": "presenting-to-senior-leadership",
+      "preferred": "presenting to senior leadership",
+      "aliases": [
+        "presenting to senior leadership"
+      ],
+      "count": 1
+    },
+    "becoming-a-mother-as-a-high-achieving-professional": {
+      "id": "becoming-a-mother-as-a-high-achieving-professional",
+      "preferred": "becoming a mother as a high-achieving professional",
+      "aliases": [
+        "becoming a mother as a high-achieving professional"
+      ],
+      "count": 1
+    },
+    "overbooked-calendar": {
+      "id": "overbooked-calendar",
+      "preferred": "overbooked calendar",
+      "aliases": [
+        "overbooked calendar"
+      ],
+      "count": 1
+    },
+    "feeling-off-at-work-and-losing-confidence": {
+      "id": "feeling-off-at-work-and-losing-confidence",
+      "preferred": "feeling off at work and losing confidence",
+      "aliases": [
+        "feeling off at work and losing confidence"
+      ],
+      "count": 1
+    },
+    "making-a-mistake": {
+      "id": "making-a-mistake",
+      "preferred": "making a mistake",
+      "aliases": [
+        "making a mistake"
+      ],
+      "count": 1
+    },
+    "team-fear-of-mistakes": {
+      "id": "team-fear-of-mistakes",
+      "preferred": "team fear of mistakes",
+      "aliases": [
+        "team fear of mistakes"
+      ],
+      "count": 1
+    },
+    "experiencing-a-setback": {
+      "id": "experiencing-a-setback",
+      "preferred": "experiencing a setback",
+      "aliases": [
+        "experiencing a setback"
+      ],
+      "count": 1
+    },
+    "career-advancement-and-entrepreneurship-challenges": {
+      "id": "career-advancement-and-entrepreneurship-challenges",
+      "preferred": "career advancement and entrepreneurship challenges",
+      "aliases": [
+        "career advancement and entrepreneurship challenges"
+      ],
+      "count": 1
+    },
+    "feeling-like-an-imposter-at-senior-levels": {
+      "id": "feeling-like-an-imposter-at-senior-levels",
+      "preferred": "feeling like an imposter at senior levels",
+      "aliases": [
+        "feeling like an imposter at senior levels"
+      ],
+      "count": 1
+    },
+    "feeling-like-you-re-falling-short-despite-high-performance": {
+      "id": "feeling-like-you-re-falling-short-despite-high-performance",
+      "preferred": "feeling like you're falling short despite high performance",
+      "aliases": [
+        "feeling like you're falling short despite high performance"
+      ],
+      "count": 1
+    },
+    "feeling-stuck-in-an-outgrown-role": {
+      "id": "feeling-stuck-in-an-outgrown-role",
+      "preferred": "feeling stuck in an outgrown role",
+      "aliases": [
+        "feeling stuck in an outgrown role"
+      ],
+      "count": 1
+    },
+    "conflict-avoidance": {
+      "id": "conflict-avoidance",
+      "preferred": "conflict avoidance",
+      "aliases": [
+        "conflict avoidance"
+      ],
+      "count": 1
+    },
+    "fear-of-risk": {
+      "id": "fear-of-risk",
+      "preferred": "fear of risk",
+      "aliases": [
+        "fear of risk"
+      ],
+      "count": 1
+    },
+    "relying-only-on-performance": {
+      "id": "relying-only-on-performance",
+      "preferred": "relying only on performance",
+      "aliases": [
+        "relying only on performance"
+      ],
+      "count": 1
+    },
+    "self-advocacy": {
+      "id": "self-advocacy",
+      "preferred": "self advocacy",
+      "aliases": [
+        "self advocacy"
+      ],
+      "count": 1
+    },
+    "mistreatment-at-work": {
+      "id": "mistreatment-at-work",
+      "preferred": "mistreatment at work",
+      "aliases": [
+        "mistreatment at work"
+      ],
+      "count": 1
+    },
+    "evaluating-colleagues": {
+      "id": "evaluating-colleagues",
+      "preferred": "evaluating colleagues",
+      "aliases": [
+        "evaluating colleagues"
+      ],
+      "count": 1
+    },
+    "building-influence": {
+      "id": "building-influence",
+      "preferred": "building influence",
+      "aliases": [
+        "building influence"
+      ],
+      "count": 1
+    },
+    "seeking-promotion-without-recognition": {
+      "id": "seeking-promotion-without-recognition",
+      "preferred": "seeking promotion without recognition",
+      "aliases": [
+        "seeking promotion without recognition"
+      ],
+      "count": 1
+    },
+    "stuck-in-execution-role": {
+      "id": "stuck-in-execution-role",
+      "preferred": "stuck in execution role",
+      "aliases": [
+        "stuck in execution role"
+      ],
+      "count": 1
+    },
+    "not-getting-promoted": {
+      "id": "not-getting-promoted",
+      "preferred": "not getting promoted",
+      "aliases": [
+        "not getting promoted"
+      ],
+      "count": 1
+    },
+    "preparing-to-communicate-vision": {
+      "id": "preparing-to-communicate-vision",
+      "preferred": "preparing to communicate vision",
+      "aliases": [
+        "preparing to communicate vision"
+      ],
+      "count": 1
+    },
+    "sharing-team-direction": {
+      "id": "sharing-team-direction",
+      "preferred": "sharing team direction",
+      "aliases": [
+        "sharing team direction"
+      ],
+      "count": 1
+    },
+    "gathering-team-feedback": {
+      "id": "gathering-team-feedback",
+      "preferred": "gathering team feedback",
+      "aliases": [
+        "gathering team feedback"
+      ],
+      "count": 1
+    },
+    "hesitating-to-apply-for-a-top-opportunity": {
+      "id": "hesitating-to-apply-for-a-top-opportunity",
+      "preferred": "hesitating to apply for a top opportunity",
+      "aliases": [
+        "hesitating to apply for a top opportunity"
+      ],
+      "count": 1
+    },
+    "ai-driven-workplace-disruption": {
+      "id": "ai-driven-workplace-disruption",
+      "preferred": "AI-driven workplace disruption",
+      "aliases": [
+        "AI-driven workplace disruption"
+      ],
+      "count": 1
+    },
+    "feeling-unnoticed-at-work": {
+      "id": "feeling-unnoticed-at-work",
+      "preferred": "feeling unnoticed at work",
+      "aliases": [
+        "feeling unnoticed at work"
+      ],
+      "count": 1
+    },
+    "internalizing-critical-feedback-from-a-colleague": {
+      "id": "internalizing-critical-feedback-from-a-colleague",
+      "preferred": "internalizing critical feedback from a colleague",
+      "aliases": [
+        "internalizing critical feedback from a colleague"
+      ],
+      "count": 1
+    },
+    "women-underrepresented-in-manager-promotions": {
+      "id": "women-underrepresented-in-manager-promotions",
+      "preferred": "women underrepresented in manager promotions",
+      "aliases": [
+        "women underrepresented in manager promotions"
+      ],
+      "count": 1
+    },
+    "gender-gap-in-promotions": {
+      "id": "gender-gap-in-promotions",
+      "preferred": "gender gap in promotions",
+      "aliases": [
+        "gender gap in promotions"
+      ],
+      "count": 1
+    },
+    "receiving-vague-feedback-to-be-more-strategic": {
+      "id": "receiving-vague-feedback-to-be-more-strategic",
+      "preferred": "receiving vague feedback to be more strategic",
+      "aliases": [
+        "receiving vague feedback to be more strategic"
+      ],
+      "count": 1
+    },
+    "working-hard-without-recognition": {
+      "id": "working-hard-without-recognition",
+      "preferred": "working hard without recognition",
+      "aliases": [
+        "working hard without recognition"
+      ],
+      "count": 1
+    },
+    "career-plateaus-and-waiting-for-validation": {
+      "id": "career-plateaus-and-waiting-for-validation",
+      "preferred": "career plateaus and waiting for validation",
+      "aliases": [
+        "career plateaus and waiting for validation"
+      ],
+      "count": 1
+    },
+    "stepping-into-a-major-senior-leadership-role": {
+      "id": "stepping-into-a-major-senior-leadership-role",
+      "preferred": "stepping into a major senior leadership role",
+      "aliases": [
+        "stepping into a major senior leadership role"
+      ],
+      "count": 1
+    },
+    "receiving-vague-praise-without-clear-career-progression": {
+      "id": "receiving-vague-praise-without-clear-career-progression",
+      "preferred": "receiving vague praise without clear career progression",
+      "aliases": [
+        "receiving vague praise without clear career progression"
+      ],
+      "count": 1
+    },
+    "reliable-employee-being-overlooked-for-development": {
+      "id": "reliable-employee-being-overlooked-for-development",
+      "preferred": "reliable employee being overlooked for development",
+      "aliases": [
+        "reliable employee being overlooked for development"
+      ],
+      "count": 1
+    },
+    "becoming-cautious-after-getting-promoted": {
+      "id": "becoming-cautious-after-getting-promoted",
+      "preferred": "becoming cautious after getting promoted",
+      "aliases": [
+        "becoming cautious after getting promoted"
+      ],
+      "count": 1
+    },
+    "leaving-a-successful-corporate-job": {
+      "id": "leaving-a-successful-corporate-job",
+      "preferred": "leaving a successful corporate job",
+      "aliases": [
+        "leaving a successful corporate job"
+      ],
+      "count": 1
+    },
+    "managers-lack-skills-to-develop-people": {
+      "id": "managers-lack-skills-to-develop-people",
+      "preferred": "managers lack skills to develop people",
+      "aliases": [
+        "managers lack skills to develop people"
+      ],
+      "count": 1
+    },
+    "managing-for-growth-vs-output": {
+      "id": "managing-for-growth-vs-output",
+      "preferred": "managing for growth vs output",
+      "aliases": [
+        "managing for growth vs output"
+      ],
+      "count": 1
+    },
+    "watching-others-move-ahead-without-being-recognized": {
+      "id": "watching-others-move-ahead-without-being-recognized",
+      "preferred": "watching others move ahead without being recognized",
+      "aliases": [
+        "watching others move ahead without being recognized"
+      ],
+      "count": 1
+    },
+    "overlooked-for-promotion-despite-being-well-liked": {
+      "id": "overlooked-for-promotion-despite-being-well-liked",
+      "preferred": "overlooked for promotion despite being well-liked",
+      "aliases": [
+        "overlooked for promotion despite being well-liked"
+      ],
+      "count": 1
+    },
+    "high-performer-quiet-quitting": {
+      "id": "high-performer-quiet-quitting",
+      "preferred": "high performer quiet quitting",
+      "aliases": [
+        "high performer quiet quitting"
+      ],
+      "count": 1
+    },
+    "waiting-for-perfect-timing-to-invest-in-growth": {
+      "id": "waiting-for-perfect-timing-to-invest-in-growth",
+      "preferred": "waiting for perfect timing to invest in growth",
+      "aliases": [
+        "waiting for perfect timing to invest in growth"
+      ],
+      "count": 1
+    },
+    "outgrown-current-role-and-waiting-for-recognition": {
+      "id": "outgrown-current-role-and-waiting-for-recognition",
+      "preferred": "outgrown current role and waiting for recognition",
+      "aliases": [
+        "outgrown current role and waiting for recognition"
+      ],
+      "count": 1
+    },
+    "feeling-unprepared-or-lacking-confidence-before-high-stakes-": {
+      "id": "feeling-unprepared-or-lacking-confidence-before-high-stakes-",
+      "preferred": "feeling unprepared or lacking confidence before high-stakes meetings",
+      "aliases": [
+        "feeling unprepared or lacking confidence before high-stakes meetings"
+      ],
+      "count": 1
+    },
+    "direct-manager-does-not-see-potential": {
+      "id": "direct-manager-does-not-see-potential",
+      "preferred": "direct manager does not see potential",
+      "aliases": [
+        "direct manager does not see potential"
+      ],
+      "count": 1
+    },
+    "team-keeps-telling-you-everything-is-fine": {
+      "id": "team-keeps-telling-you-everything-is-fine",
+      "preferred": "team keeps telling you everything is fine",
+      "aliases": [
+        "team keeps telling you everything is fine"
+      ],
+      "count": 1
+    },
+    "getting-buy-in-from-leadership-peers-and-team": {
+      "id": "getting-buy-in-from-leadership-peers-and-team",
+      "preferred": "getting buy-in from leadership, peers, and team",
+      "aliases": [
+        "getting buy-in from leadership, peers, and team"
+      ],
+      "count": 1
+    },
+    "hesitating-to-share-accomplishments": {
+      "id": "hesitating-to-share-accomplishments",
+      "preferred": "hesitating to share accomplishments",
+      "aliases": [
+        "hesitating to share accomplishments"
+      ],
+      "count": 1
+    },
+    "perfect-performance-review-with-no-clear-next-steps": {
+      "id": "perfect-performance-review-with-no-clear-next-steps",
+      "preferred": "perfect performance review with no clear next steps",
+      "aliases": [
+        "perfect performance review with no clear next steps"
+      ],
+      "count": 1
+    },
+    "waiting-for-promotion-or-recognition": {
+      "id": "waiting-for-promotion-or-recognition",
+      "preferred": "waiting for promotion or recognition",
+      "aliases": [
+        "waiting for promotion or recognition"
+      ],
+      "count": 1
+    },
+    "senior-leaders-having-incomplete-information-about-your-work": {
+      "id": "senior-leaders-having-incomplete-information-about-your-work",
+      "preferred": "senior leaders having incomplete information about your work",
+      "aliases": [
+        "senior leaders having incomplete information about your work"
+      ],
+      "count": 1
+    },
+    "career-stalling-from-waiting-to-advocate-for-value": {
+      "id": "career-stalling-from-waiting-to-advocate-for-value",
+      "preferred": "career stalling from waiting to advocate for value",
+      "aliases": [
+        "career stalling from waiting to advocate for value"
+      ],
+      "count": 1
+    },
+    "over-controlling-composure-and-performance": {
+      "id": "over-controlling-composure-and-performance",
+      "preferred": "over-controlling composure and performance",
+      "aliases": [
+        "over-controlling composure and performance"
+      ],
+      "count": 1
+    },
+    "hesitating-to-make-decisions-under-uncertainty": {
+      "id": "hesitating-to-make-decisions-under-uncertainty",
+      "preferred": "hesitating to make decisions under uncertainty",
+      "aliases": [
+        "hesitating to make decisions under uncertainty"
+      ],
+      "count": 1
+    },
+    "salary-negotiation-preparation": {
+      "id": "salary-negotiation-preparation",
+      "preferred": "salary negotiation preparation",
+      "aliases": [
+        "salary negotiation preparation"
+      ],
+      "count": 1
+    },
+    "annual-review-budgeting": {
+      "id": "annual-review-budgeting",
+      "preferred": "annual review budgeting",
+      "aliases": [
+        "annual review budgeting"
+      ],
+      "count": 1
+    },
+    "compensation-decisions": {
+      "id": "compensation-decisions",
+      "preferred": "compensation decisions",
+      "aliases": [
+        "compensation decisions"
+      ],
+      "count": 1
+    },
+    "manager-says-no-to-raise": {
+      "id": "manager-says-no-to-raise",
+      "preferred": "manager says no to raise",
+      "aliases": [
+        "manager says no to raise"
+      ],
+      "count": 1
+    },
+    "being-an-underrepresented-minority-in-the-workplace": {
+      "id": "being-an-underrepresented-minority-in-the-workplace",
+      "preferred": "being an underrepresented minority in the workplace",
+      "aliases": [
+        "being an underrepresented minority in the workplace"
+      ],
+      "count": 1
+    },
+    "stepping-into-a-new-role-or-senior-room": {
+      "id": "stepping-into-a-new-role-or-senior-room",
+      "preferred": "stepping into a new role or senior room",
+      "aliases": [
+        "stepping into a new role or senior room"
+      ],
+      "count": 1
+    },
+    "promotion-has-not-happened-by-q3": {
+      "id": "promotion-has-not-happened-by-q3",
+      "preferred": "promotion has not happened by Q3",
+      "aliases": [
+        "promotion has not happened by Q3"
+      ],
+      "count": 1
+    },
+    "fear-of-sounding-stupid-or-being-judged": {
+      "id": "fear-of-sounding-stupid-or-being-judged",
+      "preferred": "fear of sounding stupid or being judged",
+      "aliases": [
+        "fear of sounding stupid or being judged"
+      ],
+      "count": 1
+    },
+    "feeling-unfulfilled-and-out-of-alignment-while-working-long-": {
+      "id": "feeling-unfulfilled-and-out-of-alignment-while-working-long-",
+      "preferred": "feeling unfulfilled and out of alignment while working long hours",
+      "aliases": [
+        "feeling unfulfilled and out of alignment while working long hours"
+      ],
+      "count": 1
+    },
+    "ready-for-bigger-roles-but-waiting-to-be-chosen": {
+      "id": "ready-for-bigger-roles-but-waiting-to-be-chosen",
+      "preferred": "ready for bigger roles but waiting to be chosen",
+      "aliases": [
+        "ready for bigger roles but waiting to be chosen"
+      ],
+      "count": 1
+    },
+    "high-performer-overworking-for-promotion": {
+      "id": "high-performer-overworking-for-promotion",
+      "preferred": "high performer overworking for promotion",
+      "aliases": [
+        "high performer overworking for promotion"
+      ],
+      "count": 1
+    },
+    "feeling-bored-and-coasting-at-work": {
+      "id": "feeling-bored-and-coasting-at-work",
+      "preferred": "feeling bored and coasting at work",
+      "aliases": [
+        "feeling bored and coasting at work"
+      ],
+      "count": 1
+    },
+    "navigating-stress-and-hierarchy": {
+      "id": "navigating-stress-and-hierarchy",
+      "preferred": "navigating stress and hierarchy",
+      "aliases": [
+        "navigating stress and hierarchy"
+      ],
+      "count": 1
+    },
+    "stillness-starts-to-feel-like-failure": {
+      "id": "stillness-starts-to-feel-like-failure",
+      "preferred": "stillness starts to feel like failure",
+      "aliases": [
+        "stillness starts to feel like failure"
+      ],
+      "count": 1
+    },
+    "stepping-into-a-bigger-role-with-self-doubt": {
+      "id": "stepping-into-a-bigger-role-with-self-doubt",
+      "preferred": "stepping into a bigger role with self-doubt",
+      "aliases": [
+        "stepping into a bigger role with self-doubt"
+      ],
+      "count": 1
+    },
+    "introvert-holding-back-thoughts-out-of-anxiety": {
+      "id": "introvert-holding-back-thoughts-out-of-anxiety",
+      "preferred": "introvert holding back thoughts out of anxiety",
+      "aliases": [
+        "introvert holding back thoughts out of anxiety"
+      ],
+      "count": 1
+    },
+    "feeling-burned-out-from-masking-personality-in-the-wrong-wor": {
+      "id": "feeling-burned-out-from-masking-personality-in-the-wrong-wor",
+      "preferred": "feeling burned out from masking personality in the wrong workplace environment",
+      "aliases": [
+        "feeling burned out from masking personality in the wrong workplace environment"
+      ],
+      "count": 1
+    },
+    "handling-stress-under-pressure": {
+      "id": "handling-stress-under-pressure",
+      "preferred": "handling stress under pressure",
+      "aliases": [
+        "handling stress under pressure"
+      ],
+      "count": 1
+    },
+    "leading-a-corporate-team": {
+      "id": "leading-a-corporate-team",
+      "preferred": "leading a corporate team",
+      "aliases": [
+        "leading a corporate team"
+      ],
+      "count": 1
+    },
+    "promoted-into-a-role-you-didn-t-want": {
+      "id": "promoted-into-a-role-you-didn-t-want",
+      "preferred": "promoted into a role you didn't want",
+      "aliases": [
+        "promoted into a role you didn't want"
+      ],
+      "count": 1
+    },
+    "working-harder-isn-t-moving-the-needle": {
+      "id": "working-harder-isn-t-moving-the-needle",
+      "preferred": "working harder isn't moving the needle",
+      "aliases": [
+        "working harder isn't moving the needle"
+      ],
+      "count": 1
+    },
+    "workplace-rudeness-and-ego": {
+      "id": "workplace-rudeness-and-ego",
+      "preferred": "workplace rudeness and ego",
+      "aliases": [
+        "workplace rudeness and ego"
+      ],
+      "count": 1
+    },
+    "delayed-promotions-after-maternity-leave": {
+      "id": "delayed-promotions-after-maternity-leave",
+      "preferred": "delayed promotions after maternity leave",
+      "aliases": [
+        "delayed promotions after maternity leave"
+      ],
+      "count": 1
+    },
+    "stuck-at-the-same-company": {
+      "id": "stuck-at-the-same-company",
+      "preferred": "stuck at the same company",
+      "aliases": [
+        "stuck at the same company"
+      ],
+      "count": 1
+    },
+    "promoting-leaders": {
+      "id": "promoting-leaders",
+      "preferred": "promoting leaders",
+      "aliases": [
+        "promoting leaders"
+      ],
+      "count": 1
+    },
+    "staying-comfortable-in-a-current-role": {
+      "id": "staying-comfortable-in-a-current-role",
+      "preferred": "staying comfortable in a current role",
+      "aliases": [
+        "staying comfortable in a current role"
+      ],
+      "count": 1
+    },
+    "high-performers-outgrowing-their-environment": {
+      "id": "high-performers-outgrowing-their-environment",
+      "preferred": "high performers outgrowing their environment",
+      "aliases": [
+        "high performers outgrowing their environment"
+      ],
+      "count": 1
+    },
+    "boss-takes-credit-and-gives-no-blame": {
+      "id": "boss-takes-credit-and-gives-no-blame",
+      "preferred": "boss takes credit and gives no blame",
+      "aliases": [
+        "boss takes credit and gives no blame"
+      ],
+      "count": 1
+    },
+    "holding-back-in-conversations": {
+      "id": "holding-back-in-conversations",
+      "preferred": "holding back in conversations",
+      "aliases": [
+        "holding back in conversations"
+      ],
+      "count": 1
+    },
+    "undercutting-yourself-in-meetings": {
+      "id": "undercutting-yourself-in-meetings",
+      "preferred": "undercutting yourself in meetings",
+      "aliases": [
+        "undercutting yourself in meetings"
+      ],
+      "count": 1
+    },
+    "feeling-empty-after-achieving-corporate-success": {
+      "id": "feeling-empty-after-achieving-corporate-success",
+      "preferred": "feeling empty after achieving corporate success",
+      "aliases": [
+        "feeling empty after achieving corporate success"
+      ],
+      "count": 1
+    },
+    "disagreeing-with-company-leadership-direction": {
+      "id": "disagreeing-with-company-leadership-direction",
+      "preferred": "disagreeing with company leadership direction",
+      "aliases": [
+        "disagreeing with company leadership direction"
+      ],
+      "count": 1
+    },
+    "high-performers-stepping-into-leadership": {
+      "id": "high-performers-stepping-into-leadership",
+      "preferred": "high performers stepping into leadership",
+      "aliases": [
+        "high performers stepping into leadership"
+      ],
+      "count": 1
+    },
+    "high-performers-adapting-to-unrewarding-environments": {
+      "id": "high-performers-adapting-to-unrewarding-environments",
+      "preferred": "high performers adapting to unrewarding environments",
+      "aliases": [
+        "high performers adapting to unrewarding environments"
+      ],
+      "count": 1
+    },
+    "mistaking-busyness-for-career-growth": {
+      "id": "mistaking-busyness-for-career-growth",
+      "preferred": "mistaking busyness for career growth",
+      "aliases": [
+        "mistaking busyness for career growth"
+      ],
+      "count": 1
+    },
+    "high-performer-feeling-plateaued-or-lacking-clear-path": {
+      "id": "high-performer-feeling-plateaued-or-lacking-clear-path",
+      "preferred": "high performer feeling plateaued or lacking clear path",
+      "aliases": [
+        "high performer feeling plateaued or lacking clear path"
+      ],
+      "count": 1
+    },
+    "burnout-from-chasing-prestige": {
+      "id": "burnout-from-chasing-prestige",
+      "preferred": "burnout from chasing prestige",
+      "aliases": [
+        "burnout from chasing prestige"
+      ],
+      "count": 1
+    },
+    "avoiding-feedback-out-of-fear": {
+      "id": "avoiding-feedback-out-of-fear",
+      "preferred": "avoiding feedback out of fear",
+      "aliases": [
+        "avoiding feedback out of fear"
+      ],
+      "count": 1
+    },
+    "holding-back-in-meetings": {
+      "id": "holding-back-in-meetings",
+      "preferred": "holding back in meetings",
+      "aliases": [
+        "holding back in meetings"
+      ],
+      "count": 1
+    },
+    "seeking-promotion-to-senior-leadership": {
+      "id": "seeking-promotion-to-senior-leadership",
+      "preferred": "seeking promotion to senior leadership",
+      "aliases": [
+        "seeking promotion to senior leadership"
+      ],
+      "count": 1
+    },
+    "second-guessing-when-to-speak-up-or-advocate-for-oneself": {
+      "id": "second-guessing-when-to-speak-up-or-advocate-for-oneself",
+      "preferred": "second-guessing when to speak up or advocate for oneself",
+      "aliases": [
+        "second-guessing when to speak up or advocate for oneself"
+      ],
+      "count": 1
+    },
+    "stuck-getting-vague-feedback-despite-working-hard": {
+      "id": "stuck-getting-vague-feedback-despite-working-hard",
+      "preferred": "stuck getting vague feedback despite working hard",
+      "aliases": [
+        "stuck getting vague feedback despite working hard"
+      ],
+      "count": 1
+    },
+    "evaluating-career-progression-at-year-end": {
+      "id": "evaluating-career-progression-at-year-end",
+      "preferred": "evaluating career progression at year-end",
+      "aliases": [
+        "evaluating career progression at year-end"
+      ],
+      "count": 1
+    },
+    "playing-small-and-being-overlooked-for-promotions": {
+      "id": "playing-small-and-being-overlooked-for-promotions",
+      "preferred": "playing small and being overlooked for promotions",
+      "aliases": [
+        "playing small and being overlooked for promotions"
+      ],
+      "count": 1
+    },
+    "reputation-does-not-match-career-goals": {
+      "id": "reputation-does-not-match-career-goals",
+      "preferred": "reputation does not match career goals",
+      "aliases": [
+        "reputation does not match career goals"
+      ],
+      "count": 1
+    },
+    "failing-to-get-buy-in-from-senior-leaders": {
+      "id": "failing-to-get-buy-in-from-senior-leaders",
+      "preferred": "failing to get buy-in from senior leaders",
+      "aliases": [
+        "failing to get buy-in from senior leaders"
+      ],
+      "count": 1
+    },
+    "unsure-what-career-move-to-make-next": {
+      "id": "unsure-what-career-move-to-make-next",
+      "preferred": "unsure what career move to make next",
+      "aliases": [
+        "unsure what career move to make next"
+      ],
+      "count": 1
+    },
+    "feeling-like-you-have-something-to-prove": {
+      "id": "feeling-like-you-have-something-to-prove",
+      "preferred": "feeling like you have something to prove",
+      "aliases": [
+        "feeling like you have something to prove"
+      ],
+      "count": 1
+    },
+    "overlooked-for-promotion-due-to-being-indispensable": {
+      "id": "overlooked-for-promotion-due-to-being-indispensable",
+      "preferred": "overlooked for promotion due to being indispensable",
+      "aliases": [
+        "overlooked for promotion due to being indispensable"
+      ],
+      "count": 1
+    },
+    "building-a-promotion-case": {
+      "id": "building-a-promotion-case",
+      "preferred": "building a promotion case",
+      "aliases": [
+        "building a promotion case"
+      ],
+      "count": 1
+    },
+    "seeking-career-advancement-without-direct-asks": {
+      "id": "seeking-career-advancement-without-direct-asks",
+      "preferred": "seeking career advancement without direct asks",
+      "aliases": [
+        "seeking career advancement without direct asks"
+      ],
+      "count": 1
+    },
+    "leader-unable-to-admit-mistakes": {
+      "id": "leader-unable-to-admit-mistakes",
+      "preferred": "leader unable to admit mistakes",
+      "aliases": [
+        "leader unable to admit mistakes"
+      ],
+      "count": 1
+    },
+    "feeling-unprepared-for-bigger-roles": {
+      "id": "feeling-unprepared-for-bigger-roles",
+      "preferred": "feeling unprepared for bigger roles",
+      "aliases": [
+        "feeling unprepared for bigger roles"
+      ],
+      "count": 1
+    },
+    "trying-to-get-promoted-by-working-longer-hours": {
+      "id": "trying-to-get-promoted-by-working-longer-hours",
+      "preferred": "trying to get promoted by working longer hours",
+      "aliases": [
+        "trying to get promoted by working longer hours"
+      ],
+      "count": 1
+    },
+    "delivering-bad-news-to-team-members": {
+      "id": "delivering-bad-news-to-team-members",
+      "preferred": "delivering bad news to team members",
+      "aliases": [
+        "delivering bad news to team members"
+      ],
+      "count": 1
+    },
+    "told-to-work-on-executive-presence": {
+      "id": "told-to-work-on-executive-presence",
+      "preferred": "told to work on executive presence",
+      "aliases": [
+        "told to work on executive presence"
+      ],
+      "count": 1
+    },
+    "feeling-out-of-place-among-high-achievers": {
+      "id": "feeling-out-of-place-among-high-achievers",
+      "preferred": "feeling out of place among high achievers",
+      "aliases": [
+        "feeling out of place among high achievers"
+      ],
+      "count": 1
+    },
+    "interacting-with-senior-leaders": {
+      "id": "interacting-with-senior-leaders",
+      "preferred": "interacting with senior leaders",
+      "aliases": [
+        "interacting with senior leaders"
+      ],
+      "count": 1
+    },
+    "transitioning-from-technical-role-to-senior-leadership": {
+      "id": "transitioning-from-technical-role-to-senior-leadership",
+      "preferred": "transitioning from technical role to senior leadership",
+      "aliases": [
+        "transitioning from technical role to senior leadership"
+      ],
+      "count": 1
+    },
+    "preparing-for-performance-reviews": {
+      "id": "preparing-for-performance-reviews",
+      "preferred": "preparing for performance reviews",
+      "aliases": [
+        "preparing for performance reviews"
+      ],
+      "count": 1
+    },
+    "forming-close-friendships-with-direct-reports": {
+      "id": "forming-close-friendships-with-direct-reports",
+      "preferred": "forming close friendships with direct reports",
+      "aliases": [
+        "forming close friendships with direct reports"
+      ],
+      "count": 1
+    },
+    "direct-report-not-improving-after-repeated-feedback": {
+      "id": "direct-report-not-improving-after-repeated-feedback",
+      "preferred": "direct report not improving after repeated feedback",
+      "aliases": [
+        "direct report not improving after repeated feedback"
+      ],
+      "count": 1
+    },
+    "suspecting-you-re-being-underpaid": {
+      "id": "suspecting-you-re-being-underpaid",
+      "preferred": "suspecting you're being underpaid",
+      "aliases": [
+        "suspecting you're being underpaid"
+      ],
+      "count": 1
+    },
+    "underperforming-team-member": {
+      "id": "underperforming-team-member",
+      "preferred": "underperforming team member",
+      "aliases": [
+        "underperforming team member"
+      ],
+      "count": 1
+    },
+    "presenting-recommendations": {
+      "id": "presenting-recommendations",
+      "preferred": "presenting recommendations",
+      "aliases": [
+        "presenting recommendations"
+      ],
+      "count": 1
+    },
+    "asked-something-you-don-t-know": {
+      "id": "asked-something-you-don-t-know",
+      "preferred": "asked something you don't know",
+      "aliases": [
+        "asked something you don't know"
+      ],
+      "count": 1
+    },
+    "someone-disagrees-with-your-recommendation": {
+      "id": "someone-disagrees-with-your-recommendation",
+      "preferred": "someone disagrees with your recommendation",
+      "aliases": [
+        "someone disagrees with your recommendation"
+      ],
+      "count": 1
+    },
+    "treating-junior-colleagues-vs-senior-leaders": {
+      "id": "treating-junior-colleagues-vs-senior-leaders",
+      "preferred": "treating junior colleagues vs senior leaders",
+      "aliases": [
+        "treating junior colleagues vs senior leaders"
+      ],
+      "count": 1
+    },
+    "handling-disagreement-or-concerns-from-colleagues": {
+      "id": "handling-disagreement-or-concerns-from-colleagues",
+      "preferred": "handling disagreement or concerns from colleagues",
+      "aliases": [
+        "handling disagreement or concerns from colleagues"
+      ],
+      "count": 1
+    },
+    "providing-support-and-accountability-while-giving-ownership": {
+      "id": "providing-support-and-accountability-while-giving-ownership",
+      "preferred": "providing support and accountability while giving ownership",
+      "aliases": [
+        "providing support and accountability while giving ownership"
+      ],
+      "count": 1
+    },
+    "setting-realistic-expectations-vs-constant-urgency": {
+      "id": "setting-realistic-expectations-vs-constant-urgency",
+      "preferred": "setting realistic expectations vs constant urgency",
+      "aliases": [
+        "setting realistic expectations vs constant urgency"
+      ],
+      "count": 1
+    },
+    "hearing-critical-feedback-without-getting-defensive": {
+      "id": "hearing-critical-feedback-without-getting-defensive",
+      "preferred": "hearing critical feedback without getting defensive",
+      "aliases": [
+        "hearing critical feedback without getting defensive"
+      ],
+      "count": 1
+    },
+    "following-through-and-cross-functional-teamwork": {
+      "id": "following-through-and-cross-functional-teamwork",
+      "preferred": "following through and cross-functional teamwork",
+      "aliases": [
+        "following through and cross-functional teamwork"
+      ],
+      "count": 1
+    },
+    "mentoring-others-vs-only-focusing-on-tasks": {
+      "id": "mentoring-others-vs-only-focusing-on-tasks",
+      "preferred": "mentoring others vs only focusing on tasks",
+      "aliases": [
+        "mentoring others vs only focusing on tasks"
+      ],
+      "count": 1
+    },
+    "mistakes-or-failures-occurring": {
+      "id": "mistakes-or-failures-occurring",
+      "preferred": "mistakes or failures occurring",
+      "aliases": [
+        "mistakes or failures occurring"
+      ],
+      "count": 1
+    },
+    "avoiding-micromanagement": {
+      "id": "avoiding-micromanagement",
+      "preferred": "avoiding micromanagement",
+      "aliases": [
+        "avoiding micromanagement"
+      ],
+      "count": 1
+    },
+    "feeling-underpaid-and-avoiding-salary-talks": {
+      "id": "feeling-underpaid-and-avoiding-salary-talks",
+      "preferred": "feeling underpaid and avoiding salary talks",
+      "aliases": [
+        "feeling underpaid and avoiding salary talks"
+      ],
+      "count": 1
+    },
+    "booking-consultation-call": {
+      "id": "booking-consultation-call",
+      "preferred": "booking consultation call",
+      "aliases": [
+        "booking consultation call"
+      ],
+      "count": 1
+    },
+    "hardworking-professional-passed-over-for-promotion": {
+      "id": "hardworking-professional-passed-over-for-promotion",
+      "preferred": "hardworking professional passed over for promotion",
+      "aliases": [
+        "hardworking professional passed over for promotion"
+      ],
+      "count": 1
+    },
+    "masterclass-registration-confirmation": {
+      "id": "masterclass-registration-confirmation",
+      "preferred": "masterclass registration confirmation",
+      "aliases": [
+        "masterclass registration confirmation"
+      ],
+      "count": 1
+    },
+    "skipped-over-for-promotion": {
+      "id": "skipped-over-for-promotion",
+      "preferred": "skipped over for promotion",
+      "aliases": [
+        "skipped over for promotion"
+      ],
+      "count": 1
+    },
+    "stalled-career-progression": {
+      "id": "stalled-career-progression",
+      "preferred": "stalled career progression",
+      "aliases": [
+        "stalled career progression"
+      ],
+      "count": 1
+    },
+    "moving-to-senior-leadership": {
+      "id": "moving-to-senior-leadership",
+      "preferred": "moving to senior leadership",
+      "aliases": [
+        "moving to senior leadership"
+      ],
+      "count": 1
+    },
+    "unspoken-leadership-expectations": {
+      "id": "unspoken-leadership-expectations",
+      "preferred": "unspoken leadership expectations",
+      "aliases": [
+        "unspoken leadership expectations"
+      ],
+      "count": 1
+    },
+    "overlooked-despite-high-performance": {
+      "id": "overlooked-despite-high-performance",
+      "preferred": "overlooked despite high performance",
+      "aliases": [
+        "overlooked despite high performance"
+      ],
+      "count": 1
+    },
+    "difficult-conversations": {
+      "id": "difficult-conversations",
+      "preferred": "difficult conversations",
+      "aliases": [
+        "difficult conversations"
+      ],
+      "count": 1
+    },
+    "conflict-resolution": {
+      "id": "conflict-resolution",
+      "preferred": "conflict resolution",
+      "aliases": [
+        "conflict resolution"
+      ],
+      "count": 1
+    },
+    "ongoing-conflict-resolution": {
+      "id": "ongoing-conflict-resolution",
+      "preferred": "ongoing conflict resolution",
+      "aliases": [
+        "ongoing conflict resolution"
+      ],
+      "count": 1
+    },
+    "evaluating-career-coach": {
+      "id": "evaluating-career-coach",
+      "preferred": "evaluating career coach",
+      "aliases": [
+        "evaluating career coach"
+      ],
+      "count": 1
+    },
+    "advancing-to-200k-400k-roles-without-changing-companies": {
+      "id": "advancing-to-200k-400k-roles-without-changing-companies",
+      "preferred": "advancing to $200K-$400K+ roles without changing companies",
+      "aliases": [
+        "advancing to $200K-$400K+ roles without changing companies"
+      ],
+      "count": 1
+    },
+    "facing-career-growth-challenges": {
+      "id": "facing-career-growth-challenges",
+      "preferred": "facing career growth challenges",
+      "aliases": [
+        "facing career growth challenges"
+      ],
+      "count": 1
+    },
+    "imposter-syndrome-and-perfectionism": {
+      "id": "imposter-syndrome-and-perfectionism",
+      "preferred": "imposter syndrome and perfectionism",
+      "aliases": [
+        "imposter syndrome and perfectionism"
+      ],
+      "count": 1
+    },
+    "high-visibility-situations": {
+      "id": "high-visibility-situations",
+      "preferred": "high-visibility situations",
+      "aliases": [
+        "high-visibility situations"
+      ],
+      "count": 1
+    },
+    "shifting-from-problem-solver-to-decision-partner": {
+      "id": "shifting-from-problem-solver-to-decision-partner",
+      "preferred": "shifting from problem-solver to decision partner",
+      "aliases": [
+        "shifting from problem-solver to decision partner"
+      ],
+      "count": 1
+    },
+    "asking-for-and-giving-feedback": {
+      "id": "asking-for-and-giving-feedback",
+      "preferred": "asking for and giving feedback",
+      "aliases": [
+        "asking for and giving feedback"
+      ],
+      "count": 1
+    },
+    "promotion-and-compensation-conversations": {
+      "id": "promotion-and-compensation-conversations",
+      "preferred": "promotion and compensation conversations",
+      "aliases": [
+        "promotion and compensation conversations"
+      ],
+      "count": 1
+    },
+    "building-sponsorship-driven-relationships": {
+      "id": "building-sponsorship-driven-relationships",
+      "preferred": "building sponsorship-driven relationships",
+      "aliases": [
+        "building sponsorship-driven relationships"
+      ],
+      "count": 1
+    },
+    "women-in-corporate-finance": {
+      "id": "women-in-corporate-finance",
+      "preferred": "women in corporate finance",
+      "aliases": [
+        "women in corporate finance"
+      ],
+      "count": 1
+    },
+    "lack-of-mentorship": {
+      "id": "lack-of-mentorship",
+      "preferred": "lack of mentorship",
+      "aliases": [
+        "lack of mentorship"
+      ],
+      "count": 1
+    },
+    "unsupportive-management": {
+      "id": "unsupportive-management",
+      "preferred": "unsupportive management",
+      "aliases": [
+        "unsupportive management"
+      ],
+      "count": 1
+    },
+    "stagnant-career-growth": {
+      "id": "stagnant-career-growth",
+      "preferred": "stagnant career growth",
+      "aliases": [
+        "stagnant career growth"
+      ],
+      "count": 1
+    }
+  },
+  "topic": {
+    "career-advancement": {
+      "id": "career-advancement",
+      "preferred": "career advancement",
+      "aliases": [
+        "career advancement"
+      ],
+      "count": 75
+    },
+    "self-advocacy": {
+      "id": "self-advocacy",
+      "preferred": "self-advocacy",
+      "aliases": [
+        "self-advocacy"
+      ],
+      "count": 36
+    },
+    "executive-presence": {
+      "id": "executive-presence",
+      "preferred": "executive presence",
+      "aliases": [
+        "executive presence"
+      ],
+      "count": 23
+    },
+    "career-visibility": {
+      "id": "career-visibility",
+      "preferred": "career visibility",
+      "aliases": [
+        "career visibility"
+      ],
+      "count": 16
+    },
+    "promotion-strategy": {
+      "id": "promotion-strategy",
+      "preferred": "promotion strategy",
+      "aliases": [
+        "promotion strategies",
+        "promotion strategy"
+      ],
+      "count": 15
+    },
+    "speaking-up-in-meetings": {
+      "id": "speaking-up-in-meetings",
+      "preferred": "speaking up in meetings",
+      "aliases": [
+        "speaking up in meetings"
+      ],
+      "count": 8
+    },
+    "career-stagnation": {
+      "id": "career-stagnation",
+      "preferred": "career stagnation",
+      "aliases": [
+        "career stagnation"
+      ],
+      "count": 8
+    },
+    "imposter-syndrome": {
+      "id": "imposter-syndrome",
+      "preferred": "imposter syndrome",
+      "aliases": [
+        "imposter syndrome"
+      ],
+      "count": 8
+    },
+    "career-transition": {
+      "id": "career-transition",
+      "preferred": "career transition",
+      "aliases": [
+        "career transition",
+        "career transitions"
+      ],
+      "count": 7
+    },
+    "salary-negotiation": {
+      "id": "salary-negotiation",
+      "preferred": "salary negotiation",
+      "aliases": [
+        "salary negotiation"
+      ],
+      "count": 7
+    },
+    "executive-coaching": {
+      "id": "executive-coaching",
+      "preferred": "executive coaching",
+      "aliases": [
+        "executive coaching"
+      ],
+      "count": 7
+    },
+    "workplace-visibility": {
+      "id": "workplace-visibility",
+      "preferred": "workplace visibility",
+      "aliases": [
+        "workplace visibility"
+      ],
+      "count": 6
+    },
+    "career-progression": {
+      "id": "career-progression",
+      "preferred": "career progression",
+      "aliases": [
+        "career progression"
+      ],
+      "count": 6
+    },
+    "career-alignment": {
+      "id": "career-alignment",
+      "preferred": "career alignment",
+      "aliases": [
+        "career alignment"
+      ],
+      "count": 5
+    },
+    "meeting-preparation": {
+      "id": "meeting-preparation",
+      "preferred": "meeting preparation",
+      "aliases": [
+        "meeting preparation"
+      ],
+      "count": 5
+    },
+    "delegation": {
+      "id": "delegation",
+      "preferred": "delegation",
+      "aliases": [
+        "delegation"
+      ],
+      "count": 5
+    },
+    "difficult-conversations": {
+      "id": "difficult-conversations",
+      "preferred": "difficult conversations",
+      "aliases": [
+        "difficult conversations"
+      ],
+      "count": 5
+    },
+    "workplace-boundaries": {
+      "id": "workplace-boundaries",
+      "preferred": "workplace boundaries",
+      "aliases": [
+        "workplace boundaries"
+      ],
+      "count": 5
+    },
+    "promotion-positioning": {
+      "id": "promotion-positioning",
+      "preferred": "promotion positioning",
+      "aliases": [
+        "promotion positioning"
+      ],
+      "count": 5
+    },
+    "leadership-mindset": {
+      "id": "leadership-mindset",
+      "preferred": "leadership mindset",
+      "aliases": [
+        "leadership mindset"
+      ],
+      "count": 4
+    },
+    "career-growth": {
+      "id": "career-growth",
+      "preferred": "career growth",
+      "aliases": [
+        "career growth"
+      ],
+      "count": 4
+    },
+    "strategic-thinking": {
+      "id": "strategic-thinking",
+      "preferred": "strategic thinking",
+      "aliases": [
+        "strategic thinking"
+      ],
+      "count": 4
+    },
+    "career-ownership": {
+      "id": "career-ownership",
+      "preferred": "career ownership",
+      "aliases": [
+        "career ownership"
+      ],
+      "count": 4
+    },
+    "office-politics": {
+      "id": "office-politics",
+      "preferred": "office politics",
+      "aliases": [
+        "office politics"
+      ],
+      "count": 4
+    },
+    "executive-sponsorship": {
+      "id": "executive-sponsorship",
+      "preferred": "executive sponsorship",
+      "aliases": [
+        "executive sponsorship"
+      ],
+      "count": 4
+    },
+    "leadership-perception": {
+      "id": "leadership-perception",
+      "preferred": "leadership perception",
+      "aliases": [
+        "leadership perception"
+      ],
+      "count": 4
+    },
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 4
+    },
+    "setting-boundaries": {
+      "id": "setting-boundaries",
+      "preferred": "setting boundaries",
+      "aliases": [
+        "boundary setting",
+        "setting boundaries"
+      ],
+      "count": 4
+    },
+    "giving-feedback": {
+      "id": "giving-feedback",
+      "preferred": "giving feedback",
+      "aliases": [
+        "delivering feedback",
+        "giving feedback"
+      ],
+      "count": 4
+    },
+    "ambition-vs-gratitude": {
+      "id": "ambition-vs-gratitude",
+      "preferred": "ambition vs gratitude",
+      "aliases": [
+        "ambition vs gratitude"
+      ],
+      "count": 3
+    },
+    "promotion-advocacy": {
+      "id": "promotion-advocacy",
+      "preferred": "promotion advocacy",
+      "aliases": [
+        "promotion advocacy"
+      ],
+      "count": 3
+    },
+    "leadership-impact": {
+      "id": "leadership-impact",
+      "preferred": "leadership impact",
+      "aliases": [
+        "leadership impact"
+      ],
+      "count": 3
+    },
+    "conflict-resolution": {
+      "id": "conflict-resolution",
+      "preferred": "conflict resolution",
+      "aliases": [
+        "conflict resolution"
+      ],
+      "count": 3
+    },
+    "assertive-communication": {
+      "id": "assertive-communication",
+      "preferred": "assertive communication",
+      "aliases": [
+        "assertive communication"
+      ],
+      "count": 3
+    },
+    "career-advancement-strategy": {
+      "id": "career-advancement-strategy",
+      "preferred": "career advancement strategy",
+      "aliases": [
+        "career advancement strategy"
+      ],
+      "count": 3
+    },
+    "executive-communication": {
+      "id": "executive-communication",
+      "preferred": "executive communication",
+      "aliases": [
+        "executive communication"
+      ],
+      "count": 3
+    },
+    "assertiveness": {
+      "id": "assertiveness",
+      "preferred": "assertiveness",
+      "aliases": [
+        "assertiveness"
+      ],
+      "count": 3
+    },
+    "relationship-building": {
+      "id": "relationship-building",
+      "preferred": "relationship building",
+      "aliases": [
+        "relationship building"
+      ],
+      "count": 3
+    },
+    "decision-making": {
+      "id": "decision-making",
+      "preferred": "decision making",
+      "aliases": [
+        "decision making"
+      ],
+      "count": 3
+    },
+    "asking-for-a-raise": {
+      "id": "asking-for-a-raise",
+      "preferred": "asking for a raise",
+      "aliases": [
+        "asking for a raise"
+      ],
+      "count": 3
+    },
+    "leadership-accountability": {
+      "id": "leadership-accountability",
+      "preferred": "leadership accountability",
+      "aliases": [
+        "leadership accountability"
+      ],
+      "count": 3
+    },
+    "feedback-questions": {
+      "id": "feedback-questions",
+      "preferred": "feedback questions",
+      "aliases": [
+        "feedback questions"
+      ],
+      "count": 3
+    },
+    "asking-for-feedback": {
+      "id": "asking-for-feedback",
+      "preferred": "asking for feedback",
+      "aliases": [
+        "asking for feedback",
+        "seeking feedback"
+      ],
+      "count": 3
+    },
+    "emotional-regulation": {
+      "id": "emotional-regulation",
+      "preferred": "emotional regulation",
+      "aliases": [
+        "emotional control",
+        "emotional regulation",
+        "emotional self-regulation"
+      ],
+      "count": 3
+    },
+    "transitioning-to-leadership": {
+      "id": "transitioning-to-leadership",
+      "preferred": "transitioning to leadership",
+      "aliases": [
+        "transitioning from doer to leader",
+        "transitioning from individual contributor to leader",
+        "transitioning to leadership"
+      ],
+      "count": 3
+    },
+    "communication-boundaries": {
+      "id": "communication-boundaries",
+      "preferred": "communication boundaries",
+      "aliases": [
+        "communication boundaries"
+      ],
+      "count": 2
+    },
+    "leadership-onboarding": {
+      "id": "leadership-onboarding",
+      "preferred": "leadership onboarding",
+      "aliases": [
+        "leadership onboarding"
+      ],
+      "count": 2
+    },
+    "composed-response": {
+      "id": "composed-response",
+      "preferred": "composed response",
+      "aliases": [
+        "composed response"
+      ],
+      "count": 2
+    },
+    "monthly-wins-recap": {
+      "id": "monthly-wins-recap",
+      "preferred": "monthly wins recap",
+      "aliases": [
+        "monthly wins recap"
+      ],
+      "count": 2
+    },
+    "building-confidence": {
+      "id": "building-confidence",
+      "preferred": "building confidence",
+      "aliases": [
+        "building confidence"
+      ],
+      "count": 2
+    },
+    "reputation-management": {
+      "id": "reputation-management",
+      "preferred": "reputation management",
+      "aliases": [
+        "reputation management"
+      ],
+      "count": 2
+    },
+    "self-leadership": {
+      "id": "self-leadership",
+      "preferred": "self-leadership",
+      "aliases": [
+        "self-leadership"
+      ],
+      "count": 2
+    },
+    "leadership-confidence": {
+      "id": "leadership-confidence",
+      "preferred": "leadership confidence",
+      "aliases": [
+        "leadership confidence"
+      ],
+      "count": 2
+    },
+    "workload-management": {
+      "id": "workload-management",
+      "preferred": "workload management",
+      "aliases": [
+        "workload management"
+      ],
+      "count": 2
+    },
+    "team-alignment": {
+      "id": "team-alignment",
+      "preferred": "team alignment",
+      "aliases": [
+        "team alignment"
+      ],
+      "count": 2
+    },
+    "vision-communication": {
+      "id": "vision-communication",
+      "preferred": "vision communication",
+      "aliases": [
+        "vision communication"
+      ],
+      "count": 2
+    },
+    "setting-expectations": {
+      "id": "setting-expectations",
+      "preferred": "setting expectations",
+      "aliases": [
+        "setting expectations"
+      ],
+      "count": 2
+    },
+    "strategic-positioning": {
+      "id": "strategic-positioning",
+      "preferred": "strategic positioning",
+      "aliases": [
+        "strategic positioning"
+      ],
+      "count": 2
+    },
+    "calendar-management": {
+      "id": "calendar-management",
+      "preferred": "calendar management",
+      "aliases": [
+        "calendar management"
+      ],
+      "count": 2
+    },
+    "authentic-leadership": {
+      "id": "authentic-leadership",
+      "preferred": "authentic leadership",
+      "aliases": [
+        "authentic leadership"
+      ],
+      "count": 2
+    },
+    "manager-communication": {
+      "id": "manager-communication",
+      "preferred": "manager communication",
+      "aliases": [
+        "manager communication"
+      ],
+      "count": 2
+    },
+    "time-management": {
+      "id": "time-management",
+      "preferred": "time management",
+      "aliases": [
+        "time management"
+      ],
+      "count": 2
+    },
+    "visibility-and-self-advocacy": {
+      "id": "visibility-and-self-advocacy",
+      "preferred": "visibility and self-advocacy",
+      "aliases": [
+        "visibility and self-advocacy"
+      ],
+      "count": 2
+    },
+    "mistake-recovery": {
+      "id": "mistake-recovery",
+      "preferred": "mistake recovery",
+      "aliases": [
+        "mistake recovery"
+      ],
+      "count": 2
+    },
+    "leadership-behavior": {
+      "id": "leadership-behavior",
+      "preferred": "leadership behavior",
+      "aliases": [
+        "leadership behavior"
+      ],
+      "count": 2
+    },
+    "career-development": {
+      "id": "career-development",
+      "preferred": "career development",
+      "aliases": [
+        "career development"
+      ],
+      "count": 2
+    },
+    "leadership-readiness": {
+      "id": "leadership-readiness",
+      "preferred": "leadership readiness",
+      "aliases": [
+        "leadership readiness"
+      ],
+      "count": 2
+    },
+    "psychological-safety": {
+      "id": "psychological-safety",
+      "preferred": "psychological safety",
+      "aliases": [
+        "psychological safety"
+      ],
+      "count": 2
+    },
+    "career-clarity": {
+      "id": "career-clarity",
+      "preferred": "career clarity",
+      "aliases": [
+        "career clarity"
+      ],
+      "count": 2
+    },
+    "compensation-negotiation": {
+      "id": "compensation-negotiation",
+      "preferred": "compensation negotiation",
+      "aliases": [
+        "compensation negotiation"
+      ],
+      "count": 2
+    },
+    "employee-retention": {
+      "id": "employee-retention",
+      "preferred": "employee retention",
+      "aliases": [
+        "employee retention"
+      ],
+      "count": 2
+    },
+    "managing-up": {
+      "id": "managing-up",
+      "preferred": "managing up",
+      "aliases": [
+        "managing up"
+      ],
+      "count": 2
+    },
+    "executive-visibility": {
+      "id": "executive-visibility",
+      "preferred": "executive visibility",
+      "aliases": [
+        "executive visibility"
+      ],
+      "count": 2
+    },
+    "professional-networking": {
+      "id": "professional-networking",
+      "preferred": "professional networking",
+      "aliases": [
+        "professional networking"
+      ],
+      "count": 2
+    },
+    "accountability": {
+      "id": "accountability",
+      "preferred": "accountability",
+      "aliases": [
+        "accountability"
+      ],
+      "count": 2
+    },
+    "direct-communication": {
+      "id": "direct-communication",
+      "preferred": "direct communication",
+      "aliases": [
+        "direct communication"
+      ],
+      "count": 2
+    },
+    "taking-risks": {
+      "id": "taking-risks",
+      "preferred": "taking risks",
+      "aliases": [
+        "risk taking",
+        "taking risks"
+      ],
+      "count": 2
+    },
+    "respect-across-hierarchy": {
+      "id": "respect-across-hierarchy",
+      "preferred": "respect across hierarchy",
+      "aliases": [
+        "respect across hierarchy"
+      ],
+      "count": 1
+    },
+    "leadership-visibility": {
+      "id": "leadership-visibility",
+      "preferred": "leadership visibility",
+      "aliases": [
+        "leadership visibility"
+      ],
+      "count": 1
+    },
+    "professional-reputation": {
+      "id": "professional-reputation",
+      "preferred": "professional reputation",
+      "aliases": [
+        "professional reputation"
+      ],
+      "count": 1
+    },
+    "promotion-to-leadership": {
+      "id": "promotion-to-leadership",
+      "preferred": "promotion to leadership",
+      "aliases": [
+        "promotion to leadership"
+      ],
+      "count": 1
+    },
+    "executive-career-strategy": {
+      "id": "executive-career-strategy",
+      "preferred": "executive career strategy",
+      "aliases": [
+        "executive career strategy"
+      ],
+      "count": 1
+    },
+    "career-growth-mindset": {
+      "id": "career-growth-mindset",
+      "preferred": "career growth mindset",
+      "aliases": [
+        "career growth mindset"
+      ],
+      "count": 1
+    },
+    "leadership-evaluation": {
+      "id": "leadership-evaluation",
+      "preferred": "leadership evaluation",
+      "aliases": [
+        "leadership evaluation"
+      ],
+      "count": 1
+    },
+    "networking-with-senior-leaders": {
+      "id": "networking-with-senior-leaders",
+      "preferred": "networking with senior leaders",
+      "aliases": [
+        "networking with senior leaders"
+      ],
+      "count": 1
+    },
+    "finding-an-executive-sponsor": {
+      "id": "finding-an-executive-sponsor",
+      "preferred": "finding an executive sponsor",
+      "aliases": [
+        "finding an executive sponsor"
+      ],
+      "count": 1
+    },
+    "workplace-perception": {
+      "id": "workplace-perception",
+      "preferred": "workplace perception",
+      "aliases": [
+        "workplace perception"
+      ],
+      "count": 1
+    },
+    "career-exit-strategy": {
+      "id": "career-exit-strategy",
+      "preferred": "career exit strategy",
+      "aliases": [
+        "career exit strategy"
+      ],
+      "count": 1
+    },
+    "speaking-up-without-certainty": {
+      "id": "speaking-up-without-certainty",
+      "preferred": "speaking up without certainty",
+      "aliases": [
+        "speaking up without certainty"
+      ],
+      "count": 1
+    },
+    "navigating-leadership-misalignment": {
+      "id": "navigating-leadership-misalignment",
+      "preferred": "navigating leadership misalignment",
+      "aliases": [
+        "navigating leadership misalignment"
+      ],
+      "count": 1
+    },
+    "leadership-without-title": {
+      "id": "leadership-without-title",
+      "preferred": "leadership without title",
+      "aliases": [
+        "leadership without title"
+      ],
+      "count": 1
+    },
+    "executive-presentations": {
+      "id": "executive-presentations",
+      "preferred": "executive presentations",
+      "aliases": [
+        "executive presentations"
+      ],
+      "count": 1
+    },
+    "messaging-strategy": {
+      "id": "messaging-strategy",
+      "preferred": "messaging strategy",
+      "aliases": [
+        "messaging strategy"
+      ],
+      "count": 1
+    },
+    "presentation-delivery": {
+      "id": "presentation-delivery",
+      "preferred": "presentation delivery",
+      "aliases": [
+        "presentation delivery"
+      ],
+      "count": 1
+    },
+    "rebuilding-trust": {
+      "id": "rebuilding-trust",
+      "preferred": "rebuilding trust",
+      "aliases": [
+        "rebuilding trust"
+      ],
+      "count": 1
+    },
+    "real-time-practice": {
+      "id": "real-time-practice",
+      "preferred": "real-time practice",
+      "aliases": [
+        "real-time practice"
+      ],
+      "count": 1
+    },
+    "career-acceleration": {
+      "id": "career-acceleration",
+      "preferred": "career acceleration",
+      "aliases": [
+        "career acceleration"
+      ],
+      "count": 1
+    },
+    "sponsorship": {
+      "id": "sponsorship",
+      "preferred": "sponsorship",
+      "aliases": [
+        "sponsorship"
+      ],
+      "count": 1
+    },
+    "workplace-communication": {
+      "id": "workplace-communication",
+      "preferred": "workplace communication",
+      "aliases": [
+        "workplace communication"
+      ],
+      "count": 1
+    },
+    "career-strategy": {
+      "id": "career-strategy",
+      "preferred": "career strategy",
+      "aliases": [
+        "career strategy"
+      ],
+      "count": 1
+    },
+    "imposter-syndrome-vs-poor-management": {
+      "id": "imposter-syndrome-vs-poor-management",
+      "preferred": "imposter syndrome vs poor management",
+      "aliases": [
+        "imposter syndrome vs poor management"
+      ],
+      "count": 1
+    },
+    "navigating-workplace-relationships-and-self-advocacy": {
+      "id": "navigating-workplace-relationships-and-self-advocacy",
+      "preferred": "navigating workplace relationships and self-advocacy",
+      "aliases": [
+        "navigating workplace relationships and self-advocacy"
+      ],
+      "count": 1
+    },
+    "meeting-management": {
+      "id": "meeting-management",
+      "preferred": "meeting management",
+      "aliases": [
+        "meeting management"
+      ],
+      "count": 1
+    },
+    "time-blocking": {
+      "id": "time-blocking",
+      "preferred": "time blocking",
+      "aliases": [
+        "time blocking"
+      ],
+      "count": 1
+    },
+    "feedback-sessions": {
+      "id": "feedback-sessions",
+      "preferred": "feedback sessions",
+      "aliases": [
+        "feedback sessions"
+      ],
+      "count": 1
+    },
+    "embracing-career-challenges": {
+      "id": "embracing-career-challenges",
+      "preferred": "embracing career challenges",
+      "aliases": [
+        "embracing career challenges"
+      ],
+      "count": 1
+    },
+    "advocacy-and-relationship-building": {
+      "id": "advocacy-and-relationship-building",
+      "preferred": "advocacy and relationship building",
+      "aliases": [
+        "advocacy and relationship building"
+      ],
+      "count": 1
+    },
+    "leadership-connection-vs-expertise": {
+      "id": "leadership-connection-vs-expertise",
+      "preferred": "leadership connection vs expertise",
+      "aliases": [
+        "leadership connection vs expertise"
+      ],
+      "count": 1
+    },
+    "career-advancement-mistakes": {
+      "id": "career-advancement-mistakes",
+      "preferred": "career advancement mistakes",
+      "aliases": [
+        "career advancement mistakes"
+      ],
+      "count": 1
+    },
+    "reframing-failure": {
+      "id": "reframing-failure",
+      "preferred": "reframing failure",
+      "aliases": [
+        "reframing failure"
+      ],
+      "count": 1
+    },
+    "promotion-conversations": {
+      "id": "promotion-conversations",
+      "preferred": "promotion conversations",
+      "aliases": [
+        "promotion conversations"
+      ],
+      "count": 1
+    },
+    "executive-presence-and-visibility": {
+      "id": "executive-presence-and-visibility",
+      "preferred": "executive presence and visibility",
+      "aliases": [
+        "executive presence and visibility"
+      ],
+      "count": 1
+    },
+    "bonus-negotiation": {
+      "id": "bonus-negotiation",
+      "preferred": "bonus negotiation",
+      "aliases": [
+        "bonus negotiation"
+      ],
+      "count": 1
+    },
+    "networking-and-influence": {
+      "id": "networking-and-influence",
+      "preferred": "networking and influence",
+      "aliases": [
+        "networking and influence"
+      ],
+      "count": 1
+    },
+    "team-feedback": {
+      "id": "team-feedback",
+      "preferred": "team feedback",
+      "aliases": [
+        "team feedback"
+      ],
+      "count": 1
+    },
+    "demonstrating-impact": {
+      "id": "demonstrating-impact",
+      "preferred": "demonstrating impact",
+      "aliases": [
+        "demonstrating impact"
+      ],
+      "count": 1
+    },
+    "aligning-priorities-with-management": {
+      "id": "aligning-priorities-with-management",
+      "preferred": "aligning priorities with management",
+      "aliases": [
+        "aligning priorities with management"
+      ],
+      "count": 1
+    },
+    "public-speaking": {
+      "id": "public-speaking",
+      "preferred": "public speaking",
+      "aliases": [
+        "public speaking"
+      ],
+      "count": 1
+    },
+    "body-language": {
+      "id": "body-language",
+      "preferred": "body language",
+      "aliases": [
+        "body language"
+      ],
+      "count": 1
+    },
+    "leadership-authority": {
+      "id": "leadership-authority",
+      "preferred": "leadership authority",
+      "aliases": [
+        "leadership authority"
+      ],
+      "count": 1
+    },
+    "leadership-principles": {
+      "id": "leadership-principles",
+      "preferred": "leadership principles",
+      "aliases": [
+        "leadership principles"
+      ],
+      "count": 1
+    },
+    "advocacy-in-leadership": {
+      "id": "advocacy-in-leadership",
+      "preferred": "advocacy in leadership",
+      "aliases": [
+        "advocacy in leadership"
+      ],
+      "count": 1
+    },
+    "team-elevation": {
+      "id": "team-elevation",
+      "preferred": "team elevation",
+      "aliases": [
+        "team elevation"
+      ],
+      "count": 1
+    },
+    "positioning-as-high-value-asset": {
+      "id": "positioning-as-high-value-asset",
+      "preferred": "positioning as high-value asset",
+      "aliases": [
+        "positioning as high-value asset"
+      ],
+      "count": 1
+    },
+    "visibility-and-executive-presence": {
+      "id": "visibility-and-executive-presence",
+      "preferred": "visibility and executive presence",
+      "aliases": [
+        "visibility and executive presence"
+      ],
+      "count": 1
+    },
+    "quantifying-achievements": {
+      "id": "quantifying-achievements",
+      "preferred": "quantifying achievements",
+      "aliases": [
+        "quantifying achievements"
+      ],
+      "count": 1
+    },
+    "career-values": {
+      "id": "career-values",
+      "preferred": "career values",
+      "aliases": [
+        "career values"
+      ],
+      "count": 1
+    },
+    "authentic-communication": {
+      "id": "authentic-communication",
+      "preferred": "authentic communication",
+      "aliases": [
+        "authentic communication"
+      ],
+      "count": 1
+    },
+    "decision-making-under-uncertainty": {
+      "id": "decision-making-under-uncertainty",
+      "preferred": "decision making under uncertainty",
+      "aliases": [
+        "decision making under uncertainty"
+      ],
+      "count": 1
+    },
+    "sustainable-achievement": {
+      "id": "sustainable-achievement",
+      "preferred": "sustainable achievement",
+      "aliases": [
+        "sustainable achievement"
+      ],
+      "count": 1
+    },
+    "feedback-conversations": {
+      "id": "feedback-conversations",
+      "preferred": "feedback conversations",
+      "aliases": [
+        "feedback conversations"
+      ],
+      "count": 1
+    },
+    "tracking-achievements": {
+      "id": "tracking-achievements",
+      "preferred": "tracking achievements",
+      "aliases": [
+        "tracking achievements"
+      ],
+      "count": 1
+    },
+    "asserting-expertise": {
+      "id": "asserting-expertise",
+      "preferred": "asserting expertise",
+      "aliases": [
+        "asserting expertise"
+      ],
+      "count": 1
+    },
+    "owning-career-growth": {
+      "id": "owning-career-growth",
+      "preferred": "owning career growth",
+      "aliases": [
+        "owning career growth"
+      ],
+      "count": 1
+    },
+    "executive-and-career-coaching": {
+      "id": "executive-and-career-coaching",
+      "preferred": "executive and career coaching",
+      "aliases": [
+        "executive and career coaching"
+      ],
+      "count": 1
+    },
+    "burnout-prevention": {
+      "id": "burnout-prevention",
+      "preferred": "burnout prevention",
+      "aliases": [
+        "burnout prevention"
+      ],
+      "count": 1
+    },
+    "burnout-and-alignment": {
+      "id": "burnout-and-alignment",
+      "preferred": "burnout and alignment",
+      "aliases": [
+        "burnout and alignment"
+      ],
+      "count": 1
+    },
+    "mindset-shift": {
+      "id": "mindset-shift",
+      "preferred": "mindset shift",
+      "aliases": [
+        "mindset shift"
+      ],
+      "count": 1
+    },
+    "workplace-comparison": {
+      "id": "workplace-comparison",
+      "preferred": "workplace comparison",
+      "aliases": [
+        "workplace comparison"
+      ],
+      "count": 1
+    },
+    "availability-boundaries": {
+      "id": "availability-boundaries",
+      "preferred": "availability boundaries",
+      "aliases": [
+        "availability boundaries"
+      ],
+      "count": 1
+    },
+    "respectful-leadership": {
+      "id": "respectful-leadership",
+      "preferred": "respectful leadership",
+      "aliases": [
+        "respectful leadership"
+      ],
+      "count": 1
+    },
+    "asking-for-support": {
+      "id": "asking-for-support",
+      "preferred": "asking for support",
+      "aliases": [
+        "asking for support"
+      ],
+      "count": 1
+    },
+    "proactive-communication": {
+      "id": "proactive-communication",
+      "preferred": "proactive communication",
+      "aliases": [
+        "proactive communication"
+      ],
+      "count": 1
+    },
+    "leadership-credibility-and-tone-setting": {
+      "id": "leadership-credibility-and-tone-setting",
+      "preferred": "leadership credibility and tone setting",
+      "aliases": [
+        "leadership credibility and tone setting"
+      ],
+      "count": 1
+    },
+    "leadership-promotion": {
+      "id": "leadership-promotion",
+      "preferred": "leadership promotion",
+      "aliases": [
+        "leadership promotion"
+      ],
+      "count": 1
+    },
+    "conflict-communication": {
+      "id": "conflict-communication",
+      "preferred": "conflict communication",
+      "aliases": [
+        "conflict communication"
+      ],
+      "count": 1
+    },
+    "addressing-workplace-disrespect": {
+      "id": "addressing-workplace-disrespect",
+      "preferred": "addressing workplace disrespect",
+      "aliases": [
+        "addressing workplace disrespect"
+      ],
+      "count": 1
+    },
+    "de-escalation": {
+      "id": "de-escalation",
+      "preferred": "de-escalation",
+      "aliases": [
+        "de-escalation"
+      ],
+      "count": 1
+    },
+    "sustainable-health-habits": {
+      "id": "sustainable-health-habits",
+      "preferred": "sustainable health habits",
+      "aliases": [
+        "sustainable health habits"
+      ],
+      "count": 1
+    },
+    "self-advocacy-in-corporate-promotions": {
+      "id": "self-advocacy-in-corporate-promotions",
+      "preferred": "self-advocacy in corporate promotions",
+      "aliases": [
+        "self-advocacy in corporate promotions"
+      ],
+      "count": 1
+    },
+    "senior-leader-coffee-chats": {
+      "id": "senior-leader-coffee-chats",
+      "preferred": "senior leader coffee chats",
+      "aliases": [
+        "senior leader coffee chats"
+      ],
+      "count": 1
+    },
+    "holiday-reflection": {
+      "id": "holiday-reflection",
+      "preferred": "holiday reflection",
+      "aliases": [
+        "holiday reflection"
+      ],
+      "count": 1
+    },
+    "professional-identity": {
+      "id": "professional-identity",
+      "preferred": "professional identity",
+      "aliases": [
+        "professional identity"
+      ],
+      "count": 1
+    },
+    "rest-and-celebration": {
+      "id": "rest-and-celebration",
+      "preferred": "rest and celebration",
+      "aliases": [
+        "rest and celebration"
+      ],
+      "count": 1
+    },
+    "new-year-pressure-and-rest": {
+      "id": "new-year-pressure-and-rest",
+      "preferred": "New Year pressure and rest",
+      "aliases": [
+        "New Year pressure and rest"
+      ],
+      "count": 1
+    },
+    "career-visibility-and-positioning": {
+      "id": "career-visibility-and-positioning",
+      "preferred": "career visibility and positioning",
+      "aliases": [
+        "career visibility and positioning"
+      ],
+      "count": 1
+    },
+    "boundaries": {
+      "id": "boundaries",
+      "preferred": "boundaries",
+      "aliases": [
+        "boundaries"
+      ],
+      "count": 1
+    },
+    "energy-management": {
+      "id": "energy-management",
+      "preferred": "energy management",
+      "aliases": [
+        "energy management"
+      ],
+      "count": 1
+    },
+    "professional-visibility-and-networking": {
+      "id": "professional-visibility-and-networking",
+      "preferred": "professional visibility and networking",
+      "aliases": [
+        "professional visibility and networking"
+      ],
+      "count": 1
+    },
+    "leadership-positioning": {
+      "id": "leadership-positioning",
+      "preferred": "leadership positioning",
+      "aliases": [
+        "leadership positioning"
+      ],
+      "count": 1
+    },
+    "workplace-alliances": {
+      "id": "workplace-alliances",
+      "preferred": "workplace alliances",
+      "aliases": [
+        "workplace alliances"
+      ],
+      "count": 1
+    },
+    "making-tough-decisions": {
+      "id": "making-tough-decisions",
+      "preferred": "making tough decisions",
+      "aliases": [
+        "making tough decisions"
+      ],
+      "count": 1
+    },
+    "trust-ladder": {
+      "id": "trust-ladder",
+      "preferred": "trust ladder",
+      "aliases": [
+        "trust ladder"
+      ],
+      "count": 1
+    },
+    "career-positioning": {
+      "id": "career-positioning",
+      "preferred": "career positioning",
+      "aliases": [
+        "career positioning"
+      ],
+      "count": 1
+    },
+    "leadership-communication": {
+      "id": "leadership-communication",
+      "preferred": "leadership communication",
+      "aliases": [
+        "leadership communication"
+      ],
+      "count": 1
+    },
+    "overworking-vs-leadership": {
+      "id": "overworking-vs-leadership",
+      "preferred": "overworking vs leadership",
+      "aliases": [
+        "overworking vs leadership"
+      ],
+      "count": 1
+    },
+    "working-motherhood-identity": {
+      "id": "working-motherhood-identity",
+      "preferred": "working motherhood identity",
+      "aliases": [
+        "working motherhood identity"
+      ],
+      "count": 1
+    },
+    "career-advancement-and-visibility": {
+      "id": "career-advancement-and-visibility",
+      "preferred": "career advancement and visibility",
+      "aliases": [
+        "career advancement and visibility"
+      ],
+      "count": 1
+    },
+    "career-evolution": {
+      "id": "career-evolution",
+      "preferred": "career evolution",
+      "aliases": [
+        "career evolution"
+      ],
+      "count": 1
+    },
+    "leadership-transition": {
+      "id": "leadership-transition",
+      "preferred": "leadership transition",
+      "aliases": [
+        "leadership transition"
+      ],
+      "count": 1
+    },
+    "owning-mistakes": {
+      "id": "owning-mistakes",
+      "preferred": "owning mistakes",
+      "aliases": [
+        "owning mistakes"
+      ],
+      "count": 1
+    },
+    "learning-from-setbacks": {
+      "id": "learning-from-setbacks",
+      "preferred": "learning from setbacks",
+      "aliases": [
+        "learning from setbacks"
+      ],
+      "count": 1
+    },
+    "embracing-difficulty-for-growth": {
+      "id": "embracing-difficulty-for-growth",
+      "preferred": "embracing difficulty for growth",
+      "aliases": [
+        "embracing difficulty for growth"
+      ],
+      "count": 1
+    },
+    "internal-standards": {
+      "id": "internal-standards",
+      "preferred": "internal standards",
+      "aliases": [
+        "internal standards"
+      ],
+      "count": 1
+    },
+    "people-pleasing": {
+      "id": "people-pleasing",
+      "preferred": "people pleasing",
+      "aliases": [
+        "people pleasing"
+      ],
+      "count": 1
+    },
+    "market-value": {
+      "id": "market-value",
+      "preferred": "market value",
+      "aliases": [
+        "market value"
+      ],
+      "count": 1
+    },
+    "workplace-trust": {
+      "id": "workplace-trust",
+      "preferred": "workplace trust",
+      "aliases": [
+        "workplace trust"
+      ],
+      "count": 1
+    },
+    "speaking-up": {
+      "id": "speaking-up",
+      "preferred": "speaking up",
+      "aliases": [
+        "speaking up"
+      ],
+      "count": 1
+    },
+    "documenting-achievements": {
+      "id": "documenting-achievements",
+      "preferred": "documenting achievements",
+      "aliases": [
+        "documenting achievements"
+      ],
+      "count": 1
+    },
+    "promotion-visibility": {
+      "id": "promotion-visibility",
+      "preferred": "promotion visibility",
+      "aliases": [
+        "promotion visibility"
+      ],
+      "count": 1
+    },
+    "trusting-your-judgment": {
+      "id": "trusting-your-judgment",
+      "preferred": "trusting your judgment",
+      "aliases": [
+        "trusting your judgment"
+      ],
+      "count": 1
+    },
+    "team-buy-in": {
+      "id": "team-buy-in",
+      "preferred": "team buy-in",
+      "aliases": [
+        "team buy-in"
+      ],
+      "count": 1
+    },
+    "positioning": {
+      "id": "positioning",
+      "preferred": "positioning",
+      "aliases": [
+        "positioning"
+      ],
+      "count": 1
+    },
+    "human-leadership-development": {
+      "id": "human-leadership-development",
+      "preferred": "human leadership development",
+      "aliases": [
+        "human leadership development"
+      ],
+      "count": 1
+    },
+    "self-worth-and-feedback": {
+      "id": "self-worth-and-feedback",
+      "preferred": "self-worth and feedback",
+      "aliases": [
+        "self-worth and feedback"
+      ],
+      "count": 1
+    },
+    "promotion-parity": {
+      "id": "promotion-parity",
+      "preferred": "promotion parity",
+      "aliases": [
+        "promotion parity"
+      ],
+      "count": 1
+    },
+    "quantifying-impact": {
+      "id": "quantifying-impact",
+      "preferred": "quantifying impact",
+      "aliases": [
+        "quantifying impact"
+      ],
+      "count": 1
+    },
+    "aligning-with-leadership": {
+      "id": "aligning-with-leadership",
+      "preferred": "aligning with leadership",
+      "aliases": [
+        "aligning with leadership"
+      ],
+      "count": 1
+    },
+    "strategic-visibility": {
+      "id": "strategic-visibility",
+      "preferred": "strategic visibility",
+      "aliases": [
+        "strategic visibility"
+      ],
+      "count": 1
+    },
+    "sponsorship-vs-mentorship": {
+      "id": "sponsorship-vs-mentorship",
+      "preferred": "sponsorship vs mentorship",
+      "aliases": [
+        "sponsorship vs mentorship"
+      ],
+      "count": 1
+    },
+    "strategic-positioning-vs-hard-work": {
+      "id": "strategic-positioning-vs-hard-work",
+      "preferred": "strategic positioning vs hard work",
+      "aliases": [
+        "strategic positioning vs hard work"
+      ],
+      "count": 1
+    },
+    "leadership-blind-spots": {
+      "id": "leadership-blind-spots",
+      "preferred": "leadership blind spots",
+      "aliases": [
+        "leadership blind spots"
+      ],
+      "count": 1
+    },
+    "constructive-feedback": {
+      "id": "constructive-feedback",
+      "preferred": "constructive feedback",
+      "aliases": [
+        "constructive feedback"
+      ],
+      "count": 1
+    },
+    "leadership-identity": {
+      "id": "leadership-identity",
+      "preferred": "leadership identity",
+      "aliases": [
+        "leadership identity"
+      ],
+      "count": 1
+    },
+    "manager-training": {
+      "id": "manager-training",
+      "preferred": "manager training",
+      "aliases": [
+        "manager training"
+      ],
+      "count": 1
+    },
+    "people-leadership-development": {
+      "id": "people-leadership-development",
+      "preferred": "people leadership development",
+      "aliases": [
+        "people leadership development"
+      ],
+      "count": 1
+    },
+    "mentorship-vs-sponsorship": {
+      "id": "mentorship-vs-sponsorship",
+      "preferred": "mentorship vs sponsorship",
+      "aliases": [
+        "mentorship vs sponsorship"
+      ],
+      "count": 1
+    },
+    "promotion-rejection": {
+      "id": "promotion-rejection",
+      "preferred": "promotion rejection",
+      "aliases": [
+        "promotion rejection"
+      ],
+      "count": 1
+    },
+    "performance-reviews": {
+      "id": "performance-reviews",
+      "preferred": "performance reviews",
+      "aliases": [
+        "performance reviews"
+      ],
+      "count": 1
+    },
+    "career-progression-communication": {
+      "id": "career-progression-communication",
+      "preferred": "career progression communication",
+      "aliases": [
+        "career progression communication"
+      ],
+      "count": 1
+    },
+    "talent-retention": {
+      "id": "talent-retention",
+      "preferred": "talent retention",
+      "aliases": [
+        "talent retention"
+      ],
+      "count": 1
+    },
+    "talent-visibility": {
+      "id": "talent-visibility",
+      "preferred": "talent visibility",
+      "aliases": [
+        "talent visibility"
+      ],
+      "count": 1
+    },
+    "career-self-advocacy": {
+      "id": "career-self-advocacy",
+      "preferred": "career self-advocacy",
+      "aliases": [
+        "career self-advocacy"
+      ],
+      "count": 1
+    },
+    "timing-salary-negotiations": {
+      "id": "timing-salary-negotiations",
+      "preferred": "timing salary negotiations",
+      "aliases": [
+        "timing salary negotiations"
+      ],
+      "count": 1
+    },
+    "quantifying-business-impact": {
+      "id": "quantifying-business-impact",
+      "preferred": "quantifying business impact",
+      "aliases": [
+        "quantifying business impact"
+      ],
+      "count": 1
+    },
+    "handling-rejection-in-negotiations": {
+      "id": "handling-rejection-in-negotiations",
+      "preferred": "handling rejection in negotiations",
+      "aliases": [
+        "handling rejection in negotiations"
+      ],
+      "count": 1
+    },
+    "achievement-and-burnout": {
+      "id": "achievement-and-burnout",
+      "preferred": "achievement and burnout",
+      "aliases": [
+        "achievement and burnout"
+      ],
+      "count": 1
+    },
+    "business-impact-alignment": {
+      "id": "business-impact-alignment",
+      "preferred": "business impact alignment",
+      "aliases": [
+        "business impact alignment"
+      ],
+      "count": 1
+    },
+    "burnout": {
+      "id": "burnout",
+      "preferred": "burnout",
+      "aliases": [
+        "burnout"
+      ],
+      "count": 1
+    },
+    "comparison-in-corporate": {
+      "id": "comparison-in-corporate",
+      "preferred": "comparison in corporate",
+      "aliases": [
+        "comparison in corporate"
+      ],
+      "count": 1
+    },
+    "burnout-and-leadership": {
+      "id": "burnout-and-leadership",
+      "preferred": "burnout and leadership",
+      "aliases": [
+        "burnout and leadership"
+      ],
+      "count": 1
+    },
+    "workplace-respect": {
+      "id": "workplace-respect",
+      "preferred": "workplace respect",
+      "aliases": [
+        "workplace respect"
+      ],
+      "count": 1
+    },
+    "asking-for-support-and-growth": {
+      "id": "asking-for-support-and-growth",
+      "preferred": "asking for support and growth",
+      "aliases": [
+        "asking for support and growth"
+      ],
+      "count": 1
+    },
+    "high-performer-burnout": {
+      "id": "high-performer-burnout",
+      "preferred": "high-performer burnout",
+      "aliases": [
+        "high-performer burnout"
+      ],
+      "count": 1
+    },
+    "workplace-culture-fit": {
+      "id": "workplace-culture-fit",
+      "preferred": "workplace culture fit",
+      "aliases": [
+        "workplace culture fit"
+      ],
+      "count": 1
+    },
+    "management-vs-individual-contributor": {
+      "id": "management-vs-individual-contributor",
+      "preferred": "management vs individual contributor",
+      "aliases": [
+        "management vs individual contributor"
+      ],
+      "count": 1
+    },
+    "high-performer-career-plateau": {
+      "id": "high-performer-career-plateau",
+      "preferred": "high-performer career plateau",
+      "aliases": [
+        "high-performer career plateau"
+      ],
+      "count": 1
+    },
+    "handling-rude-comments": {
+      "id": "handling-rude-comments",
+      "preferred": "handling rude comments",
+      "aliases": [
+        "handling rude comments"
+      ],
+      "count": 1
+    },
+    "corporate-visibility": {
+      "id": "corporate-visibility",
+      "preferred": "corporate visibility",
+      "aliases": [
+        "corporate visibility"
+      ],
+      "count": 1
+    },
+    "people-leadership": {
+      "id": "people-leadership",
+      "preferred": "people leadership",
+      "aliases": [
+        "people leadership"
+      ],
+      "count": 1
+    },
+    "career-pivot": {
+      "id": "career-pivot",
+      "preferred": "career pivot",
+      "aliases": [
+        "career pivot"
+      ],
+      "count": 1
+    },
+    "leadership-authenticity": {
+      "id": "leadership-authenticity",
+      "preferred": "leadership authenticity",
+      "aliases": [
+        "leadership authenticity"
+      ],
+      "count": 1
+    },
+    "stakeholder-alignment": {
+      "id": "stakeholder-alignment",
+      "preferred": "stakeholder alignment",
+      "aliases": [
+        "stakeholder alignment"
+      ],
+      "count": 1
+    },
+    "message-clarity": {
+      "id": "message-clarity",
+      "preferred": "message clarity",
+      "aliases": [
+        "message clarity"
+      ],
+      "count": 1
+    },
+    "pausing-for-impact": {
+      "id": "pausing-for-impact",
+      "preferred": "pausing for impact",
+      "aliases": [
+        "pausing for impact"
+      ],
+      "count": 1
+    },
+    "leadership-advancement": {
+      "id": "leadership-advancement",
+      "preferred": "leadership advancement",
+      "aliases": [
+        "leadership advancement"
+      ],
+      "count": 1
+    },
+    "problem-resolution": {
+      "id": "problem-resolution",
+      "preferred": "problem resolution",
+      "aliases": [
+        "problem resolution"
+      ],
+      "count": 1
+    },
+    "executive-presence-and-career-growth": {
+      "id": "executive-presence-and-career-growth",
+      "preferred": "executive presence and career growth",
+      "aliases": [
+        "executive presence and career growth"
+      ],
+      "count": 1
+    },
+    "workplace-reputation": {
+      "id": "workplace-reputation",
+      "preferred": "workplace reputation",
+      "aliases": [
+        "workplace reputation"
+      ],
+      "count": 1
+    },
+    "skill-stacking": {
+      "id": "skill-stacking",
+      "preferred": "skill stacking",
+      "aliases": [
+        "skill stacking"
+      ],
+      "count": 1
+    },
+    "workplace-relationships": {
+      "id": "workplace-relationships",
+      "preferred": "workplace relationships",
+      "aliases": [
+        "workplace relationships"
+      ],
+      "count": 1
+    },
+    "internal-networking": {
+      "id": "internal-networking",
+      "preferred": "internal networking",
+      "aliases": [
+        "internal networking"
+      ],
+      "count": 1
+    },
+    "promotion-expectations": {
+      "id": "promotion-expectations",
+      "preferred": "promotion expectations",
+      "aliases": [
+        "promotion expectations"
+      ],
+      "count": 1
+    },
+    "skill-gaps": {
+      "id": "skill-gaps",
+      "preferred": "skill gaps",
+      "aliases": [
+        "skill gaps"
+      ],
+      "count": 1
+    },
+    "asking-for-a-promotion": {
+      "id": "asking-for-a-promotion",
+      "preferred": "asking for a promotion",
+      "aliases": [
+        "asking for a promotion"
+      ],
+      "count": 1
+    },
+    "executive-leadership-mindset": {
+      "id": "executive-leadership-mindset",
+      "preferred": "executive leadership mindset",
+      "aliases": [
+        "executive leadership mindset"
+      ],
+      "count": 1
+    },
+    "small-talk": {
+      "id": "small-talk",
+      "preferred": "small talk",
+      "aliases": [
+        "small talk"
+      ],
+      "count": 1
+    },
+    "stakeholder-trust": {
+      "id": "stakeholder-trust",
+      "preferred": "stakeholder trust",
+      "aliases": [
+        "stakeholder trust"
+      ],
+      "count": 1
+    },
+    "communicating-business-impact": {
+      "id": "communicating-business-impact",
+      "preferred": "communicating business impact",
+      "aliases": [
+        "communicating business impact"
+      ],
+      "count": 1
+    },
+    "strategic-recommendations": {
+      "id": "strategic-recommendations",
+      "preferred": "strategic recommendations",
+      "aliases": [
+        "strategic recommendations"
+      ],
+      "count": 1
+    },
+    "peer-reputation-and-collaboration": {
+      "id": "peer-reputation-and-collaboration",
+      "preferred": "peer reputation and collaboration",
+      "aliases": [
+        "peer reputation and collaboration"
+      ],
+      "count": 1
+    },
+    "leadership-advocacy": {
+      "id": "leadership-advocacy",
+      "preferred": "leadership advocacy",
+      "aliases": [
+        "leadership advocacy"
+      ],
+      "count": 1
+    },
+    "handling-adversity-and-feedback": {
+      "id": "handling-adversity-and-feedback",
+      "preferred": "handling adversity and feedback",
+      "aliases": [
+        "handling adversity and feedback"
+      ],
+      "count": 1
+    },
+    "promotion-decisions": {
+      "id": "promotion-decisions",
+      "preferred": "promotion decisions",
+      "aliases": [
+        "promotion decisions"
+      ],
+      "count": 1
+    },
+    "career-advancement-in-finance": {
+      "id": "career-advancement-in-finance",
+      "preferred": "career advancement in finance",
+      "aliases": [
+        "career advancement in finance"
+      ],
+      "count": 1
+    },
+    "managerial-boundaries": {
+      "id": "managerial-boundaries",
+      "preferred": "managerial boundaries",
+      "aliases": [
+        "managerial boundaries"
+      ],
+      "count": 1
+    },
+    "favoritism-in-the-workplace": {
+      "id": "favoritism-in-the-workplace",
+      "preferred": "favoritism in the workplace",
+      "aliases": [
+        "favoritism in the workplace"
+      ],
+      "count": 1
+    },
+    "giving-constructive-feedback": {
+      "id": "giving-constructive-feedback",
+      "preferred": "giving constructive feedback",
+      "aliases": [
+        "giving constructive feedback"
+      ],
+      "count": 1
+    },
+    "executive-leadership-coaching": {
+      "id": "executive-leadership-coaching",
+      "preferred": "executive leadership coaching",
+      "aliases": [
+        "executive leadership coaching"
+      ],
+      "count": 1
+    },
+    "sharing-ideas": {
+      "id": "sharing-ideas",
+      "preferred": "sharing ideas",
+      "aliases": [
+        "sharing ideas"
+      ],
+      "count": 1
+    },
+    "handling-unknown-information": {
+      "id": "handling-unknown-information",
+      "preferred": "handling unknown information",
+      "aliases": [
+        "handling unknown information"
+      ],
+      "count": 1
+    },
+    "handling-pushback": {
+      "id": "handling-pushback",
+      "preferred": "handling pushback",
+      "aliases": [
+        "handling pushback"
+      ],
+      "count": 1
+    },
+    "promotion-readiness": {
+      "id": "promotion-readiness",
+      "preferred": "promotion readiness",
+      "aliases": [
+        "promotion readiness"
+      ],
+      "count": 1
+    },
+    "psychological-safety-and-openness": {
+      "id": "psychological-safety-and-openness",
+      "preferred": "psychological safety and openness",
+      "aliases": [
+        "psychological safety and openness"
+      ],
+      "count": 1
+    },
+    "receiving-feedback": {
+      "id": "receiving-feedback",
+      "preferred": "receiving feedback",
+      "aliases": [
+        "receiving feedback"
+      ],
+      "count": 1
+    },
+    "peer-collaboration": {
+      "id": "peer-collaboration",
+      "preferred": "peer collaboration",
+      "aliases": [
+        "peer collaboration"
+      ],
+      "count": 1
+    },
+    "people-development": {
+      "id": "people-development",
+      "preferred": "people development",
+      "aliases": [
+        "people development"
+      ],
+      "count": 1
+    },
+    "strategic-oversight": {
+      "id": "strategic-oversight",
+      "preferred": "strategic oversight",
+      "aliases": [
+        "strategic oversight"
+      ],
+      "count": 1
+    },
+    "career-goal-setting": {
+      "id": "career-goal-setting",
+      "preferred": "career goal setting",
+      "aliases": [
+        "career goal setting"
+      ],
+      "count": 1
+    },
+    "career-research": {
+      "id": "career-research",
+      "preferred": "career research",
+      "aliases": [
+        "career research"
+      ],
+      "count": 1
+    },
+    "manager-1-on-1-career-conversation": {
+      "id": "manager-1-on-1-career-conversation",
+      "preferred": "manager 1-on-1 career conversation",
+      "aliases": [
+        "manager 1-on-1 career conversation"
+      ],
+      "count": 1
+    },
+    "professional-development": {
+      "id": "professional-development",
+      "preferred": "professional development",
+      "aliases": [
+        "professional development"
+      ],
+      "count": 1
+    },
+    "elevator-pitch": {
+      "id": "elevator-pitch",
+      "preferred": "elevator pitch",
+      "aliases": [
+        "elevator pitch"
+      ],
+      "count": 1
+    },
+    "setting-intentions": {
+      "id": "setting-intentions",
+      "preferred": "setting intentions",
+      "aliases": [
+        "setting intentions"
+      ],
+      "count": 1
+    },
+    "mindset": {
+      "id": "mindset",
+      "preferred": "mindset",
+      "aliases": [
+        "mindset"
+      ],
+      "count": 1
+    },
+    "call-onboarding": {
+      "id": "call-onboarding",
+      "preferred": "call onboarding",
+      "aliases": [
+        "call onboarding"
+      ],
+      "count": 1
+    },
+    "career-strategy-call": {
+      "id": "career-strategy-call",
+      "preferred": "career strategy call",
+      "aliases": [
+        "career strategy call"
+      ],
+      "count": 1
+    },
+    "website-legal-disclaimer": {
+      "id": "website-legal-disclaimer",
+      "preferred": "website legal disclaimer",
+      "aliases": [
+        "website legal disclaimer"
+      ],
+      "count": 1
+    },
+    "limitation-of-liability": {
+      "id": "limitation-of-liability",
+      "preferred": "limitation of liability",
+      "aliases": [
+        "limitation of liability"
+      ],
+      "count": 1
+    },
+    "medical-advice-disclaimer": {
+      "id": "medical-advice-disclaimer",
+      "preferred": "medical advice disclaimer",
+      "aliases": [
+        "medical advice disclaimer"
+      ],
+      "count": 1
+    },
+    "executive-promotions": {
+      "id": "executive-promotions",
+      "preferred": "executive promotions",
+      "aliases": [
+        "executive promotions"
+      ],
+      "count": 1
+    },
+    "masterclass-registration": {
+      "id": "masterclass-registration",
+      "preferred": "masterclass registration",
+      "aliases": [
+        "masterclass registration"
+      ],
+      "count": 1
+    },
+    "career-advancement-and-promotions": {
+      "id": "career-advancement-and-promotions",
+      "preferred": "career advancement and promotions",
+      "aliases": [
+        "career advancement and promotions"
+      ],
+      "count": 1
+    },
+    "masterclass-onboarding": {
+      "id": "masterclass-onboarding",
+      "preferred": "masterclass onboarding",
+      "aliases": [
+        "masterclass onboarding"
+      ],
+      "count": 1
+    },
+    "executive-leadership-newsletter": {
+      "id": "executive-leadership-newsletter",
+      "preferred": "executive leadership newsletter",
+      "aliases": [
+        "executive leadership newsletter"
+      ],
+      "count": 1
+    },
+    "promotion-and-compensation": {
+      "id": "promotion-and-compensation",
+      "preferred": "promotion and compensation",
+      "aliases": [
+        "promotion and compensation"
+      ],
+      "count": 1
+    },
+    "career-blind-spots": {
+      "id": "career-blind-spots",
+      "preferred": "career blind spots",
+      "aliases": [
+        "career blind spots"
+      ],
+      "count": 1
+    },
+    "executive-skills": {
+      "id": "executive-skills",
+      "preferred": "executive skills",
+      "aliases": [
+        "executive skills"
+      ],
+      "count": 1
+    },
+    "visibility-with-decision-makers": {
+      "id": "visibility-with-decision-makers",
+      "preferred": "visibility with decision-makers",
+      "aliases": [
+        "visibility with decision-makers"
+      ],
+      "count": 1
+    },
+    "conflict-acknowledgment": {
+      "id": "conflict-acknowledgment",
+      "preferred": "conflict acknowledgment",
+      "aliases": [
+        "conflict acknowledgment"
+      ],
+      "count": 1
+    },
+    "objective-problem-solving": {
+      "id": "objective-problem-solving",
+      "preferred": "objective problem-solving",
+      "aliases": [
+        "objective problem-solving"
+      ],
+      "count": 1
+    },
+    "action-planning": {
+      "id": "action-planning",
+      "preferred": "action planning",
+      "aliases": [
+        "action planning"
+      ],
+      "count": 1
+    },
+    "follow-up": {
+      "id": "follow-up",
+      "preferred": "follow up",
+      "aliases": [
+        "follow up"
+      ],
+      "count": 1
+    },
+    "stepping-out-of-comfort-zone": {
+      "id": "stepping-out-of-comfort-zone",
+      "preferred": "stepping out of comfort zone",
+      "aliases": [
+        "stepping out of comfort zone"
+      ],
+      "count": 1
+    },
+    "work-visibility": {
+      "id": "work-visibility",
+      "preferred": "work visibility",
+      "aliases": [
+        "work visibility"
+      ],
+      "count": 1
+    },
+    "influential-communication": {
+      "id": "influential-communication",
+      "preferred": "influential communication",
+      "aliases": [
+        "influential communication"
+      ],
+      "count": 1
+    },
+    "career-advocacy": {
+      "id": "career-advocacy",
+      "preferred": "career advocacy",
+      "aliases": [
+        "career advocacy"
+      ],
+      "count": 1
+    },
+    "strategic-relationships": {
+      "id": "strategic-relationships",
+      "preferred": "strategic relationships",
+      "aliases": [
+        "strategic relationships"
+      ],
+      "count": 1
+    },
+    "career-coaching": {
+      "id": "career-coaching",
+      "preferred": "career coaching",
+      "aliases": [
+        "career coaching"
+      ],
+      "count": 1
+    },
+    "trading-floor-environment": {
+      "id": "trading-floor-environment",
+      "preferred": "trading floor environment",
+      "aliases": [
+        "trading floor environment"
+      ],
+      "count": 1
+    },
+    "ceo-mindset": {
+      "id": "ceo-mindset",
+      "preferred": "CEO mindset",
+      "aliases": [
+        "CEO mindset"
+      ],
+      "count": 1
+    },
+    "career-fulfillment": {
+      "id": "career-fulfillment",
+      "preferred": "career fulfillment",
+      "aliases": [
+        "career fulfillment"
+      ],
+      "count": 1
+    },
+    "networking-strategy": {
+      "id": "networking-strategy",
+      "preferred": "networking strategy",
+      "aliases": [
+        "networking strategy"
+      ],
+      "count": 1
+    },
+    "overcoming-fear-of-failure": {
+      "id": "overcoming-fear-of-failure",
+      "preferred": "overcoming fear of failure",
+      "aliases": [
+        "overcoming fear of failure"
+      ],
+      "count": 1
+    },
+    "digital-adoption-roadmap": {
+      "id": "digital-adoption-roadmap",
+      "preferred": "digital adoption roadmap",
+      "aliases": [
+        "digital adoption roadmap"
+      ],
+      "count": 1
+    }
+  }
+}

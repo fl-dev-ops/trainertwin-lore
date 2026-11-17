@@ -1,0 +1,15 @@
+---
+id: 9y_pahPHzcY
+title: Essential Leadership Mindset Shift
+date: '2025-01-30'
+url: https://www.youtube.com/shorts/9y_pahPHzcY
+description: "You don’t get to avoid hard if growth is your goal.\n\nBuilding my success at the bank was far from ‘easy.’\n\n→ A woman in a sea of men\n→ Constantly advocating for my worth\n→ Saying yes to roles that terrified me\n→ Battling imposter syndrome behind a smile\n\nStarting my own business was equally challenging.\n\n→ Questioning my value every single day\n→ Speaking to many but is anyone listening?\n→ Worrying if my offer and content are good enough\n\nAnd I can’t forget:\n\n→ The gut punch I felt when I realized that to do what I love (coaching), I also had to wear many other hats like digital marketing, accounting, ops, and don't get me started with IT\n\nAnd yet, I wouldn’t trade these challenges for anything.\n\nWhy?\n\n→ Each hard pushed me out of my comfort zone\n→ Each hard opened doors I didn’t know existed\n→ Each hard taught me what I’m truly capable of\n\nI now approach new experiences with this mindset:\n\nHard is unavoidable.\n\nThe question isn’t if you’ll face it. \n\nIt’s whether you’ll choose it for yourself or let someone else decide for you.\n\nMy advice → choose for yourself.\n\nChoose the hard that stretches you.\nChoose the hard that aligns with your goals.\nChoose the hard that’s for you and no one else.\n\nJust because the next step forward feels challenging doesn’t mean it won’t come with the exact growth you need.\n\n\nSo, what hard are you choosing right now?"
+author: Natalie_Serebrennik
+model: universal-3-5-pro
+transcript: true
+speaker_count: 1
+speakers:
+  speaker_1: 'Natalie Serebrennik'
+---
+
+speaker_1: Lets talk about the hard youre choosing or better yet not choosing Building my success on the trading floor was not easy I felt like I had to fit in all the time Well with a ratio of 1 to 7 women to men most women did I constantly felt like I had to advocate for my worth because lets be honest hard work only gets you so far Saying yes to roles that absolutely terrified me because if I didnt prove I could would that mean I couldnt And I cant forget the frequent imposter syndrome pretending like everything was perfectly fine And then I started my business and well it was just as hard Questioning my value all the time putting myself out there in bold ways but wondering is anyone even listening Oh and the wonderful gut punch I felt when I realized in order to do what I love I also had to carry all these other crucial hats like Marketing accounting ops and IT That was fun And looking back I wouldnt change a thing Every single one stretched me opened doors and taught me what Im truly capable of So my advice to you choose your hard Choose the hard that challenges you Choose the hard thats meaningful And choose the hard thats for you and no one else I promise you youre way more capable than you give yourself credit for And if you dont believe that maybe this is a great place to start If this hits home consider following me for more leadership and career growth advice
