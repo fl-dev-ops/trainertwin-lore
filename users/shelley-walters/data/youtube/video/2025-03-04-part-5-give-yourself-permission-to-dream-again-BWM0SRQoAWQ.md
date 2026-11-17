@@ -1,0 +1,24 @@
+---
+id: BWM0SRQoAWQ
+title: 'Part 5: Give Yourself Permission to Dream Again'
+date: '2025-03-04'
+url: https://www.youtube.com/watch?v=BWM0SRQoAWQ
+description: |-
+  Many people stay stuck simply because they don’t give themselves permission to go after what they truly want. The truth? No one is going to give you permission—you have to take it.
+
+  🔹 Why waiting for the “right time” keeps you stuck
+  🔹 How one bold move changed my career forever
+  🔹 The mindset shift that turns dreams into reality
+
+  You don’t need permission. You need to start.
+
+  #NoMoreWaiting #DreamAgain #GoalSetting #SalesMotivation #HighPerformance
+author: ShelleySpeaksSales
+model: universal-3-5-pro
+transcript: true
+speaker_count: 1
+speakers:
+  speaker_1: 'Shelley Walters'
+---
+
+speaker_1: Hi and welcome back to this miniseries that is for those of you who are finding it difficult to set new goals who are finding it challenging to think about the big picture and who potentially have lost vision and youve youve just lost the steam to dream Yes I know it sounds cheesy It rhymes and I like it So lets talk about the 5th tip on the steam to dream How can you Inspire yourself to dream again The 5th reason why people dont dream big is they dont give themselves permission and they dont treat it like a priority So a number of experts have said if you would open somebodys calendar you would see where their values lie So if you looked at my calendar what would that tell you about my values And if I looked at your calendar what would it tell you about your values That could be quite a challenging exercise for both of us but it is a clarifying one Many Of us get so caught up in the daily grind that we just dont prioritize ourselves and we dont give ourselves permission to dream or to think big So Im part of a community called Atomics and were in a program called Mavericks created by these guys Andrew and Pete I know thats a mouthful If you want to know more about them its an incredible community fantastic program Ill link to it in the in the description But but but Andrew and Pete talk about this big domino effect So you understand this metaphor of big domino right Youve always seen that You know a little row of dominoes and then the one goes and the next one goes and you can have these intricate patterns that just fall and fall and fall and fall and fall because of somebody taking the risk to knock over that first domino But so many of us hold back We dont give ourselves permission to go for that big domino or we think well do it another day So let me share with you a short example from my own life Many years ago in my 20s decided I wanted to get into radio and there was a community station in Port Elizabeth and the station manager used to do the breakfast show Which started at 6 So one morning I called into the studio at 10 past 6 while a song was playing knowing that he would be in studio probably nobody else would be there and he picked up the phone and he mentioned the name of the radio station his name and I said to him hi dont you think I have a great voice for radio Now folks the truth is theres nothing really special about my voice and in fact my friend Nico is Hes listening to this hes going to tell me I need to speak from my diaphragm But you know what The station manager was so impressed just by the guts he thought I had to meet me And I worked in radio for 4 and a half years I became this sales and marketing manager for another radio station We turned that around from 100 percent donor based to 100 percent advertiser based in 18 months That was a precursor to me becoming a professional speaker and Ive now spoken in over the world Chicago Dubai Muscat Nigeria Kenya Mozambique Spoken all over the world to huge audiences on behalf of large organizations and at least a part of that came from me just making that telephone call Whats the big domino in your life What would be the one thing that if you moved that one lever other things would come together Maybe its writing a book maybe its getting that qualification maybe its going 3 levels above In the business and saying hey guys I would like to stick my hand up What do I need to do to get into a position like this Maybe its approaching a company youve always wanted to work for I dont know what it looks like in your world but I do know that if you dont prioritize dreaming if you dont actually identify what a big domino would be in your world and if you dont back yourself and give permission to reach for that big domino and set this ripple effect of actions So that you can gain momentum then youre then youre wasting precious time So thats it Thats the 5th and final in the series Simple but I know these things have helped me I hope they help you too Let me know in the comments if they have been helpful and let us know what your dreams are I think just sharing it putting it out there whether its writing or in text and sharing it could be a great first step

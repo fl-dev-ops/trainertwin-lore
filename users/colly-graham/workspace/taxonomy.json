@@ -1,0 +1,4860 @@
+{
+  "activity": {
+    "sales-coaching": {
+      "id": "sales-coaching",
+      "preferred": "sales coaching",
+      "aliases": [
+        "sales coaching"
+      ],
+      "count": 47
+    },
+    "sales-training": {
+      "id": "sales-training",
+      "preferred": "sales training",
+      "aliases": [
+        "sales training"
+      ],
+      "count": 16
+    },
+    "book-launch": {
+      "id": "book-launch",
+      "preferred": "book launch",
+      "aliases": [
+        "book launch"
+      ],
+      "count": 9
+    },
+    "keynote-speaking": {
+      "id": "keynote-speaking",
+      "preferred": "keynote speaking",
+      "aliases": [
+        "keynote speaking",
+        "keynote speech"
+      ],
+      "count": 7
+    },
+    "workshop": {
+      "id": "workshop",
+      "preferred": "workshop",
+      "aliases": [
+        "workshop"
+      ],
+      "count": 5
+    },
+    "sales-conversation": {
+      "id": "sales-conversation",
+      "preferred": "sales conversation",
+      "aliases": [
+        "sales conversation",
+        "sales conversations"
+      ],
+      "count": 5
+    },
+    "sales-pitch": {
+      "id": "sales-pitch",
+      "preferred": "sales pitch",
+      "aliases": [
+        "sales pitch"
+      ],
+      "count": 4
+    },
+    "sales-leadership": {
+      "id": "sales-leadership",
+      "preferred": "sales leadership",
+      "aliases": [
+        "sales leadership"
+      ],
+      "count": 4
+    },
+    "sales-prospecting": {
+      "id": "sales-prospecting",
+      "preferred": "sales prospecting",
+      "aliases": [
+        "prospecting calls",
+        "sales prospecting"
+      ],
+      "count": 4
+    },
+    "lead-generation": {
+      "id": "lead-generation",
+      "preferred": "lead generation",
+      "aliases": [
+        "lead generation"
+      ],
+      "count": 3
+    },
+    "newsletter": {
+      "id": "newsletter",
+      "preferred": "newsletter",
+      "aliases": [
+        "newsletter"
+      ],
+      "count": 3
+    },
+    "sales-presentation": {
+      "id": "sales-presentation",
+      "preferred": "sales presentation",
+      "aliases": [
+        "sales presentation"
+      ],
+      "count": 3
+    },
+    "book-review": {
+      "id": "book-review",
+      "preferred": "book review",
+      "aliases": [
+        "book review"
+      ],
+      "count": 3
+    },
+    "event-attendance": {
+      "id": "event-attendance",
+      "preferred": "event attendance",
+      "aliases": [
+        "event attendance"
+      ],
+      "count": 3
+    },
+    "cold-outreach": {
+      "id": "cold-outreach",
+      "preferred": "cold outreach",
+      "aliases": [
+        "cold calling",
+        "cold outreach"
+      ],
+      "count": 3
+    },
+    "job-posting": {
+      "id": "job-posting",
+      "preferred": "job posting",
+      "aliases": [
+        "job posting"
+      ],
+      "count": 2
+    },
+    "podcast-interview": {
+      "id": "podcast-interview",
+      "preferred": "podcast interview",
+      "aliases": [
+        "podcast interview"
+      ],
+      "count": 2
+    },
+    "networking-event": {
+      "id": "networking-event",
+      "preferred": "networking event",
+      "aliases": [
+        "networking event"
+      ],
+      "count": 2
+    },
+    "sales-meeting": {
+      "id": "sales-meeting",
+      "preferred": "sales meeting",
+      "aliases": [
+        "sales meeting"
+      ],
+      "count": 2
+    },
+    "sales-strategy": {
+      "id": "sales-strategy",
+      "preferred": "sales strategy",
+      "aliases": [
+        "sales strategy"
+      ],
+      "count": 2
+    },
+    "book-promotion": {
+      "id": "book-promotion",
+      "preferred": "book promotion",
+      "aliases": [
+        "book promotion"
+      ],
+      "count": 2
+    },
+    "book-launch-announcement": {
+      "id": "book-launch-announcement",
+      "preferred": "book launch announcement",
+      "aliases": [
+        "book launch announcement"
+      ],
+      "count": 2
+    },
+    "performance-tracking": {
+      "id": "performance-tracking",
+      "preferred": "performance tracking",
+      "aliases": [
+        "performance tracking"
+      ],
+      "count": 2
+    },
+    "sales-consulting": {
+      "id": "sales-consulting",
+      "preferred": "sales consulting",
+      "aliases": [
+        "sales consulting"
+      ],
+      "count": 2
+    },
+    "feedback-request": {
+      "id": "feedback-request",
+      "preferred": "feedback request",
+      "aliases": [
+        "feedback request",
+        "requesting feedback"
+      ],
+      "count": 2
+    },
+    "sales-discovery": {
+      "id": "sales-discovery",
+      "preferred": "sales discovery",
+      "aliases": [
+        "discovery-driven sales questioning",
+        "sales discovery"
+      ],
+      "count": 2
+    },
+    "content-writing": {
+      "id": "content-writing",
+      "preferred": "content writing",
+      "aliases": [
+        "content drafting",
+        "content writing"
+      ],
+      "count": 2
+    },
+    "discussion-prompt": {
+      "id": "discussion-prompt",
+      "preferred": "discussion prompt",
+      "aliases": [
+        "discussion prompt"
+      ],
+      "count": 1
+    },
+    "podcast-promotion": {
+      "id": "podcast-promotion",
+      "preferred": "podcast promotion",
+      "aliases": [
+        "podcast promotion"
+      ],
+      "count": 1
+    },
+    "business-relaunch-announcement": {
+      "id": "business-relaunch-announcement",
+      "preferred": "business relaunch announcement",
+      "aliases": [
+        "business relaunch announcement"
+      ],
+      "count": 1
+    },
+    "career-update": {
+      "id": "career-update",
+      "preferred": "career update",
+      "aliases": [
+        "career update"
+      ],
+      "count": 1
+    },
+    "masterclass-announcement": {
+      "id": "masterclass-announcement",
+      "preferred": "masterclass announcement",
+      "aliases": [
+        "masterclass announcement"
+      ],
+      "count": 1
+    },
+    "professional-development": {
+      "id": "professional-development",
+      "preferred": "professional development",
+      "aliases": [
+        "professional development"
+      ],
+      "count": 1
+    },
+    "content-promotion": {
+      "id": "content-promotion",
+      "preferred": "content promotion",
+      "aliases": [
+        "content promotion"
+      ],
+      "count": 1
+    },
+    "newsletter-launch": {
+      "id": "newsletter-launch",
+      "preferred": "newsletter launch",
+      "aliases": [
+        "newsletter launch"
+      ],
+      "count": 1
+    },
+    "pre-call-preparation": {
+      "id": "pre-call-preparation",
+      "preferred": "pre-call preparation",
+      "aliases": [
+        "pre-call preparation"
+      ],
+      "count": 1
+    },
+    "b2b-pitch": {
+      "id": "b2b-pitch",
+      "preferred": "B2B pitch",
+      "aliases": [
+        "B2B pitch"
+      ],
+      "count": 1
+    },
+    "action-plan": {
+      "id": "action-plan",
+      "preferred": "action plan",
+      "aliases": [
+        "action plan"
+      ],
+      "count": 1
+    },
+    "ebook-launch": {
+      "id": "ebook-launch",
+      "preferred": "eBook launch",
+      "aliases": [
+        "eBook launch"
+      ],
+      "count": 1
+    },
+    "newsletter-announcement": {
+      "id": "newsletter-announcement",
+      "preferred": "newsletter announcement",
+      "aliases": [
+        "newsletter announcement"
+      ],
+      "count": 1
+    },
+    "event-announcement": {
+      "id": "event-announcement",
+      "preferred": "event announcement",
+      "aliases": [
+        "event announcement"
+      ],
+      "count": 1
+    },
+    "author-update": {
+      "id": "author-update",
+      "preferred": "author update",
+      "aliases": [
+        "author update"
+      ],
+      "count": 1
+    },
+    "product-announcement": {
+      "id": "product-announcement",
+      "preferred": "product announcement",
+      "aliases": [
+        "product announcement"
+      ],
+      "count": 1
+    },
+    "sales-summit": {
+      "id": "sales-summit",
+      "preferred": "sales summit",
+      "aliases": [
+        "sales summit"
+      ],
+      "count": 1
+    },
+    "prospecting": {
+      "id": "prospecting",
+      "preferred": "prospecting",
+      "aliases": [
+        "prospecting"
+      ],
+      "count": 1
+    },
+    "masterclass": {
+      "id": "masterclass",
+      "preferred": "masterclass",
+      "aliases": [
+        "masterclass"
+      ],
+      "count": 1
+    },
+    "award-nomination": {
+      "id": "award-nomination",
+      "preferred": "award nomination",
+      "aliases": [
+        "award nomination"
+      ],
+      "count": 1
+    },
+    "live-keynote-recording": {
+      "id": "live-keynote-recording",
+      "preferred": "live keynote recording",
+      "aliases": [
+        "live keynote recording"
+      ],
+      "count": 1
+    },
+    "in-person-event": {
+      "id": "in-person-event",
+      "preferred": "in-person event",
+      "aliases": [
+        "in-person event"
+      ],
+      "count": 1
+    },
+    "daily-reflection": {
+      "id": "daily-reflection",
+      "preferred": "daily reflection",
+      "aliases": [
+        "daily reflection"
+      ],
+      "count": 1
+    },
+    "project-update": {
+      "id": "project-update",
+      "preferred": "project update",
+      "aliases": [
+        "project update"
+      ],
+      "count": 1
+    },
+    "training-event": {
+      "id": "training-event",
+      "preferred": "training event",
+      "aliases": [
+        "training event"
+      ],
+      "count": 1
+    },
+    "conference-speaking": {
+      "id": "conference-speaking",
+      "preferred": "conference speaking",
+      "aliases": [
+        "conference speaking"
+      ],
+      "count": 1
+    },
+    "sales-psychology": {
+      "id": "sales-psychology",
+      "preferred": "sales psychology",
+      "aliases": [
+        "sales psychology"
+      ],
+      "count": 1
+    },
+    "sales-qualification": {
+      "id": "sales-qualification",
+      "preferred": "sales qualification",
+      "aliases": [
+        "sales qualification"
+      ],
+      "count": 1
+    },
+    "prompt-engineering": {
+      "id": "prompt-engineering",
+      "preferred": "prompt engineering",
+      "aliases": [
+        "prompt engineering"
+      ],
+      "count": 1
+    },
+    "fundraiser-donation-appeal": {
+      "id": "fundraiser-donation-appeal",
+      "preferred": "fundraiser donation appeal",
+      "aliases": [
+        "fundraiser donation appeal"
+      ],
+      "count": 1
+    },
+    "sales-conversation-structuring": {
+      "id": "sales-conversation-structuring",
+      "preferred": "sales conversation structuring",
+      "aliases": [
+        "sales conversation structuring"
+      ],
+      "count": 1
+    },
+    "academic-research": {
+      "id": "academic-research",
+      "preferred": "academic research",
+      "aliases": [
+        "academic research"
+      ],
+      "count": 1
+    },
+    "sales-pitch-preparation": {
+      "id": "sales-pitch-preparation",
+      "preferred": "sales pitch preparation",
+      "aliases": [
+        "sales pitch preparation"
+      ],
+      "count": 1
+    },
+    "sales-follow-through": {
+      "id": "sales-follow-through",
+      "preferred": "sales follow-through",
+      "aliases": [
+        "sales follow-through"
+      ],
+      "count": 1
+    },
+    "anniversary-reflection": {
+      "id": "anniversary-reflection",
+      "preferred": "anniversary reflection",
+      "aliases": [
+        "anniversary reflection"
+      ],
+      "count": 1
+    },
+    "beta-demonstration": {
+      "id": "beta-demonstration",
+      "preferred": "beta demonstration",
+      "aliases": [
+        "beta demonstration"
+      ],
+      "count": 1
+    },
+    "sales-newsletter": {
+      "id": "sales-newsletter",
+      "preferred": "sales newsletter",
+      "aliases": [
+        "sales newsletter"
+      ],
+      "count": 1
+    },
+    "presentation": {
+      "id": "presentation",
+      "preferred": "presentation",
+      "aliases": [
+        "presentation"
+      ],
+      "count": 1
+    },
+    "charity-fundraiser": {
+      "id": "charity-fundraiser",
+      "preferred": "charity fundraiser",
+      "aliases": [
+        "charity fundraiser"
+      ],
+      "count": 1
+    },
+    "sales-discussion": {
+      "id": "sales-discussion",
+      "preferred": "sales discussion",
+      "aliases": [
+        "sales discussion"
+      ],
+      "count": 1
+    },
+    "outbound-sales-automation": {
+      "id": "outbound-sales-automation",
+      "preferred": "outbound sales automation",
+      "aliases": [
+        "outbound sales automation"
+      ],
+      "count": 1
+    },
+    "sales-keynote": {
+      "id": "sales-keynote",
+      "preferred": "sales keynote",
+      "aliases": [
+        "sales keynote"
+      ],
+      "count": 1
+    },
+    "discovery-conversation": {
+      "id": "discovery-conversation",
+      "preferred": "discovery conversation",
+      "aliases": [
+        "discovery conversation"
+      ],
+      "count": 1
+    },
+    "workshop-presentation": {
+      "id": "workshop-presentation",
+      "preferred": "workshop presentation",
+      "aliases": [
+        "workshop presentation"
+      ],
+      "count": 1
+    },
+    "proofreading": {
+      "id": "proofreading",
+      "preferred": "proofreading",
+      "aliases": [
+        "proofreading"
+      ],
+      "count": 1
+    },
+    "prospecting-and-outreach": {
+      "id": "prospecting-and-outreach",
+      "preferred": "prospecting and outreach",
+      "aliases": [
+        "prospecting and outreach"
+      ],
+      "count": 1
+    },
+    "book-presentation": {
+      "id": "book-presentation",
+      "preferred": "book presentation",
+      "aliases": [
+        "book presentation"
+      ],
+      "count": 1
+    },
+    "active-listening": {
+      "id": "active-listening",
+      "preferred": "active listening",
+      "aliases": [
+        "active listening"
+      ],
+      "count": 1
+    },
+    "sales-management": {
+      "id": "sales-management",
+      "preferred": "sales management",
+      "aliases": [
+        "sales management"
+      ],
+      "count": 1
+    },
+    "sales-forecasting": {
+      "id": "sales-forecasting",
+      "preferred": "sales forecasting",
+      "aliases": [
+        "sales forecasting"
+      ],
+      "count": 1
+    },
+    "team-leadership-exercises": {
+      "id": "team-leadership-exercises",
+      "preferred": "team leadership exercises",
+      "aliases": [
+        "team leadership exercises"
+      ],
+      "count": 1
+    },
+    "sales-calls": {
+      "id": "sales-calls",
+      "preferred": "sales calls",
+      "aliases": [
+        "sales calls"
+      ],
+      "count": 1
+    },
+    "sales-assessment": {
+      "id": "sales-assessment",
+      "preferred": "sales assessment",
+      "aliases": [
+        "sales assessment"
+      ],
+      "count": 1
+    },
+    "skills-assessment": {
+      "id": "skills-assessment",
+      "preferred": "skills assessment",
+      "aliases": [
+        "skills assessment"
+      ],
+      "count": 1
+    },
+    "sales-leadership-training": {
+      "id": "sales-leadership-training",
+      "preferred": "sales leadership training",
+      "aliases": [
+        "sales leadership training"
+      ],
+      "count": 1
+    },
+    "booking-speaker": {
+      "id": "booking-speaker",
+      "preferred": "booking speaker",
+      "aliases": [
+        "booking speaker"
+      ],
+      "count": 1
+    },
+    "sales-kick-off-keynote": {
+      "id": "sales-kick-off-keynote",
+      "preferred": "sales kick-off keynote",
+      "aliases": [
+        "sales kick-off keynote"
+      ],
+      "count": 1
+    },
+    "sales-course": {
+      "id": "sales-course",
+      "preferred": "sales course",
+      "aliases": [
+        "sales course"
+      ],
+      "count": 1
+    },
+    "meeting-preparation": {
+      "id": "meeting-preparation",
+      "preferred": "meeting preparation",
+      "aliases": [
+        "meeting preparation"
+      ],
+      "count": 1
+    },
+    "crm-intelligence": {
+      "id": "crm-intelligence",
+      "preferred": "CRM intelligence",
+      "aliases": [
+        "CRM intelligence"
+      ],
+      "count": 1
+    },
+    "sales-consulting-and-coaching": {
+      "id": "sales-consulting-and-coaching",
+      "preferred": "sales consulting and coaching",
+      "aliases": [
+        "sales consulting and coaching"
+      ],
+      "count": 1
+    },
+    "testimonial": {
+      "id": "testimonial",
+      "preferred": "testimonial",
+      "aliases": [
+        "testimonial"
+      ],
+      "count": 1
+    },
+    "goal-setting": {
+      "id": "goal-setting",
+      "preferred": "goal setting",
+      "aliases": [
+        "goal setting"
+      ],
+      "count": 1
+    },
+    "keynote-testimonial": {
+      "id": "keynote-testimonial",
+      "preferred": "keynote testimonial",
+      "aliases": [
+        "keynote testimonial"
+      ],
+      "count": 1
+    },
+    "enterprise-sales": {
+      "id": "enterprise-sales",
+      "preferred": "enterprise sales",
+      "aliases": [
+        "enterprise sales"
+      ],
+      "count": 1
+    },
+    "social-selling": {
+      "id": "social-selling",
+      "preferred": "social selling",
+      "aliases": [
+        "social selling"
+      ],
+      "count": 1
+    },
+    "self-evaluation": {
+      "id": "self-evaluation",
+      "preferred": "self-evaluation",
+      "aliases": [
+        "self-evaluation"
+      ],
+      "count": 1
+    }
+  },
+  "situation": {
+    "facing-rejection": {
+      "id": "facing-rejection",
+      "preferred": "facing rejection",
+      "aliases": [
+        "facing rejection",
+        "handling rejection"
+      ],
+      "count": 3
+    },
+    "buyer-goes-silent": {
+      "id": "buyer-goes-silent",
+      "preferred": "buyer goes silent",
+      "aliases": [
+        "buyer goes silent"
+      ],
+      "count": 2
+    },
+    "prospect-says-no": {
+      "id": "prospect-says-no",
+      "preferred": "prospect says no",
+      "aliases": [
+        "prospect says no"
+      ],
+      "count": 2
+    },
+    "underperforming-salesperson": {
+      "id": "underperforming-salesperson",
+      "preferred": "underperforming salesperson",
+      "aliases": [
+        "underperforming salesperson"
+      ],
+      "count": 2
+    },
+    "stalled-opportunities": {
+      "id": "stalled-opportunities",
+      "preferred": "stalled opportunities",
+      "aliases": [
+        "stalled deals in CRM",
+        "stalled opportunities"
+      ],
+      "count": 2
+    },
+    "buyer-resistance": {
+      "id": "buyer-resistance",
+      "preferred": "buyer resistance",
+      "aliases": [
+        "buyer pushes back",
+        "buyer resistance"
+      ],
+      "count": 2
+    },
+    "buyer-stalls-or-says-let-me-think-about-it": {
+      "id": "buyer-stalls-or-says-let-me-think-about-it",
+      "preferred": "buyer stalls or says let me think about it",
+      "aliases": [
+        "buyer says I need to think about it",
+        "buyer stalls or says let me think about it"
+      ],
+      "count": 2
+    },
+    "fear-of-ai-taking-jobs": {
+      "id": "fear-of-ai-taking-jobs",
+      "preferred": "fear of AI taking jobs",
+      "aliases": [
+        "fear of AI replacing jobs",
+        "fear of AI taking jobs"
+      ],
+      "count": 2
+    },
+    "deals-stall": {
+      "id": "deals-stall",
+      "preferred": "deals stall",
+      "aliases": [
+        "deals stall",
+        "deals stalling without clear next steps"
+      ],
+      "count": 2
+    },
+    "facing-buyers-in-high-stakes-meetings": {
+      "id": "facing-buyers-in-high-stakes-meetings",
+      "preferred": "facing buyers in high-stakes meetings",
+      "aliases": [
+        "facing buyers in high-stakes meetings",
+        "high-stakes sales meetings"
+      ],
+      "count": 2
+    },
+    "former-client-returning-for-sales-training": {
+      "id": "former-client-returning-for-sales-training",
+      "preferred": "former client returning for sales training",
+      "aliases": [
+        "former client returning for sales training"
+      ],
+      "count": 1
+    },
+    "doubting-opportunities-and-business-relaunch": {
+      "id": "doubting-opportunities-and-business-relaunch",
+      "preferred": "doubting opportunities and business relaunch",
+      "aliases": [
+        "doubting opportunities and business relaunch"
+      ],
+      "count": 1
+    },
+    "sales-burnout-and-fear-of-rejection": {
+      "id": "sales-burnout-and-fear-of-rejection",
+      "preferred": "sales burnout and fear of rejection",
+      "aliases": [
+        "sales burnout and fear of rejection"
+      ],
+      "count": 1
+    },
+    "top-tier-sales-manager-becomes-available": {
+      "id": "top-tier-sales-manager-becomes-available",
+      "preferred": "top-tier sales manager becomes available",
+      "aliases": [
+        "top-tier sales manager becomes available"
+      ],
+      "count": 1
+    },
+    "managing-sales-burnout-and-peak-performance": {
+      "id": "managing-sales-burnout-and-peak-performance",
+      "preferred": "managing sales burnout and peak performance",
+      "aliases": [
+        "managing sales burnout and peak performance"
+      ],
+      "count": 1
+    },
+    "encountering-unexpected-trouble-or-being-stuck": {
+      "id": "encountering-unexpected-trouble-or-being-stuck",
+      "preferred": "encountering unexpected trouble or being stuck",
+      "aliases": [
+        "encountering unexpected trouble or being stuck"
+      ],
+      "count": 1
+    },
+    "buying-tickets-online-for-elderly-users": {
+      "id": "buying-tickets-online-for-elderly-users",
+      "preferred": "buying tickets online for elderly users",
+      "aliases": [
+        "buying tickets online for elderly users"
+      ],
+      "count": 1
+    },
+    "stalled-deals-and-missed-quarters": {
+      "id": "stalled-deals-and-missed-quarters",
+      "preferred": "stalled deals and missed quarters",
+      "aliases": [
+        "stalled deals and missed quarters"
+      ],
+      "count": 1
+    },
+    "starting-a-business": {
+      "id": "starting-a-business",
+      "preferred": "starting a business",
+      "aliases": [
+        "starting a business"
+      ],
+      "count": 1
+    },
+    "launching-a-new-initiative": {
+      "id": "launching-a-new-initiative",
+      "preferred": "launching a new initiative",
+      "aliases": [
+        "launching a new initiative"
+      ],
+      "count": 1
+    },
+    "handling-rejection-and-unanswered-calls": {
+      "id": "handling-rejection-and-unanswered-calls",
+      "preferred": "handling rejection and unanswered calls",
+      "aliases": [
+        "handling rejection and unanswered calls"
+      ],
+      "count": 1
+    },
+    "facing-pressure": {
+      "id": "facing-pressure",
+      "preferred": "facing pressure",
+      "aliases": [
+        "facing pressure"
+      ],
+      "count": 1
+    },
+    "customer-chooses-a-competitor": {
+      "id": "customer-chooses-a-competitor",
+      "preferred": "customer chooses a competitor",
+      "aliases": [
+        "customer chooses a competitor"
+      ],
+      "count": 1
+    },
+    "recovering-from-rejection": {
+      "id": "recovering-from-rejection",
+      "preferred": "recovering from rejection",
+      "aliases": [
+        "recovering from rejection"
+      ],
+      "count": 1
+    },
+    "presentation-content-was-good-but-connection-was-missing": {
+      "id": "presentation-content-was-good-but-connection-was-missing",
+      "preferred": "presentation content was good but connection was missing",
+      "aliases": [
+        "presentation content was good but connection was missing"
+      ],
+      "count": 1
+    },
+    "after-the-signature-is-dry": {
+      "id": "after-the-signature-is-dry",
+      "preferred": "after the signature is dry",
+      "aliases": [
+        "after the signature is dry"
+      ],
+      "count": 1
+    },
+    "passing-of-a-favorite-musician": {
+      "id": "passing-of-a-favorite-musician",
+      "preferred": "passing of a favorite musician",
+      "aliases": [
+        "passing of a favorite musician"
+      ],
+      "count": 1
+    },
+    "stuck-due-to-internal-script": {
+      "id": "stuck-due-to-internal-script",
+      "preferred": "stuck due to internal script",
+      "aliases": [
+        "stuck due to internal script"
+      ],
+      "count": 1
+    },
+    "end-of-year-sales-conversations": {
+      "id": "end-of-year-sales-conversations",
+      "preferred": "end-of-year sales conversations",
+      "aliases": [
+        "end-of-year sales conversations"
+      ],
+      "count": 1
+    },
+    "christmas-charitable-giving": {
+      "id": "christmas-charitable-giving",
+      "preferred": "Christmas charitable giving",
+      "aliases": [
+        "Christmas charitable giving"
+      ],
+      "count": 1
+    },
+    "start-of-the-new-year": {
+      "id": "start-of-the-new-year",
+      "preferred": "start of the new year",
+      "aliases": [
+        "start of the new year"
+      ],
+      "count": 1
+    },
+    "sales-performance-breakdown": {
+      "id": "sales-performance-breakdown",
+      "preferred": "sales performance breakdown",
+      "aliases": [
+        "sales performance breakdown"
+      ],
+      "count": 1
+    },
+    "goals-fading-under-pressure": {
+      "id": "goals-fading-under-pressure",
+      "preferred": "goals fading under pressure",
+      "aliases": [
+        "goals fading under pressure"
+      ],
+      "count": 1
+    },
+    "inconsistent-execution-due-to-willpower-fatigue": {
+      "id": "inconsistent-execution-due-to-willpower-fatigue",
+      "preferred": "inconsistent execution due to willpower fatigue",
+      "aliases": [
+        "inconsistent execution due to willpower fatigue"
+      ],
+      "count": 1
+    },
+    "blue-monday": {
+      "id": "blue-monday",
+      "preferred": "Blue Monday",
+      "aliases": [
+        "Blue Monday"
+      ],
+      "count": 1
+    },
+    "conversations-feel-busy-but-not-decisive": {
+      "id": "conversations-feel-busy-but-not-decisive",
+      "preferred": "conversations feel busy but not decisive",
+      "aliases": [
+        "conversations feel busy but not decisive"
+      ],
+      "count": 1
+    },
+    "aligning-daily-sales-behavior-with-targets": {
+      "id": "aligning-daily-sales-behavior-with-targets",
+      "preferred": "aligning daily sales behavior with targets",
+      "aliases": [
+        "aligning daily sales behavior with targets"
+      ],
+      "count": 1
+    },
+    "observing-hospital-emergency-department-pressure": {
+      "id": "observing-hospital-emergency-department-pressure",
+      "preferred": "observing hospital emergency department pressure",
+      "aliases": [
+        "observing hospital emergency department pressure"
+      ],
+      "count": 1
+    },
+    "encountering-an-old-customer-in-a-e": {
+      "id": "encountering-an-old-customer-in-a-e",
+      "preferred": "encountering an old customer in A&E",
+      "aliases": [
+        "encountering an old customer in A&E"
+      ],
+      "count": 1
+    },
+    "sales-conversations-stalling": {
+      "id": "sales-conversations-stalling",
+      "preferred": "sales conversations stalling",
+      "aliases": [
+        "sales conversations stalling"
+      ],
+      "count": 1
+    },
+    "high-stakes-conversations": {
+      "id": "high-stakes-conversations",
+      "preferred": "high-stakes conversations",
+      "aliases": [
+        "high-stakes conversations"
+      ],
+      "count": 1
+    },
+    "conversations-under-pressure": {
+      "id": "conversations-under-pressure",
+      "preferred": "conversations under pressure",
+      "aliases": [
+        "conversations under pressure"
+      ],
+      "count": 1
+    },
+    "handling-high-pressure-sales-conversations": {
+      "id": "handling-high-pressure-sales-conversations",
+      "preferred": "handling high-pressure sales conversations",
+      "aliases": [
+        "handling high-pressure sales conversations"
+      ],
+      "count": 1
+    },
+    "long-term-unemployment": {
+      "id": "long-term-unemployment",
+      "preferred": "long-term unemployment",
+      "aliases": [
+        "long-term unemployment"
+      ],
+      "count": 1
+    },
+    "dealing-with-a-dried-pipeline-and-failing-deals": {
+      "id": "dealing-with-a-dried-pipeline-and-failing-deals",
+      "preferred": "dealing with a dried pipeline and failing deals",
+      "aliases": [
+        "dealing with a dried pipeline and failing deals"
+      ],
+      "count": 1
+    },
+    "prospect-objection": {
+      "id": "prospect-objection",
+      "preferred": "prospect objection",
+      "aliases": [
+        "prospect objection"
+      ],
+      "count": 1
+    },
+    "month-end-operational-review": {
+      "id": "month-end-operational-review",
+      "preferred": "month-end operational review",
+      "aliases": [
+        "month-end operational review"
+      ],
+      "count": 1
+    },
+    "sales-team-skepticism-about-ai-replacing-them": {
+      "id": "sales-team-skepticism-about-ai-replacing-them",
+      "preferred": "sales team skepticism about AI replacing them",
+      "aliases": [
+        "sales team skepticism about AI replacing them"
+      ],
+      "count": 1
+    },
+    "informed-buyers-facing-complex-decisions": {
+      "id": "informed-buyers-facing-complex-decisions",
+      "preferred": "informed buyers facing complex decisions",
+      "aliases": [
+        "informed buyers facing complex decisions"
+      ],
+      "count": 1
+    },
+    "unpredictable-revenue-despite-high-activity": {
+      "id": "unpredictable-revenue-despite-high-activity",
+      "preferred": "unpredictable revenue despite high activity",
+      "aliases": [
+        "unpredictable revenue despite high activity"
+      ],
+      "count": 1
+    },
+    "sales-teams-resisting-ai-in-favor-of-relationships": {
+      "id": "sales-teams-resisting-ai-in-favor-of-relationships",
+      "preferred": "sales teams resisting AI in favor of relationships",
+      "aliases": [
+        "sales teams resisting AI in favor of relationships"
+      ],
+      "count": 1
+    },
+    "single-threaded-deals": {
+      "id": "single-threaded-deals",
+      "preferred": "single-threaded deals",
+      "aliases": [
+        "single-threaded deals"
+      ],
+      "count": 1
+    },
+    "expressing-gratitude-to-family-and-business-connections": {
+      "id": "expressing-gratitude-to-family-and-business-connections",
+      "preferred": "expressing gratitude to family and business connections",
+      "aliases": [
+        "expressing gratitude to family and business connections"
+      ],
+      "count": 1
+    },
+    "stalled-deals-after-proposal": {
+      "id": "stalled-deals-after-proposal",
+      "preferred": "stalled deals after proposal",
+      "aliases": [
+        "stalled deals after proposal"
+      ],
+      "count": 1
+    },
+    "transition-from-routine-tasks-to-ai-assisted-selling": {
+      "id": "transition-from-routine-tasks-to-ai-assisted-selling",
+      "preferred": "transition from routine tasks to AI-assisted selling",
+      "aliases": [
+        "transition from routine tasks to AI-assisted selling"
+      ],
+      "count": 1
+    },
+    "infinite-information-generation": {
+      "id": "infinite-information-generation",
+      "preferred": "infinite information generation",
+      "aliases": [
+        "infinite information generation"
+      ],
+      "count": 1
+    },
+    "high-volume-ai-idea-generation": {
+      "id": "high-volume-ai-idea-generation",
+      "preferred": "high-volume AI idea generation",
+      "aliases": [
+        "high-volume AI idea generation"
+      ],
+      "count": 1
+    },
+    "client-agrees-but-deal-stalls": {
+      "id": "client-agrees-but-deal-stalls",
+      "preferred": "client agrees but deal stalls",
+      "aliases": [
+        "client agrees but deal stalls"
+      ],
+      "count": 1
+    },
+    "handling-buyer-objections-and-uncertainty": {
+      "id": "handling-buyer-objections-and-uncertainty",
+      "preferred": "handling buyer objections and uncertainty",
+      "aliases": [
+        "handling buyer objections and uncertainty"
+      ],
+      "count": 1
+    },
+    "sale-slipping-despite-strong-logic": {
+      "id": "sale-slipping-despite-strong-logic",
+      "preferred": "sale slipping despite strong logic",
+      "aliases": [
+        "sale slipping despite strong logic"
+      ],
+      "count": 1
+    },
+    "prospecting-hesitation-and-lack-of-clarity": {
+      "id": "prospecting-hesitation-and-lack-of-clarity",
+      "preferred": "prospecting hesitation and lack of clarity",
+      "aliases": [
+        "prospecting hesitation and lack of clarity"
+      ],
+      "count": 1
+    },
+    "facing-rejection-in-sales": {
+      "id": "facing-rejection-in-sales",
+      "preferred": "facing rejection in sales",
+      "aliases": [
+        "facing rejection in sales"
+      ],
+      "count": 1
+    },
+    "sales-rejection": {
+      "id": "sales-rejection",
+      "preferred": "sales rejection",
+      "aliases": [
+        "sales rejection"
+      ],
+      "count": 1
+    },
+    "client-says-no": {
+      "id": "client-says-no",
+      "preferred": "client says no",
+      "aliases": [
+        "client says no"
+      ],
+      "count": 1
+    },
+    "adopting-ai-tools-in-sales": {
+      "id": "adopting-ai-tools-in-sales",
+      "preferred": "adopting AI tools in sales",
+      "aliases": [
+        "adopting AI tools in sales"
+      ],
+      "count": 1
+    },
+    "loss-of-belief-in-sales": {
+      "id": "loss-of-belief-in-sales",
+      "preferred": "loss of belief in sales",
+      "aliases": [
+        "loss of belief in sales"
+      ],
+      "count": 1
+    },
+    "retracting-inward-during-high-stakes-meetings": {
+      "id": "retracting-inward-during-high-stakes-meetings",
+      "preferred": "retracting inward during high-stakes meetings",
+      "aliases": [
+        "retracting inward during high-stakes meetings"
+      ],
+      "count": 1
+    },
+    "failing-to-follow-up-on-proposals": {
+      "id": "failing-to-follow-up-on-proposals",
+      "preferred": "failing to follow up on proposals",
+      "aliases": [
+        "failing to follow up on proposals"
+      ],
+      "count": 1
+    },
+    "buyer-moves-from-curiosity-into-caution": {
+      "id": "buyer-moves-from-curiosity-into-caution",
+      "preferred": "buyer moves from curiosity into caution",
+      "aliases": [
+        "buyer moves from curiosity into caution"
+      ],
+      "count": 1
+    },
+    "conversation-tightens-or-outcome-becomes-uncertain": {
+      "id": "conversation-tightens-or-outcome-becomes-uncertain",
+      "preferred": "conversation tightens or outcome becomes uncertain",
+      "aliases": [
+        "conversation tightens or outcome becomes uncertain"
+      ],
+      "count": 1
+    },
+    "dealing-with-disappointment-or-rejection": {
+      "id": "dealing-with-disappointment-or-rejection",
+      "preferred": "dealing with disappointment or rejection",
+      "aliases": [
+        "dealing with disappointment or rejection"
+      ],
+      "count": 1
+    },
+    "ineffective-prospecting-activity": {
+      "id": "ineffective-prospecting-activity",
+      "preferred": "ineffective prospecting activity",
+      "aliases": [
+        "ineffective prospecting activity"
+      ],
+      "count": 1
+    },
+    "recovering-from-pressure-or-a-bad-week": {
+      "id": "recovering-from-pressure-or-a-bad-week",
+      "preferred": "recovering from pressure or a bad week",
+      "aliases": [
+        "recovering from pressure or a bad week"
+      ],
+      "count": 1
+    },
+    "team-getting-meetings-but-losing-momentum": {
+      "id": "team-getting-meetings-but-losing-momentum",
+      "preferred": "team getting meetings but losing momentum",
+      "aliases": [
+        "team getting meetings but losing momentum"
+      ],
+      "count": 1
+    },
+    "facing-challenges": {
+      "id": "facing-challenges",
+      "preferred": "facing challenges",
+      "aliases": [
+        "facing challenges"
+      ],
+      "count": 1
+    },
+    "believing-you-are-not-technical-enough-for-ai": {
+      "id": "believing-you-are-not-technical-enough-for-ai",
+      "preferred": "believing you are not technical enough for AI",
+      "aliases": [
+        "believing you are not technical enough for AI"
+      ],
+      "count": 1
+    },
+    "prospecting-from-cold-lists": {
+      "id": "prospecting-from-cold-lists",
+      "preferred": "prospecting from cold lists",
+      "aliases": [
+        "prospecting from cold lists"
+      ],
+      "count": 1
+    },
+    "sales-team-underperforming-quota": {
+      "id": "sales-team-underperforming-quota",
+      "preferred": "sales team underperforming quota",
+      "aliases": [
+        "sales team underperforming quota"
+      ],
+      "count": 1
+    },
+    "meeting-went-well-but-lead-goes-cold": {
+      "id": "meeting-went-well-but-lead-goes-cold",
+      "preferred": "meeting went well but lead goes cold",
+      "aliases": [
+        "meeting went well but lead goes cold"
+      ],
+      "count": 1
+    },
+    "sales-trainers-fearing-business-loss-to-ai": {
+      "id": "sales-trainers-fearing-business-loss-to-ai",
+      "preferred": "sales trainers fearing business loss to AI",
+      "aliases": [
+        "sales trainers fearing business loss to AI"
+      ],
+      "count": 1
+    },
+    "pitching-the-solution-too-early": {
+      "id": "pitching-the-solution-too-early",
+      "preferred": "pitching the solution too early",
+      "aliases": [
+        "pitching the solution too early"
+      ],
+      "count": 1
+    },
+    "losing-a-deal-in-the-first-few-minutes": {
+      "id": "losing-a-deal-in-the-first-few-minutes",
+      "preferred": "losing a deal in the first few minutes",
+      "aliases": [
+        "losing a deal in the first few minutes"
+      ],
+      "count": 1
+    },
+    "market-shift-and-sales-setback": {
+      "id": "market-shift-and-sales-setback",
+      "preferred": "market shift and sales setback",
+      "aliases": [
+        "market shift and sales setback"
+      ],
+      "count": 1
+    },
+    "handling-fear-and-rejection-on-sales-calls": {
+      "id": "handling-fear-and-rejection-on-sales-calls",
+      "preferred": "handling fear and rejection on sales calls",
+      "aliases": [
+        "handling fear and rejection on sales calls"
+      ],
+      "count": 1
+    },
+    "missing-an-event-due-to-sudden-illness": {
+      "id": "missing-an-event-due-to-sudden-illness",
+      "preferred": "missing an event due to sudden illness",
+      "aliases": [
+        "missing an event due to sudden illness"
+      ],
+      "count": 1
+    },
+    "managing-team-performance-under-high-pressure": {
+      "id": "managing-team-performance-under-high-pressure",
+      "preferred": "managing team performance under high pressure",
+      "aliases": [
+        "managing team performance under high pressure"
+      ],
+      "count": 1
+    },
+    "granddaughter-s-graduation": {
+      "id": "granddaughter-s-graduation",
+      "preferred": "granddaughter's graduation",
+      "aliases": [
+        "granddaughter's graduation"
+      ],
+      "count": 1
+    },
+    "unrealistic-ai-sales-promises-and-hype": {
+      "id": "unrealistic-ai-sales-promises-and-hype",
+      "preferred": "unrealistic AI sales promises and hype",
+      "aliases": [
+        "unrealistic AI sales promises and hype"
+      ],
+      "count": 1
+    },
+    "family-milestone": {
+      "id": "family-milestone",
+      "preferred": "family milestone",
+      "aliases": [
+        "family milestone"
+      ],
+      "count": 1
+    },
+    "low-response-rates-on-cold-messages": {
+      "id": "low-response-rates-on-cold-messages",
+      "preferred": "low response rates on cold messages",
+      "aliases": [
+        "low response rates on cold messages"
+      ],
+      "count": 1
+    },
+    "handling-buyer-objections": {
+      "id": "handling-buyer-objections",
+      "preferred": "handling buyer objections",
+      "aliases": [
+        "handling buyer objections"
+      ],
+      "count": 1
+    },
+    "struggling-despite-having-the-same-product-and-training": {
+      "id": "struggling-despite-having-the-same-product-and-training",
+      "preferred": "struggling despite having the same product and training",
+      "aliases": [
+        "struggling despite having the same product and training"
+      ],
+      "count": 1
+    },
+    "feeling-stuck-or-overwhelmed": {
+      "id": "feeling-stuck-or-overwhelmed",
+      "preferred": "feeling stuck or overwhelmed",
+      "aliases": [
+        "feeling stuck or overwhelmed"
+      ],
+      "count": 1
+    },
+    "first-meeting": {
+      "id": "first-meeting",
+      "preferred": "first meeting",
+      "aliases": [
+        "first meeting"
+      ],
+      "count": 1
+    },
+    "sales-teams-struggling-to-prove-measurable-return-from-ai": {
+      "id": "sales-teams-struggling-to-prove-measurable-return-from-ai",
+      "preferred": "sales teams struggling to prove measurable return from AI",
+      "aliases": [
+        "sales teams struggling to prove measurable return from AI"
+      ],
+      "count": 1
+    },
+    "selling-under-pressure": {
+      "id": "selling-under-pressure",
+      "preferred": "selling under pressure",
+      "aliases": [
+        "selling under pressure"
+      ],
+      "count": 1
+    },
+    "buyer-stalls-because-problem-feels-manageable": {
+      "id": "buyer-stalls-because-problem-feels-manageable",
+      "preferred": "buyer stalls because problem feels manageable",
+      "aliases": [
+        "buyer stalls because problem feels manageable"
+      ],
+      "count": 1
+    },
+    "encountering-polished-clickbait-offers": {
+      "id": "encountering-polished-clickbait-offers",
+      "preferred": "encountering polished clickbait offers",
+      "aliases": [
+        "encountering polished clickbait offers"
+      ],
+      "count": 1
+    },
+    "registration-deadline-reached": {
+      "id": "registration-deadline-reached",
+      "preferred": "registration deadline reached",
+      "aliases": [
+        "registration deadline reached"
+      ],
+      "count": 1
+    },
+    "buyer-research-via-ai": {
+      "id": "buyer-research-via-ai",
+      "preferred": "buyer research via AI",
+      "aliases": [
+        "buyer research via AI"
+      ],
+      "count": 1
+    },
+    "sale-goes-quiet-or-quarter-turns-hard": {
+      "id": "sale-goes-quiet-or-quarter-turns-hard",
+      "preferred": "sale goes quiet or quarter turns hard",
+      "aliases": [
+        "sale goes quiet or quarter turns hard"
+      ],
+      "count": 1
+    },
+    "automating-sales-workflows": {
+      "id": "automating-sales-workflows",
+      "preferred": "automating sales workflows",
+      "aliases": [
+        "automating sales workflows"
+      ],
+      "count": 1
+    },
+    "wedding-anniversary": {
+      "id": "wedding-anniversary",
+      "preferred": "wedding anniversary",
+      "aliases": [
+        "wedding anniversary"
+      ],
+      "count": 1
+    },
+    "recovering-from-a-lost-sale": {
+      "id": "recovering-from-a-lost-sale",
+      "preferred": "recovering from a lost sale",
+      "aliases": [
+        "recovering from a lost sale"
+      ],
+      "count": 1
+    },
+    "distrust-in-ai-outputs": {
+      "id": "distrust-in-ai-outputs",
+      "preferred": "distrust in AI outputs",
+      "aliases": [
+        "distrust in AI outputs"
+      ],
+      "count": 1
+    },
+    "new-salespeople-using-ai-before-developing-judgement": {
+      "id": "new-salespeople-using-ai-before-developing-judgement",
+      "preferred": "new salespeople using AI before developing judgement",
+      "aliases": [
+        "new salespeople using AI before developing judgement"
+      ],
+      "count": 1
+    },
+    "skilled-salespeople-losing-sales-despite-strong-presentation": {
+      "id": "skilled-salespeople-losing-sales-despite-strong-presentation",
+      "preferred": "skilled salespeople losing sales despite strong presentations",
+      "aliases": [
+        "skilled salespeople losing sales despite strong presentations"
+      ],
+      "count": 1
+    },
+    "automating-workflows-with-ai": {
+      "id": "automating-workflows-with-ai",
+      "preferred": "automating workflows with AI",
+      "aliases": [
+        "automating workflows with AI"
+      ],
+      "count": 1
+    },
+    "evaluating-ai-impact-on-sales-performance": {
+      "id": "evaluating-ai-impact-on-sales-performance",
+      "preferred": "evaluating AI impact on sales performance",
+      "aliases": [
+        "evaluating AI impact on sales performance"
+      ],
+      "count": 1
+    },
+    "procrastinating-on-sales-follow-ups": {
+      "id": "procrastinating-on-sales-follow-ups",
+      "preferred": "procrastinating on sales follow-ups",
+      "aliases": [
+        "procrastinating on sales follow-ups"
+      ],
+      "count": 1
+    },
+    "sales-stack-overload": {
+      "id": "sales-stack-overload",
+      "preferred": "sales stack overload",
+      "aliases": [
+        "sales stack overload"
+      ],
+      "count": 1
+    },
+    "junior-sales-staff-being-more-ai-capable-than-leadership": {
+      "id": "junior-sales-staff-being-more-ai-capable-than-leadership",
+      "preferred": "junior sales staff being more AI-capable than leadership",
+      "aliases": [
+        "junior sales staff being more AI-capable than leadership"
+      ],
+      "count": 1
+    },
+    "evaluating-ai-automation-in-sales-prospecting": {
+      "id": "evaluating-ai-automation-in-sales-prospecting",
+      "preferred": "evaluating AI automation in sales prospecting",
+      "aliases": [
+        "evaluating AI automation in sales prospecting"
+      ],
+      "count": 1
+    },
+    "automating-customer-outreach-with-ai-agents": {
+      "id": "automating-customer-outreach-with-ai-agents",
+      "preferred": "automating customer outreach with AI agents",
+      "aliases": [
+        "automating customer outreach with AI agents"
+      ],
+      "count": 1
+    },
+    "pipeline-that-never-qualifies": {
+      "id": "pipeline-that-never-qualifies",
+      "preferred": "pipeline that never qualifies",
+      "aliases": [
+        "pipeline that never qualifies"
+      ],
+      "count": 1
+    },
+    "evaluating-ai-tools-for-sales-teams": {
+      "id": "evaluating-ai-tools-for-sales-teams",
+      "preferred": "evaluating AI tools for sales teams",
+      "aliases": [
+        "evaluating AI tools for sales teams"
+      ],
+      "count": 1
+    },
+    "employee-insecurity-around-ai-implementation": {
+      "id": "employee-insecurity-around-ai-implementation",
+      "preferred": "employee insecurity around AI implementation",
+      "aliases": [
+        "employee insecurity around AI implementation"
+      ],
+      "count": 1
+    },
+    "hesitation-to-act": {
+      "id": "hesitation-to-act",
+      "preferred": "hesitation to act",
+      "aliases": [
+        "hesitation to act"
+      ],
+      "count": 1
+    },
+    "recurring-objections": {
+      "id": "recurring-objections",
+      "preferred": "recurring objections",
+      "aliases": [
+        "recurring objections"
+      ],
+      "count": 1
+    },
+    "buyer-says-there-is-no-budget": {
+      "id": "buyer-says-there-is-no-budget",
+      "preferred": "buyer says there is no budget",
+      "aliases": [
+        "buyer says there is no budget"
+      ],
+      "count": 1
+    },
+    "early-sales-conversation": {
+      "id": "early-sales-conversation",
+      "preferred": "early sales conversation",
+      "aliases": [
+        "early sales conversation"
+      ],
+      "count": 1
+    },
+    "salespeople-losing-sales": {
+      "id": "salespeople-losing-sales",
+      "preferred": "salespeople losing sales",
+      "aliases": [
+        "salespeople losing sales"
+      ],
+      "count": 1
+    },
+    "ai-in-sales": {
+      "id": "ai-in-sales",
+      "preferred": "AI in sales",
+      "aliases": [
+        "AI in sales"
+      ],
+      "count": 1
+    },
+    "misalignment-between-sales-marketing-and-customer-success": {
+      "id": "misalignment-between-sales-marketing-and-customer-success",
+      "preferred": "misalignment between sales, marketing, and customer success",
+      "aliases": [
+        "misalignment between sales, marketing, and customer success"
+      ],
+      "count": 1
+    },
+    "handling-rejection-in-sales": {
+      "id": "handling-rejection-in-sales",
+      "preferred": "handling rejection in sales",
+      "aliases": [
+        "handling rejection in sales"
+      ],
+      "count": 1
+    },
+    "prospect-does-not-follow-up-after-logical-pitch": {
+      "id": "prospect-does-not-follow-up-after-logical-pitch",
+      "preferred": "prospect does not follow up after logical pitch",
+      "aliases": [
+        "prospect does not follow up after logical pitch"
+      ],
+      "count": 1
+    },
+    "handling-price-objection": {
+      "id": "handling-price-objection",
+      "preferred": "handling price objection",
+      "aliases": [
+        "handling price objection"
+      ],
+      "count": 1
+    },
+    "working-from-home": {
+      "id": "working-from-home",
+      "preferred": "working from home",
+      "aliases": [
+        "working from home"
+      ],
+      "count": 1
+    },
+    "rebuilding-after-crisis": {
+      "id": "rebuilding-after-crisis",
+      "preferred": "rebuilding after crisis",
+      "aliases": [
+        "rebuilding after crisis"
+      ],
+      "count": 1
+    },
+    "skeptical-prospect": {
+      "id": "skeptical-prospect",
+      "preferred": "skeptical prospect",
+      "aliases": [
+        "skeptical prospect"
+      ],
+      "count": 1
+    },
+    "handling-receptionists": {
+      "id": "handling-receptionists",
+      "preferred": "handling receptionists",
+      "aliases": [
+        "handling receptionists"
+      ],
+      "count": 1
+    },
+    "call-reluctance": {
+      "id": "call-reluctance",
+      "preferred": "call reluctance",
+      "aliases": [
+        "call reluctance"
+      ],
+      "count": 1
+    },
+    "fear-of-phone-selling": {
+      "id": "fear-of-phone-selling",
+      "preferred": "fear of phone selling",
+      "aliases": [
+        "fear of phone selling"
+      ],
+      "count": 1
+    },
+    "client-kicks-salesperson-out": {
+      "id": "client-kicks-salesperson-out",
+      "preferred": "client kicks salesperson out",
+      "aliases": [
+        "client kicks salesperson out"
+      ],
+      "count": 1
+    }
+  },
+  "topic": {
+    "sales-mindset": {
+      "id": "sales-mindset",
+      "preferred": "sales mindset",
+      "aliases": [
+        "sales mindset"
+      ],
+      "count": 41
+    },
+    "brain-based-selling": {
+      "id": "brain-based-selling",
+      "preferred": "brain-based selling",
+      "aliases": [
+        "BRAIN Based Sales",
+        "BRAIN Based Sales Framework",
+        "BRAIN Based Sales methodology",
+        "BRAIN sales framework",
+        "Brain Based Sale",
+        "brain based sale",
+        "brain based sales",
+        "brain-based selling",
+        "neuroscience-based sales training",
+        "three-brain model in sales"
+      ],
+      "count": 17
+    },
+    "buyer-psychology": {
+      "id": "buyer-psychology",
+      "preferred": "buyer psychology",
+      "aliases": [
+        "buyer psychology",
+        "buying psychology",
+        "consumer psychology"
+      ],
+      "count": 13
+    },
+    "ai-in-sales": {
+      "id": "ai-in-sales",
+      "preferred": "AI in sales",
+      "aliases": [
+        "AI in sales"
+      ],
+      "count": 12
+    },
+    "sales-training": {
+      "id": "sales-training",
+      "preferred": "sales training",
+      "aliases": [
+        "sales training"
+      ],
+      "count": 11
+    },
+    "sales-psychology": {
+      "id": "sales-psychology",
+      "preferred": "sales psychology",
+      "aliases": [
+        "psychology of sales",
+        "sales psychology"
+      ],
+      "count": 10
+    },
+    "resilience": {
+      "id": "resilience",
+      "preferred": "resilience",
+      "aliases": [
+        "resilience"
+      ],
+      "count": 9
+    },
+    "neuroscience-in-sales": {
+      "id": "neuroscience-in-sales",
+      "preferred": "neuroscience in sales",
+      "aliases": [
+        "neuroscience in sales",
+        "neuroscience of selling",
+        "neuroscience-based selling"
+      ],
+      "count": 8
+    },
+    "objection-handling": {
+      "id": "objection-handling",
+      "preferred": "objection handling",
+      "aliases": [
+        "handling objections",
+        "handling resistance",
+        "objection handling"
+      ],
+      "count": 8
+    },
+    "trust-building": {
+      "id": "trust-building",
+      "preferred": "trust building",
+      "aliases": [
+        "building buyer trust",
+        "building trust",
+        "earning buyer trust",
+        "trust building"
+      ],
+      "count": 8
+    },
+    "ai-sales-prospecting": {
+      "id": "ai-sales-prospecting",
+      "preferred": "AI sales prospecting",
+      "aliases": [
+        "AI in prospecting",
+        "AI in sales prospecting",
+        "AI sales prospecting"
+      ],
+      "count": 8
+    },
+    "sales-enablement": {
+      "id": "sales-enablement",
+      "preferred": "sales enablement",
+      "aliases": [
+        "sales enablement"
+      ],
+      "count": 7
+    },
+    "handling-rejection": {
+      "id": "handling-rejection",
+      "preferred": "handling rejection",
+      "aliases": [
+        "handling rejection",
+        "rejection recovery"
+      ],
+      "count": 7
+    },
+    "winning-mindset": {
+      "id": "winning-mindset",
+      "preferred": "winning mindset",
+      "aliases": [
+        "winning mindset"
+      ],
+      "count": 6
+    },
+    "pipeline-management": {
+      "id": "pipeline-management",
+      "preferred": "pipeline management",
+      "aliases": [
+        "pipeline management"
+      ],
+      "count": 6
+    },
+    "book-launch": {
+      "id": "book-launch",
+      "preferred": "book launch",
+      "aliases": [
+        "book launch",
+        "book launch event"
+      ],
+      "count": 6
+    },
+    "sales-prospecting": {
+      "id": "sales-prospecting",
+      "preferred": "sales prospecting",
+      "aliases": [
+        "prospecting",
+        "prospecting discipline",
+        "sales prospecting"
+      ],
+      "count": 6
+    },
+    "website-launch": {
+      "id": "website-launch",
+      "preferred": "website launch",
+      "aliases": [
+        "website launch"
+      ],
+      "count": 5
+    },
+    "consultative-selling": {
+      "id": "consultative-selling",
+      "preferred": "consultative selling",
+      "aliases": [
+        "consultative selling"
+      ],
+      "count": 5
+    },
+    "ai-prospecting": {
+      "id": "ai-prospecting",
+      "preferred": "AI prospecting",
+      "aliases": [
+        "AI prospecting"
+      ],
+      "count": 5
+    },
+    "mindset": {
+      "id": "mindset",
+      "preferred": "mindset",
+      "aliases": [
+        "mindset"
+      ],
+      "count": 5
+    },
+    "emotional-control": {
+      "id": "emotional-control",
+      "preferred": "emotional control",
+      "aliases": [
+        "emotional control",
+        "emotional mastery",
+        "emotional regulation",
+        "emotional self-regulation"
+      ],
+      "count": 5
+    },
+    "sales-resilience": {
+      "id": "sales-resilience",
+      "preferred": "sales resilience",
+      "aliases": [
+        "sales resilience"
+      ],
+      "count": 4
+    },
+    "sales-leadership": {
+      "id": "sales-leadership",
+      "preferred": "sales leadership",
+      "aliases": [
+        "sales leadership"
+      ],
+      "count": 3
+    },
+    "cold-calling": {
+      "id": "cold-calling",
+      "preferred": "cold calling",
+      "aliases": [
+        "cold calling"
+      ],
+      "count": 3
+    },
+    "sales-strategy": {
+      "id": "sales-strategy",
+      "preferred": "sales strategy",
+      "aliases": [
+        "sales strategy"
+      ],
+      "count": 3
+    },
+    "sales-fundamentals": {
+      "id": "sales-fundamentals",
+      "preferred": "sales fundamentals",
+      "aliases": [
+        "sales fundamentals"
+      ],
+      "count": 3
+    },
+    "reciprocity-in-sales": {
+      "id": "reciprocity-in-sales",
+      "preferred": "reciprocity in sales",
+      "aliases": [
+        "reciprocity in sales"
+      ],
+      "count": 3
+    },
+    "discovery-questions": {
+      "id": "discovery-questions",
+      "preferred": "discovery questions",
+      "aliases": [
+        "discovery questions"
+      ],
+      "count": 3
+    },
+    "event-registration": {
+      "id": "event-registration",
+      "preferred": "event registration",
+      "aliases": [
+        "event registration"
+      ],
+      "count": 3
+    },
+    "relationship-selling": {
+      "id": "relationship-selling",
+      "preferred": "relationship selling",
+      "aliases": [
+        "relationship selling"
+      ],
+      "count": 3
+    },
+    "relationship-building": {
+      "id": "relationship-building",
+      "preferred": "relationship building",
+      "aliases": [
+        "building rapport",
+        "relationship building"
+      ],
+      "count": 3
+    },
+    "limiting-beliefs": {
+      "id": "limiting-beliefs",
+      "preferred": "limiting beliefs",
+      "aliases": [
+        "limiting beliefs",
+        "self-limiting beliefs"
+      ],
+      "count": 3
+    },
+    "ai-sales-tools": {
+      "id": "ai-sales-tools",
+      "preferred": "AI sales tools",
+      "aliases": [
+        "AI sales tools",
+        "AI tools for sales leaders"
+      ],
+      "count": 3
+    },
+    "sales-negotiations": {
+      "id": "sales-negotiations",
+      "preferred": "sales negotiations",
+      "aliases": [
+        "sales negotiation",
+        "sales negotiations"
+      ],
+      "count": 2
+    },
+    "star-wars-day": {
+      "id": "star-wars-day",
+      "preferred": "Star Wars Day",
+      "aliases": [
+        "Star Wars Day"
+      ],
+      "count": 2
+    },
+    "problem-solving": {
+      "id": "problem-solving",
+      "preferred": "problem-solving",
+      "aliases": [
+        "problem solving",
+        "problem-solving"
+      ],
+      "count": 2
+    },
+    "neurosales": {
+      "id": "neurosales",
+      "preferred": "neurosales",
+      "aliases": [
+        "neurosales"
+      ],
+      "count": 2
+    },
+    "continuous-learning": {
+      "id": "continuous-learning",
+      "preferred": "continuous learning",
+      "aliases": [
+        "continuous learning"
+      ],
+      "count": 2
+    },
+    "trust-based-selling": {
+      "id": "trust-based-selling",
+      "preferred": "trust-based selling",
+      "aliases": [
+        "trust-based selling"
+      ],
+      "count": 2
+    },
+    "sales-coaching": {
+      "id": "sales-coaching",
+      "preferred": "sales coaching",
+      "aliases": [
+        "sales coaching"
+      ],
+      "count": 2
+    },
+    "sales-mindset-and-resilience": {
+      "id": "sales-mindset-and-resilience",
+      "preferred": "sales mindset and resilience",
+      "aliases": [
+        "sales mindset and resilience"
+      ],
+      "count": 2
+    },
+    "charity-fundraising": {
+      "id": "charity-fundraising",
+      "preferred": "charity fundraising",
+      "aliases": [
+        "charity fundraising"
+      ],
+      "count": 2
+    },
+    "sales-goal-setting": {
+      "id": "sales-goal-setting",
+      "preferred": "sales goal setting",
+      "aliases": [
+        "sales goal setting"
+      ],
+      "count": 2
+    },
+    "sales-methodologies": {
+      "id": "sales-methodologies",
+      "preferred": "sales methodologies",
+      "aliases": [
+        "sales methodologies",
+        "sales methodology"
+      ],
+      "count": 2
+    },
+    "sales-training-career-reflection": {
+      "id": "sales-training-career-reflection",
+      "preferred": "sales training career reflection",
+      "aliases": [
+        "sales training career reflection"
+      ],
+      "count": 2
+    },
+    "objection-prevention": {
+      "id": "objection-prevention",
+      "preferred": "objection prevention",
+      "aliases": [
+        "objection prevention"
+      ],
+      "count": 2
+    },
+    "website-development": {
+      "id": "website-development",
+      "preferred": "website development",
+      "aliases": [
+        "website development"
+      ],
+      "count": 2
+    },
+    "emotional-decision-making": {
+      "id": "emotional-decision-making",
+      "preferred": "emotional decision-making",
+      "aliases": [
+        "emotional decision-making"
+      ],
+      "count": 2
+    },
+    "neuroscience-of-trust": {
+      "id": "neuroscience-of-trust",
+      "preferred": "neuroscience of trust",
+      "aliases": [
+        "neuroscience of trust"
+      ],
+      "count": 2
+    },
+    "human-intelligence": {
+      "id": "human-intelligence",
+      "preferred": "human intelligence",
+      "aliases": [
+        "human intelligence"
+      ],
+      "count": 2
+    },
+    "graduation-ceremony": {
+      "id": "graduation-ceremony",
+      "preferred": "graduation ceremony",
+      "aliases": [
+        "graduation ceremony"
+      ],
+      "count": 2
+    },
+    "human-conversation-skills": {
+      "id": "human-conversation-skills",
+      "preferred": "human conversation skills",
+      "aliases": [
+        "human conversation skills"
+      ],
+      "count": 2
+    },
+    "ai-in-sales-skills": {
+      "id": "ai-in-sales-skills",
+      "preferred": "AI in sales skills",
+      "aliases": [
+        "AI in sales skills"
+      ],
+      "count": 2
+    },
+    "neuroscience-of-buyer-decision-making": {
+      "id": "neuroscience-of-buyer-decision-making",
+      "preferred": "neuroscience of buyer decision-making",
+      "aliases": [
+        "neuroscience of buyer decision-making"
+      ],
+      "count": 2
+    },
+    "sales-conversation-structure": {
+      "id": "sales-conversation-structure",
+      "preferred": "sales conversation structure",
+      "aliases": [
+        "sales conversation structure"
+      ],
+      "count": 2
+    },
+    "value-proposition": {
+      "id": "value-proposition",
+      "preferred": "value proposition",
+      "aliases": [
+        "value proposition"
+      ],
+      "count": 2
+    },
+    "time-management": {
+      "id": "time-management",
+      "preferred": "time management",
+      "aliases": [
+        "time management"
+      ],
+      "count": 2
+    },
+    "sales-operating-system": {
+      "id": "sales-operating-system",
+      "preferred": "sales operating system",
+      "aliases": [
+        "sales operating system"
+      ],
+      "count": 2
+    },
+    "sales-management": {
+      "id": "sales-management",
+      "preferred": "sales management",
+      "aliases": [
+        "sales management"
+      ],
+      "count": 2
+    },
+    "social-selling": {
+      "id": "social-selling",
+      "preferred": "social selling",
+      "aliases": [
+        "social selling"
+      ],
+      "count": 2
+    },
+    "product-launches": {
+      "id": "product-launches",
+      "preferred": "product launches",
+      "aliases": [
+        "product launches"
+      ],
+      "count": 2
+    },
+    "sales-evolution": {
+      "id": "sales-evolution",
+      "preferred": "sales evolution",
+      "aliases": [
+        "evolution of sales",
+        "sales evolution"
+      ],
+      "count": 2
+    },
+    "ai-adoption-in-sales-workflows": {
+      "id": "ai-adoption-in-sales-workflows",
+      "preferred": "AI adoption in sales workflows",
+      "aliases": [
+        "AI adoption in sales",
+        "AI adoption in sales workflows"
+      ],
+      "count": 2
+    },
+    "daily-habits": {
+      "id": "daily-habits",
+      "preferred": "daily habits",
+      "aliases": [
+        "daily habits",
+        "daily routines"
+      ],
+      "count": 2
+    },
+    "ai-sales-agents": {
+      "id": "ai-sales-agents",
+      "preferred": "AI sales agents",
+      "aliases": [
+        "AI agents in sales",
+        "AI sales agents"
+      ],
+      "count": 2
+    },
+    "market-trends": {
+      "id": "market-trends",
+      "preferred": "market trends",
+      "aliases": [
+        "market trends"
+      ],
+      "count": 1
+    },
+    "recruitment-agency-recommendation": {
+      "id": "recruitment-agency-recommendation",
+      "preferred": "recruitment agency recommendation",
+      "aliases": [
+        "recruitment agency recommendation"
+      ],
+      "count": 1
+    },
+    "sales-wisdom-and-experience": {
+      "id": "sales-wisdom-and-experience",
+      "preferred": "sales wisdom and experience",
+      "aliases": [
+        "sales wisdom and experience"
+      ],
+      "count": 1
+    },
+    "prospecting-and-sales-funnels": {
+      "id": "prospecting-and-sales-funnels",
+      "preferred": "prospecting and sales funnels",
+      "aliases": [
+        "prospecting and sales funnels"
+      ],
+      "count": 1
+    },
+    "value-selling-and-roi": {
+      "id": "value-selling-and-roi",
+      "preferred": "value selling and ROI",
+      "aliases": [
+        "value selling and ROI"
+      ],
+      "count": 1
+    },
+    "habits-of-successful-salespeople": {
+      "id": "habits-of-successful-salespeople",
+      "preferred": "habits of successful salespeople",
+      "aliases": [
+        "habits of successful salespeople"
+      ],
+      "count": 1
+    },
+    "recruitment": {
+      "id": "recruitment",
+      "preferred": "recruitment",
+      "aliases": [
+        "recruitment"
+      ],
+      "count": 1
+    },
+    "predictive-analytics-and-lead-identification": {
+      "id": "predictive-analytics-and-lead-identification",
+      "preferred": "predictive analytics and lead identification",
+      "aliases": [
+        "predictive analytics and lead identification"
+      ],
+      "count": 1
+    },
+    "ethical-ai-usage": {
+      "id": "ethical-ai-usage",
+      "preferred": "ethical AI usage",
+      "aliases": [
+        "ethical AI usage"
+      ],
+      "count": 1
+    },
+    "career-journey": {
+      "id": "career-journey",
+      "preferred": "career journey",
+      "aliases": [
+        "career journey"
+      ],
+      "count": 1
+    },
+    "sales-training-offerings": {
+      "id": "sales-training-offerings",
+      "preferred": "sales training offerings",
+      "aliases": [
+        "sales training offerings"
+      ],
+      "count": 1
+    },
+    "sales-training-business": {
+      "id": "sales-training-business",
+      "preferred": "sales training business",
+      "aliases": [
+        "sales training business"
+      ],
+      "count": 1
+    },
+    "timing-and-action": {
+      "id": "timing-and-action",
+      "preferred": "timing and action",
+      "aliases": [
+        "timing and action"
+      ],
+      "count": 1
+    },
+    "crm": {
+      "id": "crm",
+      "preferred": "CRM",
+      "aliases": [
+        "CRM"
+      ],
+      "count": 1
+    },
+    "sales-professional-development": {
+      "id": "sales-professional-development",
+      "preferred": "sales professional development",
+      "aliases": [
+        "sales professional development"
+      ],
+      "count": 1
+    },
+    "sales-coaching-and-growth-consulting": {
+      "id": "sales-coaching-and-growth-consulting",
+      "preferred": "sales coaching and growth consulting",
+      "aliases": [
+        "sales coaching and growth consulting"
+      ],
+      "count": 1
+    },
+    "prayer-request": {
+      "id": "prayer-request",
+      "preferred": "prayer request",
+      "aliases": [
+        "prayer request"
+      ],
+      "count": 1
+    },
+    "sales-process-framework": {
+      "id": "sales-process-framework",
+      "preferred": "sales process framework",
+      "aliases": [
+        "sales process framework"
+      ],
+      "count": 1
+    },
+    "offering-expertise": {
+      "id": "offering-expertise",
+      "preferred": "offering expertise",
+      "aliases": [
+        "offering expertise"
+      ],
+      "count": 1
+    },
+    "long-term-value-creation": {
+      "id": "long-term-value-creation",
+      "preferred": "long-term value creation",
+      "aliases": [
+        "long-term value creation"
+      ],
+      "count": 1
+    },
+    "client-education": {
+      "id": "client-education",
+      "preferred": "client education",
+      "aliases": [
+        "client education"
+      ],
+      "count": 1
+    },
+    "strategic-selling": {
+      "id": "strategic-selling",
+      "preferred": "strategic selling",
+      "aliases": [
+        "strategic selling"
+      ],
+      "count": 1
+    },
+    "market-segmentation": {
+      "id": "market-segmentation",
+      "preferred": "market segmentation",
+      "aliases": [
+        "market segmentation"
+      ],
+      "count": 1
+    },
+    "personal-travel": {
+      "id": "personal-travel",
+      "preferred": "personal travel",
+      "aliases": [
+        "personal travel"
+      ],
+      "count": 1
+    },
+    "lead-generation-personalization": {
+      "id": "lead-generation-personalization",
+      "preferred": "lead generation personalization",
+      "aliases": [
+        "lead generation personalization"
+      ],
+      "count": 1
+    },
+    "value-driven-content": {
+      "id": "value-driven-content",
+      "preferred": "value-driven content",
+      "aliases": [
+        "value-driven content"
+      ],
+      "count": 1
+    },
+    "intent-data": {
+      "id": "intent-data",
+      "preferred": "intent data",
+      "aliases": [
+        "intent data"
+      ],
+      "count": 1
+    },
+    "closing-sales": {
+      "id": "closing-sales",
+      "preferred": "closing sales",
+      "aliases": [
+        "closing sales"
+      ],
+      "count": 1
+    },
+    "sales-and-marketing-skill-development": {
+      "id": "sales-and-marketing-skill-development",
+      "preferred": "sales and marketing skill development",
+      "aliases": [
+        "sales and marketing skill development"
+      ],
+      "count": 1
+    },
+    "value-creation": {
+      "id": "value-creation",
+      "preferred": "value creation",
+      "aliases": [
+        "value creation"
+      ],
+      "count": 1
+    },
+    "hyper-personalisation": {
+      "id": "hyper-personalisation",
+      "preferred": "hyper-personalisation",
+      "aliases": [
+        "hyper-personalisation"
+      ],
+      "count": 1
+    },
+    "deep-listening": {
+      "id": "deep-listening",
+      "preferred": "deep listening",
+      "aliases": [
+        "deep listening"
+      ],
+      "count": 1
+    },
+    "value-driven-conversations": {
+      "id": "value-driven-conversations",
+      "preferred": "value-driven conversations",
+      "aliases": [
+        "value-driven conversations"
+      ],
+      "count": 1
+    },
+    "sales-automation-and-crm": {
+      "id": "sales-automation-and-crm",
+      "preferred": "sales automation and crm",
+      "aliases": [
+        "sales automation and crm"
+      ],
+      "count": 1
+    },
+    "resilience-and-adaptability": {
+      "id": "resilience-and-adaptability",
+      "preferred": "resilience and adaptability",
+      "aliases": [
+        "resilience and adaptability"
+      ],
+      "count": 1
+    },
+    "sales-management-diagnostics": {
+      "id": "sales-management-diagnostics",
+      "preferred": "sales management diagnostics",
+      "aliases": [
+        "sales management diagnostics"
+      ],
+      "count": 1
+    },
+    "newsletter-release": {
+      "id": "newsletter-release",
+      "preferred": "newsletter release",
+      "aliases": [
+        "newsletter release"
+      ],
+      "count": 1
+    },
+    "event-reflection": {
+      "id": "event-reflection",
+      "preferred": "event reflection",
+      "aliases": [
+        "event reflection"
+      ],
+      "count": 1
+    },
+    "candidate-talent-acquisition": {
+      "id": "candidate-talent-acquisition",
+      "preferred": "candidate talent acquisition",
+      "aliases": [
+        "candidate talent acquisition"
+      ],
+      "count": 1
+    },
+    "sales-leadership-questions": {
+      "id": "sales-leadership-questions",
+      "preferred": "sales leadership questions",
+      "aliases": [
+        "sales leadership questions"
+      ],
+      "count": 1
+    },
+    "entrepreneurial-mindset": {
+      "id": "entrepreneurial-mindset",
+      "preferred": "entrepreneurial mindset",
+      "aliases": [
+        "entrepreneurial mindset"
+      ],
+      "count": 1
+    },
+    "lifestyle-design": {
+      "id": "lifestyle-design",
+      "preferred": "lifestyle design",
+      "aliases": [
+        "lifestyle design"
+      ],
+      "count": 1
+    },
+    "lead-nurturing": {
+      "id": "lead-nurturing",
+      "preferred": "lead nurturing",
+      "aliases": [
+        "lead nurturing"
+      ],
+      "count": 1
+    },
+    "recovery-and-downtime-in-sales": {
+      "id": "recovery-and-downtime-in-sales",
+      "preferred": "recovery and downtime in sales",
+      "aliases": [
+        "recovery and downtime in sales"
+      ],
+      "count": 1
+    },
+    "semi-retirement-lifestyle": {
+      "id": "semi-retirement-lifestyle",
+      "preferred": "semi-retirement lifestyle",
+      "aliases": [
+        "semi-retirement lifestyle"
+      ],
+      "count": 1
+    },
+    "sales-storytelling": {
+      "id": "sales-storytelling",
+      "preferred": "sales storytelling",
+      "aliases": [
+        "sales storytelling"
+      ],
+      "count": 1
+    },
+    "storytelling-framework": {
+      "id": "storytelling-framework",
+      "preferred": "storytelling framework",
+      "aliases": [
+        "storytelling framework"
+      ],
+      "count": 1
+    },
+    "sales-storytelling-examples": {
+      "id": "sales-storytelling-examples",
+      "preferred": "sales storytelling examples",
+      "aliases": [
+        "sales storytelling examples"
+      ],
+      "count": 1
+    },
+    "sales-technology": {
+      "id": "sales-technology",
+      "preferred": "sales technology",
+      "aliases": [
+        "sales technology"
+      ],
+      "count": 1
+    },
+    "business-risk-and-support": {
+      "id": "business-risk-and-support",
+      "preferred": "business risk and support",
+      "aliases": [
+        "business risk and support"
+      ],
+      "count": 1
+    },
+    "belonging-in-sales-culture": {
+      "id": "belonging-in-sales-culture",
+      "preferred": "belonging in sales culture",
+      "aliases": [
+        "belonging in sales culture"
+      ],
+      "count": 1
+    },
+    "digital-ticketing-accessibility": {
+      "id": "digital-ticketing-accessibility",
+      "preferred": "digital ticketing accessibility",
+      "aliases": [
+        "digital ticketing accessibility"
+      ],
+      "count": 1
+    },
+    "stills-link": {
+      "id": "stills-link",
+      "preferred": "stills link",
+      "aliases": [
+        "stills link"
+      ],
+      "count": 1
+    },
+    "mental-resilience": {
+      "id": "mental-resilience",
+      "preferred": "mental resilience",
+      "aliases": [
+        "mental resilience"
+      ],
+      "count": 1
+    },
+    "tangerine-twist-beverage": {
+      "id": "tangerine-twist-beverage",
+      "preferred": "Tangerine Twist beverage",
+      "aliases": [
+        "Tangerine Twist beverage"
+      ],
+      "count": 1
+    },
+    "sales-mindset-rituals": {
+      "id": "sales-mindset-rituals",
+      "preferred": "sales mindset rituals",
+      "aliases": [
+        "sales mindset rituals"
+      ],
+      "count": 1
+    },
+    "executive-mindset": {
+      "id": "executive-mindset",
+      "preferred": "executive mindset",
+      "aliases": [
+        "executive mindset"
+      ],
+      "count": 1
+    },
+    "building-commitment": {
+      "id": "building-commitment",
+      "preferred": "building commitment",
+      "aliases": [
+        "building commitment"
+      ],
+      "count": 1
+    },
+    "trust-and-integrity": {
+      "id": "trust-and-integrity",
+      "preferred": "trust and integrity",
+      "aliases": [
+        "trust and integrity"
+      ],
+      "count": 1
+    },
+    "winning-mindset-for-salespeople": {
+      "id": "winning-mindset-for-salespeople",
+      "preferred": "winning mindset for salespeople",
+      "aliases": [
+        "winning mindset for salespeople"
+      ],
+      "count": 1
+    },
+    "discovery-call-architecture": {
+      "id": "discovery-call-architecture",
+      "preferred": "discovery call architecture",
+      "aliases": [
+        "discovery call architecture"
+      ],
+      "count": 1
+    },
+    "closing-myth": {
+      "id": "closing-myth",
+      "preferred": "closing myth",
+      "aliases": [
+        "closing myth"
+      ],
+      "count": 1
+    },
+    "resilience-and-handling-rejection": {
+      "id": "resilience-and-handling-rejection",
+      "preferred": "resilience and handling rejection",
+      "aliases": [
+        "resilience and handling rejection"
+      ],
+      "count": 1
+    },
+    "vulnerability-and-storytelling": {
+      "id": "vulnerability-and-storytelling",
+      "preferred": "vulnerability and storytelling",
+      "aliases": [
+        "vulnerability and storytelling"
+      ],
+      "count": 1
+    },
+    "discovery": {
+      "id": "discovery",
+      "preferred": "discovery",
+      "aliases": [
+        "discovery"
+      ],
+      "count": 1
+    },
+    "trusted-advisor-relationship": {
+      "id": "trusted-advisor-relationship",
+      "preferred": "trusted advisor relationship",
+      "aliases": [
+        "trusted advisor relationship"
+      ],
+      "count": 1
+    },
+    "body-language-and-physical-influence": {
+      "id": "body-language-and-physical-influence",
+      "preferred": "body language and physical influence",
+      "aliases": [
+        "body language and physical influence"
+      ],
+      "count": 1
+    },
+    "sales-evolution-and-neuroscience": {
+      "id": "sales-evolution-and-neuroscience",
+      "preferred": "sales evolution and neuroscience",
+      "aliases": [
+        "sales evolution and neuroscience"
+      ],
+      "count": 1
+    },
+    "wedding-celebration": {
+      "id": "wedding-celebration",
+      "preferred": "wedding celebration",
+      "aliases": [
+        "wedding celebration"
+      ],
+      "count": 1
+    },
+    "daily-habits-and-consistency": {
+      "id": "daily-habits-and-consistency",
+      "preferred": "daily habits and consistency",
+      "aliases": [
+        "daily habits and consistency"
+      ],
+      "count": 1
+    },
+    "post-sale-continuity": {
+      "id": "post-sale-continuity",
+      "preferred": "post-sale continuity",
+      "aliases": [
+        "post-sale continuity"
+      ],
+      "count": 1
+    },
+    "daily-sales-habits-and-mental-priming": {
+      "id": "daily-sales-habits-and-mental-priming",
+      "preferred": "daily sales habits and mental priming",
+      "aliases": [
+        "daily sales habits and mental priming"
+      ],
+      "count": 1
+    },
+    "sales-mindset-book": {
+      "id": "sales-mindset-book",
+      "preferred": "sales mindset book",
+      "aliases": [
+        "sales mindset book"
+      ],
+      "count": 1
+    },
+    "sales-mindset-book-review": {
+      "id": "sales-mindset-book-review",
+      "preferred": "sales mindset book review",
+      "aliases": [
+        "sales mindset book review"
+      ],
+      "count": 1
+    },
+    "raul-malo-tribute": {
+      "id": "raul-malo-tribute",
+      "preferred": "Raul Malo tribute",
+      "aliases": [
+        "Raul Malo tribute"
+      ],
+      "count": 1
+    },
+    "client-relationships": {
+      "id": "client-relationships",
+      "preferred": "client relationships",
+      "aliases": [
+        "client relationships"
+      ],
+      "count": 1
+    },
+    "holiday-greetings": {
+      "id": "holiday-greetings",
+      "preferred": "holiday greetings",
+      "aliases": [
+        "holiday greetings"
+      ],
+      "count": 1
+    },
+    "value-creation-in-sales": {
+      "id": "value-creation-in-sales",
+      "preferred": "value creation in sales",
+      "aliases": [
+        "value creation in sales"
+      ],
+      "count": 1
+    },
+    "pramku": {
+      "id": "pramku",
+      "preferred": "PRAMKU",
+      "aliases": [
+        "PRAMKU"
+      ],
+      "count": 1
+    },
+    "reflection": {
+      "id": "reflection",
+      "preferred": "reflection",
+      "aliases": [
+        "reflection"
+      ],
+      "count": 1
+    },
+    "sales-mindset-under-pressure": {
+      "id": "sales-mindset-under-pressure",
+      "preferred": "sales mindset under pressure",
+      "aliases": [
+        "sales mindset under pressure"
+      ],
+      "count": 1
+    },
+    "execution-gap": {
+      "id": "execution-gap",
+      "preferred": "execution gap",
+      "aliases": [
+        "execution gap"
+      ],
+      "count": 1
+    },
+    "sales-momentum": {
+      "id": "sales-momentum",
+      "preferred": "sales momentum",
+      "aliases": [
+        "sales momentum"
+      ],
+      "count": 1
+    },
+    "sales-habits-and-execution": {
+      "id": "sales-habits-and-execution",
+      "preferred": "sales habits and execution",
+      "aliases": [
+        "sales habits and execution"
+      ],
+      "count": 1
+    },
+    "keynote-speaking": {
+      "id": "keynote-speaking",
+      "preferred": "keynote speaking",
+      "aliases": [
+        "keynote speaking"
+      ],
+      "count": 1
+    },
+    "career-transition": {
+      "id": "career-transition",
+      "preferred": "career transition",
+      "aliases": [
+        "career transition"
+      ],
+      "count": 1
+    },
+    "value-driven-selling": {
+      "id": "value-driven-selling",
+      "preferred": "value-driven selling",
+      "aliases": [
+        "value-driven selling"
+      ],
+      "count": 1
+    },
+    "growth-mindset": {
+      "id": "growth-mindset",
+      "preferred": "growth mindset",
+      "aliases": [
+        "growth mindset"
+      ],
+      "count": 1
+    },
+    "value-led-selling": {
+      "id": "value-led-selling",
+      "preferred": "value-led selling",
+      "aliases": [
+        "value-led selling"
+      ],
+      "count": 1
+    },
+    "probing-questions": {
+      "id": "probing-questions",
+      "preferred": "probing questions",
+      "aliases": [
+        "probing questions"
+      ],
+      "count": 1
+    },
+    "sales-career-growth": {
+      "id": "sales-career-growth",
+      "preferred": "sales career growth",
+      "aliases": [
+        "sales career growth"
+      ],
+      "count": 1
+    },
+    "reciprocity": {
+      "id": "reciprocity",
+      "preferred": "reciprocity",
+      "aliases": [
+        "reciprocity"
+      ],
+      "count": 1
+    },
+    "staff-resilience-and-empathy-under-pressure": {
+      "id": "staff-resilience-and-empathy-under-pressure",
+      "preferred": "staff resilience and empathy under pressure",
+      "aliases": [
+        "staff resilience and empathy under pressure"
+      ],
+      "count": 1
+    },
+    "reconnecting-with-past-customers": {
+      "id": "reconnecting-with-past-customers",
+      "preferred": "reconnecting with past customers",
+      "aliases": [
+        "reconnecting with past customers"
+      ],
+      "count": 1
+    },
+    "reducing-threat-in-sales-conversations": {
+      "id": "reducing-threat-in-sales-conversations",
+      "preferred": "reducing threat in sales conversations",
+      "aliases": [
+        "reducing threat in sales conversations"
+      ],
+      "count": 1
+    },
+    "networking-and-book-launch": {
+      "id": "networking-and-book-launch",
+      "preferred": "networking and book launch",
+      "aliases": [
+        "networking and book launch"
+      ],
+      "count": 1
+    },
+    "presence": {
+      "id": "presence",
+      "preferred": "presence",
+      "aliases": [
+        "presence"
+      ],
+      "count": 1
+    },
+    "sales-performance": {
+      "id": "sales-performance",
+      "preferred": "sales performance",
+      "aliases": [
+        "sales performance"
+      ],
+      "count": 1
+    },
+    "experienced-candidate-value": {
+      "id": "experienced-candidate-value",
+      "preferred": "experienced candidate value",
+      "aliases": [
+        "experienced candidate value"
+      ],
+      "count": 1
+    },
+    "pipeline-recovery": {
+      "id": "pipeline-recovery",
+      "preferred": "pipeline recovery",
+      "aliases": [
+        "pipeline recovery"
+      ],
+      "count": 1
+    },
+    "networking-event": {
+      "id": "networking-event",
+      "preferred": "networking event",
+      "aliases": [
+        "networking event"
+      ],
+      "count": 1
+    },
+    "key-account-management": {
+      "id": "key-account-management",
+      "preferred": "key account management",
+      "aliases": [
+        "key account management"
+      ],
+      "count": 1
+    },
+    "performance-architecture": {
+      "id": "performance-architecture",
+      "preferred": "performance architecture",
+      "aliases": [
+        "performance architecture"
+      ],
+      "count": 1
+    },
+    "business-kpis": {
+      "id": "business-kpis",
+      "preferred": "business KPIs",
+      "aliases": [
+        "business KPIs"
+      ],
+      "count": 1
+    },
+    "endorsement": {
+      "id": "endorsement",
+      "preferred": "endorsement",
+      "aliases": [
+        "endorsement"
+      ],
+      "count": 1
+    },
+    "reducing-buyer-decision-anxiety": {
+      "id": "reducing-buyer-decision-anxiety",
+      "preferred": "reducing buyer decision anxiety",
+      "aliases": [
+        "reducing buyer decision anxiety"
+      ],
+      "count": 1
+    },
+    "ai-revenue-system": {
+      "id": "ai-revenue-system",
+      "preferred": "AI Revenue System",
+      "aliases": [
+        "AI Revenue System"
+      ],
+      "count": 1
+    },
+    "ideal-customer-profile": {
+      "id": "ideal-customer-profile",
+      "preferred": "Ideal Customer Profile",
+      "aliases": [
+        "Ideal Customer Profile"
+      ],
+      "count": 1
+    },
+    "conversion-optimization": {
+      "id": "conversion-optimization",
+      "preferred": "conversion optimization",
+      "aliases": [
+        "conversion optimization"
+      ],
+      "count": 1
+    },
+    "ai-analytics": {
+      "id": "ai-analytics",
+      "preferred": "AI analytics",
+      "aliases": [
+        "AI analytics"
+      ],
+      "count": 1
+    },
+    "multithreading": {
+      "id": "multithreading",
+      "preferred": "multithreading",
+      "aliases": [
+        "multithreading"
+      ],
+      "count": 1
+    },
+    "stakeholder-mapping": {
+      "id": "stakeholder-mapping",
+      "preferred": "stakeholder mapping",
+      "aliases": [
+        "stakeholder mapping"
+      ],
+      "count": 1
+    },
+    "international-women-s-day": {
+      "id": "international-women-s-day",
+      "preferred": "International Women's Day",
+      "aliases": [
+        "International Women's Day"
+      ],
+      "count": 1
+    },
+    "pipeline-velocity": {
+      "id": "pipeline-velocity",
+      "preferred": "pipeline velocity",
+      "aliases": [
+        "pipeline velocity"
+      ],
+      "count": 1
+    },
+    "crm-ai-automation": {
+      "id": "crm-ai-automation",
+      "preferred": "CRM AI automation",
+      "aliases": [
+        "CRM AI automation"
+      ],
+      "count": 1
+    },
+    "mindset-for-high-performance": {
+      "id": "mindset-for-high-performance",
+      "preferred": "mindset for high performance",
+      "aliases": [
+        "mindset for high performance"
+      ],
+      "count": 1
+    },
+    "sales-motivation": {
+      "id": "sales-motivation",
+      "preferred": "sales motivation",
+      "aliases": [
+        "sales motivation"
+      ],
+      "count": 1
+    },
+    "sales-pipeline-management": {
+      "id": "sales-pipeline-management",
+      "preferred": "sales pipeline management",
+      "aliases": [
+        "sales pipeline management"
+      ],
+      "count": 1
+    },
+    "sales-workshop": {
+      "id": "sales-workshop",
+      "preferred": "sales workshop",
+      "aliases": [
+        "sales workshop"
+      ],
+      "count": 1
+    },
+    "sales-discovery-questions": {
+      "id": "sales-discovery-questions",
+      "preferred": "sales discovery questions",
+      "aliases": [
+        "sales discovery questions"
+      ],
+      "count": 1
+    },
+    "ai-delegation": {
+      "id": "ai-delegation",
+      "preferred": "AI delegation",
+      "aliases": [
+        "AI delegation"
+      ],
+      "count": 1
+    },
+    "problem-framing": {
+      "id": "problem-framing",
+      "preferred": "problem framing",
+      "aliases": [
+        "problem framing"
+      ],
+      "count": 1
+    },
+    "content-curation": {
+      "id": "content-curation",
+      "preferred": "content curation",
+      "aliases": [
+        "content curation"
+      ],
+      "count": 1
+    },
+    "ai-sales-integration": {
+      "id": "ai-sales-integration",
+      "preferred": "AI sales integration",
+      "aliases": [
+        "AI sales integration"
+      ],
+      "count": 1
+    },
+    "crm-cadence-creation": {
+      "id": "crm-cadence-creation",
+      "preferred": "CRM cadence creation",
+      "aliases": [
+        "CRM cadence creation"
+      ],
+      "count": 1
+    },
+    "ai-adoption-mindset": {
+      "id": "ai-adoption-mindset",
+      "preferred": "AI adoption mindset",
+      "aliases": [
+        "AI adoption mindset"
+      ],
+      "count": 1
+    },
+    "sales-training-impact": {
+      "id": "sales-training-impact",
+      "preferred": "sales training impact",
+      "aliases": [
+        "sales training impact"
+      ],
+      "count": 1
+    },
+    "coaching-legacy": {
+      "id": "coaching-legacy",
+      "preferred": "coaching legacy",
+      "aliases": [
+        "coaching legacy"
+      ],
+      "count": 1
+    },
+    "buyer-psychology-and-neuroscience": {
+      "id": "buyer-psychology-and-neuroscience",
+      "preferred": "buyer psychology and neuroscience",
+      "aliases": [
+        "buyer psychology and neuroscience"
+      ],
+      "count": 1
+    },
+    "neuroscience-of-decision-making": {
+      "id": "neuroscience-of-decision-making",
+      "preferred": "neuroscience of decision-making",
+      "aliases": [
+        "neuroscience of decision-making"
+      ],
+      "count": 1
+    },
+    "emotional-selling": {
+      "id": "emotional-selling",
+      "preferred": "emotional selling",
+      "aliases": [
+        "emotional selling"
+      ],
+      "count": 1
+    },
+    "online-trust": {
+      "id": "online-trust",
+      "preferred": "online trust",
+      "aliases": [
+        "online trust"
+      ],
+      "count": 1
+    },
+    "sales-presentations": {
+      "id": "sales-presentations",
+      "preferred": "sales presentations",
+      "aliases": [
+        "sales presentations"
+      ],
+      "count": 1
+    },
+    "service-delivery-performance": {
+      "id": "service-delivery-performance",
+      "preferred": "service delivery performance",
+      "aliases": [
+        "service delivery performance"
+      ],
+      "count": 1
+    },
+    "planned-preventative-maintenance": {
+      "id": "planned-preventative-maintenance",
+      "preferred": "planned preventative maintenance",
+      "aliases": [
+        "planned preventative maintenance"
+      ],
+      "count": 1
+    },
+    "online-presence": {
+      "id": "online-presence",
+      "preferred": "online presence",
+      "aliases": [
+        "online presence"
+      ],
+      "count": 1
+    },
+    "high-performance-mindset-in-ai": {
+      "id": "high-performance-mindset-in-ai",
+      "preferred": "high performance mindset in AI",
+      "aliases": [
+        "high performance mindset in AI"
+      ],
+      "count": 1
+    },
+    "neuroscience-of-sales-closing": {
+      "id": "neuroscience-of-sales-closing",
+      "preferred": "neuroscience of sales closing",
+      "aliases": [
+        "neuroscience of sales closing"
+      ],
+      "count": 1
+    },
+    "handling-sales-rejection": {
+      "id": "handling-sales-rejection",
+      "preferred": "handling sales rejection",
+      "aliases": [
+        "handling sales rejection"
+      ],
+      "count": 1
+    },
+    "handling-rejection-neurologically": {
+      "id": "handling-rejection-neurologically",
+      "preferred": "handling rejection neurologically",
+      "aliases": [
+        "handling rejection neurologically"
+      ],
+      "count": 1
+    },
+    "human-presence-in-sales-meetings": {
+      "id": "human-presence-in-sales-meetings",
+      "preferred": "human presence in sales meetings",
+      "aliases": [
+        "human presence in sales meetings"
+      ],
+      "count": 1
+    },
+    "ai-vs-human-selling-skills": {
+      "id": "ai-vs-human-selling-skills",
+      "preferred": "AI vs human selling skills",
+      "aliases": [
+        "AI vs human selling skills"
+      ],
+      "count": 1
+    },
+    "pressure-management-and-resilience": {
+      "id": "pressure-management-and-resilience",
+      "preferred": "pressure management and resilience",
+      "aliases": [
+        "pressure management and resilience"
+      ],
+      "count": 1
+    },
+    "follow-up-mindset": {
+      "id": "follow-up-mindset",
+      "preferred": "follow-up mindset",
+      "aliases": [
+        "follow-up mindset"
+      ],
+      "count": 1
+    },
+    "mindset-development": {
+      "id": "mindset-development",
+      "preferred": "mindset development",
+      "aliases": [
+        "mindset development"
+      ],
+      "count": 1
+    },
+    "augmented-intelligence": {
+      "id": "augmented-intelligence",
+      "preferred": "augmented intelligence",
+      "aliases": [
+        "augmented intelligence"
+      ],
+      "count": 1
+    },
+    "buyer-psychology-and-psychological-safety": {
+      "id": "buyer-psychology-and-psychological-safety",
+      "preferred": "buyer psychology and psychological safety",
+      "aliases": [
+        "buyer psychology and psychological safety"
+      ],
+      "count": 1
+    },
+    "in-person-selling": {
+      "id": "in-person-selling",
+      "preferred": "in-person selling",
+      "aliases": [
+        "in-person selling"
+      ],
+      "count": 1
+    },
+    "newsletter-promotion": {
+      "id": "newsletter-promotion",
+      "preferred": "newsletter promotion",
+      "aliases": [
+        "newsletter promotion"
+      ],
+      "count": 1
+    },
+    "mindset-shift": {
+      "id": "mindset-shift",
+      "preferred": "mindset shift",
+      "aliases": [
+        "mindset shift"
+      ],
+      "count": 1
+    },
+    "ai-email-campaigns": {
+      "id": "ai-email-campaigns",
+      "preferred": "AI email campaigns",
+      "aliases": [
+        "AI email campaigns"
+      ],
+      "count": 1
+    },
+    "brain-framework": {
+      "id": "brain-framework",
+      "preferred": "BRAIN framework",
+      "aliases": [
+        "BRAIN framework"
+      ],
+      "count": 1
+    },
+    "sales-mindset-and-limiting-beliefs": {
+      "id": "sales-mindset-and-limiting-beliefs",
+      "preferred": "sales mindset and limiting beliefs",
+      "aliases": [
+        "sales mindset and limiting beliefs"
+      ],
+      "count": 1
+    },
+    "neuroscience-in-sales-leadership": {
+      "id": "neuroscience-in-sales-leadership",
+      "preferred": "neuroscience in sales leadership",
+      "aliases": [
+        "neuroscience in sales leadership"
+      ],
+      "count": 1
+    },
+    "sales-conversations": {
+      "id": "sales-conversations",
+      "preferred": "sales conversations",
+      "aliases": [
+        "sales conversations"
+      ],
+      "count": 1
+    },
+    "sales-process-and-pipeline-management": {
+      "id": "sales-process-and-pipeline-management",
+      "preferred": "sales process and pipeline management",
+      "aliases": [
+        "sales process and pipeline management"
+      ],
+      "count": 1
+    },
+    "prospecting-and-follow-up": {
+      "id": "prospecting-and-follow-up",
+      "preferred": "prospecting and follow-up",
+      "aliases": [
+        "prospecting and follow-up"
+      ],
+      "count": 1
+    },
+    "resource-sharing": {
+      "id": "resource-sharing",
+      "preferred": "resource sharing",
+      "aliases": [
+        "resource sharing"
+      ],
+      "count": 1
+    },
+    "sales-mindset-and-performance-coaching": {
+      "id": "sales-mindset-and-performance-coaching",
+      "preferred": "sales mindset and performance coaching",
+      "aliases": [
+        "sales mindset and performance coaching"
+      ],
+      "count": 1
+    },
+    "buying-decision-psychology": {
+      "id": "buying-decision-psychology",
+      "preferred": "buying decision psychology",
+      "aliases": [
+        "buying decision psychology"
+      ],
+      "count": 1
+    },
+    "buyer-decision-making": {
+      "id": "buyer-decision-making",
+      "preferred": "buyer decision-making",
+      "aliases": [
+        "buyer decision-making"
+      ],
+      "count": 1
+    },
+    "sales-mindset-and-underlying-beliefs": {
+      "id": "sales-mindset-and-underlying-beliefs",
+      "preferred": "sales mindset and underlying beliefs",
+      "aliases": [
+        "sales mindset and underlying beliefs"
+      ],
+      "count": 1
+    },
+    "post-meeting-follow-up": {
+      "id": "post-meeting-follow-up",
+      "preferred": "post-meeting follow-up",
+      "aliases": [
+        "post-meeting follow-up"
+      ],
+      "count": 1
+    },
+    "managing-sales-anxiety-and-emotion": {
+      "id": "managing-sales-anxiety-and-emotion",
+      "preferred": "managing sales anxiety and emotion",
+      "aliases": [
+        "managing sales anxiety and emotion"
+      ],
+      "count": 1
+    },
+    "tedx-attendance": {
+      "id": "tedx-attendance",
+      "preferred": "TEDx attendance",
+      "aliases": [
+        "TEDx attendance"
+      ],
+      "count": 1
+    },
+    "mental-resilience-under-pressure": {
+      "id": "mental-resilience-under-pressure",
+      "preferred": "mental resilience under pressure",
+      "aliases": [
+        "mental resilience under pressure"
+      ],
+      "count": 1
+    },
+    "positive-mental-attitude": {
+      "id": "positive-mental-attitude",
+      "preferred": "positive mental attitude",
+      "aliases": [
+        "positive mental attitude"
+      ],
+      "count": 1
+    },
+    "graduation-announcement": {
+      "id": "graduation-announcement",
+      "preferred": "graduation announcement",
+      "aliases": [
+        "graduation announcement"
+      ],
+      "count": 1
+    },
+    "cold-outreach": {
+      "id": "cold-outreach",
+      "preferred": "cold outreach",
+      "aliases": [
+        "cold outreach"
+      ],
+      "count": 1
+    },
+    "prospecting-intent-signals": {
+      "id": "prospecting-intent-signals",
+      "preferred": "prospecting intent signals",
+      "aliases": [
+        "prospecting intent signals"
+      ],
+      "count": 1
+    },
+    "neuroscience-of-buyer-trust": {
+      "id": "neuroscience-of-buyer-trust",
+      "preferred": "neuroscience of buyer trust",
+      "aliases": [
+        "neuroscience of buyer trust"
+      ],
+      "count": 1
+    },
+    "active-listening": {
+      "id": "active-listening",
+      "preferred": "active listening",
+      "aliases": [
+        "active listening"
+      ],
+      "count": 1
+    },
+    "co-working-event": {
+      "id": "co-working-event",
+      "preferred": "co-working event",
+      "aliases": [
+        "co-working event"
+      ],
+      "count": 1
+    },
+    "event-endorsement": {
+      "id": "event-endorsement",
+      "preferred": "event endorsement",
+      "aliases": [
+        "event endorsement"
+      ],
+      "count": 1
+    },
+    "social-media-impact": {
+      "id": "social-media-impact",
+      "preferred": "social media impact",
+      "aliases": [
+        "social media impact"
+      ],
+      "count": 1
+    },
+    "fundraising-for-suicide-prevention": {
+      "id": "fundraising-for-suicide-prevention",
+      "preferred": "fundraising for suicide prevention",
+      "aliases": [
+        "fundraising for suicide prevention"
+      ],
+      "count": 1
+    },
+    "audience-engagement": {
+      "id": "audience-engagement",
+      "preferred": "audience engagement",
+      "aliases": [
+        "audience engagement"
+      ],
+      "count": 1
+    },
+    "holistic-wellbeing": {
+      "id": "holistic-wellbeing",
+      "preferred": "holistic wellbeing",
+      "aliases": [
+        "holistic wellbeing"
+      ],
+      "count": 1
+    },
+    "business-networking": {
+      "id": "business-networking",
+      "preferred": "business networking",
+      "aliases": [
+        "business networking"
+      ],
+      "count": 1
+    },
+    "belfast-fleadh": {
+      "id": "belfast-fleadh",
+      "preferred": "Belfast Fleadh",
+      "aliases": [
+        "Belfast Fleadh"
+      ],
+      "count": 1
+    },
+    "ai-roi-in-sales": {
+      "id": "ai-roi-in-sales",
+      "preferred": "AI ROI in sales",
+      "aliases": [
+        "AI ROI in sales"
+      ],
+      "count": 1
+    },
+    "cost-of-inaction": {
+      "id": "cost-of-inaction",
+      "preferred": "cost of inaction",
+      "aliases": [
+        "cost of inaction"
+      ],
+      "count": 1
+    },
+    "fresh-scones": {
+      "id": "fresh-scones",
+      "preferred": "fresh scones",
+      "aliases": [
+        "fresh scones"
+      ],
+      "count": 1
+    },
+    "evaluating-vendor-pitches": {
+      "id": "evaluating-vendor-pitches",
+      "preferred": "evaluating vendor pitches",
+      "aliases": [
+        "evaluating vendor pitches"
+      ],
+      "count": 1
+    },
+    "human-performance-in-an-ai-world": {
+      "id": "human-performance-in-an-ai-world",
+      "preferred": "human performance in an AI world",
+      "aliases": [
+        "human performance in an AI world"
+      ],
+      "count": 1
+    },
+    "applied-neuroscience": {
+      "id": "applied-neuroscience",
+      "preferred": "applied neuroscience",
+      "aliases": [
+        "applied neuroscience"
+      ],
+      "count": 1
+    },
+    "pressure-regulation": {
+      "id": "pressure-regulation",
+      "preferred": "pressure regulation",
+      "aliases": [
+        "pressure regulation"
+      ],
+      "count": 1
+    },
+    "ai-in-b2b-sales": {
+      "id": "ai-in-b2b-sales",
+      "preferred": "AI in B2B sales",
+      "aliases": [
+        "AI in B2B sales"
+      ],
+      "count": 1
+    },
+    "ai-sales-training": {
+      "id": "ai-sales-training",
+      "preferred": "AI sales training",
+      "aliases": [
+        "AI sales training"
+      ],
+      "count": 1
+    },
+    "sales-mindset-and-response-practices": {
+      "id": "sales-mindset-and-response-practices",
+      "preferred": "sales mindset and response practices",
+      "aliases": [
+        "sales mindset and response practices"
+      ],
+      "count": 1
+    },
+    "book-publishing": {
+      "id": "book-publishing",
+      "preferred": "book publishing",
+      "aliases": [
+        "book publishing"
+      ],
+      "count": 1
+    },
+    "ai-in-sales-training": {
+      "id": "ai-in-sales-training",
+      "preferred": "AI in sales training",
+      "aliases": [
+        "AI in sales training"
+      ],
+      "count": 1
+    },
+    "ai-in-sales-enablement": {
+      "id": "ai-in-sales-enablement",
+      "preferred": "AI in sales enablement",
+      "aliases": [
+        "AI in sales enablement"
+      ],
+      "count": 1
+    },
+    "sales-process-integration": {
+      "id": "sales-process-integration",
+      "preferred": "sales process integration",
+      "aliases": [
+        "sales process integration"
+      ],
+      "count": 1
+    },
+    "marriage-and-personal-support": {
+      "id": "marriage-and-personal-support",
+      "preferred": "marriage and personal support",
+      "aliases": [
+        "marriage and personal support"
+      ],
+      "count": 1
+    },
+    "human-sales-skills": {
+      "id": "human-sales-skills",
+      "preferred": "human sales skills",
+      "aliases": [
+        "human sales skills"
+      ],
+      "count": 1
+    },
+    "discovery-intent": {
+      "id": "discovery-intent",
+      "preferred": "discovery intent",
+      "aliases": [
+        "discovery intent"
+      ],
+      "count": 1
+    },
+    "ai-sales-automation": {
+      "id": "ai-sales-automation",
+      "preferred": "AI sales automation",
+      "aliases": [
+        "AI sales automation"
+      ],
+      "count": 1
+    },
+    "sales-apprenticeship-and-ai-automation": {
+      "id": "sales-apprenticeship-and-ai-automation",
+      "preferred": "sales apprenticeship and AI automation",
+      "aliases": [
+        "sales apprenticeship and AI automation"
+      ],
+      "count": 1
+    },
+    "human-skills-in-ai-sales": {
+      "id": "human-skills-in-ai-sales",
+      "preferred": "human skills in AI sales",
+      "aliases": [
+        "human skills in AI sales"
+      ],
+      "count": 1
+    },
+    "analytical-thinking": {
+      "id": "analytical-thinking",
+      "preferred": "analytical thinking",
+      "aliases": [
+        "analytical thinking"
+      ],
+      "count": 1
+    },
+    "ai-impact-on-sales-and-professional-judgement": {
+      "id": "ai-impact-on-sales-and-professional-judgement",
+      "preferred": "AI impact on sales and professional judgement",
+      "aliases": [
+        "AI impact on sales and professional judgement"
+      ],
+      "count": 1
+    },
+    "ai-roi-measurement": {
+      "id": "ai-roi-measurement",
+      "preferred": "AI ROI measurement",
+      "aliases": [
+        "AI ROI measurement"
+      ],
+      "count": 1
+    },
+    "autonomous-ai-sales-agents": {
+      "id": "autonomous-ai-sales-agents",
+      "preferred": "autonomous AI sales agents",
+      "aliases": [
+        "autonomous AI sales agents"
+      ],
+      "count": 1
+    },
+    "purpose-driven-selling": {
+      "id": "purpose-driven-selling",
+      "preferred": "purpose-driven selling",
+      "aliases": [
+        "purpose-driven selling"
+      ],
+      "count": 1
+    },
+    "sales-mindset-and-execution": {
+      "id": "sales-mindset-and-execution",
+      "preferred": "sales mindset and execution",
+      "aliases": [
+        "sales mindset and execution"
+      ],
+      "count": 1
+    },
+    "ai-governance-and-leadership": {
+      "id": "ai-governance-and-leadership",
+      "preferred": "AI governance and leadership",
+      "aliases": [
+        "AI governance and leadership"
+      ],
+      "count": 1
+    },
+    "ai-prospecting-value-measurement": {
+      "id": "ai-prospecting-value-measurement",
+      "preferred": "AI prospecting value measurement",
+      "aliases": [
+        "AI prospecting value measurement"
+      ],
+      "count": 1
+    },
+    "ethical-ai-and-accountability-in-prospecting": {
+      "id": "ethical-ai-and-accountability-in-prospecting",
+      "preferred": "ethical AI and accountability in prospecting",
+      "aliases": [
+        "ethical AI and accountability in prospecting"
+      ],
+      "count": 1
+    },
+    "sales-qualification-and-discovery": {
+      "id": "sales-qualification-and-discovery",
+      "preferred": "sales qualification and discovery",
+      "aliases": [
+        "sales qualification and discovery"
+      ],
+      "count": 1
+    },
+    "sales-outreach": {
+      "id": "sales-outreach",
+      "preferred": "sales outreach",
+      "aliases": [
+        "sales outreach"
+      ],
+      "count": 1
+    },
+    "ai-adoption-in-sales-leadership": {
+      "id": "ai-adoption-in-sales-leadership",
+      "preferred": "AI adoption in sales leadership",
+      "aliases": [
+        "AI adoption in sales leadership"
+      ],
+      "count": 1
+    },
+    "confidence-competence-loop": {
+      "id": "confidence-competence-loop",
+      "preferred": "Confidence-Competence Loop",
+      "aliases": [
+        "Confidence-Competence Loop"
+      ],
+      "count": 1
+    },
+    "sales-confidence": {
+      "id": "sales-confidence",
+      "preferred": "sales confidence",
+      "aliases": [
+        "sales confidence"
+      ],
+      "count": 1
+    },
+    "calm-framework": {
+      "id": "calm-framework",
+      "preferred": "CALM framework",
+      "aliases": [
+        "CALM framework"
+      ],
+      "count": 1
+    },
+    "sales-conversation-sequencing": {
+      "id": "sales-conversation-sequencing",
+      "preferred": "sales conversation sequencing",
+      "aliases": [
+        "sales conversation sequencing"
+      ],
+      "count": 1
+    },
+    "brain-based-sales-website": {
+      "id": "brain-based-sales-website",
+      "preferred": "brain based sales website",
+      "aliases": [
+        "brain based sales website"
+      ],
+      "count": 1
+    },
+    "sales-culture": {
+      "id": "sales-culture",
+      "preferred": "sales culture",
+      "aliases": [
+        "sales culture"
+      ],
+      "count": 1
+    },
+    "leadership-neurology": {
+      "id": "leadership-neurology",
+      "preferred": "leadership neurology",
+      "aliases": [
+        "leadership neurology"
+      ],
+      "count": 1
+    },
+    "sales-assessment": {
+      "id": "sales-assessment",
+      "preferred": "sales assessment",
+      "aliases": [
+        "sales assessment"
+      ],
+      "count": 1
+    },
+    "ai-maturity-in-sales": {
+      "id": "ai-maturity-in-sales",
+      "preferred": "AI maturity in sales",
+      "aliases": [
+        "AI maturity in sales"
+      ],
+      "count": 1
+    },
+    "value-discovery": {
+      "id": "value-discovery",
+      "preferred": "value discovery",
+      "aliases": [
+        "value discovery"
+      ],
+      "count": 1
+    },
+    "goal-setting": {
+      "id": "goal-setting",
+      "preferred": "goal setting",
+      "aliases": [
+        "goal setting"
+      ],
+      "count": 1
+    },
+    "speaking-engagements": {
+      "id": "speaking-engagements",
+      "preferred": "speaking engagements",
+      "aliases": [
+        "speaking engagements"
+      ],
+      "count": 1
+    },
+    "speaker-pack": {
+      "id": "speaker-pack",
+      "preferred": "speaker pack",
+      "aliases": [
+        "speaker pack"
+      ],
+      "count": 1
+    },
+    "sales-training-methodology": {
+      "id": "sales-training-methodology",
+      "preferred": "sales training methodology",
+      "aliases": [
+        "sales training methodology"
+      ],
+      "count": 1
+    },
+    "b2b-sales-training": {
+      "id": "b2b-sales-training",
+      "preferred": "B2B sales training",
+      "aliases": [
+        "B2B sales training"
+      ],
+      "count": 1
+    },
+    "membership-pricing": {
+      "id": "membership-pricing",
+      "preferred": "membership pricing",
+      "aliases": [
+        "membership pricing"
+      ],
+      "count": 1
+    },
+    "sales-consulting": {
+      "id": "sales-consulting",
+      "preferred": "sales consulting",
+      "aliases": [
+        "sales consulting"
+      ],
+      "count": 1
+    },
+    "prospecting-clarity": {
+      "id": "prospecting-clarity",
+      "preferred": "prospecting clarity",
+      "aliases": [
+        "prospecting clarity"
+      ],
+      "count": 1
+    },
+    "ai-targeting-and-lead-build": {
+      "id": "ai-targeting-and-lead-build",
+      "preferred": "AI targeting and lead build",
+      "aliases": [
+        "AI targeting and lead build"
+      ],
+      "count": 1
+    },
+    "outreach-messaging": {
+      "id": "outreach-messaging",
+      "preferred": "outreach messaging",
+      "aliases": [
+        "outreach messaging"
+      ],
+      "count": 1
+    },
+    "crm-cadence-design": {
+      "id": "crm-cadence-design",
+      "preferred": "CRM cadence design",
+      "aliases": [
+        "CRM cadence design"
+      ],
+      "count": 1
+    },
+    "blog-post-structure": {
+      "id": "blog-post-structure",
+      "preferred": "blog post structure",
+      "aliases": [
+        "blog post structure"
+      ],
+      "count": 1
+    },
+    "revenue-diagnostic": {
+      "id": "revenue-diagnostic",
+      "preferred": "revenue diagnostic",
+      "aliases": [
+        "revenue diagnostic"
+      ],
+      "count": 1
+    },
+    "lever-prioritisation": {
+      "id": "lever-prioritisation",
+      "preferred": "lever prioritisation",
+      "aliases": [
+        "lever prioritisation"
+      ],
+      "count": 1
+    },
+    "bespoke-programme-design": {
+      "id": "bespoke-programme-design",
+      "preferred": "bespoke programme design",
+      "aliases": [
+        "bespoke programme design"
+      ],
+      "count": 1
+    },
+    "programme-activation": {
+      "id": "programme-activation",
+      "preferred": "programme activation",
+      "aliases": [
+        "programme activation"
+      ],
+      "count": 1
+    },
+    "measurement-and-optimisation": {
+      "id": "measurement-and-optimisation",
+      "preferred": "measurement and optimisation",
+      "aliases": [
+        "measurement and optimisation"
+      ],
+      "count": 1
+    },
+    "sales-management-training": {
+      "id": "sales-management-training",
+      "preferred": "sales management training",
+      "aliases": [
+        "sales management training"
+      ],
+      "count": 1
+    },
+    "sales-techniques": {
+      "id": "sales-techniques",
+      "preferred": "sales techniques",
+      "aliases": [
+        "sales techniques"
+      ],
+      "count": 1
+    },
+    "ai-outreach": {
+      "id": "ai-outreach",
+      "preferred": "AI outreach",
+      "aliases": [
+        "AI outreach"
+      ],
+      "count": 1
+    },
+    "buyer-intelligence": {
+      "id": "buyer-intelligence",
+      "preferred": "buyer intelligence",
+      "aliases": [
+        "buyer intelligence"
+      ],
+      "count": 1
+    },
+    "proposal-creation": {
+      "id": "proposal-creation",
+      "preferred": "proposal creation",
+      "aliases": [
+        "proposal creation"
+      ],
+      "count": 1
+    },
+    "call-analysis": {
+      "id": "call-analysis",
+      "preferred": "call analysis",
+      "aliases": [
+        "call analysis"
+      ],
+      "count": 1
+    },
+    "sales-kickoff-keynote": {
+      "id": "sales-kickoff-keynote",
+      "preferred": "sales kickoff keynote",
+      "aliases": [
+        "sales kickoff keynote"
+      ],
+      "count": 1
+    },
+    "revenue-operations": {
+      "id": "revenue-operations",
+      "preferred": "revenue operations",
+      "aliases": [
+        "revenue operations"
+      ],
+      "count": 1
+    },
+    "b2b-sales-strategy": {
+      "id": "b2b-sales-strategy",
+      "preferred": "B2B sales strategy",
+      "aliases": [
+        "B2B sales strategy"
+      ],
+      "count": 1
+    },
+    "b2b-prospecting": {
+      "id": "b2b-prospecting",
+      "preferred": "B2B prospecting",
+      "aliases": [
+        "B2B prospecting"
+      ],
+      "count": 1
+    },
+    "opportunity-qualification": {
+      "id": "opportunity-qualification",
+      "preferred": "opportunity qualification",
+      "aliases": [
+        "opportunity qualification"
+      ],
+      "count": 1
+    },
+    "sales-keynotes": {
+      "id": "sales-keynotes",
+      "preferred": "sales keynotes",
+      "aliases": [
+        "sales keynotes"
+      ],
+      "count": 1
+    },
+    "value-based-selling": {
+      "id": "value-based-selling",
+      "preferred": "value-based selling",
+      "aliases": [
+        "value-based selling"
+      ],
+      "count": 1
+    },
+    "sales-coaching-strategy": {
+      "id": "sales-coaching-strategy",
+      "preferred": "sales coaching strategy",
+      "aliases": [
+        "sales coaching strategy"
+      ],
+      "count": 1
+    },
+    "triune-brain-selling": {
+      "id": "triune-brain-selling",
+      "preferred": "triune brain selling",
+      "aliases": [
+        "triune brain selling"
+      ],
+      "count": 1
+    },
+    "direct-mail-prospecting": {
+      "id": "direct-mail-prospecting",
+      "preferred": "direct mail prospecting",
+      "aliases": [
+        "direct mail prospecting"
+      ],
+      "count": 1
+    },
+    "outbound-prospecting": {
+      "id": "outbound-prospecting",
+      "preferred": "outbound prospecting",
+      "aliases": [
+        "outbound prospecting"
+      ],
+      "count": 1
+    },
+    "value-added-selling": {
+      "id": "value-added-selling",
+      "preferred": "value-added selling",
+      "aliases": [
+        "value-added selling"
+      ],
+      "count": 1
+    },
+    "virtual-sales-training": {
+      "id": "virtual-sales-training",
+      "preferred": "virtual sales training",
+      "aliases": [
+        "virtual sales training"
+      ],
+      "count": 1
+    },
+    "sales-onboarding": {
+      "id": "sales-onboarding",
+      "preferred": "sales onboarding",
+      "aliases": [
+        "sales onboarding"
+      ],
+      "count": 1
+    },
+    "sales-training-strategy": {
+      "id": "sales-training-strategy",
+      "preferred": "sales training strategy",
+      "aliases": [
+        "sales training strategy"
+      ],
+      "count": 1
+    },
+    "reframing": {
+      "id": "reframing",
+      "preferred": "reframing",
+      "aliases": [
+        "reframing"
+      ],
+      "count": 1
+    },
+    "video-prospecting": {
+      "id": "video-prospecting",
+      "preferred": "video prospecting",
+      "aliases": [
+        "video prospecting"
+      ],
+      "count": 1
+    },
+    "ai-adoption": {
+      "id": "ai-adoption",
+      "preferred": "AI adoption",
+      "aliases": [
+        "AI adoption"
+      ],
+      "count": 1
+    },
+    "sales-leadership-training": {
+      "id": "sales-leadership-training",
+      "preferred": "sales leadership training",
+      "aliases": [
+        "sales leadership training"
+      ],
+      "count": 1
+    },
+    "proactivity-in-sales": {
+      "id": "proactivity-in-sales",
+      "preferred": "proactivity in sales",
+      "aliases": [
+        "proactivity in sales"
+      ],
+      "count": 1
+    },
+    "goal-setting-and-objective-planning": {
+      "id": "goal-setting-and-objective-planning",
+      "preferred": "goal setting and objective planning",
+      "aliases": [
+        "goal setting and objective planning"
+      ],
+      "count": 1
+    },
+    "time-management-and-prioritization": {
+      "id": "time-management-and-prioritization",
+      "preferred": "time management and prioritization",
+      "aliases": [
+        "time management and prioritization"
+      ],
+      "count": 1
+    },
+    "win-win-mindset": {
+      "id": "win-win-mindset",
+      "preferred": "win-win mindset",
+      "aliases": [
+        "win-win mindset"
+      ],
+      "count": 1
+    },
+    "qualifying-and-client-inquiry": {
+      "id": "qualifying-and-client-inquiry",
+      "preferred": "qualifying and client inquiry",
+      "aliases": [
+        "qualifying and client inquiry"
+      ],
+      "count": 1
+    },
+    "synergy-and-problem-solving": {
+      "id": "synergy-and-problem-solving",
+      "preferred": "synergy and problem solving",
+      "aliases": [
+        "synergy and problem solving"
+      ],
+      "count": 1
+    },
+    "sharpening-the-saw": {
+      "id": "sharpening-the-saw",
+      "preferred": "sharpening the saw",
+      "aliases": [
+        "sharpening the saw"
+      ],
+      "count": 1
+    },
+    "storytelling": {
+      "id": "storytelling",
+      "preferred": "storytelling",
+      "aliases": [
+        "storytelling"
+      ],
+      "count": 1
+    },
+    "networking": {
+      "id": "networking",
+      "preferred": "networking",
+      "aliases": [
+        "networking"
+      ],
+      "count": 1
+    },
+    "career-beginnings": {
+      "id": "career-beginnings",
+      "preferred": "career beginnings",
+      "aliases": [
+        "career beginnings"
+      ],
+      "count": 1
+    },
+    "customer-centric-selling": {
+      "id": "customer-centric-selling",
+      "preferred": "customer-centric selling",
+      "aliases": [
+        "customer-centric selling"
+      ],
+      "count": 1
+    },
+    "linkedin-networking": {
+      "id": "linkedin-networking",
+      "preferred": "LinkedIn networking",
+      "aliases": [
+        "LinkedIn networking"
+      ],
+      "count": 1
+    },
+    "vulnerability": {
+      "id": "vulnerability",
+      "preferred": "vulnerability",
+      "aliases": [
+        "vulnerability"
+      ],
+      "count": 1
+    },
+    "personal-branding": {
+      "id": "personal-branding",
+      "preferred": "personal branding",
+      "aliases": [
+        "personal branding"
+      ],
+      "count": 1
+    },
+    "business-turnaround": {
+      "id": "business-turnaround",
+      "preferred": "business turnaround",
+      "aliases": [
+        "business turnaround"
+      ],
+      "count": 1
+    },
+    "charity-work": {
+      "id": "charity-work",
+      "preferred": "charity work",
+      "aliases": [
+        "charity work"
+      ],
+      "count": 1
+    },
+    "mentorship": {
+      "id": "mentorship",
+      "preferred": "mentorship",
+      "aliases": [
+        "mentorship"
+      ],
+      "count": 1
+    },
+    "personal-fulfillment": {
+      "id": "personal-fulfillment",
+      "preferred": "personal fulfillment",
+      "aliases": [
+        "personal fulfillment"
+      ],
+      "count": 1
+    },
+    "sales-advice-for-beginners": {
+      "id": "sales-advice-for-beginners",
+      "preferred": "sales advice for beginners",
+      "aliases": [
+        "sales advice for beginners"
+      ],
+      "count": 1
+    },
+    "personal-development": {
+      "id": "personal-development",
+      "preferred": "personal development",
+      "aliases": [
+        "personal development"
+      ],
+      "count": 1
+    },
+    "success-principles": {
+      "id": "success-principles",
+      "preferred": "success principles",
+      "aliases": [
+        "success principles"
+      ],
+      "count": 1
+    },
+    "curiosity": {
+      "id": "curiosity",
+      "preferred": "curiosity",
+      "aliases": [
+        "curiosity"
+      ],
+      "count": 1
+    },
+    "purpose": {
+      "id": "purpose",
+      "preferred": "purpose",
+      "aliases": [
+        "purpose"
+      ],
+      "count": 1
+    },
+    "professional-relationships": {
+      "id": "professional-relationships",
+      "preferred": "professional relationships",
+      "aliases": [
+        "professional relationships"
+      ],
+      "count": 1
+    },
+    "direct-mail": {
+      "id": "direct-mail",
+      "preferred": "direct mail",
+      "aliases": [
+        "direct mail"
+      ],
+      "count": 1
+    },
+    "pre-call-research": {
+      "id": "pre-call-research",
+      "preferred": "pre-call research",
+      "aliases": [
+        "pre-call research"
+      ],
+      "count": 1
+    },
+    "social-engineering": {
+      "id": "social-engineering",
+      "preferred": "social engineering",
+      "aliases": [
+        "social engineering"
+      ],
+      "count": 1
+    },
+    "cold-call-opening": {
+      "id": "cold-call-opening",
+      "preferred": "cold call opening",
+      "aliases": [
+        "cold call opening"
+      ],
+      "count": 1
+    },
+    "voicemail": {
+      "id": "voicemail",
+      "preferred": "voicemail",
+      "aliases": [
+        "voicemail"
+      ],
+      "count": 1
+    },
+    "gatekeepers": {
+      "id": "gatekeepers",
+      "preferred": "gatekeepers",
+      "aliases": [
+        "gatekeepers"
+      ],
+      "count": 1
+    },
+    "crisis-selling": {
+      "id": "crisis-selling",
+      "preferred": "crisis selling",
+      "aliases": [
+        "crisis selling"
+      ],
+      "count": 1
+    },
+    "remote-selling": {
+      "id": "remote-selling",
+      "preferred": "remote selling",
+      "aliases": [
+        "remote selling"
+      ],
+      "count": 1
+    },
+    "prospect-research": {
+      "id": "prospect-research",
+      "preferred": "prospect research",
+      "aliases": [
+        "prospect research"
+      ],
+      "count": 1
+    },
+    "sales-training-resources": {
+      "id": "sales-training-resources",
+      "preferred": "sales training resources",
+      "aliases": [
+        "sales training resources"
+      ],
+      "count": 1
+    },
+    "career-development": {
+      "id": "career-development",
+      "preferred": "career development",
+      "aliases": [
+        "career development"
+      ],
+      "count": 1
+    },
+    "account-management": {
+      "id": "account-management",
+      "preferred": "account management",
+      "aliases": [
+        "account management"
+      ],
+      "count": 1
+    },
+    "communication-style": {
+      "id": "communication-style",
+      "preferred": "communication style",
+      "aliases": [
+        "communication style"
+      ],
+      "count": 1
+    },
+    "enterprise-sales": {
+      "id": "enterprise-sales",
+      "preferred": "enterprise sales",
+      "aliases": [
+        "enterprise sales"
+      ],
+      "count": 1
+    },
+    "buyer-empathy": {
+      "id": "buyer-empathy",
+      "preferred": "buyer empathy",
+      "aliases": [
+        "buyer empathy"
+      ],
+      "count": 1
+    },
+    "customer-service": {
+      "id": "customer-service",
+      "preferred": "customer service",
+      "aliases": [
+        "customer service"
+      ],
+      "count": 1
+    },
+    "lead-qualification": {
+      "id": "lead-qualification",
+      "preferred": "lead qualification",
+      "aliases": [
+        "lead qualification"
+      ],
+      "count": 1
+    },
+    "publishing": {
+      "id": "publishing",
+      "preferred": "publishing",
+      "aliases": [
+        "publishing"
+      ],
+      "count": 1
+    }
+  }
+}
