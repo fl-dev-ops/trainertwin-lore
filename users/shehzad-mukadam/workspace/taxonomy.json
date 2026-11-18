@@ -2509,21 +2509,21 @@
       ],
       "count": 3
     },
-    "trust-in-god": {
-      "id": "trust-in-god",
-      "preferred": "trust in God",
-      "aliases": [
-        "trust in Allah",
-        "trust in God"
-      ],
-      "count": 3
-    },
     "reciprocity-in-relationships": {
       "id": "reciprocity-in-relationships",
       "preferred": "reciprocity in relationships",
       "aliases": [
         "reciprocity in relationships",
         "relationship reciprocity"
+      ],
+      "count": 3
+    },
+    "corporate-training": {
+      "id": "corporate-training",
+      "preferred": "corporate training",
+      "aliases": [
+        "corporate training",
+        "corporate training programs"
       ],
       "count": 3
     },
@@ -2629,6 +2629,14 @@
       "preferred": "self-improvement",
       "aliases": [
         "self-improvement"
+      ],
+      "count": 2
+    },
+    "trust-in-god": {
+      "id": "trust-in-god",
+      "preferred": "trust in God",
+      "aliases": [
+        "trust in God"
       ],
       "count": 2
     },
@@ -2873,14 +2881,6 @@
       ],
       "count": 2
     },
-    "corporate-training": {
-      "id": "corporate-training",
-      "preferred": "corporate training",
-      "aliases": [
-        "corporate training"
-      ],
-      "count": 2
-    },
     "resilience": {
       "id": "resilience",
       "preferred": "resilience",
@@ -2991,6 +2991,15 @@
       "aliases": [
         "defining success",
         "definition of success"
+      ],
+      "count": 2
+    },
+    "six-sigma-green-belt": {
+      "id": "six-sigma-green-belt",
+      "preferred": "Six Sigma Green Belt",
+      "aliases": [
+        "Six Sigma Green Belt",
+        "Six Sigma Green Belt certification"
       ],
       "count": 2
     },
@@ -3415,6 +3424,14 @@
       "preferred": "self-determination",
       "aliases": [
         "self-determination"
+      ],
+      "count": 1
+    },
+    "trust-in-allah": {
+      "id": "trust-in-allah",
+      "preferred": "trust in Allah",
+      "aliases": [
+        "trust in Allah"
       ],
       "count": 1
     },
@@ -4674,14 +4691,6 @@
       ],
       "count": 1
     },
-    "six-sigma-green-belt": {
-      "id": "six-sigma-green-belt",
-      "preferred": "Six Sigma Green Belt",
-      "aliases": [
-        "Six Sigma Green Belt"
-      ],
-      "count": 1
-    },
     "personal-growth-and-relationships": {
       "id": "personal-growth-and-relationships",
       "preferred": "personal growth and relationships",
@@ -4719,14 +4728,6 @@
       "preferred": "leadership communication",
       "aliases": [
         "leadership communication"
-      ],
-      "count": 1
-    },
-    "six-sigma-green-belt-certification": {
-      "id": "six-sigma-green-belt-certification",
-      "preferred": "Six Sigma Green Belt certification",
-      "aliases": [
-        "Six Sigma Green Belt certification"
       ],
       "count": 1
     },
@@ -4855,14 +4856,6 @@
       "preferred": "mindset reflection",
       "aliases": [
         "mindset reflection"
-      ],
-      "count": 1
-    },
-    "corporate-training-programs": {
-      "id": "corporate-training-programs",
-      "preferred": "corporate training programs",
-      "aliases": [
-        "corporate training programs"
       ],
       "count": 1
     },
