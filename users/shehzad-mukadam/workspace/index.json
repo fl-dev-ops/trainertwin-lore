@@ -602,12 +602,12 @@
     },
     "instagram-posts-2026-10-26-before-you-write-up-your-md-f2052998f5": {
       "path": "instagram/posts/2026-10-26-before-you-write-up-your.md",
-      "sha256": "65c8ae6da866dfffa0798db6aac083b56586426c23e06f306a7f785ce83245f8",
+      "sha256": "463a714ecb4e14a1c36750fde92c770ee969500b5b043292f6112edb61c2dc48",
       "basis": "whole"
     },
     "instagram-posts-2026-11-10-managers-used-to-be-the-md-73dcdd30c5": {
       "path": "instagram/posts/2026-11-10-managers-used-to-be-the.md",
-      "sha256": "1eba661fea4ced386a6c6aed396d6e1ecfaf7006313844f82b6023651320b256",
+      "sha256": "ece03494e5ec12957ccce4d80ed9946fbec2e16e21ef39e1a29e92ef7c0b78d0",
       "basis": "whole"
     },
     "instagram-posts-2026-11-02-when-the-boss-walks-across-md-14db57b217": {
@@ -627,8 +627,8 @@
     },
     "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea": {
       "path": "instagram/posts/2026-11-15-i-ran-100-coaching-sessions.md",
-      "sha256": "9aabec5132c49aca143a94238960e3a4b13b42df354152066cf4afb1ec65bf12",
-      "basis": "whole"
+      "sha256": "50855b03550cca2f4472baf90a9225e2fa674a729e3f2cc81a56241617ef14b1",
+      "basis": "list"
     },
     "linkedin-posts-2024-11-21-leadership-is-often-misunderstood-as-md-e1ff6371bd": {
       "path": "linkedin/posts/2024-11-21-leadership-is-often-misunderstood-as.md",
@@ -2058,6 +2058,51 @@
     "linkedin-posts-2026-11-13-if-management-is-the-reason-md-d1b893ed93": {
       "path": "linkedin/posts/2026-11-13-if-management-is-the-reason.md",
       "sha256": "c2caca36f12e80be09b9a18bd542cb39fc700d1c3eb5c6e9eda7d18ba60771e4",
+      "basis": "whole"
+    },
+    "instagram-posts-2026-10-24-you-trained-the-team-three-md-5c6540bc33": {
+      "path": "instagram/posts/2026-10-24-you-trained-the-team-three.md",
+      "sha256": "3de5f3e8078d4e108541ba52807d6dc5dcb00e1a8d182ff9998fa257393b2569",
+      "basis": "whole"
+    },
+    "instagram-posts-2026-10-27-think-of-the-manager-who-md-f53ea5c73c": {
+      "path": "instagram/posts/2026-10-27-think-of-the-manager-who.md",
+      "sha256": "5ac945270545de6aa2278ac96eafabfc85f5fb243edeeeba8466db8974851e84",
+      "basis": "whole"
+    },
+    "instagram-posts-2026-11-03-your-team-checked-your-mood-md-fe83fd78b5": {
+      "path": "instagram/posts/2026-11-03-your-team-checked-your-mood.md",
+      "sha256": "3dc3751eebdb73f1590335b79f96e8474266fb86850c721d857463425bcba99d",
+      "basis": "whole"
+    },
+    "instagram-posts-2026-09-13-nobody-trained-them-to-manage-md-59b4e889d4": {
+      "path": "instagram/posts/2026-09-13-nobody-trained-them-to-manage.md",
+      "sha256": "7b2d7b5ff77f59b02958ba5b7aa188f5d48241a9a33343dab47ee063d5de2754",
+      "basis": "whole"
+    },
+    "instagram-posts-2026-09-29-you-remember-the-exact-moment-md-166bb1b97a": {
+      "path": "instagram/posts/2026-09-29-you-remember-the-exact-moment.md",
+      "sha256": "ac06768e66f6d56d85ec6b220e02650bc4f72e901c60747334c89843a47986c5",
+      "basis": "whole"
+    },
+    "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493": {
+      "path": "instagram/posts/2026-10-29-you-walk-out-of-the.md",
+      "sha256": "d88f8d0e2e5dd6e774048e795cc0b98d8e6cf1a78156c270a115366af47a18cb",
+      "basis": "list"
+    },
+    "instagram-posts-2026-11-12-most-people-remember-where-ratan-md-927da1d46e": {
+      "path": "instagram/posts/2026-11-12-most-people-remember-where-ratan.md",
+      "sha256": "deea6db6a5c65e8cb2c00c3faf16ba940427e4a30a1bf676b9b0fd3a1f821489",
+      "basis": "whole"
+    },
+    "linkedin-posts-2025-02-06-calling-all-aviation-professionals-and-md-fd0126e07b": {
+      "path": "linkedin/posts/2025-02-06-calling-all-aviation-professionals-and.md",
+      "sha256": "99f4959a47eadf00b167636b3c39e75be611f0a76e64c4133d2f77e759fee291",
+      "basis": "whole"
+    },
+    "linkedin-posts-2025-04-03-work-friendships-can-be-valuable-md-4d78c00968": {
+      "path": "linkedin/posts/2025-04-03-work-friendships-can-be-valuable.md",
+      "sha256": "f95087542f12a7609108341a7618aa73a16dc6dea90603c1d90d4ff4585a6422",
       "basis": "whole"
     }
   },
@@ -5071,60 +5116,6 @@
       "next": null
     },
     {
-      "title": "Before writing up low performers, test their clarity on what a great month looks like",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "performance management"
-        },
-        {
-          "facet": "situation",
-          "label": "underperforming employee"
-        },
-        {
-          "facet": "activity",
-          "label": "performance coaching"
-        }
-      ],
-      "span": {
-        "start_line": 15,
-        "end_line": 31
-      },
-      "quote": "Before you write up your lowest performer, ask them one question: “What does a great month look like in this role?” Then listen to how long they take to answer, and whether the answer matches yours. Sometimes the person isn’t failing. They’re guessing. In a lot of teams, good lives in the founder’s head, or the previous manager’s, or in a number nobody explained. People with unclear targets don’t look lost. They look busy, which is why this goes unnoticed for months. Run this test with one team ",
-      "item_id": "instagram-posts-2026-10-26-before-you-write-up-your-md-f2052998f5:0015-0031",
-      "source_id": "instagram-posts-2026-10-26-before-you-write-up-your-md-f2052998f5",
-      "path": "instagram/posts/2026-10-26-before-you-write-up-your.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Declining Manager Engagement and the Need for Support",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "manager engagement"
-        },
-        {
-          "facet": "topic",
-          "label": "manager burnout"
-        },
-        {
-          "facet": "situation",
-          "label": "tired and burned out managers"
-        }
-      ],
-      "span": {
-        "start_line": 15,
-        "end_line": 34
-      },
-      "quote": "Managers used to be the most engaged people in the company. Not anymore. Gallup’s 2026 report finds manager engagement declined from 31% in 2022 to 22% in 2025. Individual contributors sit at 19%. The gap that used to exist has almost closed. One summary of the report adds that in South Asia, primarily India, manager engagement dropped eight points in a single year. Think about what that means. The person who’s meant to hold the team up is running on empty. They absorb pressure from above and qu",
-      "item_id": "instagram-posts-2026-11-10-managers-used-to-be-the-md-73dcdd30c5:0015-0034",
-      "source_id": "instagram-posts-2026-11-10-managers-used-to-be-the-md-73dcdd30c5",
-      "path": "instagram/posts/2026-11-10-managers-used-to-be-the.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "Respect vs fear in leadership and how to change workplace culture",
       "tags": [
         {
@@ -5244,29 +5235,6 @@
       "item_id": "linkedin-posts-2024-11-18-md-bc6ed6b528:0037-0053",
       "source_id": "linkedin-posts-2024-11-18-md-bc6ed6b528",
       "path": "linkedin/posts/2024-11-18-𝗛𝗼𝘄-𝗮-𝗦𝗶𝗺𝗽𝗹𝗲-𝗖𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻-𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗲𝗱.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "What Actually Changed Leadership Behavior in 100+ Coaching Sessions",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "behavior change in leadership"
-        },
-        {
-          "facet": "activity",
-          "label": "executive coaching"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 100
-      },
-      "quote": "- |- Shahzad Mukadam I ran 100+ coaching sessions. Here's what actually changed behavior. Swipe → - |- Shahzad Mukadam It wasn't the frameworks. It wasn't the slides. It wasn't the fancy assessments. Swipe → - |- Shahzad Mukadam Every leader walked in with the same hidden problem underneath. Swipe → - |- Shehzad Mukadam Lonely. Exhausted. Unseen. Swipe → - |- Shahzad Mukadam They weren't lacking skills. They were lacking someone who listened. Swipe → - |- Shahzad Mukadam Shift 1 They stopped def",
-      "item_id": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea:0010-0100",
-      "source_id": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea",
-      "path": "instagram/posts/2026-11-15-i-ran-100-coaching-sessions.md",
       "prev": null,
       "next": null
     },
@@ -13011,6 +12979,402 @@
       "item_id": "linkedin-posts-2026-11-13-if-management-is-the-reason-md-d1b893ed93:0010-0010",
       "source_id": "linkedin-posts-2026-11-13-if-management-is-the-reason-md-d1b893ed93",
       "path": "linkedin/posts/2026-11-13-if-management-is-the-reason.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Before writing up low performers, test their clarity on performance expectations",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "performance expectations"
+        },
+        {
+          "facet": "situation",
+          "label": "managing low performers"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 31
+      },
+      "quote": "Before you write up your lowest performer, ask them one question: “What does a great month look like in this role?” Then listen to how long they take to answer, and whether the answer matches yours. Sometimes the person isn’t failing. They’re guessing. In a lot of teams, good lives in the founder’s head, or the previous manager’s, or in a number nobody explained. People with unclear targets don’t look lost. They look busy, which is why this goes unnoticed for months. Run this test with one team ",
+      "item_id": "instagram-posts-2026-10-26-before-you-write-up-your-md-f2052998f5:0015-0031",
+      "source_id": "instagram-posts-2026-10-26-before-you-write-up-your-md-f2052998f5",
+      "path": "instagram/posts/2026-10-26-before-you-write-up-your.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "A reinforcement plan I’d ask for before any training budget is approved",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales training reinforcement"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        },
+        {
+          "facet": "situation",
+          "label": "training retention failure"
+        }
+      ],
+      "span": {
+        "start_line": 11,
+        "end_line": 25
+      },
+      "quote": "You trained the team. Three weeks later, nothing has changed. The team isn’t the problem. A widely cited finding says that without reinforcement, people lose about half of new information within an hour, 70% within 24 hours and 90% within a week. The same source notes that sales managers are often left out of driving the training initiative, even though they’re the people best placed to reinforce it. A reinforcement plan I’d ask for before any training budget is approved: → Before: brief the man",
+      "item_id": "instagram-posts-2026-10-24-you-trained-the-team-three-md-5c6540bc33:0011-0025",
+      "source_id": "instagram-posts-2026-10-24-you-trained-the-team-three-md-5c6540bc33",
+      "path": "instagram/posts/2026-10-24-you-trained-the-team-three.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The Impact of Honest Management Feedback",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "constructive feedback"
+        },
+        {
+          "facet": "situation",
+          "label": "delivering tough feedback to employees"
+        },
+        {
+          "facet": "activity",
+          "label": "management development"
+        }
+      ],
+      "span": {
+        "start_line": 11,
+        "end_line": 28
+      },
+      "quote": "Think of the manager who told you something you didn’t want to hear. How long did it take you to say thank you? At the time, it probably stung. You may have gone home annoyed, or defended yourself, or quietly decided they were wrong. Then months or years later, you realized they were the only one who was honest with you. The managers who were easy to like often didn’t change much about you. The one who told you the truth did. 𝗜 𝗵𝗮𝗱 𝗮 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 𝗹𝗶𝗸𝗲 𝘁𝗵𝗮𝘁. 𝗦𝗵𝗲 𝘁𝗼𝗹𝗱 𝗺𝗲 𝘁𝗵𝗶𝗻𝗴𝘀 𝗶𝗻 𝟮𝟬𝟬𝟴 𝗜 𝗱𝗶𝗱𝗻’𝘁 𝘄𝗮𝗻𝘁 𝘁𝗼",
+      "item_id": "instagram-posts-2026-10-27-think-of-the-manager-who-md-f53ea5c73c:0011-0028",
+      "source_id": "instagram-posts-2026-10-27-think-of-the-manager-who-md-f53ea5c73c",
+      "path": "instagram/posts/2026-10-27-think-of-the-manager-who.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Managing Leader Mood and Emotional Contagion",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "emotional contagion in leadership"
+        },
+        {
+          "facet": "topic",
+          "label": "team coordination and morale"
+        },
+        {
+          "facet": "situation",
+          "label": "entering a meeting or approaching a team while stressed"
+        }
+      ],
+      "span": {
+        "start_line": 11,
+        "end_line": 28
+      },
+      "quote": "Your team checked your mood before they checked their inbox. You didn't say a word. Think of a boss whose mood you read before approaching them. You adjusted your tone, your timing, even whether you spoke at all. Research backs up what you felt. In a controlled study, when leaders were in a positive mood rather than a negative one, group members felt more positive and less negative. The same study found that groups with positive-mood leaders showed more coordination and expended less effort. The",
+      "item_id": "instagram-posts-2026-11-03-your-team-checked-your-mood-md-fe83fd78b5:0011-0028",
+      "source_id": "instagram-posts-2026-11-03-your-team-checked-your-mood-md-fe83fd78b5",
+      "path": "instagram/posts/2026-11-03-your-team-checked-your-mood.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Declining Manager Engagement and How to Support Them",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "manager engagement"
+        },
+        {
+          "facet": "situation",
+          "label": "manager burnout"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 33
+      },
+      "quote": "Managers used to be the most engaged people in the company. Not anymore. Gallup’s 2026 report finds manager engagement declined from 31% in 2022 to 22% in 2025. Individual contributors sit at 19%. The gap that used to exist has almost closed. One summary of the report adds that in South Asia, primarily India, manager engagement dropped eight points in a single year. Think about what that means. The person who’s meant to hold the team up is running on empty. They absorb pressure from above and qu",
+      "item_id": "instagram-posts-2026-11-10-managers-used-to-be-the-md-73dcdd30c5:0015-0033",
+      "source_id": "instagram-posts-2026-11-10-managers-used-to-be-the-md-73dcdd30c5",
+      "path": "instagram/posts/2026-11-10-managers-used-to-be-the.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Promoting Individual Contributors into Management Without Proper Training",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "first-time manager training"
+        },
+        {
+          "facet": "situation",
+          "label": "promoting top individual contributors to management"
+        }
+      ],
+      "span": {
+        "start_line": 11,
+        "end_line": 36
+      },
+      "quote": "Nobody trained them to manage. They just got promoted for being good at their old job. Great salesperson → mediocre sales manager. Great engineer → poor people manager. Great employee → reluctant leader. We keep making the same mistake: promoting people for what they were good at, not for what the new role actually needs. Nobody sat them down and taught them: → How to give feedback that doesn't sound like criticism → How to delegate without micromanaging → How to have the conversation nobody wan",
+      "item_id": "instagram-posts-2026-09-13-nobody-trained-them-to-manage-md-59b4e889d4:0011-0036",
+      "source_id": "instagram-posts-2026-09-13-nobody-trained-them-to-manage-md-59b4e889d4",
+      "path": "instagram/posts/2026-09-13-nobody-trained-them-to-manage.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Navigating the Fear of Stepping into Your First Leadership Role",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "first-time leadership"
+        },
+        {
+          "facet": "situation",
+          "label": "promoted to manager"
+        },
+        {
+          "facet": "activity",
+          "label": "leadership coaching"
+        }
+      ],
+      "span": {
+        "start_line": 11,
+        "end_line": 35
+      },
+      "quote": "You remember the exact moment, dont you? Maybe it was a Monday morning. Maybe your manager called you into a glass-walled office, or sent you a calendar invite with a subject line so vague it made your stomach flip. Maybe it was a message on WhatsApp, or an announcement in a team meeting that made everyone turn and look at you. And for one bright, electric second... you felt it. Pride. Excitement. The quiet thrill of being chosen. Then, almost immediately, something else crept in. What if Im not",
+      "item_id": "instagram-posts-2026-09-29-you-remember-the-exact-moment-md-166bb1b97a:0011-0035",
+      "source_id": "instagram-posts-2026-09-29-you-remember-the-exact-moment-md-166bb1b97a",
+      "path": "instagram/posts/2026-09-29-you-remember-the-exact-moment.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Credit goes down. Name who had the idea, in the room.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "giving credit"
+        },
+        {
+          "facet": "situation",
+          "label": "presenting team ideas to board"
+        }
+      ],
+      "span": {
+        "start_line": 31,
+        "end_line": 31
+      },
+      "quote": "➡️ Credit goes down. Name who had the idea, in the room.",
+      "item_id": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493:0031-0031",
+      "source_id": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493",
+      "path": "instagram/posts/2026-10-29-you-walk-out-of-the.md",
+      "prev": null,
+      "next": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493:0032-0032"
+    },
+    {
+      "title": "Blame comes up. Take the hit upstairs first.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "leadership accountability"
+        },
+        {
+          "facet": "situation",
+          "label": "handling executive blame"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 32
+      },
+      "quote": "➡️ Blame comes up. Take the hit upstairs first.",
+      "item_id": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493:0032-0032",
+      "source_id": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493",
+      "path": "instagram/posts/2026-10-29-you-walk-out-of-the.md",
+      "prev": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493:0031-0031",
+      "next": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493:0033-0033"
+    },
+    {
+      "title": "Pressure stops with you. Your team executes. You absorb.",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "protecting team"
+        },
+        {
+          "facet": "situation",
+          "label": "executive pressure"
+        }
+      ],
+      "span": {
+        "start_line": 33,
+        "end_line": 33
+      },
+      "quote": "➡️ Pressure stops with you. Your team executes. You absorb.",
+      "item_id": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493:0033-0033",
+      "source_id": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493",
+      "path": "instagram/posts/2026-10-29-you-walk-out-of-the.md",
+      "prev": "instagram-posts-2026-10-29-you-walk-out-of-the-md-6132284493:0032-0032",
+      "next": null
+    },
+    {
+      "title": "Leadership in Crisis and Supporting Employees on Their Worst Days",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "crisis leadership"
+        },
+        {
+          "facet": "topic",
+          "label": "compassionate leadership"
+        },
+        {
+          "facet": "situation",
+          "label": "supporting employees through personal or collective tragedy"
+        }
+      ],
+      "span": {
+        "start_line": 11,
+        "end_line": 34
+      },
+      "quote": "Most people remember where ratan Tata stood in 2008. Fewer talk about what he did next. In November 2008, the Taj Mahal Palace in Mumbai was attacked. Reports say Tata, then 70, stood in solidarity with the hotel’s management and staff outside the Taj. Inside, many staff refused to leave until they had made sure their guests were safe. In the weeks that followed, he visited injured employees in hospitals and consoled those who had lost family members. Reports say the families of employees who di",
+      "item_id": "instagram-posts-2026-11-12-most-people-remember-where-ratan-md-927da1d46e:0011-0034",
+      "source_id": "instagram-posts-2026-11-12-most-people-remember-where-ratan-md-927da1d46e",
+      "path": "instagram/posts/2026-11-12-most-people-remember-where-ratan.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Entry-Level Aircraft Technician Job Search in Dubai",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "aircraft maintenance"
+        },
+        {
+          "facet": "topic",
+          "label": "avionics"
+        },
+        {
+          "facet": "situation",
+          "label": "seeking entry-level employment"
+        }
+      ],
+      "span": {
+        "start_line": 39,
+        "end_line": 57
+      },
+      "quote": "🚀 Calling all aviation professionals and recruiters in the aerospace industry! ✈️ Meet Ezekiel James Guerrero, a passionate and detail-oriented Aircraft Technician eager to start his career in aviation maintenance and avionics. He recently completed his Bachelor of Science in Avionics Technology - Aviation Maintenance Specialist (Electronics) and has hands-on experience from his internship in aircraft systems. 🔹 Basic knowledge of aircraft electronics and troubleshooting 🔹 Familiar with aviation",
+      "item_id": "linkedin-posts-2025-02-06-calling-all-aviation-professionals-and-md-fd0126e07b:0039-0057",
+      "source_id": "linkedin-posts-2025-02-06-calling-all-aviation-professionals-and-md-fd0126e07b",
+      "path": "linkedin/posts/2025-02-06-calling-all-aviation-professionals-and.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Shift 1",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "receiving feedback"
+        },
+        {
+          "facet": "activity",
+          "label": "executive coaching"
+        }
+      ],
+      "span": {
+        "start_line": 50,
+        "end_line": 54
+      },
+      "quote": "Shift 1 They stopped defending and started getting genuinely curious about feedback. Swipe →",
+      "item_id": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea:0050-0054",
+      "source_id": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea",
+      "path": "instagram/posts/2026-11-15-i-ran-100-coaching-sessions.md",
+      "prev": null,
+      "next": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea:0058-0062"
+    },
+    {
+      "title": "Shift 2",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "difficult conversations"
+        },
+        {
+          "facet": "activity",
+          "label": "executive coaching"
+        }
+      ],
+      "span": {
+        "start_line": 58,
+        "end_line": 62
+      },
+      "quote": "Shift 2 They named the hard conversation they had avoided for months. Swipe →",
+      "item_id": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea:0058-0062",
+      "source_id": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea",
+      "path": "instagram/posts/2026-11-15-i-ran-100-coaching-sessions.md",
+      "prev": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea:0050-0054",
+      "next": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea:0066-0071"
+    },
+    {
+      "title": "Shift 3",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "behavior change"
+        },
+        {
+          "facet": "activity",
+          "label": "executive coaching"
+        }
+      ],
+      "span": {
+        "start_line": 66,
+        "end_line": 71
+      },
+      "quote": "Shift 3 They chose one small action and actually did it Monday. Swipe →",
+      "item_id": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea:0066-0071",
+      "source_id": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea",
+      "path": "instagram/posts/2026-11-15-i-ran-100-coaching-sessions.md",
+      "prev": "instagram-posts-2026-11-15-i-ran-100-coaching-sessions-md-d86c845eea:0058-0062",
+      "next": null
+    },
+    {
+      "title": "Maintaining Boundaries and Professionalism in Workplace Friendships",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "workplace boundaries"
+        },
+        {
+          "facet": "topic",
+          "label": "professionalism"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 14
+      },
+      "quote": "Work friendships can be valuable, but boundaries matter. Keep it professional, share when necessary, and be mindful of who you confide in. Trust and loyalty are earned, not freely given. A strong work culture thrives on respect, discretion, and professionalism. Build meaningful connections, but always protect your integrity. What are your thoughts on maintaining a balance between friendships and professionalism at work?",
+      "item_id": "linkedin-posts-2025-04-03-work-friendships-can-be-valuable-md-4d78c00968:0010-0014",
+      "source_id": "linkedin-posts-2025-04-03-work-friendships-can-be-valuable-md-4d78c00968",
+      "path": "linkedin/posts/2025-04-03-work-friendships-can-be-valuable.md",
       "prev": null,
       "next": null
     }

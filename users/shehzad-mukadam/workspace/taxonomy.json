@@ -1,0 +1,5990 @@
+{
+  "activity": {
+    "sales-coaching": {
+      "id": "sales-coaching",
+      "preferred": "sales coaching",
+      "aliases": [
+        "sales coaching"
+      ],
+      "count": 30
+    },
+    "executive-coaching": {
+      "id": "executive-coaching",
+      "preferred": "executive coaching",
+      "aliases": [
+        "executive coaching"
+      ],
+      "count": 7
+    },
+    "corporate-training": {
+      "id": "corporate-training",
+      "preferred": "corporate training",
+      "aliases": [
+        "corporate training"
+      ],
+      "count": 6
+    },
+    "life-coaching": {
+      "id": "life-coaching",
+      "preferred": "life coaching",
+      "aliases": [
+        "life coaching"
+      ],
+      "count": 3
+    },
+    "certification": {
+      "id": "certification",
+      "preferred": "certification",
+      "aliases": [
+        "certification"
+      ],
+      "count": 3
+    },
+    "leadership-coaching": {
+      "id": "leadership-coaching",
+      "preferred": "leadership coaching",
+      "aliases": [
+        "leadership coaching"
+      ],
+      "count": 3
+    },
+    "trade-show-networking": {
+      "id": "trade-show-networking",
+      "preferred": "trade show networking",
+      "aliases": [
+        "trade show networking"
+      ],
+      "count": 2
+    },
+    "job-posting": {
+      "id": "job-posting",
+      "preferred": "job posting",
+      "aliases": [
+        "job posting"
+      ],
+      "count": 2
+    },
+    "supplication": {
+      "id": "supplication",
+      "preferred": "supplication",
+      "aliases": [
+        "supplication"
+      ],
+      "count": 2
+    },
+    "leadership-workshop": {
+      "id": "leadership-workshop",
+      "preferred": "leadership workshop",
+      "aliases": [
+        "leadership workshop"
+      ],
+      "count": 2
+    },
+    "networking-event": {
+      "id": "networking-event",
+      "preferred": "networking event",
+      "aliases": [
+        "networking event"
+      ],
+      "count": 2
+    },
+    "leadership-training": {
+      "id": "leadership-training",
+      "preferred": "leadership training",
+      "aliases": [
+        "leadership training"
+      ],
+      "count": 2
+    },
+    "book-recommendation": {
+      "id": "book-recommendation",
+      "preferred": "book recommendation",
+      "aliases": [
+        "book recommendation"
+      ],
+      "count": 2
+    },
+    "career-coaching": {
+      "id": "career-coaching",
+      "preferred": "career coaching",
+      "aliases": [
+        "career coaching"
+      ],
+      "count": 2
+    },
+    "audience-engagement": {
+      "id": "audience-engagement",
+      "preferred": "audience engagement",
+      "aliases": [
+        "audience engagement"
+      ],
+      "count": 2
+    },
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 2
+    },
+    "training-and-coaching": {
+      "id": "training-and-coaching",
+      "preferred": "training and coaching",
+      "aliases": [
+        "training and coaching"
+      ],
+      "count": 2
+    },
+    "sales-training": {
+      "id": "sales-training",
+      "preferred": "sales training",
+      "aliases": [
+        "sales training"
+      ],
+      "count": 2
+    },
+    "tribute": {
+      "id": "tribute",
+      "preferred": "tribute",
+      "aliases": [
+        "tribute"
+      ],
+      "count": 1
+    },
+    "restaurant-review": {
+      "id": "restaurant-review",
+      "preferred": "restaurant review",
+      "aliases": [
+        "restaurant review"
+      ],
+      "count": 1
+    },
+    "singing": {
+      "id": "singing",
+      "preferred": "singing",
+      "aliases": [
+        "singing"
+      ],
+      "count": 1
+    },
+    "duaa-recitation": {
+      "id": "duaa-recitation",
+      "preferred": "duaa recitation",
+      "aliases": [
+        "duaa recitation"
+      ],
+      "count": 1
+    },
+    "plagiarism-and-ai-detection": {
+      "id": "plagiarism-and-ai-detection",
+      "preferred": "plagiarism and AI detection",
+      "aliases": [
+        "plagiarism and AI detection"
+      ],
+      "count": 1
+    },
+    "industry-networking": {
+      "id": "industry-networking",
+      "preferred": "industry networking",
+      "aliases": [
+        "industry networking"
+      ],
+      "count": 1
+    },
+    "dhikr-recitation": {
+      "id": "dhikr-recitation",
+      "preferred": "dhikr recitation",
+      "aliases": [
+        "dhikr recitation"
+      ],
+      "count": 1
+    },
+    "recitation": {
+      "id": "recitation",
+      "preferred": "recitation",
+      "aliases": [
+        "recitation"
+      ],
+      "count": 1
+    },
+    "training-and-facilitation": {
+      "id": "training-and-facilitation",
+      "preferred": "training and facilitation",
+      "aliases": [
+        "training and facilitation"
+      ],
+      "count": 1
+    },
+    "retail-training": {
+      "id": "retail-training",
+      "preferred": "retail training",
+      "aliases": [
+        "retail training"
+      ],
+      "count": 1
+    },
+    "team-audit": {
+      "id": "team-audit",
+      "preferred": "team audit",
+      "aliases": [
+        "team audit"
+      ],
+      "count": 1
+    },
+    "prospecting": {
+      "id": "prospecting",
+      "preferred": "prospecting",
+      "aliases": [
+        "prospecting"
+      ],
+      "count": 1
+    },
+    "reflection": {
+      "id": "reflection",
+      "preferred": "reflection",
+      "aliases": [
+        "reflection"
+      ],
+      "count": 1
+    },
+    "sales-training-workshop": {
+      "id": "sales-training-workshop",
+      "preferred": "sales training workshop",
+      "aliases": [
+        "sales training workshop"
+      ],
+      "count": 1
+    },
+    "event-attendance": {
+      "id": "event-attendance",
+      "preferred": "event attendance",
+      "aliases": [
+        "event attendance"
+      ],
+      "count": 1
+    },
+    "hiring": {
+      "id": "hiring",
+      "preferred": "hiring",
+      "aliases": [
+        "hiring"
+      ],
+      "count": 1
+    },
+    "candidate-referral": {
+      "id": "candidate-referral",
+      "preferred": "candidate referral",
+      "aliases": [
+        "candidate referral"
+      ],
+      "count": 1
+    },
+    "professional-networking": {
+      "id": "professional-networking",
+      "preferred": "professional networking",
+      "aliases": [
+        "professional networking"
+      ],
+      "count": 1
+    },
+    "professional-development": {
+      "id": "professional-development",
+      "preferred": "professional development",
+      "aliases": [
+        "professional development"
+      ],
+      "count": 1
+    },
+    "prayer": {
+      "id": "prayer",
+      "preferred": "prayer",
+      "aliases": [
+        "prayer"
+      ],
+      "count": 1
+    },
+    "poll": {
+      "id": "poll",
+      "preferred": "poll",
+      "aliases": [
+        "poll"
+      ],
+      "count": 1
+    },
+    "event-registration": {
+      "id": "event-registration",
+      "preferred": "event registration",
+      "aliases": [
+        "event registration"
+      ],
+      "count": 1
+    },
+    "holiday-greetings": {
+      "id": "holiday-greetings",
+      "preferred": "holiday greetings",
+      "aliases": [
+        "holiday greetings"
+      ],
+      "count": 1
+    },
+    "author-meet": {
+      "id": "author-meet",
+      "preferred": "author meet",
+      "aliases": [
+        "author meet"
+      ],
+      "count": 1
+    },
+    "interview-preparation": {
+      "id": "interview-preparation",
+      "preferred": "interview preparation",
+      "aliases": [
+        "interview preparation"
+      ],
+      "count": 1
+    },
+    "celebrating-workers": {
+      "id": "celebrating-workers",
+      "preferred": "celebrating workers",
+      "aliases": [
+        "celebrating workers"
+      ],
+      "count": 1
+    },
+    "talent-endorsement": {
+      "id": "talent-endorsement",
+      "preferred": "talent endorsement",
+      "aliases": [
+        "talent endorsement"
+      ],
+      "count": 1
+    },
+    "networking": {
+      "id": "networking",
+      "preferred": "networking",
+      "aliases": [
+        "networking"
+      ],
+      "count": 1
+    },
+    "coaching": {
+      "id": "coaching",
+      "preferred": "coaching",
+      "aliases": [
+        "coaching"
+      ],
+      "count": 1
+    },
+    "facilitation": {
+      "id": "facilitation",
+      "preferred": "facilitation",
+      "aliases": [
+        "facilitation"
+      ],
+      "count": 1
+    },
+    "webinar": {
+      "id": "webinar",
+      "preferred": "webinar",
+      "aliases": [
+        "webinar"
+      ],
+      "count": 1
+    },
+    "book-review": {
+      "id": "book-review",
+      "preferred": "book review",
+      "aliases": [
+        "book review"
+      ],
+      "count": 1
+    },
+    "training-programs": {
+      "id": "training-programs",
+      "preferred": "training programs",
+      "aliases": [
+        "training programs"
+      ],
+      "count": 1
+    },
+    "people-management": {
+      "id": "people-management",
+      "preferred": "people management",
+      "aliases": [
+        "people management"
+      ],
+      "count": 1
+    },
+    "sales-and-leadership-workshop-delivery": {
+      "id": "sales-and-leadership-workshop-delivery",
+      "preferred": "sales and leadership workshop delivery",
+      "aliases": [
+        "sales and leadership workshop delivery"
+      ],
+      "count": 1
+    },
+    "assessment": {
+      "id": "assessment",
+      "preferred": "assessment",
+      "aliases": [
+        "assessment"
+      ],
+      "count": 1
+    },
+    "client-engagement": {
+      "id": "client-engagement",
+      "preferred": "client engagement",
+      "aliases": [
+        "client engagement"
+      ],
+      "count": 1
+    },
+    "manager-check-ins": {
+      "id": "manager-check-ins",
+      "preferred": "manager check-ins",
+      "aliases": [
+        "manager check-ins"
+      ],
+      "count": 1
+    },
+    "pitching": {
+      "id": "pitching",
+      "preferred": "pitching",
+      "aliases": [
+        "pitching"
+      ],
+      "count": 1
+    },
+    "sales-leadership-training": {
+      "id": "sales-leadership-training",
+      "preferred": "sales leadership training",
+      "aliases": [
+        "sales leadership training"
+      ],
+      "count": 1
+    },
+    "customer-service-training": {
+      "id": "customer-service-training",
+      "preferred": "customer service training",
+      "aliases": [
+        "customer service training"
+      ],
+      "count": 1
+    },
+    "reflective-journaling": {
+      "id": "reflective-journaling",
+      "preferred": "reflective journaling",
+      "aliases": [
+        "reflective journaling"
+      ],
+      "count": 1
+    },
+    "management-development": {
+      "id": "management-development",
+      "preferred": "management development",
+      "aliases": [
+        "management development"
+      ],
+      "count": 1
+    }
+  },
+  "situation": {
+    "after-performance-appraisal": {
+      "id": "after-performance-appraisal",
+      "preferred": "After Performance Appraisal",
+      "aliases": [
+        "After Performance Appraisal"
+      ],
+      "count": 7
+    },
+    "eid-celebration": {
+      "id": "eid-celebration",
+      "preferred": "Eid celebration",
+      "aliases": [
+        "Eid celebration"
+      ],
+      "count": 3
+    },
+    "managing-team-relationships": {
+      "id": "managing-team-relationships",
+      "preferred": "managing team relationships",
+      "aliases": [
+        "managing team relationships"
+      ],
+      "count": 3
+    },
+    "students-using-chatgpt-for-assignments": {
+      "id": "students-using-chatgpt-for-assignments",
+      "preferred": "students using ChatGPT for assignments",
+      "aliases": [
+        "students using ChatGPT for assignments"
+      ],
+      "count": 2
+    },
+    "objection-handling": {
+      "id": "objection-handling",
+      "preferred": "objection handling",
+      "aliases": [
+        "objection handling"
+      ],
+      "count": 2
+    },
+    "carrying-business-burden-alone": {
+      "id": "carrying-business-burden-alone",
+      "preferred": "carrying business burden alone",
+      "aliases": [
+        "carrying business burden alone"
+      ],
+      "count": 2
+    },
+    "waiting-for-an-apology-or-explanation": {
+      "id": "waiting-for-an-apology-or-explanation",
+      "preferred": "waiting for an apology or explanation",
+      "aliases": [
+        "waiting for an apology or explanation"
+      ],
+      "count": 2
+    },
+    "best-employees-stop-caring-over-time": {
+      "id": "best-employees-stop-caring-over-time",
+      "preferred": "best employees stop caring over time",
+      "aliases": [
+        "best employees stop caring over time"
+      ],
+      "count": 2
+    },
+    "team-member-facing-a-crisis-or-hard-day": {
+      "id": "team-member-facing-a-crisis-or-hard-day",
+      "preferred": "team member facing a crisis or hard day",
+      "aliases": [
+        "team member facing a crisis or hard day"
+      ],
+      "count": 2
+    },
+    "feeling-isolated-in-leadership-role": {
+      "id": "feeling-isolated-in-leadership-role",
+      "preferred": "feeling isolated in leadership role",
+      "aliases": [
+        "feeling isolated in leadership role"
+      ],
+      "count": 2
+    },
+    "pouring-energy-into-one-sided-relationships": {
+      "id": "pouring-energy-into-one-sided-relationships",
+      "preferred": "pouring energy into one-sided relationships",
+      "aliases": [
+        "effort becomes one-sided",
+        "pouring energy into one-sided relationships"
+      ],
+      "count": 2
+    },
+    "team-pretends-to-work-when-leadership-is-present": {
+      "id": "team-pretends-to-work-when-leadership-is-present",
+      "preferred": "team pretends to work when leadership is present",
+      "aliases": [
+        "team pretending to work when boss enters",
+        "team pretends to work when leadership is present"
+      ],
+      "count": 2
+    },
+    "entry-level-job-search": {
+      "id": "entry-level-job-search",
+      "preferred": "entry-level job search",
+      "aliases": [
+        "entry-level job search",
+        "seeking entry-level employment"
+      ],
+      "count": 2
+    },
+    "executive-exhaustion-and-stress": {
+      "id": "executive-exhaustion-and-stress",
+      "preferred": "executive exhaustion and stress",
+      "aliases": [
+        "executive burnout",
+        "executive exhaustion and stress"
+      ],
+      "count": 2
+    },
+    "promoted-from-individual-contributor-to-manager": {
+      "id": "promoted-from-individual-contributor-to-manager",
+      "preferred": "promoted from individual contributor to manager",
+      "aliases": [
+        "promoted from individual contributor to manager",
+        "promoted to manager"
+      ],
+      "count": 2
+    },
+    "employees-reverting-to-old-habits-after-workshops": {
+      "id": "employees-reverting-to-old-habits-after-workshops",
+      "preferred": "employees reverting to old habits after workshops",
+      "aliases": [
+        "employees revert to old habits after training",
+        "employees reverting to old habits after workshops"
+      ],
+      "count": 2
+    },
+    "promoting-top-performer-to-manager": {
+      "id": "promoting-top-performer-to-manager",
+      "preferred": "promoting top performer to manager",
+      "aliases": [
+        "promoting top individual contributors to management",
+        "promoting top performer to manager"
+      ],
+      "count": 2
+    },
+    "delivering-uncomfortable-feedback-to-employees": {
+      "id": "delivering-uncomfortable-feedback-to-employees",
+      "preferred": "delivering uncomfortable feedback to employees",
+      "aliases": [
+        "delivering tough feedback to employees",
+        "delivering uncomfortable feedback to employees"
+      ],
+      "count": 2
+    },
+    "watching-others-move-ahead": {
+      "id": "watching-others-move-ahead",
+      "preferred": "watching others move ahead",
+      "aliases": [
+        "watching others move ahead"
+      ],
+      "count": 1
+    },
+    "realizing-you-made-the-wrong-choice": {
+      "id": "realizing-you-made-the-wrong-choice",
+      "preferred": "realizing you made the wrong choice",
+      "aliases": [
+        "realizing you made the wrong choice"
+      ],
+      "count": 1
+    },
+    "experiencing-loss-or-change": {
+      "id": "experiencing-loss-or-change",
+      "preferred": "experiencing loss or change",
+      "aliases": [
+        "experiencing loss or change"
+      ],
+      "count": 1
+    },
+    "team-not-growing-despite-being-busy": {
+      "id": "team-not-growing-despite-being-busy",
+      "preferred": "team not growing despite being busy",
+      "aliases": [
+        "team not growing despite being busy"
+      ],
+      "count": 1
+    },
+    "learning-to-use-chopsticks": {
+      "id": "learning-to-use-chopsticks",
+      "preferred": "learning to use chopsticks",
+      "aliases": [
+        "learning to use chopsticks"
+      ],
+      "count": 1
+    },
+    "feeling-stuck-and-wanting-to-give-up": {
+      "id": "feeling-stuck-and-wanting-to-give-up",
+      "preferred": "feeling stuck and wanting to give up",
+      "aliases": [
+        "feeling stuck and wanting to give up"
+      ],
+      "count": 1
+    },
+    "someone-asks-for-help": {
+      "id": "someone-asks-for-help",
+      "preferred": "someone asks for help",
+      "aliases": [
+        "someone asks for help"
+      ],
+      "count": 1
+    },
+    "observing-drama-unfold-with-knowledge-of-the-truth": {
+      "id": "observing-drama-unfold-with-knowledge-of-the-truth",
+      "preferred": "observing drama unfold with knowledge of the truth",
+      "aliases": [
+        "observing drama unfold with knowledge of the truth"
+      ],
+      "count": 1
+    },
+    "handling-rough-moments": {
+      "id": "handling-rough-moments",
+      "preferred": "handling rough moments",
+      "aliases": [
+        "handling rough moments"
+      ],
+      "count": 1
+    },
+    "dealing-with-critics-and-detractors": {
+      "id": "dealing-with-critics-and-detractors",
+      "preferred": "dealing with critics and detractors",
+      "aliases": [
+        "dealing with critics and detractors"
+      ],
+      "count": 1
+    },
+    "feeling-undervalued-in-relationships": {
+      "id": "feeling-undervalued-in-relationships",
+      "preferred": "feeling undervalued in relationships",
+      "aliases": [
+        "feeling undervalued in relationships"
+      ],
+      "count": 1
+    },
+    "navigating-difficult-times-and-adversity": {
+      "id": "navigating-difficult-times-and-adversity",
+      "preferred": "navigating difficult times and adversity",
+      "aliases": [
+        "navigating difficult times and adversity"
+      ],
+      "count": 1
+    },
+    "dealing-with-hurtful-people": {
+      "id": "dealing-with-hurtful-people",
+      "preferred": "dealing with hurtful people",
+      "aliases": [
+        "dealing with hurtful people"
+      ],
+      "count": 1
+    },
+    "burnout-and-disconnected-teams": {
+      "id": "burnout-and-disconnected-teams",
+      "preferred": "burnout and disconnected teams",
+      "aliases": [
+        "burnout and disconnected teams"
+      ],
+      "count": 1
+    },
+    "dealing-with-judgment-and-gossip": {
+      "id": "dealing-with-judgment-and-gossip",
+      "preferred": "dealing with judgment and gossip",
+      "aliases": [
+        "dealing with judgment and gossip"
+      ],
+      "count": 1
+    },
+    "setting-boundaries": {
+      "id": "setting-boundaries",
+      "preferred": "setting boundaries",
+      "aliases": [
+        "setting boundaries"
+      ],
+      "count": 1
+    },
+    "stopping-reaching-out": {
+      "id": "stopping-reaching-out",
+      "preferred": "stopping reaching out",
+      "aliases": [
+        "stopping reaching out"
+      ],
+      "count": 1
+    },
+    "betrayal-in-friendship": {
+      "id": "betrayal-in-friendship",
+      "preferred": "betrayal in friendship",
+      "aliases": [
+        "betrayal in friendship"
+      ],
+      "count": 1
+    },
+    "workplace-gossip-and-manipulation": {
+      "id": "workplace-gossip-and-manipulation",
+      "preferred": "workplace gossip and manipulation",
+      "aliases": [
+        "workplace gossip and manipulation"
+      ],
+      "count": 1
+    },
+    "desiring-love": {
+      "id": "desiring-love",
+      "preferred": "desiring love",
+      "aliases": [
+        "desiring love"
+      ],
+      "count": 1
+    },
+    "gen-z-workplace-expectations": {
+      "id": "gen-z-workplace-expectations",
+      "preferred": "Gen Z workplace expectations",
+      "aliases": [
+        "Gen Z workplace expectations"
+      ],
+      "count": 1
+    },
+    "someone-trashes-your-name-out-of-fear-of-exposure": {
+      "id": "someone-trashes-your-name-out-of-fear-of-exposure",
+      "preferred": "someone trashes your name out of fear of exposure",
+      "aliases": [
+        "someone trashes your name out of fear of exposure"
+      ],
+      "count": 1
+    },
+    "ending-toxic-relationships": {
+      "id": "ending-toxic-relationships",
+      "preferred": "ending toxic relationships",
+      "aliases": [
+        "ending toxic relationships"
+      ],
+      "count": 1
+    },
+    "preparing-for-personal-or-professional-breakthrough": {
+      "id": "preparing-for-personal-or-professional-breakthrough",
+      "preferred": "preparing for personal or professional breakthrough",
+      "aliases": [
+        "preparing for personal or professional breakthrough"
+      ],
+      "count": 1
+    },
+    "feeling-uncertain-or-anxious-about-the-future": {
+      "id": "feeling-uncertain-or-anxious-about-the-future",
+      "preferred": "feeling uncertain or anxious about the future",
+      "aliases": [
+        "feeling uncertain or anxious about the future"
+      ],
+      "count": 1
+    },
+    "experiencing-suffering-loneliness-and-anxiety": {
+      "id": "experiencing-suffering-loneliness-and-anxiety",
+      "preferred": "experiencing suffering, loneliness, and anxiety",
+      "aliases": [
+        "experiencing suffering, loneliness, and anxiety"
+      ],
+      "count": 1
+    },
+    "broken-trust": {
+      "id": "broken-trust",
+      "preferred": "broken trust",
+      "aliases": [
+        "broken trust"
+      ],
+      "count": 1
+    },
+    "feeling-alone-when-you-need-support-after-supporting-others": {
+      "id": "feeling-alone-when-you-need-support-after-supporting-others",
+      "preferred": "feeling alone when you need support after supporting others",
+      "aliases": [
+        "feeling alone when you need support after supporting others"
+      ],
+      "count": 1
+    },
+    "feeling-uncertain-about-life": {
+      "id": "feeling-uncertain-about-life",
+      "preferred": "feeling uncertain about life",
+      "aliases": [
+        "feeling uncertain about life"
+      ],
+      "count": 1
+    },
+    "close-relations-changing-unexpectedly": {
+      "id": "close-relations-changing-unexpectedly",
+      "preferred": "close relations changing unexpectedly",
+      "aliases": [
+        "close relations changing unexpectedly"
+      ],
+      "count": 1
+    },
+    "making-excuses-for-someone-not-texting-back": {
+      "id": "making-excuses-for-someone-not-texting-back",
+      "preferred": "making excuses for someone not texting back",
+      "aliases": [
+        "making excuses for someone not texting back"
+      ],
+      "count": 1
+    },
+    "facing-difficulty-in-understanding-life-circumstances": {
+      "id": "facing-difficulty-in-understanding-life-circumstances",
+      "preferred": "facing difficulty in understanding life circumstances",
+      "aliases": [
+        "facing difficulty in understanding life circumstances"
+      ],
+      "count": 1
+    },
+    "feeling-hopeless-during-hardship": {
+      "id": "feeling-hopeless-during-hardship",
+      "preferred": "feeling hopeless during hardship",
+      "aliases": [
+        "feeling hopeless during hardship"
+      ],
+      "count": 1
+    },
+    "employee-retention": {
+      "id": "employee-retention",
+      "preferred": "employee retention",
+      "aliases": [
+        "employee retention"
+      ],
+      "count": 1
+    },
+    "moving-away-from-command-and-control-management": {
+      "id": "moving-away-from-command-and-control-management",
+      "preferred": "moving away from command-and-control management",
+      "aliases": [
+        "moving away from command-and-control management"
+      ],
+      "count": 1
+    },
+    "losing-clients-to-competitors": {
+      "id": "losing-clients-to-competitors",
+      "preferred": "losing clients to competitors",
+      "aliases": [
+        "losing clients to competitors"
+      ],
+      "count": 1
+    },
+    "someone-doesn-t-appreciate-your-help-or-care": {
+      "id": "someone-doesn-t-appreciate-your-help-or-care",
+      "preferred": "someone doesn't appreciate your help or care",
+      "aliases": [
+        "someone doesn't appreciate your help or care"
+      ],
+      "count": 1
+    },
+    "comparing-yourself-to-others-success": {
+      "id": "comparing-yourself-to-others-success",
+      "preferred": "comparing yourself to others' success",
+      "aliases": [
+        "comparing yourself to others' success"
+      ],
+      "count": 1
+    },
+    "serving-customers-in-luxury-retail": {
+      "id": "serving-customers-in-luxury-retail",
+      "preferred": "serving customers in luxury retail",
+      "aliases": [
+        "serving customers in luxury retail"
+      ],
+      "count": 1
+    },
+    "ramadan": {
+      "id": "ramadan",
+      "preferred": "Ramadan",
+      "aliases": [
+        "Ramadan"
+      ],
+      "count": 1
+    },
+    "career-advancement": {
+      "id": "career-advancement",
+      "preferred": "career advancement",
+      "aliases": [
+        "career advancement"
+      ],
+      "count": 1
+    },
+    "team-members-stop-speaking-up": {
+      "id": "team-members-stop-speaking-up",
+      "preferred": "team members stop speaking up",
+      "aliases": [
+        "team members stop speaking up"
+      ],
+      "count": 1
+    },
+    "overthinking-and-waiting-for-perfection": {
+      "id": "overthinking-and-waiting-for-perfection",
+      "preferred": "overthinking and waiting for perfection",
+      "aliases": [
+        "overthinking and waiting for perfection"
+      ],
+      "count": 1
+    },
+    "losing-deals-due-to-mistraining-in-a-different-cultural-mark": {
+      "id": "losing-deals-due-to-mistraining-in-a-different-cultural-mark",
+      "preferred": "losing deals due to mistraining in a different cultural market",
+      "aliases": [
+        "losing deals due to mistraining in a different cultural market"
+      ],
+      "count": 1
+    },
+    "push-back-from-retailers": {
+      "id": "push-back-from-retailers",
+      "preferred": "push back from retailers",
+      "aliases": [
+        "push back from retailers"
+      ],
+      "count": 1
+    },
+    "stock-concerns": {
+      "id": "stock-concerns",
+      "preferred": "stock concerns",
+      "aliases": [
+        "stock concerns"
+      ],
+      "count": 1
+    },
+    "time-constraints": {
+      "id": "time-constraints",
+      "preferred": "time constraints",
+      "aliases": [
+        "time constraints"
+      ],
+      "count": 1
+    },
+    "product-is-expensive": {
+      "id": "product-is-expensive",
+      "preferred": "product is expensive",
+      "aliases": [
+        "product is expensive"
+      ],
+      "count": 1
+    },
+    "non-moving-inventory": {
+      "id": "non-moving-inventory",
+      "preferred": "non-moving inventory",
+      "aliases": [
+        "non-moving inventory"
+      ],
+      "count": 1
+    },
+    "introducing-new-products": {
+      "id": "introducing-new-products",
+      "preferred": "introducing new products",
+      "aliases": [
+        "introducing new products"
+      ],
+      "count": 1
+    },
+    "employee-resistance-to-training-and-feedback": {
+      "id": "employee-resistance-to-training-and-feedback",
+      "preferred": "employee resistance to training and feedback",
+      "aliases": [
+        "employee resistance to training and feedback"
+      ],
+      "count": 1
+    },
+    "holding-onto-hope-for-too-long": {
+      "id": "holding-onto-hope-for-too-long",
+      "preferred": "holding onto hope for too long",
+      "aliases": [
+        "holding onto hope for too long"
+      ],
+      "count": 1
+    },
+    "customer-says-it-s-too-expensive": {
+      "id": "customer-says-it-s-too-expensive",
+      "preferred": "customer says it's too expensive",
+      "aliases": [
+        "customer says it's too expensive"
+      ],
+      "count": 1
+    },
+    "handling-frustrated-customers": {
+      "id": "handling-frustrated-customers",
+      "preferred": "handling frustrated customers",
+      "aliases": [
+        "handling frustrated customers"
+      ],
+      "count": 1
+    },
+    "prospect-hesitation": {
+      "id": "prospect-hesitation",
+      "preferred": "prospect hesitation",
+      "aliases": [
+        "prospect hesitation"
+      ],
+      "count": 1
+    },
+    "effort-and-reward-disconnect": {
+      "id": "effort-and-reward-disconnect",
+      "preferred": "effort and reward disconnect",
+      "aliases": [
+        "effort and reward disconnect"
+      ],
+      "count": 1
+    },
+    "managing-people-without-being-taken-advantage-of": {
+      "id": "managing-people-without-being-taken-advantage-of",
+      "preferred": "managing people without being taken advantage of",
+      "aliases": [
+        "managing people without being taken advantage of"
+      ],
+      "count": 1
+    },
+    "nervousness-during-presentations": {
+      "id": "nervousness-during-presentations",
+      "preferred": "nervousness during presentations",
+      "aliases": [
+        "nervousness during presentations"
+      ],
+      "count": 1
+    },
+    "women-judged-on-looks-and-age-over-potential": {
+      "id": "women-judged-on-looks-and-age-over-potential",
+      "preferred": "women judged on looks and age over potential",
+      "aliases": [
+        "women judged on looks and age over potential"
+      ],
+      "count": 1
+    },
+    "someone-making-an-effort-to-stay-connected": {
+      "id": "someone-making-an-effort-to-stay-connected",
+      "preferred": "someone making an effort to stay connected",
+      "aliases": [
+        "someone making an effort to stay connected"
+      ],
+      "count": 1
+    },
+    "carrying-emotional-pain-alone": {
+      "id": "carrying-emotional-pain-alone",
+      "preferred": "carrying emotional pain alone",
+      "aliases": [
+        "carrying emotional pain alone"
+      ],
+      "count": 1
+    },
+    "trying-to-fix-someone-else": {
+      "id": "trying-to-fix-someone-else",
+      "preferred": "trying to fix someone else",
+      "aliases": [
+        "trying to fix someone else"
+      ],
+      "count": 1
+    },
+    "fear-of-hurting-loved-ones": {
+      "id": "fear-of-hurting-loved-ones",
+      "preferred": "fear of hurting loved ones",
+      "aliases": [
+        "fear of hurting loved ones"
+      ],
+      "count": 1
+    },
+    "new-year-goal-setting": {
+      "id": "new-year-goal-setting",
+      "preferred": "new year goal setting",
+      "aliases": [
+        "new year goal setting"
+      ],
+      "count": 1
+    },
+    "navigating-early-career-advancement": {
+      "id": "navigating-early-career-advancement",
+      "preferred": "navigating early career advancement",
+      "aliases": [
+        "navigating early career advancement"
+      ],
+      "count": 1
+    },
+    "friends-disappearing-when-not-useful": {
+      "id": "friends-disappearing-when-not-useful",
+      "preferred": "friends disappearing when not useful",
+      "aliases": [
+        "friends disappearing when not useful"
+      ],
+      "count": 1
+    },
+    "protecting-future-plans-from-detractors": {
+      "id": "protecting-future-plans-from-detractors",
+      "preferred": "protecting future plans from detractors",
+      "aliases": [
+        "protecting future plans from detractors"
+      ],
+      "count": 1
+    },
+    "international-women-s-day": {
+      "id": "international-women-s-day",
+      "preferred": "International Women's Day",
+      "aliases": [
+        "International Women's Day"
+      ],
+      "count": 1
+    },
+    "fear-of-failure-in-starting-a-business": {
+      "id": "fear-of-failure-in-starting-a-business",
+      "preferred": "fear of failure in starting a business",
+      "aliases": [
+        "fear of failure in starting a business"
+      ],
+      "count": 1
+    },
+    "being-treated-as-an-option": {
+      "id": "being-treated-as-an-option",
+      "preferred": "being treated as an option",
+      "aliases": [
+        "being treated as an option"
+      ],
+      "count": 1
+    },
+    "feeling-overwhelmed": {
+      "id": "feeling-overwhelmed",
+      "preferred": "feeling overwhelmed",
+      "aliases": [
+        "feeling overwhelmed"
+      ],
+      "count": 1
+    },
+    "feeling-guilty-for-not-reaching-out": {
+      "id": "feeling-guilty-for-not-reaching-out",
+      "preferred": "feeling guilty for not reaching out",
+      "aliases": [
+        "feeling guilty for not reaching out"
+      ],
+      "count": 1
+    },
+    "laylatul-qadr-during-ramadan": {
+      "id": "laylatul-qadr-during-ramadan",
+      "preferred": "Laylatul Qadr during Ramadan",
+      "aliases": [
+        "Laylatul Qadr during Ramadan"
+      ],
+      "count": 1
+    },
+    "losing-emotional-attachment": {
+      "id": "losing-emotional-attachment",
+      "preferred": "losing emotional attachment",
+      "aliases": [
+        "losing emotional attachment"
+      ],
+      "count": 1
+    },
+    "navigating-negative-or-unsupportive-work-culture": {
+      "id": "navigating-negative-or-unsupportive-work-culture",
+      "preferred": "navigating negative or unsupportive work culture",
+      "aliases": [
+        "navigating negative or unsupportive work culture"
+      ],
+      "count": 1
+    },
+    "applying-for-shared-job-post": {
+      "id": "applying-for-shared-job-post",
+      "preferred": "applying for shared job post",
+      "aliases": [
+        "applying for shared job post"
+      ],
+      "count": 1
+    },
+    "disappointment-in-relationships": {
+      "id": "disappointment-in-relationships",
+      "preferred": "disappointment in relationships",
+      "aliases": [
+        "disappointment in relationships"
+      ],
+      "count": 1
+    },
+    "coping-with-hardship-and-pain": {
+      "id": "coping-with-hardship-and-pain",
+      "preferred": "coping with hardship and pain",
+      "aliases": [
+        "coping with hardship and pain"
+      ],
+      "count": 1
+    },
+    "close-colleague-quitting": {
+      "id": "close-colleague-quitting",
+      "preferred": "close colleague quitting",
+      "aliases": [
+        "close colleague quitting"
+      ],
+      "count": 1
+    },
+    "dealing-with-manipulation-and-deception": {
+      "id": "dealing-with-manipulation-and-deception",
+      "preferred": "dealing with manipulation and deception",
+      "aliases": [
+        "dealing with manipulation and deception"
+      ],
+      "count": 1
+    },
+    "feeling-misunderstood-and-emotionally-lonely": {
+      "id": "feeling-misunderstood-and-emotionally-lonely",
+      "preferred": "feeling misunderstood and emotionally lonely",
+      "aliases": [
+        "feeling misunderstood and emotionally lonely"
+      ],
+      "count": 1
+    },
+    "feeling-stuck-or-overwhelmed": {
+      "id": "feeling-stuck-or-overwhelmed",
+      "preferred": "feeling stuck or overwhelmed",
+      "aliases": [
+        "feeling stuck or overwhelmed"
+      ],
+      "count": 1
+    },
+    "feeling-misunderstood": {
+      "id": "feeling-misunderstood",
+      "preferred": "feeling misunderstood",
+      "aliases": [
+        "feeling misunderstood"
+      ],
+      "count": 1
+    },
+    "feeling-stuck-in-job-search": {
+      "id": "feeling-stuck-in-job-search",
+      "preferred": "feeling stuck in job search",
+      "aliases": [
+        "feeling stuck in job search"
+      ],
+      "count": 1
+    },
+    "employees-silent-after-feedback-is-punished": {
+      "id": "employees-silent-after-feedback-is-punished",
+      "preferred": "employees silent after feedback is punished",
+      "aliases": [
+        "employees silent after feedback is punished"
+      ],
+      "count": 1
+    },
+    "job-search-in-uae": {
+      "id": "job-search-in-uae",
+      "preferred": "job search in UAE",
+      "aliases": [
+        "job search in UAE"
+      ],
+      "count": 1
+    },
+    "feeling-unappreciated-despite-showing-depth": {
+      "id": "feeling-unappreciated-despite-showing-depth",
+      "preferred": "feeling unappreciated despite showing depth",
+      "aliases": [
+        "feeling unappreciated despite showing depth"
+      ],
+      "count": 1
+    },
+    "hesitating-to-leave-out-of-guilt": {
+      "id": "hesitating-to-leave-out-of-guilt",
+      "preferred": "hesitating to leave out of guilt",
+      "aliases": [
+        "hesitating to leave out of guilt"
+      ],
+      "count": 1
+    },
+    "feeling-lost-or-stuck": {
+      "id": "feeling-lost-or-stuck",
+      "preferred": "feeling lost or stuck",
+      "aliases": [
+        "feeling lost or stuck"
+      ],
+      "count": 1
+    },
+    "feeling-judged-by-others": {
+      "id": "feeling-judged-by-others",
+      "preferred": "feeling judged by others",
+      "aliases": [
+        "feeling judged by others"
+      ],
+      "count": 1
+    },
+    "moving-forward-after-departure": {
+      "id": "moving-forward-after-departure",
+      "preferred": "moving forward after departure",
+      "aliases": [
+        "moving forward after departure"
+      ],
+      "count": 1
+    },
+    "fear-of-loss-overwhelming-present-connection": {
+      "id": "fear-of-loss-overwhelming-present-connection",
+      "preferred": "fear of loss overwhelming present connection",
+      "aliases": [
+        "fear of loss overwhelming present connection"
+      ],
+      "count": 1
+    },
+    "supporting-someone-going-through-a-hard-time": {
+      "id": "supporting-someone-going-through-a-hard-time",
+      "preferred": "supporting someone going through a hard time",
+      "aliases": [
+        "supporting someone going through a hard time"
+      ],
+      "count": 1
+    },
+    "feeling-stuck-in-the-wrong-situation": {
+      "id": "feeling-stuck-in-the-wrong-situation",
+      "preferred": "feeling stuck in the wrong situation",
+      "aliases": [
+        "feeling stuck in the wrong situation"
+      ],
+      "count": 1
+    },
+    "recovering-from-past-emotional-or-mental-distress": {
+      "id": "recovering-from-past-emotional-or-mental-distress",
+      "preferred": "recovering from past emotional or mental distress",
+      "aliases": [
+        "recovering from past emotional or mental distress"
+      ],
+      "count": 1
+    },
+    "reflecting-on-past-comfort-and-lost-moments": {
+      "id": "reflecting-on-past-comfort-and-lost-moments",
+      "preferred": "reflecting on past comfort and lost moments",
+      "aliases": [
+        "reflecting on past comfort and lost moments"
+      ],
+      "count": 1
+    },
+    "dreamers-who-feel-like-giving-up": {
+      "id": "dreamers-who-feel-like-giving-up",
+      "preferred": "dreamers who feel like giving up",
+      "aliases": [
+        "dreamers who feel like giving up"
+      ],
+      "count": 1
+    },
+    "unnecessary-drama": {
+      "id": "unnecessary-drama",
+      "preferred": "unnecessary drama",
+      "aliases": [
+        "unnecessary drama"
+      ],
+      "count": 1
+    },
+    "people-trying-to-bring-you-down": {
+      "id": "people-trying-to-bring-you-down",
+      "preferred": "people trying to bring you down",
+      "aliases": [
+        "people trying to bring you down"
+      ],
+      "count": 1
+    },
+    "leading-a-team-that-is-stuck-or-feeling-stuck": {
+      "id": "leading-a-team-that-is-stuck-or-feeling-stuck",
+      "preferred": "leading a team that is stuck or feeling stuck",
+      "aliases": [
+        "leading a team that is stuck or feeling stuck"
+      ],
+      "count": 1
+    },
+    "teams-stuck-and-professional-burnout": {
+      "id": "teams-stuck-and-professional-burnout",
+      "preferred": "teams stuck and professional burnout",
+      "aliases": [
+        "teams stuck and professional burnout"
+      ],
+      "count": 1
+    },
+    "dealing-with-frustration": {
+      "id": "dealing-with-frustration",
+      "preferred": "dealing with frustration",
+      "aliases": [
+        "dealing with frustration"
+      ],
+      "count": 1
+    },
+    "going-through-adversity": {
+      "id": "going-through-adversity",
+      "preferred": "going through adversity",
+      "aliases": [
+        "going through adversity"
+      ],
+      "count": 1
+    },
+    "experiencing-career-setbacks": {
+      "id": "experiencing-career-setbacks",
+      "preferred": "experiencing career setbacks",
+      "aliases": [
+        "experiencing career setbacks"
+      ],
+      "count": 1
+    },
+    "decision-fatigue-in-leadership": {
+      "id": "decision-fatigue-in-leadership",
+      "preferred": "decision fatigue in leadership",
+      "aliases": [
+        "decision fatigue in leadership"
+      ],
+      "count": 1
+    },
+    "professional-betrayal-and-workplace-gossip": {
+      "id": "professional-betrayal-and-workplace-gossip",
+      "preferred": "professional betrayal and workplace gossip",
+      "aliases": [
+        "professional betrayal and workplace gossip"
+      ],
+      "count": 1
+    },
+    "hearing-only-one-version-of-a-workplace-dispute": {
+      "id": "hearing-only-one-version-of-a-workplace-dispute",
+      "preferred": "hearing only one version of a workplace dispute",
+      "aliases": [
+        "hearing only one version of a workplace dispute"
+      ],
+      "count": 1
+    },
+    "facing-real-life-pressure-before-leaving-a-job": {
+      "id": "facing-real-life-pressure-before-leaving-a-job",
+      "preferred": "facing real-life pressure before leaving a job",
+      "aliases": [
+        "facing real-life pressure before leaving a job"
+      ],
+      "count": 1
+    },
+    "dealing-with-chaotic-or-toxic-people": {
+      "id": "dealing-with-chaotic-or-toxic-people",
+      "preferred": "dealing with chaotic or toxic people",
+      "aliases": [
+        "dealing with chaotic or toxic people"
+      ],
+      "count": 1
+    },
+    "overgiving-energy-without-reciprocity": {
+      "id": "overgiving-energy-without-reciprocity",
+      "preferred": "overgiving energy without reciprocity",
+      "aliases": [
+        "overgiving energy without reciprocity"
+      ],
+      "count": 1
+    },
+    "feeling-stuck-despite-doing-everything-right": {
+      "id": "feeling-stuck-despite-doing-everything-right",
+      "preferred": "feeling stuck despite doing everything right",
+      "aliases": [
+        "feeling stuck despite doing everything right"
+      ],
+      "count": 1
+    },
+    "waiting-for-a-job-offer-or-promotion": {
+      "id": "waiting-for-a-job-offer-or-promotion",
+      "preferred": "waiting for a job offer or promotion",
+      "aliases": [
+        "waiting for a job offer or promotion"
+      ],
+      "count": 1
+    },
+    "relationships-ending-without-closure": {
+      "id": "relationships-ending-without-closure",
+      "preferred": "relationships ending without closure",
+      "aliases": [
+        "relationships ending without closure"
+      ],
+      "count": 1
+    },
+    "struggling-quietly": {
+      "id": "struggling-quietly",
+      "preferred": "struggling quietly",
+      "aliases": [
+        "struggling quietly"
+      ],
+      "count": 1
+    },
+    "truth-becomes-a-threat": {
+      "id": "truth-becomes-a-threat",
+      "preferred": "truth becomes a threat",
+      "aliases": [
+        "truth becomes a threat"
+      ],
+      "count": 1
+    },
+    "sales-turnover-and-underperformance": {
+      "id": "sales-turnover-and-underperformance",
+      "preferred": "sales turnover and underperformance",
+      "aliases": [
+        "sales turnover and underperformance"
+      ],
+      "count": 1
+    },
+    "feeling-alone-in-the-ache": {
+      "id": "feeling-alone-in-the-ache",
+      "preferred": "feeling alone in the Ache",
+      "aliases": [
+        "feeling alone in the Ache"
+      ],
+      "count": 1
+    },
+    "comparing-yourself-to-others": {
+      "id": "comparing-yourself-to-others",
+      "preferred": "comparing yourself to others",
+      "aliases": [
+        "comparing yourself to others"
+      ],
+      "count": 1
+    },
+    "life-feels-uncertain-slow-or-heavy": {
+      "id": "life-feels-uncertain-slow-or-heavy",
+      "preferred": "life feels uncertain, slow, or heavy",
+      "aliases": [
+        "life feels uncertain, slow, or heavy"
+      ],
+      "count": 1
+    },
+    "feeling-overwhelmed-by-distractions": {
+      "id": "feeling-overwhelmed-by-distractions",
+      "preferred": "feeling overwhelmed by distractions",
+      "aliases": [
+        "feeling overwhelmed by distractions"
+      ],
+      "count": 1
+    },
+    "fear-of-speaking-up-at-work": {
+      "id": "fear-of-speaking-up-at-work",
+      "preferred": "fear of speaking up at work",
+      "aliases": [
+        "fear of speaking up at work"
+      ],
+      "count": 1
+    },
+    "carrying-pressure-silently": {
+      "id": "carrying-pressure-silently",
+      "preferred": "carrying pressure silently",
+      "aliases": [
+        "carrying pressure silently"
+      ],
+      "count": 1
+    },
+    "career-pressure-emotional-overwhelm-or-self-doubt": {
+      "id": "career-pressure-emotional-overwhelm-or-self-doubt",
+      "preferred": "career pressure, emotional overwhelm, or self-doubt",
+      "aliases": [
+        "career pressure, emotional overwhelm, or self-doubt"
+      ],
+      "count": 1
+    },
+    "year-end-reflection": {
+      "id": "year-end-reflection",
+      "preferred": "year-end reflection",
+      "aliases": [
+        "year-end reflection"
+      ],
+      "count": 1
+    },
+    "feeling-alone-after-supporting-others": {
+      "id": "feeling-alone-after-supporting-others",
+      "preferred": "feeling alone after supporting others",
+      "aliases": [
+        "feeling alone after supporting others"
+      ],
+      "count": 1
+    },
+    "making-excuses-for-someone-s-silence": {
+      "id": "making-excuses-for-someone-s-silence",
+      "preferred": "making excuses for someone's silence",
+      "aliases": [
+        "making excuses for someone's silence"
+      ],
+      "count": 1
+    },
+    "learning-feels-unsafe-or-rushed": {
+      "id": "learning-feels-unsafe-or-rushed",
+      "preferred": "learning feels unsafe or rushed",
+      "aliases": [
+        "learning feels unsafe or rushed"
+      ],
+      "count": 1
+    },
+    "teams-feeling-disconnected-due-to-automation": {
+      "id": "teams-feeling-disconnected-due-to-automation",
+      "preferred": "teams feeling disconnected due to automation",
+      "aliases": [
+        "teams feeling disconnected due to automation"
+      ],
+      "count": 1
+    },
+    "ai-automating-team-workflow": {
+      "id": "ai-automating-team-workflow",
+      "preferred": "AI automating team workflow",
+      "aliases": [
+        "AI automating team workflow"
+      ],
+      "count": 1
+    },
+    "team-mental-health-protection": {
+      "id": "team-mental-health-protection",
+      "preferred": "team mental health protection",
+      "aliases": [
+        "team mental health protection"
+      ],
+      "count": 1
+    },
+    "managing-team-engagement": {
+      "id": "managing-team-engagement",
+      "preferred": "managing team engagement",
+      "aliases": [
+        "managing team engagement"
+      ],
+      "count": 1
+    },
+    "isolation-while-building-a-business": {
+      "id": "isolation-while-building-a-business",
+      "preferred": "isolation while building a business",
+      "aliases": [
+        "isolation while building a business"
+      ],
+      "count": 1
+    },
+    "building-a-business-through-long-term-challenges": {
+      "id": "building-a-business-through-long-term-challenges",
+      "preferred": "building a business through long-term challenges",
+      "aliases": [
+        "building a business through long-term challenges"
+      ],
+      "count": 1
+    },
+    "seeing-others-succeed": {
+      "id": "seeing-others-succeed",
+      "preferred": "seeing others succeed",
+      "aliases": [
+        "seeing others succeed"
+      ],
+      "count": 1
+    },
+    "retaining-top-talent": {
+      "id": "retaining-top-talent",
+      "preferred": "retaining top talent",
+      "aliases": [
+        "retaining top talent"
+      ],
+      "count": 1
+    },
+    "failing-talent-playbooks-and-regional-skills-shifts": {
+      "id": "failing-talent-playbooks-and-regional-skills-shifts",
+      "preferred": "failing talent playbooks and regional skills shifts",
+      "aliases": [
+        "failing talent playbooks and regional skills shifts"
+      ],
+      "count": 1
+    },
+    "ai-fatigue-and-underutilized-software": {
+      "id": "ai-fatigue-and-underutilized-software",
+      "preferred": "AI fatigue and underutilized software",
+      "aliases": [
+        "AI fatigue and underutilized software"
+      ],
+      "count": 1
+    },
+    "regional-crisis-in-the-middle-east": {
+      "id": "regional-crisis-in-the-middle-east",
+      "preferred": "regional crisis in the Middle East",
+      "aliases": [
+        "regional crisis in the Middle East"
+      ],
+      "count": 1
+    },
+    "team-performance-issues": {
+      "id": "team-performance-issues",
+      "preferred": "team performance issues",
+      "aliases": [
+        "team performance issues"
+      ],
+      "count": 1
+    },
+    "feeling-guilty-about-distancing-from-draining-relationships": {
+      "id": "feeling-guilty-about-distancing-from-draining-relationships",
+      "preferred": "feeling guilty about distancing from draining relationships",
+      "aliases": [
+        "feeling guilty about distancing from draining relationships"
+      ],
+      "count": 1
+    },
+    "talent-falling-behind-the-ai-curve": {
+      "id": "talent-falling-behind-the-ai-curve",
+      "preferred": "talent falling behind the AI curve",
+      "aliases": [
+        "talent falling behind the AI curve"
+      ],
+      "count": 1
+    },
+    "high-team-turnover": {
+      "id": "high-team-turnover",
+      "preferred": "high team turnover",
+      "aliases": [
+        "high team turnover"
+      ],
+      "count": 1
+    },
+    "giving-up-after-repeated-failures": {
+      "id": "giving-up-after-repeated-failures",
+      "preferred": "giving up after repeated failures",
+      "aliases": [
+        "giving up after repeated failures"
+      ],
+      "count": 1
+    },
+    "eid-al-fitr-celebration": {
+      "id": "eid-al-fitr-celebration",
+      "preferred": "Eid al-Fitr celebration",
+      "aliases": [
+        "Eid al-Fitr celebration"
+      ],
+      "count": 1
+    },
+    "managers-quitting-due-to-ai-isolation": {
+      "id": "managers-quitting-due-to-ai-isolation",
+      "preferred": "managers quitting due to AI isolation",
+      "aliases": [
+        "managers quitting due to AI isolation"
+      ],
+      "count": 1
+    },
+    "tools-implemented-but-results-aren-t-scaling": {
+      "id": "tools-implemented-but-results-aren-t-scaling",
+      "preferred": "tools implemented but results aren't scaling",
+      "aliases": [
+        "tools implemented but results aren't scaling"
+      ],
+      "count": 1
+    },
+    "overlooked-for-promotion-despite-high-performance": {
+      "id": "overlooked-for-promotion-despite-high-performance",
+      "preferred": "overlooked for promotion despite high performance",
+      "aliases": [
+        "overlooked for promotion despite high performance"
+      ],
+      "count": 1
+    },
+    "integrating-ai-into-corporate-workflows": {
+      "id": "integrating-ai-into-corporate-workflows",
+      "preferred": "integrating AI into corporate workflows",
+      "aliases": [
+        "integrating AI into corporate workflows"
+      ],
+      "count": 1
+    },
+    "team-disengagement": {
+      "id": "team-disengagement",
+      "preferred": "team disengagement",
+      "aliases": [
+        "team disengagement"
+      ],
+      "count": 1
+    },
+    "receiving-client-or-mentee-appreciation": {
+      "id": "receiving-client-or-mentee-appreciation",
+      "preferred": "receiving client or mentee appreciation",
+      "aliases": [
+        "receiving client or mentee appreciation"
+      ],
+      "count": 1
+    },
+    "expecting-one-workshop-to-change-behavior": {
+      "id": "expecting-one-workshop-to-change-behavior",
+      "preferred": "expecting one workshop to change behavior",
+      "aliases": [
+        "expecting one workshop to change behavior"
+      ],
+      "count": 1
+    },
+    "participant-asking-about-breaks-during-training": {
+      "id": "participant-asking-about-breaks-during-training",
+      "preferred": "participant asking about breaks during training",
+      "aliases": [
+        "participant asking about breaks during training"
+      ],
+      "count": 1
+    },
+    "teams-misinterpreting-meeting-messages": {
+      "id": "teams-misinterpreting-meeting-messages",
+      "preferred": "teams misinterpreting meeting messages",
+      "aliases": [
+        "teams misinterpreting meeting messages"
+      ],
+      "count": 1
+    },
+    "l-d-budget-prioritising-technical-skills-over-soft-skills": {
+      "id": "l-d-budget-prioritising-technical-skills-over-soft-skills",
+      "preferred": "L&D budget prioritising technical skills over soft skills",
+      "aliases": [
+        "L&D budget prioritising technical skills over soft skills"
+      ],
+      "count": 1
+    },
+    "leading-teams-in-gulf-organisations": {
+      "id": "leading-teams-in-gulf-organisations",
+      "preferred": "leading teams in Gulf organisations",
+      "aliases": [
+        "leading teams in Gulf organisations"
+      ],
+      "count": 1
+    },
+    "feeling-low-energy-and-zero-drive": {
+      "id": "feeling-low-energy-and-zero-drive",
+      "preferred": "feeling low energy and zero drive",
+      "aliases": [
+        "feeling low energy and zero drive"
+      ],
+      "count": 1
+    },
+    "training-before-failed-to-create-lasting-change": {
+      "id": "training-before-failed-to-create-lasting-change",
+      "preferred": "training before failed to create lasting change",
+      "aliases": [
+        "training before failed to create lasting change"
+      ],
+      "count": 1
+    },
+    "underperforming-team-with-late-deliverables-and-missed-targe": {
+      "id": "underperforming-team-with-late-deliverables-and-missed-targe",
+      "preferred": "underperforming team with late deliverables and missed targets",
+      "aliases": [
+        "underperforming team with late deliverables and missed targets"
+      ],
+      "count": 1
+    },
+    "ineffective-sales-training": {
+      "id": "ineffective-sales-training",
+      "preferred": "ineffective sales training",
+      "aliases": [
+        "ineffective sales training"
+      ],
+      "count": 1
+    },
+    "client-ghosting-after-pitch": {
+      "id": "client-ghosting-after-pitch",
+      "preferred": "client ghosting after pitch",
+      "aliases": [
+        "client ghosting after pitch"
+      ],
+      "count": 1
+    },
+    "supervisors-resigning-due-to-lack-of-growth-paths": {
+      "id": "supervisors-resigning-due-to-lack-of-growth-paths",
+      "preferred": "supervisors resigning due to lack of growth paths",
+      "aliases": [
+        "supervisors resigning due to lack of growth paths"
+      ],
+      "count": 1
+    },
+    "employee-afraid-to-correct-boss": {
+      "id": "employee-afraid-to-correct-boss",
+      "preferred": "employee afraid to correct boss",
+      "aliases": [
+        "employee afraid to correct boss"
+      ],
+      "count": 1
+    },
+    "low-close-rate-from-weak-pitch-and-objection-handling": {
+      "id": "low-close-rate-from-weak-pitch-and-objection-handling",
+      "preferred": "low close rate from weak pitch and objection handling",
+      "aliases": [
+        "low close rate from weak pitch and objection handling"
+      ],
+      "count": 1
+    },
+    "missing-someone-who-broke-trust": {
+      "id": "missing-someone-who-broke-trust",
+      "preferred": "missing someone who broke trust",
+      "aliases": [
+        "missing someone who broke trust"
+      ],
+      "count": 1
+    },
+    "needing-to-drop-price-to-close-deals": {
+      "id": "needing-to-drop-price-to-close-deals",
+      "preferred": "needing to drop price to close deals",
+      "aliases": [
+        "needing to drop price to close deals"
+      ],
+      "count": 1
+    },
+    "teacher-s-day": {
+      "id": "teacher-s-day",
+      "preferred": "Teacher's Day",
+      "aliases": [
+        "Teacher's Day"
+      ],
+      "count": 1
+    },
+    "employees-resisting-training-or-feedback": {
+      "id": "employees-resisting-training-or-feedback",
+      "preferred": "employees resisting training or feedback",
+      "aliases": [
+        "employees resisting training or feedback"
+      ],
+      "count": 1
+    },
+    "sales-team-adopting-ai-tools-without-revenue-growth": {
+      "id": "sales-team-adopting-ai-tools-without-revenue-growth",
+      "preferred": "sales team adopting AI tools without revenue growth",
+      "aliases": [
+        "sales team adopting AI tools without revenue growth"
+      ],
+      "count": 1
+    },
+    "promoted-without-management-training": {
+      "id": "promoted-without-management-training",
+      "preferred": "promoted without management training",
+      "aliases": [
+        "promoted without management training"
+      ],
+      "count": 1
+    },
+    "junior-staffer-makes-a-mistake": {
+      "id": "junior-staffer-makes-a-mistake",
+      "preferred": "junior staffer makes a mistake",
+      "aliases": [
+        "junior staffer makes a mistake"
+      ],
+      "count": 1
+    },
+    "high-stakes-merger-negotiation": {
+      "id": "high-stakes-merger-negotiation",
+      "preferred": "high-stakes merger negotiation",
+      "aliases": [
+        "high-stakes merger negotiation"
+      ],
+      "count": 1
+    },
+    "bureaucratic-rules-hindering-employee-productivity": {
+      "id": "bureaucratic-rules-hindering-employee-productivity",
+      "preferred": "bureaucratic rules hindering employee productivity",
+      "aliases": [
+        "bureaucratic rules hindering employee productivity"
+      ],
+      "count": 1
+    },
+    "buyer-already-has-identical-inventory": {
+      "id": "buyer-already-has-identical-inventory",
+      "preferred": "buyer already has identical inventory",
+      "aliases": [
+        "buyer already has identical inventory"
+      ],
+      "count": 1
+    },
+    "customer-refuses-initial-price": {
+      "id": "customer-refuses-initial-price",
+      "preferred": "customer refuses initial price",
+      "aliases": [
+        "customer refuses initial price"
+      ],
+      "count": 1
+    },
+    "transitioning-into-a-management-role": {
+      "id": "transitioning-into-a-management-role",
+      "preferred": "transitioning into a management role",
+      "aliases": [
+        "transitioning into a management role"
+      ],
+      "count": 1
+    },
+    "disrespectful-customer-pushes-team-member-to-tears": {
+      "id": "disrespectful-customer-pushes-team-member-to-tears",
+      "preferred": "disrespectful customer pushes team member to tears",
+      "aliases": [
+        "disrespectful customer pushes team member to tears"
+      ],
+      "count": 1
+    },
+    "external-doubt-killing-business-ideas": {
+      "id": "external-doubt-killing-business-ideas",
+      "preferred": "external doubt killing business ideas",
+      "aliases": [
+        "external doubt killing business ideas"
+      ],
+      "count": 1
+    },
+    "unethical-demand-for-promotion": {
+      "id": "unethical-demand-for-promotion",
+      "preferred": "unethical demand for promotion",
+      "aliases": [
+        "unethical demand for promotion"
+      ],
+      "count": 1
+    },
+    "making-a-first-impression-without-track-record": {
+      "id": "making-a-first-impression-without-track-record",
+      "preferred": "making a first impression without track record",
+      "aliases": [
+        "making a first impression without track record"
+      ],
+      "count": 1
+    },
+    "promoting-a-top-closer-to-manager-without-training": {
+      "id": "promoting-a-top-closer-to-manager-without-training",
+      "preferred": "promoting a top closer to manager without training",
+      "aliases": [
+        "promoting a top closer to manager without training"
+      ],
+      "count": 1
+    },
+    "training-fades-without-reinforcement": {
+      "id": "training-fades-without-reinforcement",
+      "preferred": "training fades without reinforcement",
+      "aliases": [
+        "training fades without reinforcement"
+      ],
+      "count": 1
+    },
+    "promoting-a-salesperson-to-manager": {
+      "id": "promoting-a-salesperson-to-manager",
+      "preferred": "promoting a salesperson to manager",
+      "aliases": [
+        "promoting a salesperson to manager"
+      ],
+      "count": 1
+    },
+    "managing-lower-performing-reps": {
+      "id": "managing-lower-performing-reps",
+      "preferred": "managing lower-performing reps",
+      "aliases": [
+        "managing lower-performing reps"
+      ],
+      "count": 1
+    },
+    "transitioning-from-individual-contributor-to-manager": {
+      "id": "transitioning-from-individual-contributor-to-manager",
+      "preferred": "transitioning from individual contributor to manager",
+      "aliases": [
+        "transitioning from individual contributor to manager"
+      ],
+      "count": 1
+    },
+    "angry-customer-looking-for-a-fight": {
+      "id": "angry-customer-looking-for-a-fight",
+      "preferred": "angry customer looking for a fight",
+      "aliases": [
+        "angry customer looking for a fight"
+      ],
+      "count": 1
+    },
+    "handling-staffing-and-scheduling-conflicts": {
+      "id": "handling-staffing-and-scheduling-conflicts",
+      "preferred": "handling staffing and scheduling conflicts",
+      "aliases": [
+        "handling staffing and scheduling conflicts"
+      ],
+      "count": 1
+    },
+    "managing-team-performance": {
+      "id": "managing-team-performance",
+      "preferred": "managing team performance",
+      "aliases": [
+        "managing team performance"
+      ],
+      "count": 1
+    },
+    "being-an-overly-available-leader": {
+      "id": "being-an-overly-available-leader",
+      "preferred": "being an overly available leader",
+      "aliases": [
+        "being an overly available leader"
+      ],
+      "count": 1
+    },
+    "training-team-without-long-term-change": {
+      "id": "training-team-without-long-term-change",
+      "preferred": "training team without long-term change",
+      "aliases": [
+        "training team without long-term change"
+      ],
+      "count": 1
+    },
+    "salesperson-stuck-at-performance-plateau": {
+      "id": "salesperson-stuck-at-performance-plateau",
+      "preferred": "salesperson stuck at performance plateau",
+      "aliases": [
+        "salesperson stuck at performance plateau"
+      ],
+      "count": 1
+    },
+    "managing-an-underperforming-employee": {
+      "id": "managing-an-underperforming-employee",
+      "preferred": "managing an underperforming employee",
+      "aliases": [
+        "managing an underperforming employee"
+      ],
+      "count": 1
+    },
+    "presenting-team-ideas-to-leadership": {
+      "id": "presenting-team-ideas-to-leadership",
+      "preferred": "presenting team ideas to leadership",
+      "aliases": [
+        "presenting team ideas to leadership"
+      ],
+      "count": 1
+    },
+    "walking-into-a-tough-meeting": {
+      "id": "walking-into-a-tough-meeting",
+      "preferred": "walking into a tough meeting",
+      "aliases": [
+        "walking into a tough meeting"
+      ],
+      "count": 1
+    },
+    "aftermath-of-crisis": {
+      "id": "aftermath-of-crisis",
+      "preferred": "aftermath of crisis",
+      "aliases": [
+        "aftermath of crisis"
+      ],
+      "count": 1
+    },
+    "client-stops-responding": {
+      "id": "client-stops-responding",
+      "preferred": "client stops responding",
+      "aliases": [
+        "client stops responding"
+      ],
+      "count": 1
+    },
+    "manager-burnout-and-pressure": {
+      "id": "manager-burnout-and-pressure",
+      "preferred": "manager burnout and pressure",
+      "aliases": [
+        "manager burnout and pressure"
+      ],
+      "count": 1
+    },
+    "best-employees-quitting-due-to-management": {
+      "id": "best-employees-quitting-due-to-management",
+      "preferred": "best employees quitting due to management",
+      "aliases": [
+        "best employees quitting due to management"
+      ],
+      "count": 1
+    },
+    "managing-low-performers": {
+      "id": "managing-low-performers",
+      "preferred": "managing low performers",
+      "aliases": [
+        "managing low performers"
+      ],
+      "count": 1
+    },
+    "training-retention-failure": {
+      "id": "training-retention-failure",
+      "preferred": "training retention failure",
+      "aliases": [
+        "training retention failure"
+      ],
+      "count": 1
+    },
+    "entering-a-meeting-or-approaching-a-team-while-stressed": {
+      "id": "entering-a-meeting-or-approaching-a-team-while-stressed",
+      "preferred": "entering a meeting or approaching a team while stressed",
+      "aliases": [
+        "entering a meeting or approaching a team while stressed"
+      ],
+      "count": 1
+    },
+    "manager-burnout": {
+      "id": "manager-burnout",
+      "preferred": "manager burnout",
+      "aliases": [
+        "manager burnout"
+      ],
+      "count": 1
+    },
+    "presenting-team-ideas-to-board": {
+      "id": "presenting-team-ideas-to-board",
+      "preferred": "presenting team ideas to board",
+      "aliases": [
+        "presenting team ideas to board"
+      ],
+      "count": 1
+    },
+    "handling-executive-blame": {
+      "id": "handling-executive-blame",
+      "preferred": "handling executive blame",
+      "aliases": [
+        "handling executive blame"
+      ],
+      "count": 1
+    },
+    "executive-pressure": {
+      "id": "executive-pressure",
+      "preferred": "executive pressure",
+      "aliases": [
+        "executive pressure"
+      ],
+      "count": 1
+    },
+    "supporting-employees-through-personal-or-collective-tragedy": {
+      "id": "supporting-employees-through-personal-or-collective-tragedy",
+      "preferred": "supporting employees through personal or collective tragedy",
+      "aliases": [
+        "supporting employees through personal or collective tragedy"
+      ],
+      "count": 1
+    }
+  },
+  "topic": {
+    "psychological-safety": {
+      "id": "psychological-safety",
+      "preferred": "psychological safety",
+      "aliases": [
+        "psychological safety"
+      ],
+      "count": 10
+    },
+    "growth-mindset": {
+      "id": "growth-mindset",
+      "preferred": "growth mindset",
+      "aliases": [
+        "growth mindset"
+      ],
+      "count": 9
+    },
+    "mindset": {
+      "id": "mindset",
+      "preferred": "mindset",
+      "aliases": [
+        "mindset"
+      ],
+      "count": 8
+    },
+    "personal-boundaries": {
+      "id": "personal-boundaries",
+      "preferred": "personal boundaries",
+      "aliases": [
+        "personal boundaries",
+        "personal limits"
+      ],
+      "count": 8
+    },
+    "personal-growth": {
+      "id": "personal-growth",
+      "preferred": "personal growth",
+      "aliases": [
+        "personal development",
+        "personal growth",
+        "personal transformation"
+      ],
+      "count": 6
+    },
+    "workplace-culture": {
+      "id": "workplace-culture",
+      "preferred": "workplace culture",
+      "aliases": [
+        "company culture",
+        "workplace culture"
+      ],
+      "count": 6
+    },
+    "self-respect": {
+      "id": "self-respect",
+      "preferred": "self-respect",
+      "aliases": [
+        "self-respect"
+      ],
+      "count": 4
+    },
+    "servant-leadership": {
+      "id": "servant-leadership",
+      "preferred": "servant leadership",
+      "aliases": [
+        "servant leadership"
+      ],
+      "count": 4
+    },
+    "soft-skills": {
+      "id": "soft-skills",
+      "preferred": "soft skills",
+      "aliases": [
+        "soft skills"
+      ],
+      "count": 4
+    },
+    "learning-and-development": {
+      "id": "learning-and-development",
+      "preferred": "learning and development",
+      "aliases": [
+        "learning and development"
+      ],
+      "count": 4
+    },
+    "letting-go": {
+      "id": "letting-go",
+      "preferred": "letting go",
+      "aliases": [
+        "letting go"
+      ],
+      "count": 4
+    },
+    "emotional-intelligence": {
+      "id": "emotional-intelligence",
+      "preferred": "emotional intelligence",
+      "aliases": [
+        "emotional intelligence"
+      ],
+      "count": 4
+    },
+    "leadership-loneliness": {
+      "id": "leadership-loneliness",
+      "preferred": "leadership loneliness",
+      "aliases": [
+        "leadership loneliness"
+      ],
+      "count": 4
+    },
+    "self-worth": {
+      "id": "self-worth",
+      "preferred": "self-worth",
+      "aliases": [
+        "knowing your worth",
+        "self-worth"
+      ],
+      "count": 4
+    },
+    "soft-skills-training": {
+      "id": "soft-skills-training",
+      "preferred": "soft skills training",
+      "aliases": [
+        "soft skills coaching",
+        "soft skills training"
+      ],
+      "count": 4
+    },
+    "career-growth": {
+      "id": "career-growth",
+      "preferred": "career growth",
+      "aliases": [
+        "career development",
+        "career growth"
+      ],
+      "count": 4
+    },
+    "behavior-change": {
+      "id": "behavior-change",
+      "preferred": "behavior change",
+      "aliases": [
+        "behavior change",
+        "behaviour change"
+      ],
+      "count": 4
+    },
+    "motivation": {
+      "id": "motivation",
+      "preferred": "motivation",
+      "aliases": [
+        "motivation"
+      ],
+      "count": 3
+    },
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 3
+    },
+    "boundaries": {
+      "id": "boundaries",
+      "preferred": "boundaries",
+      "aliases": [
+        "boundaries"
+      ],
+      "count": 3
+    },
+    "empathy-in-leadership": {
+      "id": "empathy-in-leadership",
+      "preferred": "empathy in leadership",
+      "aliases": [
+        "empathy in leadership"
+      ],
+      "count": 3
+    },
+    "time-management": {
+      "id": "time-management",
+      "preferred": "time management",
+      "aliases": [
+        "time management"
+      ],
+      "count": 3
+    },
+    "objection-handling": {
+      "id": "objection-handling",
+      "preferred": "objection handling",
+      "aliases": [
+        "objection handling"
+      ],
+      "count": 3
+    },
+    "workplace-boundaries": {
+      "id": "workplace-boundaries",
+      "preferred": "workplace boundaries",
+      "aliases": [
+        "workplace boundaries"
+      ],
+      "count": 3
+    },
+    "constructive-feedback": {
+      "id": "constructive-feedback",
+      "preferred": "constructive feedback",
+      "aliases": [
+        "constructive feedback"
+      ],
+      "count": 3
+    },
+    "sales-psychology": {
+      "id": "sales-psychology",
+      "preferred": "sales psychology",
+      "aliases": [
+        "sales psychology"
+      ],
+      "count": 3
+    },
+    "genuine-relationships": {
+      "id": "genuine-relationships",
+      "preferred": "genuine relationships",
+      "aliases": [
+        "authentic relationships",
+        "genuine relationships"
+      ],
+      "count": 3
+    },
+    "trust-in-god": {
+      "id": "trust-in-god",
+      "preferred": "trust in God",
+      "aliases": [
+        "trust in Allah",
+        "trust in God"
+      ],
+      "count": 3
+    },
+    "reciprocity-in-relationships": {
+      "id": "reciprocity-in-relationships",
+      "preferred": "reciprocity in relationships",
+      "aliases": [
+        "reciprocity in relationships",
+        "relationship reciprocity"
+      ],
+      "count": 3
+    },
+    "emotional-safety": {
+      "id": "emotional-safety",
+      "preferred": "emotional safety",
+      "aliases": [
+        "emotional safety"
+      ],
+      "count": 2
+    },
+    "training-needs-analysis": {
+      "id": "training-needs-analysis",
+      "preferred": "training needs analysis",
+      "aliases": [
+        "training needs analysis"
+      ],
+      "count": 2
+    },
+    "perseverance-and-faith": {
+      "id": "perseverance-and-faith",
+      "preferred": "perseverance and faith",
+      "aliases": [
+        "perseverance and faith"
+      ],
+      "count": 2
+    },
+    "music-lyrics": {
+      "id": "music-lyrics",
+      "preferred": "music lyrics",
+      "aliases": [
+        "music lyrics"
+      ],
+      "count": 2
+    },
+    "audience-engagement": {
+      "id": "audience-engagement",
+      "preferred": "audience engagement",
+      "aliases": [
+        "audience engagement"
+      ],
+      "count": 2
+    },
+    "workplace-trust": {
+      "id": "workplace-trust",
+      "preferred": "workplace trust",
+      "aliases": [
+        "workplace trust"
+      ],
+      "count": 2
+    },
+    "mental-clarity": {
+      "id": "mental-clarity",
+      "preferred": "mental clarity",
+      "aliases": [
+        "mental clarity"
+      ],
+      "count": 2
+    },
+    "manufacturing-innovation": {
+      "id": "manufacturing-innovation",
+      "preferred": "manufacturing innovation",
+      "aliases": [
+        "manufacturing innovation"
+      ],
+      "count": 2
+    },
+    "true-friendship": {
+      "id": "true-friendship",
+      "preferred": "true friendship",
+      "aliases": [
+        "true friendship"
+      ],
+      "count": 2
+    },
+    "character-building": {
+      "id": "character-building",
+      "preferred": "character building",
+      "aliases": [
+        "character building"
+      ],
+      "count": 2
+    },
+    "setting-boundaries": {
+      "id": "setting-boundaries",
+      "preferred": "setting boundaries",
+      "aliases": [
+        "setting boundaries"
+      ],
+      "count": 2
+    },
+    "human-capability-development": {
+      "id": "human-capability-development",
+      "preferred": "human capability development",
+      "aliases": [
+        "Human Capability Development",
+        "human capability development"
+      ],
+      "count": 2
+    },
+    "self-improvement": {
+      "id": "self-improvement",
+      "preferred": "self-improvement",
+      "aliases": [
+        "self-improvement"
+      ],
+      "count": 2
+    },
+    "emotional-well-being": {
+      "id": "emotional-well-being",
+      "preferred": "emotional well-being",
+      "aliases": [
+        "emotional well-being"
+      ],
+      "count": 2
+    },
+    "supportive-culture": {
+      "id": "supportive-culture",
+      "preferred": "supportive culture",
+      "aliases": [
+        "supportive culture"
+      ],
+      "count": 2
+    },
+    "navigating-uncertainty": {
+      "id": "navigating-uncertainty",
+      "preferred": "navigating uncertainty",
+      "aliases": [
+        "navigating uncertainty"
+      ],
+      "count": 2
+    },
+    "relationship-priorities": {
+      "id": "relationship-priorities",
+      "preferred": "relationship priorities",
+      "aliases": [
+        "relationship priorities"
+      ],
+      "count": 2
+    },
+    "purpose-driven-leadership": {
+      "id": "purpose-driven-leadership",
+      "preferred": "purpose-driven leadership",
+      "aliases": [
+        "purpose-driven leadership"
+      ],
+      "count": 2
+    },
+    "stewardship-and-accountability": {
+      "id": "stewardship-and-accountability",
+      "preferred": "stewardship and accountability",
+      "aliases": [
+        "stewardship and accountability"
+      ],
+      "count": 2
+    },
+    "leadership-vs-management": {
+      "id": "leadership-vs-management",
+      "preferred": "leadership vs management",
+      "aliases": [
+        "leadership vs management"
+      ],
+      "count": 2
+    },
+    "relationship-selling": {
+      "id": "relationship-selling",
+      "preferred": "relationship selling",
+      "aliases": [
+        "relationship selling"
+      ],
+      "count": 2
+    },
+    "emotional-investment": {
+      "id": "emotional-investment",
+      "preferred": "emotional investment",
+      "aliases": [
+        "emotional investment"
+      ],
+      "count": 2
+    },
+    "perfume-sales-training": {
+      "id": "perfume-sales-training",
+      "preferred": "perfume sales training",
+      "aliases": [
+        "perfume sales training"
+      ],
+      "count": 2
+    },
+    "communication-skills": {
+      "id": "communication-skills",
+      "preferred": "communication skills",
+      "aliases": [
+        "communication skills"
+      ],
+      "count": 2
+    },
+    "ramadan-greetings": {
+      "id": "ramadan-greetings",
+      "preferred": "Ramadan greetings",
+      "aliases": [
+        "Ramadan greetings"
+      ],
+      "count": 2
+    },
+    "corporate-training-recruitment": {
+      "id": "corporate-training-recruitment",
+      "preferred": "corporate training recruitment",
+      "aliases": [
+        "corporate training recruitment"
+      ],
+      "count": 2
+    },
+    "international-women-s-day": {
+      "id": "international-women-s-day",
+      "preferred": "International Women's Day",
+      "aliases": [
+        "International Women's Day"
+      ],
+      "count": 2
+    },
+    "community-networking": {
+      "id": "community-networking",
+      "preferred": "community networking",
+      "aliases": [
+        "community networking"
+      ],
+      "count": 2
+    },
+    "meaning-of-life": {
+      "id": "meaning-of-life",
+      "preferred": "meaning of life",
+      "aliases": [
+        "meaning of life"
+      ],
+      "count": 2
+    },
+    "founder-burnout": {
+      "id": "founder-burnout",
+      "preferred": "founder burnout",
+      "aliases": [
+        "founder burnout"
+      ],
+      "count": 2
+    },
+    "sustainable-leadership": {
+      "id": "sustainable-leadership",
+      "preferred": "sustainable leadership",
+      "aliases": [
+        "sustainable leadership"
+      ],
+      "count": 2
+    },
+    "building-trust": {
+      "id": "building-trust",
+      "preferred": "building trust",
+      "aliases": [
+        "building trust"
+      ],
+      "count": 2
+    },
+    "respect-vs-fear-in-leadership": {
+      "id": "respect-vs-fear-in-leadership",
+      "preferred": "respect vs fear in leadership",
+      "aliases": [
+        "respect vs fear in leadership"
+      ],
+      "count": 2
+    },
+    "life-lessons": {
+      "id": "life-lessons",
+      "preferred": "life lessons",
+      "aliases": [
+        "life lessons"
+      ],
+      "count": 2
+    },
+    "protecting-peace": {
+      "id": "protecting-peace",
+      "preferred": "protecting peace",
+      "aliases": [
+        "protecting peace"
+      ],
+      "count": 2
+    },
+    "workplace-friendship": {
+      "id": "workplace-friendship",
+      "preferred": "workplace friendship",
+      "aliases": [
+        "workplace friendship",
+        "workplace friendships"
+      ],
+      "count": 2
+    },
+    "mindset-coaching": {
+      "id": "mindset-coaching",
+      "preferred": "mindset coaching",
+      "aliases": [
+        "mindset coaching"
+      ],
+      "count": 2
+    },
+    "leadership": {
+      "id": "leadership",
+      "preferred": "leadership",
+      "aliases": [
+        "leadership"
+      ],
+      "count": 2
+    },
+    "decision-making": {
+      "id": "decision-making",
+      "preferred": "decision making",
+      "aliases": [
+        "decision making"
+      ],
+      "count": 2
+    },
+    "upskilling": {
+      "id": "upskilling",
+      "preferred": "upskilling",
+      "aliases": [
+        "upskilling"
+      ],
+      "count": 2
+    },
+    "authenticity": {
+      "id": "authenticity",
+      "preferred": "authenticity",
+      "aliases": [
+        "authenticity"
+      ],
+      "count": 2
+    },
+    "job-search-platforms": {
+      "id": "job-search-platforms",
+      "preferred": "Job Search Platforms",
+      "aliases": [
+        "Job Search Platforms"
+      ],
+      "count": 2
+    },
+    "mentorship": {
+      "id": "mentorship",
+      "preferred": "mentorship",
+      "aliases": [
+        "mentorship"
+      ],
+      "count": 2
+    },
+    "corporate-training": {
+      "id": "corporate-training",
+      "preferred": "corporate training",
+      "aliases": [
+        "corporate training"
+      ],
+      "count": 2
+    },
+    "resilience": {
+      "id": "resilience",
+      "preferred": "resilience",
+      "aliases": [
+        "resilience"
+      ],
+      "count": 2
+    },
+    "leadership-mindset": {
+      "id": "leadership-mindset",
+      "preferred": "leadership mindset",
+      "aliases": [
+        "leadership mindset"
+      ],
+      "count": 2
+    },
+    "human-centric-leadership": {
+      "id": "human-centric-leadership",
+      "preferred": "human-centric leadership",
+      "aliases": [
+        "human-centric leadership"
+      ],
+      "count": 2
+    },
+    "sales-communication": {
+      "id": "sales-communication",
+      "preferred": "sales communication",
+      "aliases": [
+        "sales communication"
+      ],
+      "count": 2
+    },
+    "ai-adoption-in-l-d": {
+      "id": "ai-adoption-in-l-d",
+      "preferred": "AI adoption in L&D",
+      "aliases": [
+        "AI adoption in L&D"
+      ],
+      "count": 2
+    },
+    "training-reinforcement": {
+      "id": "training-reinforcement",
+      "preferred": "training reinforcement",
+      "aliases": [
+        "training reinforcement"
+      ],
+      "count": 2
+    },
+    "team-performance": {
+      "id": "team-performance",
+      "preferred": "team performance",
+      "aliases": [
+        "team performance"
+      ],
+      "count": 2
+    },
+    "employee-retention": {
+      "id": "employee-retention",
+      "preferred": "employee retention",
+      "aliases": [
+        "employee retention"
+      ],
+      "count": 2
+    },
+    "sales-management-transition": {
+      "id": "sales-management-transition",
+      "preferred": "sales management transition",
+      "aliases": [
+        "sales management transition"
+      ],
+      "count": 2
+    },
+    "sales-training-reinforcement": {
+      "id": "sales-training-reinforcement",
+      "preferred": "sales training reinforcement",
+      "aliases": [
+        "sales training reinforcement"
+      ],
+      "count": 2
+    },
+    "performance-expectations": {
+      "id": "performance-expectations",
+      "preferred": "performance expectations",
+      "aliases": [
+        "performance expectations"
+      ],
+      "count": 2
+    },
+    "crisis-leadership": {
+      "id": "crisis-leadership",
+      "preferred": "crisis leadership",
+      "aliases": [
+        "crisis leadership"
+      ],
+      "count": 2
+    },
+    "manager-engagement": {
+      "id": "manager-engagement",
+      "preferred": "manager engagement",
+      "aliases": [
+        "manager engagement"
+      ],
+      "count": 2
+    },
+    "definition-of-success": {
+      "id": "definition-of-success",
+      "preferred": "definition of success",
+      "aliases": [
+        "defining success",
+        "definition of success"
+      ],
+      "count": 2
+    },
+    "dedication": {
+      "id": "dedication",
+      "preferred": "dedication",
+      "aliases": [
+        "dedication"
+      ],
+      "count": 1
+    },
+    "friendship-and-connection": {
+      "id": "friendship-and-connection",
+      "preferred": "friendship and connection",
+      "aliases": [
+        "friendship and connection"
+      ],
+      "count": 1
+    },
+    "father-s-day": {
+      "id": "father-s-day",
+      "preferred": "Father's Day",
+      "aliases": [
+        "Father's Day"
+      ],
+      "count": 1
+    },
+    "mindfulness-and-travel": {
+      "id": "mindfulness-and-travel",
+      "preferred": "mindfulness and travel",
+      "aliases": [
+        "mindfulness and travel"
+      ],
+      "count": 1
+    },
+    "self-growth-and-inner-peace": {
+      "id": "self-growth-and-inner-peace",
+      "preferred": "self-growth and inner peace",
+      "aliases": [
+        "self-growth and inner peace"
+      ],
+      "count": 1
+    },
+    "tough-love": {
+      "id": "tough-love",
+      "preferred": "tough love",
+      "aliases": [
+        "tough love"
+      ],
+      "count": 1
+    },
+    "making-life-changes": {
+      "id": "making-life-changes",
+      "preferred": "making life changes",
+      "aliases": [
+        "making life changes"
+      ],
+      "count": 1
+    },
+    "cherishing-the-present": {
+      "id": "cherishing-the-present",
+      "preferred": "cherishing the present",
+      "aliases": [
+        "cherishing the present"
+      ],
+      "count": 1
+    },
+    "confidence": {
+      "id": "confidence",
+      "preferred": "confidence",
+      "aliases": [
+        "confidence"
+      ],
+      "count": 1
+    },
+    "sushi-dining-experience": {
+      "id": "sushi-dining-experience",
+      "preferred": "sushi dining experience",
+      "aliases": [
+        "sushi dining experience"
+      ],
+      "count": 1
+    },
+    "helping-others": {
+      "id": "helping-others",
+      "preferred": "helping others",
+      "aliases": [
+        "helping others"
+      ],
+      "count": 1
+    },
+    "handling-drama": {
+      "id": "handling-drama",
+      "preferred": "handling drama",
+      "aliases": [
+        "handling drama"
+      ],
+      "count": 1
+    },
+    "emotional-regulation": {
+      "id": "emotional-regulation",
+      "preferred": "emotional regulation",
+      "aliases": [
+        "emotional regulation"
+      ],
+      "count": 1
+    },
+    "true-circle-vs-superficial-relationships": {
+      "id": "true-circle-vs-superficial-relationships",
+      "preferred": "true circle vs superficial relationships",
+      "aliases": [
+        "true circle vs superficial relationships"
+      ],
+      "count": 1
+    },
+    "moving-forward": {
+      "id": "moving-forward",
+      "preferred": "moving forward",
+      "aliases": [
+        "moving forward"
+      ],
+      "count": 1
+    },
+    "emotional-growth": {
+      "id": "emotional-growth",
+      "preferred": "emotional growth",
+      "aliases": [
+        "emotional growth"
+      ],
+      "count": 1
+    },
+    "privacy-boundaries": {
+      "id": "privacy-boundaries",
+      "preferred": "privacy boundaries",
+      "aliases": [
+        "privacy boundaries"
+      ],
+      "count": 1
+    },
+    "emotional-exhaustion": {
+      "id": "emotional-exhaustion",
+      "preferred": "emotional exhaustion",
+      "aliases": [
+        "emotional exhaustion"
+      ],
+      "count": 1
+    },
+    "self-reliance": {
+      "id": "self-reliance",
+      "preferred": "self-reliance",
+      "aliases": [
+        "self-reliance"
+      ],
+      "count": 1
+    },
+    "travel-motivation": {
+      "id": "travel-motivation",
+      "preferred": "travel motivation",
+      "aliases": [
+        "travel motivation"
+      ],
+      "count": 1
+    },
+    "true-friendship-vs-fake-friends": {
+      "id": "true-friendship-vs-fake-friends",
+      "preferred": "true friendship vs fake friends",
+      "aliases": [
+        "true friendship vs fake friends"
+      ],
+      "count": 1
+    },
+    "supplication-for-mercy": {
+      "id": "supplication-for-mercy",
+      "preferred": "supplication for mercy",
+      "aliases": [
+        "supplication for mercy"
+      ],
+      "count": 1
+    },
+    "islamic-nasheed-and-praise": {
+      "id": "islamic-nasheed-and-praise",
+      "preferred": "Islamic Nasheed and Praise",
+      "aliases": [
+        "Islamic Nasheed and Praise"
+      ],
+      "count": 1
+    },
+    "inner-peace-and-purpose": {
+      "id": "inner-peace-and-purpose",
+      "preferred": "inner peace and purpose",
+      "aliases": [
+        "inner peace and purpose"
+      ],
+      "count": 1
+    },
+    "trust-and-emotions": {
+      "id": "trust-and-emotions",
+      "preferred": "trust and emotions",
+      "aliases": [
+        "trust and emotions"
+      ],
+      "count": 1
+    },
+    "wealth-mindset": {
+      "id": "wealth-mindset",
+      "preferred": "wealth mindset",
+      "aliases": [
+        "wealth mindset"
+      ],
+      "count": 1
+    },
+    "revision-history-chrome-extension": {
+      "id": "revision-history-chrome-extension",
+      "preferred": "Revision History Chrome Extension",
+      "aliases": [
+        "Revision History Chrome Extension"
+      ],
+      "count": 1
+    },
+    "travel-memories-with-friends": {
+      "id": "travel-memories-with-friends",
+      "preferred": "travel memories with friends",
+      "aliases": [
+        "travel memories with friends"
+      ],
+      "count": 1
+    },
+    "f-b-manufacturing-events": {
+      "id": "f-b-manufacturing-events",
+      "preferred": "F&B manufacturing events",
+      "aliases": [
+        "F&B manufacturing events"
+      ],
+      "count": 1
+    },
+    "loyalty-in-friendship": {
+      "id": "loyalty-in-friendship",
+      "preferred": "loyalty in friendship",
+      "aliases": [
+        "loyalty in friendship"
+      ],
+      "count": 1
+    },
+    "parenting-mindset": {
+      "id": "parenting-mindset",
+      "preferred": "parenting mindset",
+      "aliases": [
+        "parenting mindset"
+      ],
+      "count": 1
+    },
+    "emotional-longing": {
+      "id": "emotional-longing",
+      "preferred": "emotional longing",
+      "aliases": [
+        "emotional longing"
+      ],
+      "count": 1
+    },
+    "career-mindset": {
+      "id": "career-mindset",
+      "preferred": "career mindset",
+      "aliases": [
+        "career mindset"
+      ],
+      "count": 1
+    },
+    "names-of-allah": {
+      "id": "names-of-allah",
+      "preferred": "Names of Allah",
+      "aliases": [
+        "Names of Allah"
+      ],
+      "count": 1
+    },
+    "defamation-and-fear-of-truth": {
+      "id": "defamation-and-fear-of-truth",
+      "preferred": "defamation and fear of truth",
+      "aliases": [
+        "defamation and fear of truth"
+      ],
+      "count": 1
+    },
+    "discerning-relationships-before-success": {
+      "id": "discerning-relationships-before-success",
+      "preferred": "discerning relationships before success",
+      "aliases": [
+        "discerning relationships before success"
+      ],
+      "count": 1
+    },
+    "travel-mindset": {
+      "id": "travel-mindset",
+      "preferred": "travel mindset",
+      "aliases": [
+        "travel mindset"
+      ],
+      "count": 1
+    },
+    "tasbih": {
+      "id": "tasbih",
+      "preferred": "tasbih",
+      "aliases": [
+        "tasbih"
+      ],
+      "count": 1
+    },
+    "personal-space-management": {
+      "id": "personal-space-management",
+      "preferred": "personal space management",
+      "aliases": [
+        "personal space management"
+      ],
+      "count": 1
+    },
+    "time-management-myth": {
+      "id": "time-management-myth",
+      "preferred": "time management myth",
+      "aliases": [
+        "time management myth"
+      ],
+      "count": 1
+    },
+    "productivity": {
+      "id": "productivity",
+      "preferred": "productivity",
+      "aliases": [
+        "productivity"
+      ],
+      "count": 1
+    },
+    "individuality": {
+      "id": "individuality",
+      "preferred": "individuality",
+      "aliases": [
+        "individuality"
+      ],
+      "count": 1
+    },
+    "employee-skill-building": {
+      "id": "employee-skill-building",
+      "preferred": "employee skill building",
+      "aliases": [
+        "employee skill building"
+      ],
+      "count": 1
+    },
+    "tawakkul": {
+      "id": "tawakkul",
+      "preferred": "Tawakkul",
+      "aliases": [
+        "Tawakkul"
+      ],
+      "count": 1
+    },
+    "inner-peace": {
+      "id": "inner-peace",
+      "preferred": "inner peace",
+      "aliases": [
+        "inner peace"
+      ],
+      "count": 1
+    },
+    "silence-as-a-boundary": {
+      "id": "silence-as-a-boundary",
+      "preferred": "silence as a boundary",
+      "aliases": [
+        "silence as a boundary"
+      ],
+      "count": 1
+    },
+    "trust-and-relationships": {
+      "id": "trust-and-relationships",
+      "preferred": "trust and relationships",
+      "aliases": [
+        "trust and relationships"
+      ],
+      "count": 1
+    },
+    "property-views": {
+      "id": "property-views",
+      "preferred": "property views",
+      "aliases": [
+        "property views"
+      ],
+      "count": 1
+    },
+    "ai-leadership-and-workplace-culture": {
+      "id": "ai-leadership-and-workplace-culture",
+      "preferred": "AI leadership and workplace culture",
+      "aliases": [
+        "AI leadership and workplace culture"
+      ],
+      "count": 1
+    },
+    "faith-and-trust": {
+      "id": "faith-and-trust",
+      "preferred": "faith and trust",
+      "aliases": [
+        "faith and trust"
+      ],
+      "count": 1
+    },
+    "leadership-legacy": {
+      "id": "leadership-legacy",
+      "preferred": "leadership legacy",
+      "aliases": [
+        "leadership legacy"
+      ],
+      "count": 1
+    },
+    "organizational-dependency": {
+      "id": "organizational-dependency",
+      "preferred": "organizational dependency",
+      "aliases": [
+        "organizational dependency"
+      ],
+      "count": 1
+    },
+    "self-determination": {
+      "id": "self-determination",
+      "preferred": "self-determination",
+      "aliases": [
+        "self-determination"
+      ],
+      "count": 1
+    },
+    "relationship-selection": {
+      "id": "relationship-selection",
+      "preferred": "relationship selection",
+      "aliases": [
+        "relationship selection"
+      ],
+      "count": 1
+    },
+    "relationship-management": {
+      "id": "relationship-management",
+      "preferred": "relationship management",
+      "aliases": [
+        "relationship management"
+      ],
+      "count": 1
+    },
+    "client-retention": {
+      "id": "client-retention",
+      "preferred": "client retention",
+      "aliases": [
+        "client retention"
+      ],
+      "count": 1
+    },
+    "family-dynamics": {
+      "id": "family-dynamics",
+      "preferred": "family dynamics",
+      "aliases": [
+        "family dynamics"
+      ],
+      "count": 1
+    },
+    "unappreciated-effort-in-relationships": {
+      "id": "unappreciated-effort-in-relationships",
+      "preferred": "unappreciated effort in relationships",
+      "aliases": [
+        "unappreciated effort in relationships"
+      ],
+      "count": 1
+    },
+    "empathy-in-management": {
+      "id": "empathy-in-management",
+      "preferred": "empathy in management",
+      "aliases": [
+        "empathy in management"
+      ],
+      "count": 1
+    },
+    "sales-conversions": {
+      "id": "sales-conversions",
+      "preferred": "sales conversions",
+      "aliases": [
+        "sales conversions"
+      ],
+      "count": 1
+    },
+    "spiritual-healing": {
+      "id": "spiritual-healing",
+      "preferred": "spiritual healing",
+      "aliases": [
+        "spiritual healing"
+      ],
+      "count": 1
+    },
+    "luxury-retail-sales": {
+      "id": "luxury-retail-sales",
+      "preferred": "luxury retail sales",
+      "aliases": [
+        "luxury retail sales"
+      ],
+      "count": 1
+    },
+    "iftaar": {
+      "id": "iftaar",
+      "preferred": "Iftaar",
+      "aliases": [
+        "Iftaar"
+      ],
+      "count": 1
+    },
+    "adult-learning-methodology": {
+      "id": "adult-learning-methodology",
+      "preferred": "adult learning methodology",
+      "aliases": [
+        "adult learning methodology"
+      ],
+      "count": 1
+    },
+    "reality-check": {
+      "id": "reality-check",
+      "preferred": "reality check",
+      "aliases": [
+        "reality check"
+      ],
+      "count": 1
+    },
+    "expression-of-gratitude": {
+      "id": "expression-of-gratitude",
+      "preferred": "expression of gratitude",
+      "aliases": [
+        "expression of gratitude"
+      ],
+      "count": 1
+    },
+    "luxury-brand-training": {
+      "id": "luxury-brand-training",
+      "preferred": "luxury brand training",
+      "aliases": [
+        "luxury brand training"
+      ],
+      "count": 1
+    },
+    "day-of-arafat": {
+      "id": "day-of-arafat",
+      "preferred": "Day of Arafat",
+      "aliases": [
+        "Day of Arafat"
+      ],
+      "count": 1
+    },
+    "dua": {
+      "id": "dua",
+      "preferred": "Dua",
+      "aliases": [
+        "Dua"
+      ],
+      "count": 1
+    },
+    "consistency-and-small-steps": {
+      "id": "consistency-and-small-steps",
+      "preferred": "consistency and small steps",
+      "aliases": [
+        "consistency and small steps"
+      ],
+      "count": 1
+    },
+    "sales-leadership": {
+      "id": "sales-leadership",
+      "preferred": "sales leadership",
+      "aliases": [
+        "sales leadership"
+      ],
+      "count": 1
+    },
+    "leadership-adaptability": {
+      "id": "leadership-adaptability",
+      "preferred": "leadership adaptability",
+      "aliases": [
+        "leadership adaptability"
+      ],
+      "count": 1
+    },
+    "cold-calling": {
+      "id": "cold-calling",
+      "preferred": "cold calling",
+      "aliases": [
+        "cold calling"
+      ],
+      "count": 1
+    },
+    "rivalry-and-mutual-respect": {
+      "id": "rivalry-and-mutual-respect",
+      "preferred": "rivalry and mutual respect",
+      "aliases": [
+        "rivalry and mutual respect"
+      ],
+      "count": 1
+    },
+    "eid-nostalgia": {
+      "id": "eid-nostalgia",
+      "preferred": "Eid nostalgia",
+      "aliases": [
+        "Eid nostalgia"
+      ],
+      "count": 1
+    },
+    "market-specific-sales-training": {
+      "id": "market-specific-sales-training",
+      "preferred": "market-specific sales training",
+      "aliases": [
+        "market-specific sales training"
+      ],
+      "count": 1
+    },
+    "merchandising": {
+      "id": "merchandising",
+      "preferred": "merchandising",
+      "aliases": [
+        "merchandising"
+      ],
+      "count": 1
+    },
+    "retailer-pushback": {
+      "id": "retailer-pushback",
+      "preferred": "retailer pushback",
+      "aliases": [
+        "retailer pushback"
+      ],
+      "count": 1
+    },
+    "persuasion": {
+      "id": "persuasion",
+      "preferred": "persuasion",
+      "aliases": [
+        "persuasion"
+      ],
+      "count": 1
+    },
+    "inventory-management": {
+      "id": "inventory-management",
+      "preferred": "inventory management",
+      "aliases": [
+        "inventory management"
+      ],
+      "count": 1
+    },
+    "sales-improvement": {
+      "id": "sales-improvement",
+      "preferred": "sales improvement",
+      "aliases": [
+        "sales improvement"
+      ],
+      "count": 1
+    },
+    "price-objection": {
+      "id": "price-objection",
+      "preferred": "price objection",
+      "aliases": [
+        "price objection"
+      ],
+      "count": 1
+    },
+    "slow-moving-stock": {
+      "id": "slow-moving-stock",
+      "preferred": "slow-moving stock",
+      "aliases": [
+        "slow-moving stock"
+      ],
+      "count": 1
+    },
+    "new-product-introduction": {
+      "id": "new-product-introduction",
+      "preferred": "new product introduction",
+      "aliases": [
+        "new product introduction"
+      ],
+      "count": 1
+    },
+    "emotional-objections": {
+      "id": "emotional-objections",
+      "preferred": "emotional objections",
+      "aliases": [
+        "emotional objections"
+      ],
+      "count": 1
+    },
+    "negotiation": {
+      "id": "negotiation",
+      "preferred": "negotiation",
+      "aliases": [
+        "negotiation"
+      ],
+      "count": 1
+    },
+    "closing-questions": {
+      "id": "closing-questions",
+      "preferred": "closing questions",
+      "aliases": [
+        "closing questions"
+      ],
+      "count": 1
+    },
+    "employee-disengagement": {
+      "id": "employee-disengagement",
+      "preferred": "employee disengagement",
+      "aliases": [
+        "employee disengagement"
+      ],
+      "count": 1
+    },
+    "workplace-motivation": {
+      "id": "workplace-motivation",
+      "preferred": "workplace motivation",
+      "aliases": [
+        "workplace motivation"
+      ],
+      "count": 1
+    },
+    "ai-in-sales": {
+      "id": "ai-in-sales",
+      "preferred": "AI in sales",
+      "aliases": [
+        "AI in sales"
+      ],
+      "count": 1
+    },
+    "relationship-building": {
+      "id": "relationship-building",
+      "preferred": "relationship building",
+      "aliases": [
+        "relationship building"
+      ],
+      "count": 1
+    },
+    "gisec-global-cybersecurity-conference": {
+      "id": "gisec-global-cybersecurity-conference",
+      "preferred": "GISEC Global cybersecurity conference",
+      "aliases": [
+        "GISEC Global cybersecurity conference"
+      ],
+      "count": 1
+    },
+    "closure-and-inner-peace": {
+      "id": "closure-and-inner-peace",
+      "preferred": "closure and inner peace",
+      "aliases": [
+        "closure and inner peace"
+      ],
+      "count": 1
+    },
+    "selling-certainty": {
+      "id": "selling-certainty",
+      "preferred": "selling certainty",
+      "aliases": [
+        "selling certainty"
+      ],
+      "count": 1
+    },
+    "sales-ethics": {
+      "id": "sales-ethics",
+      "preferred": "sales ethics",
+      "aliases": [
+        "sales ethics"
+      ],
+      "count": 1
+    },
+    "closing-techniques": {
+      "id": "closing-techniques",
+      "preferred": "closing techniques",
+      "aliases": [
+        "closing techniques"
+      ],
+      "count": 1
+    },
+    "setting-boundaries-as-a-manager": {
+      "id": "setting-boundaries-as-a-manager",
+      "preferred": "setting boundaries as a manager",
+      "aliases": [
+        "setting boundaries as a manager"
+      ],
+      "count": 1
+    },
+    "emotional-regulation-in-leadership": {
+      "id": "emotional-regulation-in-leadership",
+      "preferred": "emotional regulation in leadership",
+      "aliases": [
+        "emotional regulation in leadership"
+      ],
+      "count": 1
+    },
+    "manager-availability-and-boundaries": {
+      "id": "manager-availability-and-boundaries",
+      "preferred": "manager availability and boundaries",
+      "aliases": [
+        "manager availability and boundaries"
+      ],
+      "count": 1
+    },
+    "public-speaking-confidence": {
+      "id": "public-speaking-confidence",
+      "preferred": "public speaking confidence",
+      "aliases": [
+        "public speaking confidence"
+      ],
+      "count": 1
+    },
+    "empathy-and-inspiration-in-leadership": {
+      "id": "empathy-and-inspiration-in-leadership",
+      "preferred": "empathy and inspiration in leadership",
+      "aliases": [
+        "empathy and inspiration in leadership"
+      ],
+      "count": 1
+    },
+    "gender-bias-in-leadership": {
+      "id": "gender-bias-in-leadership",
+      "preferred": "gender bias in leadership",
+      "aliases": [
+        "gender bias in leadership"
+      ],
+      "count": 1
+    },
+    "workplace-diversity": {
+      "id": "workplace-diversity",
+      "preferred": "workplace diversity",
+      "aliases": [
+        "workplace diversity"
+      ],
+      "count": 1
+    },
+    "self-identity": {
+      "id": "self-identity",
+      "preferred": "self-identity",
+      "aliases": [
+        "self-identity"
+      ],
+      "count": 1
+    },
+    "uae-national-day-greeting": {
+      "id": "uae-national-day-greeting",
+      "preferred": "UAE National Day greeting",
+      "aliases": [
+        "UAE National Day greeting"
+      ],
+      "count": 1
+    },
+    "weekend-greeting": {
+      "id": "weekend-greeting",
+      "preferred": "weekend greeting",
+      "aliases": [
+        "weekend greeting"
+      ],
+      "count": 1
+    },
+    "valuing-relationships": {
+      "id": "valuing-relationships",
+      "preferred": "valuing relationships",
+      "aliases": [
+        "valuing relationships"
+      ],
+      "count": 1
+    },
+    "book-recommendation": {
+      "id": "book-recommendation",
+      "preferred": "book recommendation",
+      "aliases": [
+        "book recommendation"
+      ],
+      "count": 1
+    },
+    "empowering-team-members": {
+      "id": "empowering-team-members",
+      "preferred": "empowering team members",
+      "aliases": [
+        "empowering team members"
+      ],
+      "count": 1
+    },
+    "active-listening-in-leadership": {
+      "id": "active-listening-in-leadership",
+      "preferred": "active listening in leadership",
+      "aliases": [
+        "active listening in leadership"
+      ],
+      "count": 1
+    },
+    "mentorship-and-coaching-services": {
+      "id": "mentorship-and-coaching-services",
+      "preferred": "mentorship and coaching services",
+      "aliases": [
+        "mentorship and coaching services"
+      ],
+      "count": 1
+    },
+    "silent-struggles": {
+      "id": "silent-struggles",
+      "preferred": "silent struggles",
+      "aliases": [
+        "silent struggles"
+      ],
+      "count": 1
+    },
+    "hospitality-careers": {
+      "id": "hospitality-careers",
+      "preferred": "hospitality careers",
+      "aliases": [
+        "hospitality careers"
+      ],
+      "count": 1
+    },
+    "healing-and-boundaries": {
+      "id": "healing-and-boundaries",
+      "preferred": "healing and boundaries",
+      "aliases": [
+        "healing and boundaries"
+      ],
+      "count": 1
+    },
+    "withholding-painful-truths": {
+      "id": "withholding-painful-truths",
+      "preferred": "withholding painful truths",
+      "aliases": [
+        "withholding painful truths"
+      ],
+      "count": 1
+    },
+    "self-focus": {
+      "id": "self-focus",
+      "preferred": "self-focus",
+      "aliases": [
+        "self-focus"
+      ],
+      "count": 1
+    },
+    "intentional-growth": {
+      "id": "intentional-growth",
+      "preferred": "intentional growth",
+      "aliases": [
+        "intentional growth"
+      ],
+      "count": 1
+    },
+    "prioritization": {
+      "id": "prioritization",
+      "preferred": "prioritization",
+      "aliases": [
+        "prioritization"
+      ],
+      "count": 1
+    },
+    "trust-and-personal-boundaries": {
+      "id": "trust-and-personal-boundaries",
+      "preferred": "trust and personal boundaries",
+      "aliases": [
+        "trust and personal boundaries"
+      ],
+      "count": 1
+    },
+    "chemistry-job-referral": {
+      "id": "chemistry-job-referral",
+      "preferred": "chemistry job referral",
+      "aliases": [
+        "chemistry job referral"
+      ],
+      "count": 1
+    },
+    "ai-adoption-and-ethics": {
+      "id": "ai-adoption-and-ethics",
+      "preferred": "AI adoption and ethics",
+      "aliases": [
+        "AI adoption and ethics"
+      ],
+      "count": 1
+    },
+    "collaboration-vs-competition": {
+      "id": "collaboration-vs-competition",
+      "preferred": "collaboration vs competition",
+      "aliases": [
+        "collaboration vs competition"
+      ],
+      "count": 1
+    },
+    "power-pleasing-vs-competence": {
+      "id": "power-pleasing-vs-competence",
+      "preferred": "power-pleasing vs competence",
+      "aliases": [
+        "power-pleasing vs competence"
+      ],
+      "count": 1
+    },
+    "mindfulness-and-empathy-in-coaching": {
+      "id": "mindfulness-and-empathy-in-coaching",
+      "preferred": "mindfulness and empathy in coaching",
+      "aliases": [
+        "mindfulness and empathy in coaching"
+      ],
+      "count": 1
+    },
+    "ethical-leadership": {
+      "id": "ethical-leadership",
+      "preferred": "ethical leadership",
+      "aliases": [
+        "ethical leadership"
+      ],
+      "count": 1
+    },
+    "moving-in-silence": {
+      "id": "moving-in-silence",
+      "preferred": "moving in silence",
+      "aliases": [
+        "moving in silence"
+      ],
+      "count": 1
+    },
+    "evaluating-character": {
+      "id": "evaluating-character",
+      "preferred": "evaluating character",
+      "aliases": [
+        "evaluating character"
+      ],
+      "count": 1
+    },
+    "actions-vs-words": {
+      "id": "actions-vs-words",
+      "preferred": "actions vs words",
+      "aliases": [
+        "actions vs words"
+      ],
+      "count": 1
+    },
+    "relationship-dynamics": {
+      "id": "relationship-dynamics",
+      "preferred": "relationship dynamics",
+      "aliases": [
+        "relationship dynamics"
+      ],
+      "count": 1
+    },
+    "patience-and-trust": {
+      "id": "patience-and-trust",
+      "preferred": "patience and trust",
+      "aliases": [
+        "patience and trust"
+      ],
+      "count": 1
+    },
+    "women-empowerment": {
+      "id": "women-empowerment",
+      "preferred": "women empowerment",
+      "aliases": [
+        "women empowerment"
+      ],
+      "count": 1
+    },
+    "corporate-training-networking": {
+      "id": "corporate-training-networking",
+      "preferred": "corporate training networking",
+      "aliases": [
+        "corporate training networking"
+      ],
+      "count": 1
+    },
+    "entrepreneurial-mindset": {
+      "id": "entrepreneurial-mindset",
+      "preferred": "entrepreneurial mindset",
+      "aliases": [
+        "entrepreneurial mindset"
+      ],
+      "count": 1
+    },
+    "priorities-and-self-worth": {
+      "id": "priorities-and-self-worth",
+      "preferred": "priorities and self-worth",
+      "aliases": [
+        "priorities and self-worth"
+      ],
+      "count": 1
+    },
+    "workplace-collaboration": {
+      "id": "workplace-collaboration",
+      "preferred": "workplace collaboration",
+      "aliases": [
+        "workplace collaboration"
+      ],
+      "count": 1
+    },
+    "teamwork-skills": {
+      "id": "teamwork-skills",
+      "preferred": "teamwork skills",
+      "aliases": [
+        "teamwork skills"
+      ],
+      "count": 1
+    },
+    "burnout": {
+      "id": "burnout",
+      "preferred": "burnout",
+      "aliases": [
+        "burnout"
+      ],
+      "count": 1
+    },
+    "duaa": {
+      "id": "duaa",
+      "preferred": "duaa",
+      "aliases": [
+        "duaa"
+      ],
+      "count": 1
+    },
+    "energy-trade-show": {
+      "id": "energy-trade-show",
+      "preferred": "energy trade show",
+      "aliases": [
+        "energy trade show"
+      ],
+      "count": 1
+    },
+    "eid-ul-fitr-celebration": {
+      "id": "eid-ul-fitr-celebration",
+      "preferred": "Eid Ul Fitr celebration",
+      "aliases": [
+        "Eid Ul Fitr celebration"
+      ],
+      "count": 1
+    },
+    "self-worth-in-relationships": {
+      "id": "self-worth-in-relationships",
+      "preferred": "self-worth in relationships",
+      "aliases": [
+        "self-worth in relationships"
+      ],
+      "count": 1
+    },
+    "taking-breaks": {
+      "id": "taking-breaks",
+      "preferred": "taking breaks",
+      "aliases": [
+        "taking breaks"
+      ],
+      "count": 1
+    },
+    "work-life-balance": {
+      "id": "work-life-balance",
+      "preferred": "work-life balance",
+      "aliases": [
+        "work-life balance"
+      ],
+      "count": 1
+    },
+    "office-politics": {
+      "id": "office-politics",
+      "preferred": "office politics",
+      "aliases": [
+        "office politics"
+      ],
+      "count": 1
+    },
+    "job-application-etiquette": {
+      "id": "job-application-etiquette",
+      "preferred": "job application etiquette",
+      "aliases": [
+        "job application etiquette"
+      ],
+      "count": 1
+    },
+    "silence-as-communication": {
+      "id": "silence-as-communication",
+      "preferred": "silence as communication",
+      "aliases": [
+        "silence as communication"
+      ],
+      "count": 1
+    },
+    "managing-expectations": {
+      "id": "managing-expectations",
+      "preferred": "managing expectations",
+      "aliases": [
+        "managing expectations"
+      ],
+      "count": 1
+    },
+    "emotional-healing": {
+      "id": "emotional-healing",
+      "preferred": "emotional healing",
+      "aliases": [
+        "emotional healing"
+      ],
+      "count": 1
+    },
+    "spiritual-resilience": {
+      "id": "spiritual-resilience",
+      "preferred": "spiritual resilience",
+      "aliases": [
+        "spiritual resilience"
+      ],
+      "count": 1
+    },
+    "emotional-reflection": {
+      "id": "emotional-reflection",
+      "preferred": "emotional reflection",
+      "aliases": [
+        "emotional reflection"
+      ],
+      "count": 1
+    },
+    "book-signing": {
+      "id": "book-signing",
+      "preferred": "book signing",
+      "aliases": [
+        "book signing"
+      ],
+      "count": 1
+    },
+    "attitude": {
+      "id": "attitude",
+      "preferred": "attitude",
+      "aliases": [
+        "attitude"
+      ],
+      "count": 1
+    },
+    "integrity": {
+      "id": "integrity",
+      "preferred": "integrity",
+      "aliases": [
+        "integrity"
+      ],
+      "count": 1
+    },
+    "courage": {
+      "id": "courage",
+      "preferred": "courage",
+      "aliases": [
+        "courage"
+      ],
+      "count": 1
+    },
+    "kindness": {
+      "id": "kindness",
+      "preferred": "kindness",
+      "aliases": [
+        "kindness"
+      ],
+      "count": 1
+    },
+    "leadership-influence": {
+      "id": "leadership-influence",
+      "preferred": "leadership influence",
+      "aliases": [
+        "leadership influence"
+      ],
+      "count": 1
+    },
+    "perseverance": {
+      "id": "perseverance",
+      "preferred": "perseverance",
+      "aliases": [
+        "perseverance"
+      ],
+      "count": 1
+    },
+    "support-network": {
+      "id": "support-network",
+      "preferred": "support network",
+      "aliases": [
+        "support network"
+      ],
+      "count": 1
+    },
+    "self-belief": {
+      "id": "self-belief",
+      "preferred": "self-belief",
+      "aliases": [
+        "self-belief"
+      ],
+      "count": 1
+    },
+    "accountability": {
+      "id": "accountability",
+      "preferred": "accountability",
+      "aliases": [
+        "accountability"
+      ],
+      "count": 1
+    },
+    "goal-setting": {
+      "id": "goal-setting",
+      "preferred": "goal setting",
+      "aliases": [
+        "goal setting"
+      ],
+      "count": 1
+    },
+    "focus": {
+      "id": "focus",
+      "preferred": "focus",
+      "aliases": [
+        "focus"
+      ],
+      "count": 1
+    },
+    "time-prioritization": {
+      "id": "time-prioritization",
+      "preferred": "time prioritization",
+      "aliases": [
+        "time prioritization"
+      ],
+      "count": 1
+    },
+    "positive-communication": {
+      "id": "positive-communication",
+      "preferred": "positive communication",
+      "aliases": [
+        "positive communication"
+      ],
+      "count": 1
+    },
+    "self-care": {
+      "id": "self-care",
+      "preferred": "self-care",
+      "aliases": [
+        "self-care"
+      ],
+      "count": 1
+    },
+    "speaking-up": {
+      "id": "speaking-up",
+      "preferred": "speaking up",
+      "aliases": [
+        "speaking up"
+      ],
+      "count": 1
+    },
+    "inner-critic": {
+      "id": "inner-critic",
+      "preferred": "inner critic",
+      "aliases": [
+        "inner critic"
+      ],
+      "count": 1
+    },
+    "purpose-alignment": {
+      "id": "purpose-alignment",
+      "preferred": "purpose alignment",
+      "aliases": [
+        "purpose alignment"
+      ],
+      "count": 1
+    },
+    "gratitude": {
+      "id": "gratitude",
+      "preferred": "gratitude",
+      "aliases": [
+        "gratitude"
+      ],
+      "count": 1
+    },
+    "workplace-relationships": {
+      "id": "workplace-relationships",
+      "preferred": "workplace relationships",
+      "aliases": [
+        "workplace relationships"
+      ],
+      "count": 1
+    },
+    "career-coaching": {
+      "id": "career-coaching",
+      "preferred": "career coaching",
+      "aliases": [
+        "career coaching"
+      ],
+      "count": 1
+    },
+    "verbalizing-emotions": {
+      "id": "verbalizing-emotions",
+      "preferred": "verbalizing emotions",
+      "aliases": [
+        "verbalizing emotions"
+      ],
+      "count": 1
+    },
+    "international-labour-day": {
+      "id": "international-labour-day",
+      "preferred": "International Labour Day",
+      "aliases": [
+        "International Labour Day"
+      ],
+      "count": 1
+    },
+    "protecting-inner-peace": {
+      "id": "protecting-inner-peace",
+      "preferred": "protecting inner peace",
+      "aliases": [
+        "protecting inner peace"
+      ],
+      "count": 1
+    },
+    "linkedin-marketing-solutions-fundamentals": {
+      "id": "linkedin-marketing-solutions-fundamentals",
+      "preferred": "LinkedIn Marketing Solutions Fundamentals",
+      "aliases": [
+        "LinkedIn Marketing Solutions Fundamentals"
+      ],
+      "count": 1
+    },
+    "adaptability-and-resilience": {
+      "id": "adaptability-and-resilience",
+      "preferred": "adaptability and resilience",
+      "aliases": [
+        "adaptability and resilience"
+      ],
+      "count": 1
+    },
+    "critical-thinking-and-problem-solving": {
+      "id": "critical-thinking-and-problem-solving",
+      "preferred": "critical thinking and problem solving",
+      "aliases": [
+        "critical thinking and problem solving"
+      ],
+      "count": 1
+    },
+    "digital-literacy": {
+      "id": "digital-literacy",
+      "preferred": "digital literacy",
+      "aliases": [
+        "digital literacy"
+      ],
+      "count": 1
+    },
+    "leadership-and-coaching-mindset": {
+      "id": "leadership-and-coaching-mindset",
+      "preferred": "leadership and coaching mindset",
+      "aliases": [
+        "leadership and coaching mindset"
+      ],
+      "count": 1
+    },
+    "job-search-strategy": {
+      "id": "job-search-strategy",
+      "preferred": "job search strategy",
+      "aliases": [
+        "job search strategy"
+      ],
+      "count": 1
+    },
+    "feedback-culture": {
+      "id": "feedback-culture",
+      "preferred": "feedback culture",
+      "aliases": [
+        "feedback culture"
+      ],
+      "count": 1
+    },
+    "job-recommendation": {
+      "id": "job-recommendation",
+      "preferred": "job recommendation",
+      "aliases": [
+        "job recommendation"
+      ],
+      "count": 1
+    },
+    "one-sided-relationships": {
+      "id": "one-sided-relationships",
+      "preferred": "one-sided relationships",
+      "aliases": [
+        "one-sided relationships"
+      ],
+      "count": 1
+    },
+    "emotional-boundaries": {
+      "id": "emotional-boundaries",
+      "preferred": "emotional boundaries",
+      "aliases": [
+        "emotional boundaries"
+      ],
+      "count": 1
+    },
+    "navigating-change": {
+      "id": "navigating-change",
+      "preferred": "navigating change",
+      "aliases": [
+        "navigating change"
+      ],
+      "count": 1
+    },
+    "self-compassion": {
+      "id": "self-compassion",
+      "preferred": "self-compassion",
+      "aliases": [
+        "self-compassion"
+      ],
+      "count": 1
+    },
+    "projected-self-judgment": {
+      "id": "projected-self-judgment",
+      "preferred": "projected self-judgment",
+      "aliases": [
+        "projected self-judgment"
+      ],
+      "count": 1
+    },
+    "career-transition": {
+      "id": "career-transition",
+      "preferred": "career transition",
+      "aliases": [
+        "career transition"
+      ],
+      "count": 1
+    },
+    "fear-of-attachment": {
+      "id": "fear-of-attachment",
+      "preferred": "fear of attachment",
+      "aliases": [
+        "fear of attachment"
+      ],
+      "count": 1
+    },
+    "holiday-greetings": {
+      "id": "holiday-greetings",
+      "preferred": "holiday greetings",
+      "aliases": [
+        "holiday greetings"
+      ],
+      "count": 1
+    },
+    "kindness-and-service": {
+      "id": "kindness-and-service",
+      "preferred": "kindness and service",
+      "aliases": [
+        "kindness and service"
+      ],
+      "count": 1
+    },
+    "holding-space": {
+      "id": "holding-space",
+      "preferred": "holding space",
+      "aliases": [
+        "holding space"
+      ],
+      "count": 1
+    },
+    "emotional-presence": {
+      "id": "emotional-presence",
+      "preferred": "emotional presence",
+      "aliases": [
+        "emotional presence"
+      ],
+      "count": 1
+    },
+    "team-trust-and-productivity": {
+      "id": "team-trust-and-productivity",
+      "preferred": "team trust and productivity",
+      "aliases": [
+        "team trust and productivity"
+      ],
+      "count": 1
+    },
+    "linkedin-profile-update": {
+      "id": "linkedin-profile-update",
+      "preferred": "LinkedIn Profile Update",
+      "aliases": [
+        "LinkedIn Profile Update"
+      ],
+      "count": 1
+    },
+    "company-reviews": {
+      "id": "company-reviews",
+      "preferred": "Company Reviews",
+      "aliases": [
+        "Company Reviews"
+      ],
+      "count": 1
+    },
+    "appraisal-feedback": {
+      "id": "appraisal-feedback",
+      "preferred": "Appraisal Feedback",
+      "aliases": [
+        "Appraisal Feedback"
+      ],
+      "count": 1
+    },
+    "job-referrals": {
+      "id": "job-referrals",
+      "preferred": "Job Referrals",
+      "aliases": [
+        "Job Referrals"
+      ],
+      "count": 1
+    },
+    "workplace-well-being": {
+      "id": "workplace-well-being",
+      "preferred": "Workplace Well-being",
+      "aliases": [
+        "Workplace Well-being"
+      ],
+      "count": 1
+    },
+    "personal-growth-and-healing": {
+      "id": "personal-growth-and-healing",
+      "preferred": "personal growth and healing",
+      "aliases": [
+        "personal growth and healing"
+      ],
+      "count": 1
+    },
+    "daily-encouragement": {
+      "id": "daily-encouragement",
+      "preferred": "daily encouragement",
+      "aliases": [
+        "daily encouragement"
+      ],
+      "count": 1
+    },
+    "friendship-and-support": {
+      "id": "friendship-and-support",
+      "preferred": "friendship and support",
+      "aliases": [
+        "friendship and support"
+      ],
+      "count": 1
+    },
+    "essential-career-skills": {
+      "id": "essential-career-skills",
+      "preferred": "essential career skills",
+      "aliases": [
+        "essential career skills"
+      ],
+      "count": 1
+    },
+    "self-prioritization": {
+      "id": "self-prioritization",
+      "preferred": "self-prioritization",
+      "aliases": [
+        "self-prioritization"
+      ],
+      "count": 1
+    },
+    "nostalgia-and-impermanence": {
+      "id": "nostalgia-and-impermanence",
+      "preferred": "nostalgia and impermanence",
+      "aliases": [
+        "nostalgia and impermanence"
+      ],
+      "count": 1
+    },
+    "team-development": {
+      "id": "team-development",
+      "preferred": "team development",
+      "aliases": [
+        "team development"
+      ],
+      "count": 1
+    },
+    "emotional-detachment": {
+      "id": "emotional-detachment",
+      "preferred": "emotional detachment",
+      "aliases": [
+        "emotional detachment"
+      ],
+      "count": 1
+    },
+    "life-advice": {
+      "id": "life-advice",
+      "preferred": "life advice",
+      "aliases": [
+        "life advice"
+      ],
+      "count": 1
+    },
+    "corporate-training-and-coaching": {
+      "id": "corporate-training-and-coaching",
+      "preferred": "corporate training and coaching",
+      "aliases": [
+        "corporate training and coaching"
+      ],
+      "count": 1
+    },
+    "leadership-coaching": {
+      "id": "leadership-coaching",
+      "preferred": "leadership coaching",
+      "aliases": [
+        "leadership coaching"
+      ],
+      "count": 1
+    },
+    "six-sigma-green-belt": {
+      "id": "six-sigma-green-belt",
+      "preferred": "Six Sigma Green Belt",
+      "aliases": [
+        "Six Sigma Green Belt"
+      ],
+      "count": 1
+    },
+    "personal-growth-and-relationships": {
+      "id": "personal-growth-and-relationships",
+      "preferred": "personal growth and relationships",
+      "aliases": [
+        "personal growth and relationships"
+      ],
+      "count": 1
+    },
+    "indian-independence-day": {
+      "id": "indian-independence-day",
+      "preferred": "Indian Independence Day",
+      "aliases": [
+        "Indian Independence Day"
+      ],
+      "count": 1
+    },
+    "true-circle": {
+      "id": "true-circle",
+      "preferred": "true circle",
+      "aliases": [
+        "true circle"
+      ],
+      "count": 1
+    },
+    "learning-from-failure": {
+      "id": "learning-from-failure",
+      "preferred": "learning from failure",
+      "aliases": [
+        "learning from failure"
+      ],
+      "count": 1
+    },
+    "leadership-communication": {
+      "id": "leadership-communication",
+      "preferred": "leadership communication",
+      "aliases": [
+        "leadership communication"
+      ],
+      "count": 1
+    },
+    "six-sigma-green-belt-certification": {
+      "id": "six-sigma-green-belt-certification",
+      "preferred": "Six Sigma Green Belt certification",
+      "aliases": [
+        "Six Sigma Green Belt certification"
+      ],
+      "count": 1
+    },
+    "mental-peace": {
+      "id": "mental-peace",
+      "preferred": "mental peace",
+      "aliases": [
+        "mental peace"
+      ],
+      "count": 1
+    },
+    "self-confidence": {
+      "id": "self-confidence",
+      "preferred": "self-confidence",
+      "aliases": [
+        "self-confidence"
+      ],
+      "count": 1
+    },
+    "manufacturing-engineering": {
+      "id": "manufacturing-engineering",
+      "preferred": "manufacturing engineering",
+      "aliases": [
+        "manufacturing engineering"
+      ],
+      "count": 1
+    },
+    "upskilling-for-2025": {
+      "id": "upskilling-for-2025",
+      "preferred": "upskilling for 2025",
+      "aliases": [
+        "upskilling for 2025"
+      ],
+      "count": 1
+    },
+    "portfolio-building": {
+      "id": "portfolio-building",
+      "preferred": "portfolio building",
+      "aliases": [
+        "portfolio building"
+      ],
+      "count": 1
+    },
+    "workplace-trust-and-politics": {
+      "id": "workplace-trust-and-politics",
+      "preferred": "workplace trust and politics",
+      "aliases": [
+        "workplace trust and politics"
+      ],
+      "count": 1
+    },
+    "emotional-intelligence-in-leadership": {
+      "id": "emotional-intelligence-in-leadership",
+      "preferred": "emotional intelligence in leadership",
+      "aliases": [
+        "emotional intelligence in leadership"
+      ],
+      "count": 1
+    },
+    "quitting-a-job": {
+      "id": "quitting-a-job",
+      "preferred": "quitting a job",
+      "aliases": [
+        "quitting a job"
+      ],
+      "count": 1
+    },
+    "ai-detection-in-education": {
+      "id": "ai-detection-in-education",
+      "preferred": "AI detection in education",
+      "aliases": [
+        "AI detection in education"
+      ],
+      "count": 1
+    },
+    "gulfood-manufacturing-2025": {
+      "id": "gulfood-manufacturing-2025",
+      "preferred": "Gulfood Manufacturing 2025",
+      "aliases": [
+        "Gulfood Manufacturing 2025"
+      ],
+      "count": 1
+    },
+    "mindset-transformation": {
+      "id": "mindset-transformation",
+      "preferred": "mindset transformation",
+      "aliases": [
+        "mindset transformation"
+      ],
+      "count": 1
+    },
+    "gen-z-workplace-mindset": {
+      "id": "gen-z-workplace-mindset",
+      "preferred": "Gen Z workplace mindset",
+      "aliases": [
+        "Gen Z workplace mindset"
+      ],
+      "count": 1
+    },
+    "discipline-vs-passion": {
+      "id": "discipline-vs-passion",
+      "preferred": "discipline vs passion",
+      "aliases": [
+        "discipline vs passion"
+      ],
+      "count": 1
+    },
+    "teaching-values-to-kids": {
+      "id": "teaching-values-to-kids",
+      "preferred": "teaching values to kids",
+      "aliases": [
+        "teaching values to kids"
+      ],
+      "count": 1
+    },
+    "career-perseverance": {
+      "id": "career-perseverance",
+      "preferred": "career perseverance",
+      "aliases": [
+        "career perseverance"
+      ],
+      "count": 1
+    },
+    "mindset-reflection": {
+      "id": "mindset-reflection",
+      "preferred": "mindset reflection",
+      "aliases": [
+        "mindset reflection"
+      ],
+      "count": 1
+    },
+    "corporate-training-programs": {
+      "id": "corporate-training-programs",
+      "preferred": "corporate training programs",
+      "aliases": [
+        "corporate training programs"
+      ],
+      "count": 1
+    },
+    "mental-wellbeing": {
+      "id": "mental-wellbeing",
+      "preferred": "mental wellbeing",
+      "aliases": [
+        "mental wellbeing"
+      ],
+      "count": 1
+    },
+    "emotional-awareness": {
+      "id": "emotional-awareness",
+      "preferred": "emotional awareness",
+      "aliases": [
+        "emotional awareness"
+      ],
+      "count": 1
+    },
+    "sales-team-retention-and-performance": {
+      "id": "sales-team-retention-and-performance",
+      "preferred": "sales team retention and performance",
+      "aliases": [
+        "sales team retention and performance"
+      ],
+      "count": 1
+    },
+    "nostalgia": {
+      "id": "nostalgia",
+      "preferred": "nostalgia",
+      "aliases": [
+        "nostalgia"
+      ],
+      "count": 1
+    },
+    "uae-national-day": {
+      "id": "uae-national-day",
+      "preferred": "UAE National Day",
+      "aliases": [
+        "UAE National Day"
+      ],
+      "count": 1
+    },
+    "leadership-burnout": {
+      "id": "leadership-burnout",
+      "preferred": "leadership burnout",
+      "aliases": [
+        "leadership burnout"
+      ],
+      "count": 1
+    },
+    "employee-coaching": {
+      "id": "employee-coaching",
+      "preferred": "employee coaching",
+      "aliases": [
+        "employee coaching"
+      ],
+      "count": 1
+    },
+    "career-counselling": {
+      "id": "career-counselling",
+      "preferred": "career counselling",
+      "aliases": [
+        "career counselling"
+      ],
+      "count": 1
+    },
+    "workplace-mentoring": {
+      "id": "workplace-mentoring",
+      "preferred": "workplace mentoring",
+      "aliases": [
+        "workplace mentoring"
+      ],
+      "count": 1
+    },
+    "skills-assessments": {
+      "id": "skills-assessments",
+      "preferred": "skills assessments",
+      "aliases": [
+        "skills assessments"
+      ],
+      "count": 1
+    },
+    "self-discovery-tools": {
+      "id": "self-discovery-tools",
+      "preferred": "self-discovery tools",
+      "aliases": [
+        "self-discovery tools"
+      ],
+      "count": 1
+    },
+    "people-first-leadership": {
+      "id": "people-first-leadership",
+      "preferred": "people-first leadership",
+      "aliases": [
+        "people-first leadership"
+      ],
+      "count": 1
+    },
+    "tawakkul-and-faith": {
+      "id": "tawakkul-and-faith",
+      "preferred": "Tawakkul and faith",
+      "aliases": [
+        "Tawakkul and faith"
+      ],
+      "count": 1
+    },
+    "psychometric-assessments": {
+      "id": "psychometric-assessments",
+      "preferred": "psychometric assessments",
+      "aliases": [
+        "psychometric assessments"
+      ],
+      "count": 1
+    },
+    "self-comparison": {
+      "id": "self-comparison",
+      "preferred": "self-comparison",
+      "aliases": [
+        "self-comparison"
+      ],
+      "count": 1
+    },
+    "trusting-divine-plan": {
+      "id": "trusting-divine-plan",
+      "preferred": "trusting divine plan",
+      "aliases": [
+        "trusting divine plan"
+      ],
+      "count": 1
+    },
+    "attention-and-boundaries": {
+      "id": "attention-and-boundaries",
+      "preferred": "attention and boundaries",
+      "aliases": [
+        "attention and boundaries"
+      ],
+      "count": 1
+    },
+    "workplace-dynamics": {
+      "id": "workplace-dynamics",
+      "preferred": "workplace dynamics",
+      "aliases": [
+        "workplace dynamics"
+      ],
+      "count": 1
+    },
+    "mindset-shift": {
+      "id": "mindset-shift",
+      "preferred": "mindset shift",
+      "aliases": [
+        "mindset shift"
+      ],
+      "count": 1
+    },
+    "personal-reflection": {
+      "id": "personal-reflection",
+      "preferred": "personal reflection",
+      "aliases": [
+        "personal reflection"
+      ],
+      "count": 1
+    },
+    "enemies-of-success": {
+      "id": "enemies-of-success",
+      "preferred": "enemies of success",
+      "aliases": [
+        "enemies of success"
+      ],
+      "count": 1
+    },
+    "positive-mindset": {
+      "id": "positive-mindset",
+      "preferred": "positive mindset",
+      "aliases": [
+        "positive mindset"
+      ],
+      "count": 1
+    },
+    "adaptability-quotient-aq-in-leadership-hiring": {
+      "id": "adaptability-quotient-aq-in-leadership-hiring",
+      "preferred": "Adaptability Quotient (AQ) in leadership hiring",
+      "aliases": [
+        "Adaptability Quotient (AQ) in leadership hiring"
+      ],
+      "count": 1
+    },
+    "learning-culture": {
+      "id": "learning-culture",
+      "preferred": "learning culture",
+      "aliases": [
+        "learning culture"
+      ],
+      "count": 1
+    },
+    "ai-in-workplace-culture": {
+      "id": "ai-in-workplace-culture",
+      "preferred": "AI in workplace culture",
+      "aliases": [
+        "AI in workplace culture"
+      ],
+      "count": 1
+    },
+    "frontline-connection": {
+      "id": "frontline-connection",
+      "preferred": "frontline connection",
+      "aliases": [
+        "frontline connection"
+      ],
+      "count": 1
+    },
+    "human-connection-vs-ai": {
+      "id": "human-connection-vs-ai",
+      "preferred": "human connection vs AI",
+      "aliases": [
+        "human connection vs AI"
+      ],
+      "count": 1
+    },
+    "process-elimination": {
+      "id": "process-elimination",
+      "preferred": "process elimination",
+      "aliases": [
+        "process elimination"
+      ],
+      "count": 1
+    },
+    "founder-mental-health": {
+      "id": "founder-mental-health",
+      "preferred": "founder mental health",
+      "aliases": [
+        "founder mental health"
+      ],
+      "count": 1
+    },
+    "entrepreneurial-persistence": {
+      "id": "entrepreneurial-persistence",
+      "preferred": "entrepreneurial persistence",
+      "aliases": [
+        "entrepreneurial persistence"
+      ],
+      "count": 1
+    },
+    "trust-building": {
+      "id": "trust-building",
+      "preferred": "trust building",
+      "aliases": [
+        "trust building"
+      ],
+      "count": 1
+    },
+    "republic-day": {
+      "id": "republic-day",
+      "preferred": "Republic Day",
+      "aliases": [
+        "Republic Day"
+      ],
+      "count": 1
+    },
+    "vulnerable-leadership": {
+      "id": "vulnerable-leadership",
+      "preferred": "vulnerable leadership",
+      "aliases": [
+        "vulnerable leadership"
+      ],
+      "count": 1
+    },
+    "curiosity-in-leadership": {
+      "id": "curiosity-in-leadership",
+      "preferred": "curiosity in leadership",
+      "aliases": [
+        "curiosity in leadership"
+      ],
+      "count": 1
+    },
+    "trust-and-autonomy": {
+      "id": "trust-and-autonomy",
+      "preferred": "trust and autonomy",
+      "aliases": [
+        "trust and autonomy"
+      ],
+      "count": 1
+    },
+    "vulnerability-in-leadership": {
+      "id": "vulnerability-in-leadership",
+      "preferred": "vulnerability in leadership",
+      "aliases": [
+        "vulnerability in leadership"
+      ],
+      "count": 1
+    },
+    "workplace-well-being-and-culture": {
+      "id": "workplace-well-being-and-culture",
+      "preferred": "workplace well-being and culture",
+      "aliases": [
+        "workplace well-being and culture"
+      ],
+      "count": 1
+    },
+    "people-leadership": {
+      "id": "people-leadership",
+      "preferred": "people leadership",
+      "aliases": [
+        "people leadership"
+      ],
+      "count": 1
+    },
+    "relationships-and-boundaries": {
+      "id": "relationships-and-boundaries",
+      "preferred": "relationships and boundaries",
+      "aliases": [
+        "relationships and boundaries"
+      ],
+      "count": 1
+    },
+    "retail-sales-training": {
+      "id": "retail-sales-training",
+      "preferred": "retail sales training",
+      "aliases": [
+        "retail sales training"
+      ],
+      "count": 1
+    },
+    "body-language-and-tone-of-voice": {
+      "id": "body-language-and-tone-of-voice",
+      "preferred": "body language and tone of voice",
+      "aliases": [
+        "body language and tone of voice"
+      ],
+      "count": 1
+    },
+    "gen-z-training-engagement": {
+      "id": "gen-z-training-engagement",
+      "preferred": "Gen Z training engagement",
+      "aliases": [
+        "Gen Z training engagement"
+      ],
+      "count": 1
+    },
+    "cross-border-l-d-collaboration": {
+      "id": "cross-border-l-d-collaboration",
+      "preferred": "cross-border L&D collaboration",
+      "aliases": [
+        "cross-border L&D collaboration"
+      ],
+      "count": 1
+    },
+    "corporate-training-effectiveness": {
+      "id": "corporate-training-effectiveness",
+      "preferred": "corporate training effectiveness",
+      "aliases": [
+        "corporate training effectiveness"
+      ],
+      "count": 1
+    },
+    "role-plays": {
+      "id": "role-plays",
+      "preferred": "role plays",
+      "aliases": [
+        "role plays"
+      ],
+      "count": 1
+    },
+    "safety-check": {
+      "id": "safety-check",
+      "preferred": "safety check",
+      "aliases": [
+        "safety check"
+      ],
+      "count": 1
+    },
+    "setting-expectations": {
+      "id": "setting-expectations",
+      "preferred": "setting expectations",
+      "aliases": [
+        "setting expectations"
+      ],
+      "count": 1
+    },
+    "consistency": {
+      "id": "consistency",
+      "preferred": "consistency",
+      "aliases": [
+        "consistency"
+      ],
+      "count": 1
+    },
+    "capability-building-vs-employee-training": {
+      "id": "capability-building-vs-employee-training",
+      "preferred": "capability building vs employee training",
+      "aliases": [
+        "capability building vs employee training"
+      ],
+      "count": 1
+    },
+    "learned-helplessness": {
+      "id": "learned-helplessness",
+      "preferred": "learned helplessness",
+      "aliases": [
+        "learned helplessness"
+      ],
+      "count": 1
+    },
+    "eid-mubarak-greetings": {
+      "id": "eid-mubarak-greetings",
+      "preferred": "Eid Mubarak greetings",
+      "aliases": [
+        "Eid Mubarak greetings"
+      ],
+      "count": 1
+    },
+    "organizational-trust-and-culture": {
+      "id": "organizational-trust-and-culture",
+      "preferred": "organizational trust and culture",
+      "aliases": [
+        "organizational trust and culture"
+      ],
+      "count": 1
+    },
+    "leadership-and-soft-skills": {
+      "id": "leadership-and-soft-skills",
+      "preferred": "leadership and soft skills",
+      "aliases": [
+        "leadership and soft skills"
+      ],
+      "count": 1
+    },
+    "project-management-certification": {
+      "id": "project-management-certification",
+      "preferred": "Project Management Certification",
+      "aliases": [
+        "Project Management Certification"
+      ],
+      "count": 1
+    },
+    "leadership-and-learning": {
+      "id": "leadership-and-learning",
+      "preferred": "leadership and learning",
+      "aliases": [
+        "leadership and learning"
+      ],
+      "count": 1
+    },
+    "career-visibility": {
+      "id": "career-visibility",
+      "preferred": "career visibility",
+      "aliases": [
+        "career visibility"
+      ],
+      "count": 1
+    },
+    "ai-in-leadership": {
+      "id": "ai-in-leadership",
+      "preferred": "AI in leadership",
+      "aliases": [
+        "AI in leadership"
+      ],
+      "count": 1
+    },
+    "sales-team-empowerment": {
+      "id": "sales-team-empowerment",
+      "preferred": "sales team empowerment",
+      "aliases": [
+        "sales team empowerment"
+      ],
+      "count": 1
+    },
+    "leadership-behaviour": {
+      "id": "leadership-behaviour",
+      "preferred": "leadership behaviour",
+      "aliases": [
+        "leadership behaviour"
+      ],
+      "count": 1
+    },
+    "leadership-impact": {
+      "id": "leadership-impact",
+      "preferred": "leadership impact",
+      "aliases": [
+        "leadership impact"
+      ],
+      "count": 1
+    },
+    "workplace-environment": {
+      "id": "workplace-environment",
+      "preferred": "workplace environment",
+      "aliases": [
+        "workplace environment"
+      ],
+      "count": 1
+    },
+    "buyer-psychology": {
+      "id": "buyer-psychology",
+      "preferred": "buyer psychology",
+      "aliases": [
+        "buyer psychology"
+      ],
+      "count": 1
+    },
+    "eid-al-adha": {
+      "id": "eid-al-adha",
+      "preferred": "Eid al-Adha",
+      "aliases": [
+        "Eid al-Adha"
+      ],
+      "count": 1
+    },
+    "learning-and-development-effectiveness": {
+      "id": "learning-and-development-effectiveness",
+      "preferred": "learning and development effectiveness",
+      "aliases": [
+        "learning and development effectiveness"
+      ],
+      "count": 1
+    },
+    "work-life-integration": {
+      "id": "work-life-integration",
+      "preferred": "work-life integration",
+      "aliases": [
+        "work-life integration"
+      ],
+      "count": 1
+    },
+    "participant-engagement": {
+      "id": "participant-engagement",
+      "preferred": "participant engagement",
+      "aliases": [
+        "participant engagement"
+      ],
+      "count": 1
+    },
+    "assessment-center-assessor-role": {
+      "id": "assessment-center-assessor-role",
+      "preferred": "assessment center assessor role",
+      "aliases": [
+        "assessment center assessor role"
+      ],
+      "count": 1
+    },
+    "workplace-communication": {
+      "id": "workplace-communication",
+      "preferred": "workplace communication",
+      "aliases": [
+        "workplace communication"
+      ],
+      "count": 1
+    },
+    "gcc-leadership-principles": {
+      "id": "gcc-leadership-principles",
+      "preferred": "GCC leadership principles",
+      "aliases": [
+        "GCC leadership principles"
+      ],
+      "count": 1
+    },
+    "discipline-vs-motivation": {
+      "id": "discipline-vs-motivation",
+      "preferred": "discipline vs motivation",
+      "aliases": [
+        "discipline vs motivation"
+      ],
+      "count": 1
+    },
+    "day-of-arafat-du-a": {
+      "id": "day-of-arafat-du-a",
+      "preferred": "Day of Arafat Du'a",
+      "aliases": [
+        "Day of Arafat Du'a"
+      ],
+      "count": 1
+    },
+    "sales-training-effectiveness": {
+      "id": "sales-training-effectiveness",
+      "preferred": "sales training effectiveness",
+      "aliases": [
+        "sales training effectiveness"
+      ],
+      "count": 1
+    },
+    "sales-process": {
+      "id": "sales-process",
+      "preferred": "sales process",
+      "aliases": [
+        "sales process"
+      ],
+      "count": 1
+    },
+    "sales-scripts": {
+      "id": "sales-scripts",
+      "preferred": "sales scripts",
+      "aliases": [
+        "sales scripts"
+      ],
+      "count": 1
+    },
+    "leadership-under-pressure": {
+      "id": "leadership-under-pressure",
+      "preferred": "leadership under pressure",
+      "aliases": [
+        "leadership under pressure"
+      ],
+      "count": 1
+    },
+    "sales-training": {
+      "id": "sales-training",
+      "preferred": "sales training",
+      "aliases": [
+        "sales training"
+      ],
+      "count": 1
+    },
+    "training-roi": {
+      "id": "training-roi",
+      "preferred": "training ROI",
+      "aliases": [
+        "training ROI"
+      ],
+      "count": 1
+    },
+    "multicultural-sales-training": {
+      "id": "multicultural-sales-training",
+      "preferred": "multicultural sales training",
+      "aliases": [
+        "multicultural sales training"
+      ],
+      "count": 1
+    },
+    "self-reflection": {
+      "id": "self-reflection",
+      "preferred": "self-reflection",
+      "aliases": [
+        "self-reflection"
+      ],
+      "count": 1
+    },
+    "sales-automation-vs-human-skills": {
+      "id": "sales-automation-vs-human-skills",
+      "preferred": "sales automation vs human skills",
+      "aliases": [
+        "sales automation vs human skills"
+      ],
+      "count": 1
+    },
+    "independence-day": {
+      "id": "independence-day",
+      "preferred": "Independence Day",
+      "aliases": [
+        "Independence Day"
+      ],
+      "count": 1
+    },
+    "actionable-sales-training": {
+      "id": "actionable-sales-training",
+      "preferred": "actionable sales training",
+      "aliases": [
+        "actionable sales training"
+      ],
+      "count": 1
+    },
+    "consultative-selling": {
+      "id": "consultative-selling",
+      "preferred": "consultative selling",
+      "aliases": [
+        "consultative selling"
+      ],
+      "count": 1
+    },
+    "finding-closure": {
+      "id": "finding-closure",
+      "preferred": "finding closure",
+      "aliases": [
+        "finding closure"
+      ],
+      "count": 1
+    },
+    "value-based-selling-vs-discounting": {
+      "id": "value-based-selling-vs-discounting",
+      "preferred": "value-based selling vs discounting",
+      "aliases": [
+        "value-based selling vs discounting"
+      ],
+      "count": 1
+    },
+    "impact-of-teachers": {
+      "id": "impact-of-teachers",
+      "preferred": "impact of teachers",
+      "aliases": [
+        "impact of teachers"
+      ],
+      "count": 1
+    },
+    "wealth-migration": {
+      "id": "wealth-migration",
+      "preferred": "wealth migration",
+      "aliases": [
+        "wealth migration"
+      ],
+      "count": 1
+    },
+    "billionaire-statistics": {
+      "id": "billionaire-statistics",
+      "preferred": "billionaire statistics",
+      "aliases": [
+        "billionaire statistics"
+      ],
+      "count": 1
+    },
+    "ai-adoption-in-sales": {
+      "id": "ai-adoption-in-sales",
+      "preferred": "AI adoption in sales",
+      "aliases": [
+        "AI adoption in sales"
+      ],
+      "count": 1
+    },
+    "manager-transition": {
+      "id": "manager-transition",
+      "preferred": "manager transition",
+      "aliases": [
+        "manager transition"
+      ],
+      "count": 1
+    },
+    "leadership-training": {
+      "id": "leadership-training",
+      "preferred": "leadership training",
+      "aliases": [
+        "leadership training"
+      ],
+      "count": 1
+    },
+    "incentives-and-rewards": {
+      "id": "incentives-and-rewards",
+      "preferred": "incentives and rewards",
+      "aliases": [
+        "incentives and rewards"
+      ],
+      "count": 1
+    },
+    "reporting-structure-and-management": {
+      "id": "reporting-structure-and-management",
+      "preferred": "reporting structure and management",
+      "aliases": [
+        "reporting structure and management"
+      ],
+      "count": 1
+    },
+    "negotiation-tactics": {
+      "id": "negotiation-tactics",
+      "preferred": "negotiation tactics",
+      "aliases": [
+        "negotiation tactics"
+      ],
+      "count": 1
+    },
+    "reading-body-language": {
+      "id": "reading-body-language",
+      "preferred": "reading body language",
+      "aliases": [
+        "reading body language"
+      ],
+      "count": 1
+    },
+    "systemic-barriers-in-the-workplace": {
+      "id": "systemic-barriers-in-the-workplace",
+      "preferred": "systemic barriers in the workplace",
+      "aliases": [
+        "systemic barriers in the workplace"
+      ],
+      "count": 1
+    },
+    "leadership-action": {
+      "id": "leadership-action",
+      "preferred": "leadership action",
+      "aliases": [
+        "leadership action"
+      ],
+      "count": 1
+    },
+    "decoy-effect": {
+      "id": "decoy-effect",
+      "preferred": "decoy effect",
+      "aliases": [
+        "decoy effect"
+      ],
+      "count": 1
+    },
+    "reframing-value": {
+      "id": "reframing-value",
+      "preferred": "reframing value",
+      "aliases": [
+        "reframing value"
+      ],
+      "count": 1
+    },
+    "ethical-selling": {
+      "id": "ethical-selling",
+      "preferred": "ethical selling",
+      "aliases": [
+        "ethical selling"
+      ],
+      "count": 1
+    },
+    "persuasion-vs-manipulation": {
+      "id": "persuasion-vs-manipulation",
+      "preferred": "persuasion vs manipulation",
+      "aliases": [
+        "persuasion vs manipulation"
+      ],
+      "count": 1
+    },
+    "sales-culture": {
+      "id": "sales-culture",
+      "preferred": "sales culture",
+      "aliases": [
+        "sales culture"
+      ],
+      "count": 1
+    },
+    "pricing-strategy": {
+      "id": "pricing-strategy",
+      "preferred": "pricing strategy",
+      "aliases": [
+        "pricing strategy"
+      ],
+      "count": 1
+    },
+    "perceived-value": {
+      "id": "perceived-value",
+      "preferred": "perceived value",
+      "aliases": [
+        "perceived value"
+      ],
+      "count": 1
+    },
+    "first-time-leadership-training": {
+      "id": "first-time-leadership-training",
+      "preferred": "first-time leadership training",
+      "aliases": [
+        "first-time leadership training"
+      ],
+      "count": 1
+    },
+    "certainty-in-sales": {
+      "id": "certainty-in-sales",
+      "preferred": "certainty in sales",
+      "aliases": [
+        "certainty in sales"
+      ],
+      "count": 1
+    },
+    "protecting-employees": {
+      "id": "protecting-employees",
+      "preferred": "protecting employees",
+      "aliases": [
+        "protecting employees"
+      ],
+      "count": 1
+    },
+    "idea-validation": {
+      "id": "idea-validation",
+      "preferred": "idea validation",
+      "aliases": [
+        "idea validation"
+      ],
+      "count": 1
+    },
+    "visionary-leadership": {
+      "id": "visionary-leadership",
+      "preferred": "visionary leadership",
+      "aliases": [
+        "visionary leadership"
+      ],
+      "count": 1
+    },
+    "corporate-ethics": {
+      "id": "corporate-ethics",
+      "preferred": "corporate ethics",
+      "aliases": [
+        "corporate ethics"
+      ],
+      "count": 1
+    },
+    "discomfort-and-progress": {
+      "id": "discomfort-and-progress",
+      "preferred": "discomfort and progress",
+      "aliases": [
+        "discomfort and progress"
+      ],
+      "count": 1
+    },
+    "executive-presence": {
+      "id": "executive-presence",
+      "preferred": "executive presence",
+      "aliases": [
+        "executive presence"
+      ],
+      "count": 1
+    },
+    "sales-manager-training": {
+      "id": "sales-manager-training",
+      "preferred": "sales manager training",
+      "aliases": [
+        "sales manager training"
+      ],
+      "count": 1
+    },
+    "team-goal-setting": {
+      "id": "team-goal-setting",
+      "preferred": "team goal setting",
+      "aliases": [
+        "team goal setting"
+      ],
+      "count": 1
+    },
+    "sales-team-leadership": {
+      "id": "sales-team-leadership",
+      "preferred": "sales team leadership",
+      "aliases": [
+        "sales team leadership"
+      ],
+      "count": 1
+    },
+    "strategic-thinking": {
+      "id": "strategic-thinking",
+      "preferred": "strategic thinking",
+      "aliases": [
+        "strategic thinking"
+      ],
+      "count": 1
+    },
+    "de-escalation-techniques": {
+      "id": "de-escalation-techniques",
+      "preferred": "de-escalation techniques",
+      "aliases": [
+        "de-escalation techniques"
+      ],
+      "count": 1
+    },
+    "managerial-boundaries": {
+      "id": "managerial-boundaries",
+      "preferred": "managerial boundaries",
+      "aliases": [
+        "managerial boundaries"
+      ],
+      "count": 1
+    },
+    "sales-mindset": {
+      "id": "sales-mindset",
+      "preferred": "sales mindset",
+      "aliases": [
+        "sales mindset"
+      ],
+      "count": 1
+    },
+    "managerial-leadership": {
+      "id": "managerial-leadership",
+      "preferred": "managerial leadership",
+      "aliases": [
+        "managerial leadership"
+      ],
+      "count": 1
+    },
+    "giving-credit-and-absorbing-blame": {
+      "id": "giving-credit-and-absorbing-blame",
+      "preferred": "giving credit and absorbing blame",
+      "aliases": [
+        "giving credit and absorbing blame"
+      ],
+      "count": 1
+    },
+    "teamwork-and-leadership": {
+      "id": "teamwork-and-leadership",
+      "preferred": "teamwork and leadership",
+      "aliases": [
+        "teamwork and leadership"
+      ],
+      "count": 1
+    },
+    "leader-mood-and-emotional-contagion": {
+      "id": "leader-mood-and-emotional-contagion",
+      "preferred": "leader mood and emotional contagion",
+      "aliases": [
+        "leader mood and emotional contagion"
+      ],
+      "count": 1
+    },
+    "proactive-support": {
+      "id": "proactive-support",
+      "preferred": "proactive support",
+      "aliases": [
+        "proactive support"
+      ],
+      "count": 1
+    },
+    "long-term-commitment-to-employees": {
+      "id": "long-term-commitment-to-employees",
+      "preferred": "long-term commitment to employees",
+      "aliases": [
+        "long-term commitment to employees"
+      ],
+      "count": 1
+    },
+    "client-assumptions": {
+      "id": "client-assumptions",
+      "preferred": "client assumptions",
+      "aliases": [
+        "client assumptions"
+      ],
+      "count": 1
+    },
+    "discovery-questions": {
+      "id": "discovery-questions",
+      "preferred": "discovery questions",
+      "aliases": [
+        "discovery questions"
+      ],
+      "count": 1
+    },
+    "emotional-contagion-in-leadership": {
+      "id": "emotional-contagion-in-leadership",
+      "preferred": "emotional contagion in leadership",
+      "aliases": [
+        "emotional contagion in leadership"
+      ],
+      "count": 1
+    },
+    "team-coordination-and-morale": {
+      "id": "team-coordination-and-morale",
+      "preferred": "team coordination and morale",
+      "aliases": [
+        "team coordination and morale"
+      ],
+      "count": 1
+    },
+    "first-time-manager-training": {
+      "id": "first-time-manager-training",
+      "preferred": "first-time manager training",
+      "aliases": [
+        "first-time manager training"
+      ],
+      "count": 1
+    },
+    "first-time-leadership": {
+      "id": "first-time-leadership",
+      "preferred": "first-time leadership",
+      "aliases": [
+        "first-time leadership"
+      ],
+      "count": 1
+    },
+    "giving-credit": {
+      "id": "giving-credit",
+      "preferred": "giving credit",
+      "aliases": [
+        "giving credit"
+      ],
+      "count": 1
+    },
+    "leadership-accountability": {
+      "id": "leadership-accountability",
+      "preferred": "leadership accountability",
+      "aliases": [
+        "leadership accountability"
+      ],
+      "count": 1
+    },
+    "protecting-team": {
+      "id": "protecting-team",
+      "preferred": "protecting team",
+      "aliases": [
+        "protecting team"
+      ],
+      "count": 1
+    },
+    "compassionate-leadership": {
+      "id": "compassionate-leadership",
+      "preferred": "compassionate leadership",
+      "aliases": [
+        "compassionate leadership"
+      ],
+      "count": 1
+    },
+    "aircraft-maintenance": {
+      "id": "aircraft-maintenance",
+      "preferred": "aircraft maintenance",
+      "aliases": [
+        "aircraft maintenance"
+      ],
+      "count": 1
+    },
+    "avionics": {
+      "id": "avionics",
+      "preferred": "avionics",
+      "aliases": [
+        "avionics"
+      ],
+      "count": 1
+    },
+    "receiving-feedback": {
+      "id": "receiving-feedback",
+      "preferred": "receiving feedback",
+      "aliases": [
+        "receiving feedback"
+      ],
+      "count": 1
+    },
+    "difficult-conversations": {
+      "id": "difficult-conversations",
+      "preferred": "difficult conversations",
+      "aliases": [
+        "difficult conversations"
+      ],
+      "count": 1
+    },
+    "professionalism": {
+      "id": "professionalism",
+      "preferred": "professionalism",
+      "aliases": [
+        "professionalism"
+      ],
+      "count": 1
+    }
+  }
+}
