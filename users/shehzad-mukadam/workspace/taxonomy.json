@@ -6,7 +6,7 @@
       "aliases": [
         "sales coaching"
       ],
-      "count": 30
+      "count": 26
     },
     "executive-coaching": {
       "id": "executive-coaching",
@@ -22,7 +22,7 @@
       "aliases": [
         "corporate training"
       ],
-      "count": 6
+      "count": 5
     },
     "life-coaching": {
       "id": "life-coaching",
@@ -144,6 +144,15 @@
       ],
       "count": 2
     },
+    "industry-networking": {
+      "id": "industry-networking",
+      "preferred": "industry networking",
+      "aliases": [
+        "industry networking",
+        "professional networking"
+      ],
+      "count": 2
+    },
     "tribute": {
       "id": "tribute",
       "preferred": "tribute",
@@ -160,35 +169,11 @@
       ],
       "count": 1
     },
-    "singing": {
-      "id": "singing",
-      "preferred": "singing",
-      "aliases": [
-        "singing"
-      ],
-      "count": 1
-    },
     "duaa-recitation": {
       "id": "duaa-recitation",
       "preferred": "duaa recitation",
       "aliases": [
         "duaa recitation"
-      ],
-      "count": 1
-    },
-    "plagiarism-and-ai-detection": {
-      "id": "plagiarism-and-ai-detection",
-      "preferred": "plagiarism and AI detection",
-      "aliases": [
-        "plagiarism and AI detection"
-      ],
-      "count": 1
-    },
-    "industry-networking": {
-      "id": "industry-networking",
-      "preferred": "industry networking",
-      "aliases": [
-        "industry networking"
       ],
       "count": 1
     },
@@ -277,14 +262,6 @@
       "preferred": "candidate referral",
       "aliases": [
         "candidate referral"
-      ],
-      "count": 1
-    },
-    "professional-networking": {
-      "id": "professional-networking",
-      "preferred": "professional networking",
-      "aliases": [
-        "professional networking"
       ],
       "count": 1
     },
@@ -514,14 +491,6 @@
       ],
       "count": 3
     },
-    "students-using-chatgpt-for-assignments": {
-      "id": "students-using-chatgpt-for-assignments",
-      "preferred": "students using ChatGPT for assignments",
-      "aliases": [
-        "students using ChatGPT for assignments"
-      ],
-      "count": 2
-    },
     "objection-handling": {
       "id": "objection-handling",
       "preferred": "objection handling",
@@ -567,15 +536,6 @@
       "preferred": "feeling isolated in leadership role",
       "aliases": [
         "feeling isolated in leadership role"
-      ],
-      "count": 2
-    },
-    "pouring-energy-into-one-sided-relationships": {
-      "id": "pouring-energy-into-one-sided-relationships",
-      "preferred": "pouring energy into one-sided relationships",
-      "aliases": [
-        "effort becomes one-sided",
-        "pouring energy into one-sided relationships"
       ],
       "count": 2
     },
@@ -687,14 +647,6 @@
       "preferred": "feeling stuck and wanting to give up",
       "aliases": [
         "feeling stuck and wanting to give up"
-      ],
-      "count": 1
-    },
-    "someone-asks-for-help": {
-      "id": "someone-asks-for-help",
-      "preferred": "someone asks for help",
-      "aliases": [
-        "someone asks for help"
       ],
       "count": 1
     },
@@ -874,14 +826,6 @@
       ],
       "count": 1
     },
-    "close-relations-changing-unexpectedly": {
-      "id": "close-relations-changing-unexpectedly",
-      "preferred": "close relations changing unexpectedly",
-      "aliases": [
-        "close relations changing unexpectedly"
-      ],
-      "count": 1
-    },
     "making-excuses-for-someone-not-texting-back": {
       "id": "making-excuses-for-someone-not-texting-back",
       "preferred": "making excuses for someone not texting back",
@@ -943,14 +887,6 @@
       "preferred": "comparing yourself to others' success",
       "aliases": [
         "comparing yourself to others' success"
-      ],
-      "count": 1
-    },
-    "serving-customers-in-luxury-retail": {
-      "id": "serving-customers-in-luxury-retail",
-      "preferred": "serving customers in luxury retail",
-      "aliases": [
-        "serving customers in luxury retail"
       ],
       "count": 1
     },
@@ -1079,14 +1015,6 @@
       "preferred": "prospect hesitation",
       "aliases": [
         "prospect hesitation"
-      ],
-      "count": 1
-    },
-    "effort-and-reward-disconnect": {
-      "id": "effort-and-reward-disconnect",
-      "preferred": "effort and reward disconnect",
-      "aliases": [
-        "effort and reward disconnect"
       ],
       "count": 1
     },
@@ -1330,6 +1258,14 @@
       ],
       "count": 1
     },
+    "effort-becomes-one-sided": {
+      "id": "effort-becomes-one-sided",
+      "preferred": "effort becomes one-sided",
+      "aliases": [
+        "effort becomes one-sided"
+      ],
+      "count": 1
+    },
     "feeling-unappreciated-despite-showing-depth": {
       "id": "feeling-unappreciated-despite-showing-depth",
       "preferred": "feeling unappreciated despite showing depth",
@@ -1503,6 +1439,14 @@
       "preferred": "facing real-life pressure before leaving a job",
       "aliases": [
         "facing real-life pressure before leaving a job"
+      ],
+      "count": 1
+    },
+    "students-using-chatgpt-for-assignments": {
+      "id": "students-using-chatgpt-for-assignments",
+      "preferred": "students using ChatGPT for assignments",
+      "aliases": [
+        "students using ChatGPT for assignments"
       ],
       "count": 1
     },
@@ -2428,14 +2372,6 @@
       ],
       "count": 4
     },
-    "motivation": {
-      "id": "motivation",
-      "preferred": "motivation",
-      "aliases": [
-        "motivation"
-      ],
-      "count": 3
-    },
     "leadership-development": {
       "id": "leadership-development",
       "preferred": "leadership development",
@@ -2509,12 +2445,12 @@
       ],
       "count": 3
     },
-    "reciprocity-in-relationships": {
-      "id": "reciprocity-in-relationships",
-      "preferred": "reciprocity in relationships",
+    "trust-in-god": {
+      "id": "trust-in-god",
+      "preferred": "trust in God",
       "aliases": [
-        "reciprocity in relationships",
-        "relationship reciprocity"
+        "trust in Allah",
+        "trust in God"
       ],
       "count": 3
     },
@@ -2551,11 +2487,11 @@
       ],
       "count": 2
     },
-    "music-lyrics": {
-      "id": "music-lyrics",
-      "preferred": "music lyrics",
+    "motivation": {
+      "id": "motivation",
+      "preferred": "motivation",
       "aliases": [
-        "music lyrics"
+        "motivation"
       ],
       "count": 2
     },
@@ -2632,14 +2568,6 @@
       ],
       "count": 2
     },
-    "trust-in-god": {
-      "id": "trust-in-god",
-      "preferred": "trust in God",
-      "aliases": [
-        "trust in God"
-      ],
-      "count": 2
-    },
     "emotional-well-being": {
       "id": "emotional-well-being",
       "preferred": "emotional well-being",
@@ -2701,30 +2629,6 @@
       "preferred": "relationship selling",
       "aliases": [
         "relationship selling"
-      ],
-      "count": 2
-    },
-    "emotional-investment": {
-      "id": "emotional-investment",
-      "preferred": "emotional investment",
-      "aliases": [
-        "emotional investment"
-      ],
-      "count": 2
-    },
-    "perfume-sales-training": {
-      "id": "perfume-sales-training",
-      "preferred": "perfume sales training",
-      "aliases": [
-        "perfume sales training"
-      ],
-      "count": 2
-    },
-    "communication-skills": {
-      "id": "communication-skills",
-      "preferred": "communication skills",
-      "aliases": [
-        "communication skills"
       ],
       "count": 2
     },
@@ -2830,6 +2734,14 @@
       "preferred": "mindset coaching",
       "aliases": [
         "mindset coaching"
+      ],
+      "count": 2
+    },
+    "reciprocity-in-relationships": {
+      "id": "reciprocity-in-relationships",
+      "preferred": "reciprocity in relationships",
+      "aliases": [
+        "reciprocity in relationships"
       ],
       "count": 2
     },
@@ -2994,23 +2906,6 @@
       ],
       "count": 2
     },
-    "six-sigma-green-belt": {
-      "id": "six-sigma-green-belt",
-      "preferred": "Six Sigma Green Belt",
-      "aliases": [
-        "Six Sigma Green Belt",
-        "Six Sigma Green Belt certification"
-      ],
-      "count": 2
-    },
-    "dedication": {
-      "id": "dedication",
-      "preferred": "dedication",
-      "aliases": [
-        "dedication"
-      ],
-      "count": 1
-    },
     "friendship-and-connection": {
       "id": "friendship-and-connection",
       "preferred": "friendship and connection",
@@ -3080,14 +2975,6 @@
       "preferred": "sushi dining experience",
       "aliases": [
         "sushi dining experience"
-      ],
-      "count": 1
-    },
-    "helping-others": {
-      "id": "helping-others",
-      "preferred": "helping others",
-      "aliases": [
-        "helping others"
       ],
       "count": 1
     },
@@ -3179,14 +3066,6 @@
       ],
       "count": 1
     },
-    "islamic-nasheed-and-praise": {
-      "id": "islamic-nasheed-and-praise",
-      "preferred": "Islamic Nasheed and Praise",
-      "aliases": [
-        "Islamic Nasheed and Praise"
-      ],
-      "count": 1
-    },
     "inner-peace-and-purpose": {
       "id": "inner-peace-and-purpose",
       "preferred": "inner peace and purpose",
@@ -3208,14 +3087,6 @@
       "preferred": "wealth mindset",
       "aliases": [
         "wealth mindset"
-      ],
-      "count": 1
-    },
-    "revision-history-chrome-extension": {
-      "id": "revision-history-chrome-extension",
-      "preferred": "Revision History Chrome Extension",
-      "aliases": [
-        "Revision History Chrome Extension"
       ],
       "count": 1
     },
@@ -3371,14 +3242,6 @@
       ],
       "count": 1
     },
-    "trust-and-relationships": {
-      "id": "trust-and-relationships",
-      "preferred": "trust and relationships",
-      "aliases": [
-        "trust and relationships"
-      ],
-      "count": 1
-    },
     "property-views": {
       "id": "property-views",
       "preferred": "property views",
@@ -3424,14 +3287,6 @@
       "preferred": "self-determination",
       "aliases": [
         "self-determination"
-      ],
-      "count": 1
-    },
-    "trust-in-allah": {
-      "id": "trust-in-allah",
-      "preferred": "trust in Allah",
-      "aliases": [
-        "trust in Allah"
       ],
       "count": 1
     },
@@ -3483,27 +3338,11 @@
       ],
       "count": 1
     },
-    "sales-conversions": {
-      "id": "sales-conversions",
-      "preferred": "sales conversions",
-      "aliases": [
-        "sales conversions"
-      ],
-      "count": 1
-    },
     "spiritual-healing": {
       "id": "spiritual-healing",
       "preferred": "spiritual healing",
       "aliases": [
         "spiritual healing"
-      ],
-      "count": 1
-    },
-    "luxury-retail-sales": {
-      "id": "luxury-retail-sales",
-      "preferred": "luxury retail sales",
-      "aliases": [
-        "luxury retail sales"
       ],
       "count": 1
     },
@@ -3707,38 +3546,6 @@
       ],
       "count": 1
     },
-    "employee-disengagement": {
-      "id": "employee-disengagement",
-      "preferred": "employee disengagement",
-      "aliases": [
-        "employee disengagement"
-      ],
-      "count": 1
-    },
-    "workplace-motivation": {
-      "id": "workplace-motivation",
-      "preferred": "workplace motivation",
-      "aliases": [
-        "workplace motivation"
-      ],
-      "count": 1
-    },
-    "ai-in-sales": {
-      "id": "ai-in-sales",
-      "preferred": "AI in sales",
-      "aliases": [
-        "AI in sales"
-      ],
-      "count": 1
-    },
-    "relationship-building": {
-      "id": "relationship-building",
-      "preferred": "relationship building",
-      "aliases": [
-        "relationship building"
-      ],
-      "count": 1
-    },
     "gisec-global-cybersecurity-conference": {
       "id": "gisec-global-cybersecurity-conference",
       "preferred": "GISEC Global cybersecurity conference",
@@ -3760,22 +3567,6 @@
       "preferred": "selling certainty",
       "aliases": [
         "selling certainty"
-      ],
-      "count": 1
-    },
-    "sales-ethics": {
-      "id": "sales-ethics",
-      "preferred": "sales ethics",
-      "aliases": [
-        "sales ethics"
-      ],
-      "count": 1
-    },
-    "closing-techniques": {
-      "id": "closing-techniques",
-      "preferred": "closing techniques",
-      "aliases": [
-        "closing techniques"
       ],
       "count": 1
     },
@@ -4691,6 +4482,14 @@
       ],
       "count": 1
     },
+    "six-sigma-green-belt": {
+      "id": "six-sigma-green-belt",
+      "preferred": "Six Sigma Green Belt",
+      "aliases": [
+        "Six Sigma Green Belt"
+      ],
+      "count": 1
+    },
     "personal-growth-and-relationships": {
       "id": "personal-growth-and-relationships",
       "preferred": "personal growth and relationships",
@@ -4723,11 +4522,27 @@
       ],
       "count": 1
     },
+    "communication-skills": {
+      "id": "communication-skills",
+      "preferred": "communication skills",
+      "aliases": [
+        "communication skills"
+      ],
+      "count": 1
+    },
     "leadership-communication": {
       "id": "leadership-communication",
       "preferred": "leadership communication",
       "aliases": [
         "leadership communication"
+      ],
+      "count": 1
+    },
+    "six-sigma-green-belt-certification": {
+      "id": "six-sigma-green-belt-certification",
+      "preferred": "Six Sigma Green Belt certification",
+      "aliases": [
+        "Six Sigma Green Belt certification"
       ],
       "count": 1
     },
@@ -5107,6 +4922,14 @@
       ],
       "count": 1
     },
+    "emotional-investment": {
+      "id": "emotional-investment",
+      "preferred": "emotional investment",
+      "aliases": [
+        "emotional investment"
+      ],
+      "count": 1
+    },
     "republic-day": {
       "id": "republic-day",
       "preferred": "Republic Day",
@@ -5168,6 +4991,14 @@
       "preferred": "relationships and boundaries",
       "aliases": [
         "relationships and boundaries"
+      ],
+      "count": 1
+    },
+    "perfume-sales-training": {
+      "id": "perfume-sales-training",
+      "preferred": "perfume sales training",
+      "aliases": [
+        "perfume sales training"
       ],
       "count": 1
     },
