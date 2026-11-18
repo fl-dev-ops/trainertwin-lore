@@ -6,7 +6,7 @@
       "aliases": [
         "sales coaching"
       ],
-      "count": 23
+      "count": 24
     },
     "sales-training": {
       "id": "sales-training",
@@ -16,19 +16,21 @@
       ],
       "count": 17
     },
+    "course-description": {
+      "id": "course-description",
+      "preferred": "course description",
+      "aliases": [
+        "course description",
+        "course introduction",
+        "course overview"
+      ],
+      "count": 11
+    },
     "keynote-speaking": {
       "id": "keynote-speaking",
       "preferred": "keynote speaking",
       "aliases": [
         "keynote speaking"
-      ],
-      "count": 8
-    },
-    "course-description": {
-      "id": "course-description",
-      "preferred": "course description",
-      "aliases": [
-        "course description"
       ],
       "count": 8
     },
@@ -88,14 +90,6 @@
       ],
       "count": 2
     },
-    "course-overview": {
-      "id": "course-overview",
-      "preferred": "course overview",
-      "aliases": [
-        "course overview"
-      ],
-      "count": 2
-    },
     "sales-training-course": {
       "id": "sales-training-course",
       "preferred": "sales training course",
@@ -109,6 +103,15 @@
       "preferred": "negotiation preparation",
       "aliases": [
         "negotiation preparation"
+      ],
+      "count": 2
+    },
+    "podcast-outro": {
+      "id": "podcast-outro",
+      "preferred": "podcast outro",
+      "aliases": [
+        "podcast outro",
+        "podcast wrap-up"
       ],
       "count": 2
     },
@@ -416,14 +419,6 @@
       ],
       "count": 1
     },
-    "course-introduction": {
-      "id": "course-introduction",
-      "preferred": "course introduction",
-      "aliases": [
-        "course introduction"
-      ],
-      "count": 1
-    },
     "sales-course-overview": {
       "id": "sales-course-overview",
       "preferred": "sales course overview",
@@ -597,6 +592,38 @@
       "preferred": "peer performance feedback",
       "aliases": [
         "peer performance feedback"
+      ],
+      "count": 1
+    },
+    "cold-outreach": {
+      "id": "cold-outreach",
+      "preferred": "cold outreach",
+      "aliases": [
+        "cold outreach"
+      ],
+      "count": 1
+    },
+    "personal-reflection": {
+      "id": "personal-reflection",
+      "preferred": "personal reflection",
+      "aliases": [
+        "personal reflection"
+      ],
+      "count": 1
+    },
+    "digital-communication": {
+      "id": "digital-communication",
+      "preferred": "digital communication",
+      "aliases": [
+        "digital communication"
+      ],
+      "count": 1
+    },
+    "rapid-fire-interview": {
+      "id": "rapid-fire-interview",
+      "preferred": "rapid-fire interview",
+      "aliases": [
+        "rapid-fire interview"
       ],
       "count": 1
     }
@@ -1179,6 +1206,54 @@
         "team member going through personal trauma or divorce"
       ],
       "count": 1
+    },
+    "technological-disruption": {
+      "id": "technological-disruption",
+      "preferred": "technological disruption",
+      "aliases": [
+        "technological disruption"
+      ],
+      "count": 1
+    },
+    "reflecting-on-history": {
+      "id": "reflecting-on-history",
+      "preferred": "reflecting on history",
+      "aliases": [
+        "reflecting on history"
+      ],
+      "count": 1
+    },
+    "analyzing-customer-purchasing-behavior": {
+      "id": "analyzing-customer-purchasing-behavior",
+      "preferred": "analyzing customer purchasing behavior",
+      "aliases": [
+        "analyzing customer purchasing behavior"
+      ],
+      "count": 1
+    },
+    "adapting-to-virtual-environments": {
+      "id": "adapting-to-virtual-environments",
+      "preferred": "adapting to virtual environments",
+      "aliases": [
+        "adapting to virtual environments"
+      ],
+      "count": 1
+    },
+    "evaluating-future-sales-innovations": {
+      "id": "evaluating-future-sales-innovations",
+      "preferred": "evaluating future sales innovations",
+      "aliases": [
+        "evaluating future sales innovations"
+      ],
+      "count": 1
+    },
+    "navigating-complex-b2b-buying-groups": {
+      "id": "navigating-complex-b2b-buying-groups",
+      "preferred": "navigating complex B2B buying groups",
+      "aliases": [
+        "navigating complex B2B buying groups"
+      ],
+      "count": 1
     }
   },
   "topic": {
@@ -1188,6 +1263,14 @@
       "aliases": [
         "prospecting"
       ],
+      "count": 7
+    },
+    "social-selling": {
+      "id": "social-selling",
+      "preferred": "social selling",
+      "aliases": [
+        "social selling"
+      ],
       "count": 6
     },
     "personal-branding": {
@@ -1195,14 +1278,6 @@
       "preferred": "personal branding",
       "aliases": [
         "personal branding"
-      ],
-      "count": 5
-    },
-    "social-selling": {
-      "id": "social-selling",
-      "preferred": "social selling",
-      "aliases": [
-        "social selling"
       ],
       "count": 5
     },
@@ -1221,6 +1296,14 @@
         "pipeline management"
       ],
       "count": 4
+    },
+    "sales-leadership": {
+      "id": "sales-leadership",
+      "preferred": "sales leadership",
+      "aliases": [
+        "sales leadership"
+      ],
+      "count": 3
     },
     "sales-management": {
       "id": "sales-management",
@@ -1251,6 +1334,14 @@
       "preferred": "sales forecasting",
       "aliases": [
         "sales forecasting"
+      ],
+      "count": 3
+    },
+    "sales-history": {
+      "id": "sales-history",
+      "preferred": "sales history",
+      "aliases": [
+        "sales history"
       ],
       "count": 3
     },
@@ -1302,14 +1393,6 @@
       "preferred": "thought leadership",
       "aliases": [
         "thought leadership"
-      ],
-      "count": 2
-    },
-    "sales-leadership": {
-      "id": "sales-leadership",
-      "preferred": "sales leadership",
-      "aliases": [
-        "sales leadership"
       ],
       "count": 2
     },
@@ -1422,6 +1505,14 @@
       "preferred": "meeting facilitation",
       "aliases": [
         "meeting facilitation"
+      ],
+      "count": 2
+    },
+    "sales-fundamentals": {
+      "id": "sales-fundamentals",
+      "preferred": "sales fundamentals",
+      "aliases": [
+        "sales fundamentals"
       ],
       "count": 2
     },
@@ -2829,14 +2920,6 @@
       ],
       "count": 1
     },
-    "sales-fundamentals": {
-      "id": "sales-fundamentals",
-      "preferred": "sales fundamentals",
-      "aliases": [
-        "sales fundamentals"
-      ],
-      "count": 1
-    },
     "buying-committee-analysis": {
       "id": "buying-committee-analysis",
       "preferred": "buying committee analysis",
@@ -3626,6 +3709,166 @@
       "preferred": "adaptability and career longevity",
       "aliases": [
         "adaptability and career longevity"
+      ],
+      "count": 1
+    },
+    "skill-development": {
+      "id": "skill-development",
+      "preferred": "skill development",
+      "aliases": [
+        "skill development"
+      ],
+      "count": 1
+    },
+    "career-progression": {
+      "id": "career-progression",
+      "preferred": "career progression",
+      "aliases": [
+        "career progression"
+      ],
+      "count": 1
+    },
+    "sales-communication": {
+      "id": "sales-communication",
+      "preferred": "sales communication",
+      "aliases": [
+        "sales communication"
+      ],
+      "count": 1
+    },
+    "remote-selling": {
+      "id": "remote-selling",
+      "preferred": "remote selling",
+      "aliases": [
+        "remote selling"
+      ],
+      "count": 1
+    },
+    "sales-technology": {
+      "id": "sales-technology",
+      "preferred": "sales technology",
+      "aliases": [
+        "sales technology"
+      ],
+      "count": 1
+    },
+    "sales-process-optimization": {
+      "id": "sales-process-optimization",
+      "preferred": "sales process optimization",
+      "aliases": [
+        "sales process optimization"
+      ],
+      "count": 1
+    },
+    "sales-effectiveness": {
+      "id": "sales-effectiveness",
+      "preferred": "sales effectiveness",
+      "aliases": [
+        "sales effectiveness"
+      ],
+      "count": 1
+    },
+    "human-connection": {
+      "id": "human-connection",
+      "preferred": "human connection",
+      "aliases": [
+        "human connection"
+      ],
+      "count": 1
+    },
+    "leadership-humility": {
+      "id": "leadership-humility",
+      "preferred": "leadership humility",
+      "aliases": [
+        "leadership humility"
+      ],
+      "count": 1
+    },
+    "complex-sales": {
+      "id": "complex-sales",
+      "preferred": "complex sales",
+      "aliases": [
+        "complex sales"
+      ],
+      "count": 1
+    },
+    "buyer-journey": {
+      "id": "buyer-journey",
+      "preferred": "buyer journey",
+      "aliases": [
+        "buyer journey"
+      ],
+      "count": 1
+    },
+    "digital-sales-strategy": {
+      "id": "digital-sales-strategy",
+      "preferred": "digital sales strategy",
+      "aliases": [
+        "digital sales strategy"
+      ],
+      "count": 1
+    },
+    "virtual-selling-technology": {
+      "id": "virtual-selling-technology",
+      "preferred": "virtual selling technology",
+      "aliases": [
+        "virtual selling technology"
+      ],
+      "count": 1
+    },
+    "social-marketing": {
+      "id": "social-marketing",
+      "preferred": "social marketing",
+      "aliases": [
+        "social marketing"
+      ],
+      "count": 1
+    },
+    "remote-client-engagement": {
+      "id": "remote-client-engagement",
+      "preferred": "remote client engagement",
+      "aliases": [
+        "remote client engagement"
+      ],
+      "count": 1
+    },
+    "sales-and-marketing-alignment": {
+      "id": "sales-and-marketing-alignment",
+      "preferred": "sales and marketing alignment",
+      "aliases": [
+        "sales and marketing alignment"
+      ],
+      "count": 1
+    },
+    "entrepreneurship": {
+      "id": "entrepreneurship",
+      "preferred": "entrepreneurship",
+      "aliases": [
+        "entrepreneurship"
+      ],
+      "count": 1
+    },
+    "innovation": {
+      "id": "innovation",
+      "preferred": "innovation",
+      "aliases": [
+        "innovation"
+      ],
+      "count": 1
+    },
+    "leadership-challenges": {
+      "id": "leadership-challenges",
+      "preferred": "leadership challenges",
+      "aliases": [
+        "leadership challenges"
+      ],
+      "count": 1
+    },
+    "remote-sales-training": {
+      "id": "remote-sales-training",
+      "preferred": "remote sales training",
+      "aliases": [
+        "remote sales training"
       ],
       "count": 1
     }

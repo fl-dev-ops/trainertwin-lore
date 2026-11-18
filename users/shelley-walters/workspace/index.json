@@ -884,6 +884,16 @@
       "path": "youtube/video/2026-08-25-empathy-accountability-and-commercial-leadership-shifthappen-BAJYW9i2wro.md",
       "sha256": "ed81a360ad9fec99519f97f3652ae289c18ddb4aa814bfceb795781d714442c9",
       "basis": "sections"
+    },
+    "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a": {
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "sha256": "1f664ddc455354101d977c2a2774cba15ec6ab070e1876ac537c50814dbd113b",
+      "basis": "sections"
+    },
+    "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586": {
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "sha256": "7a30f54164be22aea827da8ab10c9349960f745ee73847fc9386c4a679461d91",
+      "basis": "sections"
     }
   },
   "items": [
@@ -7424,6 +7434,511 @@
       "source_id": "youtube-video-2026-08-25-empathy-accountability-and-commercial-leadership-shifthappen-ab871fa299",
       "path": "youtube/video/2026-08-25-empathy-accountability-and-commercial-leadership-shifthappen-BAJYW9i2wro.md",
       "prev": "youtube-video-2026-08-25-empathy-accountability-and-commercial-leadership-shifthappen-ab871fa299:0953-0964",
+      "next": null
+    },
+    {
+      "title": "Historical Origins and Value of Sales",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales history"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "Hello and welcome to Speaking Business Podcast with me your host Maria Franzoni Lovely to see you again So this podcast is sponsored by speakingbusinessacademycom the go to resource for speakers wanting to grow a profitable speaking business Its my pleasure to tell you about this weeks show My guest believes in the ability of the individual in people being able to surprise themselves and those around them and this is what she aims to unlock with everything that she does Raised in a difficult env",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0016-0027",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": null,
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0028-0039"
+    },
+    {
+      "title": "Balancing the Art and Science of Sales Leadership",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales leadership"
+        },
+        {
+          "facet": "topic",
+          "label": "skill development"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "I remember now I remember what it was now Ill let you carry on Yeah you remember right So you know the world has changed a lot And if we have any doubt about that remember there was no birth control and no automation So the chances were youd have have 11 children and no washing machine That sounds like a very unpleasant situation if you ask me And then add to that the fact that your husband or your your elder sons or brothers had gone off to war and many of them had perished and you didnt have t",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0028-0039",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0016-0027",
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0040-0051"
+    },
+    {
+      "title": "Broadening Skills and Sales as a Path to Leadership",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "career progression"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 51
+      },
+      "quote": "I like that But if I hadnt learned how to relate to and resonate with people in HR and learning and development as an example and I had purely gravitated to people Im the most comfortable with wed never have been able to grow the business the way that we have And I think thats a tough thing for people to do organizationally and individually Thats interesting Thats really interesting I love the fact that you say its an art and a science And Ive seen some incredible incredible salespeople who just",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0040-0051",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0028-0039",
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0052-0063"
+    },
+    {
+      "title": "Sales as an Entrepreneurial Foundation and Full-Contact Engagement",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales fundamentals"
+        }
+      ],
+      "span": {
+        "start_line": 52,
+        "end_line": 63
+      },
+      "quote": "I didnt know that 60 percent And actually you know there are 2 there are at least 2 tracks to CEO And the but the one that is well worn is the finance track Yes But many people dont know not only the history of sales and the importance of sales but the fact that sales can be an incredible career accelerator for you particularly if you know youre not somebody whos strong in finance or didnt have the potential advantage because you live and die by your number Maria And and this goes back to the co",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0052-0063",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0040-0051",
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0064-0075"
+    },
+    {
+      "title": "Synchronous vs Asynchronous Communication and the Evolution of Selling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales communication"
+        },
+        {
+          "facet": "topic",
+          "label": "remote selling"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 75
+      },
+      "quote": "Im curious Yes So um for anybody whos listening most of us understand what synchronous and asynchronous means but perhaps we dont know what it means in the context of sales and communication So I dont want to leave anyone let me just explain it for a moment So synchronous is whats happening right now So Maria and I are talking in real real time I talk to you and you talk to me Now I could talk to you as we do many times when were running virtual conferences and then the response comes through ch",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0064-0075",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0052-0063",
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0076-0087"
+    },
+    {
+      "title": "The Origin of the Term Snake Oil Salesman",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales history"
+        }
+      ],
+      "span": {
+        "start_line": 76,
+        "end_line": 87
+      },
+      "quote": "No I missed that Thats terrible Would you like to know where the term snake oil salesman comes from Or do you know I dont know But was it somebody selling snake oil Perhaps It wasnt So snake oil its a I love history So I love these kinds of stories Where does this come from You know whats the origin of this In the also in the late 1800s when America was booming and they were building the railway lines and so on and so forth they brought in a lot of immigrants from China And these immigrants came",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0076-0087",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0064-0075",
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0088-0099"
+    },
+    {
+      "title": "Adapting to Technology to Prevent Sales Obsolescence",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales technology"
+        },
+        {
+          "facet": "situation",
+          "label": "technological disruption"
+        }
+      ],
+      "span": {
+        "start_line": 88,
+        "end_line": 99
+      },
+      "quote": "is it FDA or something FDA yeah So they did an investigation They found out that there was nothing in there It was paraffin and water And he was fined the sum total of 20 But by then he had made himself a fortune By the way he also didnt deny the claims Hed made himself a fortune And today we will call somebody whos selling something that is a fake a snake oil salesman Ah so something okay thats interesting As someone whos a fake okay I like that And its interesting of course buyer beware right ",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0088-0099",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0076-0087",
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0100-0111"
+    },
+    {
+      "title": "Talking to People as the Most Underrated Sales Tool",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "prospecting"
+        },
+        {
+          "facet": "activity",
+          "label": "cold outreach"
+        }
+      ],
+      "span": {
+        "start_line": 100,
+        "end_line": 111
+      },
+      "quote": "Brilliant brilliant brilliant brilliant And on that learning curve I feel that pain because Ive weve been on a learning curve having changed our business and had to learn a lot And the best advice Id give to people is get somebody who is an expert in doing what you need to learn and have them work with you rather than try to do it yourself It just absolutely accelerates everything And that applies to anything you need to learn I think You mentioned tools What would you say is the most underrated",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0100-0111",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0088-0099",
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0112-0123"
+    },
+    {
+      "title": "Leaving the Cave and Optimizing the Sales Pipeline",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales process optimization"
+        }
+      ],
+      "span": {
+        "start_line": 112,
+        "end_line": 123
+      },
+      "quote": "Domestic animals can make a noise Yeah They just bark at the back door if they want it to open Everything just automatically happens for them But for the rest of the animals out in the wild if youre a squirrel and you want to eat you go and forage If youre a lion and you want to eat you go and catch your prey If youre a bird and you want to eat you go and get seed or worms or fruit whatever your your particular flavor is depending on what kind of a bird you are right But us humans if I want to e",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0112-0123",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0100-0111",
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0124-0135"
+    },
+    {
+      "title": "The Three Pillars of Sales Confidence: Clarity, Conviction, and Competency",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales effectiveness"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 124,
+        "end_line": 135
+      },
+      "quote": "Listen its a podcast on its own Its a podcast on its own Why we need to work dont we Ive got a couple more questions for you before I let you go Give me a couple of attributes skills actions what it is that sets real seasoned professionals apart from the rest The sales professionals Im talking about here Yes So Maria its a broad question but Im gonna answer it this way So we have a framework that we use which essentially talks about 3 components that lead to confidence true confidence Now typica",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0124-0135",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0112-0123",
+      "next": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0136-0140"
+    },
+    {
+      "title": "Closing Remarks and Reflections",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "podcast outro"
+        }
+      ],
+      "span": {
+        "start_line": 136,
+        "end_line": 140
+      },
+      "quote": "Fantastic Fantastic Shelley my brain is fried Ive got so much so many notes from this session Youve literally fried my brain Im gonna have to go and have a lie down I cant thank you enough for the value that youve given I hope youve enjoyed yourself Thank you so much It has really been fun and anytime Its easy to talk about something that Im so passionate about So thank you so much for having me You are so passionate Youre so passionate and youve given us such great value Thank you so much And t",
+      "item_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0136-0140",
+      "source_id": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a",
+      "path": "youtube-guests/video/2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-walters-speakingbusiness-shelley-walters.md",
+      "prev": "youtube-guests-video-2022-06-14-you-don-t-make-a-sale-you-build-a-sale-with-shelley-w-a4f494dd0a:0124-0135",
+      "next": null
+    },
+    {
+      "title": "Visiting the Nelson Mandela Capture Site and Reflections on Humanity",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "human connection"
+        },
+        {
+          "facet": "activity",
+          "label": "personal reflection"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "Its time for Future Fit Fridays a community of entrepreneurially minded leaders who want to get a bite sized taste of some of the key trends themes and topics shaping the future of work Being future fit is no longer a nice to have its now a priority And I Zanele Njapha the Unlearning Lady and your host want to help you get there So now the question is are you ready Lets do this Hello there everyone Welcome to this episode of Future Fit Fridays And today were talking about the future of sales and",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0016-0027",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": null,
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0028-0039"
+    },
+    {
+      "title": "Humility, Sincere Apologies, and Setting up the Future of Sales",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "leadership humility"
+        },
+        {
+          "facet": "situation",
+          "label": "reflecting on history"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "Hmm And you know it wasnt a political Im sorry Im sure theres people who are listening to this who may disagree with me It was my experience It was what I felt that actually this man and his family are owed a deep and many other families too And in the Nelson Mandela Museum theres many other stories which are just mind blowing You cant believe the things that you know that happened Or when we hear them we think thats an isolated case But then when you read those stories you see its just everywhe",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0028-0039",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0016-0027",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0040-0051"
+    },
+    {
+      "title": "The History of Sales and Differentiating Simple vs. Complex Selling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales history"
+        },
+        {
+          "facet": "topic",
+          "label": "complex sales"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 51
+      },
+      "quote": "Goodness I dont know Whatever the oldest profession in the world is so some of the listeners will have an idea of something illicit right So we talked about the oldest profession in the world as being of an illicit activity But even the oldest profession in the world relies on the ability to sell Some of the oldest documented contracts is to document the transfer of land And and sales had its roots largely in farming And what happened was in as a farmer if you wanted to sell your wares away from",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0040-0051",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0028-0039",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0052-0063"
+    },
+    {
+      "title": "Transitioning from the Sales Process to the Buying Process",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "buyer journey"
+        },
+        {
+          "facet": "situation",
+          "label": "analyzing customer purchasing behavior"
+        }
+      ],
+      "span": {
+        "start_line": 52,
+        "end_line": 63
+      },
+      "quote": "Yeah I mean youve got to do an in depth analysis of who your buyers are how they buy and from there identify the gaps in your current process so that you can meet them there Can I give you an example of what I mean Yeah please Shelley If you were to Ill use a simple sale example But if you go onto a website youre looking at a vehicle Yeah And you communicate with the salesperson through the chat And you schedule an appointment Yeah Lets say that when you submitted the chat you had to submit you ",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0052-0063",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0040-0051",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0064-0075"
+    },
+    {
+      "title": "Adopting a Digital-First Mindset Rather Than Treating Digital as Plan B",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "digital sales strategy"
+        },
+        {
+          "facet": "situation",
+          "label": "adapting to virtual environments"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 75
+      },
+      "quote": "Yeah You expect that when you walk into the dealership that information is on hand Yeah If you are dealing with a medical aid and you are waiting for some authorization on something and you then go to the website you should be able to then on your profile Im not talking about obviously the public website domain but on your profile Yeah you would have a seamless integration between the conversation youve had and whats made available to you through digital channels Yep And thats a significant shif",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0064-0075",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0052-0063",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0076-0087"
+    },
+    {
+      "title": "Emerging Technologies like Microsoft Mesh and Their Impact on Selling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "virtual selling technology"
+        },
+        {
+          "facet": "situation",
+          "label": "evaluating future sales innovations"
+        }
+      ],
+      "span": {
+        "start_line": 76,
+        "end_line": 87
+      },
+      "quote": "Yes I have But Ive never quite experienced it I havent either But all I can think about is so for those who are listening Microsoft Mesh and maybe you can include a link in the show notes or something Microsoft Mesh is a Microsoft product that allows people from different geographical locations to feel like they are in the same geographical location In other words if if Zanele and I went into a virtual car showroom we could virtually walk around the car and experience that car together in real t",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0076-0087",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0064-0075",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0088-0099"
+    },
+    {
+      "title": "Differentiating Social Selling from Social Marketing",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "social selling"
+        },
+        {
+          "facet": "topic",
+          "label": "social marketing"
+        }
+      ],
+      "span": {
+        "start_line": 88,
+        "end_line": 99
+      },
+      "quote": "That sounds exciting Shelley I think that it really is testament to what you said that as innovation whether its technological innovation or other forms of innovation happen then selling just sort of morphs with that and goes with that So its the consistent consistent shifts are really exciting Do you think that that has anything to do and this is now a buzzword that Ive been hearing quite a lot in your space this idea of social selling Does that have anything to do with what youve been speaking",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0088-0099",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0076-0087",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0100-0111"
+    },
+    {
+      "title": "Leveraging Digital Channels to Replace Casual In-Person Touchpoints",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "remote client engagement"
+        },
+        {
+          "facet": "activity",
+          "label": "digital communication"
+        }
+      ],
+      "span": {
+        "start_line": 100,
+        "end_line": 111
+      },
+      "quote": "Yeah you would go to your customer and youd arrive 15 minutes early theyd fetch you in reception you would have a chat walk to the boardroom They might offer you tea coffee youd wait a few moments for other people to come in right Yeah Now you dont have those opportunities So the engagement that you have with your customer outside of the online meeting takes on an even greater importance importance How you use WhatsApp when you send a LinkedIn message how you engage with your customers content w",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0100-0111",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0088-0099",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0112-0123"
+    },
+    {
+      "title": "Aligning Sales Leaders with Marketing and Web Channels for B2B Buyers",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales and marketing alignment"
+        },
+        {
+          "facet": "situation",
+          "label": "navigating complex B2B buying groups"
+        }
+      ],
+      "span": {
+        "start_line": 112,
+        "end_line": 123
+      },
+      "quote": "Wow I love that you made that definition Ive never heard anyone just really stress that And it helps to clarify even as we start to think about selling and sales going forward because we dont often make that distinction Thats really powerful Thanks Shelley So to wrap us up then what can leaders and entrepreneurs that are listening to this episode start to do to prepare for this future where sales is hand in hand changing along with the consistently changing business environment and the digital e",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0112-0123",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0100-0111",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0124-0135"
+    },
+    {
+      "title": "Sentence Completion: Perspectives on Change and the Origin of Entrepreneurship",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "entrepreneurship"
+        },
+        {
+          "facet": "activity",
+          "label": "rapid-fire interview"
+        }
+      ],
+      "span": {
+        "start_line": 124,
+        "end_line": 135
+      },
+      "quote": "Fantastic Fantastic I think the ball is definitely in their court And if youre a leader or youre an entrepreneur that really wants to see the growth from really leveraging your sales capacity as an organization the ball is in your court I like that Shelley Thanks so much Okay so were now unfortunately the time just goes so quickly I dont know how that happens But were now at the final part of our interview So Im going to ask you please Shelley to complete the following sentences So you can compl",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0124-0135",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0112-0123",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0136-0147"
+    },
+    {
+      "title": "Sentence Completion: The Difficulty of Leadership and Sources of Innovation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "innovation"
+        },
+        {
+          "facet": "topic",
+          "label": "leadership challenges"
+        }
+      ],
+      "span": {
+        "start_line": 136,
+        "end_line": 147
+      },
+      "quote": "Okay Im really Im really liking the way youre answering these All right third one Leadership is not easy Yeah it is not easy Thats my short answer Its also my long answer Yeah and you hit the nail straight on the head Innovation happens when theres a theres a proverb that says necessity is the mother of invention And I think when a need emerges whether that is because as in our example the buyers change Yeah So now theres a need and we have to innovate If I think about some of the products that ",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0136-0147",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0124-0135",
+      "next": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0148-0156"
+    },
+    {
+      "title": "Outlook on the Future and Resources to Connect with Shelley Walters",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "remote sales training"
+        },
+        {
+          "facet": "activity",
+          "label": "podcast wrap-up"
+        }
+      ],
+      "span": {
+        "start_line": 148,
+        "end_line": 156
+      },
+      "quote": "Love it And the last one the future Is exciting Very exciting Thats great Thanks so much Shelley So how do people get a hold of you and possibly even browse through the Remote Selling School and see what they could possibly Collaborate with you on Great So if you want to go and have a look at the Remote Selling School and the offering there head over to The Sales Counsel Thats the counsel is spelled C O U N S E L as in to give sage advice The Sales Counsel And head over to the tab that says what",
+      "item_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0148-0156",
+      "source_id": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586",
+      "path": "youtube-guests/video/2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-with-shell-futurefitfridays-23-shelley-walters.md",
+      "prev": "youtube-guests-video-2021-03-18-future-fit-fridays-23-the-future-of-sales-selling-wit-c0749db586:0136-0147",
       "next": null
     }
   ]
