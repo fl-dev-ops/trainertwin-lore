@@ -1,0 +1,14 @@
+---
+id: '7359905219863818240'
+date: '2025-08-09T11:15:44.842Z'
+url: https://www.linkedin.com/posts/shehzadmukadam_aigpe-certified-six-sigma-green-belt-activity-7359905219863818240-BZga
+likes: 7
+comments: 1
+article:
+  title: AIGPE™ Certified Six Sigma Green Belt
+  subtitle: digitalcredentials.aigproexcellence.com
+  link: https://digitalcredentials.aigproexcellence.com/en/verify/56760549858904
+---
+
+Check out my AIGPE™ Certified Six Sigma Green Belt digital badge issued by Advanced Innovation Group Pro Excellence!
+#digitalbadge #digitalcertificate #digitalcredentials #analysisofvariance(anova) #regressionanalysis #stakeholderanalysis #brainstorming #benchmarking #teammanagement #valuestreammapping #projectcharter #measurementsystemsanalysis #failuremodeandeffectsanalysis #paretoanalysis #statisticalprocesscontrols #standardoperatingprocedure #processcapability #ctqtrees(critical-to-qualitytrees) #runchart #sipocprocess #racimatrix #boxplots #chi-squaredtests #justintimemethodology #gemba #voiceofcustomer #affinitydiagram #kanoanalysis #armi #elevatorspeech #costofpoorquality(copq) #8wastes #takttime #xymatrix #datacollectionplan #operationaldefinition #normalitytest #yield #fishbonediagram #5whyanalysis #scatterplot #control-impactmatrix #1-samplettest #2-samplettest #pairedttest #testofequalvariances #mann-whitneytest #moodsmediantest #correlation #1-proportion #2-proportion #brainwriting #assumptionbusting #analogytechnique #channellingtechnique #anti-solutiontechnique #5s #heijunka #genericpull #jidoka #just-in-time #pilotplan #poka-yoke #implementationplanning #cost-benefitanalysis #visualmanagementboards(vmb) #i-mrchart #x-barrchart #x-barschart #bestpracticetransfer #postimplementationreview  #sertifier #analysisofvarianceanova #regressionanalysis #stakeholderanalysis #brainstorming #benchmarking #teammanagement #valuestreammapping #projectcharter #measurementsystemsanalysis #failuremodeandeffectsanalysis #paretoanalysis #statisticalprocesscontrols #standardoperatingprocedure #processcapability #ctqtreescriticaltoqualitytrees #runchart #sipocprocess #racimatrix #boxplots #chisquaredtests #justintimemethodology #gemba #voiceofcustomer #affinitydiagram #kanoanalysis #armi #elevatorspeech #costofpoorqualitycopq #8wastes #takttime #xymatrix #datacollectionplan #operationaldefinition #normalitytest #yield #fishbonediagram #5whyanalysis #scatterplot #controlimpactmatrix #1samplettest #2samplettest #pairedttest #testofequalvariances #mannwhitneytest #moodsmediantest #correlation #1proportion #2proportion #brainwriting #assumptionbusting #analogytechnique #channellingtechnique #antisolutiontechnique #5s #heijunka #genericpull #jidoka #justintime #pilotplan #pokayoke #implementationplanning #costbenefitanalysis #visualmanagementboardsvmb #imrchart #xbarrchart #xbarschart #bestpracticetransfer #postimplementationreview
