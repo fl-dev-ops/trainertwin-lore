@@ -1,5 +1,5 @@
 channel_url: users/olga/data/loom/loom.yaml
-total_videos: 57
+total_videos: 68
 videos:
 - id: 5912cd3e872a4a1f890a56983f4c9583
   url: https://www.loom.com/share/5912cd3e872a4a1f890a56983f4c9583
@@ -738,3 +738,145 @@ videos:
   speaker_count: 1
   speakers:
     speaker_1: null
+- id: 92a85a78d7144c489a0ac058636929c1
+  url: https://www.loom.com/share/92a85a78d7144c489a0ac058636929c1
+  title: Session 5. Q&A 17.11.2026
+  upload_date: '2026-11-17'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 6
+  speakers:
+    speaker_1: null
+    speaker_2: null
+    speaker_3: null
+    speaker_4: null
+    speaker_5: null
+    speaker_6: null
+- id: aaa1cfc158fa4ad7abb94d0206bc5540
+  url: https://www.loom.com/share/aaa1cfc158fa4ad7abb94d0206bc5540
+  title: Sales Zoom Part 1
+  upload_date: '2026-11-16'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: ec3a93d79f87496285ecdc94cfeaac3b
+  url: https://www.loom.com/share/ec3a93d79f87496285ecdc94cfeaac3b
+  title: Sales Zoom Call. Part 2
+  upload_date: '2026-11-16'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: e3bf2c4fc15c47f48b3c8bbe040fb92a
+  url: https://www.loom.com/share/e3bf2c4fc15c47f48b3c8bbe040fb92a
+  title: Session 4. 13.11.2026 Role Play
+  upload_date: '2026-11-13'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 5
+  speakers:
+    speaker_1: null
+    speaker_2: null
+    speaker_3: null
+    speaker_4: null
+    speaker_5: null
+- id: 6b6a773da03041c7902c11dc33c3a2dc
+  url: https://www.loom.com/share/6b6a773da03041c7902c11dc33c3a2dc
+  title: Educational Zoom part 2
+  upload_date: '2026-11-12'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: null
+- id: fefaef0fb01f403fac857faa0747dc2c
+  url: https://www.loom.com/share/fefaef0fb01f403fac857faa0747dc2c
+  title: Off-plan Closers (Cut from the session). 06.11.2026 Role play session 1
+  upload_date: '2026-11-12'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 5
+  speakers:
+    speaker_1: null
+    speaker_2: null
+    speaker_3: null
+    speaker_4: null
+    speaker_5: null
+- id: 31adc0513dac4ab783ae73fcce1bd8bb
+  url: https://www.loom.com/share/31adc0513dac4ab783ae73fcce1bd8bb
+  title: Session 3. Q&A 11.11.2026
+  upload_date: '2026-11-11'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 7
+  speakers:
+    speaker_1: null
+    speaker_2: null
+    speaker_3: null
+    speaker_4: null
+    speaker_5: null
+    speaker_6: null
+    speaker_7: null
+- id: 390455e689ab433d97889b94bbe57ec7
+  url: https://www.loom.com/share/390455e689ab433d97889b94bbe57ec7
+  title: First Call Qualification and Objection Scripts
+  upload_date: '2026-11-11'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 6
+  speakers:
+    speaker_1: null
+    speaker_2: null
+    speaker_3: null
+    speaker_4: null
+    speaker_5: null
+    speaker_6: null
+- id: 2cd41bfa022145afa3ad59d0d8738404
+  url: https://www.loom.com/share/2cd41bfa022145afa3ad59d0d8738404
+  title: Off-plan Closers. 06.11.2026 Role play session 1
+  upload_date: '2026-11-06'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 7
+  speakers:
+    speaker_1: null
+    speaker_2: null
+    speaker_3: null
+    speaker_4: null
+    speaker_5: null
+    speaker_6: null
+    speaker_7: null
+- id: 777b5664cae94f17b0c25ad20b93c4ea
+  url: https://www.loom.com/share/777b5664cae94f17b0c25ad20b93c4ea
+  title: 30 min session Olga & Tyler. 05.10.2026
+  upload_date: '2026-10-05'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 2
+  speakers:
+    speaker_1: null
+    speaker_2: null
+- id: d3fda0f0cc594a2b866b5cd2c5252e83
+  url: https://www.loom.com/share/d3fda0f0cc594a2b866b5cd2c5252e83
+  title: Strategy session №3  Olga & Liza 29.09.2026
+  upload_date: '2026-09-29'
+  description: ''
+  author: Liveit Up
+  model: universal-3-5-pro
+  speaker_count: 2
+  speakers:
+    speaker_1: null
+    speaker_2: null
