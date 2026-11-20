@@ -34,8 +34,8 @@ model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_1: 'Loyiso Jiyana'
-  speaker_2: 'Shelley Walters'
+  speaker_1: 'Shelley Walters'
+  speaker_2: 'Loyiso Jiyana'
 ---
 
 speaker_1: Welcome welcome welcome It is such a pleasure to have you here today Thank you very much for making the time to to have this very important conversation
