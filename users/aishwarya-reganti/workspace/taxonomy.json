@@ -1,0 +1,6324 @@
+{
+  "activity": {
+    "interview-preparation": {
+      "id": "interview-preparation",
+      "preferred": "interview preparation",
+      "aliases": [
+        "interview preparation"
+      ],
+      "count": 7
+    },
+    "ai-hiring": {
+      "id": "ai-hiring",
+      "preferred": "AI hiring",
+      "aliases": [
+        "AI hiring"
+      ],
+      "count": 6
+    },
+    "portfolio-projects": {
+      "id": "portfolio-projects",
+      "preferred": "portfolio projects",
+      "aliases": [
+        "portfolio projects"
+      ],
+      "count": 6
+    },
+    "event-announcement": {
+      "id": "event-announcement",
+      "preferred": "event announcement",
+      "aliases": [
+        "event announcement"
+      ],
+      "count": 5
+    },
+    "reverse-engineering": {
+      "id": "reverse-engineering",
+      "preferred": "reverse engineering",
+      "aliases": [
+        "reverse engineering"
+      ],
+      "count": 5
+    },
+    "coding-walkthrough": {
+      "id": "coding-walkthrough",
+      "preferred": "coding walkthrough",
+      "aliases": [
+        "coding walkthrough"
+      ],
+      "count": 5
+    },
+    "partnership-announcement": {
+      "id": "partnership-announcement",
+      "preferred": "partnership announcement",
+      "aliases": [
+        "partner announcement",
+        "partnership announcement"
+      ],
+      "count": 5
+    },
+    "online-course": {
+      "id": "online-course",
+      "preferred": "online course",
+      "aliases": [
+        "online course"
+      ],
+      "count": 4
+    },
+    "setup": {
+      "id": "setup",
+      "preferred": "setup",
+      "aliases": [
+        "setup"
+      ],
+      "count": 4
+    },
+    "course-promotion": {
+      "id": "course-promotion",
+      "preferred": "course promotion",
+      "aliases": [
+        "course promotion"
+      ],
+      "count": 3
+    },
+    "podcast-interview": {
+      "id": "podcast-interview",
+      "preferred": "podcast interview",
+      "aliases": [
+        "podcast interview"
+      ],
+      "count": 3
+    },
+    "product-demo": {
+      "id": "product-demo",
+      "preferred": "product demo",
+      "aliases": [
+        "product demo"
+      ],
+      "count": 3
+    },
+    "course-recommendation": {
+      "id": "course-recommendation",
+      "preferred": "course recommendation",
+      "aliases": [
+        "course recommendation"
+      ],
+      "count": 2
+    },
+    "teaching": {
+      "id": "teaching",
+      "preferred": "teaching",
+      "aliases": [
+        "teaching"
+      ],
+      "count": 2
+    },
+    "community-meetup": {
+      "id": "community-meetup",
+      "preferred": "community meetup",
+      "aliases": [
+        "community meetup"
+      ],
+      "count": 2
+    },
+    "prompt-engineering": {
+      "id": "prompt-engineering",
+      "preferred": "prompt engineering",
+      "aliases": [
+        "prompt engineering"
+      ],
+      "count": 2
+    },
+    "course-announcement": {
+      "id": "course-announcement",
+      "preferred": "course announcement",
+      "aliases": [
+        "course announcement"
+      ],
+      "count": 2
+    },
+    "summit-session-announcement": {
+      "id": "summit-session-announcement",
+      "preferred": "summit session announcement",
+      "aliases": [
+        "summit session announcement"
+      ],
+      "count": 2
+    },
+    "workshop": {
+      "id": "workshop",
+      "preferred": "workshop",
+      "aliases": [
+        "workshop"
+      ],
+      "count": 2
+    },
+    "event-registration": {
+      "id": "event-registration",
+      "preferred": "event registration",
+      "aliases": [
+        "event registration"
+      ],
+      "count": 2
+    },
+    "course-review": {
+      "id": "course-review",
+      "preferred": "course review",
+      "aliases": [
+        "course review"
+      ],
+      "count": 2
+    },
+    "course-enrollment": {
+      "id": "course-enrollment",
+      "preferred": "course enrollment",
+      "aliases": [
+        "course enrollment"
+      ],
+      "count": 2
+    },
+    "software-demo": {
+      "id": "software-demo",
+      "preferred": "software demo",
+      "aliases": [
+        "software demo"
+      ],
+      "count": 2
+    },
+    "live-demo": {
+      "id": "live-demo",
+      "preferred": "live demo",
+      "aliases": [
+        "live demo",
+        "live demonstration"
+      ],
+      "count": 2
+    },
+    "portfolio-building": {
+      "id": "portfolio-building",
+      "preferred": "portfolio building",
+      "aliases": [
+        "building portfolio projects",
+        "portfolio building"
+      ],
+      "count": 2
+    },
+    "keynote-speech": {
+      "id": "keynote-speech",
+      "preferred": "keynote speech",
+      "aliases": [
+        "keynote presentation",
+        "keynote speech"
+      ],
+      "count": 2
+    },
+    "hiring-and-organizational-design": {
+      "id": "hiring-and-organizational-design",
+      "preferred": "hiring and organizational design",
+      "aliases": [
+        "hiring and organizational design"
+      ],
+      "count": 1
+    },
+    "system-deployment": {
+      "id": "system-deployment",
+      "preferred": "system deployment",
+      "aliases": [
+        "system deployment"
+      ],
+      "count": 1
+    },
+    "article-publication": {
+      "id": "article-publication",
+      "preferred": "article publication",
+      "aliases": [
+        "article publication"
+      ],
+      "count": 1
+    },
+    "workshop-feedback": {
+      "id": "workshop-feedback",
+      "preferred": "workshop feedback",
+      "aliases": [
+        "workshop feedback"
+      ],
+      "count": 1
+    },
+    "content-repurposing": {
+      "id": "content-repurposing",
+      "preferred": "content repurposing",
+      "aliases": [
+        "content repurposing"
+      ],
+      "count": 1
+    },
+    "learning-experience": {
+      "id": "learning-experience",
+      "preferred": "learning experience",
+      "aliases": [
+        "learning experience"
+      ],
+      "count": 1
+    },
+    "course-reflection": {
+      "id": "course-reflection",
+      "preferred": "course reflection",
+      "aliases": [
+        "course reflection"
+      ],
+      "count": 1
+    },
+    "course-cohort-wrap-up": {
+      "id": "course-cohort-wrap-up",
+      "preferred": "course cohort wrap-up",
+      "aliases": [
+        "course cohort wrap-up"
+      ],
+      "count": 1
+    },
+    "learning-resources": {
+      "id": "learning-resources",
+      "preferred": "learning resources",
+      "aliases": [
+        "learning resources"
+      ],
+      "count": 1
+    },
+    "product-launch": {
+      "id": "product-launch",
+      "preferred": "product launch",
+      "aliases": [
+        "product launch"
+      ],
+      "count": 1
+    },
+    "ai-enablement": {
+      "id": "ai-enablement",
+      "preferred": "AI enablement",
+      "aliases": [
+        "AI enablement"
+      ],
+      "count": 1
+    },
+    "community-sessions": {
+      "id": "community-sessions",
+      "preferred": "community sessions",
+      "aliases": [
+        "community sessions"
+      ],
+      "count": 1
+    },
+    "executive-briefing": {
+      "id": "executive-briefing",
+      "preferred": "executive briefing",
+      "aliases": [
+        "executive briefing"
+      ],
+      "count": 1
+    },
+    "course-milestone": {
+      "id": "course-milestone",
+      "preferred": "course milestone",
+      "aliases": [
+        "course milestone"
+      ],
+      "count": 1
+    },
+    "startup-hiring-announcement": {
+      "id": "startup-hiring-announcement",
+      "preferred": "startup hiring announcement",
+      "aliases": [
+        "startup hiring announcement"
+      ],
+      "count": 1
+    },
+    "podcast": {
+      "id": "podcast",
+      "preferred": "podcast",
+      "aliases": [
+        "podcast"
+      ],
+      "count": 1
+    },
+    "event-promotion": {
+      "id": "event-promotion",
+      "preferred": "event promotion",
+      "aliases": [
+        "event promotion"
+      ],
+      "count": 1
+    },
+    "summit-session": {
+      "id": "summit-session",
+      "preferred": "summit session",
+      "aliases": [
+        "summit session"
+      ],
+      "count": 1
+    },
+    "learning-in-public": {
+      "id": "learning-in-public",
+      "preferred": "learning in public",
+      "aliases": [
+        "learning in public"
+      ],
+      "count": 1
+    },
+    "virtual-summit-announcement": {
+      "id": "virtual-summit-announcement",
+      "preferred": "virtual summit announcement",
+      "aliases": [
+        "virtual summit announcement"
+      ],
+      "count": 1
+    },
+    "tool-review": {
+      "id": "tool-review",
+      "preferred": "tool review",
+      "aliases": [
+        "tool review"
+      ],
+      "count": 1
+    },
+    "demo-day": {
+      "id": "demo-day",
+      "preferred": "Demo Day",
+      "aliases": [
+        "Demo Day"
+      ],
+      "count": 1
+    },
+    "networking-event": {
+      "id": "networking-event",
+      "preferred": "networking event",
+      "aliases": [
+        "networking event"
+      ],
+      "count": 1
+    },
+    "ai-builders-summit": {
+      "id": "ai-builders-summit",
+      "preferred": "AI Builders Summit",
+      "aliases": [
+        "AI Builders Summit"
+      ],
+      "count": 1
+    },
+    "tedx-talk": {
+      "id": "tedx-talk",
+      "preferred": "TEDx talk",
+      "aliases": [
+        "TEDx talk"
+      ],
+      "count": 1
+    },
+    "announcement": {
+      "id": "announcement",
+      "preferred": "announcement",
+      "aliases": [
+        "announcement"
+      ],
+      "count": 1
+    },
+    "course-curriculum": {
+      "id": "course-curriculum",
+      "preferred": "course curriculum",
+      "aliases": [
+        "course curriculum"
+      ],
+      "count": 1
+    },
+    "career-update": {
+      "id": "career-update",
+      "preferred": "career update",
+      "aliases": [
+        "career update"
+      ],
+      "count": 1
+    },
+    "prompt-and-model-optimization": {
+      "id": "prompt-and-model-optimization",
+      "preferred": "prompt and model optimization",
+      "aliases": [
+        "prompt and model optimization"
+      ],
+      "count": 1
+    },
+    "content-creation": {
+      "id": "content-creation",
+      "preferred": "content creation",
+      "aliases": [
+        "content creation"
+      ],
+      "count": 1
+    },
+    "sales-calls": {
+      "id": "sales-calls",
+      "preferred": "sales calls",
+      "aliases": [
+        "sales calls"
+      ],
+      "count": 1
+    },
+    "video-overview": {
+      "id": "video-overview",
+      "preferred": "video overview",
+      "aliases": [
+        "video overview"
+      ],
+      "count": 1
+    },
+    "commenting-on-linkedin": {
+      "id": "commenting-on-linkedin",
+      "preferred": "commenting on LinkedIn",
+      "aliases": [
+        "commenting on LinkedIn"
+      ],
+      "count": 1
+    },
+    "course-cohort-kickoff": {
+      "id": "course-cohort-kickoff",
+      "preferred": "course cohort kickoff",
+      "aliases": [
+        "course cohort kickoff"
+      ],
+      "count": 1
+    },
+    "resume-review": {
+      "id": "resume-review",
+      "preferred": "resume review",
+      "aliases": [
+        "resume review"
+      ],
+      "count": 1
+    },
+    "system-design-preparation": {
+      "id": "system-design-preparation",
+      "preferred": "system design preparation",
+      "aliases": [
+        "system design preparation"
+      ],
+      "count": 1
+    },
+    "eval-set-building": {
+      "id": "eval-set-building",
+      "preferred": "eval set building",
+      "aliases": [
+        "eval set building"
+      ],
+      "count": 1
+    },
+    "educational-content-creation": {
+      "id": "educational-content-creation",
+      "preferred": "educational content creation",
+      "aliases": [
+        "educational content creation"
+      ],
+      "count": 1
+    },
+    "writing-documentation": {
+      "id": "writing-documentation",
+      "preferred": "writing documentation",
+      "aliases": [
+        "writing documentation"
+      ],
+      "count": 1
+    },
+    "github-repository-maintenance": {
+      "id": "github-repository-maintenance",
+      "preferred": "GitHub repository maintenance",
+      "aliases": [
+        "GitHub repository maintenance"
+      ],
+      "count": 1
+    },
+    "writing-tests": {
+      "id": "writing-tests",
+      "preferred": "writing tests",
+      "aliases": [
+        "writing tests"
+      ],
+      "count": 1
+    },
+    "video-course": {
+      "id": "video-course",
+      "preferred": "video course",
+      "aliases": [
+        "video course"
+      ],
+      "count": 1
+    },
+    "writing-an-article": {
+      "id": "writing-an-article",
+      "preferred": "writing an article",
+      "aliases": [
+        "writing an article"
+      ],
+      "count": 1
+    },
+    "course-completion": {
+      "id": "course-completion",
+      "preferred": "course completion",
+      "aliases": [
+        "course completion"
+      ],
+      "count": 1
+    },
+    "podcast-discussion": {
+      "id": "podcast-discussion",
+      "preferred": "podcast discussion",
+      "aliases": [
+        "podcast discussion"
+      ],
+      "count": 1
+    },
+    "course-overview": {
+      "id": "course-overview",
+      "preferred": "course overview",
+      "aliases": [
+        "course overview"
+      ],
+      "count": 1
+    },
+    "q-a-session": {
+      "id": "q-a-session",
+      "preferred": "Q&A session",
+      "aliases": [
+        "Q&A session"
+      ],
+      "count": 1
+    },
+    "course-syllabus": {
+      "id": "course-syllabus",
+      "preferred": "course syllabus",
+      "aliases": [
+        "course syllabus"
+      ],
+      "count": 1
+    },
+    "instrumentation": {
+      "id": "instrumentation",
+      "preferred": "instrumentation",
+      "aliases": [
+        "instrumentation"
+      ],
+      "count": 1
+    },
+    "observability": {
+      "id": "observability",
+      "preferred": "observability",
+      "aliases": [
+        "observability"
+      ],
+      "count": 1
+    },
+    "verification": {
+      "id": "verification",
+      "preferred": "verification",
+      "aliases": [
+        "verification"
+      ],
+      "count": 1
+    },
+    "course-catalog": {
+      "id": "course-catalog",
+      "preferred": "course catalog",
+      "aliases": [
+        "course catalog"
+      ],
+      "count": 1
+    },
+    "automation-setup": {
+      "id": "automation-setup",
+      "preferred": "automation setup",
+      "aliases": [
+        "automation setup"
+      ],
+      "count": 1
+    },
+    "presentation": {
+      "id": "presentation",
+      "preferred": "presentation",
+      "aliases": [
+        "presentation"
+      ],
+      "count": 1
+    },
+    "q-a": {
+      "id": "q-a",
+      "preferred": "q&a",
+      "aliases": [
+        "q&a"
+      ],
+      "count": 1
+    },
+    "outro": {
+      "id": "outro",
+      "preferred": "outro",
+      "aliases": [
+        "outro"
+      ],
+      "count": 1
+    },
+    "interview": {
+      "id": "interview",
+      "preferred": "interview",
+      "aliases": [
+        "interview"
+      ],
+      "count": 1
+    },
+    "product-case-study": {
+      "id": "product-case-study",
+      "preferred": "product case study",
+      "aliases": [
+        "product case study"
+      ],
+      "count": 1
+    },
+    "lightning-round": {
+      "id": "lightning-round",
+      "preferred": "lightning round",
+      "aliases": [
+        "lightning round"
+      ],
+      "count": 1
+    },
+    "learning-software-development": {
+      "id": "learning-software-development",
+      "preferred": "learning software development",
+      "aliases": [
+        "learning software development"
+      ],
+      "count": 1
+    },
+    "writing-ai-agent-specifications": {
+      "id": "writing-ai-agent-specifications",
+      "preferred": "writing AI agent specifications",
+      "aliases": [
+        "writing AI agent specifications"
+      ],
+      "count": 1
+    },
+    "reviewing-ai-generated-code": {
+      "id": "reviewing-ai-generated-code",
+      "preferred": "reviewing AI-generated code",
+      "aliases": [
+        "reviewing AI-generated code"
+      ],
+      "count": 1
+    },
+    "recap": {
+      "id": "recap",
+      "preferred": "recap",
+      "aliases": [
+        "recap"
+      ],
+      "count": 1
+    },
+    "eval-walkthrough": {
+      "id": "eval-walkthrough",
+      "preferred": "eval walkthrough",
+      "aliases": [
+        "eval walkthrough"
+      ],
+      "count": 1
+    },
+    "running-llm-judge": {
+      "id": "running-llm-judge",
+      "preferred": "running LLM judge",
+      "aliases": [
+        "running LLM judge"
+      ],
+      "count": 1
+    },
+    "role-breakdown": {
+      "id": "role-breakdown",
+      "preferred": "role breakdown",
+      "aliases": [
+        "role breakdown"
+      ],
+      "count": 1
+    },
+    "workflow-audit-and-enablement": {
+      "id": "workflow-audit-and-enablement",
+      "preferred": "workflow audit and enablement",
+      "aliases": [
+        "workflow audit and enablement"
+      ],
+      "count": 1
+    },
+    "career-roadmap-preparation": {
+      "id": "career-roadmap-preparation",
+      "preferred": "career roadmap preparation",
+      "aliases": [
+        "career roadmap preparation"
+      ],
+      "count": 1
+    },
+    "hands-on-customer-projects": {
+      "id": "hands-on-customer-projects",
+      "preferred": "hands-on customer projects",
+      "aliases": [
+        "hands-on customer projects"
+      ],
+      "count": 1
+    },
+    "job-search-and-market-analysis": {
+      "id": "job-search-and-market-analysis",
+      "preferred": "job search and market analysis",
+      "aliases": [
+        "job search and market analysis"
+      ],
+      "count": 1
+    },
+    "walkthrough": {
+      "id": "walkthrough",
+      "preferred": "walkthrough",
+      "aliases": [
+        "walkthrough"
+      ],
+      "count": 1
+    },
+    "software-walkthrough": {
+      "id": "software-walkthrough",
+      "preferred": "software walkthrough",
+      "aliases": [
+        "software walkthrough"
+      ],
+      "count": 1
+    },
+    "data-extraction-and-evaluation": {
+      "id": "data-extraction-and-evaluation",
+      "preferred": "data extraction and evaluation",
+      "aliases": [
+        "data extraction and evaluation"
+      ],
+      "count": 1
+    },
+    "enterprise-search-system": {
+      "id": "enterprise-search-system",
+      "preferred": "enterprise search system",
+      "aliases": [
+        "enterprise search system"
+      ],
+      "count": 1
+    },
+    "conversation-intelligence-system": {
+      "id": "conversation-intelligence-system",
+      "preferred": "conversation intelligence system",
+      "aliases": [
+        "conversation intelligence system"
+      ],
+      "count": 1
+    },
+    "fine-tuning-and-quantization": {
+      "id": "fine-tuning-and-quantization",
+      "preferred": "fine-tuning and quantization",
+      "aliases": [
+        "fine-tuning and quantization"
+      ],
+      "count": 1
+    },
+    "react-agent-and-guardrail-design": {
+      "id": "react-agent-and-guardrail-design",
+      "preferred": "ReAct agent and guardrail design",
+      "aliases": [
+        "ReAct agent and guardrail design"
+      ],
+      "count": 1
+    },
+    "system-design-walkthrough": {
+      "id": "system-design-walkthrough",
+      "preferred": "system design walkthrough",
+      "aliases": [
+        "system design walkthrough"
+      ],
+      "count": 1
+    },
+    "demo": {
+      "id": "demo",
+      "preferred": "demo",
+      "aliases": [
+        "demo"
+      ],
+      "count": 1
+    },
+    "system-design-interview": {
+      "id": "system-design-interview",
+      "preferred": "system design interview",
+      "aliases": [
+        "system design interview"
+      ],
+      "count": 1
+    },
+    "fde-interviews": {
+      "id": "fde-interviews",
+      "preferred": "FDE interviews",
+      "aliases": [
+        "FDE interviews"
+      ],
+      "count": 1
+    },
+    "building-custom-coding-skills": {
+      "id": "building-custom-coding-skills",
+      "preferred": "building custom coding skills",
+      "aliases": [
+        "building custom coding skills"
+      ],
+      "count": 1
+    }
+  },
+  "situation": {
+    "enterprise-agentic-ai-adoption": {
+      "id": "enterprise-agentic-ai-adoption",
+      "preferred": "enterprise agentic AI adoption",
+      "aliases": [
+        "enterprise agentic AI adoption"
+      ],
+      "count": 5
+    },
+    "hitting-token-limits-with-claude-code-or-codex": {
+      "id": "hitting-token-limits-with-claude-code-or-codex",
+      "preferred": "hitting token limits with Claude Code or Codex",
+      "aliases": [
+        "hitting token limits with Claude Code or Codex"
+      ],
+      "count": 5
+    },
+    "raising-vc-funding": {
+      "id": "raising-vc-funding",
+      "preferred": "raising VC funding",
+      "aliases": [
+        "raising VC funding"
+      ],
+      "count": 2
+    },
+    "designing-ai-evaluation-frameworks": {
+      "id": "designing-ai-evaluation-frameworks",
+      "preferred": "designing AI evaluation frameworks",
+      "aliases": [
+        "designing AI evaluation frameworks"
+      ],
+      "count": 2
+    },
+    "looking-for-entry-level-roles-in-ai": {
+      "id": "looking-for-entry-level-roles-in-ai",
+      "preferred": "looking for entry-level roles in AI",
+      "aliases": [
+        "looking for entry-level roles in AI",
+        "seeking an entry-level AI job"
+      ],
+      "count": 2
+    },
+    "encountering-exaggerated-ai-marketing-claims": {
+      "id": "encountering-exaggerated-ai-marketing-claims",
+      "preferred": "encountering exaggerated AI marketing claims",
+      "aliases": [
+        "encountering exaggerated AI marketing claims"
+      ],
+      "count": 1
+    },
+    "distraction-from-ai-and-social-media-possibilities": {
+      "id": "distraction-from-ai-and-social-media-possibilities",
+      "preferred": "distraction from AI and social media possibilities",
+      "aliases": [
+        "distraction from AI and social media possibilities"
+      ],
+      "count": 1
+    },
+    "weekend-pick-me-up": {
+      "id": "weekend-pick-me-up",
+      "preferred": "weekend pick me up",
+      "aliases": [
+        "weekend pick me up"
+      ],
+      "count": 1
+    },
+    "evaluating-autonomous-software-engineering-agents": {
+      "id": "evaluating-autonomous-software-engineering-agents",
+      "preferred": "evaluating autonomous software engineering agents",
+      "aliases": [
+        "evaluating autonomous software engineering agents"
+      ],
+      "count": 1
+    },
+    "evaluating-single-person-billion-dollar-company-hype": {
+      "id": "evaluating-single-person-billion-dollar-company-hype",
+      "preferred": "evaluating single-person billion-dollar company hype",
+      "aliases": [
+        "evaluating single-person billion-dollar company hype"
+      ],
+      "count": 1
+    },
+    "evaluating-enterprise-ai": {
+      "id": "evaluating-enterprise-ai",
+      "preferred": "evaluating enterprise AI",
+      "aliases": [
+        "evaluating enterprise AI"
+      ],
+      "count": 1
+    },
+    "course-feedback": {
+      "id": "course-feedback",
+      "preferred": "course feedback",
+      "aliases": [
+        "course feedback"
+      ],
+      "count": 1
+    },
+    "evaluating-personal-career-milestones": {
+      "id": "evaluating-personal-career-milestones",
+      "preferred": "evaluating personal career milestones",
+      "aliases": [
+        "evaluating personal career milestones"
+      ],
+      "count": 1
+    },
+    "casual-conversation-turning-into-startup-talk": {
+      "id": "casual-conversation-turning-into-startup-talk",
+      "preferred": "casual conversation turning into startup talk",
+      "aliases": [
+        "casual conversation turning into startup talk"
+      ],
+      "count": 1
+    },
+    "transitioning-from-infrastructure-background-to-ai": {
+      "id": "transitioning-from-infrastructure-background-to-ai",
+      "preferred": "transitioning from infrastructure background to AI",
+      "aliases": [
+        "transitioning from infrastructure background to AI"
+      ],
+      "count": 1
+    },
+    "navigating-ai-hype-and-new-developments": {
+      "id": "navigating-ai-hype-and-new-developments",
+      "preferred": "navigating AI hype and new developments",
+      "aliases": [
+        "navigating AI hype and new developments"
+      ],
+      "count": 1
+    },
+    "deploying-ai-agents-to-production": {
+      "id": "deploying-ai-agents-to-production",
+      "preferred": "deploying AI agents to production",
+      "aliases": [
+        "deploying AI agents to production"
+      ],
+      "count": 1
+    },
+    "improving-agent-performance-through-modular-infrastructure-a": {
+      "id": "improving-agent-performance-through-modular-infrastructure-a",
+      "preferred": "improving agent performance through modular infrastructure and failure tracing",
+      "aliases": [
+        "improving agent performance through modular infrastructure and failure tracing"
+      ],
+      "count": 1
+    },
+    "voice-to-text-transcription-errors-in-ai-instructions": {
+      "id": "voice-to-text-transcription-errors-in-ai-instructions",
+      "preferred": "voice-to-text transcription errors in AI instructions",
+      "aliases": [
+        "voice-to-text transcription errors in AI instructions"
+      ],
+      "count": 1
+    },
+    "learning-to-code-in-2026": {
+      "id": "learning-to-code-in-2026",
+      "preferred": "learning to code in 2026",
+      "aliases": [
+        "learning to code in 2026"
+      ],
+      "count": 1
+    },
+    "running-benchmark-simulator-scripts-with-multiple-api-keys": {
+      "id": "running-benchmark-simulator-scripts-with-multiple-api-keys",
+      "preferred": "running benchmark simulator scripts with multiple API keys",
+      "aliases": [
+        "running benchmark simulator scripts with multiple API keys"
+      ],
+      "count": 1
+    },
+    "unintended-bot-invocations-in-threads": {
+      "id": "unintended-bot-invocations-in-threads",
+      "preferred": "unintended bot invocations in threads",
+      "aliases": [
+        "unintended bot invocations in threads"
+      ],
+      "count": 1
+    },
+    "high-token-costs-and-hardware-bottlenecks": {
+      "id": "high-token-costs-and-hardware-bottlenecks",
+      "preferred": "high token costs and hardware bottlenecks",
+      "aliases": [
+        "high token costs and hardware bottlenecks"
+      ],
+      "count": 1
+    },
+    "founder-burnout-and-work-life-balance": {
+      "id": "founder-burnout-and-work-life-balance",
+      "preferred": "founder burnout and work-life balance",
+      "aliases": [
+        "founder burnout and work-life balance"
+      ],
+      "count": 1
+    },
+    "enterprise-ai-deployments": {
+      "id": "enterprise-ai-deployments",
+      "preferred": "enterprise AI deployments",
+      "aliases": [
+        "enterprise AI deployments"
+      ],
+      "count": 1
+    },
+    "context-switching-and-tool-switching": {
+      "id": "context-switching-and-tool-switching",
+      "preferred": "context switching and tool switching",
+      "aliases": [
+        "context switching and tool switching"
+      ],
+      "count": 1
+    },
+    "prospects-ignoring-ai-generated-outreach": {
+      "id": "prospects-ignoring-ai-generated-outreach",
+      "preferred": "prospects ignoring AI-generated outreach",
+      "aliases": [
+        "prospects ignoring AI-generated outreach"
+      ],
+      "count": 1
+    },
+    "multitasking-and-context-switching-in-tech-work": {
+      "id": "multitasking-and-context-switching-in-tech-work",
+      "preferred": "multitasking and context switching in tech work",
+      "aliases": [
+        "multitasking and context switching in tech work"
+      ],
+      "count": 1
+    },
+    "identifying-workflow-automation-opportunities": {
+      "id": "identifying-workflow-automation-opportunities",
+      "preferred": "identifying workflow automation opportunities",
+      "aliases": [
+        "identifying workflow automation opportunities"
+      ],
+      "count": 1
+    },
+    "building-an-llm-wiki-with-contradictory-documents": {
+      "id": "building-an-llm-wiki-with-contradictory-documents",
+      "preferred": "building an LLM wiki with contradictory documents",
+      "aliases": [
+        "building an LLM wiki with contradictory documents"
+      ],
+      "count": 1
+    },
+    "bypassing-ai-text-detectors": {
+      "id": "bypassing-ai-text-detectors",
+      "preferred": "bypassing AI text detectors",
+      "aliases": [
+        "bypassing AI text detectors"
+      ],
+      "count": 1
+    },
+    "ai-code-generation-tools-replacing-manual-coding": {
+      "id": "ai-code-generation-tools-replacing-manual-coding",
+      "preferred": "AI code generation tools replacing manual coding",
+      "aliases": [
+        "AI code generation tools replacing manual coding"
+      ],
+      "count": 1
+    },
+    "overestimating-time-required-for-focused-work": {
+      "id": "overestimating-time-required-for-focused-work",
+      "preferred": "overestimating time required for focused work",
+      "aliases": [
+        "overestimating time required for focused work"
+      ],
+      "count": 1
+    },
+    "competing-with-regurgitated-ai-slop": {
+      "id": "competing-with-regurgitated-ai-slop",
+      "preferred": "competing with regurgitated AI slop",
+      "aliases": [
+        "competing with regurgitated AI slop"
+      ],
+      "count": 1
+    },
+    "enterprises-managing-rising-token-costs-and-latency": {
+      "id": "enterprises-managing-rising-token-costs-and-latency",
+      "preferred": "enterprises managing rising token costs and latency",
+      "aliases": [
+        "enterprises managing rising token costs and latency"
+      ],
+      "count": 1
+    },
+    "building-agents-for-large-scale-production-use-cases": {
+      "id": "building-agents-for-large-scale-production-use-cases",
+      "preferred": "building agents for large scale production use cases",
+      "aliases": [
+        "building agents for large scale production use cases"
+      ],
+      "count": 1
+    },
+    "enterprise-concerns-about-llm-token-costs": {
+      "id": "enterprise-concerns-about-llm-token-costs",
+      "preferred": "enterprise concerns about LLM token costs",
+      "aliases": [
+        "enterprise concerns about LLM token costs"
+      ],
+      "count": 1
+    },
+    "shifting-enterprise-ai-priorities-from-adoption-to-operation": {
+      "id": "shifting-enterprise-ai-priorities-from-adoption-to-operation",
+      "preferred": "shifting enterprise AI priorities from adoption to operationalization",
+      "aliases": [
+        "shifting enterprise AI priorities from adoption to operationalization"
+      ],
+      "count": 1
+    },
+    "team-collaboration-when-using-ai-tools": {
+      "id": "team-collaboration-when-using-ai-tools",
+      "preferred": "team collaboration when using AI tools",
+      "aliases": [
+        "team collaboration when using AI tools"
+      ],
+      "count": 1
+    },
+    "integrating-ai-into-non-technical-user-workflows": {
+      "id": "integrating-ai-into-non-technical-user-workflows",
+      "preferred": "integrating AI into non-technical user workflows",
+      "aliases": [
+        "integrating AI into non-technical user workflows"
+      ],
+      "count": 1
+    },
+    "asking-an-llm-for-an-image-prompt-to-use-elsewhere": {
+      "id": "asking-an-llm-for-an-image-prompt-to-use-elsewhere",
+      "preferred": "asking an LLM for an image prompt to use elsewhere",
+      "aliases": [
+        "asking an LLM for an image prompt to use elsewhere"
+      ],
+      "count": 1
+    },
+    "rag-architecture-evolution": {
+      "id": "rag-architecture-evolution",
+      "preferred": "RAG architecture evolution",
+      "aliases": [
+        "RAG architecture evolution"
+      ],
+      "count": 1
+    },
+    "confused-by-various-ai-engineering-terms": {
+      "id": "confused-by-various-ai-engineering-terms",
+      "preferred": "confused by various AI engineering terms",
+      "aliases": [
+        "confused by various AI engineering terms"
+      ],
+      "count": 1
+    },
+    "overwhelmed-by-ai-agent-hype": {
+      "id": "overwhelmed-by-ai-agent-hype",
+      "preferred": "overwhelmed by AI agent hype",
+      "aliases": [
+        "overwhelmed by AI agent hype"
+      ],
+      "count": 1
+    },
+    "conversation-starts-going-off-track": {
+      "id": "conversation-starts-going-off-track",
+      "preferred": "conversation starts going off track",
+      "aliases": [
+        "conversation starts going off track"
+      ],
+      "count": 1
+    },
+    "scaling-systems": {
+      "id": "scaling-systems",
+      "preferred": "scaling systems",
+      "aliases": [
+        "scaling systems"
+      ],
+      "count": 1
+    },
+    "evaluating-hype-in-ai-courses": {
+      "id": "evaluating-hype-in-ai-courses",
+      "preferred": "evaluating hype in AI courses",
+      "aliases": [
+        "evaluating hype in AI courses"
+      ],
+      "count": 1
+    },
+    "optimizing-high-cost-in-agentic-ai-steps": {
+      "id": "optimizing-high-cost-in-agentic-ai-steps",
+      "preferred": "optimizing high cost in agentic AI steps",
+      "aliases": [
+        "optimizing high cost in agentic AI steps"
+      ],
+      "count": 1
+    },
+    "long-agent-sessions-with-large-tool-outputs": {
+      "id": "long-agent-sessions-with-large-tool-outputs",
+      "preferred": "long agent sessions with large tool outputs",
+      "aliases": [
+        "long agent sessions with large tool outputs"
+      ],
+      "count": 1
+    },
+    "critics-dismissing-new-ai-tools-as-existing-tech": {
+      "id": "critics-dismissing-new-ai-tools-as-existing-tech",
+      "preferred": "critics dismissing new AI tools as existing tech",
+      "aliases": [
+        "critics dismissing new AI tools as existing tech"
+      ],
+      "count": 1
+    },
+    "tool-call-fails": {
+      "id": "tool-call-fails",
+      "preferred": "tool call fails",
+      "aliases": [
+        "tool call fails"
+      ],
+      "count": 1
+    },
+    "execution-becoming-less-expensive-due-to-ai": {
+      "id": "execution-becoming-less-expensive-due-to-ai",
+      "preferred": "execution becoming less expensive due to AI",
+      "aliases": [
+        "execution becoming less expensive due to AI"
+      ],
+      "count": 1
+    },
+    "climbing-the-corporate-ladder-or-building-a-company": {
+      "id": "climbing-the-corporate-ladder-or-building-a-company",
+      "preferred": "climbing the corporate ladder or building a company",
+      "aliases": [
+        "climbing the corporate ladder or building a company"
+      ],
+      "count": 1
+    },
+    "job-market-hype-and-misconceptions": {
+      "id": "job-market-hype-and-misconceptions",
+      "preferred": "Job market hype and misconceptions",
+      "aliases": [
+        "Job market hype and misconceptions"
+      ],
+      "count": 1
+    },
+    "engineers-learning-sales": {
+      "id": "engineers-learning-sales",
+      "preferred": "engineers learning sales",
+      "aliases": [
+        "engineers learning sales"
+      ],
+      "count": 1
+    },
+    "automated-commentary-discouraging-engagement": {
+      "id": "automated-commentary-discouraging-engagement",
+      "preferred": "automated commentary discouraging engagement",
+      "aliases": [
+        "automated commentary discouraging engagement"
+      ],
+      "count": 1
+    },
+    "enterprise-token-costs-and-model-lock-in": {
+      "id": "enterprise-token-costs-and-model-lock-in",
+      "preferred": "enterprise token costs and model lock-in",
+      "aliases": [
+        "enterprise token costs and model lock-in"
+      ],
+      "count": 1
+    },
+    "open-ended-work-with-no-perfect-ground-truth": {
+      "id": "open-ended-work-with-no-perfect-ground-truth",
+      "preferred": "open-ended work with no perfect ground truth",
+      "aliases": [
+        "open-ended work with no perfect ground truth"
+      ],
+      "count": 1
+    },
+    "deploying-autonomous-self-improving-agents-in-enterprise": {
+      "id": "deploying-autonomous-self-improving-agents-in-enterprise",
+      "preferred": "deploying autonomous self-improving agents in enterprise",
+      "aliases": [
+        "deploying autonomous self-improving agents in enterprise"
+      ],
+      "count": 1
+    },
+    "screening-ai-generated-resumes-and-candidate-profiles": {
+      "id": "screening-ai-generated-resumes-and-candidate-profiles",
+      "preferred": "screening AI-generated resumes and candidate profiles",
+      "aliases": [
+        "screening AI-generated resumes and candidate profiles"
+      ],
+      "count": 1
+    },
+    "getting-stuck-in-ai-system-design-interviews": {
+      "id": "getting-stuck-in-ai-system-design-interviews",
+      "preferred": "getting stuck in AI system design interviews",
+      "aliases": [
+        "getting stuck in AI system design interviews"
+      ],
+      "count": 1
+    },
+    "personal-agents-underperforming-on-complex-knowledge-work-co": {
+      "id": "personal-agents-underperforming-on-complex-knowledge-work-co",
+      "preferred": "personal agents underperforming on complex knowledge work compared to frontier models",
+      "aliases": [
+        "personal agents underperforming on complex knowledge work compared to frontier models"
+      ],
+      "count": 1
+    },
+    "competitors-copying-product": {
+      "id": "competitors-copying-product",
+      "preferred": "competitors copying product",
+      "aliases": [
+        "competitors copying product"
+      ],
+      "count": 1
+    },
+    "building-ai-agents": {
+      "id": "building-ai-agents",
+      "preferred": "building AI agents",
+      "aliases": [
+        "building AI agents"
+      ],
+      "count": 1
+    },
+    "agent-picking-the-wrong-skill-or-security-issues": {
+      "id": "agent-picking-the-wrong-skill-or-security-issues",
+      "preferred": "agent picking the wrong skill or security issues",
+      "aliases": [
+        "agent picking the wrong skill or security issues"
+      ],
+      "count": 1
+    },
+    "saved-credentials-and-settings-hiding-failures": {
+      "id": "saved-credentials-and-settings-hiding-failures",
+      "preferred": "saved credentials and settings hiding failures",
+      "aliases": [
+        "saved credentials and settings hiding failures"
+      ],
+      "count": 1
+    },
+    "agents-gaming-evaluation-via-answer-files": {
+      "id": "agents-gaming-evaluation-via-answer-files",
+      "preferred": "agents gaming evaluation via answer files",
+      "aliases": [
+        "agents gaming evaluation via answer files"
+      ],
+      "count": 1
+    },
+    "overwhelmed-by-new-ai-tools-without-clear-use-cases": {
+      "id": "overwhelmed-by-new-ai-tools-without-clear-use-cases",
+      "preferred": "overwhelmed by new AI tools without clear use cases",
+      "aliases": [
+        "overwhelmed by new AI tools without clear use cases"
+      ],
+      "count": 1
+    },
+    "interview-technical-questions": {
+      "id": "interview-technical-questions",
+      "preferred": "interview technical questions",
+      "aliases": [
+        "interview technical questions"
+      ],
+      "count": 1
+    },
+    "managing-teams-adopting-ai-generated-code": {
+      "id": "managing-teams-adopting-ai-generated-code",
+      "preferred": "managing teams adopting AI-generated code",
+      "aliases": [
+        "managing teams adopting AI-generated code"
+      ],
+      "count": 1
+    },
+    "production-failure-resolution": {
+      "id": "production-failure-resolution",
+      "preferred": "production failure resolution",
+      "aliases": [
+        "production failure resolution"
+      ],
+      "count": 1
+    },
+    "interruptions-and-unscripted-edge-cases": {
+      "id": "interruptions-and-unscripted-edge-cases",
+      "preferred": "interruptions and unscripted edge cases",
+      "aliases": [
+        "interruptions and unscripted edge cases"
+      ],
+      "count": 1
+    },
+    "tools-fail-mid-conversation-and-calls-go-off-script": {
+      "id": "tools-fail-mid-conversation-and-calls-go-off-script",
+      "preferred": "tools fail mid-conversation and calls go off script",
+      "aliases": [
+        "tools fail mid-conversation and calls go off script"
+      ],
+      "count": 1
+    },
+    "regulated-environments": {
+      "id": "regulated-environments",
+      "preferred": "regulated environments",
+      "aliases": [
+        "regulated environments"
+      ],
+      "count": 1
+    },
+    "transitioning-from-ai-augmentation-to-automation": {
+      "id": "transitioning-from-ai-augmentation-to-automation",
+      "preferred": "transitioning from AI augmentation to automation",
+      "aliases": [
+        "transitioning from AI augmentation to automation"
+      ],
+      "count": 1
+    },
+    "synthetic-data-diverges-from-live-production-traffic": {
+      "id": "synthetic-data-diverges-from-live-production-traffic",
+      "preferred": "synthetic data diverges from live production traffic",
+      "aliases": [
+        "synthetic data diverges from live production traffic"
+      ],
+      "count": 1
+    },
+    "agent-attempting-unauthorized-access": {
+      "id": "agent-attempting-unauthorized-access",
+      "preferred": "agent attempting unauthorized access",
+      "aliases": [
+        "agent attempting unauthorized access"
+      ],
+      "count": 1
+    },
+    "expensive-domain-expert-reviews": {
+      "id": "expensive-domain-expert-reviews",
+      "preferred": "expensive domain expert reviews",
+      "aliases": [
+        "expensive domain expert reviews"
+      ],
+      "count": 1
+    },
+    "moving-from-prototype-to-production": {
+      "id": "moving-from-prototype-to-production",
+      "preferred": "moving from prototype to production",
+      "aliases": [
+        "moving from prototype to production"
+      ],
+      "count": 1
+    },
+    "evaluating-generative-ai-applications": {
+      "id": "evaluating-generative-ai-applications",
+      "preferred": "evaluating generative AI applications",
+      "aliases": [
+        "evaluating generative AI applications"
+      ],
+      "count": 1
+    },
+    "balancing-performance-cost-and-latency": {
+      "id": "balancing-performance-cost-and-latency",
+      "preferred": "balancing performance cost and latency",
+      "aliases": [
+        "balancing performance cost and latency"
+      ],
+      "count": 1
+    },
+    "monitoring-production-ai-failures": {
+      "id": "monitoring-production-ai-failures",
+      "preferred": "monitoring production AI failures",
+      "aliases": [
+        "monitoring production AI failures"
+      ],
+      "count": 1
+    },
+    "handling-compliance-and-governance": {
+      "id": "handling-compliance-and-governance",
+      "preferred": "handling compliance and governance",
+      "aliases": [
+        "handling compliance and governance"
+      ],
+      "count": 1
+    },
+    "selecting-foundational-models": {
+      "id": "selecting-foundational-models",
+      "preferred": "selecting foundational models",
+      "aliases": [
+        "selecting foundational models"
+      ],
+      "count": 1
+    },
+    "standing-out-in-ai-hiring": {
+      "id": "standing-out-in-ai-hiring",
+      "preferred": "standing out in AI hiring",
+      "aliases": [
+        "standing out in AI hiring"
+      ],
+      "count": 1
+    },
+    "transition-from-research-to-applied-ai-lead": {
+      "id": "transition-from-research-to-applied-ai-lead",
+      "preferred": "transition from research to applied AI lead",
+      "aliases": [
+        "transition from research to applied AI lead"
+      ],
+      "count": 1
+    },
+    "clients-wanting-ai-without-appropriate-use-cases": {
+      "id": "clients-wanting-ai-without-appropriate-use-cases",
+      "preferred": "clients wanting AI without appropriate use cases",
+      "aliases": [
+        "clients wanting AI without appropriate use cases"
+      ],
+      "count": 1
+    },
+    "handling-non-deterministic-model-behaviors": {
+      "id": "handling-non-deterministic-model-behaviors",
+      "preferred": "handling non-deterministic model behaviors",
+      "aliases": [
+        "handling non-deterministic model behaviors"
+      ],
+      "count": 1
+    },
+    "candidates-lacking-practical-enterprise-project-experience": {
+      "id": "candidates-lacking-practical-enterprise-project-experience",
+      "preferred": "candidates lacking practical enterprise project experience",
+      "aliases": [
+        "candidates lacking practical enterprise project experience"
+      ],
+      "count": 1
+    },
+    "debugging-failing-llm-applications": {
+      "id": "debugging-failing-llm-applications",
+      "preferred": "debugging failing LLM applications",
+      "aliases": [
+        "debugging failing LLM applications"
+      ],
+      "count": 1
+    },
+    "evaluating-unstructured-domain-responses": {
+      "id": "evaluating-unstructured-domain-responses",
+      "preferred": "evaluating unstructured domain responses",
+      "aliases": [
+        "evaluating unstructured domain responses"
+      ],
+      "count": 1
+    },
+    "enterprise-adoption-of-ai": {
+      "id": "enterprise-adoption-of-ai",
+      "preferred": "enterprise adoption of AI",
+      "aliases": [
+        "enterprise adoption of AI"
+      ],
+      "count": 1
+    },
+    "calibrating-autonomy": {
+      "id": "calibrating-autonomy",
+      "preferred": "calibrating autonomy",
+      "aliases": [
+        "calibrating autonomy"
+      ],
+      "count": 1
+    },
+    "prompt-injection": {
+      "id": "prompt-injection",
+      "preferred": "prompt injection",
+      "aliases": [
+        "prompt injection"
+      ],
+      "count": 1
+    },
+    "recalibrating-systems": {
+      "id": "recalibrating-systems",
+      "preferred": "recalibrating systems",
+      "aliases": [
+        "recalibrating systems"
+      ],
+      "count": 1
+    },
+    "speculation-that-software-engineering-is-obsolete": {
+      "id": "speculation-that-software-engineering-is-obsolete",
+      "preferred": "speculation that software engineering is obsolete",
+      "aliases": [
+        "speculation that software engineering is obsolete"
+      ],
+      "count": 1
+    },
+    "new-automation-tools-changing-developer-roles": {
+      "id": "new-automation-tools-changing-developer-roles",
+      "preferred": "new automation tools changing developer roles",
+      "aliases": [
+        "new automation tools changing developer roles"
+      ],
+      "count": 1
+    },
+    "automating-business-workflows": {
+      "id": "automating-business-workflows",
+      "preferred": "automating business workflows",
+      "aliases": [
+        "automating business workflows"
+      ],
+      "count": 1
+    },
+    "choosing-tasks-to-automate": {
+      "id": "choosing-tasks-to-automate",
+      "preferred": "choosing tasks to automate",
+      "aliases": [
+        "choosing tasks to automate"
+      ],
+      "count": 1
+    },
+    "automation-errors-and-failure": {
+      "id": "automation-errors-and-failure",
+      "preferred": "automation errors and failure",
+      "aliases": [
+        "automation errors and failure"
+      ],
+      "count": 1
+    },
+    "drift-and-high-stakes-error-management": {
+      "id": "drift-and-high-stakes-error-management",
+      "preferred": "drift and high-stakes error management",
+      "aliases": [
+        "drift and high-stakes error management"
+      ],
+      "count": 1
+    },
+    "launching-multiple-automations-simultaneously": {
+      "id": "launching-multiple-automations-simultaneously",
+      "preferred": "launching multiple automations simultaneously",
+      "aliases": [
+        "launching multiple automations simultaneously"
+      ],
+      "count": 1
+    },
+    "claims-that-rag-is-dead": {
+      "id": "claims-that-rag-is-dead",
+      "preferred": "claims that RAG is dead",
+      "aliases": [
+        "claims that RAG is dead"
+      ],
+      "count": 1
+    },
+    "criticism-of-one-shot-rag": {
+      "id": "criticism-of-one-shot-rag",
+      "preferred": "criticism of one-shot RAG",
+      "aliases": [
+        "criticism of one-shot RAG"
+      ],
+      "count": 1
+    },
+    "large-context-windows-vs-retrieval": {
+      "id": "large-context-windows-vs-retrieval",
+      "preferred": "large context windows vs retrieval",
+      "aliases": [
+        "large context windows vs retrieval"
+      ],
+      "count": 1
+    },
+    "handling-complex-multi-part-queries": {
+      "id": "handling-complex-multi-part-queries",
+      "preferred": "handling complex multi-part queries",
+      "aliases": [
+        "handling complex multi-part queries"
+      ],
+      "count": 1
+    },
+    "auditable-and-trusted-rag-guardrails": {
+      "id": "auditable-and-trusted-rag-guardrails",
+      "preferred": "auditable and trusted RAG guardrails",
+      "aliases": [
+        "auditable and trusted RAG guardrails"
+      ],
+      "count": 1
+    },
+    "agent-thread-rot": {
+      "id": "agent-thread-rot",
+      "preferred": "agent thread rot",
+      "aliases": [
+        "agent thread rot"
+      ],
+      "count": 1
+    },
+    "hiring-hype-and-salary-claims": {
+      "id": "hiring-hype-and-salary-claims",
+      "preferred": "hiring hype and salary claims",
+      "aliases": [
+        "hiring hype and salary claims"
+      ],
+      "count": 1
+    },
+    "origin-at-palantir": {
+      "id": "origin-at-palantir",
+      "preferred": "origin at Palantir",
+      "aliases": [
+        "origin at Palantir"
+      ],
+      "count": 1
+    },
+    "ai-software-breaking-in-customer-environments": {
+      "id": "ai-software-breaking-in-customer-environments",
+      "preferred": "AI software breaking in customer environments",
+      "aliases": [
+        "AI software breaking in customer environments"
+      ],
+      "count": 1
+    },
+    "breaking-into-ai-engineering": {
+      "id": "breaking-into-ai-engineering",
+      "preferred": "breaking into AI engineering",
+      "aliases": [
+        "breaking into AI engineering"
+      ],
+      "count": 1
+    },
+    "targeting-specific-ai-engineering-roles": {
+      "id": "targeting-specific-ai-engineering-roles",
+      "preferred": "targeting specific AI engineering roles",
+      "aliases": [
+        "targeting specific AI engineering roles"
+      ],
+      "count": 1
+    },
+    "ai-engineering-interviews": {
+      "id": "ai-engineering-interviews",
+      "preferred": "AI engineering interviews",
+      "aliases": [
+        "AI engineering interviews"
+      ],
+      "count": 1
+    },
+    "scaling-ai-models-to-end-to-end-production-tasks": {
+      "id": "scaling-ai-models-to-end-to-end-production-tasks",
+      "preferred": "scaling AI models to end-to-end production tasks",
+      "aliases": [
+        "scaling AI models to end-to-end production tasks"
+      ],
+      "count": 1
+    },
+    "guardrailing-agent-actions-in-enterprise-systems": {
+      "id": "guardrailing-agent-actions-in-enterprise-systems",
+      "preferred": "guardrailing agent actions in enterprise systems",
+      "aliases": [
+        "guardrailing agent actions in enterprise systems"
+      ],
+      "count": 1
+    },
+    "automating-enterprise-workflows": {
+      "id": "automating-enterprise-workflows",
+      "preferred": "automating enterprise workflows",
+      "aliases": [
+        "automating enterprise workflows"
+      ],
+      "count": 1
+    },
+    "gathering-sme-intuition": {
+      "id": "gathering-sme-intuition",
+      "preferred": "gathering SME intuition",
+      "aliases": [
+        "gathering SME intuition"
+      ],
+      "count": 1
+    },
+    "production-data-distribution-shift": {
+      "id": "production-data-distribution-shift",
+      "preferred": "production data distribution shift",
+      "aliases": [
+        "production data distribution shift"
+      ],
+      "count": 1
+    },
+    "reducing-token-costs": {
+      "id": "reducing-token-costs",
+      "preferred": "reducing token costs",
+      "aliases": [
+        "reducing token costs"
+      ],
+      "count": 1
+    }
+  },
+  "topic": {
+    "ai-evaluations": {
+      "id": "ai-evaluations",
+      "preferred": "AI evaluations",
+      "aliases": [
+        "AI evaluation",
+        "AI evaluations"
+      ],
+      "count": 10
+    },
+    "harness-engineering": {
+      "id": "harness-engineering",
+      "preferred": "harness engineering",
+      "aliases": [
+        "Harness Engineering",
+        "harness engineering"
+      ],
+      "count": 7
+    },
+    "agentic-ai": {
+      "id": "agentic-ai",
+      "preferred": "Agentic AI",
+      "aliases": [
+        "Agentic AI",
+        "agentic AI",
+        "agentic AI systems"
+      ],
+      "count": 7
+    },
+    "ai-agents": {
+      "id": "ai-agents",
+      "preferred": "AI agents",
+      "aliases": [
+        "AI Agents",
+        "AI agents"
+      ],
+      "count": 5
+    },
+    "loop-engineering": {
+      "id": "loop-engineering",
+      "preferred": "loop engineering",
+      "aliases": [
+        "loop engineering"
+      ],
+      "count": 5
+    },
+    "multi-agent-systems": {
+      "id": "multi-agent-systems",
+      "preferred": "multi-agent systems",
+      "aliases": [
+        "Multi-agent systems",
+        "multi-agent architectures",
+        "multi-agent systems"
+      ],
+      "count": 5
+    },
+    "retrieval-augmented-generation": {
+      "id": "retrieval-augmented-generation",
+      "preferred": "retrieval augmented generation",
+      "aliases": [
+        "RAG and retrieval",
+        "retrieval augmented generation",
+        "retrieval-augmented generation"
+      ],
+      "count": 5
+    },
+    "agentic-ai-applications": {
+      "id": "agentic-ai-applications",
+      "preferred": "Agentic AI Applications",
+      "aliases": [
+        "Agentic AI Application Solutions",
+        "Agentic AI Applications",
+        "agentic AI applications"
+      ],
+      "count": 5
+    },
+    "context-engineering": {
+      "id": "context-engineering",
+      "preferred": "context engineering",
+      "aliases": [
+        "context engineering"
+      ],
+      "count": 4
+    },
+    "claude-code": {
+      "id": "claude-code",
+      "preferred": "Claude Code",
+      "aliases": [
+        "Claude Code"
+      ],
+      "count": 4
+    },
+    "production-ai": {
+      "id": "production-ai",
+      "preferred": "production AI",
+      "aliases": [
+        "production AI",
+        "production-ready AI"
+      ],
+      "count": 4
+    },
+    "context-management": {
+      "id": "context-management",
+      "preferred": "context management",
+      "aliases": [
+        "context management"
+      ],
+      "count": 3
+    },
+    "ai-system-design": {
+      "id": "ai-system-design",
+      "preferred": "AI system design",
+      "aliases": [
+        "AI system design"
+      ],
+      "count": 3
+    },
+    "ai-system-design-interviews": {
+      "id": "ai-system-design-interviews",
+      "preferred": "AI system design interviews",
+      "aliases": [
+        "AI System Design Interview",
+        "AI system design interviews"
+      ],
+      "count": 3
+    },
+    "autonomous-agents": {
+      "id": "autonomous-agents",
+      "preferred": "autonomous agents",
+      "aliases": [
+        "autonomous agents"
+      ],
+      "count": 3
+    },
+    "agent-memory-distillation": {
+      "id": "agent-memory-distillation",
+      "preferred": "agent memory distillation",
+      "aliases": [
+        "agent memory distillation"
+      ],
+      "count": 3
+    },
+    "prompt-caching": {
+      "id": "prompt-caching",
+      "preferred": "prompt caching",
+      "aliases": [
+        "prompt caching"
+      ],
+      "count": 3
+    },
+    "ai-product-development": {
+      "id": "ai-product-development",
+      "preferred": "AI product development",
+      "aliases": [
+        "AI product development"
+      ],
+      "count": 3
+    },
+    "human-in-the-loop": {
+      "id": "human-in-the-loop",
+      "preferred": "human-in-the-loop",
+      "aliases": [
+        "human-in-the-loop"
+      ],
+      "count": 3
+    },
+    "ai-agent-harnesses": {
+      "id": "ai-agent-harnesses",
+      "preferred": "AI agent harnesses",
+      "aliases": [
+        "AI agent harnesses",
+        "agent harness creation"
+      ],
+      "count": 3
+    },
+    "forward-deployed-engineering": {
+      "id": "forward-deployed-engineering",
+      "preferred": "forward deployed engineering",
+      "aliases": [
+        "Forward Deployed Engineering",
+        "Forward Deployed Engineering definition",
+        "forward deployed engineering"
+      ],
+      "count": 3
+    },
+    "agency-control-trade-off": {
+      "id": "agency-control-trade-off",
+      "preferred": "agency control trade-off",
+      "aliases": [
+        "agency control trade-off",
+        "agency-control tradeoff"
+      ],
+      "count": 3
+    },
+    "enterprise-ai-applications": {
+      "id": "enterprise-ai-applications",
+      "preferred": "Enterprise AI applications",
+      "aliases": [
+        "Enterprise AI applications",
+        "applied enterprise AI",
+        "enterprise AI use cases"
+      ],
+      "count": 3
+    },
+    "problem-first-ai-design": {
+      "id": "problem-first-ai-design",
+      "preferred": "Problem-first AI design",
+      "aliases": [
+        "Problem-first AI design",
+        "problem-first AI development",
+        "problem-first AI strategy"
+      ],
+      "count": 3
+    },
+    "ai-product-design": {
+      "id": "ai-product-design",
+      "preferred": "AI product design",
+      "aliases": [
+        "AI product design"
+      ],
+      "count": 2
+    },
+    "ai-transformation": {
+      "id": "ai-transformation",
+      "preferred": "AI transformation",
+      "aliases": [
+        "AI transformation"
+      ],
+      "count": 2
+    },
+    "generative-and-agentic-ai-terminology": {
+      "id": "generative-and-agentic-ai-terminology",
+      "preferred": "Generative and Agentic AI terminology",
+      "aliases": [
+        "Generative and Agentic AI terminology",
+        "generative and agentic AI terminology"
+      ],
+      "count": 2
+    },
+    "prompting-and-context-engineering": {
+      "id": "prompting-and-context-engineering",
+      "preferred": "Prompting and context engineering",
+      "aliases": [
+        "Prompting and context engineering",
+        "prompting and context engineering"
+      ],
+      "count": 2
+    },
+    "code-based-evals": {
+      "id": "code-based-evals",
+      "preferred": "Code-based evals",
+      "aliases": [
+        "Code-based evals",
+        "code-based evals"
+      ],
+      "count": 2
+    },
+    "llm-as-a-judge": {
+      "id": "llm-as-a-judge",
+      "preferred": "LLM-as-a-judge",
+      "aliases": [
+        "LLM-as-a-judge"
+      ],
+      "count": 2
+    },
+    "input-and-output-guardrails": {
+      "id": "input-and-output-guardrails",
+      "preferred": "Input and output guardrails",
+      "aliases": [
+        "Input and output guardrails",
+        "input and output guardrails"
+      ],
+      "count": 2
+    },
+    "agent-architecture": {
+      "id": "agent-architecture",
+      "preferred": "Agent architecture",
+      "aliases": [
+        "Agent architecture",
+        "agent architecture"
+      ],
+      "count": 2
+    },
+    "workflow-and-router-patterns": {
+      "id": "workflow-and-router-patterns",
+      "preferred": "Workflow and router patterns",
+      "aliases": [
+        "Workflow and router patterns",
+        "workflow and router patterns"
+      ],
+      "count": 2
+    },
+    "agent-memory": {
+      "id": "agent-memory",
+      "preferred": "Agent memory",
+      "aliases": [
+        "Agent memory",
+        "agent memory"
+      ],
+      "count": 2
+    },
+    "observability-and-tracing": {
+      "id": "observability-and-tracing",
+      "preferred": "Observability and tracing",
+      "aliases": [
+        "Observability and tracing",
+        "observability and tracing"
+      ],
+      "count": 2
+    },
+    "production-readiness-checklist": {
+      "id": "production-readiness-checklist",
+      "preferred": "Production readiness checklist",
+      "aliases": [
+        "Production readiness checklist",
+        "production readiness checklist"
+      ],
+      "count": 2
+    },
+    "role-based-learning-tracks": {
+      "id": "role-based-learning-tracks",
+      "preferred": "Role-based learning tracks",
+      "aliases": [
+        "Role-based learning tracks",
+        "role-based learning tracks"
+      ],
+      "count": 2
+    },
+    "ai-coding-education": {
+      "id": "ai-coding-education",
+      "preferred": "AI coding education",
+      "aliases": [
+        "AI coding education"
+      ],
+      "count": 2
+    },
+    "ai-learning-resources": {
+      "id": "ai-learning-resources",
+      "preferred": "AI learning resources",
+      "aliases": [
+        "AI learning resources"
+      ],
+      "count": 2
+    },
+    "ai-agent-evaluations": {
+      "id": "ai-agent-evaluations",
+      "preferred": "AI agent evaluations",
+      "aliases": [
+        "AI agent evaluation",
+        "AI agent evaluations"
+      ],
+      "count": 2
+    },
+    "coding-agents": {
+      "id": "coding-agents",
+      "preferred": "coding agents",
+      "aliases": [
+        "coding agents"
+      ],
+      "count": 2
+    },
+    "system-design": {
+      "id": "system-design",
+      "preferred": "system design",
+      "aliases": [
+        "system design"
+      ],
+      "count": 2
+    },
+    "llm-evaluation": {
+      "id": "llm-evaluation",
+      "preferred": "LLM evaluation",
+      "aliases": [
+        "LLM evaluation"
+      ],
+      "count": 2
+    },
+    "tool-integrations": {
+      "id": "tool-integrations",
+      "preferred": "tool integrations",
+      "aliases": [
+        "tool integrations"
+      ],
+      "count": 2
+    },
+    "ai-operating-system": {
+      "id": "ai-operating-system",
+      "preferred": "AI operating system",
+      "aliases": [
+        "AI operating system"
+      ],
+      "count": 2
+    },
+    "graph-engineering": {
+      "id": "graph-engineering",
+      "preferred": "graph engineering",
+      "aliases": [
+        "graph engineering"
+      ],
+      "count": 2
+    },
+    "ai-engineering": {
+      "id": "ai-engineering",
+      "preferred": "AI engineering",
+      "aliases": [
+        "AI Engineering",
+        "AI engineering"
+      ],
+      "count": 2
+    },
+    "agent-harnesses": {
+      "id": "agent-harnesses",
+      "preferred": "agent harnesses",
+      "aliases": [
+        "Agent harnesses",
+        "agent harnesses"
+      ],
+      "count": 2
+    },
+    "ai-builders-summit": {
+      "id": "ai-builders-summit",
+      "preferred": "AI Builders Summit",
+      "aliases": [
+        "AI Builders Summit"
+      ],
+      "count": 2
+    },
+    "token-economics": {
+      "id": "token-economics",
+      "preferred": "token economics",
+      "aliases": [
+        "Token economics",
+        "token economics"
+      ],
+      "count": 2
+    },
+    "cost-optimization": {
+      "id": "cost-optimization",
+      "preferred": "cost optimization",
+      "aliases": [
+        "cost optimization"
+      ],
+      "count": 2
+    },
+    "ai-community-meetup": {
+      "id": "ai-community-meetup",
+      "preferred": "AI community meetup",
+      "aliases": [
+        "AI community meetup"
+      ],
+      "count": 2
+    },
+    "token-optimization": {
+      "id": "token-optimization",
+      "preferred": "token optimization",
+      "aliases": [
+        "token optimization"
+      ],
+      "count": 2
+    },
+    "task-isolation": {
+      "id": "task-isolation",
+      "preferred": "task isolation",
+      "aliases": [
+        "task isolation"
+      ],
+      "count": 2
+    },
+    "ai-generated-misinformation": {
+      "id": "ai-generated-misinformation",
+      "preferred": "AI generated misinformation",
+      "aliases": [
+        "AI generated misinformation",
+        "AI-generated misinformation"
+      ],
+      "count": 2
+    },
+    "synthetic-data": {
+      "id": "synthetic-data",
+      "preferred": "synthetic data",
+      "aliases": [
+        "synthetic data"
+      ],
+      "count": 2
+    },
+    "agentic-retrieval": {
+      "id": "agentic-retrieval",
+      "preferred": "agentic retrieval",
+      "aliases": [
+        "agentic retrieval"
+      ],
+      "count": 2
+    },
+    "vector-databases": {
+      "id": "vector-databases",
+      "preferred": "vector databases",
+      "aliases": [
+        "vector databases"
+      ],
+      "count": 2
+    },
+    "ai-evals": {
+      "id": "ai-evals",
+      "preferred": "AI evals",
+      "aliases": [
+        "AI Evals",
+        "AI evals"
+      ],
+      "count": 2
+    },
+    "document-intelligence": {
+      "id": "document-intelligence",
+      "preferred": "document intelligence",
+      "aliases": [
+        "document intelligence"
+      ],
+      "count": 2
+    },
+    "personal-ai-agents": {
+      "id": "personal-ai-agents",
+      "preferred": "personal AI agents",
+      "aliases": [
+        "personal AI agents"
+      ],
+      "count": 2
+    },
+    "cc-cd-framework": {
+      "id": "cc-cd-framework",
+      "preferred": "CC/CD framework",
+      "aliases": [
+        "CC/CD framework"
+      ],
+      "count": 2
+    },
+    "ai-engineering-fundamentals": {
+      "id": "ai-engineering-fundamentals",
+      "preferred": "AI engineering fundamentals",
+      "aliases": [
+        "AI engineering fundamentals"
+      ],
+      "count": 2
+    },
+    "ai-engineering-career-advice": {
+      "id": "ai-engineering-career-advice",
+      "preferred": "AI engineering career advice",
+      "aliases": [
+        "AI engineering career advice"
+      ],
+      "count": 2
+    },
+    "ai-builder-bundle-courses": {
+      "id": "ai-builder-bundle-courses",
+      "preferred": "AI Builder Bundle courses",
+      "aliases": [
+        "AI Builder Bundle courses",
+        "AI builder course bundle"
+      ],
+      "count": 2
+    },
+    "ai-inference-cost-reduction": {
+      "id": "ai-inference-cost-reduction",
+      "preferred": "AI inference cost reduction",
+      "aliases": [
+        "AI inference cost reduction",
+        "inference cost optimization"
+      ],
+      "count": 2
+    },
+    "spotting-ai-influencer-hype": {
+      "id": "spotting-ai-influencer-hype",
+      "preferred": "spotting AI influencer hype",
+      "aliases": [
+        "spotting AI influencer hype"
+      ],
+      "count": 1
+    },
+    "voice-ai-architecture-and-agents": {
+      "id": "voice-ai-architecture-and-agents",
+      "preferred": "Voice AI architecture and agents",
+      "aliases": [
+        "Voice AI architecture and agents"
+      ],
+      "count": 1
+    },
+    "focus-and-prioritization": {
+      "id": "focus-and-prioritization",
+      "preferred": "focus and prioritization",
+      "aliases": [
+        "focus and prioritization"
+      ],
+      "count": 1
+    },
+    "prompting": {
+      "id": "prompting",
+      "preferred": "prompting",
+      "aliases": [
+        "prompting"
+      ],
+      "count": 1
+    },
+    "programbench": {
+      "id": "programbench",
+      "preferred": "ProgramBench",
+      "aliases": [
+        "ProgramBench"
+      ],
+      "count": 1
+    },
+    "ai-code-generation-benchmarks": {
+      "id": "ai-code-generation-benchmarks",
+      "preferred": "AI code generation benchmarks",
+      "aliases": [
+        "AI code generation benchmarks"
+      ],
+      "count": 1
+    },
+    "ai-leverage-vs-human-judgment": {
+      "id": "ai-leverage-vs-human-judgment",
+      "preferred": "AI leverage vs human judgment",
+      "aliases": [
+        "AI leverage vs human judgment"
+      ],
+      "count": 1
+    },
+    "claude-code-system-architecture": {
+      "id": "claude-code-system-architecture",
+      "preferred": "Claude Code system architecture",
+      "aliases": [
+        "Claude Code system architecture"
+      ],
+      "count": 1
+    },
+    "autonomous-ml-research-agents": {
+      "id": "autonomous-ml-research-agents",
+      "preferred": "autonomous ML research agents",
+      "aliases": [
+        "autonomous ML research agents"
+      ],
+      "count": 1
+    },
+    "aris-harness": {
+      "id": "aris-harness",
+      "preferred": "ARIS harness",
+      "aliases": [
+        "ARIS harness"
+      ],
+      "count": 1
+    },
+    "open-source-design-agents": {
+      "id": "open-source-design-agents",
+      "preferred": "open source design agents",
+      "aliases": [
+        "open source design agents"
+      ],
+      "count": 1
+    },
+    "claude-design-alternative": {
+      "id": "claude-design-alternative",
+      "preferred": "Claude Design alternative",
+      "aliases": [
+        "Claude Design alternative"
+      ],
+      "count": 1
+    },
+    "claude-feature-comparison": {
+      "id": "claude-feature-comparison",
+      "preferred": "Claude feature comparison",
+      "aliases": [
+        "Claude feature comparison"
+      ],
+      "count": 1
+    },
+    "enterprise-ai-adoption": {
+      "id": "enterprise-ai-adoption",
+      "preferred": "enterprise AI adoption",
+      "aliases": [
+        "enterprise AI adoption"
+      ],
+      "count": 1
+    },
+    "ai-agent-security": {
+      "id": "ai-agent-security",
+      "preferred": "AI agent security",
+      "aliases": [
+        "AI agent security"
+      ],
+      "count": 1
+    },
+    "adversarial-attacks": {
+      "id": "adversarial-attacks",
+      "preferred": "adversarial attacks",
+      "aliases": [
+        "adversarial attacks"
+      ],
+      "count": 1
+    },
+    "2026-agent-stack": {
+      "id": "2026-agent-stack",
+      "preferred": "2026 agent stack",
+      "aliases": [
+        "2026 agent stack"
+      ],
+      "count": 1
+    },
+    "vector-db-and-memory-platforms": {
+      "id": "vector-db-and-memory-platforms",
+      "preferred": "vector DB and memory platforms",
+      "aliases": [
+        "vector DB and memory platforms"
+      ],
+      "count": 1
+    },
+    "ai-stack-evolution": {
+      "id": "ai-stack-evolution",
+      "preferred": "AI stack evolution",
+      "aliases": [
+        "AI stack evolution"
+      ],
+      "count": 1
+    },
+    "ai-agent-memory": {
+      "id": "ai-agent-memory",
+      "preferred": "AI agent memory",
+      "aliases": [
+        "AI agent memory"
+      ],
+      "count": 1
+    },
+    "ai-agent-configuration": {
+      "id": "ai-agent-configuration",
+      "preferred": "AI agent configuration",
+      "aliases": [
+        "AI agent configuration"
+      ],
+      "count": 1
+    },
+    "pursuing-excellence": {
+      "id": "pursuing-excellence",
+      "preferred": "pursuing excellence",
+      "aliases": [
+        "pursuing excellence"
+      ],
+      "count": 1
+    },
+    "customer-satisfaction": {
+      "id": "customer-satisfaction",
+      "preferred": "customer satisfaction",
+      "aliases": [
+        "customer satisfaction"
+      ],
+      "count": 1
+    },
+    "ai-agent-skills": {
+      "id": "ai-agent-skills",
+      "preferred": "AI agent skills",
+      "aliases": [
+        "AI agent skills"
+      ],
+      "count": 1
+    },
+    "workshop-engagement": {
+      "id": "workshop-engagement",
+      "preferred": "workshop engagement",
+      "aliases": [
+        "workshop engagement"
+      ],
+      "count": 1
+    },
+    "fundraising-challenges": {
+      "id": "fundraising-challenges",
+      "preferred": "fundraising challenges",
+      "aliases": [
+        "fundraising challenges"
+      ],
+      "count": 1
+    },
+    "vc-alignment-and-product-direction": {
+      "id": "vc-alignment-and-product-direction",
+      "preferred": "VC alignment and product direction",
+      "aliases": [
+        "VC alignment and product direction"
+      ],
+      "count": 1
+    },
+    "model-selection": {
+      "id": "model-selection",
+      "preferred": "Model selection",
+      "aliases": [
+        "Model selection"
+      ],
+      "count": 1
+    },
+    "tool-use-in-agents": {
+      "id": "tool-use-in-agents",
+      "preferred": "Tool use in agents",
+      "aliases": [
+        "Tool use in agents"
+      ],
+      "count": 1
+    },
+    "ai-protocols-and-extensibility": {
+      "id": "ai-protocols-and-extensibility",
+      "preferred": "AI protocols and extensibility",
+      "aliases": [
+        "AI protocols and extensibility"
+      ],
+      "count": 1
+    },
+    "future-of-ai-products": {
+      "id": "future-of-ai-products",
+      "preferred": "Future of AI products",
+      "aliases": [
+        "Future of AI products"
+      ],
+      "count": 1
+    },
+    "context-graphs": {
+      "id": "context-graphs",
+      "preferred": "context graphs",
+      "aliases": [
+        "context graphs"
+      ],
+      "count": 1
+    },
+    "enterprise-software-lock-in": {
+      "id": "enterprise-software-lock-in",
+      "preferred": "enterprise software lock-in",
+      "aliases": [
+        "enterprise software lock-in"
+      ],
+      "count": 1
+    },
+    "ai-agent-skill-optimization": {
+      "id": "ai-agent-skill-optimization",
+      "preferred": "AI agent skill optimization",
+      "aliases": [
+        "AI agent skill optimization"
+      ],
+      "count": 1
+    },
+    "skillopt": {
+      "id": "skillopt",
+      "preferred": "SkillOpt",
+      "aliases": [
+        "SkillOpt"
+      ],
+      "count": 1
+    },
+    "multi-agent-content-operating-system": {
+      "id": "multi-agent-content-operating-system",
+      "preferred": "multi-agent content operating system",
+      "aliases": [
+        "multi-agent content operating system"
+      ],
+      "count": 1
+    },
+    "problem-first-mindset": {
+      "id": "problem-first-mindset",
+      "preferred": "problem-first mindset",
+      "aliases": [
+        "problem-first mindset"
+      ],
+      "count": 1
+    },
+    "genai": {
+      "id": "genai",
+      "preferred": "GenAI",
+      "aliases": [
+        "GenAI"
+      ],
+      "count": 1
+    },
+    "course-feedback": {
+      "id": "course-feedback",
+      "preferred": "course feedback",
+      "aliases": [
+        "course feedback"
+      ],
+      "count": 1
+    },
+    "teaching-impact": {
+      "id": "teaching-impact",
+      "preferred": "teaching impact",
+      "aliases": [
+        "teaching impact"
+      ],
+      "count": 1
+    },
+    "llm-model-selection": {
+      "id": "llm-model-selection",
+      "preferred": "LLM model selection",
+      "aliases": [
+        "LLM model selection"
+      ],
+      "count": 1
+    },
+    "problem-first-ai-product-design": {
+      "id": "problem-first-ai-product-design",
+      "preferred": "problem-first AI product design",
+      "aliases": [
+        "problem-first AI product design"
+      ],
+      "count": 1
+    },
+    "ai-evaluation-core-concepts": {
+      "id": "ai-evaluation-core-concepts",
+      "preferred": "AI evaluation core concepts",
+      "aliases": [
+        "AI evaluation core concepts"
+      ],
+      "count": 1
+    },
+    "llm-as-judge-and-calibration": {
+      "id": "llm-as-judge-and-calibration",
+      "preferred": "LLM as judge and calibration",
+      "aliases": [
+        "LLM as judge and calibration"
+      ],
+      "count": 1
+    },
+    "agent-architecture-transition": {
+      "id": "agent-architecture-transition",
+      "preferred": "agent architecture transition",
+      "aliases": [
+        "agent architecture transition"
+      ],
+      "count": 1
+    },
+    "tool-use-and-actions": {
+      "id": "tool-use-and-actions",
+      "preferred": "tool use and actions",
+      "aliases": [
+        "tool use and actions"
+      ],
+      "count": 1
+    },
+    "memory-and-long-running-agents": {
+      "id": "memory-and-long-running-agents",
+      "preferred": "memory and long-running agents",
+      "aliases": [
+        "memory and long-running agents"
+      ],
+      "count": 1
+    },
+    "protocols-and-extensibility": {
+      "id": "protocols-and-extensibility",
+      "preferred": "protocols and extensibility",
+      "aliases": [
+        "protocols and extensibility"
+      ],
+      "count": 1
+    },
+    "future-of-ai-systems": {
+      "id": "future-of-ai-systems",
+      "preferred": "future of AI systems",
+      "aliases": [
+        "future of AI systems"
+      ],
+      "count": 1
+    },
+    "san-francisco-tech-culture": {
+      "id": "san-francisco-tech-culture",
+      "preferred": "San Francisco tech culture",
+      "aliases": [
+        "San Francisco tech culture"
+      ],
+      "count": 1
+    },
+    "ai-application-development": {
+      "id": "ai-application-development",
+      "preferred": "AI application development",
+      "aliases": [
+        "AI application development"
+      ],
+      "count": 1
+    },
+    "cohort-based-learning": {
+      "id": "cohort-based-learning",
+      "preferred": "cohort-based learning",
+      "aliases": [
+        "cohort-based learning"
+      ],
+      "count": 1
+    },
+    "ai-stack": {
+      "id": "ai-stack",
+      "preferred": "AI stack",
+      "aliases": [
+        "AI stack"
+      ],
+      "count": 1
+    },
+    "ai-native-building": {
+      "id": "ai-native-building",
+      "preferred": "AI native building",
+      "aliases": [
+        "AI native building"
+      ],
+      "count": 1
+    },
+    "ai-architecture": {
+      "id": "ai-architecture",
+      "preferred": "AI architecture",
+      "aliases": [
+        "AI architecture"
+      ],
+      "count": 1
+    },
+    "professional-development-courses": {
+      "id": "professional-development-courses",
+      "preferred": "professional development courses",
+      "aliases": [
+        "professional development courses"
+      ],
+      "count": 1
+    },
+    "ai-evaluation-workflows": {
+      "id": "ai-evaluation-workflows",
+      "preferred": "AI evaluation workflows",
+      "aliases": [
+        "AI evaluation workflows"
+      ],
+      "count": 1
+    },
+    "reinforcement-learning": {
+      "id": "reinforcement-learning",
+      "preferred": "reinforcement learning",
+      "aliases": [
+        "reinforcement learning"
+      ],
+      "count": 1
+    },
+    "ai-builder-pass": {
+      "id": "ai-builder-pass",
+      "preferred": "AI Builder Pass",
+      "aliases": [
+        "AI Builder Pass"
+      ],
+      "count": 1
+    },
+    "in-person-ai-community-meetups": {
+      "id": "in-person-ai-community-meetups",
+      "preferred": "in-person AI community meetups",
+      "aliases": [
+        "in-person AI community meetups"
+      ],
+      "count": 1
+    },
+    "voice-coding": {
+      "id": "voice-coding",
+      "preferred": "voice coding",
+      "aliases": [
+        "voice coding"
+      ],
+      "count": 1
+    },
+    "voice-agents": {
+      "id": "voice-agents",
+      "preferred": "voice agents",
+      "aliases": [
+        "voice agents"
+      ],
+      "count": 1
+    },
+    "enterprise-voice-ai": {
+      "id": "enterprise-voice-ai",
+      "preferred": "enterprise voice AI",
+      "aliases": [
+        "enterprise voice AI"
+      ],
+      "count": 1
+    },
+    "agent-augmented-coding": {
+      "id": "agent-augmented-coding",
+      "preferred": "agent-augmented coding",
+      "aliases": [
+        "agent-augmented coding"
+      ],
+      "count": 1
+    },
+    "enterprise-ai-transformation": {
+      "id": "enterprise-ai-transformation",
+      "preferred": "enterprise AI transformation",
+      "aliases": [
+        "enterprise AI transformation"
+      ],
+      "count": 1
+    },
+    "claude-partner-network": {
+      "id": "claude-partner-network",
+      "preferred": "Claude Partner Network",
+      "aliases": [
+        "Claude Partner Network"
+      ],
+      "count": 1
+    },
+    "new-grad-hiring": {
+      "id": "new-grad-hiring",
+      "preferred": "new grad hiring",
+      "aliases": [
+        "new grad hiring"
+      ],
+      "count": 1
+    },
+    "claude-tag-api-pricing": {
+      "id": "claude-tag-api-pricing",
+      "preferred": "Claude Tag API pricing",
+      "aliases": [
+        "Claude Tag API pricing"
+      ],
+      "count": 1
+    },
+    "ai-model-routing": {
+      "id": "ai-model-routing",
+      "preferred": "AI model routing",
+      "aliases": [
+        "AI model routing"
+      ],
+      "count": 1
+    },
+    "ai-engineering-roadmap": {
+      "id": "ai-engineering-roadmap",
+      "preferred": "AI engineering roadmap",
+      "aliases": [
+        "AI engineering roadmap"
+      ],
+      "count": 1
+    },
+    "ai-agent-workflows-and-tool-integration": {
+      "id": "ai-agent-workflows-and-tool-integration",
+      "preferred": "AI agent workflows and tool integration",
+      "aliases": [
+        "AI agent workflows and tool integration"
+      ],
+      "count": 1
+    },
+    "continuous-ai-evaluation-loop": {
+      "id": "continuous-ai-evaluation-loop",
+      "preferred": "continuous AI evaluation loop",
+      "aliases": [
+        "continuous AI evaluation loop"
+      ],
+      "count": 1
+    },
+    "unplugging-from-work": {
+      "id": "unplugging-from-work",
+      "preferred": "unplugging from work",
+      "aliases": [
+        "unplugging from work"
+      ],
+      "count": 1
+    },
+    "ai-product-management": {
+      "id": "ai-product-management",
+      "preferred": "AI product management",
+      "aliases": [
+        "AI product management"
+      ],
+      "count": 1
+    },
+    "multiplayer-ai-workspace": {
+      "id": "multiplayer-ai-workspace",
+      "preferred": "multiplayer AI workspace",
+      "aliases": [
+        "multiplayer AI workspace"
+      ],
+      "count": 1
+    },
+    "cold-outreach": {
+      "id": "cold-outreach",
+      "preferred": "cold outreach",
+      "aliases": [
+        "cold outreach"
+      ],
+      "count": 1
+    },
+    "ai-in-marketing": {
+      "id": "ai-in-marketing",
+      "preferred": "AI in marketing",
+      "aliases": [
+        "AI in marketing"
+      ],
+      "count": 1
+    },
+    "frontier-practitioners": {
+      "id": "frontier-practitioners",
+      "preferred": "frontier practitioners",
+      "aliases": [
+        "frontier practitioners"
+      ],
+      "count": 1
+    },
+    "voice-ai-agents": {
+      "id": "voice-ai-agents",
+      "preferred": "voice AI agents",
+      "aliases": [
+        "voice AI agents"
+      ],
+      "count": 1
+    },
+    "pedantic-ai-evals": {
+      "id": "pedantic-ai-evals",
+      "preferred": "pedantic AI evals",
+      "aliases": [
+        "pedantic AI evals"
+      ],
+      "count": 1
+    },
+    "checklist-ai-evals": {
+      "id": "checklist-ai-evals",
+      "preferred": "checklist AI evals",
+      "aliases": [
+        "checklist AI evals"
+      ],
+      "count": 1
+    },
+    "voice-ai": {
+      "id": "voice-ai",
+      "preferred": "voice AI",
+      "aliases": [
+        "voice AI"
+      ],
+      "count": 1
+    },
+    "agent-state-definition": {
+      "id": "agent-state-definition",
+      "preferred": "agent state definition",
+      "aliases": [
+        "agent state definition"
+      ],
+      "count": 1
+    },
+    "agent-state-axes": {
+      "id": "agent-state-axes",
+      "preferred": "agent state axes",
+      "aliases": [
+        "agent state axes"
+      ],
+      "count": 1
+    },
+    "agent-state-lifecycle": {
+      "id": "agent-state-lifecycle",
+      "preferred": "agent state lifecycle",
+      "aliases": [
+        "agent state lifecycle"
+      ],
+      "count": 1
+    },
+    "context-windows-and-retrieval-limits": {
+      "id": "context-windows-and-retrieval-limits",
+      "preferred": "context windows and retrieval limits",
+      "aliases": [
+        "context windows and retrieval limits"
+      ],
+      "count": 1
+    },
+    "ungoverned-memory-degradation": {
+      "id": "ungoverned-memory-degradation",
+      "preferred": "ungoverned memory degradation",
+      "aliases": [
+        "ungoverned memory degradation"
+      ],
+      "count": 1
+    },
+    "ai-burnout": {
+      "id": "ai-burnout",
+      "preferred": "AI burnout",
+      "aliases": [
+        "AI burnout"
+      ],
+      "count": 1
+    },
+    "ai-slop": {
+      "id": "ai-slop",
+      "preferred": "AI slop",
+      "aliases": [
+        "AI slop"
+      ],
+      "count": 1
+    },
+    "content-quality": {
+      "id": "content-quality",
+      "preferred": "content quality",
+      "aliases": [
+        "content quality"
+      ],
+      "count": 1
+    },
+    "ai-education-philosophy": {
+      "id": "ai-education-philosophy",
+      "preferred": "AI education philosophy",
+      "aliases": [
+        "AI education philosophy"
+      ],
+      "count": 1
+    },
+    "problem-framing": {
+      "id": "problem-framing",
+      "preferred": "problem framing",
+      "aliases": [
+        "problem framing"
+      ],
+      "count": 1
+    },
+    "evaluation-metrics": {
+      "id": "evaluation-metrics",
+      "preferred": "evaluation metrics",
+      "aliases": [
+        "evaluation metrics"
+      ],
+      "count": 1
+    },
+    "continuous-improvement": {
+      "id": "continuous-improvement",
+      "preferred": "continuous improvement",
+      "aliases": [
+        "continuous improvement"
+      ],
+      "count": 1
+    },
+    "human-in-the-loop-workflows": {
+      "id": "human-in-the-loop-workflows",
+      "preferred": "human-in-the-loop workflows",
+      "aliases": [
+        "human-in-the-loop workflows"
+      ],
+      "count": 1
+    },
+    "reusable-ai-workflows": {
+      "id": "reusable-ai-workflows",
+      "preferred": "reusable AI workflows",
+      "aliases": [
+        "reusable AI workflows"
+      ],
+      "count": 1
+    },
+    "ai-community": {
+      "id": "ai-community",
+      "preferred": "AI community",
+      "aliases": [
+        "AI community"
+      ],
+      "count": 1
+    },
+    "ai-implementation": {
+      "id": "ai-implementation",
+      "preferred": "AI implementation",
+      "aliases": [
+        "AI implementation"
+      ],
+      "count": 1
+    },
+    "horizontal-copilots-vs-vertical-workflows": {
+      "id": "horizontal-copilots-vs-vertical-workflows",
+      "preferred": "horizontal copilots vs vertical workflows",
+      "aliases": [
+        "horizontal copilots vs vertical workflows"
+      ],
+      "count": 1
+    },
+    "build-vs-buy-agentic-stack": {
+      "id": "build-vs-buy-agentic-stack",
+      "preferred": "build vs buy agentic stack",
+      "aliases": [
+        "build vs buy agentic stack"
+      ],
+      "count": 1
+    },
+    "composable-and-compostable-architecture": {
+      "id": "composable-and-compostable-architecture",
+      "preferred": "composable and compostable architecture",
+      "aliases": [
+        "composable and compostable architecture"
+      ],
+      "count": 1
+    },
+    "production-readiness-and-governance": {
+      "id": "production-readiness-and-governance",
+      "preferred": "production-readiness and governance",
+      "aliases": [
+        "production-readiness and governance"
+      ],
+      "count": 1
+    },
+    "workflow-engines-and-structured-agent-autonomy": {
+      "id": "workflow-engines-and-structured-agent-autonomy",
+      "preferred": "workflow engines and structured agent autonomy",
+      "aliases": [
+        "workflow engines and structured agent autonomy"
+      ],
+      "count": 1
+    },
+    "ai-builders-handbook-structure": {
+      "id": "ai-builders-handbook-structure",
+      "preferred": "AI Builders Handbook structure",
+      "aliases": [
+        "AI Builders Handbook structure"
+      ],
+      "count": 1
+    },
+    "ai-learning-paths": {
+      "id": "ai-learning-paths",
+      "preferred": "AI learning paths",
+      "aliases": [
+        "AI learning paths"
+      ],
+      "count": 1
+    },
+    "data-source-auditing": {
+      "id": "data-source-auditing",
+      "preferred": "data source auditing",
+      "aliases": [
+        "data source auditing"
+      ],
+      "count": 1
+    },
+    "ai-orchestration": {
+      "id": "ai-orchestration",
+      "preferred": "AI orchestration",
+      "aliases": [
+        "AI orchestration"
+      ],
+      "count": 1
+    },
+    "ai-adoption-and-workforce-education": {
+      "id": "ai-adoption-and-workforce-education",
+      "preferred": "AI adoption and workforce education",
+      "aliases": [
+        "AI adoption and workforce education"
+      ],
+      "count": 1
+    },
+    "ai-knowledge-base-context": {
+      "id": "ai-knowledge-base-context",
+      "preferred": "AI knowledge base context",
+      "aliases": [
+        "AI knowledge base context"
+      ],
+      "count": 1
+    },
+    "searchable-ai-wiki": {
+      "id": "searchable-ai-wiki",
+      "preferred": "searchable AI wiki",
+      "aliases": [
+        "searchable AI wiki"
+      ],
+      "count": 1
+    },
+    "reusable-ai-skills-and-plugins": {
+      "id": "reusable-ai-skills-and-plugins",
+      "preferred": "reusable AI skills and plugins",
+      "aliases": [
+        "reusable AI skills and plugins"
+      ],
+      "count": 1
+    },
+    "workflow-automation-with-ai-agents": {
+      "id": "workflow-automation-with-ai-agents",
+      "preferred": "workflow automation with AI agents",
+      "aliases": [
+        "workflow automation with AI agents"
+      ],
+      "count": 1
+    },
+    "evaluations-and-quality-control": {
+      "id": "evaluations-and-quality-control",
+      "preferred": "evaluations and quality control",
+      "aliases": [
+        "evaluations and quality control"
+      ],
+      "count": 1
+    },
+    "ai-feedback-loops": {
+      "id": "ai-feedback-loops",
+      "preferred": "AI feedback loops",
+      "aliases": [
+        "AI feedback loops"
+      ],
+      "count": 1
+    },
+    "parallel-ai-threads": {
+      "id": "parallel-ai-threads",
+      "preferred": "parallel AI threads",
+      "aliases": [
+        "parallel AI threads"
+      ],
+      "count": 1
+    },
+    "safe-ai-system-integration": {
+      "id": "safe-ai-system-integration",
+      "preferred": "safe AI system integration",
+      "aliases": [
+        "safe AI system integration"
+      ],
+      "count": 1
+    },
+    "ai-detection": {
+      "id": "ai-detection",
+      "preferred": "AI detection",
+      "aliases": [
+        "AI detection"
+      ],
+      "count": 1
+    },
+    "course-announcement": {
+      "id": "course-announcement",
+      "preferred": "course announcement",
+      "aliases": [
+        "course announcement"
+      ],
+      "count": 1
+    },
+    "looped-ai-models": {
+      "id": "looped-ai-models",
+      "preferred": "looped AI models",
+      "aliases": [
+        "looped AI models"
+      ],
+      "count": 1
+    },
+    "recurrence-in-transformers": {
+      "id": "recurrence-in-transformers",
+      "preferred": "recurrence in transformers",
+      "aliases": [
+        "recurrence in transformers"
+      ],
+      "count": 1
+    },
+    "learning-to-code-in-the-age-of-ai": {
+      "id": "learning-to-code-in-the-age-of-ai",
+      "preferred": "learning to code in the age of AI",
+      "aliases": [
+        "learning to code in the age of AI"
+      ],
+      "count": 1
+    },
+    "task-estimation": {
+      "id": "task-estimation",
+      "preferred": "task estimation",
+      "aliases": [
+        "task estimation"
+      ],
+      "count": 1
+    },
+    "ai-infrastructure-access": {
+      "id": "ai-infrastructure-access",
+      "preferred": "AI infrastructure access",
+      "aliases": [
+        "AI infrastructure access"
+      ],
+      "count": 1
+    },
+    "content-creation": {
+      "id": "content-creation",
+      "preferred": "content creation",
+      "aliases": [
+        "content creation"
+      ],
+      "count": 1
+    },
+    "ai-engineering-conferences": {
+      "id": "ai-engineering-conferences",
+      "preferred": "AI engineering conferences",
+      "aliases": [
+        "AI engineering conferences"
+      ],
+      "count": 1
+    },
+    "ai-agent-engineering-terminology": {
+      "id": "ai-agent-engineering-terminology",
+      "preferred": "AI agent engineering terminology",
+      "aliases": [
+        "AI agent engineering terminology"
+      ],
+      "count": 1
+    },
+    "cc-cd-continuous-calibration-continuous-development": {
+      "id": "cc-cd-continuous-calibration-continuous-development",
+      "preferred": "CC/CD (Continuous Calibration & Continuous Development)",
+      "aliases": [
+        "CC/CD (Continuous Calibration & Continuous Development)"
+      ],
+      "count": 1
+    },
+    "technical-interviews": {
+      "id": "technical-interviews",
+      "preferred": "technical interviews",
+      "aliases": [
+        "technical interviews"
+      ],
+      "count": 1
+    },
+    "human-ai-collaboration": {
+      "id": "human-ai-collaboration",
+      "preferred": "human-AI collaboration",
+      "aliases": [
+        "human-AI collaboration"
+      ],
+      "count": 1
+    },
+    "ai-agent-delegation": {
+      "id": "ai-agent-delegation",
+      "preferred": "AI agent delegation",
+      "aliases": [
+        "AI agent delegation"
+      ],
+      "count": 1
+    },
+    "codex": {
+      "id": "codex",
+      "preferred": "Codex",
+      "aliases": [
+        "Codex"
+      ],
+      "count": 1
+    },
+    "ai-interview-preparation": {
+      "id": "ai-interview-preparation",
+      "preferred": "AI interview preparation",
+      "aliases": [
+        "AI interview preparation"
+      ],
+      "count": 1
+    },
+    "context-design": {
+      "id": "context-design",
+      "preferred": "context design",
+      "aliases": [
+        "context design"
+      ],
+      "count": 1
+    },
+    "ai-native-products": {
+      "id": "ai-native-products",
+      "preferred": "AI native products",
+      "aliases": [
+        "AI native products"
+      ],
+      "count": 1
+    },
+    "ai-trade-off-evaluation": {
+      "id": "ai-trade-off-evaluation",
+      "preferred": "AI trade-off evaluation",
+      "aliases": [
+        "AI trade-off evaluation"
+      ],
+      "count": 1
+    },
+    "meeting-workflows": {
+      "id": "meeting-workflows",
+      "preferred": "meeting workflows",
+      "aliases": [
+        "meeting workflows"
+      ],
+      "count": 1
+    },
+    "model-context-protocol-mcp": {
+      "id": "model-context-protocol-mcp",
+      "preferred": "Model Context Protocol (MCP)",
+      "aliases": [
+        "Model Context Protocol (MCP)"
+      ],
+      "count": 1
+    },
+    "cursor": {
+      "id": "cursor",
+      "preferred": "Cursor",
+      "aliases": [
+        "Cursor"
+      ],
+      "count": 1
+    },
+    "ai-event-registration": {
+      "id": "ai-event-registration",
+      "preferred": "AI event registration",
+      "aliases": [
+        "AI event registration"
+      ],
+      "count": 1
+    },
+    "enterprise-ai-operationalization": {
+      "id": "enterprise-ai-operationalization",
+      "preferred": "enterprise AI operationalization",
+      "aliases": [
+        "enterprise AI operationalization"
+      ],
+      "count": 1
+    },
+    "ai-in-engineering-workflows": {
+      "id": "ai-in-engineering-workflows",
+      "preferred": "AI in engineering workflows",
+      "aliases": [
+        "AI in engineering workflows"
+      ],
+      "count": 1
+    },
+    "codex-workflows-and-best-practices": {
+      "id": "codex-workflows-and-best-practices",
+      "preferred": "Codex workflows and best practices",
+      "aliases": [
+        "Codex workflows and best practices"
+      ],
+      "count": 1
+    },
+    "free-event": {
+      "id": "free-event",
+      "preferred": "free event",
+      "aliases": [
+        "free event"
+      ],
+      "count": 1
+    },
+    "ai-ux-design": {
+      "id": "ai-ux-design",
+      "preferred": "AI UX design",
+      "aliases": [
+        "AI UX design"
+      ],
+      "count": 1
+    },
+    "deepseek-harness": {
+      "id": "deepseek-harness",
+      "preferred": "DeepSeek Harness",
+      "aliases": [
+        "DeepSeek Harness"
+      ],
+      "count": 1
+    },
+    "ai-post-training-behavior": {
+      "id": "ai-post-training-behavior",
+      "preferred": "AI post-training behavior",
+      "aliases": [
+        "AI post-training behavior"
+      ],
+      "count": 1
+    },
+    "ai-video-generation-and-deepfakes": {
+      "id": "ai-video-generation-and-deepfakes",
+      "preferred": "AI video generation and deepfakes",
+      "aliases": [
+        "AI video generation and deepfakes"
+      ],
+      "count": 1
+    },
+    "deepfake-detection": {
+      "id": "deepfake-detection",
+      "preferred": "deepfake detection",
+      "aliases": [
+        "deepfake detection"
+      ],
+      "count": 1
+    },
+    "ai-networking-events": {
+      "id": "ai-networking-events",
+      "preferred": "AI networking events",
+      "aliases": [
+        "AI networking events"
+      ],
+      "count": 1
+    },
+    "nemotron": {
+      "id": "nemotron",
+      "preferred": "Nemotron",
+      "aliases": [
+        "Nemotron"
+      ],
+      "count": 1
+    },
+    "open-source-ai": {
+      "id": "open-source-ai",
+      "preferred": "open-source AI",
+      "aliases": [
+        "open-source AI"
+      ],
+      "count": 1
+    },
+    "ai-engineering-concepts": {
+      "id": "ai-engineering-concepts",
+      "preferred": "AI engineering concepts",
+      "aliases": [
+        "AI engineering concepts"
+      ],
+      "count": 1
+    },
+    "announcement-excitement": {
+      "id": "announcement-excitement",
+      "preferred": "announcement excitement",
+      "aliases": [
+        "announcement excitement"
+      ],
+      "count": 1
+    },
+    "course-endorsement": {
+      "id": "course-endorsement",
+      "preferred": "course endorsement",
+      "aliases": [
+        "course endorsement"
+      ],
+      "count": 1
+    },
+    "cohort-based-course-quality": {
+      "id": "cohort-based-course-quality",
+      "preferred": "cohort-based course quality",
+      "aliases": [
+        "cohort-based course quality"
+      ],
+      "count": 1
+    },
+    "agentic-ai-lifecycle": {
+      "id": "agentic-ai-lifecycle",
+      "preferred": "agentic AI lifecycle",
+      "aliases": [
+        "agentic AI lifecycle"
+      ],
+      "count": 1
+    },
+    "ai-voice-agents": {
+      "id": "ai-voice-agents",
+      "preferred": "AI voice agents",
+      "aliases": [
+        "AI voice agents"
+      ],
+      "count": 1
+    },
+    "voice-cloning": {
+      "id": "voice-cloning",
+      "preferred": "voice cloning",
+      "aliases": [
+        "voice cloning"
+      ],
+      "count": 1
+    },
+    "book-to-skill": {
+      "id": "book-to-skill",
+      "preferred": "book-to-skill",
+      "aliases": [
+        "book-to-skill"
+      ],
+      "count": 1
+    },
+    "astra-codex": {
+      "id": "astra-codex",
+      "preferred": "Astra + Codex",
+      "aliases": [
+        "Astra + Codex"
+      ],
+      "count": 1
+    },
+    "ai-coding-assistants": {
+      "id": "ai-coding-assistants",
+      "preferred": "AI coding assistants",
+      "aliases": [
+        "AI coding assistants"
+      ],
+      "count": 1
+    },
+    "text-watermarking": {
+      "id": "text-watermarking",
+      "preferred": "text watermarking",
+      "aliases": [
+        "text watermarking"
+      ],
+      "count": 1
+    },
+    "claude": {
+      "id": "claude",
+      "preferred": "Claude",
+      "aliases": [
+        "Claude"
+      ],
+      "count": 1
+    },
+    "voice-ai-architecture": {
+      "id": "voice-ai-architecture",
+      "preferred": "voice AI architecture",
+      "aliases": [
+        "voice AI architecture"
+      ],
+      "count": 1
+    },
+    "voice-agent-testing": {
+      "id": "voice-agent-testing",
+      "preferred": "voice agent testing",
+      "aliases": [
+        "voice agent testing"
+      ],
+      "count": 1
+    },
+    "system-design-trade-offs": {
+      "id": "system-design-trade-offs",
+      "preferred": "system design trade-offs",
+      "aliases": [
+        "system design trade-offs"
+      ],
+      "count": 1
+    },
+    "observability-and-evaluation-mechanisms": {
+      "id": "observability-and-evaluation-mechanisms",
+      "preferred": "observability and evaluation mechanisms",
+      "aliases": [
+        "observability and evaluation mechanisms"
+      ],
+      "count": 1
+    },
+    "agent-harness-evolution": {
+      "id": "agent-harness-evolution",
+      "preferred": "agent harness evolution",
+      "aliases": [
+        "agent harness evolution"
+      ],
+      "count": 1
+    },
+    "agent-workflow-design": {
+      "id": "agent-workflow-design",
+      "preferred": "agent workflow design",
+      "aliases": [
+        "agent workflow design"
+      ],
+      "count": 1
+    },
+    "ai-agent-evaluation-and-observability": {
+      "id": "ai-agent-evaluation-and-observability",
+      "preferred": "AI agent evaluation and observability",
+      "aliases": [
+        "AI agent evaluation and observability"
+      ],
+      "count": 1
+    },
+    "ai-engineering-career-transition": {
+      "id": "ai-engineering-career-transition",
+      "preferred": "AI engineering career transition",
+      "aliases": [
+        "AI engineering career transition"
+      ],
+      "count": 1
+    },
+    "llm-wiki-generation": {
+      "id": "llm-wiki-generation",
+      "preferred": "LLM wiki generation",
+      "aliases": [
+        "LLM wiki generation"
+      ],
+      "count": 1
+    },
+    "knowledge-management": {
+      "id": "knowledge-management",
+      "preferred": "knowledge management",
+      "aliases": [
+        "knowledge management"
+      ],
+      "count": 1
+    },
+    "inference-engineering": {
+      "id": "inference-engineering",
+      "preferred": "inference engineering",
+      "aliases": [
+        "inference engineering"
+      ],
+      "count": 1
+    },
+    "ai-agent-cost-optimization": {
+      "id": "ai-agent-cost-optimization",
+      "preferred": "AI agent cost optimization",
+      "aliases": [
+        "AI agent cost optimization"
+      ],
+      "count": 1
+    },
+    "context-audit-and-setup": {
+      "id": "context-audit-and-setup",
+      "preferred": "context audit and setup",
+      "aliases": [
+        "context audit and setup"
+      ],
+      "count": 1
+    },
+    "prompt-optimization": {
+      "id": "prompt-optimization",
+      "preferred": "prompt optimization",
+      "aliases": [
+        "prompt optimization"
+      ],
+      "count": 1
+    },
+    "failure-recovery": {
+      "id": "failure-recovery",
+      "preferred": "failure recovery",
+      "aliases": [
+        "failure recovery"
+      ],
+      "count": 1
+    },
+    "agent-optimization": {
+      "id": "agent-optimization",
+      "preferred": "agent optimization",
+      "aliases": [
+        "agent optimization"
+      ],
+      "count": 1
+    },
+    "ai-product-engineering": {
+      "id": "ai-product-engineering",
+      "preferred": "AI product engineering",
+      "aliases": [
+        "AI product engineering"
+      ],
+      "count": 1
+    },
+    "system-architecture": {
+      "id": "system-architecture",
+      "preferred": "system architecture",
+      "aliases": [
+        "system architecture"
+      ],
+      "count": 1
+    },
+    "llm-foundations": {
+      "id": "llm-foundations",
+      "preferred": "LLM foundations",
+      "aliases": [
+        "LLM foundations"
+      ],
+      "count": 1
+    },
+    "evals": {
+      "id": "evals",
+      "preferred": "evals",
+      "aliases": [
+        "evals"
+      ],
+      "count": 1
+    },
+    "pedagogy-in-the-age-of-ai": {
+      "id": "pedagogy-in-the-age-of-ai",
+      "preferred": "pedagogy in the age of AI",
+      "aliases": [
+        "pedagogy in the age of AI"
+      ],
+      "count": 1
+    },
+    "impact-of-artificial-intelligence-on-human-purpose-and-intel": {
+      "id": "impact-of-artificial-intelligence-on-human-purpose-and-intel",
+      "preferred": "impact of artificial intelligence on human purpose and intellect",
+      "aliases": [
+        "impact of artificial intelligence on human purpose and intellect"
+      ],
+      "count": 1
+    },
+    "online-ai-courses": {
+      "id": "online-ai-courses",
+      "preferred": "online AI courses",
+      "aliases": [
+        "online AI courses"
+      ],
+      "count": 1
+    },
+    "trace-analysis-and-cost-optimization": {
+      "id": "trace-analysis-and-cost-optimization",
+      "preferred": "trace analysis and cost optimization",
+      "aliases": [
+        "trace analysis and cost optimization"
+      ],
+      "count": 1
+    },
+    "ai-production-systems": {
+      "id": "ai-production-systems",
+      "preferred": "AI production systems",
+      "aliases": [
+        "AI production systems"
+      ],
+      "count": 1
+    },
+    "token-reduction": {
+      "id": "token-reduction",
+      "preferred": "token reduction",
+      "aliases": [
+        "token reduction"
+      ],
+      "count": 1
+    },
+    "context-window-optimization": {
+      "id": "context-window-optimization",
+      "preferred": "context window optimization",
+      "aliases": [
+        "context window optimization"
+      ],
+      "count": 1
+    },
+    "ai-startups-and-memory-systems": {
+      "id": "ai-startups-and-memory-systems",
+      "preferred": "AI startups and memory systems",
+      "aliases": [
+        "AI startups and memory systems"
+      ],
+      "count": 1
+    },
+    "decision-models-vs-llms": {
+      "id": "decision-models-vs-llms",
+      "preferred": "decision models vs LLMs",
+      "aliases": [
+        "decision models vs LLMs"
+      ],
+      "count": 1
+    },
+    "rlcd": {
+      "id": "rlcd",
+      "preferred": "RLCD",
+      "aliases": [
+        "RLCD"
+      ],
+      "count": 1
+    },
+    "frontier-models-vs-specialized-classification": {
+      "id": "frontier-models-vs-specialized-classification",
+      "preferred": "frontier models vs specialized classification",
+      "aliases": [
+        "frontier models vs specialized classification"
+      ],
+      "count": 1
+    },
+    "workflow-memory": {
+      "id": "workflow-memory",
+      "preferred": "workflow memory",
+      "aliases": [
+        "workflow memory"
+      ],
+      "count": 1
+    },
+    "subtask-memory": {
+      "id": "subtask-memory",
+      "preferred": "subtask memory",
+      "aliases": [
+        "subtask memory"
+      ],
+      "count": 1
+    },
+    "function-memory": {
+      "id": "function-memory",
+      "preferred": "function memory",
+      "aliases": [
+        "function memory"
+      ],
+      "count": 1
+    },
+    "taste-bench": {
+      "id": "taste-bench",
+      "preferred": "Taste-Bench",
+      "aliases": [
+        "Taste-Bench"
+      ],
+      "count": 1
+    },
+    "ai-supercycle-economics": {
+      "id": "ai-supercycle-economics",
+      "preferred": "AI supercycle economics",
+      "aliases": [
+        "AI supercycle economics"
+      ],
+      "count": 1
+    },
+    "gpu-economy-and-data-centers": {
+      "id": "gpu-economy-and-data-centers",
+      "preferred": "GPU economy and data centers",
+      "aliases": [
+        "GPU economy and data centers"
+      ],
+      "count": 1
+    },
+    "career-reflection": {
+      "id": "career-reflection",
+      "preferred": "career reflection",
+      "aliases": [
+        "career reflection"
+      ],
+      "count": 1
+    },
+    "openmuse-architecture": {
+      "id": "openmuse-architecture",
+      "preferred": "OpenMuse architecture",
+      "aliases": [
+        "OpenMuse architecture"
+      ],
+      "count": 1
+    },
+    "computer-use": {
+      "id": "computer-use",
+      "preferred": "computer use",
+      "aliases": [
+        "computer use"
+      ],
+      "count": 1
+    },
+    "ai-graphic-generation": {
+      "id": "ai-graphic-generation",
+      "preferred": "AI graphic generation",
+      "aliases": [
+        "AI graphic generation"
+      ],
+      "count": 1
+    },
+    "corporate-politics-in-the-ai-era": {
+      "id": "corporate-politics-in-the-ai-era",
+      "preferred": "corporate politics in the AI era",
+      "aliases": [
+        "corporate politics in the AI era"
+      ],
+      "count": 1
+    },
+    "eval-design-automation": {
+      "id": "eval-design-automation",
+      "preferred": "eval design automation",
+      "aliases": [
+        "eval design automation"
+      ],
+      "count": 1
+    },
+    "context-windows-vs-retrieval": {
+      "id": "context-windows-vs-retrieval",
+      "preferred": "context windows vs retrieval",
+      "aliases": [
+        "context windows vs retrieval"
+      ],
+      "count": 1
+    },
+    "rag-failure-modes": {
+      "id": "rag-failure-modes",
+      "preferred": "RAG failure modes",
+      "aliases": [
+        "RAG failure modes"
+      ],
+      "count": 1
+    },
+    "knowledge-runtime-layer": {
+      "id": "knowledge-runtime-layer",
+      "preferred": "knowledge runtime layer",
+      "aliases": [
+        "knowledge runtime layer"
+      ],
+      "count": 1
+    },
+    "self-advocacy": {
+      "id": "self-advocacy",
+      "preferred": "self-advocacy",
+      "aliases": [
+        "self-advocacy"
+      ],
+      "count": 1
+    },
+    "video-creation": {
+      "id": "video-creation",
+      "preferred": "video creation",
+      "aliases": [
+        "video creation"
+      ],
+      "count": 1
+    },
+    "writing-for-builders": {
+      "id": "writing-for-builders",
+      "preferred": "writing for builders",
+      "aliases": [
+        "writing for builders"
+      ],
+      "count": 1
+    },
+    "forward-deployed-engineer": {
+      "id": "forward-deployed-engineer",
+      "preferred": "Forward Deployed Engineer",
+      "aliases": [
+        "Forward Deployed Engineer"
+      ],
+      "count": 1
+    },
+    "voice-and-multimodal-workflows": {
+      "id": "voice-and-multimodal-workflows",
+      "preferred": "Voice and multimodal workflows",
+      "aliases": [
+        "Voice and multimodal workflows"
+      ],
+      "count": 1
+    },
+    "inference-engineering-and-sovereign-ai": {
+      "id": "inference-engineering-and-sovereign-ai",
+      "preferred": "Inference engineering and sovereign AI",
+      "aliases": [
+        "Inference engineering and sovereign AI"
+      ],
+      "count": 1
+    },
+    "knowledge-runtimes": {
+      "id": "knowledge-runtimes",
+      "preferred": "Knowledge runtimes",
+      "aliases": [
+        "Knowledge runtimes"
+      ],
+      "count": 1
+    },
+    "earning-customer-trust": {
+      "id": "earning-customer-trust",
+      "preferred": "earning customer trust",
+      "aliases": [
+        "earning customer trust"
+      ],
+      "count": 1
+    },
+    "ai-slop-comments": {
+      "id": "ai-slop-comments",
+      "preferred": "AI slop comments",
+      "aliases": [
+        "AI slop comments"
+      ],
+      "count": 1
+    },
+    "enterprise-search": {
+      "id": "enterprise-search",
+      "preferred": "enterprise search",
+      "aliases": [
+        "enterprise search"
+      ],
+      "count": 1
+    },
+    "conversation-intelligence": {
+      "id": "conversation-intelligence",
+      "preferred": "conversation intelligence",
+      "aliases": [
+        "conversation intelligence"
+      ],
+      "count": 1
+    },
+    "sovereign-ai-engine": {
+      "id": "sovereign-ai-engine",
+      "preferred": "sovereign AI engine",
+      "aliases": [
+        "sovereign AI engine"
+      ],
+      "count": 1
+    },
+    "support-agents": {
+      "id": "support-agents",
+      "preferred": "support agents",
+      "aliases": [
+        "support agents"
+      ],
+      "count": 1
+    },
+    "targeted-portfolio-projects": {
+      "id": "targeted-portfolio-projects",
+      "preferred": "targeted portfolio projects",
+      "aliases": [
+        "targeted portfolio projects"
+      ],
+      "count": 1
+    },
+    "nvidia-nemotron": {
+      "id": "nvidia-nemotron",
+      "preferred": "NVIDIA Nemotron",
+      "aliases": [
+        "NVIDIA Nemotron"
+      ],
+      "count": 1
+    },
+    "open-source-ai-models": {
+      "id": "open-source-ai-models",
+      "preferred": "open-source AI models",
+      "aliases": [
+        "open-source AI models"
+      ],
+      "count": 1
+    },
+    "claude-duet": {
+      "id": "claude-duet",
+      "preferred": "Claude Duet",
+      "aliases": [
+        "Claude Duet"
+      ],
+      "count": 1
+    },
+    "ai-security-and-trust": {
+      "id": "ai-security-and-trust",
+      "preferred": "AI security and trust",
+      "aliases": [
+        "AI security and trust"
+      ],
+      "count": 1
+    },
+    "evaluating-self-improving-harnesses": {
+      "id": "evaluating-self-improving-harnesses",
+      "preferred": "evaluating self-improving harnesses",
+      "aliases": [
+        "evaluating self-improving harnesses"
+      ],
+      "count": 1
+    },
+    "agent-governance-and-guardrail-rewriting": {
+      "id": "agent-governance-and-guardrail-rewriting",
+      "preferred": "agent governance and guardrail rewriting",
+      "aliases": [
+        "agent governance and guardrail rewriting"
+      ],
+      "count": 1
+    },
+    "ai-resume-slop": {
+      "id": "ai-resume-slop",
+      "preferred": "AI resume slop",
+      "aliases": [
+        "AI resume slop"
+      ],
+      "count": 1
+    },
+    "peer-learning-and-teaching": {
+      "id": "peer-learning-and-teaching",
+      "preferred": "peer learning and teaching",
+      "aliases": [
+        "peer learning and teaching"
+      ],
+      "count": 1
+    },
+    "rea-coding-agent-setup": {
+      "id": "rea-coding-agent-setup",
+      "preferred": "REA coding agent setup",
+      "aliases": [
+        "REA coding agent setup"
+      ],
+      "count": 1
+    },
+    "software-inspection": {
+      "id": "software-inspection",
+      "preferred": "software inspection",
+      "aliases": [
+        "software inspection"
+      ],
+      "count": 1
+    },
+    "code-relationship-tracing": {
+      "id": "code-relationship-tracing",
+      "preferred": "code relationship tracing",
+      "aliases": [
+        "code relationship tracing"
+      ],
+      "count": 1
+    },
+    "rule-recovery-and-reimplementation": {
+      "id": "rule-recovery-and-reimplementation",
+      "preferred": "rule recovery and reimplementation",
+      "aliases": [
+        "rule recovery and reimplementation"
+      ],
+      "count": 1
+    },
+    "behavioral-verification": {
+      "id": "behavioral-verification",
+      "preferred": "behavioral verification",
+      "aliases": [
+        "behavioral verification"
+      ],
+      "count": 1
+    },
+    "startup-fundraising": {
+      "id": "startup-fundraising",
+      "preferred": "startup fundraising",
+      "aliases": [
+        "startup fundraising"
+      ],
+      "count": 1
+    },
+    "context-compaction": {
+      "id": "context-compaction",
+      "preferred": "context compaction",
+      "aliases": [
+        "context compaction"
+      ],
+      "count": 1
+    },
+    "memory-management": {
+      "id": "memory-management",
+      "preferred": "memory management",
+      "aliases": [
+        "memory management"
+      ],
+      "count": 1
+    },
+    "model-routing": {
+      "id": "model-routing",
+      "preferred": "model routing",
+      "aliases": [
+        "model routing"
+      ],
+      "count": 1
+    },
+    "token-cost-reduction": {
+      "id": "token-cost-reduction",
+      "preferred": "token cost reduction",
+      "aliases": [
+        "token cost reduction"
+      ],
+      "count": 1
+    },
+    "self-improving-agents": {
+      "id": "self-improving-agents",
+      "preferred": "self-improving agents",
+      "aliases": [
+        "self-improving agents"
+      ],
+      "count": 1
+    },
+    "b2b-sales-automation": {
+      "id": "b2b-sales-automation",
+      "preferred": "B2B sales automation",
+      "aliases": [
+        "B2B sales automation"
+      ],
+      "count": 1
+    },
+    "spar-framework": {
+      "id": "spar-framework",
+      "preferred": "SPAR framework",
+      "aliases": [
+        "SPAR framework"
+      ],
+      "count": 1
+    },
+    "token-limit-optimization": {
+      "id": "token-limit-optimization",
+      "preferred": "token limit optimization",
+      "aliases": [
+        "token limit optimization"
+      ],
+      "count": 1
+    },
+    "terminal-output-filtering": {
+      "id": "terminal-output-filtering",
+      "preferred": "terminal output filtering",
+      "aliases": [
+        "terminal output filtering"
+      ],
+      "count": 1
+    },
+    "output-sandboxing-and-indexing": {
+      "id": "output-sandboxing-and-indexing",
+      "preferred": "output sandboxing and indexing",
+      "aliases": [
+        "output sandboxing and indexing"
+      ],
+      "count": 1
+    },
+    "symbol-level-code-navigation": {
+      "id": "symbol-level-code-navigation",
+      "preferred": "symbol-level code navigation",
+      "aliases": [
+        "symbol-level code navigation"
+      ],
+      "count": 1
+    },
+    "token-usage-tracking": {
+      "id": "token-usage-tracking",
+      "preferred": "token usage tracking",
+      "aliases": [
+        "token usage tracking"
+      ],
+      "count": 1
+    },
+    "investment-memo": {
+      "id": "investment-memo",
+      "preferred": "investment memo",
+      "aliases": [
+        "investment memo"
+      ],
+      "count": 1
+    },
+    "voice-ai-competition": {
+      "id": "voice-ai-competition",
+      "preferred": "voice AI competition",
+      "aliases": [
+        "voice AI competition"
+      ],
+      "count": 1
+    },
+    "product-moats": {
+      "id": "product-moats",
+      "preferred": "product moats",
+      "aliases": [
+        "product moats"
+      ],
+      "count": 1
+    },
+    "ai-system-design-education": {
+      "id": "ai-system-design-education",
+      "preferred": "AI system design education",
+      "aliases": [
+        "AI system design education"
+      ],
+      "count": 1
+    },
+    "skill-evaluation": {
+      "id": "skill-evaluation",
+      "preferred": "skill evaluation",
+      "aliases": [
+        "skill evaluation"
+      ],
+      "count": 1
+    },
+    "clean-environment-testing": {
+      "id": "clean-environment-testing",
+      "preferred": "clean environment testing",
+      "aliases": [
+        "clean environment testing"
+      ],
+      "count": 1
+    },
+    "comparative-task-evaluation": {
+      "id": "comparative-task-evaluation",
+      "preferred": "comparative task evaluation",
+      "aliases": [
+        "comparative task evaluation"
+      ],
+      "count": 1
+    },
+    "evaluation-scoring-metrics": {
+      "id": "evaluation-scoring-metrics",
+      "preferred": "evaluation scoring metrics",
+      "aliases": [
+        "evaluation scoring metrics"
+      ],
+      "count": 1
+    },
+    "skill-context-optimization": {
+      "id": "skill-context-optimization",
+      "preferred": "skill context optimization",
+      "aliases": [
+        "skill context optimization"
+      ],
+      "count": 1
+    },
+    "hybrid-reasoning-agents": {
+      "id": "hybrid-reasoning-agents",
+      "preferred": "Hybrid Reasoning Agents",
+      "aliases": [
+        "Hybrid Reasoning Agents"
+      ],
+      "count": 1
+    },
+    "latent-reasoning": {
+      "id": "latent-reasoning",
+      "preferred": "latent reasoning",
+      "aliases": [
+        "latent reasoning"
+      ],
+      "count": 1
+    },
+    "inference-speed": {
+      "id": "inference-speed",
+      "preferred": "inference speed",
+      "aliases": [
+        "inference speed"
+      ],
+      "count": 1
+    },
+    "portfolio-projects": {
+      "id": "portfolio-projects",
+      "preferred": "portfolio projects",
+      "aliases": [
+        "portfolio projects"
+      ],
+      "count": 1
+    },
+    "code-comprehension": {
+      "id": "code-comprehension",
+      "preferred": "code comprehension",
+      "aliases": [
+        "code comprehension"
+      ],
+      "count": 1
+    },
+    "architecture-documentation": {
+      "id": "architecture-documentation",
+      "preferred": "architecture documentation",
+      "aliases": [
+        "architecture documentation"
+      ],
+      "count": 1
+    },
+    "project-setup-and-reproducibility": {
+      "id": "project-setup-and-reproducibility",
+      "preferred": "project setup and reproducibility",
+      "aliases": [
+        "project setup and reproducibility"
+      ],
+      "count": 1
+    },
+    "software-testing": {
+      "id": "software-testing",
+      "preferred": "software testing",
+      "aliases": [
+        "software testing"
+      ],
+      "count": 1
+    },
+    "ai-agent-debugging-and-optimization": {
+      "id": "ai-agent-debugging-and-optimization",
+      "preferred": "AI agent debugging and optimization",
+      "aliases": [
+        "AI agent debugging and optimization"
+      ],
+      "count": 1
+    },
+    "clawdbot": {
+      "id": "clawdbot",
+      "preferred": "ClawdBot",
+      "aliases": [
+        "ClawdBot"
+      ],
+      "count": 1
+    },
+    "eval-flywheels": {
+      "id": "eval-flywheels",
+      "preferred": "eval flywheels",
+      "aliases": [
+        "eval flywheels"
+      ],
+      "count": 1
+    },
+    "agentic-ai-architecture": {
+      "id": "agentic-ai-architecture",
+      "preferred": "agentic AI architecture",
+      "aliases": [
+        "agentic AI architecture"
+      ],
+      "count": 1
+    },
+    "workflow-vs-autonomy-trade-offs": {
+      "id": "workflow-vs-autonomy-trade-offs",
+      "preferred": "workflow vs autonomy trade-offs",
+      "aliases": [
+        "workflow vs autonomy trade-offs"
+      ],
+      "count": 1
+    },
+    "continuous-improvement-flywheels": {
+      "id": "continuous-improvement-flywheels",
+      "preferred": "continuous improvement flywheels",
+      "aliases": [
+        "continuous improvement flywheels"
+      ],
+      "count": 1
+    },
+    "ai-coding-agents": {
+      "id": "ai-coding-agents",
+      "preferred": "AI coding agents",
+      "aliases": [
+        "AI coding agents"
+      ],
+      "count": 1
+    },
+    "agent-workflows": {
+      "id": "agent-workflows",
+      "preferred": "agent workflows",
+      "aliases": [
+        "agent workflows"
+      ],
+      "count": 1
+    },
+    "habits-ai-forces-instructors-to-unlearn": {
+      "id": "habits-ai-forces-instructors-to-unlearn",
+      "preferred": "habits AI forces instructors to unlearn",
+      "aliases": [
+        "habits AI forces instructors to unlearn"
+      ],
+      "count": 1
+    },
+    "ai-behavior-calibration": {
+      "id": "ai-behavior-calibration",
+      "preferred": "AI behavior calibration",
+      "aliases": [
+        "AI behavior calibration"
+      ],
+      "count": 1
+    },
+    "agent-harness-engineering": {
+      "id": "agent-harness-engineering",
+      "preferred": "agent harness engineering",
+      "aliases": [
+        "agent harness engineering"
+      ],
+      "count": 1
+    },
+    "enterprise-verticals": {
+      "id": "enterprise-verticals",
+      "preferred": "Enterprise Verticals",
+      "aliases": [
+        "Enterprise Verticals"
+      ],
+      "count": 1
+    },
+    "problem-first-framework": {
+      "id": "problem-first-framework",
+      "preferred": "Problem-First Framework",
+      "aliases": [
+        "Problem-First Framework"
+      ],
+      "count": 1
+    },
+    "cohort-discount": {
+      "id": "cohort-discount",
+      "preferred": "Cohort Discount",
+      "aliases": [
+        "Cohort Discount"
+      ],
+      "count": 1
+    },
+    "speech-models-capabilities": {
+      "id": "speech-models-capabilities",
+      "preferred": "speech models capabilities",
+      "aliases": [
+        "speech models capabilities"
+      ],
+      "count": 1
+    },
+    "cartesia-models-walkthrough": {
+      "id": "cartesia-models-walkthrough",
+      "preferred": "Cartesia models walkthrough",
+      "aliases": [
+        "Cartesia models walkthrough"
+      ],
+      "count": 1
+    },
+    "real-time-speech-latency-and-product-viability": {
+      "id": "real-time-speech-latency-and-product-viability",
+      "preferred": "real-time speech latency and product viability",
+      "aliases": [
+        "real-time speech latency and product viability"
+      ],
+      "count": 1
+    },
+    "architecture-choices-and-tradeoffs": {
+      "id": "architecture-choices-and-tradeoffs",
+      "preferred": "architecture choices and tradeoffs",
+      "aliases": [
+        "architecture choices and tradeoffs"
+      ],
+      "count": 1
+    },
+    "agent-traces-and-evals": {
+      "id": "agent-traces-and-evals",
+      "preferred": "agent traces and evals",
+      "aliases": [
+        "agent traces and evals"
+      ],
+      "count": 1
+    },
+    "agent-driven-investigation": {
+      "id": "agent-driven-investigation",
+      "preferred": "agent-driven investigation",
+      "aliases": [
+        "agent-driven investigation"
+      ],
+      "count": 1
+    },
+    "self-improvement-loop": {
+      "id": "self-improvement-loop",
+      "preferred": "self-improvement loop",
+      "aliases": [
+        "self-improvement loop"
+      ],
+      "count": 1
+    },
+    "evals-and-regression-prevention": {
+      "id": "evals-and-regression-prevention",
+      "preferred": "evals and regression prevention",
+      "aliases": [
+        "evals and regression prevention"
+      ],
+      "count": 1
+    },
+    "voice-agent-architecture": {
+      "id": "voice-agent-architecture",
+      "preferred": "voice agent architecture",
+      "aliases": [
+        "voice agent architecture"
+      ],
+      "count": 1
+    },
+    "testing-and-validation": {
+      "id": "testing-and-validation",
+      "preferred": "testing and validation",
+      "aliases": [
+        "testing and validation"
+      ],
+      "count": 1
+    },
+    "call-failure-handling": {
+      "id": "call-failure-handling",
+      "preferred": "call failure handling",
+      "aliases": [
+        "call failure handling"
+      ],
+      "count": 1
+    },
+    "voice-agent-compliance": {
+      "id": "voice-agent-compliance",
+      "preferred": "voice agent compliance",
+      "aliases": [
+        "voice agent compliance"
+      ],
+      "count": 1
+    },
+    "ai-engineering-courses": {
+      "id": "ai-engineering-courses",
+      "preferred": "AI engineering courses",
+      "aliases": [
+        "AI engineering courses"
+      ],
+      "count": 1
+    },
+    "hosting-openclaw": {
+      "id": "hosting-openclaw",
+      "preferred": "hosting OpenClaw",
+      "aliases": [
+        "hosting OpenClaw"
+      ],
+      "count": 1
+    },
+    "email-workflows": {
+      "id": "email-workflows",
+      "preferred": "email workflows",
+      "aliases": [
+        "email workflows"
+      ],
+      "count": 1
+    },
+    "inbox-security": {
+      "id": "inbox-security",
+      "preferred": "inbox security",
+      "aliases": [
+        "inbox security"
+      ],
+      "count": 1
+    },
+    "social-media-algorithms": {
+      "id": "social-media-algorithms",
+      "preferred": "social media algorithms",
+      "aliases": [
+        "social media algorithms"
+      ],
+      "count": 1
+    },
+    "continuous-calibration-continuous-development": {
+      "id": "continuous-calibration-continuous-development",
+      "preferred": "continuous calibration continuous development",
+      "aliases": [
+        "continuous calibration continuous development"
+      ],
+      "count": 1
+    },
+    "cccd-framework": {
+      "id": "cccd-framework",
+      "preferred": "CCCD framework",
+      "aliases": [
+        "CCCD framework"
+      ],
+      "count": 1
+    },
+    "agent-guardrails": {
+      "id": "agent-guardrails",
+      "preferred": "agent guardrails",
+      "aliases": [
+        "agent guardrails"
+      ],
+      "count": 1
+    },
+    "multi-agent-scaling": {
+      "id": "multi-agent-scaling",
+      "preferred": "multi-agent scaling",
+      "aliases": [
+        "multi-agent scaling"
+      ],
+      "count": 1
+    },
+    "deterministic-evaluation": {
+      "id": "deterministic-evaluation",
+      "preferred": "deterministic evaluation",
+      "aliases": [
+        "deterministic evaluation"
+      ],
+      "count": 1
+    },
+    "ai-agent-architecture": {
+      "id": "ai-agent-architecture",
+      "preferred": "AI agent architecture",
+      "aliases": [
+        "AI agent architecture"
+      ],
+      "count": 1
+    },
+    "ai-agent-identity-file": {
+      "id": "ai-agent-identity-file",
+      "preferred": "AI agent identity file",
+      "aliases": [
+        "AI agent identity file"
+      ],
+      "count": 1
+    },
+    "tool-integration-and-permissions": {
+      "id": "tool-integration-and-permissions",
+      "preferred": "tool integration and permissions",
+      "aliases": [
+        "tool integration and permissions"
+      ],
+      "count": 1
+    },
+    "agent-skills-and-triggers": {
+      "id": "agent-skills-and-triggers",
+      "preferred": "agent skills and triggers",
+      "aliases": [
+        "agent skills and triggers"
+      ],
+      "count": 1
+    },
+    "agent-trust-levels": {
+      "id": "agent-trust-levels",
+      "preferred": "agent trust levels",
+      "aliases": [
+        "agent trust levels"
+      ],
+      "count": 1
+    },
+    "eval-design": {
+      "id": "eval-design",
+      "preferred": "eval design",
+      "aliases": [
+        "eval design"
+      ],
+      "count": 1
+    },
+    "enterprise-ai-deployment": {
+      "id": "enterprise-ai-deployment",
+      "preferred": "enterprise AI deployment",
+      "aliases": [
+        "enterprise AI deployment"
+      ],
+      "count": 1
+    },
+    "model-portability": {
+      "id": "model-portability",
+      "preferred": "model portability",
+      "aliases": [
+        "model portability"
+      ],
+      "count": 1
+    },
+    "career-visibility": {
+      "id": "career-visibility",
+      "preferred": "career visibility",
+      "aliases": [
+        "career visibility"
+      ],
+      "count": 1
+    },
+    "ai-system-design-roadmap": {
+      "id": "ai-system-design-roadmap",
+      "preferred": "AI system design roadmap",
+      "aliases": [
+        "AI system design roadmap"
+      ],
+      "count": 1
+    },
+    "large-language-models": {
+      "id": "large-language-models",
+      "preferred": "Large Language Models",
+      "aliases": [
+        "Large Language Models"
+      ],
+      "count": 1
+    },
+    "ai-agent-components": {
+      "id": "ai-agent-components",
+      "preferred": "AI agent components",
+      "aliases": [
+        "AI agent components"
+      ],
+      "count": 1
+    },
+    "multi-agent-systems-and-ai-ops": {
+      "id": "multi-agent-systems-and-ai-ops",
+      "preferred": "multi-agent systems and AI Ops",
+      "aliases": [
+        "multi-agent systems and AI Ops"
+      ],
+      "count": 1
+    },
+    "enterprise-generative-ai-use-cases": {
+      "id": "enterprise-generative-ai-use-cases",
+      "preferred": "enterprise generative AI use cases",
+      "aliases": [
+        "enterprise generative AI use cases"
+      ],
+      "count": 1
+    },
+    "llm-evolution-and-architecture": {
+      "id": "llm-evolution-and-architecture",
+      "preferred": "LLM evolution and architecture",
+      "aliases": [
+        "LLM evolution and architecture"
+      ],
+      "count": 1
+    },
+    "agentic-workflows-and-rag": {
+      "id": "agentic-workflows-and-rag",
+      "preferred": "agentic workflows and RAG",
+      "aliases": [
+        "agentic workflows and RAG"
+      ],
+      "count": 1
+    },
+    "ai-team-composition-and-responsibilities": {
+      "id": "ai-team-composition-and-responsibilities",
+      "preferred": "AI team composition and responsibilities",
+      "aliases": [
+        "AI team composition and responsibilities"
+      ],
+      "count": 1
+    },
+    "practical-portfolio-development": {
+      "id": "practical-portfolio-development",
+      "preferred": "practical portfolio development",
+      "aliases": [
+        "practical portfolio development"
+      ],
+      "count": 1
+    },
+    "ai-learning-roadmap": {
+      "id": "ai-learning-roadmap",
+      "preferred": "AI learning roadmap",
+      "aliases": [
+        "AI learning roadmap"
+      ],
+      "count": 1
+    },
+    "adopting-llms-into-personal-workflows": {
+      "id": "adopting-llms-into-personal-workflows",
+      "preferred": "adopting LLMs into personal workflows",
+      "aliases": [
+        "adopting LLMs into personal workflows"
+      ],
+      "count": 1
+    },
+    "model-selection-for-specialized-tasks": {
+      "id": "model-selection-for-specialized-tasks",
+      "preferred": "model selection for specialized tasks",
+      "aliases": [
+        "model selection for specialized tasks"
+      ],
+      "count": 1
+    },
+    "effective-prompt-context": {
+      "id": "effective-prompt-context",
+      "preferred": "effective prompt context",
+      "aliases": [
+        "effective prompt context"
+      ],
+      "count": 1
+    },
+    "prompt-engineering-automation": {
+      "id": "prompt-engineering-automation",
+      "preferred": "prompt engineering automation",
+      "aliases": [
+        "prompt engineering automation"
+      ],
+      "count": 1
+    },
+    "data-preprocessing-and-quality": {
+      "id": "data-preprocessing-and-quality",
+      "preferred": "data preprocessing and quality",
+      "aliases": [
+        "data preprocessing and quality"
+      ],
+      "count": 1
+    },
+    "enterprise-genai-deployment-workflow": {
+      "id": "enterprise-genai-deployment-workflow",
+      "preferred": "enterprise GenAI deployment workflow",
+      "aliases": [
+        "enterprise GenAI deployment workflow"
+      ],
+      "count": 1
+    },
+    "llm-evaluation-and-metric-design": {
+      "id": "llm-evaluation-and-metric-design",
+      "preferred": "LLM evaluation and metric design",
+      "aliases": [
+        "LLM evaluation and metric design"
+      ],
+      "count": 1
+    },
+    "vertical-specialization-in-ai-careers": {
+      "id": "vertical-specialization-in-ai-careers",
+      "preferred": "vertical specialization in AI careers",
+      "aliases": [
+        "vertical specialization in AI careers"
+      ],
+      "count": 1
+    },
+    "ai-knowledge-base": {
+      "id": "ai-knowledge-base",
+      "preferred": "AI knowledge base",
+      "aliases": [
+        "AI knowledge base"
+      ],
+      "count": 1
+    },
+    "skills-and-automations": {
+      "id": "skills-and-automations",
+      "preferred": "skills and automations",
+      "aliases": [
+        "skills and automations"
+      ],
+      "count": 1
+    },
+    "evals-and-feedback-loops": {
+      "id": "evals-and-feedback-loops",
+      "preferred": "evals and feedback loops",
+      "aliases": [
+        "evals and feedback loops"
+      ],
+      "count": 1
+    },
+    "guest-introduction": {
+      "id": "guest-introduction",
+      "preferred": "guest introduction",
+      "aliases": [
+        "guest introduction"
+      ],
+      "count": 1
+    },
+    "ai-product-development-challenges": {
+      "id": "ai-product-development-challenges",
+      "preferred": "AI product development challenges",
+      "aliases": [
+        "AI product development challenges"
+      ],
+      "count": 1
+    },
+    "non-determinism-and-agency": {
+      "id": "non-determinism-and-agency",
+      "preferred": "non-determinism and agency",
+      "aliases": [
+        "non-determinism and agency"
+      ],
+      "count": 1
+    },
+    "problem-first-development": {
+      "id": "problem-first-development",
+      "preferred": "problem-first development",
+      "aliases": [
+        "problem-first development"
+      ],
+      "count": 1
+    },
+    "ai-security-and-guardrails": {
+      "id": "ai-security-and-guardrails",
+      "preferred": "AI security and guardrails",
+      "aliases": [
+        "AI security and guardrails"
+      ],
+      "count": 1
+    },
+    "organizational-culture-and-leadership": {
+      "id": "organizational-culture-and-leadership",
+      "preferred": "organizational culture and leadership",
+      "aliases": [
+        "organizational culture and leadership"
+      ],
+      "count": 1
+    },
+    "evals-vs-production-monitoring": {
+      "id": "evals-vs-production-monitoring",
+      "preferred": "evals vs production monitoring",
+      "aliases": [
+        "evals vs production monitoring"
+      ],
+      "count": 1
+    },
+    "evaluating-coding-agents": {
+      "id": "evaluating-coding-agents",
+      "preferred": "evaluating coding agents",
+      "aliases": [
+        "evaluating coding agents"
+      ],
+      "count": 1
+    },
+    "model-updates-and-user-behavior-drift": {
+      "id": "model-updates-and-user-behavior-drift",
+      "preferred": "model updates and user behavior drift",
+      "aliases": [
+        "model updates and user behavior drift"
+      ],
+      "count": 1
+    },
+    "multi-agent-systems-and-coding-agents": {
+      "id": "multi-agent-systems-and-coding-agents",
+      "preferred": "multi-agent systems and coding agents",
+      "aliases": [
+        "multi-agent systems and coding agents"
+      ],
+      "count": 1
+    },
+    "multimodal-and-proactive-agents": {
+      "id": "multimodal-and-proactive-agents",
+      "preferred": "multimodal and proactive agents",
+      "aliases": [
+        "multimodal and proactive agents"
+      ],
+      "count": 1
+    },
+    "product-design-taste-and-persistence": {
+      "id": "product-design-taste-and-persistence",
+      "preferred": "product design, taste, and persistence",
+      "aliases": [
+        "product design, taste, and persistence"
+      ],
+      "count": 1
+    },
+    "recommendations-and-career-advice": {
+      "id": "recommendations-and-career-advice",
+      "preferred": "recommendations and career advice",
+      "aliases": [
+        "recommendations and career advice"
+      ],
+      "count": 1
+    },
+    "ai-impact-on-coding": {
+      "id": "ai-impact-on-coding",
+      "preferred": "AI impact on coding",
+      "aliases": [
+        "AI impact on coding"
+      ],
+      "count": 1
+    },
+    "one-level-up-rule": {
+      "id": "one-level-up-rule",
+      "preferred": "one level up rule",
+      "aliases": [
+        "one level up rule"
+      ],
+      "count": 1
+    },
+    "builder-s-loop": {
+      "id": "builder-s-loop",
+      "preferred": "builder's loop",
+      "aliases": [
+        "builder's loop"
+      ],
+      "count": 1
+    },
+    "spec-driven-development": {
+      "id": "spec-driven-development",
+      "preferred": "spec-driven development",
+      "aliases": [
+        "spec-driven development"
+      ],
+      "count": 1
+    },
+    "code-review": {
+      "id": "code-review",
+      "preferred": "code review",
+      "aliases": [
+        "code review"
+      ],
+      "count": 1
+    },
+    "ai-agent-limitations": {
+      "id": "ai-agent-limitations",
+      "preferred": "AI agent limitations",
+      "aliases": [
+        "AI agent limitations"
+      ],
+      "count": 1
+    },
+    "workflow-evaluation": {
+      "id": "workflow-evaluation",
+      "preferred": "workflow evaluation",
+      "aliases": [
+        "workflow evaluation"
+      ],
+      "count": 1
+    },
+    "incremental-automation": {
+      "id": "incremental-automation",
+      "preferred": "incremental automation",
+      "aliases": [
+        "incremental automation"
+      ],
+      "count": 1
+    },
+    "human-in-the-loop-governance": {
+      "id": "human-in-the-loop-governance",
+      "preferred": "human-in-the-loop governance",
+      "aliases": [
+        "human-in-the-loop governance"
+      ],
+      "count": 1
+    },
+    "automation-scaling": {
+      "id": "automation-scaling",
+      "preferred": "automation scaling",
+      "aliases": [
+        "automation scaling"
+      ],
+      "count": 1
+    },
+    "rag": {
+      "id": "rag",
+      "preferred": "RAG",
+      "aliases": [
+        "RAG"
+      ],
+      "count": 1
+    },
+    "chunking": {
+      "id": "chunking",
+      "preferred": "chunking",
+      "aliases": [
+        "chunking"
+      ],
+      "count": 1
+    },
+    "vector-search": {
+      "id": "vector-search",
+      "preferred": "vector search",
+      "aliases": [
+        "vector search"
+      ],
+      "count": 1
+    },
+    "naive-rag": {
+      "id": "naive-rag",
+      "preferred": "naive RAG",
+      "aliases": [
+        "naive RAG"
+      ],
+      "count": 1
+    },
+    "context-window": {
+      "id": "context-window",
+      "preferred": "context window",
+      "aliases": [
+        "context window"
+      ],
+      "count": 1
+    },
+    "hybrid-retrieval": {
+      "id": "hybrid-retrieval",
+      "preferred": "hybrid retrieval",
+      "aliases": [
+        "hybrid retrieval"
+      ],
+      "count": 1
+    },
+    "knowledge-runtime": {
+      "id": "knowledge-runtime",
+      "preferred": "knowledge runtime",
+      "aliases": [
+        "knowledge runtime"
+      ],
+      "count": 1
+    },
+    "context-audit": {
+      "id": "context-audit",
+      "preferred": "context audit",
+      "aliases": [
+        "context audit"
+      ],
+      "count": 1
+    },
+    "identity-file": {
+      "id": "identity-file",
+      "preferred": "identity file",
+      "aliases": [
+        "identity file"
+      ],
+      "count": 1
+    },
+    "interview-prompts": {
+      "id": "interview-prompts",
+      "preferred": "interview prompts",
+      "aliases": [
+        "interview prompts"
+      ],
+      "count": 1
+    },
+    "context-rot": {
+      "id": "context-rot",
+      "preferred": "context rot",
+      "aliases": [
+        "context rot"
+      ],
+      "count": 1
+    },
+    "rewind-and-fork": {
+      "id": "rewind-and-fork",
+      "preferred": "rewind and fork",
+      "aliases": [
+        "rewind and fork"
+      ],
+      "count": 1
+    },
+    "agent-setup-checklist": {
+      "id": "agent-setup-checklist",
+      "preferred": "agent setup checklist",
+      "aliases": [
+        "agent setup checklist"
+      ],
+      "count": 1
+    },
+    "ai-engineering-overview": {
+      "id": "ai-engineering-overview",
+      "preferred": "AI engineering overview",
+      "aliases": [
+        "AI engineering overview"
+      ],
+      "count": 1
+    },
+    "prompt-engineering": {
+      "id": "prompt-engineering",
+      "preferred": "prompt engineering",
+      "aliases": [
+        "prompt engineering"
+      ],
+      "count": 1
+    },
+    "agent-loops": {
+      "id": "agent-loops",
+      "preferred": "agent loops",
+      "aliases": [
+        "agent loops"
+      ],
+      "count": 1
+    },
+    "multi-agent-graph-workflow": {
+      "id": "multi-agent-graph-workflow",
+      "preferred": "multi-agent graph workflow",
+      "aliases": [
+        "multi-agent graph workflow"
+      ],
+      "count": 1
+    },
+    "evaluating-ai-engineering-trends": {
+      "id": "evaluating-ai-engineering-trends",
+      "preferred": "evaluating AI engineering trends",
+      "aliases": [
+        "evaluating AI engineering trends"
+      ],
+      "count": 1
+    },
+    "ai-evaluation-vs-software-testing": {
+      "id": "ai-evaluation-vs-software-testing",
+      "preferred": "AI evaluation vs software testing",
+      "aliases": [
+        "AI evaluation vs software testing"
+      ],
+      "count": 1
+    },
+    "model-evals-vs-product-evals": {
+      "id": "model-evals-vs-product-evals",
+      "preferred": "model evals vs product evals",
+      "aliases": [
+        "model evals vs product evals"
+      ],
+      "count": 1
+    },
+    "eval-methods": {
+      "id": "eval-methods",
+      "preferred": "eval methods",
+      "aliases": [
+        "eval methods"
+      ],
+      "count": 1
+    },
+    "reference-dataset-creation": {
+      "id": "reference-dataset-creation",
+      "preferred": "reference dataset creation",
+      "aliases": [
+        "reference dataset creation"
+      ],
+      "count": 1
+    },
+    "error-analysis": {
+      "id": "error-analysis",
+      "preferred": "error analysis",
+      "aliases": [
+        "error analysis"
+      ],
+      "count": 1
+    },
+    "llm-judge-rubrics": {
+      "id": "llm-judge-rubrics",
+      "preferred": "LLM judge rubrics",
+      "aliases": [
+        "LLM judge rubrics"
+      ],
+      "count": 1
+    },
+    "ai-production-failures": {
+      "id": "ai-production-failures",
+      "preferred": "AI production failures",
+      "aliases": [
+        "AI production failures"
+      ],
+      "count": 1
+    },
+    "fde-core-responsibilities": {
+      "id": "fde-core-responsibilities",
+      "preferred": "FDE core responsibilities",
+      "aliases": [
+        "FDE core responsibilities"
+      ],
+      "count": 1
+    },
+    "fde-skill-layers": {
+      "id": "fde-skill-layers",
+      "preferred": "FDE skill layers",
+      "aliases": [
+        "FDE skill layers"
+      ],
+      "count": 1
+    },
+    "breadth-vs-depth": {
+      "id": "breadth-vs-depth",
+      "preferred": "breadth vs depth",
+      "aliases": [
+        "breadth vs depth"
+      ],
+      "count": 1
+    },
+    "fde-industry-myths": {
+      "id": "fde-industry-myths",
+      "preferred": "FDE industry myths",
+      "aliases": [
+        "FDE industry myths"
+      ],
+      "count": 1
+    },
+    "fde-compensation-and-experience": {
+      "id": "fde-compensation-and-experience",
+      "preferred": "FDE compensation and experience",
+      "aliases": [
+        "FDE compensation and experience"
+      ],
+      "count": 1
+    },
+    "day-to-day-fde-work": {
+      "id": "day-to-day-fde-work",
+      "preferred": "day-to-day FDE work",
+      "aliases": [
+        "day-to-day FDE work"
+      ],
+      "count": 1
+    },
+    "software-engineering-fundamentals": {
+      "id": "software-engineering-fundamentals",
+      "preferred": "software engineering fundamentals",
+      "aliases": [
+        "software engineering fundamentals"
+      ],
+      "count": 1
+    },
+    "rag-and-evaluations": {
+      "id": "rag-and-evaluations",
+      "preferred": "RAG and evaluations",
+      "aliases": [
+        "RAG and evaluations"
+      ],
+      "count": 1
+    },
+    "forward-deployed-layer": {
+      "id": "forward-deployed-layer",
+      "preferred": "forward-deployed layer",
+      "aliases": [
+        "forward-deployed layer"
+      ],
+      "count": 1
+    },
+    "fde-job-board-and-resources": {
+      "id": "fde-job-board-and-resources",
+      "preferred": "FDE job board and resources",
+      "aliases": [
+        "FDE job board and resources"
+      ],
+      "count": 1
+    },
+    "jev-model-overview": {
+      "id": "jev-model-overview",
+      "preferred": "Jev model overview",
+      "aliases": [
+        "Jev model overview"
+      ],
+      "count": 1
+    },
+    "system-1-models": {
+      "id": "system-1-models",
+      "preferred": "System 1 models",
+      "aliases": [
+        "System 1 models"
+      ],
+      "count": 1
+    },
+    "jev-output-types": {
+      "id": "jev-output-types",
+      "preferred": "Jev output types",
+      "aliases": [
+        "Jev output types"
+      ],
+      "count": 1
+    },
+    "parallel-evaluation-and-latency": {
+      "id": "parallel-evaluation-and-latency",
+      "preferred": "parallel evaluation and latency",
+      "aliases": [
+        "parallel evaluation and latency"
+      ],
+      "count": 1
+    },
+    "ml-classifiers-vs-dynamic-schemas": {
+      "id": "ml-classifiers-vs-dynamic-schemas",
+      "preferred": "ML classifiers vs dynamic schemas",
+      "aliases": [
+        "ML classifiers vs dynamic schemas"
+      ],
+      "count": 1
+    },
+    "browser-automation-and-spreadsheet-classification": {
+      "id": "browser-automation-and-spreadsheet-classification",
+      "preferred": "browser automation and spreadsheet classification",
+      "aliases": [
+        "browser automation and spreadsheet classification"
+      ],
+      "count": 1
+    },
+    "model-limitations-and-unbounded-operations": {
+      "id": "model-limitations-and-unbounded-operations",
+      "preferred": "model limitations and unbounded operations",
+      "aliases": [
+        "model limitations and unbounded operations"
+      ],
+      "count": 1
+    },
+    "agent-routing-and-orchestration": {
+      "id": "agent-routing-and-orchestration",
+      "preferred": "agent routing and orchestration",
+      "aliases": [
+        "agent routing and orchestration"
+      ],
+      "count": 1
+    },
+    "hybrid-ai-architecture": {
+      "id": "hybrid-ai-architecture",
+      "preferred": "hybrid AI architecture",
+      "aliases": [
+        "hybrid AI architecture"
+      ],
+      "count": 1
+    },
+    "jev-api-setup-and-agent-skill": {
+      "id": "jev-api-setup-and-agent-skill",
+      "preferred": "Jev API setup and agent skill",
+      "aliases": [
+        "Jev API setup and agent skill"
+      ],
+      "count": 1
+    },
+    "local-ai-overview": {
+      "id": "local-ai-overview",
+      "preferred": "local AI overview",
+      "aliases": [
+        "local AI overview"
+      ],
+      "count": 1
+    },
+    "model-vs-harness-scaffolding": {
+      "id": "model-vs-harness-scaffolding",
+      "preferred": "model vs harness scaffolding",
+      "aliases": [
+        "model vs harness scaffolding"
+      ],
+      "count": 1
+    },
+    "api-pricing-and-model-access-risk": {
+      "id": "api-pricing-and-model-access-risk",
+      "preferred": "API pricing and model access risk",
+      "aliases": [
+        "API pricing and model access risk"
+      ],
+      "count": 1
+    },
+    "open-weight-vs-proprietary-models": {
+      "id": "open-weight-vs-proprietary-models",
+      "preferred": "open-weight vs proprietary models",
+      "aliases": [
+        "open-weight vs proprietary models"
+      ],
+      "count": 1
+    },
+    "unsloth-desktop-setup": {
+      "id": "unsloth-desktop-setup",
+      "preferred": "Unsloth desktop setup",
+      "aliases": [
+        "Unsloth desktop setup"
+      ],
+      "count": 1
+    },
+    "vram-and-model-parameter-sizing": {
+      "id": "vram-and-model-parameter-sizing",
+      "preferred": "VRAM and model parameter sizing",
+      "aliases": [
+        "VRAM and model parameter sizing"
+      ],
+      "count": 1
+    },
+    "hardware-calculation-tool": {
+      "id": "hardware-calculation-tool",
+      "preferred": "hardware calculation tool",
+      "aliases": [
+        "hardware calculation tool"
+      ],
+      "count": 1
+    },
+    "enterprise-sovereign-ai": {
+      "id": "enterprise-sovereign-ai",
+      "preferred": "enterprise sovereign AI",
+      "aliases": [
+        "enterprise sovereign AI"
+      ],
+      "count": 1
+    },
+    "hybrid-agent-orchestration": {
+      "id": "hybrid-agent-orchestration",
+      "preferred": "hybrid agent orchestration",
+      "aliases": [
+        "hybrid agent orchestration"
+      ],
+      "count": 1
+    },
+    "mcp-adoption-growth": {
+      "id": "mcp-adoption-growth",
+      "preferred": "MCP adoption growth",
+      "aliases": [
+        "MCP adoption growth"
+      ],
+      "count": 1
+    },
+    "model-context-protocol-definition": {
+      "id": "model-context-protocol-definition",
+      "preferred": "Model Context Protocol definition",
+      "aliases": [
+        "Model Context Protocol definition"
+      ],
+      "count": 1
+    },
+    "mcp-vs-apis": {
+      "id": "mcp-vs-apis",
+      "preferred": "MCP vs APIs",
+      "aliases": [
+        "MCP vs APIs"
+      ],
+      "count": 1
+    },
+    "mcp-architecture-components": {
+      "id": "mcp-architecture-components",
+      "preferred": "MCP architecture components",
+      "aliases": [
+        "MCP architecture components"
+      ],
+      "count": 1
+    },
+    "original-mcp-lifecycle": {
+      "id": "original-mcp-lifecycle",
+      "preferred": "original MCP lifecycle",
+      "aliases": [
+        "original MCP lifecycle"
+      ],
+      "count": 1
+    },
+    "apis-vs-mcp-vs-skills-vs-plugins": {
+      "id": "apis-vs-mcp-vs-skills-vs-plugins",
+      "preferred": "APIs vs MCP vs Skills vs Plugins",
+      "aliases": [
+        "APIs vs MCP vs Skills vs Plugins"
+      ],
+      "count": 1
+    },
+    "stateless-mcp-architecture": {
+      "id": "stateless-mcp-architecture",
+      "preferred": "stateless MCP architecture",
+      "aliases": [
+        "stateless MCP architecture"
+      ],
+      "count": 1
+    },
+    "multi-round-trip-requests": {
+      "id": "multi-round-trip-requests",
+      "preferred": "multi-round trip requests",
+      "aliases": [
+        "multi-round trip requests"
+      ],
+      "count": 1
+    },
+    "mcp-tasks": {
+      "id": "mcp-tasks",
+      "preferred": "MCP tasks",
+      "aliases": [
+        "MCP tasks"
+      ],
+      "count": 1
+    },
+    "mcp-security-and-authorization": {
+      "id": "mcp-security-and-authorization",
+      "preferred": "MCP security and authorization",
+      "aliases": [
+        "MCP security and authorization"
+      ],
+      "count": 1
+    },
+    "mcp-extensions-apps-and-caching": {
+      "id": "mcp-extensions-apps-and-caching",
+      "preferred": "MCP extensions, apps, and caching",
+      "aliases": [
+        "MCP extensions, apps, and caching"
+      ],
+      "count": 1
+    },
+    "production-ai-implications": {
+      "id": "production-ai-implications",
+      "preferred": "production AI implications",
+      "aliases": [
+        "production AI implications"
+      ],
+      "count": 1
+    },
+    "ai-engineering-portfolio": {
+      "id": "ai-engineering-portfolio",
+      "preferred": "AI engineering portfolio",
+      "aliases": [
+        "AI engineering portfolio"
+      ],
+      "count": 1
+    },
+    "voice-ai-and-diarization": {
+      "id": "voice-ai-and-diarization",
+      "preferred": "voice AI and diarization",
+      "aliases": [
+        "voice AI and diarization"
+      ],
+      "count": 1
+    },
+    "sovereign-ai-and-open-weight-models": {
+      "id": "sovereign-ai-and-open-weight-models",
+      "preferred": "sovereign AI and open-weight models",
+      "aliases": [
+        "sovereign AI and open-weight models"
+      ],
+      "count": 1
+    },
+    "company-specific-portfolio-projects": {
+      "id": "company-specific-portfolio-projects",
+      "preferred": "company-specific portfolio projects",
+      "aliases": [
+        "company-specific portfolio projects"
+      ],
+      "count": 1
+    },
+    "hiring-manager-expectations": {
+      "id": "hiring-manager-expectations",
+      "preferred": "hiring manager expectations",
+      "aliases": [
+        "hiring manager expectations"
+      ],
+      "count": 1
+    },
+    "fine-tuning-fundamentals": {
+      "id": "fine-tuning-fundamentals",
+      "preferred": "fine-tuning fundamentals",
+      "aliases": [
+        "fine-tuning fundamentals"
+      ],
+      "count": 1
+    },
+    "types-of-fine-tuning": {
+      "id": "types-of-fine-tuning",
+      "preferred": "types of fine-tuning",
+      "aliases": [
+        "types of fine-tuning"
+      ],
+      "count": 1
+    },
+    "rag-vs-fine-tuning": {
+      "id": "rag-vs-fine-tuning",
+      "preferred": "RAG vs fine-tuning",
+      "aliases": [
+        "RAG vs fine-tuning"
+      ],
+      "count": 1
+    },
+    "foundation-model-evolution": {
+      "id": "foundation-model-evolution",
+      "preferred": "foundation model evolution",
+      "aliases": [
+        "foundation model evolution"
+      ],
+      "count": 1
+    },
+    "bridgewater-case-study": {
+      "id": "bridgewater-case-study",
+      "preferred": "Bridgewater case study",
+      "aliases": [
+        "Bridgewater case study"
+      ],
+      "count": 1
+    },
+    "xy-ai-case-study": {
+      "id": "xy-ai-case-study",
+      "preferred": "XY.AI case study",
+      "aliases": [
+        "XY.AI case study"
+      ],
+      "count": 1
+    },
+    "specialized-small-models": {
+      "id": "specialized-small-models",
+      "preferred": "specialized small models",
+      "aliases": [
+        "specialized small models"
+      ],
+      "count": 1
+    },
+    "ai-system-design-framework": {
+      "id": "ai-system-design-framework",
+      "preferred": "AI system design framework",
+      "aliases": [
+        "AI system design framework"
+      ],
+      "count": 1
+    },
+    "problem-scoping-and-assumptions": {
+      "id": "problem-scoping-and-assumptions",
+      "preferred": "problem scoping and assumptions",
+      "aliases": [
+        "problem scoping and assumptions"
+      ],
+      "count": 1
+    },
+    "agent-autonomy": {
+      "id": "agent-autonomy",
+      "preferred": "agent autonomy",
+      "aliases": [
+        "agent autonomy"
+      ],
+      "count": 1
+    },
+    "karc-architecture-framework": {
+      "id": "karc-architecture-framework",
+      "preferred": "KARC architecture framework",
+      "aliases": [
+        "KARC architecture framework"
+      ],
+      "count": 1
+    },
+    "rag-and-hybrid-retrieval-pipeline": {
+      "id": "rag-and-hybrid-retrieval-pipeline",
+      "preferred": "RAG and hybrid retrieval pipeline",
+      "aliases": [
+        "RAG and hybrid retrieval pipeline"
+      ],
+      "count": 1
+    },
+    "agent-tools-and-permissions": {
+      "id": "agent-tools-and-permissions",
+      "preferred": "agent tools and permissions",
+      "aliases": [
+        "agent tools and permissions"
+      ],
+      "count": 1
+    },
+    "trust-boundaries-and-blast-radius": {
+      "id": "trust-boundaries-and-blast-radius",
+      "preferred": "trust boundaries and blast radius",
+      "aliases": [
+        "trust boundaries and blast radius"
+      ],
+      "count": 1
+    },
+    "agent-memory-types": {
+      "id": "agent-memory-types",
+      "preferred": "agent memory types",
+      "aliases": [
+        "agent memory types"
+      ],
+      "count": 1
+    },
+    "agent-coordination": {
+      "id": "agent-coordination",
+      "preferred": "agent coordination",
+      "aliases": [
+        "agent coordination"
+      ],
+      "count": 1
+    },
+    "ai-observability-and-logging": {
+      "id": "ai-observability-and-logging",
+      "preferred": "AI observability and logging",
+      "aliases": [
+        "AI observability and logging"
+      ],
+      "count": 1
+    },
+    "evaluations-and-llm-judges": {
+      "id": "evaluations-and-llm-judges",
+      "preferred": "evaluations and LLM judges",
+      "aliases": [
+        "evaluations and LLM judges"
+      ],
+      "count": 1
+    },
+    "production-scaling-and-reliability": {
+      "id": "production-scaling-and-reliability",
+      "preferred": "production scaling and reliability",
+      "aliases": [
+        "production scaling and reliability"
+      ],
+      "count": 1
+    },
+    "ai-security-and-freshness": {
+      "id": "ai-security-and-freshness",
+      "preferred": "AI security and freshness",
+      "aliases": [
+        "AI security and freshness"
+      ],
+      "count": 1
+    },
+    "latency-cost-and-quality-optimization": {
+      "id": "latency-cost-and-quality-optimization",
+      "preferred": "latency, cost, and quality optimization",
+      "aliases": [
+        "latency, cost, and quality optimization"
+      ],
+      "count": 1
+    },
+    "multi-agent-complexity": {
+      "id": "multi-agent-complexity",
+      "preferred": "multi-agent complexity",
+      "aliases": [
+        "multi-agent complexity"
+      ],
+      "count": 1
+    },
+    "ai-system-design-practice": {
+      "id": "ai-system-design-practice",
+      "preferred": "AI system design practice",
+      "aliases": [
+        "AI system design practice"
+      ],
+      "count": 1
+    },
+    "production-ai-harnesses": {
+      "id": "production-ai-harnesses",
+      "preferred": "production AI harnesses",
+      "aliases": [
+        "production AI harnesses"
+      ],
+      "count": 1
+    },
+    "internal-ai-harness-design": {
+      "id": "internal-ai-harness-design",
+      "preferred": "internal AI harness design",
+      "aliases": [
+        "internal AI harness design"
+      ],
+      "count": 1
+    },
+    "core-components-of-an-ai-harness": {
+      "id": "core-components-of-an-ai-harness",
+      "preferred": "core components of an AI harness",
+      "aliases": [
+        "core components of an AI harness"
+      ],
+      "count": 1
+    },
+    "langgraph-deep-agents-setup": {
+      "id": "langgraph-deep-agents-setup",
+      "preferred": "LangGraph Deep Agents setup",
+      "aliases": [
+        "LangGraph Deep Agents setup"
+      ],
+      "count": 1
+    },
+    "context-and-skill-management": {
+      "id": "context-and-skill-management",
+      "preferred": "context and skill management",
+      "aliases": [
+        "context and skill management"
+      ],
+      "count": 1
+    },
+    "agent-tools-and-middleware": {
+      "id": "agent-tools-and-middleware",
+      "preferred": "agent tools and middleware",
+      "aliases": [
+        "agent tools and middleware"
+      ],
+      "count": 1
+    },
+    "subagents-and-task-delegation": {
+      "id": "subagents-and-task-delegation",
+      "preferred": "subagents and task delegation",
+      "aliases": [
+        "subagents and task delegation"
+      ],
+      "count": 1
+    },
+    "role-based-permissions-and-human-approvals": {
+      "id": "role-based-permissions-and-human-approvals",
+      "preferred": "role-based permissions and human approvals",
+      "aliases": [
+        "role-based permissions and human approvals"
+      ],
+      "count": 1
+    },
+    "persistence-checkpoints-and-context-management": {
+      "id": "persistence-checkpoints-and-context-management",
+      "preferred": "persistence checkpoints and context management",
+      "aliases": [
+        "persistence checkpoints and context management"
+      ],
+      "count": 1
+    },
+    "ai-harness-demonstration": {
+      "id": "ai-harness-demonstration",
+      "preferred": "AI harness demonstration",
+      "aliases": [
+        "AI harness demonstration"
+      ],
+      "count": 1
+    },
+    "ai-security-fundamentals": {
+      "id": "ai-security-fundamentals",
+      "preferred": "AI security fundamentals",
+      "aliases": [
+        "AI security fundamentals"
+      ],
+      "count": 1
+    },
+    "principle-of-least-privilege": {
+      "id": "principle-of-least-privilege",
+      "preferred": "principle of least privilege",
+      "aliases": [
+        "principle of least privilege"
+      ],
+      "count": 1
+    },
+    "role-based-access-control-and-context-minimization": {
+      "id": "role-based-access-control-and-context-minimization",
+      "preferred": "role-based access control and context minimization",
+      "aliases": [
+        "role-based access control and context minimization"
+      ],
+      "count": 1
+    },
+    "data-egress-controls": {
+      "id": "data-egress-controls",
+      "preferred": "data egress controls",
+      "aliases": [
+        "data egress controls"
+      ],
+      "count": 1
+    },
+    "prompt-injection": {
+      "id": "prompt-injection",
+      "preferred": "prompt injection",
+      "aliases": [
+        "prompt injection"
+      ],
+      "count": 1
+    },
+    "separating-instructions-from-data": {
+      "id": "separating-instructions-from-data",
+      "preferred": "separating instructions from data",
+      "aliases": [
+        "separating instructions from data"
+      ],
+      "count": 1
+    },
+    "structured-extraction": {
+      "id": "structured-extraction",
+      "preferred": "structured extraction",
+      "aliases": [
+        "structured extraction"
+      ],
+      "count": 1
+    },
+    "tool-allowlists": {
+      "id": "tool-allowlists",
+      "preferred": "tool allowlists",
+      "aliases": [
+        "tool allowlists"
+      ],
+      "count": 1
+    },
+    "tool-wrappers": {
+      "id": "tool-wrappers",
+      "preferred": "tool wrappers",
+      "aliases": [
+        "tool wrappers"
+      ],
+      "count": 1
+    },
+    "human-in-the-loop-approvals": {
+      "id": "human-in-the-loop-approvals",
+      "preferred": "human-in-the-loop approvals",
+      "aliases": [
+        "human-in-the-loop approvals"
+      ],
+      "count": 1
+    },
+    "security-evaluations-and-red-teaming": {
+      "id": "security-evaluations-and-red-teaming",
+      "preferred": "security evaluations and red teaming",
+      "aliases": [
+        "security evaluations and red teaming"
+      ],
+      "count": 1
+    },
+    "ai-security-testing-tools": {
+      "id": "ai-security-testing-tools",
+      "preferred": "AI security testing tools",
+      "aliases": [
+        "AI security testing tools"
+      ],
+      "count": 1
+    },
+    "ai-engineering-career-background": {
+      "id": "ai-engineering-career-background",
+      "preferred": "AI engineering career background",
+      "aliases": [
+        "AI engineering career background"
+      ],
+      "count": 1
+    },
+    "ai-engineering-definition": {
+      "id": "ai-engineering-definition",
+      "preferred": "AI engineering definition",
+      "aliases": [
+        "AI engineering definition"
+      ],
+      "count": 1
+    },
+    "evals-vs-unit-testing": {
+      "id": "evals-vs-unit-testing",
+      "preferred": "evals vs unit testing",
+      "aliases": [
+        "evals vs unit testing"
+      ],
+      "count": 1
+    },
+    "online-vs-offline-evals": {
+      "id": "online-vs-offline-evals",
+      "preferred": "online vs offline evals",
+      "aliases": [
+        "online vs offline evals"
+      ],
+      "count": 1
+    },
+    "take-home-assignments": {
+      "id": "take-home-assignments",
+      "preferred": "take-home assignments",
+      "aliases": [
+        "take-home assignments"
+      ],
+      "count": 1
+    },
+    "ai-product-sense": {
+      "id": "ai-product-sense",
+      "preferred": "AI product sense",
+      "aliases": [
+        "AI product sense"
+      ],
+      "count": 1
+    },
+    "ai-vs-deterministic-workflows": {
+      "id": "ai-vs-deterministic-workflows",
+      "preferred": "AI vs deterministic workflows",
+      "aliases": [
+        "AI vs deterministic workflows"
+      ],
+      "count": 1
+    },
+    "model-routing-and-orchestration": {
+      "id": "model-routing-and-orchestration",
+      "preferred": "model routing and orchestration",
+      "aliases": [
+        "model routing and orchestration"
+      ],
+      "count": 1
+    },
+    "breaking-into-ai-engineering": {
+      "id": "breaking-into-ai-engineering",
+      "preferred": "breaking into AI engineering",
+      "aliases": [
+        "breaking into AI engineering"
+      ],
+      "count": 1
+    },
+    "ai-agent-system-design": {
+      "id": "ai-agent-system-design",
+      "preferred": "AI agent system design",
+      "aliases": [
+        "AI agent system design"
+      ],
+      "count": 1
+    },
+    "agent-requirements": {
+      "id": "agent-requirements",
+      "preferred": "agent requirements",
+      "aliases": [
+        "agent requirements"
+      ],
+      "count": 1
+    },
+    "identity-and-memory-architecture": {
+      "id": "identity-and-memory-architecture",
+      "preferred": "identity and memory architecture",
+      "aliases": [
+        "identity and memory architecture"
+      ],
+      "count": 1
+    },
+    "tool-integration-and-mcp": {
+      "id": "tool-integration-and-mcp",
+      "preferred": "tool integration and MCP",
+      "aliases": [
+        "tool integration and MCP"
+      ],
+      "count": 1
+    },
+    "persistent-execution-environments": {
+      "id": "persistent-execution-environments",
+      "preferred": "persistent execution environments",
+      "aliases": [
+        "persistent execution environments"
+      ],
+      "count": 1
+    },
+    "task-checkpointing-and-worker-queues": {
+      "id": "task-checkpointing-and-worker-queues",
+      "preferred": "task checkpointing and worker queues",
+      "aliases": [
+        "task checkpointing and worker queues"
+      ],
+      "count": 1
+    },
+    "triggers-and-decision-engines": {
+      "id": "triggers-and-decision-engines",
+      "preferred": "triggers and decision engines",
+      "aliases": [
+        "triggers and decision engines"
+      ],
+      "count": 1
+    },
+    "communication-gateways-and-session-management": {
+      "id": "communication-gateways-and-session-management",
+      "preferred": "communication gateways and session management",
+      "aliases": [
+        "communication gateways and session management"
+      ],
+      "count": 1
+    },
+    "agent-security-and-evaluations": {
+      "id": "agent-security-and-evaluations",
+      "preferred": "agent security and evaluations",
+      "aliases": [
+        "agent security and evaluations"
+      ],
+      "count": 1
+    },
+    "end-to-end-agent-workflow-architecture": {
+      "id": "end-to-end-agent-workflow-architecture",
+      "preferred": "end-to-end agent workflow architecture",
+      "aliases": [
+        "end-to-end agent workflow architecture"
+      ],
+      "count": 1
+    }
+  }
+}

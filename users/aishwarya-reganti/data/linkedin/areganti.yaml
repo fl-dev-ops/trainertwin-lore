@@ -1,0 +1,2889 @@
+profile:
+  id: ACoAABihshABDFVFq1kZ0vYGaHic4b9X5Sq80DE
+  publicIdentifier: areganti
+  linkedinUrl: https://www.linkedin.com/in/areganti
+  firstName: Aishwarya
+  lastName: Naresh Reganti
+  emails: []
+  headline: Founder & CEO @ LevelUp Labs | Human-First AI Transformation For Your Enterprise
+  openToWork: false
+  hiring: false
+  premium: true
+  influencer: false
+  memorialized: false
+  creator: true
+  location:
+    linkedinText: San Francisco, California, United States
+    countryCode: US
+    parsed:
+      text: San Francisco, CA, United States
+      countryCode: US
+      regionCode: null
+      country: United States
+      countryFull: United States of America
+      state: California
+      city: San Francisco
+  objectUrn: '413250064'
+  topSkills: null
+  connectionsCount: 3979
+  followerCount: 133375
+  about: '🚨PLEASE NOTE: I don''t check my LinkedIn messages regularly. For speaking, advisory or collaboration inquiries,
+    please send a message here: https://tr.ee/Kdgcp5lXO2I''m currently building my AI solutions lab: LevelUp Labs (levelup-labs.ai)Before
+    this, I worked as an Applied Science Tech Lead at the AWS Generative AI Innovation Center (GenAIIC). At GenAIIC, we partner
+    with external organizations to pinpoint and evaluate valuable uses for generative AI. We seamlessly integrate these solutions
+    into their existing operations to improve efficiency. Prior to this, I worked in the Amazon Search Science and AI Org
+    where I led multiple projects involving large scale language, vision and graph models that improve Amazon search quality,
+    trust and recommendations. I have over 10+ years of hands-on ML experience and 40+ publications in top-tier conferences
+    like AAAI, ACL, CVPR, NeurIPS, EACL e.t.c. I''ve worked on a wide spectrum of problems that involve Large Scale Graph
+    Neural Networks, Machine Translation, Multimodal Summarization, Social Media and Social Networks, Human Centric ML, Artificial
+    Social Intelligence, Code-Mixing e.t.c. I''ve  mentored several Masters and PhD students in the aforementioned areas.
+    I''ve also served as a reviewer in various NLP and Graph ML conferences like ACL, EMNLP, AAAI, LoG e.t.c.  I''ve been
+    fortunate to work with some of the best minds in both academia and industry through collaborations and internships in
+    Stanford University, Microsoft Research, University of Michigan, NTU Singapore, IIIT-Delhi, NTNU-Norway, University of
+    South Carolina e.t.c. Please look up my Google Scholar profile for more information. I''m also a visiting lecturer in
+    MIT and University of Oxford.All opinions shared here are my own and don’t represent my employer (Whoops wait, I don''t
+    work for an employer anymore, so scratch this :p ).'
+  profileActions: []
+  profilePicture:
+    url: null
+    sizes: []
+  coverPicture:
+    url: https://media.licdn.com/dms/image/v2/D5616AQHurY6I_Km0Cw/profile-displaybackgroundimage-shrink_350_1400/B56ZzTvL13GgAY-/0/1773078888722?e=1796860800&v=beta&t=Q30zxzrweExyC-XH0yTNFqgXw9Hpv9PrsBqJfL6eIaM
+    sizes:
+    - url: https://media.licdn.com/dms/image/v2/D5616AQHurY6I_Km0Cw/profile-displaybackgroundimage-shrink_200_800/B56ZzTvL13GgAU-/0/1773078888722?e=1796860800&v=beta&t=AwxBllUqukLiRNuk1C2oKV_9uwTOjLyIEJGJ-djJAfQ
+      width: 800
+      height: 200
+    - url: https://media.licdn.com/dms/image/v2/D5616AQHurY6I_Km0Cw/profile-displaybackgroundimage-shrink_350_1400/B56ZzTvL13GgAY-/0/1773078888722?e=1796860800&v=beta&t=Q30zxzrweExyC-XH0yTNFqgXw9Hpv9PrsBqJfL6eIaM
+      width: 1400
+      height: 350
+  photo: null
+  profileLocales:
+  - country: US
+    language: en
+  primaryLocale:
+    country: US
+    language: en
+  multiLocaleHeadline:
+  - headline: Founder & CEO @ LevelUp Labs | Human-First AI Transformation For Your Enterprise
+    locale: en
+  services: null
+  certifications: []
+  projects:
+  - title: 'Capstone: Designing Code-Mixed Goal Oriented Conversation Systems for Hindi Movies (Advisor: Prof. Alan Black)'
+    duration: Jan 2019 - Dec 2020
+    startDate:
+      month: Jan
+      year: 2019
+      text: Jan 2019
+    endDate:
+      month: Dec
+      year: 2020
+      text: Dec 2020
+    associatedWith: null
+    associatedWithLink: null
+    description: 'Code mixing/switching (for the scope of this project, we use the two terms interchangeably) is the phenomenon
+      of mixing two or more languages in speech/text communication. Over the past few years, code mixing has become the default
+      code of communication in geographical regions like India where there is a high percentage of multilingual individuals.
+      Although state-of-the-art conversational systems and language models produce good quality monolingual utterances, they
+      struggle with code-mixed data generation because of lack of data compounded by the increased confusability about the
+      language structure and switching points. In this work, we aim to focus on building a goal-oriented Hinglish (Hindi and
+      English code-mixed) dialogue system trained on data curated from code-mixed conversations about Hindi movies. We also
+      aim to make the system more socially engaging and context-aware as compared to mainstream conversational agents. The
+      contributions of our work include: (i) developing a new corpus for code-mixed movie conversations, (ii) building language
+      models that can generate grammatically correct code-mixed utterances and finally, (iii) compiling an end-to-end goal-oriented
+      dialogue system that can have engaging conversations about Hindi movies with prospective users.
+
+      '
+    contributors:
+    - linkedinUrl: https://www.linkedin.com/in/ACoAABihshABDFVFq1kZ0vYGaHic4b9X5Sq80DE
+  - title: Joke On Point! - Neural Joke Generation using Pointer-Generator Networks
+    duration: Jan 2019 - Apr 2019
+    startDate:
+      month: Jan
+      year: 2019
+      text: Jan 2019
+    endDate:
+      month: Apr
+      year: 2019
+      text: Apr 2019
+    associatedWith: null
+    associatedWithLink: null
+    description: Neural networks have been widely applied to a variety of natural language tasks. However, their application
+      to creative language generation has been limited so far. While current state-of-the-art neural models produce unprecedented
+      quality of jokes, they are still far from human quality. We identify two major drawbacks in existing joke generation
+      models namely - syntactic correctness and semantic coherence and take small steps to better them. We use a pointer-generator
+      network and multi-task learning with the primary objective of predicting a word at the current time-step and secondary
+      objective of predicting the Part-Of-Speech (POS) tag for the next time-step. Our model outperforms the state of the
+      art on the given dataset in the domain of joke generation.
+    contributors:
+    - linkedinUrl: https://www.linkedin.com/in/ACoAABihshABDFVFq1kZ0vYGaHic4b9X5Sq80DE
+  - title: Multimodal Video Summarization
+    duration: Jan 2019 - Apr 2019
+    startDate:
+      month: Jan
+      year: 2019
+      text: Jan 2019
+    endDate:
+      month: Apr
+      year: 2019
+      text: Apr 2019
+    associatedWith: null
+    associatedWithLink: null
+    description: State of the art text summarization models work notably well for standard news datasets like CNN/DailyMail.
+      However, they struggle to produce reasonable results with new domains like video transcript summarization. This can
+      be attributed to the drastic shift in sentence and summary structures. Moreover, most summarization systems do not use
+      multimodal attributes which have proved to help produce better output quality in other similar language tasks. In this
+      project, we develop a multimodal summarization model using the How2 instructional video dataset using two successive
+      summarization components, an extractor that extracts key summary sentences and an abstractor that paraphrases key sentences
+      coherently. We use RL based policy update method to fine tune these components. Our model obtains a ROUGE-L of 47.3,
+      which is an improvement over other tried pointer-generator based models. Human evaluation shows that our model is able
+      to produce summaries containing key information from the video transcripts using video features
+    contributors:
+    - linkedinUrl: https://www.linkedin.com/in/ACoAABihshABDFVFq1kZ0vYGaHic4b9X5Sq80DE
+  - title: Semantic Interpretation of Aggression from Code-Mixed Social Media Posts
+    duration: Jan 2019 - Apr 2019
+    startDate:
+      month: Jan
+      year: 2019
+      text: Jan 2019
+    endDate:
+      month: Apr
+      year: 2019
+      text: Apr 2019
+    associatedWith: null
+    associatedWithLink: null
+    description: 'In recent years, aggressive posts on social media have grown substantially which has serious implications
+      for all social media users. While many previous research works have looked at aggression detection for monolingual data,
+      there are very few works for code-mixed data. In this paper, we address the challenge of automatically identifying aggression
+      in code-mixed (Hinglish) social media posts. We present a novel hierarchical attention model for aggression classification.
+      The model outperforms the state-of-the-art for this task and also helps improve the explainability of classification. '
+    contributors:
+    - linkedinUrl: https://www.linkedin.com/in/ACoAABihshABDFVFq1kZ0vYGaHic4b9X5Sq80DE
+  volunteering:
+  - role: Co-Founder
+    duration: Nov 2022
+    startDate: null
+    endDate: null
+    organizationName: The LevelUp Org
+    organizationLinkedinUrl: https://www.linkedin.com/company/89745246
+    cause: null
+  receivedRecommendations: []
+  publications:
+  - title: 'A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content '
+    publishedAt: 'EACL 2017, Valencia, Spain · '
+    link: http://www.aclweb.org/anthology/E17-1069
+  - title: Aggression-Annotated Corpus of Hindi-English Code Mixed Data
+    publishedAt: 'LREC-2018, Miyazaki,Japan · '
+    link: https://arxiv.org/pdf/1803.09402.pdf
+  - title: Mining Human Psycholinguistic Behaviour from Social Media
+    publishedAt: ' Information System Frontiers (Springer)-2017 · '
+    link: ''
+  - title: Modeling Satire in English Text for Automatic Detection - Conference proceedings at
+    publishedAt: 'ICDM-Sentire 2016,  Barcelona, Spain · '
+    link: http://sentic.net/sentire2016reganti.pdf
+  - title: Revealing Psycholinguistic Dimensions of Communities in Social Networks
+    publishedAt: ' IEEE Intelligent Systems-2018 · '
+    link: https://ieeexplore.ieee.org/abstract/document/8255789/
+  - title: Semantic Interpretation of Social Network Communities
+    publishedAt: 'AAAI 2017 , San Francisco, USA. · '
+    link: http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14352/14224
+  - title: Socio-Ethnic Ingredients of Social Network Communities
+    publishedAt: 'CSCW 2017, Portland, Oregon, USA · '
+    link: https://dl.acm.org/citation.cfm?id=3026322
+  - title: Understanding Psycho-Sociological Vulnerability of ISIS Patronizers in Twitter.
+    publishedAt: 'ASONAM-2017,Sydney, Australia · '
+    link: ''
+  courses: []
+  honorsAndAwards:
+  - title: ACM-W Travel Grant for AAAI-2017
+    issuedBy: Association for Computing Machinery- Women in Computing
+    issuedAt: Feb 2017
+    description: https://women.acm.org/scholars/acm-w-scholars/aishwarya-naresh-reganti/
+    associatedWith: null
+    associatedWithLink: null
+  - title: Scholar Badge for Academic Excellence
+    issuedBy: Delhi Public School, Bangalore South
+    issuedAt: Aug 2012
+    description: ''
+    associatedWith: null
+    associatedWithLink: null
+  - title: Batch Topper
+    issuedBy: Indian Institute of Information Technology, Sri City
+    issuedAt: null
+    description: Btech(Hons.) Electronics and Communication Engineering
+    associatedWith: null
+    associatedWithLink: null
+  languages:
+  - name: English
+    proficiency: Full professional proficiency
+  - name: Hindi
+    proficiency: Professional working proficiency
+  - name: Kannada
+    proficiency: Native or bilingual proficiency
+  - name: Tamil
+    proficiency: Native or bilingual proficiency
+  - name: Telugu
+    proficiency: Native or bilingual proficiency
+  causes: []
+  featured: null
+  moreProfiles: []
+experience:
+- position: Founder, CEO
+  location: San Francisco Bay Area
+  employmentType: null
+  workplaceType: null
+  companyName: LevelUp Labs
+  companyLinkedinUrl: https://www.linkedin.com/company/levelup-labs-ai
+  companyId: '108030520'
+  companyUniversalName: levelup-labs-ai
+  duration: null
+  description: "We are a human-first AI transformation firm. We work with mid-market and enterprise companies to become AI\
+    \ native, while keeping humans at the center.\n\nWe’re a practitioner led firm. We build, not just advise.\n\nWhat we\
+    \ do:\n• AI strategy \n• AI engineering\n• AI education\n\nOur clients include Hitachi Digital, Deloitte, Visa, Workiva,\
+    \ Microsoft, Fortune 50 enterprises, and more.\n\nLet’s talk: contact@levelup-labs.ai"
+  skills: []
+  startDate:
+    month: Jul
+    year: 2025
+    text: Jul 2025
+  endDate:
+    text: Present
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D560BAQHtnfmj--AEWw/company-logo_400_400/B56ZzTu1y0KEAc-/0/1773078797808/levelup_labs_ai_logo?e=1796860800&v=beta&t=6Jn17_5u6Sfj3BdIhViGhOaV4lXnZEVDMH8CyZ3vkGA
+    sizes: []
+- position: Co-Founder, Chief Chai Officer
+  location: San Francisco Bay Area
+  employmentType: null
+  workplaceType: null
+  companyName: Chai & AI Community
+  companyLinkedinUrl: null
+  companyId: null
+  companyUniversalName: null
+  duration: null
+  description: "The Chai and AI Community is a curated, invite only group of CXOs, directors, product and engineering leaders,\
+    \ founders, VCs, and AI practitioners from 90+ companies, including Google, Amazon, Meta, Anthropic, OpenAI, Snowflake,\
+    \ Databricks, Cohere, and more!\n\nWe believe the AI space has become extremely noisy, hype driven, and influencer led.\
+    \ Our goal is to build a community of people working with AI on the ground, where members can share real world experiences,\
+    \ exchange ideas, and get a clearer sense of what's actually happening in the enterprise without getting lost in the noise.\n\
+    \nWe host weekly sessions and workshops with some of the most respected voices in the industry. \n\nPrevious guest speakers\
+    \ include:\n- Jaya Gupta, Partner Foundation Capital\n- Francisco D'Souza, Founder Cognizant\n- Gajen Kandiah, CEO Rackspace,\
+    \ \n- Gabriel Almeida, CTO LangFlow\n- Arvind Ayyala, Partner Geodesic Capital and more!\n\nYou can learn more about our\
+    \ community here: https://levelup-labs.ai/chai-and-ai-community"
+  skills: []
+  startDate:
+    month: Jan
+    year: 2025
+    text: Jan 2025
+  endDate:
+    text: Present
+  companyLogo:
+    url: ''
+    sizes: []
+- position: Tutor/Lecturer
+  location: null
+  employmentType: null
+  workplaceType: null
+  companyName: University of Oxford
+  companyLinkedinUrl: https://www.linkedin.com/company/oxforduni
+  companyId: '4477'
+  companyUniversalName: oxforduni
+  duration: null
+  description: '- Invited to deliver lectures for professional courses in artificial intelligence
+
+    - My GitHub repo and other content are extensively used as references for course design and as reading material for students'
+  skills: []
+  startDate:
+    month: May
+    year: 2024
+    text: May 2024
+  endDate:
+    month: Jul
+    year: 2025
+    text: Jul 2025
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1796860800&v=beta&t=qCLUaGJzsrCdZf4bCnl6dB1zftq6-PLMpsDsNtUr4Pg
+    sizes: []
+- position: Applied Science Tech Lead (Generative AI)
+  location: Santa Clara, CA
+  employmentType: null
+  workplaceType: null
+  companyName: Amazon Web Services (AWS)
+  companyLinkedinUrl: https://www.linkedin.com/company/amazon-web-services
+  companyId: '2382910'
+  companyUniversalName: amazon-web-services
+  duration: null
+  description: '- I worked as an Applied Science Tech Lead at the AWS Generative AI Innovation Center, GenAIIC.
+
+    - Applied Scientists at GenAIIC are forward deployed engineers, working directly with AWS clients to design and implement
+    bespoke AI solutions for large scale use-cases.
+
+    - During my time, I led and built 30+ AI deployments for companies like Strava, NFL, Bayer, Kavak, Halliburton, Zillow
+    and others. These included custom AI systems built on AWS Bedrock for knowledge management, search, analytics, and other
+    enterprise workflows.
+
+
+    TL; DR:
+
+    Was a forward deployed engineer before it was cool!'
+  skills: []
+  startDate:
+    month: Dec
+    year: 2023
+    text: Dec 2023
+  endDate:
+    month: Jun
+    year: 2025
+    text: Jun 2025
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_200_200/B4EZgOay6gHEAQ-/0/1752588562343/amazon_web_services_logo?e=1796860800&v=beta&t=W7ydlS17TqfWP_3m1Hyi_O4aNdDTPfbiaBiRAcfv98s
+    sizes: []
+- position: Startup Mentor/Advisor
+  location: Pennsylvania, United States
+  employmentType: null
+  workplaceType: null
+  companyName: Wharton Cypher Accelerator
+  companyLinkedinUrl: https://www.linkedin.com/company/cypher-accelerator
+  companyId: '76237523'
+  companyUniversalName: cypher-accelerator
+  duration: null
+  description: Guide founders on AI strategy and implementation.
+  skills: []
+  startDate:
+    month: Jan
+    year: 2025
+    text: Jan 2025
+  endDate:
+    month: Apr
+    year: 2025
+    text: Apr 2025
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D560BAQFavCaOnVkgnw/company-logo_400_400/company-logo_400_400/0/1727635599674?e=1796860800&v=beta&t=c7eyT6mUsaCh9NHUr7wiG5Tq8zb2I_4kSg8JFZC-zoE
+    sizes: []
+- position: External Lecturer
+  location: Massachusetts, United States
+  employmentType: null
+  workplaceType: null
+  companyName: MIT Professional Education
+  companyLinkedinUrl: https://www.linkedin.com/company/mit-professional-education
+  companyId: '481634'
+  companyUniversalName: mit-professional-education
+  duration: null
+  description: '- Advise on curriculum development and deliver guest lectures for the hands-on (coding) components of the
+    “AI Strategies and Roadmap”  course '
+  skills: []
+  startDate:
+    month: Apr
+    year: 2024
+    text: Apr 2024
+  endDate:
+    month: Oct
+    year: 2024
+    text: Oct 2024
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D4E0BAQFZLjfg1Jhpfw/company-logo_400_400/company-logo_400_400/0/1720625381085/mit_professional_education_logo?e=1796860800&v=beta&t=hXuNlX-IeYiAncywAd0qvfn8TU9D97DbyaScHSj-bRQ
+    sizes: []
+- position: Applied Scientist
+  location: Palo Alto, California, United States
+  employmentType: null
+  workplaceType: null
+  companyName: Amazon
+  companyLinkedinUrl: https://www.linkedin.com/company/amazon
+  companyId: '1586'
+  companyUniversalName: amazon
+  duration: null
+  description: "Feb 2023- December 2023\nLed multiple science projects focused on building new Amazon Search features using\
+    \ cutting-edge generative language and vision models. \n\nOct 2021- Feb 2023\nResearch on LLM-enhanced Graph Neural Network\
+    \ (GNN) architectures, enabling rich contextual representations for diverse downstream applications, at an Amazon-scale\
+    \ data level (tens of billions of edges!).\n\nFeb 2020 - Oct 2021\nWorked in the Alexa AI Teachable AI team to build large\
+    \ scale language models that help Alexa understand customer preferences better via interactive teaching sessions. Our\
+    \ capability was featured by WSJ, TechCrunch & MSN among others."
+  skills: []
+  startDate:
+    month: Feb
+    year: 2020
+    text: Feb 2020
+  endDate:
+    month: Dec
+    year: 2023
+    text: Dec 2023
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_200_200/B56ZnZxDipI0AI-/0/1760295142304/amazon_logo?e=1796860800&v=beta&t=Vm3zcluKks6RNPV1OwX9nU5L3btMTd9M8FJmeVXe5bI
+    sizes: []
+- position: Co-Founder
+  location: San Francisco Bay Area
+  employmentType: null
+  workplaceType: null
+  companyName: The LevelUp Org
+  companyLinkedinUrl: https://www.linkedin.com/company/the-levelup-org
+  companyId: '89745246'
+  companyUniversalName: the-levelup-org
+  duration: null
+  description: The LevelUp Org is a non-profit self-reliant tech ecosystem and community where members help each other accomplish
+    career goals through 1:1 mentorship programs and a host of other community events
+  skills: []
+  startDate:
+    month: Nov
+    year: 2022
+    text: Nov 2022
+  endDate:
+    month: Nov
+    year: 2023
+    text: Nov 2023
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D560BAQGpu1icKAm7Lg/company-logo_400_400/company-logo_400_400/0/1666839218448/the_levelup_org_logo?e=1796860800&v=beta&t=hXrYC8EiqhKkRfhF6pTx9K7ECqDMo7Z-Tk7w6peH45c
+    sizes: []
+- position: Graduate Teaching Assistant
+  location: Greater Pittsburgh Area
+  employmentType: null
+  workplaceType: null
+  companyName: Carnegie Mellon University
+  companyLinkedinUrl: https://www.linkedin.com/company/carnegie-mellon-university
+  companyId: '3147'
+  companyUniversalName: carnegie-mellon-university
+  duration: null
+  description: 11-785 Introduction to Deep Learning (http://deeplearning.cs.cmu.edu/document/extra/TAs.html)
+  skills: []
+  startDate:
+    month: Jun
+    year: 2019
+    text: Jun 2019
+  endDate:
+    month: Feb
+    year: 2020
+    text: Feb 2020
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_400_400/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1796860800&v=beta&t=hoO0FVBYbU0FJ4kejdLXPp02Z1Yo48JzHBCB7UtCfRU
+    sizes: []
+- position: Graduate Teaching Assistant
+  location: Greater Pittsburgh Area
+  employmentType: null
+  workplaceType: null
+  companyName: Carnegie Mellon University
+  companyLinkedinUrl: https://www.linkedin.com/company/carnegie-mellon-university
+  companyId: '3147'
+  companyUniversalName: carnegie-mellon-university
+  duration: null
+  description: '05-898: Data Science and Visualization'
+  skills: []
+  startDate:
+    month: Jan
+    year: 2019
+    text: Jan 2019
+  endDate:
+    month: May
+    year: 2019
+    text: May 2019
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_400_400/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1796860800&v=beta&t=hoO0FVBYbU0FJ4kejdLXPp02Z1Yo48JzHBCB7UtCfRU
+    sizes: []
+- position: Applied Scientist Intern, Alexa AI
+  location: Sunnyvale, California
+  employmentType: null
+  workplaceType: null
+  companyName: Amazon Lab126
+  companyLinkedinUrl: https://www.linkedin.com/company/lab126
+  companyId: '208137'
+  companyUniversalName: lab126
+  duration: null
+  description: "Worked on developing end-to-end models for multi-domain goal-oriented conversational dialogue systems with\
+    \ a focus on system side dialogue act prediction and response generation.\n\nExplored possible unsupervised pretraining\
+    \ objectives and fine-tuning approaches for learning dialog context representations using neural architectures like hierarchical\
+    \ attention models, self-attentive encoders, BERT, etc. \n\nConducted experiments to develop robust end-to-end conversational\
+    \ systems with domain-generalization and knowledge transfer capabilities using low-resource settings, zero-shot, and few-shot\
+    \ learning approaches.\n\n"
+  skills: []
+  startDate:
+    month: May
+    year: 2019
+    text: May 2019
+  endDate:
+    month: Aug
+    year: 2019
+    text: Aug 2019
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/C4D0BAQF42fGVfa1OTg/company-logo_400_400/company-logo_400_400/0/1631351277605?e=1796860800&v=beta&t=hdNR-0cR7FQYJ2r-dX-dg946pXGXjENrDxRWw683qa4
+    sizes: []
+- position: Research Assistant
+  location: United States
+  employmentType: null
+  workplaceType: null
+  companyName: University of Michigan - Rackham Graduate School
+  companyLinkedinUrl: https://www.linkedin.com/company/university-of-michigan---rackham-graduate-school
+  companyId: '15139745'
+  companyUniversalName: university-of-michigan---rackham-graduate-school
+  duration: null
+  description: • Worked with Prof. Rada Mihalcea. Developed a new benchmark grit score gold standard data-set using Crowdflower
+    and modeled a Bi-LSTM based social attention model for grit classification using Twitter data (Paper accepted at IEEE
+    Access 2019).
+  skills: []
+  startDate:
+    month: Sep
+    year: 2017
+    text: Sep 2017
+  endDate:
+    month: Jan
+    year: 2018
+    text: Jan 2018
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/C560BAQG_poFdJPvvoA/company-logo_400_400/company-logo_400_400/0/1631360296635?e=1796860800&v=beta&t=DTncDNB-CUBRNDmyIMgFsVLhgBaGIsPG1v-ZiN1nKls
+    sizes: []
+- position: Research Intern
+  location: Bengaluru Area, India
+  employmentType: null
+  workplaceType: null
+  companyName: Microsoft
+  companyLinkedinUrl: https://www.linkedin.com/company/microsoft
+  companyId: '1035'
+  companyUniversalName: microsoft
+  duration: null
+  description: '• Collected verbal aggression data using Twitter API and modelled machine learning classifiers (using word
+    vector representation inputs) to predict aggression and flag unratified aggressive posts in real-time.
+
+    • Released a prototype Google Chrome plug-in and paper accepted at LREC-2018'
+  skills: []
+  startDate:
+    month: May
+    year: 2017
+    text: May 2017
+  endDate:
+    month: Jun
+    year: 2017
+    text: Jun 2017
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1796860800&v=beta&t=wEPebvvdBqneL1RDGK4njV2uoVrVWl4I1QMJbjgmumM
+    sizes: []
+- position: Research Associate
+  location: Delhi
+  employmentType: null
+  workplaceType: null
+  companyName: IIIT-Delhi
+  companyLinkedinUrl: https://www.linkedin.com/company/iiit-delhi
+  companyId: '362624'
+  companyUniversalName: iiit-delhi
+  duration: null
+  description: '• Developed machine learning classifiers that predict individuals'' vulnerability to online ISIS recruitment
+
+    • Performed analysis using social network structure, psycho-sociological patterns and community detection'
+  skills: []
+  startDate:
+    month: Oct
+    year: 2016
+    text: Oct 2016
+  endDate:
+    month: Dec
+    year: 2016
+    text: Dec 2016
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/C560BAQG8G8yRaFuoBQ/company-logo_400_400/company-logo_400_400/0/1631351289400?e=1796860800&v=beta&t=3jTjJidXEBF0OLrABgbxglFj5LpIMQKz8a2UdtAsRVk
+    sizes: []
+- position: Undergraduate Research Assistant
+  location: Remote Assistance
+  employmentType: null
+  workplaceType: null
+  companyName: Norwegian University of Science and Technology (NTNU)
+  companyLinkedinUrl: https://www.linkedin.com/company/ntnu
+  companyId: '15097165'
+  companyUniversalName: ntnu
+  duration: null
+  description: '•  Developed machine learning models to predict various psycho-social metrics (values, ethics, personality)
+    using features like n-grams, topic models, psycho-linguistic lexica, and speech-acts.
+
+    •  Used above classifiers for various applications such as community detection (Our community detection model beat Stanford''s
+    CESNA by a margin of 4%), recommendation systems, multi-cultural analysis, societal sentiment analysis
+
+    •  Papers accepted at: AAAI-2017, IEEE Intelligent Systems, EACL-2017, CSCW-2017 '
+  skills: []
+  startDate:
+    month: Jul
+    year: 2016
+    text: Jul 2016
+  endDate:
+    month: Nov
+    year: 2016
+    text: Nov 2016
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D4E0BAQFuj8SRVp0nDQ/company-logo_200_200/B4EaCaEKQwH8A8-/0/1789291177221/ntnu_logo?e=1796860800&v=beta&t=4xGMKNofjfa-wYElu_XKX12WV9T1kXpHwlls0MDIj3Q
+    sizes: []
+- position: Undergraduate Research Assistant / Summer Intern
+  location: Singapore
+  employmentType: null
+  workplaceType: null
+  companyName: Nanyang Technological University, Singapore
+  companyLinkedinUrl: https://www.linkedin.com/company/ntusg
+  companyId: '165091'
+  companyUniversalName: ntusg
+  duration: null
+  description: '• Investigated common patterns (continuity disruption, sentiment flip, lexical variations) in natural language
+    for identifying satire in text to develop a soft ensemble classifier with optimum hyper-parameters and recursive feature
+    selection techniques. '
+  skills: []
+  startDate:
+    month: Jul
+    year: 2016
+    text: Jul 2016
+  endDate:
+    month: Aug
+    year: 2016
+    text: Aug 2016
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/C4D0BAQE9ISNDKYUaAw/company-logo_400_400/company-logo_400_400/0/1656682216282/ntusg_logo?e=1796860800&v=beta&t=6r96ZYvoF2sEsHOISJmsPGHEFBa18pi9sGSeierYNE8
+    sizes: []
+- position: IIIT-H SUMMER START-UP BOOTCAMP
+  location: IIIT-Hyderabad
+  employmentType: null
+  workplaceType: null
+  companyName: IIIT Hyderabad
+  companyLinkedinUrl: https://www.linkedin.com/company/iiithofficial
+  companyId: '49275'
+  companyUniversalName: iiithofficial
+  duration: null
+  description: '• Participated in the summer Entrepreneurship bootcamp conducted by
+
+    IIIT-H as a Entrepreneur’s club representative
+
+    • Developed an online interactive recipe portal
+
+    '
+  skills: []
+  startDate:
+    month: Jun
+    year: 2015
+    text: Jun 2015
+  endDate:
+    month: Jul
+    year: 2015
+    text: Jul 2015
+  companyLogo:
+    url: https://media.licdn.com/dms/image/v2/D4D0BAQGXiXmbE3nzEw/company-logo_400_400/company-logo_400_400/0/1729748082101/iiithofficial_logo?e=1796860800&v=beta&t=UnVB4gThiG-VBurE3Pnfzt9GKlCOlaff2txM5j-R6kY
+    sizes: []
+education:
+- schoolName: Carnegie Mellon University
+  schoolLinkedinUrl: https://www.linkedin.com/school/carnegie-mellon-university/
+  schoolId: '3147'
+  degree: Master's degree
+  fieldOfStudy: Computer Science (MCDS-LTI)
+  skills: []
+  description: 'Relevant Courses:
+
+    - Introduction to Computer Systems (15-513)
+
+    - Machine learning (10-601)
+
+    - Cloud Computing (15-619)
+
+    - Interactive Data Science (05-839)
+
+    - Introduction to Deep Learning (11-785)
+
+    - Large Scale Multimedia Analysis (11-775)
+
+    - Deep Reinforcement Learning (10-703)
+
+
+    '
+  insights: null
+  startDate: null
+  endDate: null
+  period: null
+  schoolLogo:
+    url: https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_200_200/company-logo_200_200/0/1656670432790/carnegie_mellon_university_logo?e=1796860800&v=beta&t=jiN2L3Gg6iiiLvSdn07UHS98zxLL9vodT-YCXOGaH7U
+    sizes:
+    - url: https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_200_200/company-logo_200_200/0/1656670432790/carnegie_mellon_university_logo?e=1796860800&v=beta&t=jiN2L3Gg6iiiLvSdn07UHS98zxLL9vodT-YCXOGaH7U
+      width: 200
+      height: 200
+    - url: https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_100_100/company-logo_100_100/0/1656670432790/carnegie_mellon_university_logo?e=1796860800&v=beta&t=lGlNeGs1WIyoRAQ40LcTsGDEW5-UuP0Z-mWtCh5HBPk
+      width: 100
+      height: 100
+    - url: https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_400_400/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1796860800&v=beta&t=hoO0FVBYbU0FJ4kejdLXPp02Z1Yo48JzHBCB7UtCfRU
+      width: 400
+      height: 400
+- schoolName: Y Combinator
+  schoolLinkedinUrl: https://www.linkedin.com/school/y-combinator/
+  schoolId: '167872'
+  degree: Startup School
+  fieldOfStudy: null
+  skills: []
+  description: null
+  insights: null
+  startDate: null
+  endDate: null
+  period: null
+  schoolLogo:
+    url: https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_200_200/company-logo_200_200/0/1673555093250/y_combinator_logo?e=1796860800&v=beta&t=go7FsXE9hgwA6_EQ46CFaahEycje6Fjkq1ptHuiB_KA
+    sizes:
+    - url: https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_200_200/company-logo_200_200/0/1673555093250/y_combinator_logo?e=1796860800&v=beta&t=go7FsXE9hgwA6_EQ46CFaahEycje6Fjkq1ptHuiB_KA
+      width: 200
+      height: 200
+    - url: https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_100_100/company-logo_100_100/0/1673555093250/y_combinator_logo?e=1796860800&v=beta&t=g2USDIqe-5hthPJ21pqma3IthtkcwMDWGohl4Es8bus
+      width: 100
+      height: 100
+    - url: https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1796860800&v=beta&t=KeG0s-edvzUPxECOzKoPRoQkj0_XZgKmI3NBPmByY3E
+      width: 400
+      height: 400
+- schoolName: Indian Institute of Information Technology, SriCity
+  schoolLinkedinUrl: https://www.linkedin.com/school/indian-institute-of-information-technology-sricity/
+  schoolId: '15139900'
+  degree: B.Tech( Hons.)
+  fieldOfStudy: Electronics & CommunicationEngineering
+  skills: []
+  description: "Dean’s Academic List\nBatch Topper \nDean's Research List"
+  insights: null
+  startDate: null
+  endDate: null
+  period: null
+  schoolLogo:
+    url: https://media.licdn.com/dms/image/v2/C510BAQG6G6xJK3ZdaA/company-logo_200_200/company-logo_200_200/0/1631361854120?e=1796860800&v=beta&t=Pymldy1UWSkIbwOETtJIt_Uf5eYZQoNM7D_DKw8pfSg
+    sizes:
+    - url: https://media.licdn.com/dms/image/v2/C510BAQG6G6xJK3ZdaA/company-logo_200_200/company-logo_200_200/0/1631361854120?e=1796860800&v=beta&t=Pymldy1UWSkIbwOETtJIt_Uf5eYZQoNM7D_DKw8pfSg
+      width: 200
+      height: 200
+    - url: https://media.licdn.com/dms/image/v2/C510BAQG6G6xJK3ZdaA/company-logo_100_100/company-logo_100_100/0/1631361854120?e=1796860800&v=beta&t=dUK0QG7J8-leEZPWcFNZApKqEHt823gOAli92yBWqtM
+      width: 100
+      height: 100
+    - url: https://media.licdn.com/dms/image/v2/C510BAQG6G6xJK3ZdaA/company-logo_400_400/company-logo_400_400/0/1631361854120?e=1796860800&v=beta&t=ITwmjBK4w8dYt61pr9wQ61JNPiNTRAOaIA6r6zviRuc
+      width: 400
+      height: 400
+- schoolName: Delhi Public School -  Bangalore South
+  schoolLinkedinUrl: https://www.linkedin.com/school/delhi-public-school-bangalore-south/
+  schoolId: '27161526'
+  degree: High School
+  fieldOfStudy: null
+  skills: []
+  description: null
+  insights: null
+  startDate: null
+  endDate: null
+  period: null
+  schoolLogo:
+    url: https://media.licdn.com/dms/image/v2/C4D0BAQGrHpkapiijeA/company-logo_200_200/company-logo_200_200/0/1631306437914?e=1796860800&v=beta&t=FnL9vzAYSMer2NgVd396OtpairQ6juyJU205BHFJgCU
+    sizes:
+    - url: https://media.licdn.com/dms/image/v2/C4D0BAQGrHpkapiijeA/company-logo_200_200/company-logo_200_200/0/1631306437914?e=1796860800&v=beta&t=FnL9vzAYSMer2NgVd396OtpairQ6juyJU205BHFJgCU
+      width: 200
+      height: 200
+    - url: https://media.licdn.com/dms/image/v2/C4D0BAQGrHpkapiijeA/company-logo_100_100/company-logo_100_100/0/1631306437914?e=1796860800&v=beta&t=Lkf-uFnA4iJp29NXswbZuZQBJma1vC7RE5BkdEsiODM
+      width: 100
+      height: 100
+    - url: https://media.licdn.com/dms/image/v2/C4D0BAQGrHpkapiijeA/company-logo_400_400/company-logo_400_400/0/1631306437914?e=1796860800&v=beta&t=H5-4R8PUbfK7J8zp0LVHi7cxMBxIe7WRWfZLl9aIjxk
+      width: 400
+      height: 400
+skills:
+- name: Generative ai
+  positions: []
+- name: Natural Language Processing
+  positions: []
+- name: Machine Learning
+  positions: []
+- name: Python
+  positions: []
+- name: PHP
+  positions: []
+- name: Java
+  positions: []
+- name: HTML5
+  positions: []
+- name: Matlab
+  positions: []
+- name: C++
+  positions: []
+- name: C
+  positions: []
+- name: Amazon Web Services (AWS)
+  positions: []
+- name: Microsoft Azure
+  positions: []
+- name: Deep Learning
+  positions: []
+posts:
+- id: '7528661480855023616'
+  date: '2026-11-18T03:32:52.802Z'
+  url: https://www.linkedin.com/posts/areganti_maven-is-offering-its-biggest-discount-yet-activity-7528661480855023616-jySL
+  likes: 21
+  comments: 1
+  file: ./posts/2026-11-18-maven-is-offering-its-biggest.md
+  commentsFetched: true
+- id: '7528638619125792768'
+  date: '2026-11-18T02:02:02.141Z'
+  url: https://www.linkedin.com/posts/areganti_building-agentic-ai-applications-with-a-problem-first-activity-7528638619125792768-hSRG
+  likes: 14
+  comments: 2
+  file: ./posts/2026-11-18-when-building-gets-easier-thinking.md
+  commentsFetched: true
+- id: '7528125429967294464'
+  date: '2026-11-16T16:02:48.311Z'
+  url: https://www.linkedin.com/posts/areganti_super-stoked-to-see-my-ai-evals-video-activity-7528125429967294464-WFIo
+  likes: 125
+  comments: 20
+  file: ./posts/2026-11-16-super-stoked-to-see-my.md
+  commentsFetched: true
+- id: '7527936410528665600'
+  date: '2026-11-16T03:31:42.565Z'
+  url: https://www.linkedin.com/posts/sean-myers-5726747_the-ai-security-framework-every-engineer-activity-7527516588401401856-G9FC
+  likes: 91
+  comments: 9
+  file: ./posts/2026-11-16-𝗦𝗲𝗰𝘂𝗿𝗶𝗻𝗴-𝗔𝗜-𝗔𝗴𝗲𝗻𝘁𝘀-𝗳𝗼𝗿-𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7527442351456317440'
+  date: '2026-11-14T18:48:29.703Z'
+  url: https://www.linkedin.com/posts/sribalaji2604_the-ai-security-framework-every-engineer-activity-7526932530101567488-HsSQ
+  likes: 28
+  comments: 2
+  file: ./posts/2026-11-14-we-spend-years-securing-production.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7526731307523932160'
+  date: '2026-11-12T19:43:03.619Z'
+  url: https://www.linkedin.com/posts/ezhilarasi-saravanan-147482245_ai-llm-documentai-ugcPost-7526551425821196288-baV-
+  likes: 35
+  comments: 4
+  file: ./posts/2026-11-12-built-a-document-intelligence-pipeline.md
+  commentsFetched: true
+- id: '7526486876040429568'
+  date: '2026-11-12T03:31:46.612Z'
+  url: https://www.linkedin.com/posts/areganti_the-voice-ai-war-wispr-granola-fireflies-activity-7526486876040429568-ninE
+  likes: 69
+  comments: 16
+  file: ./posts/2026-11-12-the-voice-ai-war-wispr.md
+  commentsFetched: true
+- id: '7525950675646599168'
+  date: '2026-11-10T16:01:06.476Z'
+  url: https://www.linkedin.com/posts/areganti_who-knew-ai-agents-could-be-2x-slower-just-activity-7525950675646599168-GnLQ
+  likes: 117
+  comments: 23
+  file: ./posts/2026-11-10-who-knew-ai-agents-could.md
+  commentsFetched: true
+- id: '7525762069254590464'
+  date: '2026-11-10T03:31:39.208Z'
+  url: https://www.linkedin.com/posts/areganti_a-humble-request-to-aspiring-ai-engineers-activity-7525762069254590464-rbz1
+  likes: 367
+  comments: 26
+  file: ./posts/2026-11-10-a-humble-request-to-aspiring.md
+  commentsFetched: true
+- id: '7524564727986032640'
+  date: '2026-11-06T20:13:50.804Z'
+  url: https://www.linkedin.com/posts/charles-bryant-9147532a5_mcp-aiengineering-llmevals-activity-7524440875309903872-iIFu
+  likes: 6
+  comments: 2
+  file: ./posts/2026-11-06-ive-been-diving-deep-into.md
+  commentsFetched: true
+- id: '7524187061621489664'
+  date: '2026-11-05T19:13:08.126Z'
+  url: https://www.linkedin.com/posts/prithviraj-lakkakula-36357250_i-recently-enrolled-in-aishwarya-naresh-regantis-activity-7523482872708669441-ztbI
+  likes: 13
+  comments: 0
+  file: ./posts/2026-11-05-i-recently-enrolled-in-aishwarya.md
+- id: '7523982198731931648'
+  date: '2026-11-05T05:39:05.007Z'
+  url: https://www.linkedin.com/posts/prakash-sanker_regret-can-make-you-miserable-about-a-life-activity-7523972764257615873-VSaf
+  likes: 258
+  comments: 11
+  file: ./posts/2026-11-05-regret-can-make-you-miserable.md
+  commentsFetched: true
+- id: '7523950265885167618'
+  date: '2026-11-05T03:32:11.623Z'
+  url: https://www.linkedin.com/posts/areganti_you-could-be-spending-50-more-on-inference-activity-7523950265885167618-ysqO
+  likes: 293
+  comments: 87
+  file: ./posts/2026-11-05-you-could-be-spending-50.md
+  commentsFetched: true
+- id: '7523776348595871744'
+  date: '2026-11-04T16:01:06.510Z'
+  url: https://www.linkedin.com/posts/areganti_one-of-the-hardest-parts-of-building-self-improving-activity-7523776348595871744-Oi2O
+  likes: 18
+  comments: 2
+  file: ./posts/2026-11-04-one-of-the-hardest-parts.md
+  commentsFetched: true
+- id: '7523764867481264128'
+  date: '2026-11-04T15:15:29.199Z'
+  url: https://www.linkedin.com/posts/areganti_tonight-were-building-an-investment-memo-activity-7523764867481264128-v2AT
+  likes: 10
+  comments: 0
+  file: ./posts/2026-11-04-super-stoked-for-this.md
+- id: '7523587359968514048'
+  date: '2026-11-04T03:30:08.110Z'
+  url: https://www.linkedin.com/posts/areganti_there-are-tons-of-skills-people-are-publishing-activity-7523587359968514048-z-j0
+  likes: 50
+  comments: 6
+  file: ./posts/2026-11-04-there-are-tons-of-skills.md
+  commentsFetched: true
+- id: '7523101149105700864'
+  date: '2026-11-02T19:18:06.407Z'
+  url: https://www.linkedin.com/posts/areganti_2000-hours-of-learning-harness-engineering-activity-7523101149105700864-r2D5
+  likes: 18
+  comments: 1
+  file: ./posts/2026-11-02-parveen-khan-what-a-joy.md
+  commentsFetched: true
+- id: '7521773497417703424'
+  date: '2026-10-30T03:22:29.578Z'
+  url: https://www.linkedin.com/posts/areganti_kind-of-funny-right-in-a-few-weeks-of-jevs-activity-7521773497417703424-zGNC
+  likes: 52
+  comments: 5
+  file: ./posts/2026-10-30-kind-of-funny-right-in.md
+  commentsFetched: true
+- id: '7521224513578213376'
+  date: '2026-10-28T15:01:01.631Z'
+  url: https://www.linkedin.com/posts/areganti_if-youre-constantly-hitting-your-token-limits-activity-7521224513578213376-qRex
+  likes: 124
+  comments: 11
+  file: ./posts/2026-10-28-if-youre-constantly-hitting-your.md
+  commentsFetched: true
+- id: '7521099154673057792'
+  date: '2026-10-28T06:42:53.739Z'
+  url: https://www.linkedin.com/posts/dilipevs_weve-reached-a-point-where-people-whove-activity-7521074449668882432-7nhR
+  likes: 3306
+  comments: 525
+  file: ./posts/2026-10-28-weve-reached-a-point-where.md
+  commentsFetched: true
+- id: '7521044303876423680'
+  date: '2026-10-28T03:04:56.290Z'
+  url: https://www.linkedin.com/posts/areganti_how-do-you-slash-token-costs-by-up-to-70-activity-7521044303876423680-dcji
+  likes: 431
+  comments: 97
+  file: ./posts/2026-10-28-how-do-you-slash-token.md
+  commentsFetched: true
+- id: '7520673521467891712'
+  date: '2026-10-27T02:31:34.875Z'
+  url: https://www.linkedin.com/posts/areganti_so-many-people-get-stuck-in-ai-system-design-activity-7520673521467891712-RQrd
+  likes: 58
+  comments: 6
+  file: ./posts/2026-10-27-so-many-people-get-stuck.md
+  commentsFetched: true
+- id: '7520233924883558400'
+  date: '2026-10-25T21:24:46.882Z'
+  url: https://www.linkedin.com/posts/naveensivaraju_ai-evals-for-everyone-ugcPost-7520021520304459776-py-k
+  likes: 18
+  comments: 6
+  file: ./posts/2026-10-25-im-glad-to-share-that.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7519598148995026944'
+  date: '2026-10-24T03:18:26.098Z'
+  url: https://www.linkedin.com/posts/areganti_were-entering-the-era-of-resume-slop-activity-7519598148995026944-6uhb
+  likes: 123
+  comments: 63
+  file: ./posts/2026-10-24-were-entering-the-era-of.md
+  commentsFetched: true
+- id: '7519542652871102464'
+  date: '2026-10-23T23:37:54.791Z'
+  url: https://www.linkedin.com/posts/detoledothomas-product-manager_first-weekend-of-classes-with-aishwarya-naresh-activity-7517718160960057344-NDza
+  likes: 7
+  comments: 0
+  file: ./posts/2026-10-23-first-weekend-of-classes-with.md
+- id: '7518861272004657152'
+  date: '2026-10-22T02:30:20.933Z'
+  url: https://www.linkedin.com/posts/areganti_claude-duet-is-here-finally-for-anthropic-activity-7518861272004657152-fhDn
+  likes: 130
+  comments: 18
+  file: ./posts/2026-10-22-claude-duet-is-here-finally.md
+  commentsFetched: true
+- id: '7518687768789610496'
+  date: '2026-10-21T15:00:54.543Z'
+  url: https://www.linkedin.com/posts/areganti_i-think-the-whole-idea-of-personal-agents-activity-7518687768789610496-Poqn
+  likes: 75
+  comments: 11
+  file: ./posts/2026-10-21-i-think-the-whole-idea.md
+  commentsFetched: true
+- id: '7518498821123895296'
+  date: '2026-10-21T02:30:05.909Z'
+  url: https://www.linkedin.com/posts/areganti_finally-took-the-time-to-review-googles-activity-7518498821123895296-vXTO
+  likes: 253
+  comments: 35
+  file: ./posts/2026-10-21-finally-took-the-time-to.md
+  commentsFetched: true
+- id: '7518137085430685696'
+  date: '2026-10-20T02:32:41.399Z'
+  url: https://www.linkedin.com/posts/areganti_ive-barely-heard-anyone-talk-about-this-activity-7518137085430685696-NXdq
+  likes: 105
+  comments: 19
+  file: ./posts/2026-10-20-ive-barely-heard-anyone-talk.md
+  commentsFetched: true
+- id: '7517391791248113665'
+  date: '2026-10-18T01:11:09.419Z'
+  url: https://www.linkedin.com/posts/areganti_just-wrapped-up-the-first-lecture-of-building-activity-7517391791248113665-FZBC
+  likes: 17
+  comments: 2
+  file: ./posts/2026-10-18-takeaways.md
+  commentsFetched: true
+- id: '7517390911098490880'
+  date: '2026-10-18T01:07:39.575Z'
+  url: https://www.linkedin.com/posts/areganti_we-kicked-off-yet-another-cohort-of-our-course-activity-7517390911098490880-kVnr
+  likes: 28
+  comments: 4
+  file: ./posts/2026-10-18-we-kicked-off-yet-another.md
+  commentsFetched: true
+- id: '7517049456073019393'
+  date: '2026-10-17T02:30:50.353Z'
+  url: https://www.linkedin.com/posts/areganti_dont-build-ai-prototypes-just-for-the-heck-activity-7517049456073019393-LwrY
+  likes: 57
+  comments: 5
+  file: ./posts/2026-10-17-dont-build-ai-prototypes-just.md
+  commentsFetched: true
+- id: '7516933469906599936'
+  date: '2026-10-16T18:49:57.096Z'
+  url: https://www.linkedin.com/posts/vladmihalcea_the-length-of-social-media-posts-in-2026-activity-7516496608084185088-cGfO
+  likes: 997
+  comments: 47
+  file: ./posts/2026-10-16-the-length-of-social-media.md
+  commentsFetched: true
+- id: '7516923342415650816'
+  date: '2026-10-16T18:09:42.514Z'
+  url: https://www.linkedin.com/posts/areganti_a-year-ago-i-was-trying-to-figure-out-how-activity-7516923342415650816-OW46
+  likes: 12
+  comments: 0
+  file: ./posts/2026-10-16-7516923342415650816.md
+- id: '7516513527340204032'
+  date: '2026-10-15T15:01:14.986Z'
+  url: https://www.linkedin.com/posts/areganti_yet-another-100k-video-my-ai-evals-deep-activity-7516513527340204032-3E8e
+  likes: 83
+  comments: 5
+  file: ./posts/2026-10-15-yet-another-100k-video-my.md
+  commentsFetched: true
+- id: '7516335322939715585'
+  date: '2026-10-15T03:13:07.746Z'
+  url: https://www.linkedin.com/posts/areganti_the-reverse-engineer-anything-repo-is-activity-7516335322939715585-93Fc
+  likes: 212
+  comments: 16
+  file: ./posts/2026-10-15-the-reverse-engineer-anything-repo.md
+  commentsFetched: true
+- id: '7515962196766441472'
+  date: '2026-10-14T02:30:27.534Z'
+  url: https://www.linkedin.com/posts/areganti_me-writes-a-post-on-something-heartfelt-activity-7515962196766441472-0hVk
+  likes: 124
+  comments: 44
+  file: ./posts/2026-10-14-me-writes-a-post-on.md
+  commentsFetched: true
+- id: '7515815340367347713'
+  date: '2026-10-13T16:46:54.240Z'
+  url: https://www.linkedin.com/posts/mairanawaz_agentic-ai-build-your-first-agentic-ai-system-ugcPost-7515718245811712000-31kB
+  likes: 30
+  comments: 9
+  file: ./posts/2026-10-13-just-completed-a-course-on.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7515790534775341056'
+  date: '2026-10-13T15:08:20.126Z'
+  url: https://www.linkedin.com/posts/areganti_if-youre-trying-to-break-into-ai-engineering-activity-7515790534775341056-e4bu
+  likes: 171
+  comments: 4
+  file: ./posts/2026-10-13-if-youre-trying-to-break.md
+  commentsFetched: true
+- id: '7515600365250166784'
+  date: '2026-10-13T02:32:40.178Z'
+  url: https://www.linkedin.com/posts/areganti_i-have-a-confession-as-an-engineer-i-activity-7515600365250166784-X3Jt
+  likes: 192
+  comments: 41
+  file: ./posts/2026-10-13-i-have-a-confession-as.md
+  commentsFetched: true
+- id: '7515489714582478848'
+  date: '2026-10-12T19:12:59.003Z'
+  url: https://www.linkedin.com/posts/areganti_imagine-trying-to-be-a-travel-influencer-activity-7515489714582478848-NwCo
+  likes: 40
+  comments: 2
+  file: ./posts/2026-10-12-good-builders-should-write-more.md
+  commentsFetched: true
+- id: '7515093549630164992'
+  date: '2026-10-11T16:58:45.918Z'
+  url: https://www.linkedin.com/posts/areganti_yesterday-in-the-midst-of-my-weekend-learning-activity-7515093549630164992-0vsv
+  likes: 55
+  comments: 5
+  file: ./posts/2026-10-11-thanks-karthik-ravindran-every-video.md
+  commentsFetched: true
+- id: '7514539786586456064'
+  date: '2026-10-10T04:18:18.520Z'
+  url: https://www.linkedin.com/posts/sai-kiriti-badam_2025-was-the-year-of-agents-2026-is-the-activity-7514539144421806080-l702
+  likes: 65
+  comments: 4
+  file: ./posts/2026-10-10-2025-was-the-year-of.md
+  commentsFetched: true
+- id: '7514536793455816704'
+  date: '2026-10-10T04:06:24.902Z'
+  url: https://www.linkedin.com/posts/areganti_what-started-as-a-simple-free-initiative-activity-7514536793455816704-1l80
+  likes: 58
+  comments: 6
+  file: ./posts/2026-10-10-what-started-as-a-simple.md
+  commentsFetched: true
+- id: '7514150389160546305'
+  date: '2026-10-09T02:30:58.939Z'
+  url: https://www.linkedin.com/posts/areganti_when-you-picture-the-ideal-version-of-activity-7514150389160546305-T8QA
+  likes: 291
+  comments: 19
+  file: ./posts/2026-10-09-when-you-picture-the-ideal.md
+  commentsFetched: true
+- id: '7513819403747160064'
+  date: '2026-10-08T04:35:45.867Z'
+  url: https://www.linkedin.com/posts/sai-kiriti-badam_since-leaving-openai-ive-been-talking-to-activity-7513811121770950656-EZqG
+  likes: 214
+  comments: 16
+  file: ./posts/2026-10-08-since-leaving-openai-ive-been.md
+  commentsFetched: true
+- id: '7513812278312407041'
+  date: '2026-10-08T04:07:27.031Z'
+  url: https://www.linkedin.com/posts/sumanthvuddagiri_github-sumanth-vnmaibuildershandbooksummary-activity-7513483409852366848-hygj
+  likes: 48
+  comments: 0
+  file: ./posts/2026-10-08-finished-reading-the-ai-builders.md
+  hasArticle: true
+- id: '7513787790074068993'
+  date: '2026-10-08T02:30:08.580Z'
+  url: https://www.linkedin.com/posts/areganti_5-topics-that-keep-coming-up-again-and-again-activity-7513787790074068993-7yQN
+  likes: 70
+  comments: 11
+  file: ./posts/2026-10-08-5-topics-that-keep-coming.md
+- id: '7513614667211218944'
+  date: '2026-10-07T15:02:12.873Z'
+  url: https://www.linkedin.com/posts/areganti_nice-article-from-anthropic-on-automating-activity-7513614667211218944-aATC
+  likes: 296
+  comments: 44
+  file: ./posts/2026-10-07-nice-article-from-anthropic-on.md
+  commentsFetched: true
+- id: '7513425451118186496'
+  date: '2026-10-07T02:30:20.241Z'
+  url: https://www.linkedin.com/posts/areganti_been-hearing-the-same-complaint-from-a-activity-7513425451118186496-UQVX
+  likes: 356
+  comments: 60
+  file: ./posts/2026-10-07-been-hearing-the-same-complaint.md
+  commentsFetched: true
+- id: '7513102106858438656'
+  date: '2026-10-06T05:05:28.962Z'
+  url: https://www.linkedin.com/posts/ryanclustig_with-all-the-hype-around-harness-engineering-activity-7512731148096061441-wR2F
+  likes: 25
+  comments: 3
+  file: ./posts/2026-10-06-with-all-the-hype-around.md
+  commentsFetched: true
+- id: '7513091373802188800'
+  date: '2026-10-06T04:22:50.002Z'
+  url: https://www.linkedin.com/posts/areganti_my-video-on-the-state-of-rag-in-2026-just-activity-7513091373802188800-kKoM
+  likes: 151
+  comments: 7
+  file: ./posts/2026-10-06-my-video-on-the-state.md
+  commentsFetched: true
+- id: '7512388987081224192'
+  date: '2026-10-04T05:51:47.958Z'
+  url: https://www.linkedin.com/posts/ashishjain93_certificate-for-ai-evals-for-everyone-ugcPost-7512383569600761856-FjXD
+  likes: 17
+  comments: 8
+  file: ./posts/2026-10-04-building-ai-is-only-half.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7511975838339239936'
+  date: '2026-10-03T02:30:05.622Z'
+  url: https://www.linkedin.com/posts/areganti_cracking-the-ai-system-design-interview-activity-7511975838339239936-WUdA
+  likes: 107
+  comments: 8
+  file: ./posts/2026-10-03-if-youre-applying-for-ai.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7511613459596406784'
+  date: '2026-10-02T02:30:07.797Z'
+  url: https://www.linkedin.com/posts/areganti_we-saw-metas-muse-launch-just-a-few-weeks-activity-7511613459596406784-p7Vy
+  likes: 55
+  comments: 12
+  file: ./posts/2026-10-02-we-saw-metas-muse-launch.md
+- id: '7510541252141113344'
+  date: '2026-09-29T03:29:33.619Z'
+  url: https://www.linkedin.com/posts/areganti_career-update-after-about-a-year-and-a-half-activity-7510541252141113344-ZCUN
+  likes: 307
+  comments: 13
+  file: ./posts/2026-09-29-welcome-kiriti-badam-also-what.md
+  commentsFetched: true
+- id: '7510526757272375296'
+  date: '2026-09-29T02:31:57.773Z'
+  url: https://www.linkedin.com/posts/areganti_while-everyones-talking-about-individual-activity-7510526757272375296-mmJW
+  likes: 62
+  comments: 16
+  file: ./posts/2026-09-29-while-everyones-talking-about-individual.md
+  commentsFetched: true
+- id: '7510455990278995969'
+  date: '2026-09-28T21:50:45.607Z'
+  url: https://www.linkedin.com/posts/ashesh11_productbuilder-aievals-productmanagement-activity-7510448176491880448-roep
+  likes: 21
+  comments: 2
+  file: ./posts/2026-09-28-ive-been-running-ai-evals.md
+  commentsFetched: true
+- id: '7510377742161592320'
+  date: '2026-09-28T16:39:49.802Z'
+  url: https://www.linkedin.com/posts/kriti-joshi-11622bb3_whats-really-inside-jev-reverse-engineering-activity-7510347366298963968-AQun
+  likes: 31
+  comments: 2
+  file: ./posts/2026-09-28-i-love-solving-technical-mysteries.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7510162673968406528'
+  date: '2026-09-28T02:25:13.549Z'
+  url: https://www.linkedin.com/posts/dneelamana_aishwarya-naresh-reganti-and-kiriti-badam-activity-7510021867156594688-GHJc
+  likes: 9
+  comments: 0
+  file: ./posts/2026-09-28-aishwarya-naresh-reganti-and-kiriti.md
+- id: '7509076879304253440'
+  date: '2026-09-25T02:30:39.928Z'
+  url: https://www.linkedin.com/posts/areganti_did-you-know-that-stanford-has-a-super-activity-7509076879304253440-CUYe
+  likes: 123
+  comments: 7
+  file: ./posts/2026-09-25-did-you-know-that-stanford.md
+  commentsFetched: true
+- id: '7509005487007285248'
+  date: '2026-09-24T21:46:58.678Z'
+  url: https://www.linkedin.com/posts/tolembek_aiagents-langgraph-aiengineering-ugcPost-7507988110237134849-o8J3
+  likes: 25
+  comments: 8
+  file: ./posts/2026-09-24-just-wrapped-up-the-september.md
+  commentsFetched: true
+- id: '7508941495152844801'
+  date: '2026-09-24T17:32:41.831Z'
+  url: https://www.linkedin.com/posts/areganti_i-get-it-jev-is-being-overhyped-nothing-activity-7508941495152844801-6ZUH
+  likes: 275
+  comments: 31
+  file: ./posts/2026-09-24-i-get-it-jev-is.md
+  commentsFetched: true
+- id: '7508903199974621184'
+  date: '2026-09-24T15:00:31.549Z'
+  url: https://www.linkedin.com/posts/areganti_they-said-taste-might-be-the-only-thing-left-activity-7508903199974621184-qdiL
+  likes: 37
+  comments: 3
+  file: ./posts/2026-09-24-they-said-taste-might-be.md
+  commentsFetched: true
+- id: '7508714612414959616'
+  date: '2026-09-24T02:31:08.771Z'
+  url: https://www.linkedin.com/posts/areganti_incredibly-pumped-to-see-our-harness-engineering-activity-7508714612414959616-QPss
+  likes: 36
+  comments: 1
+  file: ./posts/2026-09-24-incredibly-pumped-to-see-our.md
+  commentsFetched: true
+- id: '7508541046054600704'
+  date: '2026-09-23T15:01:27.326Z'
+  url: https://www.linkedin.com/posts/areganti_how-do-models-like-jev-work-under-the-hood-activity-7508541046054600704-5lqE
+  likes: 185
+  comments: 6
+  file: ./posts/2026-09-23-how-do-models-like-jev.md
+  commentsFetched: true
+- id: '7508384186018357250'
+  date: '2026-09-23T04:38:08.979Z'
+  url: https://www.linkedin.com/posts/areganti_excited-to-be-teaching-harness-engineering-activity-7508384186018357250-o51X
+  likes: 35
+  comments: 1
+  file: ./posts/2026-09-23-7508384186018357250.md
+  commentsFetched: true
+- id: '7508329110662692864'
+  date: '2026-09-23T00:59:17.991Z'
+  url: https://www.linkedin.com/posts/areganti_today-were-launching-an-ambitious-new-school-activity-7508329110662692864-6RA-
+  likes: 29
+  comments: 5
+  file: ./posts/2026-09-23-congrats-on-the-launch-gagan.md
+  commentsFetched: true
+- id: '7507966038211387392'
+  date: '2026-09-22T00:56:34.773Z'
+  url: https://www.linkedin.com/posts/diptipatelca_i-recently-wrapped-up-four-intense-weekends-activity-7507830610896351232-zhAe
+  likes: 25
+  comments: 0
+  file: ./posts/2026-09-22-i-recently-wrapped-up-four.md
+- id: '7507960489545629698'
+  date: '2026-09-22T00:34:31.868Z'
+  url: https://www.linkedin.com/posts/sahana-venkatesh_we-wrapped-up-the-aishwarya-naresh-reganti-activity-7507874847096758272-N4b6
+  likes: 30
+  comments: 0
+  file: ./posts/2026-09-22-we-wrapped-up-the-aishwarya.md
+- id: '7507627181594812416'
+  date: '2026-09-21T02:30:05.060Z'
+  url: https://www.linkedin.com/posts/areganti_if-youre-applying-for-ai-roles-in-2026-activity-7507627181594812416-hJOq
+  likes: 126
+  comments: 3
+  file: ./posts/2026-09-21-if-youre-applying-for-ai.md
+  commentsFetched: true
+- id: '7506902462939729920'
+  date: '2026-09-19T02:30:18.668Z'
+  url: https://www.linkedin.com/posts/areganti_forward-deployed-engineer-is-officially-activity-7506902462939729920-sbTl
+  likes: 83
+  comments: 3
+  file: ./posts/2026-09-19-forward-deployed-engineer-is-officially.md
+  commentsFetched: true
+- id: '7506728855638810625'
+  date: '2026-09-18T15:00:27.462Z'
+  url: https://www.linkedin.com/posts/areganti_headroom-is-an-open-source-repository-activity-7506728855638810625-HLdC
+  likes: 72
+  comments: 3
+  file: ./posts/2026-09-18-headroom-is-an-open-source-repository.md
+  commentsFetched: true
+- id: '7506540026533453824'
+  date: '2026-09-18T02:30:07.095Z'
+  url: https://www.linkedin.com/posts/areganti_we-had-so-much-fun-at-our-levelup-labs-activity-7506540026533453824-Nsqq
+  likes: 95
+  comments: 3
+  file: ./posts/2026-09-18-we-had-so-much-fun.md
+  commentsFetched: true
+- id: '7506494145079877634'
+  date: '2026-09-17T23:27:48.104Z'
+  url: https://www.linkedin.com/posts/areganti_building-agentic-ai-applications-with-a-problem-first-activity-7506494145079877634-RkSI
+  likes: 9
+  comments: 1
+  file: ./posts/2026-09-17-i-am-usually-quite-wary.md
+  commentsFetched: true
+- id: '7506493987235459072'
+  date: '2026-09-17T23:27:10.471Z'
+  url: https://www.linkedin.com/posts/areganti_a-bit-of-a-late-post-but-have-been-busy-activity-7506493987235459072-U5FG
+  likes: 14
+  comments: 0
+  file: ./posts/2026-09-17-the-head-fakes-real-ai.md
+- id: '7506493802287898624'
+  date: '2026-09-17T23:26:26.376Z'
+  url: https://www.linkedin.com/posts/areganti_building-agentic-ai-applicationsprobelm-activity-7506493802287898624-w4jB
+  likes: 4
+  comments: 0
+  file: ./posts/2026-09-17-read-the-traces-before-you.md
+- id: '7506493598775787520'
+  date: '2026-09-17T23:25:37.855Z'
+  url: https://www.linkedin.com/posts/areganti_i-recently-completed-building-agentic-ai-activity-7506493598775787520-qCwG
+  likes: 13
+  comments: 0
+  file: ./posts/2026-09-17-evals-arent-a-post-launch-checkbox.md
+- id: '7506422745531064320'
+  date: '2026-09-17T18:44:05.125Z'
+  url: https://www.linkedin.com/posts/areganti_linkedins-engineering-cto-on-building-ai-native-activity-7505815497842565120-vPff
+  likes: 71
+  comments: 7
+  file: ./posts/2026-09-17-if-youre-building-ai-products.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7506366930602119168'
+  date: '2026-09-17T15:02:17.809Z'
+  url: https://www.linkedin.com/posts/areganti_if-you-studied-undergrad-in-india-couldnt-activity-7506366930602119168-LViZ
+  likes: 553
+  comments: 27
+  file: ./posts/2026-09-17-if-you-studied-undergrad-in.md
+  commentsFetched: true
+- id: '7506177794050015232'
+  date: '2026-09-17T02:30:44.141Z'
+  url: https://www.linkedin.com/posts/areganti_almost-went-teary-eyed-watching-my-tedx-talk-activity-7506177794050015232-Pv-8
+  likes: 202
+  comments: 10
+  file: ./posts/2026-09-17-almost-went-teary-eyed-watching-my.md
+  commentsFetched: true
+- id: '7506005094467792896'
+  date: '2026-09-16T15:04:29.352Z'
+  url: https://www.linkedin.com/posts/areganti_such-a-hidden-gem-carnegie-mellons-activity-7506005094467792896-V_cz
+  likes: 360
+  comments: 5
+  file: ./posts/2026-09-16-such-a-hidden-gem-carnegie.md
+  commentsFetched: true
+- id: '7505821463585902592'
+  date: '2026-09-16T02:54:48.338Z'
+  url: https://www.linkedin.com/posts/areganti_building-agentic-ai-applications-with-a-problem-first-activity-7505821463585902592-5cBa
+  likes: 22
+  comments: 1
+  file: ./posts/2026-09-16-i-was-overwhelmed-with-agent.md
+  commentsFetched: true
+- id: '7505815497842565120'
+  date: '2026-09-16T02:31:05.994Z'
+  url: https://www.linkedin.com/posts/areganti_linkedins-engineering-cto-on-building-ai-native-activity-7505815497842565120-vPff
+  likes: 71
+  comments: 7
+  file: ./posts/2026-09-16-if-youre-building-ai-products.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7505456117905276928'
+  date: '2026-09-15T02:43:03.140Z'
+  url: https://www.linkedin.com/posts/areganti_were-ending-2026-with-a-bang-our-full-activity-7505456117905276928--VUa
+  likes: 80
+  comments: 1
+  file: ./posts/2026-09-15-were-ending-2026-with-a.md
+  commentsFetched: true
+- id: '7505364603963428865'
+  date: '2026-09-14T20:39:24.516Z'
+  url: https://www.linkedin.com/posts/avinash-kumar-36433418_i-recently-completed-the-5-week-maven-course-activity-7505063714413314048-cx8c
+  likes: 64
+  comments: 3
+  file: ./posts/2026-09-14-i-recently-completed-the-5-week.md
+  commentsFetched: true
+- id: '7504365691760963584'
+  date: '2026-09-12T02:30:05.288Z'
+  url: https://www.linkedin.com/posts/areganti_inference-engineering-101pdf-activity-7504365691760963584--r4t
+  likes: 79
+  comments: 2
+  file: ./posts/2026-09-12-inference-engineering-101-we-put.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7504330943688577024'
+  date: '2026-09-12T00:12:00.702Z'
+  url: https://www.linkedin.com/posts/nilesh-shrimali_i-just-wrapped-up-problem-first-ai-a-5-week-activity-7504248087939297280-2t8l
+  likes: 41
+  comments: 3
+  file: ./posts/2026-09-12-i-just-wrapped-up-problem.md
+  commentsFetched: true
+- id: '7504192150931308545'
+  date: '2026-09-11T15:00:29.930Z'
+  url: https://www.linkedin.com/posts/areganti_16-research-backed-tips-on-how-you-can-save-activity-7504192150931308545-CzqR
+  likes: 114
+  comments: 7
+  file: ./posts/2026-09-11-16-research-backed-tips-on-how.md
+  commentsFetched: true
+- id: '7504032671501713409'
+  date: '2026-09-11T04:26:47.071Z'
+  url: https://www.linkedin.com/posts/raj-barai_building-agentic-ai-capstone-ugcPost-7503393377590149120-zc3i
+  likes: 37
+  comments: 9
+  file: ./posts/2026-09-11-we-did-not-expect-our.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7504003305715576833'
+  date: '2026-09-11T02:30:05.722Z'
+  url: https://www.linkedin.com/posts/areganti_this-is-a-nice-repo-desktop-app-that-automates-activity-7504003305715576833-runx
+  likes: 210
+  comments: 5
+  file: ./posts/2026-09-11-this-is-a-nice-repo.md
+  commentsFetched: true
+- id: '7503890535707934720'
+  date: '2026-09-10T19:01:59.257Z'
+  url: https://www.linkedin.com/posts/areganti_tomorrow-at-9-am-pacific-were-hosting-activity-7503890535707934720-rRjb
+  likes: 17
+  comments: 1
+  file: ./posts/2026-09-10-tomorrow-at-9-am-pacific.md
+  commentsFetched: true
+- id: '7503873661968363521'
+  date: '2026-09-10T17:54:56.244Z'
+  url: https://www.linkedin.com/posts/areganti_artificialintelligence-agenticai-systemdesign-activity-7503873661968363521-dIG6
+  likes: 12
+  comments: 2
+  file: ./posts/2026-09-10-if-you-had-to-summarize.md
+  commentsFetched: true
+- id: '7503829767935201280'
+  date: '2026-09-10T15:00:31.091Z'
+  url: https://www.linkedin.com/posts/areganti_with-many-enterprises-now-looking-to-build-activity-7503829767935201280-_PcP
+  likes: 60
+  comments: 1
+  file: ./posts/2026-09-10-with-many-enterprises-now-looking.md
+  commentsFetched: true
+- id: '7503671760572157952'
+  date: '2026-09-10T04:32:39.200Z'
+  url: https://www.linkedin.com/posts/sunil-krishnamurthy_agenticai-generativeai-aiengineering-ugcPost-7503322725793406976-W-ny
+  likes: 45
+  comments: 3
+  file: ./posts/2026-09-10-excited-to-share-that-ive.md
+  commentsFetched: true
+- id: '7503640923780648961'
+  date: '2026-09-10T02:30:07.136Z'
+  url: https://www.linkedin.com/posts/areganti_how-does-claude-watermark-its-text-activity-7503640923780648961-dZg1
+  likes: 34
+  comments: 1
+  file: ./posts/2026-09-10-how-does-claude-watermark-its.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7503569182433808384'
+  date: '2026-09-09T21:45:02.666Z'
+  url: https://www.linkedin.com/posts/deepamagarwal_just-wrapped-up-problem-first-ai-a-5-week-activity-7503266704676868096-j2se
+  likes: 40
+  comments: 6
+  file: ./posts/2026-09-09-just-wrapped-up-problem-first.md
+  commentsFetched: true
+- id: '7503527934457028608'
+  date: '2026-09-09T19:01:08.382Z'
+  url: https://www.linkedin.com/posts/areganti_happening-tomorrow-at-our-ai-builders-activity-7503527934457028608-A5Va
+  likes: 23
+  comments: 0
+  file: ./posts/2026-09-09-happening-tomorrow-at-our-ai.md
+- id: '7503467365632778240'
+  date: '2026-09-09T15:00:27.649Z'
+  url: https://www.linkedin.com/posts/areganti_youve-probably-heard-of-model-distillation-activity-7503467365632778240-Edc9
+  likes: 38
+  comments: 6
+  file: ./posts/2026-09-09-youve-probably-heard-of-model.md
+  commentsFetched: true
+- id: '7503278526624722944'
+  date: '2026-09-09T02:30:04.921Z'
+  url: https://www.linkedin.com/posts/areganti_this-repo-turns-technical-books-into-skills-activity-7503278526624722944-iGi2
+  likes: 261
+  comments: 18
+  file: ./posts/2026-09-09-this-repo-turns-technical-books.md
+  commentsFetched: true
+- id: '7503165345415909376'
+  date: '2026-09-08T19:00:20.418Z'
+  url: https://www.linkedin.com/posts/areganti_were-meeting-in-sf-this-evening-at-5-activity-7503165345415909376-ji0I
+  likes: 4
+  comments: 1
+  file: ./posts/2026-09-08-were-meeting-in-sf-this.md
+  commentsFetched: true
+- id: '7503137780747649024'
+  date: '2026-09-08T17:10:48.489Z'
+  url: https://www.linkedin.com/posts/areganti_just-wrapped-up-building-agentic-ai-applications-activity-7503137780747649024-AgYx
+  likes: 10
+  comments: 0
+  file: ./posts/2026-09-08-what-i-really-enjoyed-was.md
+- id: '7503137549415096320'
+  date: '2026-09-08T17:09:53.335Z'
+  url: https://www.linkedin.com/posts/denise-tran-cheung_a-pleasure-to-return-to-levelup-labs-agentic-activity-7502930733888573442-foxZ
+  likes: 38
+  comments: 2
+  file: ./posts/2026-09-08-a-pleasure-to-return-to.md
+  commentsFetched: true
+- id: '7503137021914173440'
+  date: '2026-09-08T17:07:47.569Z'
+  url: https://www.linkedin.com/posts/areganti_problemfirstapproach-agenticai-maven-activity-7503137021914173440-uhs8
+  likes: 6
+  comments: 0
+  file: ./posts/2026-09-08-thanks-so-much-for-the.md
+- id: '7503136754745548800'
+  date: '2026-09-08T17:06:43.871Z'
+  url: https://www.linkedin.com/posts/activity-7503108888095895552-1WFN
+  likes: 7
+  comments: 1
+  file: ./posts/2026-09-08-excited-to-be-recognized-as.md
+  commentsFetched: true
+- id: '7503104998050848768'
+  date: '2026-09-08T15:00:32.485Z'
+  url: https://www.linkedin.com/posts/areganti_not-going-to-get-into-the-debate-about-whether-activity-7503104998050848768-avd_
+  likes: 64
+  comments: 7
+  file: ./posts/2026-09-08-not-going-to-get-into.md
+  commentsFetched: true
+- id: '7502832712781729793'
+  date: '2026-09-07T20:58:34.618Z'
+  url: https://www.linkedin.com/posts/areganti_agenticai-aiengineering-dataengineering-activity-7502832712781729793-aZsK
+  likes: 12
+  comments: 1
+  file: ./posts/2026-09-07-my-biggest-takeaway-building-the.md
+  commentsFetched: true
+- id: '7502143581504262144'
+  date: '2026-09-05T23:20:12.918Z'
+  url: https://www.linkedin.com/posts/iskriyanavasileva_levelup-labs-education-activity-7502079528325005312-wj8H
+  likes: 29
+  comments: 2
+  file: ./posts/2026-09-05-a-different-demo-day-role.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7501707912365584384'
+  date: '2026-09-04T18:29:01.301Z'
+  url: https://www.linkedin.com/posts/areganti_im-excited-to-finally-announce-the-newest-activity-7501707912365584384-PyUC
+  likes: 78
+  comments: 3
+  file: ./posts/2026-09-04-huge-fan-of-mihails-work.md
+  commentsFetched: true
+- id: '7501466612177203201'
+  date: '2026-09-04T02:30:10.853Z'
+  url: https://www.linkedin.com/posts/areganti_what-really-separates-the-best-ai-consultants-activity-7501466612177203201-LPRU
+  likes: 36
+  comments: 7
+  file: ./posts/2026-09-04-what-really-separates-the-best.md
+  commentsFetched: true
+- id: '7501330561010077696'
+  date: '2026-09-03T17:29:33.727Z'
+  url: https://www.linkedin.com/posts/areganti_harness-engineering-designing-the-operating-activity-7501330561010077696-Ih6K
+  likes: 23
+  comments: 0
+  file: ./posts/2026-09-03-yay-super-stoked-for-this.md
+- id: '7501297551082573825'
+  date: '2026-09-03T15:18:23.547Z'
+  url: https://www.linkedin.com/posts/ashishjangraai_siva-surendira-our-founder-ceo-at-lyzr-activity-7501245283624845312-aGHp
+  likes: 26
+  comments: 4
+  file: ./posts/2026-09-03-siva-surendira-our-founder-ceo.md
+  commentsFetched: true
+- id: '7501104232964444160'
+  date: '2026-09-03T02:30:12.916Z'
+  url: https://www.linkedin.com/posts/areganti_our-levelup-labs-x-mem0-meetup-in-sf-is-activity-7501104232964444160-PQVu
+  likes: 13
+  comments: 0
+  file: ./posts/2026-09-03-our-levelup-labs-x-mem0.md
+- id: '7500379419039911936'
+  date: '2026-09-01T02:30:03.810Z'
+  url: https://www.linkedin.com/posts/areganti_if-youre-getting-confused-by-all-the-engineering-activity-7500379419039911936-zBwa
+  likes: 100
+  comments: 8
+  file: ./posts/2026-09-01-if-youre-getting-confused-by.md
+  commentsFetched: true
+- id: '7500122915603091456'
+  date: '2026-08-31T09:30:48.625Z'
+  url: https://www.linkedin.com/posts/toronatatambun_github-aishwaryanrawesome-generative-ai-guide-activity-7499895605901578240-JF1y
+  likes: 51
+  comments: 0
+  file: ./posts/2026-08-31-people-often-ask-me-for.md
+  hasArticle: true
+- id: '7499887029548208129'
+  date: '2026-08-30T17:53:29.007Z'
+  url: https://www.linkedin.com/posts/lennyrachitsky_a-growing-part-of-everyones-job-is-cleaning-activity-7499537157569585152-Xhyy
+  likes: 2314
+  comments: 162
+  file: ./posts/2026-08-30-a-growing-part-of-everyones.md
+  commentsFetched: true
+- id: '7499515822252580864'
+  date: '2026-08-29T17:18:26.291Z'
+  url: https://www.linkedin.com/posts/activity-7499106249997922305-x_We
+  likes: 26
+  comments: 0
+  file: ./posts/2026-08-29-irrespective-of-which-side-of.md
+  hasArticle: true
+- id: '7497936813161013249'
+  date: '2026-08-25T08:44:01.187Z'
+  url: https://www.linkedin.com/posts/edgar-martinez-sap-solutions_one-scheduled-task-one-reusable-skill-now-ugcPost-7497499568679489536-zyIZ
+  likes: 15
+  comments: 1
+  file: ./posts/2026-08-25-one-scheduled-task-one-reusable.md
+  commentsFetched: true
+- id: '7496815946603458560'
+  date: '2026-08-22T06:30:05.775Z'
+  url: https://www.linkedin.com/posts/edgar-martinez-sap-solutions_heres-one-for-your-weekend-learning-list-activity-7496643484787851264-curi
+  likes: 30
+  comments: 2
+  file: ./posts/2026-08-22-heres-one-for-your-weekend.md
+  commentsFetched: true
+- id: '7496804682808438784'
+  date: '2026-08-22T05:45:20.277Z'
+  url: https://www.linkedin.com/posts/raj-barai_agenticai-rag-appliedai-activity-7496529271910498304-Uf3Y
+  likes: 11
+  comments: 0
+  file: ./posts/2026-08-22-when-building-ai-solutions-model.md
+- id: '7496402654894481409'
+  date: '2026-08-21T03:07:49.353Z'
+  url: https://www.linkedin.com/posts/areganti_happening-tomorrow-chris-alexiuk-from-activity-7496402654894481409-l868
+  likes: 18
+  comments: 1
+  file: ./posts/2026-08-21-happening-tomorrow-chris-alexiuk-from.md
+  commentsFetched: true
+- id: '7496312386644164609'
+  date: '2026-08-20T21:09:07.725Z'
+  url: https://www.linkedin.com/posts/arjay-mccandless-9178b4198_downloading-someone-elses-skills-might-activity-7490422415332663296-sYND
+  likes: 15
+  comments: 1
+  file: ./posts/2026-08-20-downloading-someone-elses-skills-might.md
+  commentsFetched: true
+- id: '7496189523643543552'
+  date: '2026-08-20T13:00:54.903Z'
+  url: https://www.linkedin.com/posts/areganti_rag-is-probably-one-of-the-most-evolved-applied-activity-7496189523643543552-hvOH
+  likes: 103
+  comments: 13
+  file: ./posts/2026-08-20-rag-is-probably-one-of.md
+  commentsFetched: true
+- id: '7496045724250398720'
+  date: '2026-08-20T03:29:30.456Z'
+  url: https://www.linkedin.com/posts/areganti_as-part-of-our-ai-builder-summit-were-activity-7496045724250398720-uEBy
+  likes: 33
+  comments: 4
+  file: ./posts/2026-08-20-as-part-of-our-ai.md
+  commentsFetched: true
+- id: '7495900794555207680'
+  date: '2026-08-19T17:53:36.524Z'
+  url: https://www.linkedin.com/posts/tanya-shukla-5b5b6333_productmanagement-ai-agenticai-activity-7495844125544722432-BcLc
+  likes: 29
+  comments: 4
+  file: ./posts/2026-08-19-enterprises-want-deterministic-outcomes.md
+  commentsFetched: true
+- id: '7495685579334995968'
+  date: '2026-08-19T03:38:25.217Z'
+  url: https://www.linkedin.com/posts/raj-barai_appliedai-agenticai-aistrategy-activity-7495135795692011521-G3ly
+  likes: 14
+  comments: 2
+  file: ./posts/2026-08-19-i-built-an-ai-assistant.md
+  commentsFetched: true
+- id: '7495685411848228864'
+  date: '2026-08-19T03:37:45.285Z'
+  url: https://www.linkedin.com/posts/areganti_how-much-of-loop-engineering-is-actually-activity-7495685411848228864-VuUv
+  likes: 57
+  comments: 10
+  file: ./posts/2026-08-19-how-much-of-loop-engineering.md
+  commentsFetched: true
+- id: '7495494848792207361'
+  date: '2026-08-18T15:00:31.512Z'
+  url: https://www.linkedin.com/posts/areganti_deepseek-harness-is-probably-the-most-activity-7495494848792207361-P7A3
+  likes: 349
+  comments: 17
+  file: ./posts/2026-08-18-deepseek-harness-is-probably-the.md
+  commentsFetched: true
+- id: '7495303534591045632'
+  date: '2026-08-18T02:20:18.652Z'
+  url: https://www.linkedin.com/posts/areganti_what-kind-of-catastrophes-can-ai-generated-activity-7495303534591045632-l5uG
+  likes: 46
+  comments: 5
+  file: ./posts/2026-08-18-what-kind-of-catastrophes-can.md
+  commentsFetched: true
+- id: '7494972098944360449'
+  date: '2026-08-17T04:23:18.236Z'
+  url: https://www.linkedin.com/posts/sai-kiriti-badam_you-can-just-build-things-codex-ecosystem-activity-7494968022923759616-i9iu
+  likes: 47
+  comments: 3
+  file: ./posts/2026-08-17-you-can-just-build-things.md
+  commentsFetched: true
+- id: '7494942636118659073'
+  date: '2026-08-17T02:26:13.751Z'
+  url: https://www.linkedin.com/posts/areganti_super-stoked-for-tomorrows-session-led-activity-7494942636118659073-68uq
+  likes: 54
+  comments: 2
+  file: ./posts/2026-08-17-super-stoked-for-tomorrows-session.md
+  commentsFetched: true
+- id: '7494809274334785536'
+  date: '2026-08-16T17:36:17.824Z'
+  url: https://www.linkedin.com/posts/rpandey1234_reading-the-citations-for-an-ai-paper-activity-7494777501726965760-EmCq
+  likes: 516
+  comments: 36
+  file: ./posts/2026-08-16-reading-the-citations-for-an.md
+  commentsFetched: true
+- id: '7493856451212247040'
+  date: '2026-08-14T02:30:07.089Z'
+  url: https://www.linkedin.com/posts/areganti_im-kind-of-annoyed-when-people-casually-activity-7493856451212247040-BYMr
+  likes: 72
+  comments: 13
+  file: ./posts/2026-08-14-im-kind-of-annoyed-when.md
+  commentsFetched: true
+- id: '7493726010706653184'
+  date: '2026-08-13T17:51:47.649Z'
+  url: https://www.linkedin.com/posts/mani-shanker-talusani-15353424_the-ai-builders-summit-maven-activity-7491910072818913280-DUDU
+  likes: 7
+  comments: 0
+  file: ./posts/2026-08-13-the-ai-builders-summit-powered.md
+  hasArticle: true
+- id: '7493494046498394113'
+  date: '2026-08-13T02:30:03.072Z'
+  url: https://www.linkedin.com/posts/areganti_what-enterprise-leaders-are-thinking-about-activity-7493494046498394113-BvGc
+  likes: 31
+  comments: 9
+  file: ./posts/2026-08-13-what-enterprise-leaders-are-thinking.md
+  commentsFetched: true
+- id: '7493436013898289152'
+  date: '2026-08-12T22:39:27.022Z'
+  url: https://www.linkedin.com/posts/zoumana-keita_aiagents-artificialintelligence-forwarddeployedengineer-activity-7492923057263550464-MC32
+  likes: 23
+  comments: 4
+  file: ./posts/2026-08-12-the-most-dangerous-evaluator-of.md
+  commentsFetched: true
+- id: '7493369151793844225'
+  date: '2026-08-12T18:13:45.854Z'
+  url: https://www.linkedin.com/posts/areganti_ai-generativeai-agenticai-activity-7493369151793844225-6SED
+  likes: 31
+  comments: 5
+  file: ./posts/2026-08-12-a-huge-number-of-enterprises.md
+  commentsFetched: true
+- id: '7493131664731328512'
+  date: '2026-08-12T02:30:04.526Z'
+  url: https://www.linkedin.com/posts/areganti_i-was-speaking-to-a-few-friends-over-the-activity-7493131664731328512-CykR
+  likes: 91
+  comments: 16
+  file: ./posts/2026-08-12-i-was-speaking-to-a.md
+  commentsFetched: true
+- id: '7492978314391932928'
+  date: '2026-08-11T16:20:42.956Z'
+  url: https://www.linkedin.com/posts/areganti_happening-at-130-pt-today-sign-up-for-activity-7492978314391932928-M2gJ
+  likes: 12
+  comments: 3
+  file: ./posts/2026-08-11-happening-at-130-pt-today.md
+  commentsFetched: true
+- id: '7492621997886070785'
+  date: '2026-08-10T16:44:50.481Z'
+  url: https://www.linkedin.com/posts/areganti_happening-tomorrow-as-part-of-our-ai-activity-7492621997886070785-jIWT
+  likes: 4
+  comments: 0
+  file: ./posts/2026-08-10-starting-in-15-mins-sign.md
+- id: '7492406874844053504'
+  date: '2026-08-10T02:30:01.151Z'
+  url: https://www.linkedin.com/posts/areganti_happening-tomorrow-as-part-of-our-ai-activity-7492406874844053504-_waZ
+  likes: 46
+  comments: 0
+  file: ./posts/2026-08-10-happening-tomorrow-as-part-of.md
+- id: '7492371502105784320'
+  date: '2026-08-10T00:09:27.633Z'
+  url: https://www.linkedin.com/posts/areganti_me-claude-give-me-an-image-prompt-because-activity-7492371502105784320-TkG3
+  likes: 54
+  comments: 8
+  file: ./posts/2026-08-10-me-claude-give-me-an.md
+- id: '7492307329510436865'
+  date: '2026-08-09T19:54:27.694Z'
+  url: https://www.linkedin.com/posts/ezhilarasi-saravanan-147482245_aievals-aiengineering-generativeai-ugcPost-7492243932261548032-7FKP
+  likes: 21
+  comments: 0
+  file: ./posts/2026-08-09-completed-the-𝗔𝗜-𝗘𝘃𝗮𝗹𝘀-𝗳𝗼𝗿.md
+- id: '7492058500915961856'
+  date: '2026-08-09T03:25:42.334Z'
+  url: https://www.linkedin.com/posts/puja-potdar-5902bb5_aievals-aiproductmanagement-generativeai-activity-7481905211121377280-VnXD
+  likes: 32
+  comments: 10
+  file: ./posts/2026-08-09-most-ai-teams-do-not.md
+  commentsFetched: true
+- id: '7492024959997939712'
+  date: '2026-08-09T01:12:25.556Z'
+  url: https://www.linkedin.com/posts/raj-barai_appliedai-agenticai-aistrategy-activity-7491811553781030912-hQSP
+  likes: 22
+  comments: 3
+  file: ./posts/2026-08-09-most-people-sizing-up-an.md
+  commentsFetched: true
+- id: '7491682108613058560'
+  date: '2026-08-08T02:30:03.416Z'
+  url: https://www.linkedin.com/posts/areganti_our-ai-builders-summit-kicks-off-tomorrow-activity-7491682108613058560-x6A5
+  likes: 37
+  comments: 1
+  file: ./posts/2026-08-08-our-ai-builders-summit-kicks.md
+- id: '7491638491555131392'
+  date: '2026-08-07T23:36:44.299Z'
+  url: https://www.linkedin.com/posts/gaurav-pahuja_agenticai-ai-productmanagement-activity-7491472796393537536-1edz
+  likes: 17
+  comments: 0
+  file: ./posts/2026-08-07-a-few-days-into-building.md
+- id: '7491362232765677569'
+  date: '2026-08-07T05:18:59.071Z'
+  url: https://www.linkedin.com/posts/areganti_i-had-an-so-much-fun-chatting-with-arjay-activity-7491362232765677569-OZVI
+  likes: 77
+  comments: 3
+  file: ./posts/2026-08-07-i-had-an-so-much.md
+- id: '7491338767505477632'
+  date: '2026-08-07T03:45:44.517Z'
+  url: https://www.linkedin.com/posts/juhidang_unpopular-opinion-but-time-saved-is-the-activity-7491336598362648576-GCuo
+  likes: 19
+  comments: 1
+  file: ./posts/2026-08-07-unpopular-opinion-but-time-saved.md
+  commentsFetched: true
+- id: '7491326329527865344'
+  date: '2026-08-07T02:56:19.072Z'
+  url: https://www.linkedin.com/posts/areganti_learninginpublic-activity-7491326329527865344-CoNC
+  likes: 7
+  comments: 0
+  file: ./posts/2026-08-07-but-whats-actually-sticking-is.md
+- id: '7491319718104981504'
+  date: '2026-08-07T02:30:02.786Z'
+  url: https://www.linkedin.com/posts/areganti_this-keeps-getting-better-grains-coo-activity-7491319718104981504-medD
+  likes: 24
+  comments: 0
+  file: ./posts/2026-08-07-this-keeps-getting-better-grains.md
+- id: '7491186964583407616'
+  date: '2026-08-06T17:42:31.880Z'
+  url: https://www.linkedin.com/posts/areganti_agenticai-problemfirst-contextengineering-activity-7491186964583407616-SJSq
+  likes: 7
+  comments: 0
+  file: ./posts/2026-08-06-figuring-out-the-right-context.md
+- id: '7491186801391370240'
+  date: '2026-08-06T17:41:52.972Z'
+  url: https://www.linkedin.com/posts/balaji-raghunathan-0060753_beyond-evals-designing-improvement-flywheels-activity-7481521680910041088-voOE
+  likes: 23
+  comments: 0
+  file: ./posts/2026-08-06-building-ai-applications-is-no.md
+  hasArticle: true
+- id: '7490898701251473410'
+  date: '2026-08-05T22:37:04.546Z'
+  url: https://www.linkedin.com/posts/espiegel_i-just-started-a-6-week-maven-course-building-activity-7490872702816333824-0VNg
+  likes: 30
+  comments: 2
+  file: ./posts/2026-08-05-i-just-started-a-6.md
+  commentsFetched: true
+- id: '7490808460679487488'
+  date: '2026-08-05T16:38:29.517Z'
+  url: https://www.linkedin.com/posts/areganti_what-do-simon-sinek-and-building-agentic-activity-7490808460679487488-fm3m
+  likes: 14
+  comments: 0
+  file: ./posts/2026-08-05-start-with-why.md
+- id: '7490656861520592896'
+  date: '2026-08-05T06:36:05.461Z'
+  url: https://www.linkedin.com/posts/hamza-ali-b9b8b22a6_ai-system-design-ugcPost-7490400981894103041-IHqG
+  likes: 36
+  comments: 0
+  file: ./posts/2026-08-05-most-people-prepping-for-aiml.md
+  hasDocument: true
+- id: '7490594963450175488'
+  date: '2026-08-05T02:30:07.811Z'
+  url: https://www.linkedin.com/posts/areganti_this-is-huge-well-have-erran-berger-activity-7490594963450175488-xF0z
+  likes: 88
+  comments: 7
+  file: ./posts/2026-08-05-this-is-huge-well-have.md
+  commentsFetched: true
+- id: '7490521130835836928'
+  date: '2026-08-04T21:36:44.744Z'
+  url: https://www.linkedin.com/posts/everyinc_we-partnered-with-maven-to-explore-the-idea-activity-7490519599449391105-I0-g
+  likes: 24
+  comments: 3
+  file: ./posts/2026-08-04-we-partnered-with-maven-to.md
+  commentsFetched: true
+- id: '7490508821342310400'
+  date: '2026-08-04T20:47:49.932Z'
+  url: https://www.linkedin.com/posts/areganti_ive-been-a-huge-fan-of-every-inc-and-activity-7490508821342310400-x4ZQ
+  likes: 57
+  comments: 6
+  file: ./posts/2026-08-04-ive-been-a-huge-fan.md
+  commentsFetched: true
+- id: '7490421318140518400'
+  date: '2026-08-04T15:00:07.543Z'
+  url: https://www.linkedin.com/posts/areganti_most-agent-harnesses-become-far-more-useful-activity-7490421318140518400-yl7O
+  likes: 56
+  comments: 1
+  file: ./posts/2026-08-04-most-agent-harnesses-become-far.md
+  commentsFetched: true
+- id: '7490232555720364032'
+  date: '2026-08-04T02:30:03.075Z'
+  url: https://www.linkedin.com/posts/areganti_systemdesign-activity-7490232555720364032-QihO
+  likes: 119
+  comments: 7
+  file: ./posts/2026-08-04-cracking-the-ai-system-design.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7490199296391135233'
+  date: '2026-08-04T00:17:53.433Z'
+  url: https://www.linkedin.com/posts/areganti_over-800-signups-in-less-than-a-week-since-activity-7490199296391135233-ZAlq
+  likes: 39
+  comments: 0
+  file: ./posts/2026-08-04-over-800-signups-in-less.md
+- id: '7490079629064716288'
+  date: '2026-08-03T16:22:22.519Z'
+  url: https://www.linkedin.com/posts/areganti_notes-from-my-recent-podcast-with-aishwarya-activity-7490079629064716288-CTkT
+  likes: 12
+  comments: 0
+  file: ./posts/2026-08-03-this-was-so-much-fun.md
+- id: '7489788666324647936'
+  date: '2026-08-02T21:06:11.596Z'
+  url: https://www.linkedin.com/posts/vidhyasriram_chai-ugcPost-7489781200996212738-CeBH
+  likes: 14
+  comments: 1
+  file: ./posts/2026-08-02-not-recorded-not-sponsored-not.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7489145400558489600'
+  date: '2026-08-01T02:30:05.086Z'
+  url: https://www.linkedin.com/posts/areganti_just-saw-an-ai-influencer-take-our-cccd-activity-7489145400558489600-drJr
+  likes: 79
+  comments: 9
+  file: ./posts/2026-08-01-just-saw-an-ai-influencer.md
+  commentsFetched: true
+- id: '7488783017511936003'
+  date: '2026-07-31T02:30:06.235Z'
+  url: https://www.linkedin.com/posts/areganti_quick-psa-this-will-probably-be-the-first-activity-7488783017511936003-zM7B
+  likes: 56
+  comments: 3
+  file: ./posts/2026-07-31-quick-psa-this-will-probably.md
+  commentsFetched: true
+- id: '7488635043691810816'
+  date: '2026-07-30T16:42:06.527Z'
+  url: https://www.linkedin.com/posts/areganti_so-pumped-were-hosting-the-ai-builders-activity-7488420632406183938-cUB3
+  likes: 154
+  comments: 3
+  file: ./posts/2026-07-30-so-pumped-were-hosting-the.md
+  commentsFetched: true
+- id: '7488420632406183938'
+  date: '2026-07-30T02:30:06.893Z'
+  url: https://www.linkedin.com/posts/areganti_so-pumped-were-hosting-the-ai-builders-activity-7488420632406183938-cUB3
+  likes: 154
+  comments: 3
+  file: ./posts/2026-07-30-so-pumped-were-hosting-the-183938.md
+  commentsFetched: true
+- id: '7488282371398705152'
+  date: '2026-07-29T17:20:42.900Z'
+  url: https://www.linkedin.com/posts/arizeai_what-if-your-agents-got-better-every-time-activity-7488279411096723456-xxGE
+  likes: 74
+  comments: 2
+  file: ./posts/2026-07-29-what-if-your-agents-got.md
+  commentsFetched: true
+- id: '7488279405241499648'
+  date: '2026-07-29T17:08:55.713Z'
+  url: https://www.linkedin.com/posts/areganti_so-do-you-want-to-be-a-content-creator-activity-7488279405241499648-1ied
+  likes: 15
+  comments: 0
+  file: ./posts/2026-07-29-such-a-cool-and-timely.md
+- id: '7488247055103213568'
+  date: '2026-07-29T15:00:22.839Z'
+  url: https://www.linkedin.com/posts/areganti_over-the-past-few-months-so-many-new-activity-7488247055103213568-4yL1
+  likes: 206
+  comments: 13
+  file: ./posts/2026-07-29-over-the-past-few-months.md
+  commentsFetched: true
+- id: '7488058231727251456'
+  date: '2026-07-29T02:30:03.838Z'
+  url: https://www.linkedin.com/posts/areganti_its-no-surprise-that-some-of-the-hottest-activity-7488058231727251456-hVgj
+  likes: 30
+  comments: 2
+  file: ./posts/2026-07-29-its-no-surprise-that-some.md
+  commentsFetched: true
+- id: '7487695849209344000'
+  date: '2026-07-28T02:30:05.113Z'
+  url: https://www.linkedin.com/posts/areganti_incredibly-stoked-to-announce-that-nvidia-activity-7487695849209344000-92PS
+  likes: 267
+  comments: 12
+  file: ./posts/2026-07-28-incredibly-stoked-to-announce-that.md
+  commentsFetched: true
+- id: '7487369072712540160'
+  date: '2026-07-27T04:51:35.525Z'
+  url: https://www.linkedin.com/posts/sai-kiriti-badam_founders-are-often-told-to-do-sales-themselves-activity-7487362708753973248-eqNC
+  likes: 42
+  comments: 4
+  file: ./posts/2026-07-27-founders-are-often-told-to.md
+  commentsFetched: true
+- id: '7487257986650755072'
+  date: '2026-07-26T21:30:10.544Z'
+  url: https://www.linkedin.com/posts/areganti_something-funny-about-codex-and-claude-code-activity-7487257986650755072-ssLc
+  likes: 4
+  comments: 1
+  file: ./posts/2026-07-26-seen-this-happen-so-many.md
+  commentsFetched: true
+- id: '7486823212199137281'
+  date: '2026-07-25T16:42:32.237Z'
+  url: https://www.linkedin.com/posts/areganti_how-leaders-can-use-ai-to-solve-real-business-activity-7486823212199137281-vMj0
+  likes: 23
+  comments: 1
+  file: ./posts/2026-07-25-timeless.md
+  commentsFetched: true
+- id: '7486265502772772865'
+  date: '2026-07-24T03:46:23.948Z'
+  url: https://www.linkedin.com/posts/areganti_is-learning-to-code-still-worth-it-in-2026-activity-7486265502772772865-x6K-
+  likes: 57
+  comments: 5
+  file: ./posts/2026-07-24-most-software-engineers-today-dont.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7486072637589311488'
+  date: '2026-07-23T15:00:01.305Z'
+  url: https://www.linkedin.com/posts/areganti_are-you-kidding-me-in-less-than-4-months-activity-7486072637589311488-KNJU
+  likes: 198
+  comments: 16
+  file: ./posts/2026-07-23-are-you-kidding-me-in.md
+  commentsFetched: true
+- id: '7485885688458924034'
+  date: '2026-07-23T02:37:09.159Z'
+  url: https://www.linkedin.com/posts/areganti_ive-been-meaning-to-build-and-teach-a-proper-activity-7485885688458924034-N65I
+  likes: 46
+  comments: 3
+  file: ./posts/2026-07-23-super-super-excited-for-this.md
+  commentsFetched: true
+- id: '7485883928717987842'
+  date: '2026-07-23T02:30:09.604Z'
+  url: https://www.linkedin.com/posts/areganti_weve-been-receiving-so-many-messages-activity-7485883928717987842-fJ-i
+  likes: 51
+  comments: 3
+  file: ./posts/2026-07-23-weve-been-receiving-so-many.md
+  commentsFetched: true
+- id: '7485801743247659008'
+  date: '2026-07-22T21:03:35.061Z'
+  url: https://www.linkedin.com/posts/areganti_super-excited-to-see-substack-shipping-ai-activity-7485801743247659008-Hm1a
+  likes: 19
+  comments: 3
+  file: ./posts/2026-07-22-super-excited-to-see-substack.md
+  commentsFetched: true
+- id: '7485521514419851264'
+  date: '2026-07-22T02:30:03.302Z'
+  url: https://www.linkedin.com/posts/areganti_im-incredibly-excited-about-this-round-activity-7485521514419851264-03r5
+  likes: 66
+  comments: 4
+  file: ./posts/2026-07-22-im-incredibly-excited-about-this.md
+  commentsFetched: true
+- id: '7485507794008199168'
+  date: '2026-07-22T01:35:32.101Z'
+  url: https://www.linkedin.com/posts/iswarya-raki_certificate-of-completion-activity-7485498793967181824-Je7t
+  likes: 9
+  comments: 1
+  file: ./posts/2026-07-22-just-finished-agentic-ai-build.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7485496897609129985'
+  date: '2026-07-22T00:52:14.197Z'
+  url: https://www.linkedin.com/posts/areganti_the-companies-that-pull-ahead-in-the-ai-era-activity-7485496897609129985-377O
+  likes: 18
+  comments: 3
+  file: ./posts/2026-07-22-so-much-of-ai-engineering.md
+  commentsFetched: true
+- id: '7485347901812916224'
+  date: '2026-07-21T15:00:10.831Z'
+  url: https://www.linkedin.com/posts/areganti_loop-engineering-seems-to-be-all-over-activity-7485347901812916224-NziI
+  likes: 56
+  comments: 4
+  file: ./posts/2026-07-21-loop-engineering-seems-to-be.md
+  commentsFetched: true
+- id: '7485163092167798784'
+  date: '2026-07-21T02:45:48.778Z'
+  url: https://www.linkedin.com/posts/areganti_this-is-the-most-comprehensive-and-activity-7485163092167798784-qa2a
+  likes: 103
+  comments: 3
+  file: ./posts/2026-07-21-this-is-the-most-comprehensive.md
+  commentsFetched: true
+- id: '7484656109526347777'
+  date: '2026-07-19T17:11:14.697Z'
+  url: https://www.linkedin.com/posts/tanisha-bodden-6a8b36319_certificate-of-completion-activity-7484625851398037504-C03W
+  likes: 6
+  comments: 0
+  file: ./posts/2026-07-19-just-finished-agentic-ai-build.md
+  hasArticle: true
+- id: '7483653060737585152'
+  date: '2026-07-16T22:45:29.230Z'
+  url: https://www.linkedin.com/posts/vidyapatilr_building-agentic-ai-applications-with-a-problem-first-activity-7483597892868448256-et42
+  likes: 29
+  comments: 1
+  file: ./posts/2026-07-16-last-month-i-wrapped-up.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7483536046920495107'
+  date: '2026-07-16T15:00:30.962Z'
+  url: https://www.linkedin.com/posts/areganti_ai-evals-101-explained-simply-in-about-a-activity-7483536046920495107-0Fqc
+  likes: 20
+  comments: 1
+  file: ./posts/2026-07-16-ai-evals-101-explained-simply.md
+  commentsFetched: true
+- id: '7483384934024507392'
+  date: '2026-07-16T05:00:02.840Z'
+  url: https://www.linkedin.com/posts/areganti_one-simple-but-extremely-useful-step-when-activity-7483384934024507392-vBib
+  likes: 47
+  comments: 8
+  file: ./posts/2026-07-16-one-simple-but-extremely-useful.md
+  commentsFetched: true
+- id: '7483384865015422977'
+  date: '2026-07-16T04:59:46.387Z'
+  url: https://www.linkedin.com/posts/areganti_companies-grossly-underestimate-how-much-activity-7483384865015422977-RM_G
+  likes: 14
+  comments: 0
+  file: ./posts/2026-07-16-its-all-about-the-plumbing.md
+- id: '7483347178027962369'
+  date: '2026-07-16T02:30:01.109Z'
+  url: https://www.linkedin.com/posts/areganti_codex-isnt-just-for-coding-and-boy-its-activity-7483347178027962369-eHbH
+  likes: 131
+  comments: 5
+  file: ./posts/2026-07-16-codex-isnt-just-for-coding.md
+  commentsFetched: true
+- id: '7482992676640874496'
+  date: '2026-07-15T03:01:21.392Z'
+  url: https://www.linkedin.com/posts/luis-andres-ortega_kiriti-badam-kiritibadam-on-x-activity-7481480734180790273-nFQF
+  likes: 17
+  comments: 0
+  file: ./posts/2026-07-15-it-has-been-a-great.md
+  hasArticle: true
+- id: '7482984797867503616'
+  date: '2026-07-15T02:30:02.946Z'
+  url: https://www.linkedin.com/posts/areganti_an-open-challenge-find-me-a-better-ai-activity-7482984797867503616-jWC-
+  likes: 55
+  comments: 3
+  file: ./posts/2026-07-15-an-open-challenge-find-me.md
+  commentsFetched: true
+- id: '7482909810653503489'
+  date: '2026-07-14T21:32:04.601Z'
+  url: https://www.linkedin.com/posts/areganti_ai-workslop-is-strictly-banned-at-hello-patient-activity-7482909810653503489-uXAy
+  likes: 22
+  comments: 3
+  file: ./posts/2026-07-14-my-rule-of-thumb-if.md
+  commentsFetched: true
+- id: '7482909084028174336'
+  date: '2026-07-14T21:29:11.360Z'
+  url: https://www.linkedin.com/posts/areganti_aiimplementation-realwork-activity-7482909084028174336-Zis8
+  likes: 17
+  comments: 0
+  file: ./posts/2026-07-14-one-of-the-biggest-mistakes.md
+- id: '7482811244916379648'
+  date: '2026-07-14T15:00:24.698Z'
+  url: https://www.linkedin.com/posts/areganti_builders-handbook-activity-7482811244916379648-d0cN
+  likes: 110
+  comments: 7
+  file: ./posts/2026-07-14-our-ai-builders-handbook-is.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7482648344767393792'
+  date: '2026-07-14T04:13:06.276Z'
+  url: https://www.linkedin.com/posts/areganti_is-it-just-me-or-do-folks-working-with-activity-7482648344767393792-Xe6J
+  likes: 153
+  comments: 45
+  file: ./posts/2026-07-14-is-it-just-me-or.md
+  commentsFetched: true
+- id: '7482622793545670656'
+  date: '2026-07-14T02:31:34.390Z'
+  url: https://www.linkedin.com/posts/areganti_ive-always-been-a-huge-fan-of-naval-ravikant-activity-7482622793545670656-5yUd
+  likes: 26
+  comments: 4
+  file: ./posts/2026-07-14-ive-always-been-a-huge.md
+  commentsFetched: true
+- id: '7481739082277183488'
+  date: '2026-07-11T16:00:01.205Z'
+  url: https://www.linkedin.com/posts/areganti_hugging-face-released-a-small-open-source-activity-7481739082277183488-CcA2
+  likes: 347
+  comments: 7
+  file: ./posts/2026-07-11-hugging-face-released-a-small.md
+  commentsFetched: true
+- id: '7481574475038113792'
+  date: '2026-07-11T05:05:55.781Z'
+  url: https://www.linkedin.com/posts/germee-ronirose-cpa-msf-20306a34_just-finished-beyond-evals-course-on-maven-activity-7481496933610475520-EdFk
+  likes: 5
+  comments: 0
+  file: ./posts/2026-07-11-just-finished-beyond-evals-course.md
+- id: '7481535244563828736'
+  date: '2026-07-11T02:30:02.507Z'
+  url: https://www.linkedin.com/posts/areganti_when-companies-hire-for-ai-roles-today-activity-7481535244563828736-V-2y
+  likes: 130
+  comments: 13
+  file: ./posts/2026-07-11-when-companies-hire-for-ai.md
+  commentsFetched: true
+- id: '7481439413265346560'
+  date: '2026-07-10T20:09:14.545Z'
+  url: https://www.linkedin.com/posts/areganti_just-wrapped-up-the-beyond-evals-course-on-activity-7481439413265346560-zoF3
+  likes: 9
+  comments: 1
+  file: ./posts/2026-07-10-theyre-among-the-rare-people.md
+  commentsFetched: true
+- id: '7481376736803418112'
+  date: '2026-07-10T16:00:11.312Z'
+  url: https://www.linkedin.com/posts/areganti_this-keeps-getting-better-super-excited-activity-7481376736803418112-S4i9
+  likes: 41
+  comments: 1
+  file: ./posts/2026-07-10-this-keeps-getting-better-super.md
+  commentsFetched: true
+- id: '7481172866567229440'
+  date: '2026-07-10T02:30:04.860Z'
+  url: https://www.linkedin.com/posts/areganti_ai-evals-have-changed-a-lot-even-since-the-activity-7481172866567229440-h13C
+  likes: 93
+  comments: 9
+  file: ./posts/2026-07-10-ai-evals-have-changed-a.md
+  commentsFetched: true
+- id: '7481029678938394624'
+  date: '2026-07-09T17:01:06.269Z'
+  url: https://www.linkedin.com/posts/srilakshmi-paleti_excited-to-share-another-learning-milestone-activity-7480237448980221953-dBA4
+  likes: 25
+  comments: 1
+  file: ./posts/2026-07-09-excited-to-share-another-learning.md
+  commentsFetched: true
+- id: '7480999435875917824'
+  date: '2026-07-09T15:00:55.761Z'
+  url: https://www.linkedin.com/posts/areganti_kind-of-funny-how-people-thought-ai-would-activity-7480999435875917824-u-2U
+  likes: 52
+  comments: 6
+  file: ./posts/2026-07-09-kind-of-funny-how-people.md
+  commentsFetched: true
+- id: '7480810479393857536'
+  date: '2026-07-09T02:30:05.025Z'
+  url: https://www.linkedin.com/posts/areganti_imo-technical-ai-pms-might-make-for-extremely-activity-7480810479393857536-VoPh
+  likes: 123
+  comments: 30
+  file: ./posts/2026-07-09-imo-technical-ai-pms-might.md
+  commentsFetched: true
+- id: '7480724702743810048'
+  date: '2026-07-08T20:49:14.278Z'
+  url: https://www.linkedin.com/posts/areganti_we-raised-136m-and-built-the-first-ai-version-activity-7480724702743810048-n06a
+  likes: 27
+  comments: 0
+  file: ./posts/2026-07-08-one-of-the-biggest-time.md
+- id: '7480636840216109057'
+  date: '2026-07-08T15:00:06.219Z'
+  url: https://www.linkedin.com/posts/areganti_memory-might-have-to-be-treated-as-a-first-activity-7480636840216109057-pFSj
+  likes: 143
+  comments: 5
+  file: ./posts/2026-07-08-memory-might-have-to-be.md
+  commentsFetched: true
+- id: '7480448071160586240'
+  date: '2026-07-08T02:30:00.169Z'
+  url: https://www.linkedin.com/posts/areganti_most-production-ai-agents-will-either-activity-7480448071160586240-vPtJ
+  likes: 28
+  comments: 5
+  file: ./posts/2026-07-08-most-production-ai-agents-will.md
+  commentsFetched: true
+- id: '7480310564653756416'
+  date: '2026-07-07T17:23:36.063Z'
+  url: https://www.linkedin.com/posts/sjurs_claude-certified-architect-foundations-activity-7480229994443743232-JydZ
+  likes: 68
+  comments: 2
+  file: ./posts/2026-07-07-incredibly-proud-to-pass-the.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7480310384504029184'
+  date: '2026-07-07T17:22:53.112Z'
+  url: https://www.linkedin.com/posts/areganti_artificialintelligence-aievaluation-llm-activity-7480310384504029184--r0C
+  likes: 14
+  comments: 0
+  file: ./posts/2026-07-07-production-ready-ai-requires-a-continuou.md
+- id: '7480289572619403264'
+  date: '2026-07-07T16:00:11.172Z'
+  url: https://www.linkedin.com/posts/areganti_excited-to-announce-our-newest-ai-builder-activity-7480289572619403264-9GOp
+  likes: 30
+  comments: 1
+  file: ./posts/2026-07-07-excited-to-announce-our-newest.md
+  commentsFetched: true
+- id: '7480085755009089536'
+  date: '2026-07-07T02:30:17.267Z'
+  url: https://www.linkedin.com/posts/areganti_took-a-week-off-social-media-and-ai-to-activity-7480085755009089536-CWQf
+  likes: 357
+  comments: 14
+  file: ./posts/2026-07-07-took-a-week-off-social.md
+  commentsFetched: true
+- id: '7479948856986648576'
+  date: '2026-07-06T17:26:18.235Z'
+  url: https://www.linkedin.com/posts/areganti_hiring-newgrads-entrylevel-activity-7479948856986648576-RZ19
+  likes: 30
+  comments: 1
+  file: ./posts/2026-07-06-if-youre-a-new-grad.md
+  commentsFetched: true
+- id: '7479740098499162112'
+  date: '2026-07-06T03:36:46.333Z'
+  url: https://www.linkedin.com/posts/areganti_ai-engineering-explained-in-17-mins-the-activity-7479740098499162112-IpTy
+  likes: 157
+  comments: 14
+  file: ./posts/2026-07-06-kind-of-a-hot-take.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7479713640456310785'
+  date: '2026-07-06T01:51:38.244Z'
+  url: https://www.linkedin.com/posts/sai-haritha_aievals-generativeai-engineeringleadership-activity-7479227444001132544-zlht
+  likes: 24
+  comments: 0
+  file: ./posts/2026-07-06-as-a-senior-engineering-manager.md
+- id: '7476000475755085825'
+  date: '2026-06-25T19:56:50.792Z'
+  url: https://www.linkedin.com/posts/areganti_claude-tag-is-cool-and-all-but-the-costs-activity-7476000475755085825-trMi
+  likes: 122
+  comments: 19
+  file: ./posts/2026-06-25-claude-tag-is-cool-and.md
+  commentsFetched: true
+- id: '7473925098383503360'
+  date: '2026-06-20T02:30:02.268Z'
+  url: https://www.linkedin.com/posts/areganti_most-claude-code-content-out-there-is-activity-7473925098383503360-KlAo
+  likes: 112
+  comments: 11
+  file: ./posts/2026-06-20-most-claude-code-content-out.md
+- id: '7473200329719734272'
+  date: '2026-06-18T02:30:03.953Z'
+  url: https://www.linkedin.com/posts/areganti_spoke-to-3-different-ceos-last-week-and-activity-7473200329719734272-xe25
+  likes: 110
+  comments: 20
+  file: ./posts/2026-06-18-spoke-to-3-different-ceos.md
+  commentsFetched: true
+- id: '7473045011459096576'
+  date: '2026-06-17T16:12:53.194Z'
+  url: https://www.linkedin.com/posts/preetikanther_excited-to-share-that-levelup-labs-has-officially-activity-7473027931632467969--QW0
+  likes: 77
+  comments: 3
+  file: ./posts/2026-06-17-excited-to-share-that-levelup.md
+  commentsFetched: true
+- id: '7473026726864920577'
+  date: '2026-06-17T15:00:13.807Z'
+  url: https://www.linkedin.com/posts/areganti_really-raw-and-no-bs-article-from-mckinsey-activity-7473026726864920577-GzNC
+  likes: 77
+  comments: 6
+  file: ./posts/2026-06-17-really-raw-and-no-bs.md
+  commentsFetched: true
+- id: '7472860590642749440'
+  date: '2026-06-17T04:00:03.845Z'
+  url: https://www.linkedin.com/posts/areganti_one-of-the-highest-leverage-lines-to-add-activity-7472860590642749440-SgVq
+  likes: 217
+  comments: 18
+  file: ./posts/2026-06-17-one-of-the-highest-leverage.md
+  commentsFetched: true
+- id: '7472837952075653120'
+  date: '2026-06-17T02:30:06.390Z'
+  url: https://www.linkedin.com/posts/areganti_some-amazing-news-to-share-levelup-labs-activity-7472837952075653120-6d-7
+  likes: 201
+  comments: 17
+  file: ./posts/2026-06-17-some-amazing-news-to-share.md
+  commentsFetched: true
+- id: '7472772101297512448'
+  date: '2026-06-16T22:08:26.341Z'
+  url: https://www.linkedin.com/posts/areganti_naughty-naughty-claude-code-been-using-activity-7472772101297512448-z1Mg
+  likes: 139
+  comments: 13
+  file: ./posts/2026-06-16-naughty-naughty-claude-code-been.md
+  commentsFetched: true
+- id: '7472664366941646848'
+  date: '2026-06-16T15:00:20.469Z'
+  url: https://www.linkedin.com/posts/areganti_most-agent-harnesses-today-are-designed-activity-7472664366941646848--fhj
+  likes: 88
+  comments: 4
+  file: ./posts/2026-06-16-most-agent-harnesses-today-are.md
+  commentsFetched: true
+- id: '7472498191461003264'
+  date: '2026-06-16T04:00:01.147Z'
+  url: https://www.linkedin.com/posts/areganti_should-you-learn-to-code-in-2026-and-beyond-activity-7472498191461003264-UnNe
+  likes: 134
+  comments: 15
+  file: ./posts/2026-06-16-should-you-learn-to-code.md
+  commentsFetched: true
+- id: '7472475594270629888'
+  date: '2026-06-16T02:30:13.557Z'
+  url: https://www.linkedin.com/posts/areganti_voice-agents-are-going-to-be-one-of-the-biggest-activity-7472475594270629888-1sAi
+  likes: 40
+  comments: 0
+  file: ./posts/2026-06-16-voice-agents-are-going-to.md
+- id: '7471388379939684352'
+  date: '2026-06-13T02:30:01.461Z'
+  url: https://www.linkedin.com/posts/areganti_how-are-leading-ai-teams-at-aws-cursor-activity-7471388379939684352-y_2q
+  likes: 95
+  comments: 6
+  file: ./posts/2026-06-13-how-are-leading-ai-teams.md
+  commentsFetched: true
+- id: '7470182961477226496'
+  date: '2026-06-09T18:40:07.304Z'
+  url: https://www.linkedin.com/posts/neildapacquing_enterpriseai-aiproducts-aichampions-activity-7470101173895798784-kl1d
+  likes: 16
+  comments: 6
+  file: ./posts/2026-06-09-74-of-enterprises-say-ai.md
+  commentsFetched: true
+- id: '7470127578188742656'
+  date: '2026-06-09T15:00:02.899Z'
+  url: https://www.linkedin.com/posts/areganti_if-youve-always-wanted-to-understand-activity-7470127578188742656-gL0N
+  likes: 111
+  comments: 7
+  file: ./posts/2026-06-09-if-youve-always-wanted-to.md
+  commentsFetched: true
+- id: '7469938834298912768'
+  date: '2026-06-09T02:30:02.849Z'
+  url: https://www.linkedin.com/posts/areganti_what-an-amazing-sunday-with-a-group-of-activity-7469938834298912768-uwTg
+  likes: 122
+  comments: 4
+  file: ./posts/2026-06-09-what-an-amazing-sunday-with.md
+  commentsFetched: true
+- id: '7469205776918659072'
+  date: '2026-06-07T01:57:08.350Z'
+  url: https://www.linkedin.com/posts/jorgeluisalvarez_building-agentic-ai-applications-with-a-problem-first-activity-7469088556272140288-qG7x
+  likes: 24
+  comments: 2
+  file: ./posts/2026-06-07-tools-will-change-overnight-but.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7469205724338909184'
+  date: '2026-06-07T01:56:55.814Z'
+  url: https://www.linkedin.com/posts/veronikabenkeser_generativeai-agenticai-aisystemdesign-ugcPost-7469117274508050432-Blm0
+  likes: 23
+  comments: 2
+  file: ./posts/2026-06-07-building-agentic-systems-with-our.md
+  commentsFetched: true
+- id: '7469196558257897472'
+  date: '2026-06-07T01:20:30.450Z'
+  url: https://www.linkedin.com/posts/seldo_my-old-boss-just-called-time-on-the-thing-ugcPost-7469166496687169536-z9B_
+  likes: 332
+  comments: 39
+  file: ./posts/2026-06-07-my-old-boss-just-called.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7469112406523265025'
+  date: '2026-06-06T19:46:07.113Z'
+  url: https://www.linkedin.com/posts/areganti_ai-agenticai-genai-activity-7469112406523265025-y3pE
+  likes: 22
+  comments: 0
+  file: ./posts/2026-06-06-hows-your-weekend-looking-care.md
+- id: '7468910979574091777'
+  date: '2026-06-06T06:25:43.186Z'
+  url: https://www.linkedin.com/posts/activity-7468525870777954305-0oIt
+  likes: 43
+  comments: 2
+  file: ./posts/2026-06-06-just-wrapped-up-building-agentic.md
+  commentsFetched: true
+- id: '7468851674292477952'
+  date: '2026-06-06T02:30:03.705Z'
+  url: https://www.linkedin.com/posts/areganti_most-ai-evals-content-online-is-already-activity-7468851674292477952-qAeR
+  likes: 57
+  comments: 3
+  file: ./posts/2026-06-06-most-ai-evals-content-online.md
+  commentsFetched: true
+- id: '7468812467213758464'
+  date: '2026-06-05T23:54:16.009Z'
+  url: https://www.linkedin.com/posts/seenaiype_ai-for-day-traders-this-was-our-capstone-ugcPost-7468604150616977408-ZIE8
+  likes: 41
+  comments: 0
+  file: ./posts/2026-06-05-ai-for-day-traders.md
+- id: '7468771612650192896'
+  date: '2026-06-05T21:11:55.522Z'
+  url: https://www.linkedin.com/posts/arizeai_building-the-ai-factory-for-self-improving-activity-7468677455105556481-vVMc
+  likes: 66
+  comments: 3
+  file: ./posts/2026-06-05-observe-2026-is-a-wrap.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7468135672076419074'
+  date: '2026-06-04T03:04:55.474Z'
+  url: https://www.linkedin.com/posts/areganti_incredibly-stoked-to-announce-that-cursor-activity-7468135672076419074-0HBG
+  likes: 149
+  comments: 11
+  file: ./posts/2026-06-04-incredibly-stoked-to-announce-that.md
+  commentsFetched: true
+- id: '7467790266159149056'
+  date: '2026-06-03T04:12:24.286Z'
+  url: https://www.linkedin.com/posts/areganti_building-agentic-ai-applications-with-a-problem-first-activity-7467790266159149056-u-uM
+  likes: 9
+  comments: 0
+  file: ./posts/2026-06-03-i-can-now-navigate-new.md
+- id: '7467789798276026368'
+  date: '2026-06-03T04:10:32.734Z'
+  url: https://www.linkedin.com/posts/tyler-r-bb1a62b5_building-agentic-ai-applications-with-a-problem-first-activity-7467685126425083904-zmy1
+  likes: 7
+  comments: 1
+  file: ./posts/2026-06-03-if-youve-been-trying-to.md
+  hasArticle: true
+  commentsFetched: true
+- id: '7467764513681874944'
+  date: '2026-06-03T02:30:04.417Z'
+  url: https://www.linkedin.com/posts/areganti_this-is-our-biggest-launch-this-year-activity-7467764513681874944-7WLN
+  likes: 62
+  comments: 2
+  file: ./posts/2026-06-03-this-is-our-biggest-launch.md
+  commentsFetched: true
+- id: '7467651641526099968'
+  date: '2026-06-02T19:01:33.598Z'
+  url: https://www.linkedin.com/posts/areganti_psa-this-week-only-get-25-off-all-the-activity-7467651641526099968-6dOM
+  likes: 18
+  comments: 0
+  file: ./posts/2026-06-02-theres-no-better-time-to.md
+- id: '7467637081494859776'
+  date: '2026-06-02T18:03:42.216Z'
+  url: https://www.linkedin.com/posts/sai-kiriti-badam_i-started-working-on-something-exciting-recently-ugcPost-7467612222156918784-iB8q
+  likes: 193
+  comments: 16
+  file: ./posts/2026-06-02-i-started-working-on-something.md
+  commentsFetched: true
+- id: '7467418123382599680'
+  date: '2026-06-02T03:33:38.534Z'
+  url: https://www.linkedin.com/posts/areganti_having-a-casual-conversation-with-anyone-activity-7467418123382599680-K_ku
+  likes: 258
+  comments: 16
+  file: ./posts/2026-06-02-having-a-casual-conversation-with.md
+  commentsFetched: true
+- id: '7467413913970577408'
+  date: '2026-06-02T03:16:54.932Z'
+  url: https://www.linkedin.com/posts/areganti_looking-back-at-3-years-of-teaching-on-maven-activity-7467413913970577408-z2KU
+  likes: 22
+  comments: 1
+  file: ./posts/2026-06-02-being-on-maven100-is-a.md
+  commentsFetched: true
+- id: '7467402139250630657'
+  date: '2026-06-02T02:30:07.620Z'
+  url: https://www.linkedin.com/posts/areganti_in-the-ai-era-when-everybody-is-busy-activity-7467402139250630657-CSpX
+  likes: 74
+  comments: 4
+  file: ./posts/2026-06-02-in-the-ai-era-when.md
+  commentsFetched: true
+- id: '7467366091900612608'
+  date: '2026-06-02T00:06:53.262Z'
+  url: https://www.linkedin.com/posts/areganti_genai-agenticai-ai-activity-7467366091900612608-jcX7
+  likes: 0
+  comments: 0
+  file: ./posts/2026-06-02-coming-from-an-infrastructure-background.md
+- id: '7467365777126617088'
+  date: '2026-06-02T00:05:38.214Z'
+  url: https://www.linkedin.com/posts/areganti_just-wrapped-up-a-five-week-cohort-on-maven-activity-7467365777126617088-UhSL
+  likes: 5
+  comments: 0
+  file: ./posts/2026-06-02-if-you-say-so-gez.md
+- id: '7467347925233205249'
+  date: '2026-06-01T22:54:41.991Z'
+  url: https://www.linkedin.com/posts/vidhya-rajan_genai-maven-problemfirstai-activity-7467212754890891265-EXWr
+  likes: 34
+  comments: 5
+  file: ./posts/2026-06-01-i-will-be-honest-i.md
+  commentsFetched: true
+- id: '7467310694640709632'
+  date: '2026-06-01T20:26:45.526Z'
+  url: https://www.linkedin.com/posts/sumita-palanisamy-04209060_problemfirstai-problemfirstai-genai-activity-7467257484223725568-icKJ
+  likes: 36
+  comments: 0
+  file: ./posts/2026-06-01-i-just-wrapped-the-problemfirstai.md
+- id: '7467300020766142465'
+  date: '2026-06-01T19:44:20.676Z'
+  url: https://www.linkedin.com/posts/activity-7467217253671866370-nS1u
+  likes: 20
+  comments: 0
+  file: ./posts/2026-06-01-a-few-years-ago-while.md
+  hasArticle: true
+- id: '7467266770085543936'
+  date: '2026-06-01T17:32:13.096Z'
+  url: https://www.linkedin.com/posts/gaganbiyani_why-arent-more-people-talking-about-the-activity-7467239415837380608-j4ug
+  likes: 124
+  comments: 40
+  file: ./posts/2026-06-01-why-arent-more-people-talking.md
+  commentsFetched: true
+- id: '7466921485819957248'
+  date: '2026-05-31T18:40:10.912Z'
+  url: https://www.linkedin.com/posts/areganti_genai-agenticai-ai-activity-7466921485819957248-qSq9
+  likes: 11
+  comments: 1
+  file: ./posts/2026-05-31-7466921485819957248.md
+  commentsFetched: true
+- id: '7466877111601946624'
+  date: '2026-05-31T15:43:51.274Z'
+  url: https://www.linkedin.com/posts/ankitameh_agenticai-langgraph-machinelearning-ugcPost-7466743159146926080-3k60
+  likes: 54
+  comments: 1
+  file: ./posts/2026-05-31-in-february-this-year-i.md
+  commentsFetched: true
+- id: '7466877036913975296'
+  date: '2026-05-31T15:43:33.467Z'
+  url: https://www.linkedin.com/posts/venkat-sumanth-reddy-bommireddy-b6127576_agenticai-artificialintelligence-aiengineering-activity-7466691686916653056-UxFx
+  likes: 27
+  comments: 0
+  file: ./posts/2026-05-31-im-grateful-to-have-completed.md
+- id: '7466876931804663808'
+  date: '2026-05-31T15:43:08.407Z'
+  url: https://www.linkedin.com/posts/areganti_agenticai-productmanagement-aiproducts-activity-7466876931804663808-WEK-
+  likes: 7
+  comments: 0
+  file: ./posts/2026-05-31-a-problem-first-mindset-is-your.md
+- id: '7466677881629356032'
+  date: '2026-05-31T02:32:11.147Z'
+  url: https://www.linkedin.com/posts/areganti_the-ai-stack-looks-very-different-in-2026-activity-7466677881629356032-WbQx
+  likes: 23
+  comments: 1
+  file: ./posts/2026-05-31-happening-tomorrow-join-us-here.md
+  commentsFetched: true
+- id: '7466587888584105984'
+  date: '2026-05-30T20:34:35.133Z'
+  url: https://www.linkedin.com/posts/areganti_genai-aiatscale-maven-activity-7466587888584105984-_Vwu
+  likes: 15
+  comments: 0
+  file: ./posts/2026-05-30-you-didnt-just-introduce-us.md
+- id: '7466314975649927168'
+  date: '2026-05-30T02:30:07.619Z'
+  url: https://www.linkedin.com/posts/areganti_the-biggest-ai-coding-question-today-activity-7466314975649927168-yZEv
+  likes: 100
+  comments: 17
+  file: ./posts/2026-05-30-the-biggest-ai-coding-question.md
+  commentsFetched: true
+- id: '7465491528711573505'
+  date: '2026-05-27T19:58:02.570Z'
+  url: https://www.linkedin.com/posts/kriti-bains-aa15455b_ai-agenticai-maven-activity-7464401545590120448-_lO2
+  likes: 42
+  comments: 2
+  file: ./posts/2026-05-27-just-completed-the-maven-course.md
+  commentsFetched: true
+- id: '7465416797152841729'
+  date: '2026-05-27T15:01:05.178Z'
+  url: https://www.linkedin.com/posts/areganti_interesting-paper-that-argues-agent-skills-activity-7465416797152841729-Ucnc
+  likes: 142
+  comments: 11
+  file: ./posts/2026-05-27-interesting-paper-that-argues-agent.md
+  commentsFetched: true
+- id: '7465232785419440128'
+  date: '2026-05-27T02:49:53.362Z'
+  url: https://www.linkedin.com/posts/areganti_agenticai-generativeai-aiengineering-activity-7465232785419440128-TtmV
+  likes: 9
+  comments: 0
+  file: ./posts/2026-05-27-its-easily-one-of-the.md
+- id: '7465227800388583424'
+  date: '2026-05-27T02:30:04.838Z'
+  url: https://www.linkedin.com/posts/areganti_this-is-the-ultimate-cheat-sheet-to-building-activity-7465227800388583424-Njsw
+  likes: 105
+  comments: 4
+  file: ./posts/2026-05-27-this-is-the-ultimate-cheat.md
+  commentsFetched: true
+- id: '7463415847454289921'
+  date: '2026-05-22T02:30:01.594Z'
+  url: https://www.linkedin.com/posts/areganti_this-is-probably-the-most-nuanced-and-extensive-activity-7463415847454289921-62kU
+  likes: 93
+  comments: 9
+  file: ./posts/2026-05-22-this-is-probably-the-most.md
+  commentsFetched: true
+- id: '7463053470552559617'
+  date: '2026-05-21T02:30:04.208Z'
+  url: https://www.linkedin.com/posts/areganti_screw-the-boring-processes-bureaucracy-activity-7463053470552559617-zNYz
+  likes: 36
+  comments: 3
+  file: ./posts/2026-05-21-screw-the-boring-processes-bureaucracy.md
+  commentsFetched: true
+- id: '7462939001612619776'
+  date: '2026-05-20T18:55:12.686Z'
+  url: https://www.linkedin.com/posts/areganti_tochandbook-ugcPost-7462155123285184512-5tY1
+  likes: 176
+  comments: 19
+  file: ./posts/2026-05-20-i-did-not-expect-this.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7462553223204085760'
+  date: '2026-05-19T17:22:15.946Z'
+  url: https://www.linkedin.com/posts/jayakumarr_why-do-brilliant-ai-agents-still-forget-ugcPost-7462290194164191232-i2eQ
+  likes: 12
+  comments: 0
+  file: ./posts/2026-05-19-why-do-brilliant-ai-agents.md
+  hasArticle: true
+- id: '7462549966234849280'
+  date: '2026-05-19T17:09:19.424Z'
+  url: https://www.linkedin.com/posts/areganti_i-was-in-the-first-cohort-of-aishwarya-kiriti-activity-7462549966234849280-Ka4Q
+  likes: 10
+  comments: 1
+  file: ./posts/2026-05-19-the-workshop-is-engaging-because.md
+  commentsFetched: true
+- id: '7462374056130953216'
+  date: '2026-05-19T05:30:19.187Z'
+  url: https://www.linkedin.com/posts/areganti_wooohooo-pinch-me-our-article-on-activity-7462374056130953216-wJGB
+  likes: 204
+  comments: 12
+  file: ./posts/2026-05-19-wooohooo-pinch-me-our-article.md
+  commentsFetched: true
+- id: '7462328702060695552'
+  date: '2026-05-19T02:30:05.934Z'
+  url: https://www.linkedin.com/posts/areganti_nothing-beats-seeing-our-customers-happy-activity-7462328702060695552-nHOA
+  likes: 41
+  comments: 2
+  file: ./posts/2026-05-19-nothing-beats-seeing-our-customers.md
+  commentsFetched: true
+- id: '7462287016353812480'
+  date: '2026-05-18T23:44:27.287Z'
+  url: https://www.linkedin.com/posts/preetikanther_saturday-well-spent-i-have-been-deep-in-activity-7462249837586006018-QMiA
+  likes: 17
+  comments: 2
+  file: ./posts/2026-05-18-saturday-well-spent-i-have.md
+  commentsFetched: true
+- id: '7462211400619245568'
+  date: '2026-05-18T18:43:59.091Z'
+  url: https://www.linkedin.com/posts/sai-haritha_ai-generativeai-agenticai-activity-7461880781070766080-1trA
+  likes: 18
+  comments: 0
+  file: ./posts/2026-05-18-innovation-never-stops-and-in.md
+- id: '7462155126250569729'
+  date: '2026-05-18T15:00:22.236Z'
+  url: https://www.linkedin.com/posts/areganti_tochandbook-activity-7462155126250569729-7qd3
+  likes: 176
+  comments: 19
+  file: ./posts/2026-05-18-i-did-not-expect-this.md
+  hasDocument: true
+  commentsFetched: true
+- id: '7462008787248263168'
+  date: '2026-05-18T05:18:52.299Z'
+  url: https://www.linkedin.com/posts/romaheshwari_i-recently-completed-the-agent-native-operator-activity-7461948978532728832-i52a
+  likes: 18
+  comments: 2
+  file: ./posts/2026-05-18-i-recently-completed-the-agent-native.md
+  commentsFetched: true
+- id: '7462008740645601280'
+  date: '2026-05-18T05:18:41.188Z'
+  url: https://www.linkedin.com/posts/areganti_openclaw-genai-agenticai-activity-7462008740645601280-hzFz
+  likes: 14
+  comments: 1
+  file: ./posts/2026-05-18-six-hours-of-content-felt.md
+  commentsFetched: true
+- id: '7461966310495666176'
+  date: '2026-05-18T02:30:05.052Z'
+  url: https://www.linkedin.com/posts/areganti_cant-help-but-think-of-my-favorite-quote-activity-7461966310495666176-qYPv
+  likes: 35
+  comments: 2
+  file: ./posts/2026-05-18-cant-help-but-think-of.md
+  commentsFetched: true
+- id: '7461811083394318337'
+  date: '2026-05-17T16:13:16.027Z'
+  url: https://www.linkedin.com/posts/sankar-kumar-palaniappan-pm_openclaw-agenticai-aiworkflows-activity-7461561109289013249-afNQ
+  likes: 19
+  comments: 1
+  file: ./posts/2026-05-17-excited-to-share-that-i.md
+  commentsFetched: true
+- id: '7461810822911070208'
+  date: '2026-05-17T16:12:13.923Z'
+  url: https://www.linkedin.com/posts/anilyanamandra_we-have-officially-moved-from-building-individual-activity-7461566076246573056-Qs7y
+  likes: 20
+  comments: 1
+  file: ./posts/2026-05-17-we-have-officially-moved-from.md
+  commentsFetched: true
+- id: '7461810783601971200'
+  date: '2026-05-17T16:12:04.551Z'
+  url: https://www.linkedin.com/posts/garywong_openclaw-openclaw-genai-activity-7461635139995983872-1Gvc
+  likes: 53
+  comments: 2
+  file: ./posts/2026-05-17-thats-a-saturday-well-spent.md
+  commentsFetched: true
+- id: '7461241568625053696'
+  date: '2026-05-16T02:30:13.125Z'
+  url: https://www.linkedin.com/posts/areganti_understanding-and-designing-memory-is-probably-activity-7461241568625053696-5HVx
+  likes: 176
+  comments: 13
+  file: ./posts/2026-05-16-understanding-and-designing-memory-is.md
+  commentsFetched: true
+- id: '7460529118523154432'
+  date: '2026-05-14T03:19:11.784Z'
+  url: https://www.linkedin.com/posts/areganti_this-is-hands-down-the-only-free-book-activity-7460529118523154432-aQOC
+  likes: 324
+  comments: 22
+  file: ./posts/2026-05-14-this-is-hands-down-the.md
+  commentsFetched: true
+- id: '7460358368403169280'
+  date: '2026-05-13T16:00:41.783Z'
+  url: https://www.linkedin.com/posts/areganti_claude-chat-vs-code-vs-cowork-a-cheat-activity-7460358368403169280-zAkf
+  likes: 134
+  comments: 10
+  file: ./posts/2026-05-13-claude-chat-vs-code-vs.md
+  commentsFetched: true
+- id: '7460175022163218432'
+  date: '2026-05-13T03:52:08.633Z'
+  url: https://www.linkedin.com/posts/areganti_imo-the-hottest-skill-to-learn-in-ai-activity-7460175022163218432-SPAR
+  likes: 213
+  comments: 9
+  file: ./posts/2026-05-13-imo-the-hottest-skill-to.md
+- id: '7460165364073533440'
+  date: '2026-05-13T03:13:45.965Z'
+  url: https://www.linkedin.com/posts/areganti_agenticai-aiengineering-llms-activity-7460165364073533440-Ev0q
+  likes: 13
+  comments: 2
+  file: ./posts/2026-05-13-enterprises-dont-want-impressive-demos.md
+  commentsFetched: true
+- id: '7459980805843587072'
+  date: '2026-05-12T15:00:23.854Z'
+  url: https://www.linkedin.com/posts/areganti_this-paper-introduces-something-like-a-activity-7459980805843587072-aBOT
+  likes: 136
+  comments: 10
+  file: ./posts/2026-05-12-this-paper-introduces-something-like.md
+  commentsFetched: true
+- id: '7459792017288589312'
+  date: '2026-05-12T02:30:13.155Z'
+  url: https://www.linkedin.com/posts/areganti_the-ai-stack-looks-very-different-in-2026-activity-7459792017288589312-ZfnS
+  likes: 141
+  comments: 6
+  file: ./posts/2026-05-12-the-ai-stack-looks-very.md
+  commentsFetched: true
+- id: '7459433720144564224'
+  date: '2026-05-11T02:46:28.459Z'
+  url: https://www.linkedin.com/posts/areganti_so-incredibly-proud-to-see-our-free-ai-activity-7459433720144564224-fVl1
+  likes: 138
+  comments: 10
+  file: ./posts/2026-05-11-so-incredibly-proud-to-see.md
+  commentsFetched: true
+- id: '7458863437612265473'
+  date: '2026-05-09T13:00:22.508Z'
+  url: https://www.linkedin.com/posts/areganti_woah-theres-an-open-source-claude-design-activity-7458863437612265473-Khul
+  likes: 223
+  comments: 17
+  file: ./posts/2026-05-09-woah-theres-an-open-source.md
+  commentsFetched: true
+- id: '7458704816983363584'
+  date: '2026-05-09T02:30:04.403Z'
+  url: https://www.linkedin.com/posts/areganti_imo-voice-ai-might-be-the-most-important-activity-7458704816983363584-MgVh
+  likes: 80
+  comments: 9
+  file: ./posts/2026-05-09-imo-voice-ai-might-be.md
+- id: '7458687941486448642'
+  date: '2026-05-09T01:23:00.971Z'
+  url: https://www.linkedin.com/posts/abhishek-raj-79281419_agenticai-aiproductmanagement-buildinginpublic-activity-7458608145796423680-_BJC
+  likes: 17
+  comments: 1
+  file: ./posts/2026-05-09-two-weeks-into-the-maven.md
+  commentsFetched: true
+- id: '7458342442589650944'
+  date: '2026-05-08T02:30:07.615Z'
+  url: https://www.linkedin.com/posts/areganti_5-easy-sentences-to-help-you-spot-ai-influencers-activity-7458342442589650944-Bqzp
+  likes: 270
+  comments: 35
+  file: ./posts/2026-05-08-5-easy-sentences-to-help.md
+  commentsFetched: true
+- id: '7458181785877889024'
+  date: '2026-05-07T15:51:44.070Z'
+  url: https://www.linkedin.com/posts/preetikanther_openai-just-raised-10b-for-a-deployment-activity-7458164999426027520-tLL_
+  likes: 17
+  comments: 2
+  file: ./posts/2026-05-07-openai-just-raised-10b-for.md
+  commentsFetched: true
+- id: '7457980056586309632'
+  date: '2026-05-07T02:30:08.059Z'
+  url: https://www.linkedin.com/posts/areganti_this-is-such-a-fun-free-12-week-course-activity-7457980056586309632-Jalw
+  likes: 211
+  comments: 4
+  file: ./posts/2026-05-07-this-is-such-a-fun.md
+  commentsFetched: true
+- id: '7457791336210018304'
+  date: '2026-05-06T14:00:13.615Z'
+  url: https://www.linkedin.com/posts/areganti_this-paper-is-a-super-deep-dive-into-how-activity-7457791336210018304-6lfT
+  likes: 571
+  comments: 15
+  file: ./posts/2026-05-06-this-paper-is-a-super.md
+- id: '7457617653927432192'
+  date: '2026-05-06T02:30:04.532Z'
+  url: https://www.linkedin.com/posts/areganti_meta-released-a-new-coding-benchmark-on-activity-7457617653927432192-u1w3
+  likes: 94
+  comments: 12
+  file: ./posts/2026-05-06-meta-released-a-new-coding.md
+  commentsFetched: true
+- id: '7456896639312748544'
+  date: '2026-05-04T02:45:01.252Z'
+  url: https://www.linkedin.com/posts/areganti_want-a-weekend-pick-me-up-try-this-prompt-activity-7456896639312748544-0i6C
+  likes: 52
+  comments: 2
+  file: ./posts/2026-05-04-want-a-weekend-pick-me.md
+  commentsFetched: true
+- id: '7456532114801446913'
+  date: '2026-05-03T02:36:31.836Z'
+  url: https://www.linkedin.com/posts/zeba-karkhanawala_awaai-asianwomeninai-austinai-activity-7456356846573010944-fBNc
+  likes: 29
+  comments: 3
+  file: ./posts/2026-05-03-i-am-currently-taking-the.md
+  commentsFetched: true
+- id: '7456168089575903233'
+  date: '2026-05-02T02:30:01.459Z'
+  url: https://www.linkedin.com/posts/areganti_in-2026-and-beyond-i-dont-think-the-activity-7456168089575903233-fTMF
+  likes: 89
+  comments: 11
+  file: ./posts/2026-05-02-in-2026-and-beyond-i.md
+  commentsFetched: true
+- id: '7455805708887019520'
+  date: '2026-05-01T02:30:03.170Z'
+  url: https://www.linkedin.com/posts/areganti_theres-so-much-hype-about-the-next-decade-activity-7455805708887019520-lCkP
+  likes: 80
+  comments: 14
+  file: ./posts/2026-05-01-theres-so-much-hype-about.md
+  commentsFetched: true

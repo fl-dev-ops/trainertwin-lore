@@ -1,0 +1,1863 @@
+channel_url: https://www.youtube.com/watch?v=3CxWXjuEtt4
+total_videos: 27
+videos:
+- id: 3CxWXjuEtt4
+  url: https://www.youtube.com/watch?v=3CxWXjuEtt4
+  title: How to Build a Personal AI Agent That Works 24/7
+  upload_date: '2026-11-19'
+  description: "What does it actually take to build a personal AI agent like ChatGPT Dots, Meta Muse, or Grokbot from scratch?\n\
+    \nIn this video, I break down the system design behind personal AI agents using a practical example called Fuse. \n\n\
+    We'll explore the architecture, key components, and engineering decisions needed to build an agent that remembers your\
+    \ preferences, works across applications, runs in the background, and proactively reaches out when something needs your\
+    \ attention.\n\n\U0001F680 What you'll learn\n✅ The five core capabilities of a personal AI agent\n✅ How to implement\
+    \ user identity and long-term memory\n✅ How memory files, embeddings, and memory retrieval work\n✅ How connectors, tools,\
+    \ skills, and MCP work together\n✅ How to build long-running agents with background workers and checkpointing\n✅ How scheduled\
+    \ tasks, heartbeats, and event triggers make agents proactive\n✅ How decision engines determine when an agent should take\
+    \ action\n✅ How to build a communication gateway for Slack, WhatsApp, and other channels\n✅ How to make personal AI agents\
+    \ reliable, secure, and production-ready\n\nTimestamps\n0:00 Designing a Personal AI Agent\n1:15 Defining the Requirements\n\
+    2:52 Building Personalization & Memory\n6:27 Connecting Applications with Tools & MCP\n9:54 Building Long-Running Agents\n\
+    11:36 Checkpointing & Background Workers\n13:20 Making AI Agents Proactive\n16:42 Multi-Channel Communication\n18:59 Production\
+    \ Readiness: Security & Reliability\n20:28 Putting the Entire Architecture Together\n\n\U0001F514 Subscribe for weekly\
+    \ videos on AI engineering, AI agents, software engineering, and building production-ready AI systems!\n\n#aiagents #aisystemdesign\
+    \ #agenticai #aiengineering #llmengineering #mcp #personalaiassistant #chatgpt #openclaw #metamuse #langgraph #aiarchitecture\
+    \ #softwarearchitecture #systemdesigninterview #aiassistant #aiautomation"
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: w_D81Ii1HK0
+  url: https://www.youtube.com/watch?v=w_D81Ii1HK0
+  title: The AI Security Framework Every Engineer Needs to Know
+  upload_date: '2026-11-12'
+  description: "AI agents are becoming increasingly powerful, but are they secure enough to run in production?\n\nIn this\
+    \ video, I break down how to secure AI agents in production using a practical three-layer security framework. We'll use\
+    \ a real-world enterprise sales agent connected to Google Drive, Slack, CRM, and email to understand the biggest security\
+    \ risks and how engineering teams can prevent them.\n\n\U0001F680 What you'll learn\n✅ Why AI security is fundamentally\
+    \ different from traditional software security  \n✅ What the principle of least privilege means for AI agents  \n✅ How\
+    \ to implement role-based access control and context minimization  \n✅ What data egress controls are and how they prevent\
+    \ sensitive data leaks  \n✅ How prompt injection attacks work and how attackers manipulate AI agents  \n✅ How to separate\
+    \ trusted instructions from untrusted information  \n✅ How structured extraction helps defend against prompt injection\
+    \  \n✅ Why AI agents need tool allowlists and restricted permissions  \n✅ How to prevent excessive agency with secure\
+    \ tool wrappers  \n✅ When to use human-in-the-loop approvals for AI agent actions  \n✅ How to use security evaluations\
+    \ and red teaming to test AI systems  \n✅ Tools like AgentDojo and NVIDIA Garak for AI security testing  \n\nTimestamps\n\
+    0:00 Why AI Security Matters\n1:59 Securing AI Agent Data Access\n4:48 Context Minimization & Data Protection\n7:31 Understanding\
+    \ Prompt Injection\n9:59 Defending Against Prompt Injection\n12:45 Controlling AI Agent Actions\n14:48 Securing Agent\
+    \ Tools & Permissions\n16:08 Human-in-the-Loop Approvals\n17:40 AI Security Testing & Red Teaming\n18:58 Final Three-Layer\
+    \ Security Framework\n\n\U0001F514 Subscribe for weekly videos on AI engineering, AI agents, software engineering, and\
+    \ building production-ready AI systems!\n\n\n#aisecurity #aiagents #promptinjection #llmsecurity #aiengineering #agenticai\
+    \ #llmengineering #cybersecurity #generativeai #redteaming #machinelearning #artificialintelligence #softwareengineering"
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: m5FsWlrwFJM
+  url: https://www.youtube.com/watch?v=m5FsWlrwFJM
+  title: How RAG, Fine-Tuning, LoRA & RL Fit Together in One AI System
+  upload_date: '2026-11-05'
+  description: '🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off: https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    Is fine-tuning dead? OpenAI is winding down its self-service fine-tuning platform, while companies like Thinking Machines,
+    Mistral, and Fireworks are investing heavily in it.
+
+
+    So what''s really happening?
+
+
+    In this video, I break down why fine-tuning still matters, why RAG and increasingly powerful foundation models might make
+    it unnecessary, and how companies like Bridgewater are using smaller, fine-tuned models to outperform frontier models
+    at a fraction of the cost.
+
+
+    🚀 What you''ll learn
+
+    ✅ What fine-tuning is and how it works
+
+    ✅ SFT, preference optimization, reinforcement learning, and LoRA explained
+
+    ✅ How fine-tuning differs from RAG and context engineering
+
+    ✅ Why better foundation models could make fine-tuning obsolete
+
+    ✅ How Bridgewater achieved 84.7% accuracy at nearly 13.8x lower inference cost
+
+    ✅ How XY.AI improved extraction accuracy from 77% to 87%
+
+    ✅ Why companies are investing in smaller, specialized models
+
+    ✅ Whether fine-tuning is worth learning as an AI engineer in 2026
+
+
+    Timestamps
+
+    0:00 Is Fine-Tuning Dead?
+
+    1:22 What Is Fine-Tuning?
+
+    2:41 Types of Fine-Tuning
+
+    3:41 LoRA and Model Distillation
+
+    5:01 Why RAG Could Replace Fine-Tuning
+
+    7:36 Are Foundation Models Getting Too Good?
+
+    8:40 The Bridgewater Case Study
+
+    10:19 The Cost of Fine-Tuning
+
+    11:10 The XY.AI Case Study
+
+    13:20 Why Companies Need Smaller Models
+
+    14:58 The Future of Fine-Tuning
+
+    16:40 Should You Learn Fine-Tuning?
+
+
+    🔔 Subscribe for weekly videos on tech, AI, software engineering, and career advice!
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+    Website: https://levelup-labs.ai/
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+    Free Courses: https://levelup-labs.ai/education
+
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+    Instagram: https://instagram.com/aish_reganti
+
+
+    #ai #finetuning #llm #machinelearning #aiengineering #generativeai #rag #sft #reinforcementlearning #lora #distillation
+    #openai #mistral #thinkingmachines #aiagents #llmengineering #contextengineering #softwareengineering #python #developers'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: mv9kfF_kJd0
+  url: https://www.youtube.com/watch?v=mv9kfF_kJd0
+  title: 2,000+ Hours of Learning Harness Engineering in 18 Minutes
+  upload_date: '2026-10-29'
+  description: "\U0001F514 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:\nhttps://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25\n\
+    \nLink to the code used in the video: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/youtube/build-your-own-harness.md\n\
+    \nAI models are getting smarter. But the model alone isn't what makes an AI agent useful in production.\n\nIn this video,\
+    \ I break down harness engineering, one of the most important skills for building reliable production AI agents. \n\n\
+    We'll build our own company AI harness called NS Work from scratch and explore how to give AI models the context, tools,\
+    \ permissions, and memory they need to get real work done.\n\n\U0001F680 What you'll learn\n✅ What harness engineering\
+    \ is and why AI models need more than just prompts\n✅ Why the software layer around an AI model can dramatically improve\
+    \ agent performance\n✅ How to build a company AI harness using LangGraph's Deep Agents\n✅ How to use AGENTS.md and company\
+    \ skills to give AI agents the right context\n✅ How to connect AI agents to company databases, APIs, customer records,\
+    \ and internal tools\n✅ How middleware helps control agent loops, enforce limits, and track tasks\n✅ How subagents can\
+    \ handle specialized tasks and review AI-generated work\n✅ How to implement role-based permissions for sales, engineering,\
+    \ and finance teams\n✅ How human approval checkpoints can prevent unauthorized actions\n✅ How to use SQLite checkpoints\
+    \ to save conversations and resume unfinished tasks\n✅ How context management and summarization middleware help agents\
+    \ handle long conversations\n✅ The four essential components of a production AI harness: context, actions, boundaries,\
+    \ and persistence\n\nTimestamps\n0:00 Harness Engineering\n0:38 Why Harnesses Matter\n2:26 Building an AI Harness\n2:56\
+    \ Core Components\n3:35 LangGraph Setup\n4:43 Context and Skills\n8:00 Tools and Middleware\n9:49 Subagents\n11:34 Permissions\
+    \ and Approvals\n14:59 Memory and Checkpoints\n17:18 Final Demo\n18:27 Conclusion\n\n\U0001F514 Subscribe for weekly videos\
+    \ on tech, AI, software engineering, and career advice!\n\nMy LinkedIn: https://www.linkedin.com/in/areganti/\nWebsite:\
+    \ https://levelup-labs.ai/\nFree Newsletter: https://thenuancedperspective.substack.com/\nFree Courses: https://levelup-labs.ai/education\n\
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide\nInstagram: https://instagram.com/aish_reganti\n\
+    \n#ai #harnessengineering #aiagents #agenticai #aiengineering #langgraph #deepagents #llm #generativeai #aitools #llmengineering\
+    \ #contextengineering #mcp #python #softwareengineering #coding #programming #developers #techcareers"
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: Mv7eiQFQQ1E
+  url: https://www.youtube.com/watch?v=Mv7eiQFQQ1E
+  title: 2,000+ Hours of Learning Agentic AI System Design in 20 Minutes
+  upload_date: '2026-10-22'
+  description: 'Most candidates I interview for AI roles know what RAG, MCP, and tool calling are. What they struggle with
+    is applying those concepts to a real business problem, or explaining what it takes to scale an AI system to production.
+    That skill is AI system design, and it’s what separates the people who get hired from the people who just throw around
+    terms.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    Link to my AI System Design Book: https://maven.com/aishwarya-kiriti/o/a05048
+
+
+    I’ve interviewed hundreds of people for AI roles, first as a tech lead at AWS and now for my own company. In this video
+    I walk through a five-layer framework you can apply to pretty much any production AI system, from scoping the problem
+    to optimizing it once it’s live. I use one of the most common interview problems as the example: an AI customer support
+    agent for an e-commerce company that answers help center questions, looks up orders, creates tickets, and escalates to
+    a human when it’s not sure.
+
+
+    The five layers are scope and assumptions, architecture, observability, production and ops, and optimization. For architecture
+    I use a simple framework I created called KARC: what the system has to know, act on, remember, and how it all coordinates.
+    The whole point is that every piece you add should trace back to an assumption you made about the problem. Interviewers
+    can tell when you’re name-dropping fancy architectures without a reason.
+
+
+    You’ll learn how to:
+
+
+    Scope a problem before you touch the solution, including how much agency the system should have and how to make your assumptions
+    explicit
+
+    Design a starting architecture with KARC, from hybrid RAG for knowledge to tool design to the four types of memory
+
+    Think through permissions, blast radius, failure handling, and trust boundaries for every tool your agent can call
+
+    Decide what to log, which evals to build on top of those logs, and which should run online as guardrails versus offline
+
+    Take a design to production by planning for scale, latency, reliability, freshness, and security
+
+    Optimize an existing system for latency, cost, quality, and specific failure patterns, and know when added complexity
+    (like multi-agent) is actually earned
+
+
+
+    Time Stamps:
+
+
+    00:00 A Five-Layer Framework for AI System Design
+
+    01:21 Layer 1: Scope, Assumptions and Agent Autonomy
+
+    04:25 Layer 2: Architecture with Know, Act, Remember, Coordinate
+
+    05:01 Know: Design the RAG and Retrieval Pipeline
+
+    06:36 Act: Tools, Permissions and Trust Boundaries
+
+    08:36 Remember: Four Types of Agent Memory
+
+    10:03 Coordinate: Connect Knowledge, Tools and Memory
+
+    11:08 Layer 3: Observability, Logging and AI Evals
+
+    14:07 Layer 4: Production Scaling, Reliability and Security
+
+    16:38 Layer 5: Optimize Latency, Cost and Quality
+
+    19:27 Practice AI System Design Interview Questions
+
+
+
+    The bigger point: don’t memorize the customer support architecture. Take the questions from each layer, apply them to
+    a different use case, and practice. I’ve also used this same framework on nine other common AI system design problems
+    in a book, with solutions on my GitHub, so you can see how it plays out across different systems.
+
+
+    Resources mentioned in this episode:
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+    Website: https://levelup-labs.ai/
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+    Free Courses: https://levelup-labs.ai/education
+
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+    Instagram: https://instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: ro3CiyWcCT0
+  url: https://www.youtube.com/watch?v=ro3CiyWcCT0
+  title: How MCP Works in 2026 Explained For Beginners
+  upload_date: '2026-10-15'
+  description: 'MCP is changing fast in 2026. ChatGPT users’ MCP calls reportedly multiplied 98x between January and August,
+    and companies report 500%+ growth in MCP server usage. If you’re a beginner confused by all the updates and wondering
+    where to start, this is the one video to watch. I take you from the foundations to the current state of MCP, so you can
+    explain it clearly to anyone, including what changed this year.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    I’ve worked in AI for over a decade, with patents and publications at top AI conferences, and I was a tech lead at AWS
+    building production systems for large enterprises. Now I run my own company, Level Up Labs. I start with what MCP is and
+    why it exists. APIs have been around for years, so why do we need another layer? APIs were built for developers writing
+    deterministic software, and agents need a lot more context before they can use them reliably. MCP standardizes that middle
+    layer.
+
+
+    From there I walk through how it works under the hood (host, client, and server), using one running example: telling an
+    agent to email everyone registered for tomorrow’s event. I also clear up the terms people constantly mix up. MCP, APIs,
+    skills, and plugins aren’t competing ideas. They’re layers of the same system.
+
+
+    Then the part most people are confused about: what actually changed in 2026. There are four big shifts every builder working
+    with MCP should know.
+
+
+    Time stamps:
+
+    00:00 Why MCP Is Growing in 2026
+
+    00:44 What Is Model Context Protocol?
+
+    01:50 Why AI Agents Need MCP Alongside APIs
+
+    04:57 MCP Architecture: Hosts, Clients and Servers
+
+    07:24 The Original MCP Lifecycle Explained
+
+    08:49 MCP vs APIs vs Skills vs Plugins
+
+    11:55 MCP in 2026: Stateless Requests
+
+    13:48 Multi-Round Trip Requests: Asking for More Input
+
+    15:09 MCP Tasks: Handling Long-Running Work
+
+    16:11 MCP Security and Enterprise Authorization
+
+    17:35 MCP Extensions, Apps and Caching
+
+    18:48 What These Changes Mean for Production AI
+
+
+    You’ll learn how to:
+
+    → Explain what MCP is, why it exists, and what it adds on top of regular APIs;
+
+    → Understand the host, client, and server architecture and the original MCP lifecycle (initialization, discovery, request
+    and response, sessions);
+
+    → Tell the difference between APIs, MCP, skills, and plugins, and how they stack together;
+
+    → See why MCP went stateless, what that means for scaling, and how multi round trip requests (MRTR) handle a server that
+    needs more input mid-request;
+
+    → Understand MCP Tasks and how long-running agent work gets handled without keeping requests open for hours;
+
+    → Know what tightened on the security and authorization side, including enterprise-managed authorization, and why it happened;
+
+    → Spot the production-readiness updates: the extension system, MCP Apps, caching, and the new 12-month deprecation window;
+
+
+
+    The bigger point: in 2025, MCP was about giving agents a standard way to connect to tools. In 2026, it’s about making
+    those connections robust at scale, with longer-running work, more sensitive data, and companies depending on it to run
+    real operations.
+
+
+    Resources mentioned in this episode:
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+    Website: https://levelup-labs.ai/
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+    Free Courses: https://levelup-labs.ai/education
+
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+    Instagram: https://instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: jOF-AhGIP4Q
+  url: https://www.youtube.com/watch?v=jOF-AhGIP4Q
+  title: 'AWS AI Lead: 6 Real-World AI Projects I Wish I Saw on Resumes'
+  upload_date: '2026-10-08'
+  description: 'Projects, datasets, tool stacks, and the prompt from the video: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/youtube/ai-engineer-projects.md
+
+
+    If you’re applying for AI engineering roles, listing RAG, agents, and MCP on your resume and building a few starter projects
+    isn’t enough anymore. Hiring managers want to see the decisions you made, the trade-offs you weighed, and whether what
+    you built looks like what companies are actually shipping.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    I’ve interviewed over 300 AI engineers, first as a tech lead at AWS and now for my own company, Level Up Labs. These are
+    the projects I wish I’d seen on more resumes. I went through 2,000+ AI engineer job listings to see which skills companies
+    are hiring for, then distilled about 1,200 AI engineering blogs from top companies to see how those skills get applied
+    in the real world. The result is six projects in increasing order of difficulty. By the time you finish them, you have
+    a portfolio that gets your resume picked, and you’ve built the skills interviewers are looking for.
+
+
+    For every project, I cover what to build, which dataset to use, the tool stack, and how to evaluate it. Evals show up
+    in every project on purpose, because knowing what to measure is one of the most in-demand skills in AI engineering right
+    now. I also cover how to talk about each project on your resume and in interviews, since the insights you gained while
+    building are what interviewers want to hear.
+
+
+    Chapters:
+
+    00:00 AI Engineering Projects That Stand Out on a Resume
+
+    00:51 Project 1: Document Intelligence Pipeline
+
+    04:01 Project 2: Enterprise Search with RAG
+
+    07:50 Project 3: Conversation Intelligence and Voice AI
+
+    11:15 Project 4: Sovereign AI with Open-Weight Models
+
+    14:57 Project 5: Multi-Step Autonomous Agent
+
+    18:07 Project 6: Build for Your Target Companies
+
+    20:46 What Hiring Managers Want to See
+
+
+    The bigger point: building is getting cheaper every month, and everyone knows AI can generate a lot of code. What it can’t
+    do is judgment and decision-making, and that’s what companies are hiring for.
+
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+    Website: https://levelup-labs.ai/
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+    Free Courses: https://levelup-labs.ai/education
+
+    Instagram: https://instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: KJgAn4CZNso
+  url: https://www.youtube.com/watch?v=KJgAn4CZNso
+  title: You need to learn Local AI in 2026
+  upload_date: '2026-10-01'
+  description: 'Everyone running local AI on their own hardware will tell you it''s private, it''s secure, and it''s the future
+    but almost nobody explains what it actually takes to get there or what breaks when you try to scale it. I''m an AI researcher
+    and applied scientist, previously at AWS, now running my own AI company, and in this episode I break down what local AI
+    really is, why it exploded in popularity this year, and whether it''s actually worth it for you or your company.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    The confusion starts with a basic misunderstanding: running an app locally isn''t the same as running AI locally. Every
+    AI product has two layers — the model (the brain) and the harness (the scaffolding around it, like memory, file access,
+    code execution). If you''re running Claude Code or ChatGPT on your desktop but it''s calling a cloud API, that''s not
+    local AI. For it to count, both the model and the harness need to live on your own machine. I walk through why that distinction
+    matters and why it''s the thing most people get wrong.
+
+
+    I also get into why this trend specifically took off in the past few months — it''s not one reason, it''s two that collided:
+    rising costs and shrinking control over frontier models (including a real incident where access to a major model was suspended
+    overnight for an entire group of users), and open-source models finally closing the performance gap with closed ones.
+    Each played a role, and neither fully explains it alone.
+
+
+    Chapters
+
+
+    00:00 Local AI: What You Need to Know
+
+    01:00 What Is Local AI? Models vs Applications
+
+    04:04 Why Local AI Is Growing: Cost and Control
+
+    06:40 Open-Weight Models and the Performance Gap
+
+    08:46 Run a Local AI Model Without Code
+
+    10:09 Model Size, Memory and Hardware Requirements
+
+    12:54 Demo: Choose Models and Hardware for Your Use Case
+
+    15:16 Why Companies Are Considering Sovereign AI
+
+    17:00 The Hybrid Future: Local and Cloud AI Together
+
+
+
+    I also cover the real bottleneck most people hit — not setup, but model size and memory — and share a free tool I built
+    to help you figure out what hardware you''d actually need for your use case.
+
+
+    The bigger point of this episode: local AI isn''t going to fully replace frontier models, and it''s not supposed to. The
+    real shift is toward hybrid systems — frontier models for orchestration and the hard stuff, local models for repetitive,
+    high-volume, or private tasks. Understanding where that line sits is what actually matters, for individuals and companies
+    alike.
+
+
+
+    Resources mentioned in this episode:
+
+
+    "What do you want Local AI to do" link: https://localai.levelup-labs.ai/
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+
+    Website: https://levelup-labs.ai/
+
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+
+    Free Courses: https://levelup-labs.ai/education
+
+
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+
+
+    Instagram: https://www.instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: OsPma0BWq9c
+  url: https://www.youtube.com/watch?v=OsPma0BWq9c
+  title: Jev Explained in 12 mins (Without the Hype)
+  upload_date: '2026-09-24'
+  description: 'Everyone''s suddenly talking about a model called Jev. People are calling it 200x faster and 500x cheaper
+    than a normal LLM and some are even calling it the end of expensive AI models. So I wanted to actually dig into what it
+    is, instead of just following the hype.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    Quick version: Jev isn''t a language model in the way GPT or Claude are. It doesn''t generate text token by token. It''s
+    built by a company called Typesafe, and instead of writing sentences, it just picks from a fixed set of outputs: a choice,
+    a score, or a probability. That''s it. That''s the whole thing. And because the output space is so small, it can run way
+    faster and way cheaper than a regular LLM, since it''s not stuck generating one token at a time.
+
+
+    I go through what it can actually do (choosing between options, scoring something, or estimating a probability), show
+    some real examples people have built with it such as browser automation, spreadsheet classification, an "AI slop" detector
+    for websites and then get into where it falls apart. Typesafe''s own docs admit it struggles with arithmetic, counting,
+    multi-step reasoning. So this isn''t a general-purpose model replacement. It''s more like a very fast, very narrow decision-maker
+    that sits next to your LLM, not instead of it.
+
+
+    Chapters:
+
+
+    00:00 Jev Explained: Beyond the Hype
+
+    00:40 What Is Jev? Structured Decisions vs LLM Generation
+
+    01:41 Jev Outputs: Choices, Scores and Probabilities
+
+    02:32 Why Jev Can Be Faster Than LLMs
+
+    03:29 Jev vs Traditional Machine Learning Classifiers
+
+    03:59 Jev Demos: Browser Automation and Spreadsheets
+
+    05:57 Jev Limitations: Why It Does Not Replace LLMs
+
+    07:54 Using Jev for Agent Routing and Orchestration
+
+    08:35 AI Evals with Jev: The AI Slop Detector Demo
+
+    10:15 Hybrid AI Architecture: Jev and LLMs Together
+
+    11:09 Get Started with Jev: API Keys and Agent Skills
+
+
+    I also show how to set it up yourself at typesafe.ai if you want to play around with it — there''s even an agent skill
+    file that scans your codebase and suggests where you could swap in Jev to cut costs.
+
+
+    Bottom line: Jev isn''t replacing LLMs. It''s a different kind of tool for a narrower kind of problem, and knowing where
+    that line is matters more than the hype either way.
+
+
+    Links and Resources:
+
+    Made with Jev — madewithjev.com
+
+    Typesafe — typesafe.ai
+
+    AI Engineering Handbook: https://maven.com/aishwarya-kiriti/o/d4b008
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+    Website: https://levelup-labs.ai/
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+    Free Courses: https://levelup-labs.ai/education
+
+    Instagram: https://www.instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: MltkRz94SWA
+  url: https://www.youtube.com/watch?v=MltkRz94SWA
+  title: 'The Most Important Skill for AI Engineers: Evals Explained'
+  upload_date: '2026-09-17'
+  description: 'Free AI Evals Course : https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/ai_evals_for_everyone/README.md
+
+
+    🚀Get 3 months of Arize AX Pro Free: https://app.arize.com/auth/join?utm_source=youtube&utm_medium=video&utm_campaign=ai-evals-video&utm_content=aishwarya-nr
+
+
+
+
+    Building an agent is the easy part! Anyone can get one working in a day. The hard part is making it hold up in production,
+    and the number one skill for that is AI evals. This applies whether you''re an engineer, a PM, or a founder, and it''s
+    also one of the most misunderstood topics in AI interviews.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    I''ve spent about a decade in AI, previously as an AI scientist and researcher at AWS, and now building an AI native startup
+    in San Francisco, LevelUp Labs, where we help companies and teams go AI native through education, engineering, and strategy.
+
+
+    This episode breaks down what AI evals actually are and why they look so different from traditional software testing,
+    the difference between model evals and product evals, the three ways to build evals and when to use each, and a full walkthrough
+    of building your first eval from scratch using a fictional customer support agent (QuickCart) — including a real escalation
+    check built with an LLM judge in Arize.
+
+
+    The core idea: evals aren''t a build-once-and-forget system. You build them against simulated behavior before launch,
+    then keep calibrating them against real user behavior once you''re live — that loop never really stops.
+
+
+
+    By the end of this video you''ll know:
+
+
+    00:00 – Why AI products can''t be tested like normal software
+
+    04:55 – Model evals vs. product evals (and why benchmarks like MMLU Pro aren''t enough)
+
+    07:56 – The three ways to build evals: human, code-based, and LLM judges
+
+    10:53 – Live walkthrough: building your first eval in Arize
+
+    13:31 – Finding the real problem through error analysis
+
+    15:30 – Writing rubrics and running your first LLM judge
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+    Website: https://levelup-labs.ai/
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+    Free Courses: https://levelup-labs.ai/education
+
+    Instagram: https://www.instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: 9MfwdJUTKzw
+  url: https://www.youtube.com/watch?v=9MfwdJUTKzw
+  title: 'Forward Deployed Engineer: Hype, Reality & a Realistic Roadmap'
+  upload_date: '2026-09-11'
+  description: '• A million dollars a year that''s what people say the hottest job in AI is paying right now. It''s called
+    Forward Deployed Engineering, and every AI company is racing to hire for it. So I pulled over 1,000 live job listings
+    straight from the companies actually hiring for this role to find out how much of it is real.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    This episode breaks down what the role actually is, where it came from, the skills it really asks for grounded in live
+    listings, and busts the four biggest myths around it — before walking through a full roadmap to break in.
+
+
+    You''ll learn:
+
+
+    • Why FDE exists — how AI products demo well but break in production, and why companies started shipping engineers alongside
+    the software instead of building fully self-serve products.
+
+    • What the salary data actually shows, comparing FDE listings against 800 ordinary AI engineering roles at similar companies.
+
+    • Whether FDE is really the highest paying job in AI, a brand new stack to learn, a rebranded solutions consultant role,
+    or something else entirely.
+
+    • How much experience you actually need — the real median, and why 40% of listings state no requirement at all.
+
+    • The three skill layers behind the role — software engineering, AI engineering, and the forward-deployed layer itself
+    — and exactly what to learn in each.
+
+    • What a week in this job actually looks like: discovery calls, building in environments you don''t control, running enablement
+    sessions, and documentation.
+
+
+    The core idea is that forward deployed engineering is a breadth role, not a depth role. It''s a mix of a strategist, a
+    product manager, and an engineer, and if you already have some software engineering and AI engineering under your belt,
+    you''re closer to qualified than you think.
+
+
+    Resources:
+
+    Job board (1,000+ live FDE listings, salary data, skill maps): fde.levelup-labs.ai
+
+    HD Cheatsheet / GitHub: https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/youtube
+
+    AI Engineering Handbook: https://maven.com/aishwarya-kiriti/o/d4b008
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+    Website: https://levelup-labs.ai/
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+    Free Courses: https://levelup-labs.ai/education
+
+    Instagram: https://www.instagram.com/aish_reganti
+
+
+    Chapters:
+
+    00:00 Forward Deployed Engineering: Hype vs Reality
+
+    01:02 What Is a Forward Deployed Engineer?
+
+    02:22 Why AI Companies Hire FDEs
+
+    03:11 The Four Responsibilities of an FDE
+
+    05:27 The Three Skill Layers You Need
+
+    07:27 FDE Career Myths: Salary, Skills and Experience
+
+    10:54 A Week in the Life of an FDE
+
+    12:35 FDE Roadmap: Software Engineering Fundamentals
+
+    14:24 FDE Roadmap: AI Engineering, RAG and Evals
+
+    15:49 FDE Roadmap: Customer Skills and Real Projects
+
+    16:53 Explore the FDE Job Board and Resources'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: quU2MM2k45A
+  url: https://www.youtube.com/watch?v=quU2MM2k45A
+  title: 'Set Up Claude Code Like This: Cheaper Tokens, Actual 10x Results'
+  upload_date: '2026-09-03'
+  description: 'If you use Claude Code or Codex daily but still burn through tokens and take several back and forths to get
+    one thing done, the problem isn''t your prompts. The people getting real work out of these tools operate at five distinct
+    levels. This episode walks through all five, with 16 practical tips drawn from AI research on how these agents actually
+    work.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    I''ve spent about a decade in AI, previously as an AI scientist and researcher at AWS, and now building an AI native startup
+    in San Francisco, LevelUp Labs, where we help companies and teams go AI native through education, engineering, and strategy.
+
+
+    Every tip here is also an open source checklist on my GitHub (linked below) that you can hand straight to your agent,
+    so you don''t need to take notes.
+
+
+    You''ll learn how to:
+
+
+    • Audit your context so your agent stops confidently answering from stale or conflicting data
+
+    • Write a short identity file yourself instead of letting the agent bloat it (and cost you more)
+
+    • Show your agent examples of good work and codify them into reusable templates
+
+    • Turn off unused tool connections that quietly eat tokens and reduce accuracy
+
+    • Let the agent interview you before it builds, and make it cite sources to cut hallucination
+
+    • Order long prompts context first, questions last, to save up to 90% with prompt caching
+
+    • Keep quality high on long tasks with one task per chat, pruned context, and compacted progress files
+
+    • Recover a rotting thread by rewinding, forking, or handing off to a fresh chat
+
+    • Set up loops with a clear goal, a check, a stop condition, and memory, so boring work runs on its own
+
+
+    I use running examples throughout from a fictional company, including a context audit across messy company docs, a cold
+    email template built from past examples, and a daily competitor tracking loop that posts changes to Slack.
+
+
+    The core idea is that most people never get past prompt optimization, which is level two. The real gains come from setting
+    up your context, keeping the agent sharp through long tasks, recovering cleanly when it fails, and finally letting it
+    run on its own for work you understand well enough to evaluate.
+
+
+    My GitHub (tips checklist, cheatsheet and resources): https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/youtube/claude-code-5-levels.md
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+    Website: https://levelup-labs.ai/
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+    Free Courses: https://levelup-labs.ai/education
+
+    Instagram: https://www.instagram.com/aish_reganti
+
+
+    Chapters:
+
+    00:00 The Five Levels of Getting More from Claude Code
+
+    01:28 Level 1: Context Audit and Agent Setup
+
+    06:18 Level 2: Prompt Optimization and Prompt Caching
+
+    08:51 Level 3: Task Isolation and Context Management
+
+    11:22 Level 4: Recover with Rewind, Forks and Handoffs
+
+    12:51 Level 5: Loop Engineering and Autonomous Agents
+
+    15:26 Recap and the Agent Setup Checklist'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: CoIxe4aGCpg
+  url: https://www.youtube.com/watch?v=CoIxe4aGCpg
+  title: 'AI Engineering in 2026: Prompt, Context, Harness, Loop, Graph Explained!'
+  upload_date: '2026-08-27'
+  description: "You will find the HD Cheatsheet & other resources from the video here → \nhttps://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/youtube/five-shifts-ai-engineering.md\"\
+    \n\n\nAI engineering has gone through five major shifts in just the past few years: prompt engineering, context engineering,\
+    \ harness engineering, loop engineering, and graph engineering. This episode connects all five into one story, so you\
+    \ know exactly where each one came from and where the next new term will fit.\n\n\U0001F514 Join our next Applied AI cohort,\
+    \ taught by me and an OpenAI lead. Use YT25 for 25% off:\nhttps://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25\n\
+    \nI've spent over a decade as an AI researcher, most recently as an AI scientist and tech lead at AWS building production\
+    \ systems for large enterprises. I now run LevelUp Labs, where we help mid market and enterprise companies go AI native.\n\
+    \nYou'll learn how to:\n\n• See why prompt engineering became less important once models got better at understanding intent\
+    \ on their own.\n• Understand what context engineering actually solves: limited context windows, statelessness, and context\
+    \ rot.\n• Recognize what harness engineering adds on top of context, including file systems, sandboxes, observability,\
+    \ and access boundaries.\n• Set up your first agent loop in Claude Code or Codex, with a trigger, a goal, a check, memory\
+    \ between runs, and a stop condition.\n• Build a graph based workflow with parallel research agents and a separate critic\
+    \ agent that catches mistakes before they reach you.\n• Tell the difference between a genuinely new AI engineering problem\
+    \ and a rebrand of an old one.\n• Use two simple questions to evaluate any new term that shows up in this space next.\n\
+    \nI also walk through two live examples inside Claude Code: a simple price tracking loop that checks a product page every\
+    \ two hours and messages me on Slack when the price drops, and a graph based research workflow that runs three researchers\
+    \ in parallel and hands their work to a critic agent before it reaches me. Both are meant to be simple enough to copy,\
+    \ not just watch.\n\nAI is going to keep producing new terms every few months, and it's easy to feel like you need to\
+    \ relearn everything each time. The two questions worth asking about any new one are what problem it came from, and what\
+    \ it controls that the last one didn't. Most of the time that tells you whether it's a genuinely new layer or just an\
+    \ optimization on something you already understand.\n\nMy LinkedIn: https://www.linkedin.com/in/areganti/\nWebsite: https://levelup-labs.ai/\n\
+    Free Newsletter: https://thenuancedperspective.substack.com/\nFree Courses: https://levelup-labs.ai/education\nMy GitHub\
+    \ (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide\nInstagram: https://www.instagram.com/aish_reganti\n\
+    \nChapters:\n00:00 The Five Shifts in AI Engineering\n01:22 Prompt Engineering: How It Started\n05:11 Context Engineering:\
+    \ Data, Memory and Context Rot\n08:20 Harness Engineering: The System Around the Model\n11:26 Loop Engineering: Autonomous\
+    \ Agent Workflows\n12:35 Claude Code Demo: Build a Price-Tracking Loop\n15:59 Graph Engineering: Coordinating Multiple\
+    \ Agents\n17:09 Claude Code Demo: Researchers, Writer and Critic\n20:18 How to Evaluate the Next AI Engineering Trend"
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: FJQTT2B-imk
+  url: https://www.youtube.com/watch?v=FJQTT2B-imk
+  title: Is RAG Dead? How Top Companies Build in 2026 Explained
+  upload_date: '2026-08-18'
+  description: 'Half of AI Twitter will tell you that RAG is dead, killed off by giant context windows and better models.
+    I''ve spent a decade building AI systems, including as a tech lead at Amazon and now running my own AI company, and I''ve
+    watched teams rip out retrieval based on that headline and regret it. In this episode I break down what "RAG is dead"
+    actually means, why it''s mostly wrong, and what retrieval is really turning into.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    The claim isn''t one argument, it''s three, and they get tangled together until none of them make sense. One says context
+    windows are now big enough that you can skip retrieval and just paste everything in. One says the old one-shot RAG is
+    dead. One says vector databases were never the answer. Each of these has a grain of truth, and each falls apart the moment
+    you look at what actually happens in production. I take them one at a time so you can tell which part of "RAG is dead"
+    is real and which part is just noise.
+
+
+    I also get specific about what retrieval is evolving into, because that''s the part the headlines miss. RAG isn''t disappearing,
+    it''s growing up, from a single embedding lookup into a knowledge runtime you can actually trust: one that cites its sources,
+    handles contradictions, signals its own confidence, and respects who''s allowed to see what. That shift is the real story,
+    and it''s the thing worth building toward.
+
+
+    You''ll learn how to:
+
+
+    • Understand what RAG actually is: retrieving the right chunks of a knowledge base before the model generates, so it stops
+    guessing past its training
+
+    • See why bigger context windows don''t kill retrieval, thanks to "lost in the middle" accuracy drops and the cost of
+    resending your whole corpus every call
+
+    • Tell the difference between naive one-shot RAG (fading) and agentic retrieval that searches in multiple steps (rising)
+
+    • Stop equating retrieval with vector databases, and know when keyword/grep, knowledge graphs, or hybrid retrieval is
+    the better tool
+
+    • Recognize the failure modes that make people declare RAG dead, and what actually causes them
+
+    • Build toward a knowledge runtime with sourcing, contradiction handling, confidence signals, and access controls
+
+
+    I also get into why "just use a bigger context window" is the advice that quietly runs up your costs and hurts your accuracy,
+    and why the teams treating retrieval as a solved problem are the ones who get burned.
+
+
+    The bigger point of this episode is that RAG isn''t dying, it''s becoming infrastructure. The models will keep getting
+    better and the context windows will keep getting bigger. But the people who understand how to retrieve the right information,
+    from the right place, in a way you can audit and trust, are the ones who''ll build AI systems that actually hold up.
+
+
+    00:00 Is RAG Dead
+
+    00:44 How RAG Works
+
+    01:39 Chunking and Vector Search
+
+    04:37 Why the Backlash Started
+
+    05:03 Camp One: Context Windows
+
+    07:40 Camp Two: Agentic Retrieval
+
+    10:05 Camp Three: Beyond Vectors
+
+    12:54 Knowledge Runtime Future
+
+
+    Resources mentioned in this episode:
+
+
+    HD version of this video’s cheat sheet: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/youtube/is-rag-dead.md
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+
+    Website:
+
+
+    https://levelup-labs.ai/
+
+
+    Free Newsletter:
+
+
+    https://thenuancedperspective.substac...
+
+
+    Free Courses:
+
+
+    https://levelup-labs.ai/education
+
+
+    My GitHub (AI resources):
+
+
+    https://github.com/aishwaryanr/awesom...
+
+
+
+    Instagram: https://instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: dqJs-DmeLx4
+  url: https://www.youtube.com/watch?v=dqJs-DmeLx4
+  title: Building AI Agents That Actually Work
+  upload_date: '2026-08-04'
+  description: 'Half the internet will tell you that you can automate your entire company in a weekend. I''ve spent 10 years
+    building AI applications, including as a tech lead at Amazon and now at my own startup, and I''ve watched people burn
+    hundreds of hours believing that. In this episode I break down the four mistakes that waste the most time when you start
+    automating real work with AI agents, and how to avoid each one.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    These aren''t beginner mistakes. They''re the ones smart teams make precisely because the hype sounds reasonable. The
+    promise is that you point an agent at a workflow and walk away. What actually happens is you automate the wrong thing,
+    expect it to be perfect on day one, assume you can stop paying attention, and launch everything at once until you''re
+    firefighting. Every one of these is avoidable once you see the pattern.
+
+
+    I get specific about how to choose what to automate in the first place, because most of the wasted effort happens before
+    a single agent runs. The real skill isn''t building the automation, it''s scoring the work honestly: how often it runs,
+    what a mistake actually costs, and how often the steps change underneath you. Some work should never be automated at all,
+    and knowing which is the difference between a system that saves you time and one that quietly creates more.
+
+
+    You''ll learn how to:
+
+
+    • Score any workflow for automation using three signals: frequency, cost of error, and how often the steps change
+
+    • Spot the work that needs your personal voice, and either codify it with examples or leave it manual
+
+    • Move an automation through the Consult to Augment to Automate path instead of expecting day-one perfection
+
+    • Log errors and improve incrementally (Kaizen) rather than scrapping automations that stumble early
+
+    • Set up every automation with an owner, a review cadence, tripwires, and human sign-off where the stakes are high
+
+    • Avoid the firefighting trap by launching gradually and treating "how many can I keep healthy" as the real limit
+
+    • Understand why humans directing AI get more valuable as the tools get better, not less
+
+
+    I also get into why the constraint on automation was never the technology. It''s how many automations you can actually
+    keep healthy at once, and why teams that ignore that end up worse off than when they started.
+
+
+    The bigger point of this episode is that automating work with AI isn''t about replacing yourself. It''s about knowing
+    exactly what to hand off, what to keep, and how to stay in the loop on the things that matter. The tools will keep getting
+    better. The people who know where to point them are the ones who''ll get the most out of them.
+
+
+    00:00 Can AI Agents Run Your Business Alone?
+
+    01:15 How to Know What to Automate With AI
+
+    05:13 Why Your First AI Automation Won''t Work
+
+    08:23 Why AI Automation Still Needs Human Oversight
+
+    11:10 Why You Shouldn''t Automate Everything At Once
+
+
+    Resources mentioned in this episode:
+
+
+    My LinkedIn: / areganti
+
+
+    Website: https://levelup-labs.ai/
+
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+
+    Free Courses: https://levelup-labs.ai/education
+
+
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+
+
+    Instagram: / aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: 9kT25v_zCl8
+  url: https://www.youtube.com/watch?v=9kT25v_zCl8
+  title: 'Becoming an AI Engineer in 2026: Interviewing, System Design, Evals. Aishwarya Reganti'
+  upload_date: '2026-08-01'
+  description: "Aishwarya Reganti joins me to break down how to become an AI engineer in 2026, including the skills software\
+    \ engineers should learn, how AI engineering interviews are changing, and what companies actually look for when hiring.\
+    \ We cover system design, evals, context engineering, AI agents, production reliability, AI product sense, and why judgment\
+    \ matters more than simply generating code with AI. If you’re a software engineer looking to break into AI engineering,\
+    \ this is for you. \n\nAishwarya's GitHub: https://github.com/aishwaryanr/awesome-generative-ai-guide\nAishwarya's LinkedIn:\
+    \ https://www.linkedin.com/in/areganti/\nLearn from Aishwarya directly on Maven: https://maven.com/aishwarya-kiriti/genai-system-design\n\
+    \n0:00 Intro\n2:21 What is AI Engineering?\n7:51 Evals\n15:05 Interviewing for AI Eng and FDE roles\n18:58 AI Product\
+    \ Sense\n23:01 Enterprise AI Use Cases & Context Engineering\n32:19 When to Use AI and Why AI Systems Fail in Production\n\
+    42:08 Multi-Agent Systems and Coding Agent Workflows\n48:26 Breaking into AI Eng as a SWE\n\nMusic licensed through Soundstripe.\n\
+    Code: 3ZTYPSSAQMGTL2GH, HZDZIEUZWEZXZHQA"
+  author: Arjay McCandless
+  model: universal-3-5-pro
+  speaker_count: 2
+  speakers:
+    speaker_1: Aishwarya Reganti
+    speaker_2: null
+- id: x5PBvHYt6UE
+  url: https://www.youtube.com/watch?v=x5PBvHYt6UE
+  title: Is Learning to Code Still Worth It in 2026? | Ex-Amazon AI Scientist
+  upload_date: '2026-07-21'
+  description: 'Nvidia''s CEO says nobody needs to learn to code anymore. Engineers inside AI labs are speculating that software
+    engineering could be gone within a year. I''ve spent a decade in AI research, I run an AI native company in San Francisco,
+    and I interview engineers every week, so in this episode I look at what''s actually happening on the ground instead of
+    what''s being predicted online.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    The pattern isn''t new. The same "coding is dead" claim showed up with COBOL in 1959, with fourth generation languages
+    in the 1980s, and with no code tools in the 2010s. Each time, a layer of coding was supposed to disappear. Each time,
+    the skill moved one level up, and more people ended up building software, not fewer. I break down why this AI wave is
+    following the same pattern, and what that actually means for whether learning to code is still worth it in 2026.
+
+
+    I also get specific about what coding looks like now that agents like Codex and Claude Code can write most of the code
+    themselves. The real skill has shifted from writing lines of code to writing a clear spec before the agent starts, and
+    knowing how to review what comes back the way a senior engineer would.
+
+
+    You''ll learn how to:
+
+
+    • Understand the "one level up" rule and why every prediction of coding''s death has been wrong for over 60 years
+
+    • Use the builder''s loop: reverse building open source projects, borrowing engineering playbooks, and going deep in one
+    domain
+
+    • Write a six field spec (goal, inputs, outputs, edge cases, definition of done, constraints) before handing anything
+    to an agent
+
+    • Catch what your agent gets wrong by reviewing its architecture, coding patterns, and logic before you ship
+
+    • Turn a code review conversation into tests that actually catch the agent''s own mistakes
+
+    • Recognize why engineering interviews have shifted from "can you write this" to "can you explain why you built it this
+    way"
+
+    • Decide what coding actually means for you in 2026, and what to learn first if you''re starting from zero
+
+
+    I also share what''s changed inside my own hiring process, including a candidate who submitted a clean, fully tested,
+    AI built repo and still didn''t get the job, because they couldn''t explain a single decision inside it.
+
+
+    The bigger point of this episode is that coding isn''t disappearing. It''s turning into something closer to judgment than
+    typing. The tools will keep changing and nobody knows which one wins next. But the people who can write a clear spec,
+    review an agent''s work like a senior engineer, and go deep in a real domain are the ones who''ll keep mattering.
+
+
+    00:00 Is Coding Dead in 2026? (What''s Actually Happening)
+
+
+    00:27 The "One Level Up" Rule: Why Coding Never Dies
+
+
+    03:10 How to Learn to Code with AI: The Builder''s Loop
+
+
+    05:57 Spec-Driven Development: Write a Spec Before Your AI Agent Builds
+
+
+    09:52 How to Review AI-Generated Code (Like a Senior Engineer)
+
+
+    Resources mentioned in this episode:
+
+
+    Agent Skills (Google engineering principles packaged for coding agents): https://github.com/addyosmani/agent-skills
+
+
+    12 Factor Agents (production practices for reliable AI agents): https://github.com/humanlayer/12-factor-agents
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+
+    Website: https://levelup-labs.ai/
+
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+
+    Free Courses: https://levelup-labs.ai/education
+
+
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+
+
+    Instagram: https://www.instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: bHfoEBO2AP4
+  url: https://www.youtube.com/watch?v=bHfoEBO2AP4
+  title: I Automate My Entire Company With Codex (Full System)
+  upload_date: '2026-07-13'
+  description: 'Most people think OpenAI Codex is just another AI coding assistant.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    Ironically, the biggest productivity gains don''t come from Codex itself.
+
+
+    After spending a decade building AI systems and leading AI teams, I''ve learned that the best AI workflows aren''t built
+    around a single tool. They''re built around an operating system that makes any AI agent dramatically more effective.
+
+
+    In this episode, I break down the four-layer AI operating system we use to run a multi-million dollar AI-native company.
+    You''ll learn how to transform Codex from a chatbot into a true AI coworker using Knowledge, Connections, Repetition,
+    and Improvement.
+
+
+    You''ll learn how to:
+
+
+    • Build a knowledge base that gives Codex real context about your work
+
+    • Organize documents into a searchable AI wiki instead of scattered files
+
+    • Connect Codex to your email, calendar, Canva, Linear, and other tools
+
+    • Turn repetitive prompts into reusable AI skills and plugins
+
+    • Automate recurring workflows with AI agents and goal-based automation
+
+    • Use evaluations (evals) to improve AI quality before outputs reach you
+
+    • Build feedback loops that make your AI workflows smarter over time
+
+    • Run multiple AI threads in parallel to compare and improve results
+
+    • Stay in control while safely connecting AI to your business systems
+
+    • Create an AI operating system that works with Codex—and any future AI tool
+
+
+    I also share practical examples from running a production AI business, including knowledge management, workflow automation,
+    AI memory, agent skills, feedback systems, and the frameworks we''ve used to automate real work across our team.
+
+
+    Most importantly, you''ll learn that building with AI isn''t about mastering one model or one platform.
+
+
+    It''s about building a system that keeps getting smarter no matter which AI tool you use.
+
+
+    Because the biggest advantage won''t come from using the newest AI assistant.
+
+
+    It will come from building an operating system that makes every AI tool exponentially more valuable.
+
+
+    00:00 How Do You Run a Company on Codex? (The 4-Layer System)
+
+
+    00:47 Layer 1: Build an AI Knowledge Base (Wiki) for Codex
+
+
+    03:56 Layer 2: Connecting Codex to Your Tools (Email, Linear, Canva)
+
+
+    06:33 Layer 3: Codex Skills, Plugins & Automations
+
+
+    10:34 Layer 4: Evals & Feedback Loops That Improve Your AI
+
+
+    Link to the handbook: https://maven.com/aishwarya-kiriti/o/d4b008
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+
+    Website: https://levelup-labs.ai/
+
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+
+    Free Courses: https://levelup-labs.ai/education
+
+
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+
+
+    Instagram: https://www.instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: L6TSmylZT2g
+  url: https://www.youtube.com/watch?v=L6TSmylZT2g
+  title: AI Engineering Explained in 17 mins | The Ultimate Beginner’s Guide
+  upload_date: '2026-07-01'
+  description: 'Most people trying to learn AI focus on the newest models, frameworks, and tools.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    Ironically, the people building the best AI systems focus on something else entirely.
+
+
+    After spending a decade building AI systems—from research and enterprise software to leading AI teams—I''ve learned that
+    every successful AI application is built on the same underlying principles. The models evolve. The tools change. But the
+    architecture stays remarkably consistent.
+
+
+    In this episode, I break down the complete AI Engineering Roadmap that will help you understand how modern AI systems
+    are actually designed—from Large Language Models (LLMs) and AI agents to RAG, AI evaluations, multi-agent systems, AI
+    Ops, and system design.
+
+
+    You''ll learn how to:
+
+
+    • Understand how Large Language Models (LLMs) work under the hood
+
+    • Choose the right AI model for different real-world problems
+
+    • Build AI agents using Tools, Knowledge (RAG), and Memory
+
+    • Evaluate AI systems before they fail in production
+
+    • Know when to use a single agent versus a multi-agent architecture
+
+    • Deploy AI applications that improve through AI Ops
+
+    • Design production-ready AI systems for real business use cases
+
+    • Think like an AI engineer instead of simply following tutorials
+
+
+    I also share practical lessons from building production AI systems, real-world failures from companies like Air Canada
+    and McDonald''s, and the mental models used to design reliable AI products that continue improving after launch.
+
+
+    Most importantly, you''ll learn that mastering AI isn''t about memorizing frameworks or chasing the latest model release.
+
+
+    It''s about developing a way of thinking that lets you solve any AI problem—from chatbots and coding assistants to enterprise
+    AI systems.
+
+
+    Because the biggest advantage in AI won''t come from knowing the newest tool.
+
+
+    00:00 How Do You Design an AI System? (The Mind Map)
+
+
+    00:41 Start With the LLM: The Brain of Every AI System
+
+
+    02:28 The 3 Core Components: Tools, Knowledge (RAG) & Memory
+
+
+    07:06 AI Evals: How to Know Your AI Actually Works
+
+
+    10:50 Multi-Agent Systems, AI Ops & System Design
+
+
+    *Link to the handbook:* https://maven.com/aishwarya-kiriti/o/d4b008
+
+
+
+    My LinkedIn: https://www.linkedin.com/in/areganti/
+
+
+    Website: https://levelup-labs.ai/
+
+
+    Free Newsletter: https://thenuancedperspective.substack.com/
+
+
+    Free Courses: https://levelup-labs.ai/education
+
+
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+
+    Instagram: https://www.instagram.com/aish_reganti'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: StlKtZLyxw0
+  url: https://www.youtube.com/watch?v=StlKtZLyxw0
+  title: How to Use AI Agents Better Than 99% of People | Ex-Amazon AI Scientist
+  upload_date: '2026-06-24'
+  description: 'Most people think AI agents are powerful because of the tools they use.
+
+
+    🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off:
+
+    https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25
+
+
+    In reality, the tools matter far less than understanding the system underneath them.
+
+
+    After spending a decade building AI systems and running a company powered by agents, I''ve learned that nearly every AI
+    agent follows the same blueprint. The products change. The principles don''t.
+
+
+    In this episode, I break down the five components behind every effective AI agent: Identity, Tools, Skills, Memory, and
+    Trust.
+
+
+    You''ll learn how to:
+
+
+    • Build an agent that understands how you work
+
+    • Connect tools safely and avoid costly mistakes
+
+    • Turn repetitive tasks into reusable workflows
+
+    • Use memory to improve outputs over time
+
+    • Automate work without losing control
+
+    • Set the right trust level for every task
+
+    • Decide what should—and shouldn''t—be automated
+
+
+    I also share practical lessons from deploying agents inside real businesses and the frameworks that separate advanced
+    operators from casual users.
+
+
+    Most importantly, you''ll learn that mastering AI isn''t about chasing the latest tools.
+
+
+    It''s about understanding the fundamentals that stay the same while everything else changes.
+
+
+    Because the biggest advantage won''t come from finding the next AI agent.
+
+
+    It will come from becoming the kind of operator who can use any of them.
+
+
+    00:00 How Do AI Agents Actually Work? (The 4 Components)
+
+
+    01:42 Component 1: The Identity File (How to Set It Up)
+
+
+    04:57 Component 2: Connecting Tools Safely (Gmail Scopes & Permissions)
+
+
+    06:43 Component 3: Skills e Triggers (Make Your Agent Sharper)
+
+
+    09:43 Component 4: Agent Memory That Compounds
+
+
+    11:35 Bonus: The 4 Trust Levels (Own, Consult, Augment, Automate)
+
+
+    Links:
+
+    My LinkedIn: https://linkedin.com/in/areganti
+
+    Website: https://levelup-labs.ai/
+
+    Free Newsletter: https://thenuancedperspective.substack.com
+
+    Free Courses: https://levelup-labs.ai/education
+
+    My GitHub (AI resources): https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+    Instagram: https://instagram.com/aish_reganti/?hl=en'
+  author: Aish Reganti
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: Ajiu8uyfSq0
+  url: https://www.youtube.com/watch?v=Ajiu8uyfSq0
+  title: 'Generative AI in the Real World: Aishwarya Naresh Reganti on Making AI Work in Production'
+  upload_date: '2026-04-16'
+  description: "As the founder and CEO of LevelUp Labs, Aishwarya Naresh Reganti helps organizations “really grapple with\
+    \ AI,” and through her teaching, she guides individuals who are doing the same. Aishwarya joined Ben to share her experience\
+    \ as a forward-deployed expert supporting companies that are putting AI into production. Listen in to learn the value\
+    \ all roles—from data folks and developers to SMEs like marketers—bring to the table when launching products; how AI flips\
+    \ the 80-20 rule on its head; the problem with evals (or at least, the term “evals”); enterprise versus consumer use cases;\
+    \ and when humans need to be part of the loop. “LLMs are super powerful,” Aishwarya explains. “So I think you need to\
+    \ really identify where to use that power versus where humans should be making decisions.” Watch now.\n\nFollow O'Reilly\
+    \ on: \nLinkedIn: https://www.linkedin.com/company/oreilly/\nFacebook: http://facebook.com/OReilly\nInstagram: https://www.instagram.com/oreillymedia\n\
+    BlueSky: https://bsky.app/profile/oreilly.bsky.social"
+  author: O'Reilly
+  model: universal-3-5-pro
+  speaker_count: 2
+  speakers:
+    speaker_1: Aishwarya Reganti
+    speaker_2: null
+- id: _CToYjO18J4
+  url: https://www.youtube.com/watch?v=_CToYjO18J4
+  title: You're Probably Over-Harnessing Your AI Agents
+  upload_date: '2026-01-26'
+  description: '// Abstract
+
+    Aishwarya Naresh Reganti thinks control is overrated. Aishwarya reveals why great AI systems need freedom, feedback, and
+    a bit of chaos to evolve — not another software development cycle.
+
+
+    // Bio
+
+    Aishwarya Naresh Reganti
+
+    Aishwarya founded LevelUp Labs, an AI consultancy that helps enterprises scale their AI capabilities through strategy,
+    implementation, and training. Before launching LevelUp, she earned her undergraduate degree from IIT and gained industry
+    experience at Amazon and Microsoft. Her academic journey is equally impressive—she has taught or conducted research at
+    the Norwegian University of Science and Technology, the University of Michigan, and the University of Oxford, where she
+    also served as a tutor and lecturer.'
+  author: AAIF Live
+  model: universal-3-5-pro
+  speaker_count: 6
+  speakers:
+    speaker_1: null
+    speaker_2: Aishwarya Reganti
+    speaker_3: null
+    speaker_4: null
+    speaker_5: null
+    speaker_6: null
+- id: GAF_ychy32k
+  url: https://www.youtube.com/watch?v=GAF_ychy32k
+  title: Stop Building AI Like Traditional Software with Aishwarya Naresh Reganti
+  upload_date: '2026-01-13'
+  description: "Watch the entire Superstream: https://learning.oreilly.com/videos/ai-superstream-ai/0642572020243/0642572020243-video399656/?utm_medium=social&utm_source=youtube&utm_campaign=free+trial&utm_content=ai+superstream\n\
+    \nAI products break the assumptions that traditional software is built on. LevelUp Labs founder Aishwarya Naresh Reganti\
+    \ introduces the continuous calibration/continuous development (CC/CD) framework, designed to handle the challenges of\
+    \ AI systems that behave unpredictably and operate with increasing levels of agency. Get the background and a detailed\
+    \ overview of CC/CD, then learn how to start putting the approach to work to scope capabilities, design meaningful evals,\
+    \ monitor behavior, and increase autonomy intentionally. As Aishwarya explains, with CC/CD you “let your AI system earn\
+    \ its agency through constant calibration.”\n\nFollow O'Reilly on: \nLinkedIn: https://www.linkedin.com/company/oreilly/\n\
+    Facebook: http://facebook.com/OReilly\nInstagram: https://www.instagram.com/oreillymedia\nBlueSky: https://bsky.app/profile/oreilly.bsky.social"
+  author: O'Reilly
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: z7T1pCxgvlA
+  url: https://www.youtube.com/watch?v=z7T1pCxgvlA
+  title: 'Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon'
+  upload_date: '2026-01-11'
+  description: 'Aishwarya Naresh Reganti and Kiriti Badam have helped build and launch more than 50 enterprise AI products
+    across companies like OpenAI, Google, Amazon, and Databricks. Based on these experiences, they’ve developed a small set
+    of best practices for building and scaling successful AI products. The goal of this conversation is to save you and your
+    team a lot of pain and suffering.
+
+
+    *We discuss:*
+
+    1. Two key ways AI products differ from traditional software, and why that fundamentally changes how they should be built
+
+    2. Common patterns and anti-patterns in companies that build strong AI products versus those that struggle
+
+    3. A framework they developed from real-world experience to iteratively build AI products that create a flywheel of improvement
+
+    4. Why obsessing about customer trust and reliability is an underrated driver of successful AI products
+
+    5. Why evals aren’t a cure-all, and the most common misconceptions people have about them
+
+    6. The skills that matter most for builders in the AI era
+
+
+    *Get 15% off Aishwarya and Kiriti’s Maven course, Building Agentic AI Applications with a Problem-First Approach, using
+    this link:* https://bit.ly/3V5XJFp
+
+
+    *Brought to you by:*
+
+    Merge—The fastest way to ship 220+ integrations: https://merge.dev/lenny
+
+    Strella—The AI-powered customer research platform: https://strella.io/lenny
+
+    Brex—The banking solution for startups: https://www.brex.com/product/business-account?ref_code=bmk_dp_brand1H25_ln_new_fs
+
+
+    *Episode transcript:* https://www.lennysnewsletter.com/p/what-openai-and-google-engineers-learned
+
+    *Archive of all Lenny''s Podcast transcripts:* https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=4jmgl11w&dl=0
+
+
+    *My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/183007822/referenced
+
+
+    *Where to find Aishwarya Naresh Reganti:*
+
+    • LinkedIn: https://www.linkedin.com/in/areganti
+
+    • GitHub: https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+    • X: https://x.com/aish_reganti
+
+
+    *Where to find Kiriti Badam:*
+
+    • LinkedIn: https://www.linkedin.com/in/sai-kiriti-badam
+
+    • X: https://x.com/kiritibadam
+
+
+    *Where to find Lenny:*
+
+    • Newsletter: https://www.lennysnewsletter.com
+
+    • X: https://twitter.com/lennysan
+
+    • LinkedIn: https://www.linkedin.com/in/lennyrachitsky/
+
+
+    *In this episode, we cover:*
+
+    (00:00) Introduction to Aishwarya and Kiriti
+
+    (05:03) Challenges in AI product development
+
+    (07:36) Key differences between AI and traditional software
+
+    (13:19) Building AI products: start small and scale
+
+    (15:23) The importance of human control in AI systems
+
+    (22:38) Avoiding prompt injection and jailbreaking
+
+    (25:18) Patterns for successful AI product development
+
+    (33:20) The debate on evals and production monitoring
+
+    (41:27) Codex team’s approach to evals and customer feedback
+
+    (45:41) Continuous calibration, continuous development (CC/CD) framework
+
+    (58:07) Emerging patterns and calibration
+
+    (01:01:24) Overhyped and under-hyped AI concepts
+
+    (01:05:17) The future of AI
+
+    (01:08:41) Skills and best practices for building AI products
+
+    (01:14:04) Lightning round and final thoughts
+
+
+    *Referenced:*
+
+    • LevelUp Labs: https://levelup-labs.ai/
+
+    • Why your AI product needs a different development lifecycle: https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different
+
+    • Booking.com: https://www.booking.com
+
+    • Research paper on agents in production (by Matei Zaharia’s lab): https://arxiv.org/pdf/2512.04123
+
+    • Matei Zaharia’s research on Google Scholar: https://scholar.google.com/citations?user=I1EvjZsAAAAJ&hl=en
+
+    • The coming AI security crisis (and what to do about it) | Sander Schulhoff: https://www.lennysnewsletter.com/p/the-coming-ai-security-crisis
+
+    • Gajen Kandiah on LinkedIn: https://www.linkedin.com/in/gajenkandiah
+
+    • Rackspace: https://www.rackspace.com
+
+    • The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder/CEO of Every): https://www.lennysnewsletter.com/p/inside-every-dan-shipper
+
+    • Semantic Diffusion: https://martinfowler.com/bliki/SemanticDiffusion.html
+
+    • LMArena: https://lmarena.ai
+
+    • Artificial Analysis: https://artificialanalysis.ai/leaderboards/providers
+
+    • Why humans are AI’s biggest bottleneck (and what’s coming in 2026) | Alexander Embiricos (OpenAI Codex Product Lead):
+    https://www.lennysnewsletter.com/p/why-humans-are-ais-biggest-bottleneck
+
+    • Airline held liable for its chatbot giving passenger bad advice—what this means for travellers: https://www.bbc.com/travel/article/20240222-air-canada-chatbot-misinformation-what-travellers-should-know
+
+    • Demis Hassabis on LinkedIn: https://www.linkedin.com/in/demishassabis
+
+    ...References continued at: https://www.lennysnewsletter.com/p/what-openai-and-google-engineers-learned
+
+
+    _Production and marketing by https://penname.co/._
+
+    _For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._
+
+
+    Lenny may be an investor in the companies discussed.'
+  author: Lenny's Podcast
+  model: universal-3-5-pro
+  speaker_count: 4
+  speakers:
+    speaker_1: null
+    speaker_2: Aishwarya Reganti
+    speaker_3: null
+    speaker_4: null
+- id: LWJGu1FdJ5c
+  url: https://www.youtube.com/watch?v=LWJGu1FdJ5c
+  title: CI/CD Fails for AI & How CC/CD Fixes It | Aishwarya Reganti (LevelUp Labs) & Kiriti Badam (OpenAI)
+  upload_date: '2025-11-20'
+  description: '🎥 Recorded live at the MLOps World | GenAI Summit 2025 — Austin, TX (October 8, 2025)
+
+
+    Session Title: Why CI/CD Fails for AI, and How CC/CD Fixes It
+
+    Speakers:
+
+    • Aishwarya Naresh Reganti, Founder, LevelUp Labs (Ex-AWS)
+
+    • Sai Kiriti, Member of Technical Staff, OpenAI
+
+    Talk Track: Agents in Production
+
+
+    Abstract:
+
+    Traditional CI/CD pipelines assume deterministic software — but AI systems don’t play by those rules.
+
+
+    In this talk, Aishwarya Naresh Reganti (LevelUp Labs, ex-AWS) and Sai Kiriti (OpenAI) introduce the Continuous Calibration
+    / Continuous Development (CC/CD) framework — a new approach for building and scaling AI products that behave unpredictably
+    and autonomously.
+
+
+    Drawing on 50+ real-world deployments, they share how teams can start with low-agency, high-control setups, then safely
+    scale AI systems as they earn reliability and trust. Attendees will walk away with a clear blueprint for managing AI’s
+    inherent uncertainty — from eval design to behavioral monitoring and trust calibration.
+
+
+    What you’ll learn:
+
+    • Why CI/CD fails for AI and the risks of applying software assumptions to AI systems
+
+    • How the CC/CD framework enables continuous calibration and safe autonomy
+
+    • How to scope capabilities and design meaningful evaluation metrics
+
+    • How to monitor AI behavior in production and prevent drift
+
+    • Practical steps to scale autonomy without losing control
+
+
+    📍 Recorded: October 8, 2025 — In-Person Session, MLOps World | GenAI Summit 2025, Austin, TX
+
+    🔗 Learn more: https://mlopsworld.com
+
+
+    #MLOpsWorld #GenAISummit #AishwaryaNareshReganti #SaiKiriti #OpenAI #LevelUpLabs #AgenticAI #CCCD #AIDevelopment #MLOps
+    #LLMOps #AIinProduction #GenAI #AICommunity'
+  author: Toronto Machine Learning Society (TMLS)
+  model: universal-3-5-pro
+  speaker_count: 4
+  speakers:
+    speaker_1: Aishwarya Reganti
+    speaker_2: null
+    speaker_3: null
+    speaker_4: null
+- id: lVkJsTY_n8Q
+  url: https://www.youtube.com/watch?v=lVkJsTY_n8Q
+  title: Social media and the age of AI misinformation | Aishwarya Reganti | TEDxJacksonville
+  upload_date: '2025-03-17'
+  description: 'Scroll through any social media network and you’re highly likely to encounter content created by artificial
+    intelligence. Some of it, like the ubiquitous cat videos, will be cute and harmless. However, the same platforms that
+    bind us together and create moments of communal joy and connection can also divide us through algorithmic radicalization.
+    The ability of AI to produce deceptive information and create convincing fake content, combined with social media''s rapid
+    dissemination capabilities, has dangerous implications for societal dynamics.
+
+
+    As an AI researcher, Aishwarya Reganti is focused on the intersection of these two trends. She’s investigating how social
+    media and AI are merging to escalate the risks of misinformation. She believes it’s crucial that we change our mindset
+    from "believing what you see" to "believing what you verify,” and she offers strategies for navigating this complex landscape
+    and promoting a more informed and resilient digital future.
+
+
+    #AI #SocialMedia #Misinformation #MachineLearning #ArtificialIntelligenceAI #Artificial_Intelligence As an AI researcher
+    and tech lead at Amazon, Aishwarya Reganti is a highly recognized industry expert at the forefront of AI and social media.
+    Her work, which includes over 30 research papers published in collaboration with top universities such as Stanford and
+    the University of Michigan, focuses on social media aggression, fake news detection, fact verification, and meme interpretation.Aishwarya''s
+    thought leadership is evident in her frequent invitations to speak at industry and academic
+
+    conferences. She also shares her expertise as a guest lecturer on AI topics at institutions like MIT andOxford. This talk
+    was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more
+    at https://www.ted.com/tedx'
+  author: TEDx Talks
+  model: universal-3-5-pro
+  speaker_count: 1
+  speakers:
+    speaker_1: Aishwarya Reganti
+- id: OAQLG6PCqfc
+  url: https://www.youtube.com/watch?v=OAQLG6PCqfc
+  title: 4 Steps to Becoming an AI Engineer | Ep11
+  upload_date: '2025-01-23'
+  description: "Subscribe to our newsletter: https://dataneighbor.substack.com/\nDNP Swag Store: https://shop.dataneighbor.com/\n\
+    \nEver wondered how to transition into the AI engineering space or what skills truly matter in this fast-evolving field?\
+    \ In this episode of Data Neighbor Podcast, we sit down with Aishwarya Reganti, a Generative AI Tech Lead at Amazon's\
+    \ AWS, to dive into the essentials of AI engineering and separate the signal from the noise surrounding AI today.\n\n\
+    Aishwarya shares her journey from researcher to enterprise innovator and reveals:\n\U0001F399️ AI Engineering practical\
+    \ tips, roadmaps, and myths busted.\n\U0001F4A1 How to get started with AI, whether you're a mid-career switcher or a\
+    \ recent graduate.\n\U0001F4DA A clear roadmap of skills to master, including concepts like RAG, agents, and prompt engineering.\n\
+    \U0001F6E0️ Practical advice for building AI projects that solve real problems and avoid unnecessary complexity.\n\U0001F680\
+    \ How to stay focused amidst the overwhelming amount of AI content and buzzwords.\n\nWhether you're looking to break into\
+    \ the field, better understand the hype around AI, or learn how to apply AI concepts simply and effectively, this episode\
+    \ is packed with insights for you.\n\n\U0001F517 Links Mentioned in the Episode\n\nAishwarya's Maven Course: https://lnkd.in/eiBx3Eaz\n\
+    DeepLearning.AI Free Courses: https://www.deeplearning.ai/\n\nTools Highlighted: NotebookLM, Claude, PotSmart, and more\n\
+    \n\U0001F3A7 Follow Aishwarya\nLinkedIn: https://www.linkedin.com/in/areganti/\n\nChapters:\n\n0:00 Introduction \n2:00\
+    \ Aishwarya's Journey: From Research to Enterprise AI  \n6:20 What Generative AI Can (and Can’t) Do   \n13:00 Breaking\
+    \ Down Key AI Concepts: RAG, Agents, and LLMs  \n19:00 The Daily Life of an AI Engineer  \n27:00 Advice for Aspiring AI\
+    \ Professionals  \n35:00 Building AI Projects That Matter  \n43:00 Tools of the Trade: NotebookLM, Claude, and More  \n\
+    50:00 The Future of Prompt Engineering  \n57:00 Evaluation: The Hardest Part of AI Development  \n1:08:00 Predictions\
+    \ for the Future of AI Roles  \n1:09:40 Closing Thoughts \n\nConnect with Hai, Sravya, and Shane (let us know YouTube\
+    \ sent you!):\nHai Guan : https://linkedin.openinapp.co/4qi1r\nSravya Madipalli : https://linkedin.openinapp.co/9be8c\n\
+    Shane Butler : https://linkedin.openinapp.co/b02fe\n\nIf you need personalized advice for your data science career roadmap,\
+    \ send us a message on LinkedIn or post a comment below!\n\n\n#ai #aiengineering #generativeai #artificialintelligence\
+    \ #techcareers #datascience #machinelearning #rag #promptengineering #techroadmap #careeradvice #innovation #aiprojects\
+    \ #techpodcast #dataneighbor #datapodcast #airoadmap #careeradvice #career #aiagents #finetuning"
+  author: AI Analyst Lab
+  model: universal-3-5-pro
+  speaker_count: 3
+  speakers:
+    speaker_1: null
+    speaker_2: Aishwarya Reganti
+    speaker_3: null
