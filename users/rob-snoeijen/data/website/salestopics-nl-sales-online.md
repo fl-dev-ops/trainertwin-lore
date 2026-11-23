@@ -1,0 +1,12 @@
+---
+title: "Zichtbaarheid vergroten, online zichtbaarheid vergroten, vergroten online zichtbaarheid - SalesTopics"
+url: "https://www.salestopics.nl/sales-online/"
+date: "2023-09-21"
+source: website
+---
+
+Online marketing is een breed begrip en omvat alle onderdelen om uw bedrijfsnaam/producten & diensten online onder aan de aandacht te brengen bij uw doelgroep met als resultaat het behalen van uw marketingdoelstellingen. Dit kan natuurlijk op meerdere (betaalde en onbetaalde) manieren. SalesTopics weet precies welke manier voor u geschikt is zodat u de juiste personen bereikt en optimaal rendement behaald met uw marketingbudget. We geven u graag een korte uitleg over bepaalde facetten van online marketing.
+Advertising
+Een korte termijn strategie om online op te vallen, is via Advertising. Met het plaatsen van een advertentie in de zoekmachine bent u op een prominente plaats in de zoekmachine snel zichtbaar. Met deze gesponsorde links haalt u meer bezoekers naar uw pagina. SalesTopics is gespecialiseerd om met uw vooraf bepaalde budget exact de juiste personen aan te spreken, zodat uw online campagnes zo effectief mogelijk zijn. Advertenties om bezoekers te enthousiasmeren om door te klikkenb kunnen zowel uit tekst en beeld bestaan. SalesTopics bespreekt met u wat voor uw business de meeste bezoekers aan zal trekken.
+Gratis zoekverkeer
+Naast betaalde advertenties is het ook mogelijk om gratis zoekverkeer naar uw website te halen. Dat klinkt natuurlijk voor iedere ondernemer als muziek in de oren. Hoe kan dit dan? En wie helpt u daarbij? Een zoekresultaten pagina in de zoekmachine heeft een bepaalde indeling. Eerst worden de betaalde advertenties vertoond (maximaal 4 bovenaan) en daarna volgt het gratis (organisch) zoekverkeer. De eerste drie posities in het organisch zoekverkeer zorgen gemiddeld voor 50% van de clicks naar uw website. Deze posities zijn dus erg interessant. Wanneer u op pagina 2 of verder van Google staat, dan blijft daar nog maar minder dan 1% van over. SalesTopics brengt voor u, aan de hand van een zoekwoordonderzoek, uw nichemarkt in kaart en bepaald (met u) welke zoekwoorden interessant zijn om topposities te bekleden en leads te genereren. Vervolgens wordt er een concreet stappenplan uitgewerkt hoe deze posities bereikt gaan worden. Een verbeterde online zichtbaarheid in de gratis zoekresultaten zal uw bezoekersaantallen dus aanzienlijk doen stijgen.

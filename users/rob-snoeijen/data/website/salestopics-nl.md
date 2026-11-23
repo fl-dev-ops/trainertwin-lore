@@ -1,0 +1,190 @@
+---
+title: "Uw verkoopresultaten verbeteren? - Salestopics"
+url: "https://www.salestopics.nl/"
+date: "2025-08-07"
+source: website
+---
+
+Op zoek naar meer klanten, een hogere omzet of betere marges?
+Verbeter uw verkoopresultaat
+SalesTopics helpt professionals en bedrijven in het verbeteren van hun commerciële rendement.
+Met een in de praktijk bewezen methodiek versnellen wij de winstoptimalisatie. Dit doen wij door middel van (online) Sales Training, Sales Coaching en Sales Consultancy. Met aantoonbare resultaten. Vanuit onze passie ontwikkelen wij uw verkooptalent met maar één doel: Succes als Resultaat.
+- Praktijk- en resultaatgericht
+- Creatief en innoverend
+- Unieke maatoplossingen
+- Vernieuwende programma's
+- Ontwikkelt Sales talent
+- Aantoonbare resultaten
+- Ervaren trainers met passie
+Kwalitatief, hoogstaande opleidingsprogramma’s
+De SalesTopics Academy biedt een groot scala aan opleidingen, workshops en trainingen op het gebied van Sales, Klantgerichtheid en Commerciële Communicatie. Zowel online als klassikaal. Onze trainingen leveren een aantoonbare bijdrage aan de persoonlijke groei van de deelnemer en de verbetering van het bedrijfsresultaat van de organisatie.
+SalesTopics Academy biedt de volgende opleidingen en trainingen:
+- Incompany Training (Klassikale Sales opleidingen)
+- Online Sales Training (E-Learning)
+- Blended Learning (Combinatie van klassikaal leren en E-learning)
+- Sales Excellence Learning Experience (Micro Learning)
+- Sales-ABC opleidingen
+- Individueel Sales Ontwikkeltraject
+De Top 10 meest populaire SalesTopics trainingen
+SalesSnacks 
+High Impact Microlearnings: 
+Een nieuwe manier van leren
+Leer alle salesvaardigheden in 52 learning snacks
+- Snel leren; Korte, gerichte sessies om snel te begrijpen.
+- Geen tijdverspilling; Leren zonder veel tijd kwijt te zijn.
+- Direct toepasbaar; Je kunt meteen gebruiken wat je leert.
+- Hogere betrokkenheid; Korte lessen houden je aandacht vast.
+- Flexibel leren; Leren in je eigen tijd, overal wanner het je past.
+- Onthoud beter; Herhaald leren helpt je dingen te onthouden.
+- Continu leren; Ondersteunt voortdurende ontwikkeling.
+- Kosten-Effectief; Efficiënte leeroplossing, lage investering
+Gemakkelijk
+U leert op het moment dat het u past, in uw omgeving en in uw eigen tempo.
+Sales Boost nodig?
+Het zijn de sprankelende ideeën die leiden tot het echte succes. SalesTopics levert de broodnodige inspiratie en motiveert met creatieve en inspirerende salesvitaminen voor nieuwe inzichten over sales, management, marketing en talentontwikkeling. Met Succes als Resultaat
+Sales Assessments
+Sales Boeken
+Klant’, ‘Verleid de Klant’ en het ‘SALES-ABC’
+Sales APK
+Wilt u meer omzet uit uw offertes halen? 
+Doe de gratis offerte scan
+Doe de test en check hoe u scoort op de 10 succes factoren voor het schrijven van winnende offertes. U ontvangt direct de uitslag en bruikbare en praktische tips om winnende offerte te schrijven.
+Wist u dat …? Een paar feiten op een rij
+- Meer dan 70% van de inkopers weleens een opdracht niet verstrekt heeft omdat de kwaliteit van de offerte ondermaats was.
+- 33% van de inkopers bij onduidelijke offertes geneigd is om over de prijs te onderhandelen, met margedruk als gevolg.
+- 15% van de opdrachtgevers is bereid meer te betalen voor een opdracht wanneer de offerte van hoge kwaliteit is.
+- 25% van de inkopers aangeeft bijna altijd slechte offertes te ontvangen om deze vervolgens te negeren of weg te gooien.
+- 35% van de mensen kiest meteen voor de meest heldere aanbieding.
+We laten graag onze klanten aan het woord!
+Onze ambassadeurs
+Salestopics is een fris trainingsbureau met een goede combinatie van theorie en praktijk. Rob Snoeijen geeft op een leuke manier training, zodat je je aandacht er goed bij kunt houden. Dankzij de trainingen heb ik me goed verder kunnen ontwikkelen!
+Dankzij de inzichten van SalesTopics sta ik nu in de brengstand in plaats van de haalstand. De geleerde technieken helpen me bewust te zijn van mijn woorden. De training is inspirerend, met waardevolle tips voor mijn ontwikkeling in de sales!
+De SalesTopics Training ‘Succesvol Telefonisch Acquireren’ was een leuke, interactieve en leerzame training met vele handigheidjes om een verkoopgesprek te sturen. Wij kunnen nu weer verder met het optimaliseren van onze sales afdeling.
+Een salestraining bij Sales Topics volg je niet maar daar neem je aan deel! De trainer weet door zijn ervaring waar er ruimte is voor groei en het optimaliseren van je commerciële skills. Op een interactieve wijze wordt je uitgedaagd in te haken om de theorie te vertalen naar de praktijk.
+De SalesTopics training heeft me waardevolle inzichten gegeven die ik direct in de praktijk kon toepassen. Dankzij de heldere en doelgerichte aanpak zie ik nu al merkbaar betere resultaten in mijn commerciële acties. Absoluut een waardevolle investering!
+De SalesTopics training gaf me nieuwe inzichten die ik direct in mijn klantcontacten kon toepassen. De praktische oefeningen en de op maat sessies maakten het leerzaam én leuk. Vooral de concrete handvatten voor bijvoorbeeld slapende klanten en manier van schrijven waren echte eyeopeners.
+De interactieve trainingsmethodiek is voor mij zeer leerzaam geweest. De deskundige trainer biedt tips en technieken voor een gestructureerde aanpak van acquisitie- en verkoopgesprekken, waarbij snel aantoonbare resultaten worden geboekt en ook een boost geeft aan het zelfvertrouwen.
+Tijdens de interactieve en inspirerende commerciële trainingen van SalesTopics heb ik zeer bruikbare handvatten gekregen om meer rendement uit mijn functie te halen. Maak gebruik van de ervaring, kennis en tips van de ervaren coach en vergroot je succes.
+De online sales training leert me om op een gestructureerde wijze een succesvol verkoopgesprek te voeren door de verschillende fases te doorlopen. Ik pas verschillende technieken in de praktijk toe en zal hiermee blijven oefenen om continu te leren.
+Rob Snoeijen van SalesTopics weet zijn jarenlange praktijk ervaring op de juiste wijze in te zetten voor zijn training. Onze medewerkers hebben de training als zeer nuttig ervaren. Rob brengt zijn enthousiasme over en weet deze vooral te borgen.
+Resinex heeft voor Sales Topics gekozen vanwege flexibiliteit en begrip voor onze situatie. Resultaat is dat onze account managers met een toolbox vol tips en tricks, gestructureerd, professioneel en met meer zelfvertrouwen bij onze bestaande en toekomstige klanten komen.
+De SalesTopics Sales Training was een verademing ten opzichte van andere trainingen. De behandelende onderwerpen sloten perfect aan op de dagelijkse praktijk en bieden toegevoegde waarde. Trainer Rob Snoeijen bracht deze onderwerpen met veel enthousiasme en engagement!
+SalesTopics weet op een inspirerende en enthousiasmerende manier over te brengen waar verkoop uiteindelijk over gaat. De vele praktijkvoorbeelden en cases maakten deze Sales Training tot een prettig leermoment.
+Middels de pragmatische aanpak van SalesTopics worden je blinde vlekken en automatisme behoorlijk inzichtelijk gemaakt. Het voordeel om een dergelijke training te volgen is dat het je weer scherper maakt, een heldere focus geeft en je nog meer tools geeft.
+De training geeft je praktische handvatten en inzichten in het volledige salesproces. Handige weetjes en tips die ogenschijnlijk logisch zijn, maar die jezelf niet bedenkt. De SalesTopics training is zeer waardevol voor iedereen in de sales.
+Uit de SalesTopics training heb ik o.a. meer inzicht gekregen in de structuur van een (zakelijke) conversatie en het stellen van de juiste vragen. De trainer stimuleert tot nadenken en tot participatie, wat het tot een inspirerende ervaring maakt!
+Rob Snoeijen weet door zijn schat aan ervaring op prikkelende en inspirerende manier om het gereedschapskistje met sales skills verder te vullen. Bijkomend effect van de training is dat de gehele presentatie van ons bedrijf naar een hoger plan getild wordt.
+Ook voor een beginnend verkoper is de SalesTopics training ten zeerste aan te raden omdat de technieken die worden toegelicht meteen kunnen worden toegepast. Een een leerzame training en van de leermomenten heb ik nog elke dag profeit!
+Om de voorsprong t.o.v. onze collega bedrijven te behouden en uit te breiden is training onontbeerlijk. SalesTopics heeft de 'toolbox' van de commerciële afdeling aangevuld met technieken om het sales rendement te verbeteren. Zij zijn hier meer dan in geslaagd!
+De SalesTopics Training heeft mij terug actief aan het denken gezet en veel nieuwe en andere manieren laten zien om een klant aan te spreken en orders binnen te halen. De trainer heeft dit op een leuke manier gebracht met veel inspiratie en voorbeelden, die gemakkelijk toepasbaar zijn.
+Wij hebben de training van SalesTopics ervaren als bijzonder praktisch en direct toepasbaar in de praktijk. De training kent een prettige opbouw. Anders dan andere instellingen begrijpt SalesTopics de wereld van 'technical sales'.
+Ik heb de trainingen van SalesTopics als zeer waardevol ervaren, omdat ik handvaten heb gekregen waar ik in de praktijk zeker iets aan heb. De trainer houdt je spiegel voor en de training is volledig afgestemd op onze praktijk.
+De SalesTopics Sales Training is een persoonlijke en boeiende training, die met humor gebracht wordt. Je wordt op jouw niveau uitgedaagd. Ik beschik nu over een toolbox met ‘verkoop-gereedschap’ om het maximale rendement uit klantgesprekken te halen.
+Voor mij was de training ‘Commerciële Communicatie voor Technici & Projectleiders’ erg leerzaam en praktisch, waardoor ik de tips direct kon toepassen in de praktijk. Een echte aanrader als je je sales vaardigheden een boost wil geven.
+Mijn werkgever heeft nu voor het 5e jaar op rij gekozen voor diverse trainingen gegeven door SalesTopics. De trainer geeft je een bepaald vertrouwen, omdat hij je echt leert kennen na al die sessies. Trainingen zijn zeker boeiend, vooral omdat feedback krijgt van andere cursisten.
+De 1 op 1 sales training die ik bij Sales Topics heb gevolgd sloot perfect aan bij mijn wensen en behoeftes. De trainer heeft mij heel veel waardevolle inzichten gegeven en mij op weg geholpen om nog beter ons product en bedrijf in de markt te zetten. Een absolute aanrader!
+De SalesTopics training heb ik als zeer positief ervaren met zeer krachtige tools om de klant te overtuigen. De trainer speelt zeer goed in op de behoefte van de deelnemers, waardoor een fijne setting gecreëerd wordt met goede feedback en opbouwende kritiek.
+Zeer leerzame salestraining. Door de korte, maar krachtige uitleg, blijf je de hele training geboeid. Ook de herhaling/leerpunten aan het eind van elke module blijven je als kijker goed bij. Ik heb er veel aan gehad en kan niet wachten met frisse sales-skills aan de slag te gaan!
+De SalesTopics Sales Trainingen hebben aangetoond, dat we als groep in beweging komen en dat er nog veel winst te behalen is. Persoonlijk heb ik de training als zeer prettig en professioneel ervaren. Ik zeg op naar Deel 2!
+De training is een echte eye-opener met bekende, maar vooral nieuwe technieken op het gebied van verkoop. Het geeft mij praktische handvatten om mijn verkoopgesprekken structuur te geven om zo meer succes uit de klantgesprekken te halen.
+Verkopen is een vak dat je door veel oefenen kunt verbeteren. SalesTopics weet met enthousiasme en prikkelende cases mijn verkoopteam naar een hoger niveau te trekken, waardoor we de investering in de training vele malen hebben terugverdiend!
+De training van Sales Topics heeft mij nieuwe handvaten gegeven om nog beter de onderhandelingen en prijsgesprekken in te gaan, bij zowel bestaande als bij nieuwe potenties. Je komt er achter wat je sterke punten, maar ook wat je verbeterpunten zijn.
+Een training volgen die succesvol is begint bij de juiste klik tussen trainer en deelnemers. Rob Snoeijen is een trainer waarbij ons sales team in ieder geval die klik had, waarbij de SalesTopics training volledig voldeed aan onze wensen en eisen.
+Door de interactieve training kom je erg snel te weten wat je mindere kwaliteiten zijn. Deze mindere kwaliteiten hebben we in de trainingen geoefend, verbeterd en daardoor direct toepasbaar in de praktijk. Ik kan deze op maat gemaakte training iedereen aanraden!
+De trainingen van SalesTopics geeft je nieuwe inzichten en concrete handvatten die goed toepasbaar zijn in de praktijk. Er is veel interactie, waardoor je gedwongen wordt uit je comfortzone te stappen, wat je dwingt op een andere manier te denken en te reageren.
+De SalesTopics Training ‘Resultaatgericht Prijs- Onderhandelen’ is erg interessant. De juiste onderwerpen komen aan bod, welke gelijk in de praktijk worden toegepast. Een goede combinatie tussen theorie en praktijk Een duidelijk verhaal. Ik geeft het een 9 als cijfer!
+Door de voorbereidingen thuis en het gezamenlijk doorlopen van specifieke opgaven met actuele onderwerpen uit je eigen vakgebied krijg je direct tools en handvaten om je eigen “way of working” op een voor jezelf wenselijke manier continue te verbeteren.
+Door de expertise en kunde van SalesTopics krijg je handvatten aangereikt, die je oefent in de training en vanaf dat moment direct kunt inzetten in je eigen situatie. Na elke training ben je een stap dichterbij om echt hét verschil te maken.
+De Inkooptraing voor Verkopers was heel interactief, pragmatisch met veel afwisseling tussen inkoop- en verkoopvisie. Je leert steeds uit nieuwe inzichten tot resulaten te komen. Beide trainers hadden veel ervaring en waren zeer goed.
+De intensieve en op maat gesneden trainingen van SalesTopics kenmerken zich door een hoog praktijkgehalte met focus op resultaat. Rob Snoeijen heeft mijn sales team de noodzakelijke tools gegeven om het maximale rendement uit de contacten met klanten te halen.
+De trainingen van SalesTopics kennen een zeer pragmatische benadering en zijn een goede aanvulling van de ANEXO toolbox voor commercie. Dit zal ons in staat stellen een verdere groeistap te maken in lijn met het strategisch plan.
+De training ‘Commerciële vaardigheden voor Technici’geeft met eenvoudige voorbeelden goede tips. Veel is herkenaam, maar owrdt onbewust (nog) niet toepast. Ik waardeer deze training met een 9!
+SalesTopics traint onze hoogtechnologische organisatie. Een belangrijk item is het vertalen van onze mogelijkheden naar een breed publiek. SalesTopics slaagt hierin door onze “sales- techneuten” te voorzien van praktische tools.
+De SalesTopics trainingen geven je een goed inzicht in het hele verkoopproces. Een goede combinatie van humor, praktijk ervaring en de wijze waarop je betrokken wordt maken deze trainingen tot zeer leerzaam en erg plezierig.
+De SalesTopics Sales Training hebben wij als zeer nuttig ervaren, waarbij vele technieken worden aangeleerd. In veel gevallen herkenbaar, maar niet eerder over nagedacht. De trainer zet je aan het denken. Dit helpt om sales te structureren.
+Rob Snoeijen is een gedreven persoonlijkheid die zijn trainingen met overtuiging brengt. Zijn feedback is persoonlijk, eerlijk en concreet toepasbaar. Zijn enthousiasme en betrokkenheid zijn voor mij een trigger om er ook echts iets mee te doen in de dagelijkse praktijk.
+De sales training ‘Commerciële Vaardigheden voor Verkoop Binnendienst’ kent een hoog interactief en praktijkgericht gehalte. Het was een zeer leerzame training, waarbij wij met het gehele team veel nieuwe technieken geleerd hebben die we prima dagelijks kunnen toepassen.
+Rob Snoeijen heeft me tijdens de Sales Coaching sessies laten inzien dat verkopen een vak is. Met de aangereikte inzichten, structuur en methodieken ben ik nu in staat om het maximale rendement uit de gesprekken met klanten te halen.
+De SalesTopics training is praktisch, direct toepasbaar en persoonlijk. Door de logische volgorde van de training leer je verkopen van A tot Z, waardoor je het geleerde direct kunt toepassen in de praktijk. Ik geef deze training een dikke 9!
+De salestraining van SalesTopics was praktijkgericht en direct toepasbaar. De trainer paste de inhoud aan op onze situatie en gaf heldere voorbeelden. Dankzij de sales-toolbox hebben we nu concrete handvatten om onze commerciële aanpak te versterken.
+Goede training, sluit aan bij mijn wens om als bouwkundige meer sales skills te krijgen. De afwisselende manieren van klassikale trainingen, zelfstudie en video analyses maken de training levendig en praktisch waardoor ik deze als zeer leerzaam heb ervaren.
+Het hele team is weer opgefrist door SalesTopics. Geen poespas maar een doelgerichte training. De training voldeed aan onze eisen en was precies wat we voor ogen hadden. In de praktijk al e.e.a. toegepast en de resultaten zijn al zichtbaar.
+Wat me met name opviel aan de SalesTopics Training was vooral de grondige voorbereiding. Er is op voorhand veel met elkaar geschakeld om een trainingsdag te creëeren die op alle wensen aansloot. We hebben veel toepasbare handvatten ontvangen.
+Onlangs hebben wij de sales training bij SalesTopics afgerond. Na de eerste dag waren we al gestart met meer sales te genereren. De training is praktisch, vol goede tips en voor ons zeer leerzaam en helder. De training verdient zichzelf terug.
+Met de online sales training van Sales Topics heb ik nóg beter geleerd om de klant te begrijpen. Mijn verkoop- vaardigheden zijn verbeterd, waardoor de kans op succesvolle gesprekken en opdrachten groter wordt. Een echte aanrader voor elke zzp-er of kleine zelfstandige!
+De SalesTopics Sales Trainingen zijn inspirerend, effectief en motiverend. Rob Snoeijen is duidelijk zeer ervaren en spreekt met voorbeelden over ervaringen uit 'het echte leven'. Dankzij Rob heeft mijn verkoopgesprek nu een nóg duidelijkere structuur!
+De salestraining van SalesTopics heeft me echt geholpen. Er werd gekeken naar mijn persoonlijke situatie en het programma sloot perfect aan op mijn wensen, welke we vooraf hadden besproken. Praktisch, doelgericht en helemaal op maat. Echt een waardevolle investering in mijn ontwikkeling!
+De Salestopics Online Sales Training heeft voor mij het salesvak inzichtelijker gemaakt, waardoor ik nu met veel zelfvertrouwen en op een gestructureerde manier te werk ga. Ik raad iedere verkoper aan om met deze interactieve training het salesvak opnieuw te ontdekken.
+Wij hebben een salestraining gevolgd bij SalesTopics, waar onze diverse groep veel van geleerd heeft. Van ervaren sales collega’s tot technische collega’s iedereen heeft iets meegenomen uit deze training. Het was een interactieve training, waarin je soms uit je comfortzone wordt gehaald om zo het beste resultaat te behalen.
+Ik heb de Personal Sales Training van SalesTopics als zeer positief ervaren. De 1 op 1 training heeft mij meer zekerheid en lef gegeven, structuur en houvast. De les geeft je op een eenvoudige manier de juiste handvaten wat je makkelijk kan toepassen in de praktijk.
+Ik ben ervan overtuigd dat door de SalesTopics Sales Training wij als verkoop van Hydro ons gaan onderscheiden in de markt door winnaars te zijn, die een plan hebben en dit verwezenlijken door de aangereikte structuur, techniek en methodiek te gebruiken!
+De training praktijkgericht en doeltreffend en volledig op maat gemaakt. Door de kleine groep is veel tijd voor persoonlijke aandacht. De video opnames zijn erg confronterend maar daardoor erg waardevolle. Kortom een zeer interessante training!
+Mijn ervaring met de online sales training is dat ik er veel van heb geleerd, omdat ik volledig nieuw was in het verkopen. Er komen veel verschillende onderwerpen in voor. Je leert de kennis van verkopen online in je eigen tijd.
+De belangrjikste leerpunten uit Online Sales Training van SalesTopics is dat ik nu met behulp van het stappenplan voortaan gestructureerde gesprekken voer, die minder vrijblijvend en meer resultaatgericht zijn.
+Erg interessante acquisitie training. Hier heb ik vooral geleerd om meer gestructureerd te werken. Het heleacquisitie proces is nu mooi gestroomlijnd en heb veel verschillende handvatten gekregen. De succes rate na koude acquisitie is momenteel maal 5 vergeleken met eerder.
+De training vanuit Sales Topics, verzorgd door Rob Snoeijen, was interactief en inspirerend. De sessies hebben geleid tot nieuwe inzichten en bestaande kennis opnieuw verduidelijkt. Dankzij de heldere communicatie en de enthousiaste, leuke presentatie bleef de inhoud boeiend en direct toepasbaar in de praktijk.
+De sales trainingen van SalesTopics kenmerken zich door veel interactie met onderwerpen die goed bij de dagelijkse verkoop aansluiten. De trainer betrekt iedereen van onze verkoop binnendienst actief bij de training. Ik beoordeel de training, in algemene zin, met een 9!
+Waar ik altijd een lichte allergie had bij verkoop (glad!), is dat door deze interactieve training veranderd en ben ik het zelfs best leuk gaan vinden. Omdat ik praktische handvatten heb gekregen om dit te doen op een manier die bij me past.
+De training verkoopbinnendienst was een echte eye-opener! Wat deze training onderscheidt, is de persoonlijke aanpak, enthousiasme waarmee de trainer de training geeft. Ik kan deze training zeker aanbevelen aan iedereen die zijn verkoopvaardigheden naar een hoger niveau wil tillen.
+Door de SalesTopics training hebben we geleerd onszelf (nog) beter te verkopen. Als niet-commerciële partij staan we er niet altijd bij stil dat ook wij dit moeten doen. De presentaties bij externen verlopen nu veel beter.
+Voor ons was de training een eye opener. Het heeft onze verkopers geleerd om met meer zelfvertrouwen het gesprek met inkoop aan te gaan. De training zelf was zeer dynamisch en gericht op de praktijk. Een aanrader voor iedere verkooporganisatie.
+De SalesTopics Training is een goede invulling op de dagelijkse situatie. Het geeft mij de handvaten om mijn werk beter uit te voeren. De training kenmerkt zich door een leuke, maar professionele aanpak middels simpele voorbeelden en rollenspellen.
+Sales Topics luistert naar de wensen van de klant en verdiept zich in de materie. Je voelt je gelijk begrepen. De commerciële begeleiding gebeurt vanuit intrinsieke motivatie. Dat voel je. Dat proef je. Daar vaart de verkoper wel bij en uiteindelijk de toekomstige klant ook.
+Ik heb de Sales Coaching door Rob Snoeijen als zeer prettig ervaren. Dit komt mede door zijn hands-on aanpak. Door zijn ervaring, heeft hij mij veel waardevolle tips geven voor zaken waar ik in mijn dagelijkse werkveld tegenaan loop. Een aanrader!
+De training was erg leerzaam voor ons hele verkoopteam. De verkoopmethodieken die ik geleerd heb, gebruik ik nog dagelijks in mijn werkzaamheden. Met name de afsluittechnieken. Het leuke is dat de trainer ook echt zorgt dat de hele training interactief is, waardoor er mooie discussies ontstaan.
+De SalesTopics training was voor ons een waardevolle ervaring dankzij de interactieve en praktijkgerichte aanpak. Vooral de eyeopeners met betrekking tot doorvraagtechnieken en het benoemen van probleemstellingen zullen ons zeker verder helpen om meer resultaat uit onze afspraken te halen.
+Ik heb de SalesTopics Sales Coaching van Rob Snoeijen als erg prettig en leerzaam ervaren, vanwege de toegespitse adviezen en handvatten. Hij heeft me nieuwe inzichten gegegeven, waarmee ik direct en goed voorbereid aan de slag kan.
+Mijn training bij Sales Topics was tailormade en gaf mij waardevolle tools om meer inzicht te krijgen om de klant te benaderen voor belangrijke informatie en deze weer toe te passen in een vervolg. Dit altijd met sales in gedachten zonder af te doen van mijn technische achtergrond.
+SalesTopics heeft mij geholpen in het verfijnen van mijn acquisitietraject. De training was op maat voor mijn organisatie en heeft mij veel inzichten gegeven over hoe potentiële klanten te benaderen en wat hierin belangrijk is. Ik zou deze training zeker anderen aanraden!
+Eindeffect van de SalesTopics training is dat de cursisten met bijna hands-on ervaring de training uitkomen en praktische handvaten hebben gekregen om het sales-pad gedegen en met veel hogere kans op succes te bewandelen. Het gaat uiteindelijk om de succes-rate!
+Door de salestraining van SalesTopics ben ik me weer bewust bezig gaan houden met de verkoop-structuur. In de training hebben we stap voor stap de gehele sales-cyclus behandeld. De training is voor mij erg duidelijk. Ik geef de training een dikke 9!
+We hebben de SalesTopics Sales Training als zeer positief en leerzaam ervaren, vanwege de praktijkgerichte kennisoverdracht en de succesvolle toepasbaarheid. Rob Snoeijen heeft ons tal van handvaten aangereikt, om meer resultaat uit onze contacten met klanten te halen.
+De SalesTopics Sales Training is zeer zinvol en goed toe te passen in de praktijk. Je leert goed waar je tekort komingen liggen, maar ook wat je sterke punten zijn. Een echte eye-opener waardoor ‘het’ meer gaat leven.
+De salestraining van SalesTopics was inspirerend, verrassend en verdiepend. Door de juiste vragen te stellen en goed door te vragen, leerden we verder te kijken dan aannames. De trainer zette ons echt aan het denken over onze gesprekken en hoe je jezelf krachtig positioneert in een pitch. Echt een aanrader!
+Door de online sales training ben ik veel zelf zelfverzekerder geworden. Ik kan de klant beter aanvoelen, peilen en bewerken met als gevolg, meer plezier in mijn werk en meer omzet. Het fijne is dat je alle momenten van de dag eraan kunt werken en je de leerstof eindeloos kan herhalen.
+Bij de Sales Trainingen van SalesTopics draait het om de praktijk. En dat komt in de hele training terug. Top! Een actieve, positieve training, waarbij je constant geactiveerd wordt om het geleerde toe te passen. Ik ben dan ook erg positief.
+In mijn vak heb ik regelmatig te maken met tegenwerpingen. Dankzij de interactieve training en de professionele en persoonlijke aanpak van SalesTopics heb ik mij hierop kunnen trainen en deze om te buigen naar een positief resultaat.
+De Online Coaching geeft op een interactieve wijze inzicht hoe tot een goed succesvol verkoopgesprek te komen. De boeiende sessies geven tips, methoden en een duidelijke structuur om tot een goed resultaat te komen. Voor mij een houvast voor succes.
+Een leuke, interactieve en leerzame training die me nieuwe, bruikbare inzichten heeft gegeven en me echt aan het denken heeft gezet over de uiting van ons bedrijf in de markt, maar ook over hoe ik zelf communiceer naar mijn (potentiële) klanten.
+Sales Topics heeft training voor onze afdeling telemarketing verzorgt. Een leerzame maar vooral een en verfrissende aanpak. De deelneemsters waren zeer enthousiast over de trainingsmethode en verwijzen nog regelmatig naar hetgeen ze die dag geleerd hebben.
+Ik heb de training als zeer positief ervaren, mede dankzij de gepersonaliseerde aanpak. Bovendien heb ik zeer veel handvaten en bruikbare formats gekregen die ik meteen kan toepassen in de praktijk. Mijn eye-opener van deze opleiding is dat Sales echt een vakgebied is waarin zeer veel te leren valt!
+De training heeft in mijn geval de puntjes weer op de “i” gezet. Met name de structuur en kleine veranderingen gaan positief bijdragen aan de verkoop. Van het leggen van het eerste contact tot en met het afsluiten met een order.
+Tijdens de SalesTopics coaching sessies heeft Rob Snoeijen me op een interactieve en praktische wijze inzicht gegeven hoe je met je salesteam succesvol kunt zijn. Zelfreflectie en planmatig werken zijn hierbij een rode draad om meer resultaat uit je inspanningen te halen.
+Vlotte training met heldere voorbeelden die goed toepasbaar zijn in mijn praktijk. Prima 'to the point.' Gaat ongetwijfeld veel voordelen opleveren voor mij en mijn kantoor. Al met al een goede training! Ik geef de training een 9.
+De sales trainingen van SalesTopics zijn inspiratievol en bevat veel eyeopeners die we in de dagelijkse praktijk kunnen toepassen. Rob Snoeijen laat ons eerst 'zwoegen' op bepaalde vragen om er dan vervolgens aanvullingen op te geven. Dat hield ons scherp!
+De SalesTopics training Commerciële Communicatie voor Technical Sales was zeer leerzaam en met professioneel enthousiasme overgebracht. Met veel zelfreflectie hebben ons communicatieniveau naar een hoger platform hebben gebracht. Wij bevelen deze training met volle overtuiging aan.
+De Sales Training van SalesTopics is een zeer boeiende training met een goede mix van actief en interactief, gegeven door een bevlogen trainer. De trainer, uit de praktijk, geeft scherpe analyses met een fijne afwisseling van leuke anekdotes en lesstof.
+De SalesTopics training is goed in het schetsen van de processen, die komen kijken bij klantcommunicatie. Zowel ik als mijn collega’s hebben inzichten gekregen in wat er van ons verwacht wordt. We gaan nu op een andere manier met klanten praten.
+Een super leerzame en leuke commerciële training. Door middel van een laagdrempelige interactieve trainingsmethodiek met veel praktijkvoorbeelden en oefening hebben we ons doel bereikt om meer klantgericht te werken en om ons sales team hiervoor de juiste “gereedschapskist” te geven.
+De training heeft mij een beter inzicht gegeven in de opzet van een sales gesprek. Daarnaast heb ik een aantal handige tips & tricks gekregen om gemakkelijker informatie van potentiële klanten te achterhalen. Door de oefeningen kan ik deze nu zonder twijfel toepassen in een gesprek.
+In de training zijn ons waardevolle commerciële handvatten en inzichten zijn aangereikt om het maximale uit beurzen te halen. Dankzij de diverse interactieve momenten kijken wij terug op een geslaagde dag. De lessen hebben we met succes direct in de praktijk toegepast.
+Trainer Rob Snoeijen is een charismatische trainer die perfect in staat is ‘de sneltrein’ stil te zetten. Met een verbijsterend eenvoudig aanpak laat hij je bewust worden van die zaken die er toe doen in het verkoopgesprek voor meer succes.
+De Sales Training van SalesTopics is een zeer nuttige en praktijkgerichte commerciële training. Toepasbare handvatten worden aangereikt om direct succesvol in salesgesprekken op te nemen. De leermodellen geven je de ruimte om het geleerde in je eigen vorm te gieten.
+Ik vond de training erg leuk en interessant. Er is veel persoonlijke aandacht en veel interactie tussen de trainer en de deelnemers. Mijn salespitch is nu goed aangescherpt en ik gebruik deze nu overal. Verder heb ik de les 'verkopen is vragen stellen' absoluut meegenomen. Ik laat de klant nu veel meer vertellen.
+De SalesTopics training ‘Commerciële Communicatie voor Technici’ is echt verhelderd. Het actief en motiverend. Door het aanpassen van kleine dingen, kun je veel veranderen. De ervaren trainer weet hierbij telkens de vinger op de zere plek te leggen. En dat werkt!
+SalesTopics heeft ons team niet alleen op een praktische, interactieve manier getraind maar op elk niveau en afdeling een onuitwisbare indruk achter gelaten. Rob Snoeijen is daardoor niet alleen voor een Salesteam een volwaardige sparringpartner maar ook voor marketing en directie!
+Met ons verkoopteam hebben we een geslaagde en 4-daagse Salestraining van SalesTopics gehad. Hun programma is pragmatisch en helder opgebouwd. Theorie afgewisseld met praktijkoefeningen. We hebben allemaal veel geleerd, waardoor we beter onze gesprekken voeren en er meer rendement uithalen.
+De SalesTopics training biedt handige tools voor diverse verkoopgesprekken en geeft duidelijk weer hoe een ideaal verkoopgesprek, inclusief voorbereding, zou moeten zijn. De trainer weet op een goede manier aansluiting te vinden op onze branche en manier van werken.
+In de Sales Coaching heeft de coach mij praktische tips aangereikt, die vooral bruikbaar zijn in mijn praktijk. Hij heeft mij laten zien dat de beste 'oplossingen' vaak eenvoudig zijn. Dit gaat mij zeker meer opdrachten opleveren!
+De SalesTopics training was voor mij een echte eyeopener. De interactieve aanpak hield me scherp en betrokken, terwijl de praktische inzichten direct toepasbaar waren. Dankzij deze training heb ik mijn commerciële vaardigheden aanzienlijk verbeterd en mijn klantgesprekken naar een hoger niveau getild.
+De SalesTopics training was zeer interessant, doordat de onderwerpen sluitend zijn op de issues / gemiste kansen die wij in de praktijk tegenkomen. Rob Snoeijen onderricht de training op een gedreven manier, waarbij de nadruk lag op interactief bezig zijn.
+De scherpe wijze waarop de trainer de interactie met mij zocht, heeft mij weer een extra dimensiegegeven in de wijze waarop er verkocht kan worden. Voorbereiding is Key! De messen zijn weer extra geslepen. Ik raad deze training iedereen van harte aan!
+SalesTopics heeft ons weer eens met de neus op de feiten gedrukt. Rob Snoeijen windt er geen doekjes om. Waar deden we het ook al weer voor? Een direct toepasbare training met de inzichten voor de juiste inzet van sales/inkoop strategieën.
+In de succesvolle Sales Training met Rob Snoeijen heeft hij me bevestigd dat verkopen een vak is, echter met de tools van SalesTopics kan iedereen de kneepjes van het vak leren. Een aanrader voor elke organisatie!
+De dynamische en inspirerende aanpak van de SalesTopics Sales Training bracht niet alleen eyeopeners, maar heeft ons ook concrete tools en strategieën gegeven die ons salesproces aanzienlijk hebben verbeterd. Een waardevolle investering in het team van Hooghuis!
+Een goede, duidelijke training die een andere gedachte bij je los maakt. Het is goed om een spiegel voorgehouden te krijgen en de juiste tips in de praktijk te brengen. Je krijgt meer zelfvertrouwen door regie (structuur) te houden.
+De training voor Inside Sales was drie sessies opgedeeld. In de tussenliggende periodes zie je al een verandering bij de mensen om het geleerde gelijk in praktijk toe te passen. De grote winst zit hem ook in de synergie, medewerkers spreken in een zeer korte periode dezelfde taal.
+De Sales Training van SalesTopics heeft mij geholpen om een aantal vaardigheden aan te leren en tegelijk ook een aantal aangeleerde fouten in mijn eigen werk te ontdekken! Door de praktische aanpak worden de kansen op commercieel succes vergroot.
+Ik heb de SalesTopics Desk Sales training als nuttig ervaren. Vooral de structuur in klantgesprekken en de sales pitch springen naar voren. Door zelf en interactief mee te doen en te discussieren met collega’s is zeer waardevol.
+De gekozen modus om interactief te trainen vond ik erg waardevol. Ik heb iedere bijeenkomst een aantal punten op kunnen pikken, die ik direct heb geprojecteerd op ons dagelijkse werk. Met name hoe we ons extra onderscheidend kunnen maken in de tenders.
+Een logische verdeling isoleert facetten van het verkoopproces in trainbare onderdelen. SalesTopics levert op deze onderdelen direct toepasbare en praktische tools aan en de bijbehorende skills worden getraind. De trainer geeft je de kans om de manier te vinden die het meeste resultaat oplevert.
+De SalesTopics Training ‘Commerciële Communicatie voor Inside Sales’ is een hele fijne training. Met praktische voorbeelden, humor en een persoonlijke touch wordt duidelijk gemaakt hoe je net die andere benadering kunt gebruiken die leidt tot meer succes. Zeg maar, de fijne kneepjes ban het vak.
+De training ‘Commerciële Vaardigheden voor Accountmanagers’ vind ik een goede training, waarin de basis commerciële vaardigheden op een leuke, leerzame en interactieve manier wordt aangeleerd. Door telkens terugkoppeling naar de vorige trainingen blijft het geleerde goed hangen, waardoor ik feeling krijg bij de theoretische lesstof.
+Wij zijn superenthousiast over SalesTopics en trainer Rob Snoeijen! Hun interactieve trainingsmethode zorgde ervoor dat onze verkopers klantbehoeften scherp in kaart brengen, in voordelen praten, krachtig pitchen en elk gesprek afsluiten met een duidelijke afspraak. Een absolute aanrader voor iedere organisatie!
+De SalesTopics Trainingen hebben een pragmatische en begrijpelijke aanpak die ons enorm aanspreekt. Een goede balans tussen theorie en praktijk. Tips die de volgende dag meteen toepasbaar zijn.
+De trainer weet in de huid van de klant te kruipen en kan zo de salesmanager confronteren met reële tegenspraak. Hij weet ook de rollen om te draaien en geeft dan praktische handvatten waarmee de salesmanager dezelfde dag nog mee op stap kan.
+De SalesTopics opleiding, gegeven door Rob Snoeijen, is zeer interessant, gestructureerd en kent een goede opbouw. Met veel tips en tools die duidelijk inzetbaar zijn en geschikt zijn voor het uitoefenen van onze dagdagelijkse praktijk. Ik geef het een 10!
+Tijdens de persoonlijke sessies ben ik meegenomen in de diverse stappen van het salesproces. Ik vond de één op één sessies erg prettig en interessant doordat deze continu toegespitst waren op herkenbare praktijksituaties uit mijn eigen omgeving. Dit heb ik als erg leer vol ervaren
+De interactieve training van SalesTopics was zeer waardevol. Het heeft me de juiste inzichten, skills en overtuigingskracht gegeven om nóg meer te halen uit de verkoop. De interactieve trainingsmethodiek hield me scherp en betrokken en heeft direct resultaat opgeleverd!
+De trainingen van SalesTopics zijn leerzaam en interactief waardoor het eigen denkproces geactiveerd wordt. Trainer Rob Snoeijen heeft dat op een open en professionele wijze gedaan. Met blijk van kennis en vaardigheden.
+Door de informele manier van coachen en de ruimte voor interactie heb ik de SalesTopics trainingen als zeer effectief en efficiënt ervaren. Een aanbeveling voor bedrijven die op het gebied van Sales een trainingstraject in willen gaan!
