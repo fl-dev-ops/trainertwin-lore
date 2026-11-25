@@ -22,7 +22,7 @@
     },
     "linkedin-posts-2024-12-08-md-716679dceb": {
       "path": "linkedin/posts/2024-12-08-يسرنا-أن-نقدم-نحن-مركز_حلول_الاستدامة_لل.md",
-      "sha256": "2e0c9901e1af6e6f87008197a7507dfdccc340fab632ed0dc04481aae33c21f5",
+      "sha256": "f8c499800a9e86345f4cc5b891583e3f5e96cd713a9ed860f1f692c4dad00ee4",
       "basis": "whole"
     },
     "linkedin-posts-2024-12-08-md-1a82b0de0e": {
@@ -47,7 +47,7 @@
     },
     "linkedin-posts-2025-02-13-md-7b8bb88792": {
       "path": "linkedin/posts/2025-02-13-تعلم-كيف-تأثر-في-جمهورك.md",
-      "sha256": "d7766d86abbdd20429426cc50b068784acd63f7db4aab49260d1361371558d87",
+      "sha256": "16df9323b9b1219583b049b884fc0971b043bbc4f79db5c9af2d264228369268",
       "basis": "whole"
     },
     "linkedin-posts-2025-02-20-md-17646cfba8": {
@@ -72,12 +72,12 @@
     },
     "linkedin-posts-2025-03-31-md-09024e16fa": {
       "path": "linkedin/posts/2025-03-31-جعل-عيدكم-فرحة-ما-تنتهي.md",
-      "sha256": "bd2392a828bbf87b660230a87ae123fa558280c4a48f3a1c34f55c7e1ad3aac2",
+      "sha256": "5cf43085dccf67c6a1b8f34d03a6c5f7a16b5aba6aa9f7745b126ccbb7c50498",
       "basis": "whole"
     },
     "linkedin-posts-2025-03-24-md-7a889930d3": {
       "path": "linkedin/posts/2025-03-24-ودك-تتكلم-بثقة-قدام-أي.md",
-      "sha256": "318730e049fb0ad69d5c4132912daf91b4c2d944aeefdcd98bf9eef2f8f28b7a",
+      "sha256": "9d2df4dfeaaec0114ed9337af41b9e74c6193f1983e9b774be870774c485a96a",
       "basis": "whole"
     },
     "linkedin-posts-2025-04-17-md-639fb14ab0": {
@@ -177,7 +177,7 @@
     },
     "linkedin-posts-2026-02-21-md-ad6fd528f4": {
       "path": "linkedin/posts/2026-02-21-إذا-عندك-طموح-تكبر-وصوت.md",
-      "sha256": "318aa764fad0f4bcf0c75457ce9e1ad07fdbf32461ddb8e39ba3334f98e56e2b",
+      "sha256": "e9f2dd2f09644b0d8ed125b401079906c9158b27af9d13e8f73ed78c2035031b",
       "basis": "whole"
     },
     "linkedin-posts-2026-02-22-md-a01f83f4bc": {
@@ -187,7 +187,7 @@
     },
     "linkedin-posts-2026-01-27-md-54451b2cd5": {
       "path": "linkedin/posts/2026-01-27-نجاح-أي-شركة-ما-يبدأ.md",
-      "sha256": "755c99c09256f4e7a6884e81cd1dbf359a53babfdebd466e1e63a2b2b9625916",
+      "sha256": "2d794335256a25d6ab8a6133b5f11bc9d53bda6a82a9693d3244cec7b574ceb9",
       "basis": "whole"
     },
     "linkedin-posts-2026-02-24-md-a6ae95d1d2": {
@@ -197,7 +197,7 @@
     },
     "linkedin-posts-2026-02-22-md-48987abbb5": {
       "path": "linkedin/posts/2026-02-22-إذا-عندك-طموح-تكبر-وصوت.md",
-      "sha256": "4d152b4a39b1e7a9cff1de796f2986726a74702ff00e457eedac0ea7d7e6fe6b",
+      "sha256": "42625b45b09ae2d54f65bb9b2fc01d984acba9f25b66d35ed7df5e22a2ebad3f",
       "basis": "whole"
     },
     "linkedin-posts-2026-02-28-md-bd1345580a": {
@@ -237,7 +237,7 @@
     },
     "linkedin-posts-2026-02-25-md-49dba91c63": {
       "path": "linkedin/posts/2026-02-25-مو-كل-تحدي-في-حياتك.md",
-      "sha256": "48b2ba9b817be68df086a546c01d75e81d1f31a71662b39f00ff0f3c52b01ad3",
+      "sha256": "5be36d6cb13231494317e26c69fd6d4e3bf336dddce4936c378a293b04b58216",
       "basis": "whole"
     },
     "linkedin-posts-2026-08-30-md-7cb86b3d68": {
@@ -262,7 +262,7 @@
     },
     "linkedin-posts-2026-10-11-md-1d5130aee6": {
       "path": "linkedin/posts/2026-10-11-حين-يصاب-الوطن-ما-يمس.md",
-      "sha256": "4ec4c68158c67a053f131d39e5cda59779e629bed7611202d3c37ccc81f77563",
+      "sha256": "33de1546ecc9b8d1454a8242be8f1d8ed858031ad25b532078a40fb6ad64b56b",
       "basis": "whole"
     },
     "website-elstedamasolutions-com-blog-md-57e1d8bed3": {
@@ -544,6 +544,181 @@
       "path": "website/elstedamasolutions-com-product-d9-85-d8-a7-d8-b3-d8-aa-d8-b1-d9-83-d9-84-d8-a7-d8-b3.md",
       "sha256": "0eb6f1c0dd57e2d3dff43c79a8d98e294533f3412e74fe4281640db3926b2b12",
       "basis": "list"
+    },
+    "linkedin-posts-2021-08-24-hrchallenges-recuitment-employeeengagmen-md-947ed5327a": {
+      "path": "linkedin/posts/2021-08-24-hrchallenges-recuitment-employeeengagmen.md",
+      "sha256": "2f7b2194b6df8ad66bafb6a6977a830b9b2438a7fae3933d7d7ed05da0c86af4",
+      "basis": "whole"
+    },
+    "linkedin-posts-2021-07-19-md-fc626052fa": {
+      "path": "linkedin/posts/2021-07-19-في-يوم_عرفة-أسأل-الله-العلي.md",
+      "sha256": "7110a818902cf091cfda67f2844066161f8d16359dd2478d2e3096036e797684",
+      "basis": "whole"
+    },
+    "linkedin-posts-2021-07-20-eidmubarak-hajj-hajj2021-md-81abedd896": {
+      "path": "linkedin/posts/2021-07-20-eidmubarak-hajj-hajj2021.md",
+      "sha256": "03ac5198bc3df9d460e62dad89cc17260af1b70f782a17cdecdc242fad866f91",
+      "basis": "whole"
+    },
+    "linkedin-posts-2021-08-10-i-would-like-to-thank-md-23fe3599cf": {
+      "path": "linkedin/posts/2021-08-10-i-would-like-to-thank.md",
+      "sha256": "c68f99d4be18bce9d051fa9c3366ea8f87019a0b8d53292de2d275c321b4de89",
+      "basis": "whole"
+    },
+    "linkedin-posts-2021-07-02-md-a5e3a5909b": {
+      "path": "linkedin/posts/2021-07-02-في-كثير-من-الأحيان-نظن.md",
+      "sha256": "7f3bb7d3fe31a3dc156e0d79fbd0d476d6703b4690991b703ce949070043a985",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-08-18-6965954983267594240-md-f8c71b0a7f": {
+      "path": "linkedin/posts/2022-08-18-6965954983267594240.md",
+      "sha256": "1d2f367f60f75ac794d976cf33b354080f8b2e19b5dc99d0bec910c16bbe4dda",
+      "basis": "whole"
+    },
+    "linkedin-posts-2020-07-09-md-e23d4fdfd1": {
+      "path": "linkedin/posts/2020-07-09-في-ظل-جائحة-كورونا-أصبح.md",
+      "sha256": "4a28463a965f0cebb1a69a6475c5242c87a204f15c7e230fecf6d428a7c5c3dd",
+      "basis": "whole"
+    },
+    "linkedin-posts-2021-07-11-md-c8b2a45717": {
+      "path": "linkedin/posts/2021-07-11-قرأت-منذ-مدة-مقال-عنوانه.md",
+      "sha256": "a353bf817ca89676a4864e5015c5fa426bcd0daccdaea2143ebeed85b9cb046e",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-09-04-6972164257442336768-md-149ef44d50": {
+      "path": "linkedin/posts/2022-09-04-6972164257442336768.md",
+      "sha256": "dd31e8294533385d8d7e42a67b3cdb1bf98364dd0a041577efe1dbfd947728d6",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-09-23-md-b4f2e508be": {
+      "path": "linkedin/posts/2022-09-23-كل-عام-ووطني-في-أعلى.md",
+      "sha256": "33ae87b1a54f0bb2869adcfdb2eac54b6bf9ae0bb1dfb35bf3c77bf467f4aeeb",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-09-11-job-motivation-hrcommunity-md-8c59c172ae": {
+      "path": "linkedin/posts/2022-09-11-job-motivation-hrcommunity.md",
+      "sha256": "cb12536b586a581f98c69b60cb8edd8fb8db1b90804275fe2701b4a63991f043",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-09-30-6981597119010754561-md-a7c25b1a6d": {
+      "path": "linkedin/posts/2022-09-30-6981597119010754561.md",
+      "sha256": "08f4bdd31ba3e688e984d413a842d745e1e08b8439a66edc2cc6e6bfa117367a",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-09-13-peopleandculture-engagement-investing-hr-md-29a22c64da": {
+      "path": "linkedin/posts/2022-09-13-peopleandculture-engagement-investing-hr.md",
+      "sha256": "c4fc3c252e39e208653888dd6e23201c678ce6c18cf4816a08242d5fb1ccb1a8",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-01-20-i-just-registered-for-my-md-6b848e2523": {
+      "path": "linkedin/posts/2023-01-20-i-just-registered-for-my.md",
+      "sha256": "e5f081b864f2f4942e7a674be8e1277ff950f7af740059288f00826d8bc2c4ca",
+      "basis": "whole"
+    },
+    "linkedin-posts-2022-08-18-md-1303dc70b9": {
+      "path": "linkedin/posts/2022-08-18-من-كم-يوم-سمعت-شخص.md",
+      "sha256": "1280ac71755c4cdc438dd20b6d1aeff9158764678e722a28a8232e1d080274c9",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-11-07-md-d836d56c84": {
+      "path": "linkedin/posts/2023-11-07-اكتشف-فنون-الإلقاء-والعرض-مع.md",
+      "sha256": "692e38d2136892e74542f28ec30bb91d8be52c26426ce80f2615a21f5ce7ec8a",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-11-08-md-9146410672": {
+      "path": "linkedin/posts/2023-11-08-اكتشف-فنون-الإلقاء-والعرض-مع.md",
+      "sha256": "fb354cba27021d6694c4d66eebaa97f65f291fa3e1b721e262613d032b3c7f64",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-08-15-yasser-al-rajeh-is-hiring-md-844b346ce5": {
+      "path": "linkedin/posts/2023-08-15-yasser-al-rajeh-is-hiring.md",
+      "sha256": "7ec393c0501914974d4ca600fabeea3ce8ab58533fa2837b01d09889eb43d937",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-11-12-md-270c3b14a0": {
+      "path": "linkedin/posts/2023-11-12-قل-وداعا-للعروض-التقديمية-المملة.md",
+      "sha256": "90acc328a05f6908e195d61e81aad2d846295de200b9c619c7d8f0da17e3bb9b",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-12-31-7147096635469201408-md-b519bb85b4": {
+      "path": "linkedin/posts/2023-12-31-7147096635469201408.md",
+      "sha256": "9f3030a23ffaa288b39d5f52523e47fd3f91158995a8afe562acc2bbddd8161e",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-09-23-md-1bdc15c629": {
+      "path": "linkedin/posts/2023-09-23-هاذي-بصمتنا-باللون-الأخضر-لا.md",
+      "sha256": "f32300fcff142f4e9cb667456dad3759ed5b573d911ccc929dc46eb6db6e6a89",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-01-22-join-us-on-a-sustainable-md-f74109e541": {
+      "path": "linkedin/posts/2024-01-22-join-us-on-a-sustainable.md",
+      "sha256": "770172a810badfc88a0de91d34f79253664639420f36cacd2cbd2b02f7d2fa65",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-02-22-md-c3a04d9f60": {
+      "path": "linkedin/posts/2024-02-22-يوم-استثنائي-لوطن-استثنائي-اننا.md",
+      "sha256": "f9b2d684a36df874e8ea393911b107da587245908ffead2f5b1ad8d72c1af9f1",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-02-12-md-ed1eb0ad14": {
+      "path": "linkedin/posts/2024-02-12-أصدقائنا-الأعزاء-وداعمي-التعلم-مدى.md",
+      "sha256": "6a9b322e288fdb397c2e0a16707a6d4ba94aaa141064c5422b194f6082659f98",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-03-04-i-just-registered-to-join-md-1b6d35ab5a": {
+      "path": "linkedin/posts/2024-03-04-i-just-registered-to-join.md",
+      "sha256": "eab5635d1d89070a8c3b5d74485266cec3f0a6558ad562344b61495604c0efc6",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-01-02-603648-md-70af7e751d": {
+      "path": "linkedin/posts/2024-01-02-يسعدنا-أن-نشارككم-أخبار-نجاح-603648.md",
+      "sha256": "31e3c433dc22e812a9c11df0b6c8a830b21375f18d5a8b7f66883b3ddf247850",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-03-11-md-d8b3292e5a": {
+      "path": "linkedin/posts/2024-03-11-هذه-تهنئة-رسول-الله-صلى.md",
+      "sha256": "cb3d13afb98780f54fe7f18e96fad5287d2368a1a04c27080b7f6a94f888e216",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-04-09-md-a14bba102f": {
+      "path": "linkedin/posts/2024-04-09-تقبل-الله-منا-ومنكم-صالح.md",
+      "sha256": "5e60b89501b0691f9be2145126c6df317bd6107455e7631a405f86b4d285d1b5",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-09-23-md-62a58967cf": {
+      "path": "linkedin/posts/2024-09-23-دامت-المملكة-رمزا-للقوة-والتقدم.md",
+      "sha256": "d4868a995c89996cba1026479d72bbc9e64b6cfd299ef9896c3a6c743467d6b2",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-10-08-thank-you-so-much-mrmosa-md-7ab183573e": {
+      "path": "linkedin/posts/2024-10-08-thank-you-so-much-mrmosa.md",
+      "sha256": "2a9898c64ea1a6a901f93e238a24f9b0f66fc3b98895589e4fd1002db73beca6",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-10-30-were-hiring-a-new-job-md-98ca7f1093": {
+      "path": "linkedin/posts/2024-10-30-were-hiring-a-new-job.md",
+      "sha256": "d3057c84adfaddc04383a6a56cfadb46b8b3a2f8682382b423c1823c7c450ca9",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-10-10-md-b1df1d04cc": {
+      "path": "linkedin/posts/2024-10-10-اليوم-هو-اليوم_العالمي_-للصحة-النفسية.md",
+      "sha256": "899bff5588517d2c5c9f6510dc90b569a13252d9cd0198e5886b6c451299f60a",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-10-21-md-daee9be160": {
+      "path": "linkedin/posts/2024-10-21-مدربين-محترفين-نجاح-مضمون-كل.md",
+      "sha256": "c966e2a8e44d37cc4bdc57cece921925af0479ae729caf42583609a831f65af6",
+      "basis": "whole"
+    },
+    "linkedin-posts-2024-10-28-md-fa13405216": {
+      "path": "linkedin/posts/2024-10-28-تطوير-مهاراتك-في-التسويق-والبيع.md",
+      "sha256": "5e8886ba23b7031e7c39fcfae2339d7855dcdebaf5f25138421eb47e3f862afc",
+      "basis": "whole"
+    },
+    "linkedin-posts-2023-09-24-7111683906793275392-md-91883263bd": {
+      "path": "linkedin/posts/2023-09-24-7111683906793275392.md",
+      "sha256": "43ae6911861913d5a91710c34bb84a140b1fd73efff406893719f49c1c312a21",
+      "basis": "whole"
     }
   },
   "items": [
@@ -636,29 +811,6 @@
       "next": null
     },
     {
-      "title": "شكر وتقدير للمشاركين في دورة مهارات العرض والإلقاء (Tick & Talk Master Class)",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "presentation skills"
-        },
-        {
-          "facet": "activity",
-          "label": "training workshop"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 15
-      },
-      "quote": "يسرنا أن نقدم نحن #مركز_حلول_الاستدامة_للتدريب_والاستشارات_المهنية خالص تقديرنا وامتناننا لعملائنا المتميزين على مشاركتهم الفعالة في #دورة_مهارات_العرض_والإلقاء (Tick & Talk Master Class) . لقد كان لنا الشرف بانضمامكم إلينا، ونثمن حرصكم على تطوير مهاراتكم المهنية. نشكر لكم ثقتكم بنا كشريك للتدريب، ونتطلع لرؤيتكم تواصلون النجاح والانضمام إلينا في فرص تدريبية قادمة! Ali AlKhater،MBAHamed Alzeyadi حامد الزياديSarah Abdulrahman Bin Hulayyil",
-      "item_id": "linkedin-posts-2024-12-08-md-716679dceb:0010-0015",
-      "source_id": "linkedin-posts-2024-12-08-md-716679dceb",
-      "path": "linkedin/posts/2024-12-08-يسرنا-أن-نقدم-نحن-مركز_حلول_الاستدامة_لل.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "كيف تجعل موظفينك يزودون دخلهم بنفسهم؟! (How to make your employees increase their own income)",
       "tags": [
         {
@@ -743,29 +895,6 @@
       "item_id": "linkedin-posts-2025-01-29-thank-you-yazeed-alshehri-for-md-b234f9c51c:0009-0017",
       "source_id": "linkedin-posts-2025-01-29-thank-you-yazeed-alshehri-for-md-b234f9c51c",
       "path": "linkedin/posts/2025-01-29-thank-you-yazeed-alshehri-for.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "مهارات العروض التقديمية وفن الإلقاء",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "فن الإلقاء والعروض التقديمية"
-        },
-        {
-          "facet": "activity",
-          "label": "masterclass training"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 10
-      },
-      "quote": "تعلم كيف تأثر في جمهورك مع برنامج الماستر كلاس \"مهارات العروض التقديمية وفن الإلقاء\" المقدمة من مركز حلول الاستدامة سجل الآن! واحصل على خصم يوم التأسيس 20% و راح نرسل لك كل التفاصيل",
-      "item_id": "linkedin-posts-2025-02-13-md-7b8bb88792:0010-0010",
-      "source_id": "linkedin-posts-2025-02-13-md-7b8bb88792",
-      "path": "linkedin/posts/2025-02-13-تعلم-كيف-تأثر-في-جمهورك.md",
       "prev": null,
       "next": null
     },
@@ -858,52 +987,6 @@
       "item_id": "linkedin-posts-2025-04-14-md-0b631baafe:0010-0016",
       "source_id": "linkedin-posts-2025-04-14-md-0b631baafe",
       "path": "linkedin/posts/2025-04-14-أطلقوا-العنان-لإمكانياتكم-مع-مركز_حلول_ا.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "Eid al-Fitr Greetings and Wishes",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "Eid greetings"
-        },
-        {
-          "facet": "situation",
-          "label": "Eid celebration"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 11
-      },
-      "quote": "جعل عيدكم فرحة ما تنتهي، وعسى أيامكم كلها عيد! تقبل الله منا ومنكم صالح الأعمال. 🌙❤️ #عيدمبارك",
-      "item_id": "linkedin-posts-2025-03-31-md-09024e16fa:0010-0011",
-      "source_id": "linkedin-posts-2025-03-31-md-09024e16fa",
-      "path": "linkedin/posts/2025-03-31-جعل-عيدكم-فرحة-ما-تنتهي.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "ماستر كلاس فن الإلقاء والتحدث بثقة أمام الجمهور",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "public speaking"
-        },
-        {
-          "facet": "activity",
-          "label": "masterclass registration"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 12
-      },
-      "quote": "ودّك تتكلم بثقة قدام أي جمهور؟ سجّل الحين في الماستر كلاس وخلك مميز بإلقائك! خصم حصري لأول 10 مشتركين فقط!🏆 سارع قبل نفاد المقاعد!",
-      "item_id": "linkedin-posts-2025-03-24-md-7a889930d3:0010-0012",
-      "source_id": "linkedin-posts-2025-03-24-md-7a889930d3",
-      "path": "linkedin/posts/2025-03-24-ودك-تتكلم-بثقة-قدام-أي.md",
       "prev": null,
       "next": null
     },
@@ -1345,29 +1428,6 @@
       "next": null
     },
     {
-      "title": "الانضمام إلى مجتمع المتحدث الملهم وتطوير مهارات الإلقاء والتأثير",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "public speaking skills"
-        },
-        {
-          "facet": "activity",
-          "label": "community workshop"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 21
-      },
-      "quote": "إذا عندك طموح تكبر، وصوت يستاهل يُسمع، وقصة تبي توصلها لكل المملكة… انضم لنا وكن جزء من مجتمع يصنع أثر، يطور مهاراتك في الإلقاء، الحضور، والتأثير الحقيقي. هنا تبدأ رحلتك كمتحدث ملهم ✨ 📅 28 فبراير 📍 المملكة العربية السعودية",
-      "item_id": "linkedin-posts-2026-02-21-md-ad6fd528f4:0010-0021",
-      "source_id": "linkedin-posts-2026-02-21-md-ad6fd528f4",
-      "path": "linkedin/posts/2026-02-21-إذا-عندك-طموح-تكبر-وصوت.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "تهنئة مركز حلول الاستدامة بمناسبة يوم التأسيس السعودي",
       "tags": [
         {
@@ -1391,25 +1451,6 @@
       "next": null
     },
     {
-      "title": "نجاح أي شركة يبدأ من الناس والاستثمار في الفريق",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "تطوير القيادة وبيئة العمل"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 30
-      },
-      "quote": "نجاح أي شركة ما يبدأ من الأنظمة… يبدأ من الناس. كثير من الشركات تستثمر في التقنية، الأدوات، والإجراءات، لكن تتجاهل العامل الأهم: الفريق نفسه. ضعف التواصل، سوء إدارة الضغط، وقلة مهارات القيادة هي أسباب خفية تستهلك الأداء وتؤثر على النتائج، حتى في أقوى البيئات تنظيمًا. في استدامة نعمل مع الشركات على: تطوير مهارات القيادة تعزيز التعاون بين الفرق إدارة الضغوط والتحديات اليومية بوعي بناء بيئة عمل صحية ترفع الإنتاجية وتحافظ على الكفاءات 📈 النتيجة؟ فرق أكثر انسجامًا قرارات أفضل وأداء مستدام على المدى ا",
-      "item_id": "linkedin-posts-2026-01-27-md-54451b2cd5:0010-0030",
-      "source_id": "linkedin-posts-2026-01-27-md-54451b2cd5",
-      "path": "linkedin/posts/2026-01-27-نجاح-أي-شركة-ما-يبدأ.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "التحكم في ردود الأفعال وتطوير مهارات العرض والتواصل تحت الضغط",
       "tags": [
         {
@@ -1429,29 +1470,6 @@
       "item_id": "linkedin-posts-2026-02-24-md-a6ae95d1d2:0010-0019",
       "source_id": "linkedin-posts-2026-02-24-md-a6ae95d1d2",
       "path": "linkedin/posts/2026-02-24-تراني-صايم-مو-عذر-لرد.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "رحلتك كمتحدث ملهم وتطوير مهارات الإلقاء والتأثير",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "public speaking skills"
-        },
-        {
-          "facet": "activity",
-          "label": "speaker training community"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 21
-      },
-      "quote": "إذا عندك طموح تكبر، وصوت يستاهل يُسمع، وقصة تبي توصلها لكل المملكة… انضم لنا وكن جزء من مجتمع يصنع أثر، يطور مهاراتك في الإلقاء، الحضور، والتأثير الحقيقي. هنا تبدأ رحلتك كمتحدث ملهم ✨ 📅 28 فبراير 📍 المملكة العربية السعودية",
-      "item_id": "linkedin-posts-2026-02-22-md-48987abbb5:0010-0021",
-      "source_id": "linkedin-posts-2026-02-22-md-48987abbb5",
-      "path": "linkedin/posts/2026-02-22-إذا-عندك-طموح-تكبر-وصوت.md",
       "prev": null,
       "next": null
     },
@@ -1613,29 +1631,6 @@
       "next": null
     },
     {
-      "title": "دوره القياده بالذكاء العاطفي مع كوتش وليد",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "emotional intelligence leadership"
-        },
-        {
-          "facet": "activity",
-          "label": "training course promotion"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 21
-      },
-      "quote": "مو كل تحدي في حياتك سببه الظروف… أحيانًا الشفرة داخلك أنت 🔐 لما تفهم ذاتك، تفهم قراراتك، تفهم تواصلك، وتبدأ تبني وعي مستدام في حياتك وبيئة عملك. دوره القياده بالذكاء العاطفي مع كوتش وليد ابدأ رحلتك اليوم. 🔗 احجز الآن عبر الموقع الإلكتروني",
-      "item_id": "linkedin-posts-2026-02-25-md-49dba91c63:0010-0021",
-      "source_id": "linkedin-posts-2026-02-25-md-49dba91c63",
-      "path": "linkedin/posts/2026-02-25-مو-كل-تحدي-في-حياتك.md",
-      "prev": null,
-      "next": null
-    },
-    {
       "title": "تصميم البرامج التدريبية بالبدء من المشكلة بدلاً من اسم الدورة",
       "tags": [
         {
@@ -1724,29 +1719,6 @@
       "item_id": "linkedin-posts-2026-09-23-md-05cefba008:0010-0016",
       "source_id": "linkedin-posts-2026-09-23-md-05cefba008",
       "path": "linkedin/posts/2026-09-23-في-اليوم-الوطني-لا-أرى.md",
-      "prev": null,
-      "next": null
-    },
-    {
-      "title": "حين يُصاب الوطن: تعزية وتضامن بعد حادثة مطار الملك خالد",
-      "tags": [
-        {
-          "facet": "topic",
-          "label": "national solidarity"
-        },
-        {
-          "facet": "situation",
-          "label": "attack on King Khalid Airport"
-        }
-      ],
-      "span": {
-        "start_line": 10,
-        "end_line": 18
-      },
-      "quote": "حين يُصاب الوطن… ما يمس وطننا يمس قلوبنا جميعاً. والاعتداء الذي استهدف مطار الملك خالد ترك في نفوسنا ألماً وغصّة، لما خلّفه من ضحايا ومصابين. أتقدم بخالص العزاء والمواساة لأسر الضحايا، وأسأل الله أن يتغمدهم بواسع رحمته، وأن يمنّ على المصابين بالشفاء العاجل. وفي وسط هذا الألم، يبقى حب الوطن حاضراً، ويظل انتماؤنا إليه أقوى من كل ظرف. اللهم احفظ بلادنا، وأدم عليها أمنها واستقرارها، واحفظ قيادتها وشعبها من كل سوء.",
-      "item_id": "linkedin-posts-2026-10-11-md-1d5130aee6:0010-0018",
-      "source_id": "linkedin-posts-2026-10-11-md-1d5130aee6",
-      "path": "linkedin/posts/2026-10-11-حين-يصاب-الوطن-ما-يمس.md",
       "prev": null,
       "next": null
     },
@@ -4081,6 +4053,1010 @@
       "source_id": "website-elstedamasolutions-com-product-d9-85-d8-a7-d8-b3-d8-aa-d8-b1-d9-83-d9-84-d8-a-a64ffd2e19",
       "path": "website/elstedamasolutions-com-product-d9-85-d8-a7-d8-b3-d8-aa-d8-b1-d9-83-d9-84-d8-a7-d8-b3.md",
       "prev": "website-elstedamasolutions-com-product-d9-85-d8-a7-d8-b3-d8-aa-d8-b1-d9-83-d9-84-d8-a-a64ffd2e19:0030-0030",
+      "next": null
+    },
+    {
+      "title": "HR consulting and recruitment challenges",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "recruitment challenges"
+        },
+        {
+          "facet": "topic",
+          "label": "employee engagement"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 9
+      },
+      "quote": "--- id: '6835908063149510656' date: '2021-08-24T12:18:07.285Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_hrchallenges-recuitment-employeeengagment-activity-6835908063149510656--f4T likes: 1 comments: 0 --- #hrchallenges #recuitment #employeeengagment #humanresourcemanagement #cvwriting #cvreview #hrconsulting #innovation",
+      "item_id": "linkedin-posts-2021-08-24-hrchallenges-recuitment-employeeengagmen-md-947ed5327a:0001-0009",
+      "source_id": "linkedin-posts-2021-08-24-hrchallenges-recuitment-employeeengagmen-md-947ed5327a",
+      "path": "linkedin/posts/2021-08-24-hrchallenges-recuitment-employeeengagmen.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "دعاء يوم عرفة بالرحمة والمغفرة والعتق من النار",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "يوم عرفة"
+        },
+        {
+          "facet": "activity",
+          "label": "دعاء"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 10
+      },
+      "quote": "في # يوم_عرفة أسأل الله العلي العظيم أن يعمكم انتم ومن تحبون برحمته ومغفرته في هذا اليوم العظيم ، يوم المغفرة والعتق من النار .. اللهم آمين",
+      "item_id": "linkedin-posts-2021-07-19-md-fc626052fa:0010-0010",
+      "source_id": "linkedin-posts-2021-07-19-md-fc626052fa",
+      "path": "linkedin/posts/2021-07-19-في-يوم_عرفة-أسأل-الله-العلي.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Eid Mubarak and Hajj 2021 Wishes",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Eid Mubarak"
+        },
+        {
+          "facet": "topic",
+          "label": "Hajj"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 10
+      },
+      "quote": "--- id: '6823194836540157952' date: '2021-07-20T10:20:17.861Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_eidmubarak-hajj-hajj2021-activity-6823194836540157952-LDyJ likes: 4 comments: 0 videoUrl: https://dms.licdn.com/playlist/vid/v2/C4E05AQGlpN5vBgmL5w/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1626776416544?e=1796227200&v=beta&t=eXiYh-ThuSXCclB52L07ntdv9wym50JpcgPyEsXtXZY --- #eidmubarak #hajj #hajj2021",
+      "item_id": "linkedin-posts-2021-07-20-eidmubarak-hajj-hajj2021-md-81abedd896:0001-0010",
+      "source_id": "linkedin-posts-2021-07-20-eidmubarak-hajj-hajj2021-md-81abedd896",
+      "path": "linkedin/posts/2021-07-20-eidmubarak-hajj-hajj2021.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Partnering with Cazar to represent them in Saudi Arabia",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "business partnership"
+        },
+        {
+          "facet": "activity",
+          "label": "partnership announcement"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "I would like to thank #Cazar for choosing me to represent them in #saudiaarabia and it is an honor to work with them & with this kind of partnership will have together an incredible impacts on our business success Insha'Allah.",
+      "item_id": "linkedin-posts-2021-08-10-i-would-like-to-thank-md-23fe3599cf:0009-0009",
+      "source_id": "linkedin-posts-2021-08-10-i-would-like-to-thank-md-23fe3599cf",
+      "path": "linkedin/posts/2021-08-10-i-would-like-to-thank.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "مشروع المرشد الإفتراضي",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "virtual mentor project launch"
+        },
+        {
+          "facet": "activity",
+          "label": "project announcement"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 12
+      },
+      "quote": "!! في كثير من الأحيان نظن أنها نهايات ... ودائماً ما يخيب ظننا وتكون بدايايات جديدة ولله الحمد تم توقيعي لإتفاقية تنفيذ مشروع جديد ومهم بالنسبة لي كنت أحلم بتحقيقه منذ مدة ليست قصيرة\" \"مشروع المرشد الإفتراضي\" ولله الحمد تم وسوف يرى النور قريباً بإذن الله .....دعواتكم لي بالتوفيق We are excited to announce the launch of our new project! #newproject",
+      "item_id": "linkedin-posts-2021-07-02-md-a5e3a5909b:0009-0012",
+      "source_id": "linkedin-posts-2021-07-02-md-a5e3a5909b",
+      "path": "linkedin/posts/2021-07-02-في-كثير-من-الأحيان-نظن.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Interviewing, changing roles, and selling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "interviewing"
+        },
+        {
+          "facet": "topic",
+          "label": "career change"
+        },
+        {
+          "facet": "topic",
+          "label": "selling"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 7
+      },
+      "quote": "--- id: '6965954983267594240' date: '2022-08-18T08:58:09.196Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_interview-change-selling-activity-6965954983267594240-VB8e likes: 0 comments: 0 ---",
+      "item_id": "linkedin-posts-2022-08-18-6965954983267594240-md-f8c71b0a7f:0001-0007",
+      "source_id": "linkedin-posts-2022-08-18-6965954983267594240-md-f8c71b0a7f",
+      "path": "linkedin/posts/2022-08-18-6965954983267594240.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "كيف تبدأ عملاً جديداً عن بُعد؟",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "العمل عن بعد"
+        },
+        {
+          "facet": "situation",
+          "label": "بدء عمل جديد في ظل جائحة كورونا"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 13
+      },
+      "quote": "title: هارفارد بزنس ريفيو - كيف تبدأ عملاً جديداً عن بُعد؟ subtitle: hbrarabic.com link: https://hbrarabic.com/كيف-تبدأ-عملاً-جديداً-عن-بُعد؟ --- في ظل جائحة كورونا أصبح \"العمل عن بعد\" أحد أهم الخيارات الرئيسية سواء للشركات أو للأفراد, وللمهتمين,فإن هذا المقال سوف يفي بالغرض..والذي يتضمن بعض الخطوات المهمة للبدء في هذا التوجه المليئ بالتحديات! ! #العمل-عن بعد",
+      "item_id": "linkedin-posts-2020-07-09-md-e23d4fdfd1:0008-0013",
+      "source_id": "linkedin-posts-2020-07-09-md-e23d4fdfd1",
+      "path": "linkedin/posts/2020-07-09-في-ظل-جائحة-كورونا-أصبح.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "عامل النظافة والبيض المكسور: أهمية وضوح الرؤية المشتركة والتواصل الفعال في نجاح المنظمات",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "organizational vision and purpose"
+        },
+        {
+          "facet": "topic",
+          "label": "employee motivation and alignment"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 23
+      },
+      "quote": "قرأت منذ مدة مقال عنوانه \" عامل النظافة والبيض المكسور\" ولا أخفيكم تأثري بالقصة وبطريقة تناول كاتب المقال لها والتي تختصر لنا كل عوامل نجاح اي منظمة بداية من التواصل الفعال مابين القادة و أصغر موظفيها , مروراً بوضوح الرؤية والأهداف لجميع الموظفين. والقصة بإختصار كالآتي: وأنه خلال فترة الحرب الباردة والتنافس الشديد مابين الإتحاد السوفييني والولايات المتحدة في ذلك الوقت أعلن الرئيس الأمريكي جون كيندي خطته الشهيرة لجعل الولايات المتحدة الأمريكية الدولة الرائدة في صناعة الفضاء عالمياً وبعد فترة زار ",
+      "item_id": "linkedin-posts-2021-07-11-md-c8b2a45717:0009-0023",
+      "source_id": "linkedin-posts-2021-07-11-md-c8b2a45717",
+      "path": "linkedin/posts/2021-07-11-قرأت-منذ-مدة-مقال-عنوانه.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "LinkedIn post activity update",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "social media update"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 8
+      },
+      "quote": "--- id: '6972164257442336768' date: '2022-09-04T12:11:35.522Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_activity-6972164257442336768-53o- likes: 2 comments: 0 images_count: 1 ---",
+      "item_id": "linkedin-posts-2022-09-04-6972164257442336768-md-149ef44d50:0001-0008",
+      "source_id": "linkedin-posts-2022-09-04-6972164257442336768-md-149ef44d50",
+      "path": "linkedin/posts/2022-09-04-6972164257442336768.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "تهنئة بمناسبة اليوم الوطني السعودي",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Saudi National Day"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 11
+      },
+      "quote": "كل عام ووطني في أعلى القمم.... #اليوم الوطني السعودي",
+      "item_id": "linkedin-posts-2022-09-23-md-b4f2e508be:0010-0011",
+      "source_id": "linkedin-posts-2022-09-23-md-b4f2e508be",
+      "path": "linkedin/posts/2022-09-23-كل-عام-ووطني-في-أعلى.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Job Motivation and HR Community Update",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "job motivation"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 10
+      },
+      "quote": "--- id: '6974682571553026048' date: '2022-09-11T10:58:28.394Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_job-motivation-hrcommunity-activity-6974682571553026048-2o5v likes: 6 comments: 0 images_count: 1 --- #job #motivation #hrcommunity",
+      "item_id": "linkedin-posts-2022-09-11-job-motivation-hrcommunity-md-8c59c172ae:0001-0010",
+      "source_id": "linkedin-posts-2022-09-11-job-motivation-hrcommunity-md-8c59c172ae",
+      "path": "linkedin/posts/2022-09-11-job-motivation-hrcommunity.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Stay Liquid Announcement",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "liquidity management"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 7
+      },
+      "quote": "--- id: '6981597119010754561' date: '2022-09-30T12:54:24.974Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_drabrmoetazabrsoubjaki-stayabrliquid-activity-6981597119010754561-X-9L likes: 3 comments: 0 ---",
+      "item_id": "linkedin-posts-2022-09-30-6981597119010754561-md-a7c25b1a6d:0001-0007",
+      "source_id": "linkedin-posts-2022-09-30-6981597119010754561-md-a7c25b1a6d",
+      "path": "linkedin/posts/2022-09-30-6981597119010754561.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "People and Culture Engagement and Investing",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "employee engagement"
+        },
+        {
+          "facet": "topic",
+          "label": "people and culture"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 10
+      },
+      "quote": "--- id: '6975357466796527616' date: '2022-09-13T07:40:15.959Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_peopleandculture-engagement-investing-activity-6975357466796527616-9yXV likes: 5 comments: 0 images_count: 1 --- #peopleandculture #engagement #investing #hrcommunity",
+      "item_id": "linkedin-posts-2022-09-13-peopleandculture-engagement-investing-hr-md-29a22c64da:0001-0010",
+      "source_id": "linkedin-posts-2022-09-13-peopleandculture-engagement-investing-hr-md-29a22c64da",
+      "path": "linkedin/posts/2022-09-13-peopleandculture-engagement-investing-hr.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Registering for LEAP 2023",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "LEAP 2023 attendance"
+        },
+        {
+          "facet": "activity",
+          "label": "conference registration"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 13
+      },
+      "quote": "--- id: '7022252932293177344' date: '2023-01-20T17:26:06.209Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_leap-2023-activity-7022252932293177344-j7jS likes: 3 comments: 0 article: title: LEAP 2023 subtitle: app.ingo.me link: https://app.ingo.me/q/q7nmd --- I just registered for my visitor's pass to attend #LEAP23 on 6-9 February 2023 at Riyadh Front Expo Centre, Saudi Arabia. Join me! https://lnkd.in/d2YvJq72 LEAPandInnovate",
+      "item_id": "linkedin-posts-2023-01-20-i-just-registered-for-my-md-6b848e2523:0001-0013",
+      "source_id": "linkedin-posts-2023-01-20-i-just-registered-for-my-md-6b848e2523",
+      "path": "linkedin/posts/2023-01-20-i-just-registered-for-my.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The Art of Selling in Daily Life",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "art of selling"
+        },
+        {
+          "facet": "situation",
+          "label": "everyday persuasion"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 22
+      },
+      "quote": "من كم يوم سمعت شخص يقول ان اهم مهارة في الوقت الحالي هي مهارة فن البيع ..... ولو اتوجدت هذه المهارة عندك...فأنت تقدر تبيع أي شي لأي احد بما في ذلك أفكارك, وانه في حياتنا اليومية نحن نمارس هذه المهارة بس من غير ما ندركها مثلا: لما تقنع اصحابك يغيروا هذا المطعم ويروحوا مطعم ثاني !! انت هنا بتمارس مهارة فن البيع.... لما تروح تخطب عروسة مثلاً !! انت هنا بتمارس مهارة فن البيع ..... لما تروح تقدم على مقابلة !! انت هنا أيضاً بتمارس مهارة فن البيع... هل تتفقوا مع هذا الكلام ؟! ولا عندكم وجهة نظر ثانية !",
+      "item_id": "linkedin-posts-2022-08-18-md-1303dc70b9:0009-0022",
+      "source_id": "linkedin-posts-2022-08-18-md-1303dc70b9",
+      "path": "linkedin/posts/2022-08-18-من-كم-يوم-سمعت-شخص.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "برنامج تيك اند توك ماستر كلاس لفنون الإلقاء والعرض",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "presentation skills"
+        },
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "training course"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 20
+      },
+      "quote": "اكتشف فنون الإلقاء والعرض مع مركز حلول الإستدامة \"برنامج تيك اند توك ماستر كلاس\" البرنامج الأقوى في الشرق الأوسط ! هل تبحث عن فرصة لتطوير مهاراتك في الإلقاء والعرض هل ترغب في أن تصبح متحدثًا متميزًا ومؤثرًا؟ نحن هنا لنساعدك على تحقيق ذلك. 🗓️ الدورة 1: من 18 نوفمبر إلى 5 ديسمبر 2023 🎯 كن جزءًا من هذه الفرصة! احجز مقعدك الآن واسطع في عالم الإلقاء والعرض. 🌐 تعرف على المزيد حول دورتنا وقم بالتسجيل اليوم 👉https://lnkd.in/e8Hjxba6 📣 لا تضيع فرصة تطوير مهاراتك والارتقاء بمهنتك. انضم إلينا وكن جزءًا من ",
+      "item_id": "linkedin-posts-2023-11-07-md-d836d56c84:0010-0020",
+      "source_id": "linkedin-posts-2023-11-07-md-d836d56c84",
+      "path": "linkedin/posts/2023-11-07-اكتشف-فنون-الإلقاء-والعرض-مع.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "برنامج تيك اند توك ماستر كلاس لفنون الإلقاء والعرض",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "presentation skills"
+        },
+        {
+          "facet": "activity",
+          "label": "public speaking masterclass"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 20
+      },
+      "quote": "اكتشف فنون الإلقاء والعرض مع مركز حلول الإستدامة \"برنامج تيك اند توك ماستر كلاس\" البرنامج الأقوى في الشرق الأوسط ! هل تبحث عن فرصة لتطوير مهاراتك في الإلقاء والعرض هل ترغب في أن تصبح متحدثًا متميزًا ومؤثرًا؟ نحن هنا لنساعدك على تحقيق ذلك. 🗓️ الدورة 1: من 18 نوفمبر إلى 5 ديسمبر 2023 🎯 كن جزءًا من هذه الفرصة! احجز مقعدك الآن واسطع في عالم الإلقاء والعرض. 🌐 تعرف على المزيد حول دورتنا وقم بالتسجيل اليوم 👉https://lnkd.in/efr4vEjg 📣 لا تضيع فرصة تطوير مهاراتك والارتقاء بمهنتك. انضم إلينا وكن جزءًا من ",
+      "item_id": "linkedin-posts-2023-11-08-md-9146410672:0010-0020",
+      "source_id": "linkedin-posts-2023-11-08-md-9146410672",
+      "path": "linkedin/posts/2023-11-08-اكتشف-فنون-الإلقاء-والعرض-مع.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Hiring Announcement for Yasser Al Rajeh",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "recruitment"
+        },
+        {
+          "facet": "activity",
+          "label": "job posting"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "Yasser Al Rajeh is #hiring. Know anyone who might be interested?",
+      "item_id": "linkedin-posts-2023-08-15-yasser-al-rajeh-is-hiring-md-844b346ce5:0009-0009",
+      "source_id": "linkedin-posts-2023-08-15-yasser-al-rajeh-is-hiring-md-844b346ce5",
+      "path": "linkedin/posts/2023-08-15-yasser-al-rajeh-is-hiring.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "قل وداعًا للعروض التقديمية المملة ومرحبًا بالتأثير",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "presentation skills"
+        },
+        {
+          "facet": "situation",
+          "label": "public speaking anxiety"
+        },
+        {
+          "facet": "activity",
+          "label": "masterclass"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 15
+      },
+      "quote": "قل وداعًا للعروض التقديمية المملة ومرحبًا بالتأثير! ! في غضون 3 أسابيع فقط ومن خلال 6 محاضرات مكثفة اون لاين ستتعلم جميع المهارات الأساسية المطلوبة لبناء عرض تقديمي احترافي جذاب وكيفية التغلب على الخوف من التقديم والتحدث أمام الجمهور! ارفع مستوى العرض التقديمي الخاص بك، وارفع مستوى علامتك التجارية - اختر تيك اند توك ماستر كلاس اليوم! https://lnkd.in/efr4vEjg",
+      "item_id": "linkedin-posts-2023-11-12-md-270c3b14a0:0010-0015",
+      "source_id": "linkedin-posts-2023-11-12-md-270c3b14a0",
+      "path": "linkedin/posts/2023-11-12-قل-وداعا-للعروض-التقديمية-المملة.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Post Overview",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "social media update"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 7
+      },
+      "quote": "--- id: '7147096635469201408' date: '2023-12-31T05:30:24.530Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_activity-7147096635469201408-VhI0 likes: 1 comments: 0 ---",
+      "item_id": "linkedin-posts-2023-12-31-7147096635469201408-md-b519bb85b4:0001-0007",
+      "source_id": "linkedin-posts-2023-12-31-7147096635469201408-md-b519bb85b4",
+      "path": "linkedin/posts/2023-12-31-7147096635469201408.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Saudi National Day Celebration",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Saudi National Day"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 10
+      },
+      "quote": "هاذي بصمتنا باللون الأخضر .. لا فرحنا يفرح العالم سهر .. عظمى يابلادي عظمى شامخة وكل عام واحنا بأول الصفوف .. وكل عام ووطني بخير",
+      "item_id": "linkedin-posts-2023-09-23-md-1bdc15c629:0010-0010",
+      "source_id": "linkedin-posts-2023-09-23-md-1bdc15c629",
+      "path": "linkedin/posts/2023-09-23-هاذي-بصمتنا-باللون-الأخضر-لا.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "A Sustainable Learning Journey",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sustainable learning journey"
+        },
+        {
+          "facet": "activity",
+          "label": "leadership development"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 10
+      },
+      "quote": "Join Us On... A Sustainable Learning Journey!",
+      "item_id": "linkedin-posts-2024-01-22-join-us-on-a-sustainable-md-f74109e541:0010-0010",
+      "source_id": "linkedin-posts-2024-01-22-join-us-on-a-sustainable-md-f74109e541",
+      "path": "linkedin/posts/2024-01-22-join-us-on-a-sustainable.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "يوم استثنائي .. لوطن استثنائي",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Saudi Founding Day"
+        },
+        {
+          "facet": "activity",
+          "label": "commemoration"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 12
+      },
+      "quote": "يوم استثنائي .. لوطن استثنائي اننا عندما نستعيد هذة الذكرى الخالدة, فإننا نستلهم منها ما يحفزنا جميعاً نحو العمل بكل جد وتفان, متخذين من عزيمة المؤسس, ووفاء وإخلاص رجاله انموذجاً يحتذى به, من أجل استمرار عجلة التطوير والتنمية المستدامة لهذه البلاد الطاهرة, تحت قيادة سيدي خادم الحرمين الشريفين الملك سلمابن بن عبدالعزيز وولي عهده سمو سيدي محمد بن سلمان",
+      "item_id": "linkedin-posts-2024-02-22-md-c3a04d9f60:0010-0012",
+      "source_id": "linkedin-posts-2024-02-22-md-c3a04d9f60",
+      "path": "linkedin/posts/2024-02-22-يوم-استثنائي-لوطن-استثنائي-اننا.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "ورشة عمل استدامة التعلم وبرنامج تيك اند توك ماستر كلاس",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "learning sustainability"
+        },
+        {
+          "facet": "activity",
+          "label": "workshop recap"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 23
+      },
+      "quote": "أصدقائنا الأعزاء وداعمي التعلم مدى الحياة، يسعدنا أن نشارك النجاح الهائل الذي حققته ورشة العمل الأخيرة التي ركزت على استدامة التعلم من خلال برنامجنا التدريبي \" تيك اند توك ماستر كلاس\" ، وهو حجر الزاوية في رؤيتنا هنا في مركز حلول الاستدامة للتدريب والاستشارات المهنية. لم تكن ورشة العمل مجرد تجمع للمتدربين المتحمسين؛ لقد كان حافزًا للتغيير والتمكين وتجديد الالتزام بممارسات التعلم المستدامة. لقد امتد تأثير ورشة العمل إلى ما هو أبعد من حدود الحدث نفسه. وقد ترك المشاركون وهم يشعرون بالإلهام، ومجهزين ",
+      "item_id": "linkedin-posts-2024-02-12-md-ed1eb0ad14:0010-0023",
+      "source_id": "linkedin-posts-2024-02-12-md-ed1eb0ad14",
+      "path": "linkedin/posts/2024-02-12-أصدقائنا-الأعزاء-وداعمي-التعلم-مدى.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Registration and Attendance for LEAP and DeepFest 2024",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "LEAP and DeepFest 2024"
+        },
+        {
+          "facet": "activity",
+          "label": "tech conference attendance"
+        }
+      ],
+      "span": {
+        "start_line": 13,
+        "end_line": 15
+      },
+      "quote": "I just registered to join the world's most-attended tech event #LEAP24. LEAP will be back in Riyadh from 4-7 March 2024 and co-located with global AI event #DeepFest24. Join me and thousands of attendees as we discover the latest technologies, hear from hundreds of global speakers and journey Into New Worlds https://lnkd.in/dFXRzYDf .",
+      "item_id": "linkedin-posts-2024-03-04-i-just-registered-to-join-md-1b6d35ab5a:0013-0015",
+      "source_id": "linkedin-posts-2024-03-04-i-just-registered-to-join-md-1b6d35ab5a",
+      "path": "linkedin/posts/2024-03-04-i-just-registered-to-join.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "نجاح دورة برنامج تيك آند توك ماستر كلاس للعروض التقديمية",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "العروض التقديمية"
+        },
+        {
+          "facet": "activity",
+          "label": "دورة تدريبية"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 12
+      },
+      "quote": "يسعدنا أن نشارككم أخبار نجاح دورتنا التدريبية الأخيرة – \" برنامج تيك آند توك ماستر كلاس\" وذلك بالتعاون مع شركة \" تيك اند توك\" الشركة الأولى في الشرق الأوسط وشمال أفريقيا التي تعمل في مجال العروض التقديمية لقد كانت رحلة مليئة بالنمو والمعرفة والإنجاز ويسعدنا في مركز حلول الاستدامة للتدريب والاستشارات المهنية أن نلبّي جميع التطلعات المهنية لرؤية المستقبل المستدام و نفخر بشدة بتعزيز بيئة يتجاوز فيها التعلّم الحدود، وتعد الدورة التدريبية الأخيرة لدينا بمثابة شهادة على التفاني والعمل الجاد لكل من فري",
+      "item_id": "linkedin-posts-2024-01-02-603648-md-70af7e751d:0010-0012",
+      "source_id": "linkedin-posts-2024-01-02-603648-md-70af7e751d",
+      "path": "linkedin/posts/2024-01-02-يسعدنا-أن-نشارككم-أخبار-نجاح-603648.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "تهنئة ودعاء استقبال شهر رمضان المبارك",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "تهنئة شهر رمضان"
+        },
+        {
+          "facet": "situation",
+          "label": "حلول شهر رمضان"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 17
+      },
+      "quote": "هذه تهنئة رسول الله 🌙🌙🌙صلى الله عليه وسلم لأصحابه بقدوم رمضان وأنا أهنئكم بها … الْلَّھُم أَهِلَهُ عَليْنَا بِالْأمْنِ وَالإِيْمَانِ وَالْسَّلامَةِ وَالْإِسْلَامِ وَالْعَوْنٓ عَلَى الْصَّلاةِ وَالصِّيَامِ وَتِلَاوَةِ الْقُرْآَنِ الْلَّھُمّ سَلِّمْنَا لِرَمَضَانَ وَسَلِّمْهُ لنا وَتَسَلَّمْهُ مِنّا مُتَقَبَّلاً يٓارٓبٓ العٓالِٓمينْ مُبارٓكٌ علٓيْكُمْ شّٓهرُ رٓمٓضٓان🌙🌙",
+      "item_id": "linkedin-posts-2024-03-11-md-d8b3292e5a:0010-0017",
+      "source_id": "linkedin-posts-2024-03-11-md-d8b3292e5a",
+      "path": "linkedin/posts/2024-03-11-هذه-تهنئة-رسول-الله-صلى.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Eid al-Fitr Greetings and Well Wishes",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "holiday greetings"
+        },
+        {
+          "facet": "situation",
+          "label": "Eid al-Fitr"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 10
+      },
+      "quote": "تقبل الله منا ومنكم صالح الأعمال وكل عام وانتم بألف خير",
+      "item_id": "linkedin-posts-2024-04-09-md-a14bba102f:0010-0010",
+      "source_id": "linkedin-posts-2024-04-09-md-a14bba102f",
+      "path": "linkedin/posts/2024-04-09-تقبل-الله-منا-ومنكم-صالح.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "تهنئة بمناسبة اليوم الوطني السعودي",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Saudi National Day"
+        },
+        {
+          "facet": "activity",
+          "label": "celebration greeting"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 12
+      },
+      "quote": "دامت المملكة رمزًا للقوة والتقدم.. نسأل الله أن يحفظها دائمًا 🇸🇦 #اليوم_الوطني_السعودي #السعودية_94 #رؤية2030",
+      "item_id": "linkedin-posts-2024-09-23-md-62a58967cf:0010-0012",
+      "source_id": "linkedin-posts-2024-09-23-md-62a58967cf",
+      "path": "linkedin/posts/2024-09-23-دامت-المملكة-رمزا-للقوة-والتقدم.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Acknowledgment of Program Value and Appreciation for Participant Contribution",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "program appreciation"
+        },
+        {
+          "facet": "activity",
+          "label": "public acknowledgment"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "Thank you so much Mr.Mosa for your kind words! You’ve added value to us and we are very proud to have you join us in this program",
+      "item_id": "linkedin-posts-2024-10-08-thank-you-so-much-mrmosa-md-7ab183573e:0009-0009",
+      "source_id": "linkedin-posts-2024-10-08-thank-you-so-much-mrmosa-md-7ab183573e",
+      "path": "linkedin/posts/2024-10-08-thank-you-so-much-mrmosa.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Part Time Corporate Sales Representative Hiring in Riyadh",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Corporate Sales Representative"
+        },
+        {
+          "facet": "activity",
+          "label": "job posting"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "We're #hiring a new Job Description for Part Time Corporate Sales Representative in Riyadh. Apply today or share this post with your network.",
+      "item_id": "linkedin-posts-2024-10-30-were-hiring-a-new-job-md-98ca7f1093:0009-0009",
+      "source_id": "linkedin-posts-2024-10-30-were-hiring-a-new-job-md-98ca7f1093",
+      "path": "linkedin/posts/2024-10-30-were-hiring-a-new-job.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "أهمية الصحة النفسية ودعمها في اليوم العالمي للصحة النفسية",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "mental health awareness"
+        },
+        {
+          "facet": "situation",
+          "label": "World Mental Health Day"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 16
+      },
+      "quote": "🌍 اليوم هو #اليوم_العالمي_ للصحة النفسية! الصحة النفسية مهمة بقدر الصحة البدنية، ومن الضروري أن ندرك الدور الذي تلعبه في صحتنا العامة. دعونا نجعل الصحة النفسية أولوية عالمية ونتذكر أنه من الجيد أن نسعى للحصول على الدعم عندما نحتاج إليه. سواء كان ذلك من خلال التحدث مع صديق أو استشارة متخصص أو ممارسة اليقظة الذهنية، فإن الأفعال الصغيرة يمكن أن تحدث فرقًا كبيرًا. في مركز حلول الاستدامة ، نحن ملتزمون بتعزيز بيئة داعمة حيث يتم إعطاء الأولوية للصحة النفسية. دعونا نستمر في كسر الوصمة المحيطة بالصحة الن",
+      "item_id": "linkedin-posts-2024-10-10-md-b1df1d04cc:0010-0016",
+      "source_id": "linkedin-posts-2024-10-10-md-b1df1d04cc",
+      "path": "linkedin/posts/2024-10-10-اليوم-هو-اليوم_العالمي_-للصحة-النفسية.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "شكر وتقدير للمشاركين في دورة مهارات العرض والإلقاء (Tick & Talk Master Class)",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "مهارات العرض والإلقاء"
+        },
+        {
+          "facet": "activity",
+          "label": "تدريب وتطوير مهني"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 15
+      },
+      "quote": "يسرنا أن نقدم نحن #مركز_حلول_الاستدامة_للتدريب_والاستشارات_المهنية خالص تقديرنا وامتناننا لعملائنا المتميزين على مشاركتهم الفعالة في #دورة_مهارات_العرض_والإلقاء (Tick & Talk Master Class) . لقد كان لنا الشرف بانضمامكم إلينا، ونثمن حرصكم على تطوير مهاراتكم المهنية. نشكر لكم ثقتكم بنا كشريك للتدريب، ونتطلع لرؤيتكم تواصلون النجاح والانضمام إلينا في فرص تدريبية قادمة! Ali AlKhater،MBAHamed Alzeyadi حامد الزياديSarah Abdulrahman Bin Hulayyil",
+      "item_id": "linkedin-posts-2024-12-08-md-716679dceb:0010-0015",
+      "source_id": "linkedin-posts-2024-12-08-md-716679dceb",
+      "path": "linkedin/posts/2024-12-08-يسرنا-أن-نقدم-نحن-مركز_حلول_الاستدامة_لل.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "مدربين محترفين، نجاح مضمون",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "professional training and skill development"
+        },
+        {
+          "facet": "activity",
+          "label": "corporate and individual training"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 13
+      },
+      "quote": "مدربين محترفين، نجاح مضمون✨ كل مدرب عندنا لديه خبرة عميقة ومعرفة عملية تساعدك في تطوير مهاراتك وتحقيق أهدافك سواء كنت تبي تتعلم مهارة جديدة أو تطور من أداء فريقك حنا معك خطوة بخطوة ✅",
+      "item_id": "linkedin-posts-2024-10-21-md-daee9be160:0010-0013",
+      "source_id": "linkedin-posts-2024-10-21-md-daee9be160",
+      "path": "linkedin/posts/2024-10-21-مدربين-محترفين-نجاح-مضمون-كل.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "برنامج مهارات العروض التقديمية وفن الإلقاء",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "فن الإلقاء والعروض التقديمية"
+        },
+        {
+          "facet": "activity",
+          "label": "دورة تدريبية"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 11
+      },
+      "quote": "تعلم كيف تأثر في جمهورك مع برنامج الماستر كلاس \"مهارات العروض التقديمية وفن الإلقاء\" المقدمة من مركز حلول الاستدامة سجل الآن! واحصل على خصم يوم التأسيس 20% و راح نرسل لك كل التفاصيل #مركز_حلول_الاستدامة #تدريب #فن_الالقاء #يوم_التأسيس",
+      "item_id": "linkedin-posts-2025-02-13-md-7b8bb88792:0010-0011",
+      "source_id": "linkedin-posts-2025-02-13-md-7b8bb88792",
+      "path": "linkedin/posts/2025-02-13-تعلم-كيف-تأثر-في-جمهورك.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "تطوير مهاراتك في التسويق والبيع مع برنامج تدريبي متقدم",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "marketing and sales training"
+        },
+        {
+          "facet": "activity",
+          "label": "professional development"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 20
+      },
+      "quote": "تطوير مهاراتك في التسويق والبيع مع برنامج تدريبي متقدم في عالم الأعمال السريع والمتغير.. يعد الإلمام باستراتيجيات التسويق الحديثة لم يعد خيارًا بل شرطًا أساسياً للنجاح. يهدف برنامجنا التدريبي إلى تزويد المشاركين بالمعرفة والمهارات العملية التي يحتاجون إليها للنجاح في عالم التسويق والمبيعات. 🔹 أهداف البرنامج ✅توفير فهم شامل ومتكامل لأحدث استراتيجيات التسويق المتبعة عالميًا. ✅تمكينك من تطبيق عملي يساهم في تعزيز تواجدك في السوق وتحقيق نتائج ملموسة. ✅تحسين كفاءتك في التواصل مع العملاء وبناء علاقات ط",
+      "item_id": "linkedin-posts-2024-10-28-md-fa13405216:0010-0020",
+      "source_id": "linkedin-posts-2024-10-28-md-fa13405216",
+      "path": "linkedin/posts/2024-10-28-تطوير-مهاراتك-في-التسويق-والبيع.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "ماستر كلاس فن الإلقاء والتحدث بثقة أمام الجمهور",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "masterclass registration"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 12
+      },
+      "quote": "ودّك تتكلم بثقة قدام أي جمهور؟ سجّل الحين في الماستر كلاس وخلك مميز بإلقائك! خصم حصري لأول 10 مشتركين فقط!🏆 سارع قبل نفاد المقاعد!",
+      "item_id": "linkedin-posts-2025-03-24-md-7a889930d3:0010-0012",
+      "source_id": "linkedin-posts-2025-03-24-md-7a889930d3",
+      "path": "linkedin/posts/2025-03-24-ودك-تتكلم-بثقة-قدام-أي.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "الاستثمار في مهارات الفريق وبيئة العمل لتحقيق النجاح المؤسسي",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "تطوير مهارات القيادة والفرق"
+        },
+        {
+          "facet": "situation",
+          "label": "ضعف التواصل وسوء إدارة الضغوط في بيئة العمل"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 30
+      },
+      "quote": "نجاح أي شركة ما يبدأ من الأنظمة… يبدأ من الناس. كثير من الشركات تستثمر في التقنية، الأدوات، والإجراءات، لكن تتجاهل العامل الأهم: الفريق نفسه. ضعف التواصل، سوء إدارة الضغط، وقلة مهارات القيادة هي أسباب خفية تستهلك الأداء وتؤثر على النتائج، حتى في أقوى البيئات تنظيمًا. في استدامة نعمل مع الشركات على: تطوير مهارات القيادة تعزيز التعاون بين الفرق إدارة الضغوط والتحديات اليومية بوعي بناء بيئة عمل صحية ترفع الإنتاجية وتحافظ على الكفاءات 📈 النتيجة؟ فرق أكثر انسجامًا قرارات أفضل وأداء مستدام على المدى ا",
+      "item_id": "linkedin-posts-2026-01-27-md-54451b2cd5:0010-0030",
+      "source_id": "linkedin-posts-2026-01-27-md-54451b2cd5",
+      "path": "linkedin/posts/2026-01-27-نجاح-أي-شركة-ما-يبدأ.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Eid Mubarak Greetings",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Eid greetings"
+        },
+        {
+          "facet": "situation",
+          "label": "Eid celebration"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 11
+      },
+      "quote": "جعل عيدكم فرحة ما تنتهي، وعسى أيامكم كلها عيد! تقبل الله منا ومنكم صالح الأعمال. 🌙❤️ #عيدمبارك",
+      "item_id": "linkedin-posts-2025-03-31-md-09024e16fa:0010-0011",
+      "source_id": "linkedin-posts-2025-03-31-md-09024e16fa",
+      "path": "linkedin/posts/2025-03-31-جعل-عيدكم-فرحة-ما-تنتهي.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "رحلة المتحدث الملهم وتطوير مهارات الإلقاء والتأثير",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "topic",
+          "label": "مهارات الإلقاء والتأثير"
+        },
+        {
+          "facet": "activity",
+          "label": "training announcement"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 22
+      },
+      "quote": "إذا عندك طموح تكبر، وصوت يستاهل يُسمع، وقصة تبي توصلها لكل المملكة… انضم لنا وكن جزء من مجتمع يصنع أثر، يطور مهاراتك في الإلقاء، الحضور، والتأثير الحقيقي. هنا تبدأ رحلتك كمتحدث ملهم ✨ 📅 28 فبراير 📍 المملكة العربية السعودية https://lnkd.in/edh7iWzf",
+      "item_id": "linkedin-posts-2026-02-21-md-ad6fd528f4:0010-0022",
+      "source_id": "linkedin-posts-2026-02-21-md-ad6fd528f4",
+      "path": "linkedin/posts/2026-02-21-إذا-عندك-طموح-تكبر-وصوت.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "تطوير مهارات الإلقاء والتأثير كمتحدث ملهم",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "public speaking"
+        },
+        {
+          "facet": "activity",
+          "label": "community development"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 20
+      },
+      "quote": "إذا عندك طموح تكبر، وصوت يستاهل يُسمع، وقصة تبي توصلها لكل المملكة… انضم لنا وكن جزء من مجتمع يصنع أثر، يطور مهاراتك في الإلقاء، الحضور، والتأثير الحقيقي. هنا تبدأ رحلتك كمتحدث ملهم ✨ 📅 28 فبراير 📍 المملكة العربية السعودية",
+      "item_id": "linkedin-posts-2026-02-22-md-48987abbb5:0010-0020",
+      "source_id": "linkedin-posts-2026-02-22-md-48987abbb5",
+      "path": "linkedin/posts/2026-02-22-إذا-عندك-طموح-تكبر-وصوت.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "National Day Celebration and Blessing for the Country",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Saudi National Day"
+        },
+        {
+          "facet": "activity",
+          "label": "celebration"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 7
+      },
+      "quote": "--- id: '7111683906793275392' date: '2023-09-24T12:12:52.077Z' url: https://www.linkedin.com/posts/albandery-alashi-ba8b16b6_%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D8%AC%D8%B9%D9%84-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-%D8%A2%D9%85%D9%86%D8%A7-%D9%83%D9%84-%D8%B9%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D9%88%D8%B7%D9%86-activity-7111683906793275392-l1OF likes: 1 comments: 0 ---",
+      "item_id": "linkedin-posts-2023-09-24-7111683906793275392-md-91883263bd:0001-0007",
+      "source_id": "linkedin-posts-2023-09-24-7111683906793275392-md-91883263bd",
+      "path": "linkedin/posts/2023-09-24-7111683906793275392.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "حين يُصاب الوطن… التضامن والمواساة بعد الاعتداء على مطار الملك خالد",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "national solidarity and condolences"
+        },
+        {
+          "facet": "situation",
+          "label": "attack on King Khalid Airport"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 18
+      },
+      "quote": "حين يُصاب الوطن… ما يمس وطننا يمس قلوبنا جميعاً. والاعتداء الذي استهدف مطار الملك خالد ترك في نفوسنا ألماً وغصّة، لما خلّفه من ضحايا ومصابين. أتقدم بخالص العزاء والمواساة لأسر الضحايا، وأسأل الله أن يتغمدهم بواسع رحمته، وأن يمنّ على المصابين بالشفاء العاجل. وفي وسط هذا الألم، يبقى حب الوطن حاضراً، ويظل انتماؤنا إليه أقوى من كل ظرف. اللهم احفظ بلادنا، وأدم عليها أمنها واستقرارها، واحفظ قيادتها وشعبها من كل سوء.",
+      "item_id": "linkedin-posts-2026-10-11-md-1d5130aee6:0010-0018",
+      "source_id": "linkedin-posts-2026-10-11-md-1d5130aee6",
+      "path": "linkedin/posts/2026-10-11-حين-يصاب-الوطن-ما-يمس.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "دوره القياده بالذكاء العاطفي مع كوتش وليد",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "emotional intelligence in leadership"
+        },
+        {
+          "facet": "activity",
+          "label": "leadership course"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 21
+      },
+      "quote": "مو كل تحدي في حياتك سببه الظروف… أحيانًا الشفرة داخلك أنت 🔐 لما تفهم ذاتك، تفهم قراراتك، تفهم تواصلك، وتبدأ تبني وعي مستدام في حياتك وبيئة عملك. دوره القياده بالذكاء العاطفي مع كوتش وليد ابدأ رحلتك اليوم. 🔗 احجز الآن عبر الموقع الإلكتروني",
+      "item_id": "linkedin-posts-2026-02-25-md-49dba91c63:0010-0021",
+      "source_id": "linkedin-posts-2026-02-25-md-49dba91c63",
+      "path": "linkedin/posts/2026-02-25-مو-كل-تحدي-في-حياتك.md",
+      "prev": null,
       "next": null
     }
   ]

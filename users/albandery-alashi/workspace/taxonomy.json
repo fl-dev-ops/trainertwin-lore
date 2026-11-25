@@ -2,9 +2,9 @@
   "activity": {
     "unnamed": {
       "id": "unnamed",
-      "preferred": "مراجعة فيديو الأداء",
+      "preferred": "تدريب وتطوير مهني",
       "aliases": [
-        "مراجعة فيديو الأداء"
+        "تدريب وتطوير مهني"
       ],
       "count": 1
     },
@@ -17,14 +17,6 @@
       ],
       "count": 5
     },
-    "training-workshop": {
-      "id": "training-workshop",
-      "preferred": "training workshop",
-      "aliases": [
-        "training workshop"
-      ],
-      "count": 4
-    },
     "public-speaking": {
       "id": "public-speaking",
       "preferred": "public speaking",
@@ -32,6 +24,30 @@
         "public speaking"
       ],
       "count": 4
+    },
+    "training-course": {
+      "id": "training-course",
+      "preferred": "training course",
+      "aliases": [
+        "training course"
+      ],
+      "count": 3
+    },
+    "masterclass": {
+      "id": "masterclass",
+      "preferred": "masterclass",
+      "aliases": [
+        "masterclass"
+      ],
+      "count": 3
+    },
+    "training-workshop": {
+      "id": "training-workshop",
+      "preferred": "training workshop",
+      "aliases": [
+        "training workshop"
+      ],
+      "count": 3
     },
     "professional-training": {
       "id": "professional-training",
@@ -41,19 +57,11 @@
       ],
       "count": 2
     },
-    "training-course": {
-      "id": "training-course",
-      "preferred": "training course",
+    "professional-development": {
+      "id": "professional-development",
+      "preferred": "professional development",
       "aliases": [
-        "training course"
-      ],
-      "count": 2
-    },
-    "masterclass": {
-      "id": "masterclass",
-      "preferred": "masterclass",
-      "aliases": [
-        "masterclass"
+        "professional development"
       ],
       "count": 2
     },
@@ -62,6 +70,14 @@
       "preferred": "course overview",
       "aliases": [
         "course overview"
+      ],
+      "count": 2
+    },
+    "job-posting": {
+      "id": "job-posting",
+      "preferred": "job posting",
+      "aliases": [
+        "job posting"
       ],
       "count": 2
     },
@@ -107,27 +123,11 @@
       ],
       "count": 1
     },
-    "masterclass-training": {
-      "id": "masterclass-training",
-      "preferred": "masterclass training",
-      "aliases": [
-        "masterclass training"
-      ],
-      "count": 1
-    },
     "training": {
       "id": "training",
       "preferred": "training",
       "aliases": [
         "training"
-      ],
-      "count": 1
-    },
-    "masterclass-registration": {
-      "id": "masterclass-registration",
-      "preferred": "masterclass registration",
-      "aliases": [
-        "masterclass registration"
       ],
       "count": 1
     },
@@ -155,14 +155,6 @@
       ],
       "count": 1
     },
-    "professional-development": {
-      "id": "professional-development",
-      "preferred": "professional development",
-      "aliases": [
-        "professional development"
-      ],
-      "count": 1
-    },
     "webinar": {
       "id": "webinar",
       "preferred": "webinar",
@@ -176,30 +168,6 @@
       "preferred": "Corporate Training Design",
       "aliases": [
         "Corporate Training Design"
-      ],
-      "count": 1
-    },
-    "community-workshop": {
-      "id": "community-workshop",
-      "preferred": "community workshop",
-      "aliases": [
-        "community workshop"
-      ],
-      "count": 1
-    },
-    "speaker-training-community": {
-      "id": "speaker-training-community",
-      "preferred": "speaker training community",
-      "aliases": [
-        "speaker training community"
-      ],
-      "count": 1
-    },
-    "training-course-promotion": {
-      "id": "training-course-promotion",
-      "preferred": "training course promotion",
-      "aliases": [
-        "training course promotion"
       ],
       "count": 1
     },
@@ -314,6 +282,142 @@
         "group training course"
       ],
       "count": 1
+    },
+    "partnership-announcement": {
+      "id": "partnership-announcement",
+      "preferred": "partnership announcement",
+      "aliases": [
+        "partnership announcement"
+      ],
+      "count": 1
+    },
+    "project-announcement": {
+      "id": "project-announcement",
+      "preferred": "project announcement",
+      "aliases": [
+        "project announcement"
+      ],
+      "count": 1
+    },
+    "social-media-update": {
+      "id": "social-media-update",
+      "preferred": "social media update",
+      "aliases": [
+        "social media update"
+      ],
+      "count": 1
+    },
+    "conference-registration": {
+      "id": "conference-registration",
+      "preferred": "conference registration",
+      "aliases": [
+        "conference registration"
+      ],
+      "count": 1
+    },
+    "public-speaking-masterclass": {
+      "id": "public-speaking-masterclass",
+      "preferred": "public speaking masterclass",
+      "aliases": [
+        "public speaking masterclass"
+      ],
+      "count": 1
+    },
+    "leadership-development": {
+      "id": "leadership-development",
+      "preferred": "leadership development",
+      "aliases": [
+        "leadership development"
+      ],
+      "count": 1
+    },
+    "commemoration": {
+      "id": "commemoration",
+      "preferred": "commemoration",
+      "aliases": [
+        "commemoration"
+      ],
+      "count": 1
+    },
+    "workshop-recap": {
+      "id": "workshop-recap",
+      "preferred": "workshop recap",
+      "aliases": [
+        "workshop recap"
+      ],
+      "count": 1
+    },
+    "tech-conference-attendance": {
+      "id": "tech-conference-attendance",
+      "preferred": "tech conference attendance",
+      "aliases": [
+        "tech conference attendance"
+      ],
+      "count": 1
+    },
+    "celebration-greeting": {
+      "id": "celebration-greeting",
+      "preferred": "celebration greeting",
+      "aliases": [
+        "celebration greeting"
+      ],
+      "count": 1
+    },
+    "public-acknowledgment": {
+      "id": "public-acknowledgment",
+      "preferred": "public acknowledgment",
+      "aliases": [
+        "public acknowledgment"
+      ],
+      "count": 1
+    },
+    "corporate-and-individual-training": {
+      "id": "corporate-and-individual-training",
+      "preferred": "corporate and individual training",
+      "aliases": [
+        "corporate and individual training"
+      ],
+      "count": 1
+    },
+    "masterclass-registration": {
+      "id": "masterclass-registration",
+      "preferred": "masterclass registration",
+      "aliases": [
+        "masterclass registration"
+      ],
+      "count": 1
+    },
+    "training-announcement": {
+      "id": "training-announcement",
+      "preferred": "training announcement",
+      "aliases": [
+        "training announcement"
+      ],
+      "count": 1
+    },
+    "community-development": {
+      "id": "community-development",
+      "preferred": "community development",
+      "aliases": [
+        "community development"
+      ],
+      "count": 1
+    },
+    "celebration": {
+      "id": "celebration",
+      "preferred": "celebration",
+      "aliases": [
+        "celebration"
+      ],
+      "count": 1
+    },
+    "leadership-course": {
+      "id": "leadership-course",
+      "preferred": "leadership course",
+      "aliases": [
+        "leadership course"
+      ],
+      "count": 1
     }
   },
   "situation": {
@@ -337,9 +441,9 @@
     },
     "unnamed": {
       "id": "unnamed",
-      "preferred": "مواجهة أسئلة صعبة ومعارضين",
+      "preferred": "ضعف التواصل وسوء إدارة الضغوط في بيئة العمل",
       "aliases": [
-        "مواجهة أسئلة صعبة ومعارضين"
+        "ضعف التواصل وسوء إدارة الضغوط في بيئة العمل"
       ],
       "count": 1
     },
@@ -348,14 +452,6 @@
       "preferred": "stressful work situations",
       "aliases": [
         "stressful work situations"
-      ],
-      "count": 1
-    },
-    "attack-on-king-khalid-airport": {
-      "id": "attack-on-king-khalid-airport",
-      "preferred": "attack on King Khalid Airport",
-      "aliases": [
-        "attack on King Khalid Airport"
       ],
       "count": 1
     },
@@ -382,9 +478,73 @@
         "program refund and rescheduling requests"
       ],
       "count": 1
+    },
+    "everyday-persuasion": {
+      "id": "everyday-persuasion",
+      "preferred": "everyday persuasion",
+      "aliases": [
+        "everyday persuasion"
+      ],
+      "count": 1
+    },
+    "public-speaking-anxiety": {
+      "id": "public-speaking-anxiety",
+      "preferred": "public speaking anxiety",
+      "aliases": [
+        "public speaking anxiety"
+      ],
+      "count": 1
+    },
+    "eid-al-fitr": {
+      "id": "eid-al-fitr",
+      "preferred": "Eid al-Fitr",
+      "aliases": [
+        "Eid al-Fitr"
+      ],
+      "count": 1
+    },
+    "world-mental-health-day": {
+      "id": "world-mental-health-day",
+      "preferred": "World Mental Health Day",
+      "aliases": [
+        "World Mental Health Day"
+      ],
+      "count": 1
+    },
+    "attack-on-king-khalid-airport": {
+      "id": "attack-on-king-khalid-airport",
+      "preferred": "attack on King Khalid Airport",
+      "aliases": [
+        "attack on King Khalid Airport"
+      ],
+      "count": 1
     }
   },
   "topic": {
+    "public-speaking": {
+      "id": "public-speaking",
+      "preferred": "public speaking",
+      "aliases": [
+        "public speaking"
+      ],
+      "count": 6
+    },
+    "presentation-skills": {
+      "id": "presentation-skills",
+      "preferred": "presentation skills",
+      "aliases": [
+        "presentation skills"
+      ],
+      "count": 5
+    },
+    "saudi-national-day": {
+      "id": "saudi-national-day",
+      "preferred": "Saudi National Day",
+      "aliases": [
+        "Saudi National Day"
+      ],
+      "count": 4
+    },
     "professional-development": {
       "id": "professional-development",
       "preferred": "professional development",
@@ -393,35 +553,27 @@
       ],
       "count": 3
     },
-    "presentation-skills": {
-      "id": "presentation-skills",
-      "preferred": "presentation skills",
-      "aliases": [
-        "presentation skills"
-      ],
-      "count": 3
-    },
     "unnamed": {
       "id": "unnamed",
-      "preferred": "مهارات التواصل والتأثير",
+      "preferred": "مهارات الإلقاء والتأثير",
       "aliases": [
-        "مهارات التواصل والتأثير"
+        "مهارات الإلقاء والتأثير"
       ],
       "count": 1
-    },
-    "public-speaking": {
-      "id": "public-speaking",
-      "preferred": "public speaking",
-      "aliases": [
-        "public speaking"
-      ],
-      "count": 3
     },
     "course-certification": {
       "id": "course-certification",
       "preferred": "course certification",
       "aliases": [
         "course certification"
+      ],
+      "count": 2
+    },
+    "saudi-founding-day": {
+      "id": "saudi-founding-day",
+      "preferred": "Saudi Founding Day",
+      "aliases": [
+        "Saudi Founding Day"
       ],
       "count": 2
     },
@@ -433,11 +585,20 @@
       ],
       "count": 2
     },
-    "public-speaking-skills": {
-      "id": "public-speaking-skills",
-      "preferred": "public speaking skills",
+    "employee-engagement": {
+      "id": "employee-engagement",
+      "preferred": "employee engagement",
       "aliases": [
-        "public speaking skills"
+        "employee engagement"
+      ],
+      "count": 2
+    },
+    "professional-skill-development": {
+      "id": "professional-skill-development",
+      "preferred": "professional skill development",
+      "aliases": [
+        "professional skill development",
+        "professional training and skill development"
       ],
       "count": 2
     },
@@ -447,6 +608,15 @@
       "aliases": [
         "executive presence and public speaking",
         "public speaking and executive presence"
+      ],
+      "count": 2
+    },
+    "eid-mubarak": {
+      "id": "eid-mubarak",
+      "preferred": "Eid Mubarak",
+      "aliases": [
+        "Eid Mubarak",
+        "Eid greetings"
       ],
       "count": 2
     },
@@ -487,30 +657,6 @@
       "preferred": "professional development certification",
       "aliases": [
         "professional development certification"
-      ],
-      "count": 1
-    },
-    "eid-greetings": {
-      "id": "eid-greetings",
-      "preferred": "Eid greetings",
-      "aliases": [
-        "Eid greetings"
-      ],
-      "count": 1
-    },
-    "professional-skill-development": {
-      "id": "professional-skill-development",
-      "preferred": "professional skill development",
-      "aliases": [
-        "professional skill development"
-      ],
-      "count": 1
-    },
-    "saudi-founding-day": {
-      "id": "saudi-founding-day",
-      "preferred": "Saudi Founding Day",
-      "aliases": [
-        "Saudi Founding Day"
       ],
       "count": 1
     },
@@ -618,27 +764,11 @@
       ],
       "count": 1
     },
-    "emotional-intelligence-leadership": {
-      "id": "emotional-intelligence-leadership",
-      "preferred": "emotional intelligence leadership",
-      "aliases": [
-        "emotional intelligence leadership"
-      ],
-      "count": 1
-    },
     "training-program-design": {
       "id": "training-program-design",
       "preferred": "training program design",
       "aliases": [
         "training program design"
-      ],
-      "count": 1
-    },
-    "national-solidarity": {
-      "id": "national-solidarity",
-      "preferred": "national solidarity",
-      "aliases": [
-        "national solidarity"
       ],
       "count": 1
     },
@@ -991,6 +1121,214 @@
       "preferred": "human and professional development training",
       "aliases": [
         "human and professional development training"
+      ],
+      "count": 1
+    },
+    "recruitment-challenges": {
+      "id": "recruitment-challenges",
+      "preferred": "recruitment challenges",
+      "aliases": [
+        "recruitment challenges"
+      ],
+      "count": 1
+    },
+    "hajj": {
+      "id": "hajj",
+      "preferred": "Hajj",
+      "aliases": [
+        "Hajj"
+      ],
+      "count": 1
+    },
+    "business-partnership": {
+      "id": "business-partnership",
+      "preferred": "business partnership",
+      "aliases": [
+        "business partnership"
+      ],
+      "count": 1
+    },
+    "virtual-mentor-project-launch": {
+      "id": "virtual-mentor-project-launch",
+      "preferred": "virtual mentor project launch",
+      "aliases": [
+        "virtual mentor project launch"
+      ],
+      "count": 1
+    },
+    "interviewing": {
+      "id": "interviewing",
+      "preferred": "interviewing",
+      "aliases": [
+        "interviewing"
+      ],
+      "count": 1
+    },
+    "career-change": {
+      "id": "career-change",
+      "preferred": "career change",
+      "aliases": [
+        "career change"
+      ],
+      "count": 1
+    },
+    "selling": {
+      "id": "selling",
+      "preferred": "selling",
+      "aliases": [
+        "selling"
+      ],
+      "count": 1
+    },
+    "organizational-vision-and-purpose": {
+      "id": "organizational-vision-and-purpose",
+      "preferred": "organizational vision and purpose",
+      "aliases": [
+        "organizational vision and purpose"
+      ],
+      "count": 1
+    },
+    "employee-motivation-and-alignment": {
+      "id": "employee-motivation-and-alignment",
+      "preferred": "employee motivation and alignment",
+      "aliases": [
+        "employee motivation and alignment"
+      ],
+      "count": 1
+    },
+    "job-motivation": {
+      "id": "job-motivation",
+      "preferred": "job motivation",
+      "aliases": [
+        "job motivation"
+      ],
+      "count": 1
+    },
+    "liquidity-management": {
+      "id": "liquidity-management",
+      "preferred": "liquidity management",
+      "aliases": [
+        "liquidity management"
+      ],
+      "count": 1
+    },
+    "people-and-culture": {
+      "id": "people-and-culture",
+      "preferred": "people and culture",
+      "aliases": [
+        "people and culture"
+      ],
+      "count": 1
+    },
+    "leap-2023-attendance": {
+      "id": "leap-2023-attendance",
+      "preferred": "LEAP 2023 attendance",
+      "aliases": [
+        "LEAP 2023 attendance"
+      ],
+      "count": 1
+    },
+    "art-of-selling": {
+      "id": "art-of-selling",
+      "preferred": "art of selling",
+      "aliases": [
+        "art of selling"
+      ],
+      "count": 1
+    },
+    "recruitment": {
+      "id": "recruitment",
+      "preferred": "recruitment",
+      "aliases": [
+        "recruitment"
+      ],
+      "count": 1
+    },
+    "social-media-update": {
+      "id": "social-media-update",
+      "preferred": "social media update",
+      "aliases": [
+        "social media update"
+      ],
+      "count": 1
+    },
+    "sustainable-learning-journey": {
+      "id": "sustainable-learning-journey",
+      "preferred": "sustainable learning journey",
+      "aliases": [
+        "sustainable learning journey"
+      ],
+      "count": 1
+    },
+    "learning-sustainability": {
+      "id": "learning-sustainability",
+      "preferred": "learning sustainability",
+      "aliases": [
+        "learning sustainability"
+      ],
+      "count": 1
+    },
+    "leap-and-deepfest-2024": {
+      "id": "leap-and-deepfest-2024",
+      "preferred": "LEAP and DeepFest 2024",
+      "aliases": [
+        "LEAP and DeepFest 2024"
+      ],
+      "count": 1
+    },
+    "holiday-greetings": {
+      "id": "holiday-greetings",
+      "preferred": "holiday greetings",
+      "aliases": [
+        "holiday greetings"
+      ],
+      "count": 1
+    },
+    "program-appreciation": {
+      "id": "program-appreciation",
+      "preferred": "program appreciation",
+      "aliases": [
+        "program appreciation"
+      ],
+      "count": 1
+    },
+    "corporate-sales-representative": {
+      "id": "corporate-sales-representative",
+      "preferred": "Corporate Sales Representative",
+      "aliases": [
+        "Corporate Sales Representative"
+      ],
+      "count": 1
+    },
+    "mental-health-awareness": {
+      "id": "mental-health-awareness",
+      "preferred": "mental health awareness",
+      "aliases": [
+        "mental health awareness"
+      ],
+      "count": 1
+    },
+    "marketing-and-sales-training": {
+      "id": "marketing-and-sales-training",
+      "preferred": "marketing and sales training",
+      "aliases": [
+        "marketing and sales training"
+      ],
+      "count": 1
+    },
+    "national-solidarity-and-condolences": {
+      "id": "national-solidarity-and-condolences",
+      "preferred": "national solidarity and condolences",
+      "aliases": [
+        "national solidarity and condolences"
+      ],
+      "count": 1
+    },
+    "emotional-intelligence-in-leadership": {
+      "id": "emotional-intelligence-in-leadership",
+      "preferred": "emotional intelligence in leadership",
+      "aliases": [
+        "emotional intelligence in leadership"
       ],
       "count": 1
     }
