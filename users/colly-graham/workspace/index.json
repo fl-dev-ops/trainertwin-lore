@@ -1959,6 +1959,71 @@
       "path": "youtube/video/2020-08-10-colly-graham-talks-to-patrick-tinney-Tb1VIcZav2c.md",
       "sha256": "815811ad8994d6a67c064eec3cf96e34101387919d09f1f227fee104fd65d17e",
       "basis": "sections"
+    },
+    "youtube-video-2009-10-05-sales-training-answering-objections-on-the-telephone-pkhkgs4-88afb570bc": {
+      "path": "youtube/video/2009-10-05-sales-training-answering-objections-on-the-telephone-pkhKGs4BGWw.md",
+      "sha256": "d64c86b2b986138197c43ee4a75c7c7f8239de24b6ab34f1df231662f14036fe",
+      "basis": "whole"
+    },
+    "youtube-video-2009-06-27-what-would-you-do-if-you-knew-you-couldn-t-fail-d4v7m42b60i-1d534e2943": {
+      "path": "youtube/video/2009-06-27-what-would-you-do-if-you-knew-you-couldn-t-fail-D4V7M42b60I.md",
+      "sha256": "c53e247241c8f1f05d9e7778b7ed467567bbf3226b3b8b2dce05d6ffa5d1ab38",
+      "basis": "whole"
+    },
+    "youtube-video-2012-05-14-the-ideal-prospect-sales-training-u5pqckd5sao-md-afdfcc0327": {
+      "path": "youtube/video/2012-05-14-the-ideal-prospect-sales-training-U5pQCkD5SAo.md",
+      "sha256": "2826abbde08c6d3bf61aa5c9fccce65e15c26aa24e30db8d145840b42511fafd",
+      "basis": "whole"
+    },
+    "youtube-video-2025-06-06-sales-leadership-ndn0rap4rpi-md-4b82b57cc7": {
+      "path": "youtube/video/2025-06-06-sales-leadership-NDn0raP4rpI.md",
+      "sha256": "431397890ee351527f05936658ee7c443cca5f2a7a96753f6875b8b821202121",
+      "basis": "whole"
+    },
+    "youtube-video-2009-07-01-cold-calling-ten-mistakes-made-on-the-telephone-part-1-1rlsn-aa150bca02": {
+      "path": "youtube/video/2009-07-01-cold-calling-ten-mistakes-made-on-the-telephone-part-1-1RLsnSi1q_g.md",
+      "sha256": "dd2702e488b72430a142730d0bc4ae8ea9cddc1b7e0d5658d4b61b421940f145",
+      "basis": "whole"
+    },
+    "youtube-video-2008-06-26-the-sales-process-g-hskhet-0-md-d701c9eddc": {
+      "path": "youtube/video/2008-06-26-the-sales-process-G-_hSKhet_0.md",
+      "sha256": "6d1f3294c89e5b52ee1bbf87200d4111bfa3ba6b42e1430926f0c2ad2da8874e",
+      "basis": "whole"
+    },
+    "youtube-video-2006-12-18-creating-customers-on-the-telephone-gkqp1g-evig-md-4a0574ad00": {
+      "path": "youtube/video/2006-12-18-creating-customers-on-the-telephone-gkqP1G_evig.md",
+      "sha256": "9a5b7c46739b1b996903224a868c206c95dcfa5c70558ec736b319b09918a924",
+      "basis": "whole"
+    },
+    "youtube-video-2009-07-08-ten-mistakes-made-on-the-telephone-part-two-hayny8-5jsw-md-7418ae0864": {
+      "path": "youtube/video/2009-07-08-ten-mistakes-made-on-the-telephone-part-two-haYNY8-5jSw.md",
+      "sha256": "44cc7257e6068402a045730a823246bb8437ed09719c63894f9bfa1535f36e97",
+      "basis": "whole"
+    },
+    "youtube-guests-video-2018-10-03-colly-graham-key-accounts-kynsldg4die-md-14fdd6733c": {
+      "path": "youtube-guests/video/2018-10-03-colly-graham-key-accounts-kYNsldG4diE.md",
+      "sha256": "38ce190204cbbfcf2a8eb137509cbcac7f43a9e0f73c84ed048013662cfa8dbe",
+      "basis": "whole"
+    },
+    "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47": {
+      "path": "youtube-guests/video/2021-11-19-from-homeless-to-sales-expert-interview-with-colly-graham-fr-HhBVPHkGRz0.md",
+      "sha256": "cbad508402a5c928b6920469184330be41dc94dbb6866b4c9e28da07970621e8",
+      "basis": "sections"
+    },
+    "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390": {
+      "path": "youtube-guests/video/2026-09-20-why-do-we-trust-influencers-over-experts-aTTL2RJAH08.md",
+      "sha256": "992aa225de53b8575e71f356cc486e31f186ef4133a7db95f779366f2d8db2a4",
+      "basis": "sections"
+    },
+    "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f": {
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "sha256": "335cddc1c3ceb07f4ac9c53e60410f0a654a05fc6ef3550f91944a9e56856583",
+      "basis": "sections"
+    },
+    "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa": {
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "sha256": "aed651c7531101c8b6104bc5f01ecae2bea353327aafb5f67ec9224c61213e49",
+      "basis": "sections"
     }
   },
   "items": [
@@ -12965,6 +13030,1333 @@
       "source_id": "youtube-video-2020-08-10-colly-graham-talks-to-patrick-tinney-tb1viczav2c-md-40fe375b2e",
       "path": "youtube/video/2020-08-10-colly-graham-talks-to-patrick-tinney-Tb1VIcZav2c.md",
       "prev": "youtube-video-2020-08-10-colly-graham-talks-to-patrick-tinney-tb1viczav2c-md-40fe375b2e:0268-0279",
+      "next": null
+    },
+    {
+      "title": "Answering Objections on the Telephone",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "handling objections"
+        },
+        {
+          "facet": "topic",
+          "label": "cold calling"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "The 4 objections that we get on the telephone are no thanks Im happy with what Im doing now Hear them all the time We talked about that No thanks Im happy with what Im doing now Im not interested Im too busy Send me some literature And its the same answer each time Its the same answer each time The foremost comes no thanks Im happy with what Im doing now Most people when I phone them for the first time say that However when theyre able to see the benefits of what we do then they shut up Or they ",
+      "item_id": "youtube-video-2009-10-05-sales-training-answering-objections-on-the-telephone-pkhkgs4-88afb570bc:0015-0015",
+      "source_id": "youtube-video-2009-10-05-sales-training-answering-objections-on-the-telephone-pkhkgs4-88afb570bc",
+      "path": "youtube/video/2009-10-05-sales-training-answering-objections-on-the-telephone-pkhKGs4BGWw.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "What Would You Do If You Knew You Couldn't Fail?",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "mindset preparation"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "So what would you do if you knew you couldnt fail What would you do tomorrow if you knew you couldnt fail How would you live your life if you knew you couldnt fail What would you do Most people live their lives as if they think theyre going to fail Isnt that right Couldnt do that Oh that would not work Oh how could I do that Oh how could I stand up before 22 people I dont know and give them a talk about how to find work And what they say to me when they say oh Colly in marketing we said you shou",
+      "item_id": "youtube-video-2009-06-27-what-would-you-do-if-you-knew-you-couldn-t-fail-d4v7m42b60i-1d534e2943:0015-0015",
+      "source_id": "youtube-video-2009-06-27-what-would-you-do-if-you-knew-you-couldn-t-fail-d4v7m42b60i-1d534e2943",
+      "path": "youtube/video/2009-06-27-what-would-you-do-if-you-knew-you-couldn-t-fail-D4V7M42b60I.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The Sales Process and Building Your Ideal Customer Profile",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "ideal customer profile"
+        },
+        {
+          "facet": "topic",
+          "label": "sales pipeline"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "Im going to talk a little about for people who havent been in sales about the sales process Because the sales process its important that we understand what we mean by the sales process We have a suspect we have a prospect we have a lead and we have a customer Now its a little bit like a detective when hes on a case The first thing a detective has when hes on a case is he has a suspect So everybody when a crimes been committed everybodys a suspect So my 9 year old granddaughter tells me she said ",
+      "item_id": "youtube-video-2012-05-14-the-ideal-prospect-sales-training-u5pqckd5sao-md-afdfcc0327:0015-0015",
+      "source_id": "youtube-video-2012-05-14-the-ideal-prospect-sales-training-u5pqckd5sao-md-afdfcc0327",
+      "path": "youtube/video/2012-05-14-the-ideal-prospect-sales-training-U5pQCkD5SAo.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Sales Leadership Masterclass Overview",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales leadership"
+        },
+        {
+          "facet": "topic",
+          "label": "sales management"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "How do you know if you have a successful sales organization The Sales Leadership Masterclass focuses on developing the knowledge skills and strategies necessary to transform a sales team into a dynamic productive force The sales managers role then is proved to be successful to the extent by which he or she is able to develop a highly skilled and productive sales force This specifically tailored interactive training on sales leadership will help all sales managers and sales leaders working in var",
+      "item_id": "youtube-video-2025-06-06-sales-leadership-ndn0rap4rpi-md-4b82b57cc7:0015-0015",
+      "source_id": "youtube-video-2025-06-06-sales-leadership-ndn0rap4rpi-md-4b82b57cc7",
+      "path": "youtube/video/2025-06-06-sales-leadership-NDn0raP4rpI.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Cold Calling - Ten Mistakes Made on the Telephone Part 1",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cold calling"
+        },
+        {
+          "facet": "topic",
+          "label": "telesales mistakes"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "What are the 10 mistakes that people make on the telephone What are the 10 mistakes people make on the telephone Sending out unnecessary literature Its one of the things because what happens is somebody phones you up and the first thing they say to you is send me a brochure Right Yes And what do you say then Id say visit the website Okay And look at that as what youre going to say for tomorrow When somebody says Id love to send you a brochure Ive got a cupboard full of them and I dont know what ",
+      "item_id": "youtube-video-2009-07-01-cold-calling-ten-mistakes-made-on-the-telephone-part-1-1rlsn-aa150bca02:0015-0015",
+      "source_id": "youtube-video-2009-07-01-cold-calling-ten-mistakes-made-on-the-telephone-part-1-1rlsn-aa150bca02",
+      "path": "youtube/video/2009-07-01-cold-calling-ten-mistakes-made-on-the-telephone-part-1-1RLsnSi1q_g.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "The Sales Process",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales process"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 20
+      },
+      "quote": "Im going to give you some ideas of what the sales process is about Okay so youre all in business I always ask everybody why are they in business Why are you in business Why would you be in business But the single most important thing and if this is the only thing you take away from this workshop is this next thing that Im going to tell you And that is the single most successful thing to do in sales sorry to do in business The single most successful thing to do in business is what Make money Make",
+      "item_id": "youtube-video-2008-06-26-the-sales-process-g-hskhet-0-md-d701c9eddc:0016-0020",
+      "source_id": "youtube-video-2008-06-26-the-sales-process-g-hskhet-0-md-d701c9eddc",
+      "path": "youtube/video/2008-06-26-the-sales-process-G-_hSKhet_0.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Creating Customers on the Telephone",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "telephone prospecting"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 20
+      },
+      "quote": "Creating customers on the telephone Thats really what were talking about going to be talking about for the next You can actually go and pick up the telephone and make it ring yourself So can I ask you first of all why are you in business Why are you in business Its something I really really enjoy doing Its a service that is needed Its a good calorie in the area Weve been in business for 12 years Youre in business for 2 purposes only And the amazing thing is if you look after these 2 purposes and",
+      "item_id": "youtube-video-2006-12-18-creating-customers-on-the-telephone-gkqp1g-evig-md-4a0574ad00:0016-0020",
+      "source_id": "youtube-video-2006-12-18-creating-customers-on-the-telephone-gkqp1g-evig-md-4a0574ad00",
+      "path": "youtube/video/2006-12-18-creating-customers-on-the-telephone-gkqP1G_evig.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Ten Mistakes Made on the Telephone Part Two",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cold calling mistakes"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 28
+      },
+      "quote": "Stop asking questions And Ill tell you my doctor story I was actually having the flu jab this morning so it wasnt too bad But I went to my doctor Anybody been to the doctors recently Anybody been to the doctors Youre all healthy looking people youre very lucky So anyway so I walk into my doctor and my doctor says Good morning Colly how are you I want to tell you that I qualified in Edinburgh University I studied medicine there for 5 years I was then a houseman In Leeds Infirmary where I worked t",
+      "item_id": "youtube-video-2009-07-08-ten-mistakes-made-on-the-telephone-part-two-hayny8-5jsw-md-7418ae0864:0016-0028",
+      "source_id": "youtube-video-2009-07-08-ten-mistakes-made-on-the-telephone-part-two-hayny8-5jsw-md-7418ae0864",
+      "path": "youtube/video/2009-07-08-ten-mistakes-made-on-the-telephone-part-two-haYNY8-5jSw.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Key Account Management Skills and Strategy",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "key account management"
+        },
+        {
+          "facet": "activity",
+          "label": "webinar presentation"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 18
+      },
+      "quote": "Thank you Adam Good morning this is Colly Graham from salesxcellencecom along with Adam this morning looking at key account management skills So the question weve got to ask is how do we define A key account And what are we going to be looking at this morning Well were going to look at how we can develop a strategic approach to account management how can we construct and implement a profitable long term key account plan And one of the important things in business with our key account customers i",
+      "item_id": "youtube-guests-video-2018-10-03-colly-graham-key-accounts-kynsldg4die-md-14fdd6733c:0016-0018",
+      "source_id": "youtube-guests-video-2018-10-03-colly-graham-key-accounts-kynsldg4die-md-14fdd6733c",
+      "path": "youtube-guests/video/2018-10-03-colly-graham-key-accounts-kYNsldG4diE.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Evolution of Sales and the Myth of Social Selling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "consultative selling"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 27
+      },
+      "quote": "In 1969 Colly was living penniless begging on the streets of London Returning home to Belfast he secured his first sales job as a Pepsi Cola route salesman He did well in that job and progressed but then he was offered a sales role with a startup Unfortunately Colly had a big problem with alcohol at that time and had to enter recovery in 1974 But since then hes been clean and sober As the startup grew he was promoted to the role of sales and marketing manager overseeing 15 outside and 4 inside s",
+      "item_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0016-0027",
+      "source_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47",
+      "path": "youtube-guests/video/2021-11-19-from-homeless-to-sales-expert-interview-with-colly-graham-fr-HhBVPHkGRz0.md",
+      "prev": null,
+      "next": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0028-0039"
+    },
+    {
+      "title": "Opening vs. Closing the Sale",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "closing techniques"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 39
+      },
+      "quote": "Yeah So then my next question is is around closing right Theres this famous movie called Glengarry Glen Ross And in the movie the sales manager says to one of the salespeople coffee is for closers Yeah I know that sales managers still look for people who can close the sale But what are your thoughts about this emphasis on closing the sale with salespeople Yeah because Alec Baldwin says in that movie A B C always be closing Right Interesting Yeah Now interesting when I first started my sales trai",
+      "item_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0028-0039",
+      "source_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47",
+      "path": "youtube-guests/video/2021-11-19-from-homeless-to-sales-expert-interview-with-colly-graham-fr-HhBVPHkGRz0.md",
+      "prev": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0016-0027",
+      "next": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0040-0051"
+    },
+    {
+      "title": "Establishing Genuine Rapport with Prospects",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "building rapport"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 40,
+        "end_line": 51
+      },
+      "quote": "Thats very good advice Colly because I I agree with you that its not its not about what you do at the end The end should take care of itself if youve done everything right leading up to that point Yeah exactly No so speaking about what you do in the beginning rapport with the prospect is usually important to to the the establishment of trust and having the other person feel like theyd like to do business with you What are your favorite ways to establish rapport with a prospect Again because of L",
+      "item_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0040-0051",
+      "source_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47",
+      "path": "youtube-guests/video/2021-11-19-from-homeless-to-sales-expert-interview-with-colly-graham-fr-HhBVPHkGRz0.md",
+      "prev": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0028-0039",
+      "next": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0052-0063"
+    },
+    {
+      "title": "Strategies for Re-engaging Ghosting Prospects",
+      "tags": [
+        {
+          "facet": "situation",
+          "label": "lead stops responding"
+        },
+        {
+          "facet": "topic",
+          "label": "prospect follow-up"
+        }
+      ],
+      "span": {
+        "start_line": 52,
+        "end_line": 63
+      },
+      "quote": "Fantastic I really love something you said there Colly If you treat people as your friend then you wont have trouble establishing rapport I mean Im paraphrasing but I think that message rings true that you dont need to really worry about it if you just treat them as a friend and put their interests ahead of your own What should a salesperson do when theyve had a great meeting with a prospect and feel that a sale could happen but now the prospect wont return their calls or email Well 2 things you",
+      "item_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0052-0063",
+      "source_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47",
+      "path": "youtube-guests/video/2021-11-19-from-homeless-to-sales-expert-interview-with-colly-graham-fr-HhBVPHkGRz0.md",
+      "prev": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0040-0051",
+      "next": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0064-0074"
+    },
+    {
+      "title": "Structuring New Salesperson Success with Habits and 30-60-90 Day Goals",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales onboarding"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 64,
+        "end_line": 74
+      },
+      "quote": "So what do you recommend newer salespeople do to speed up their success Because of course they they want to get successful faster Do you have any ideas or suggestions for new salespeople Yeah well one of the things that I do is I work on an onboarding induction system and I call it 30 60 90 days And the first thing is that first 30 days I get them to set targets for themselves or goals rather set goals for themselves thats practical realistic attainable measured known and understood Once theyve ",
+      "item_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0064-0074",
+      "source_id": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47",
+      "path": "youtube-guests/video/2021-11-19-from-homeless-to-sales-expert-interview-with-colly-graham-fr-HhBVPHkGRz0.md",
+      "prev": "youtube-guests-video-2021-11-19-from-homeless-to-sales-expert-interview-with-colly-gr-629f3b2c47:0052-0063",
+      "next": null
+    },
+    {
+      "title": "Defining Influencers Versus Experts and Perceived Relatability",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "influencers vs experts"
+        },
+        {
+          "facet": "situation",
+          "label": "clients challenging expertise based on social media content"
+        }
+      ],
+      "span": {
+        "start_line": 17,
+        "end_line": 28
+      },
+      "quote": "Were going to have a very I think very interesting discussion today something that has come to me in various ways over approximately the last 2 weeks or so when people are talking about an influencer somebody following influencers rather than taking up work wanting to work with an expert So today Im inviting our participants here and those who are watching us from LinkedIn directly to take part in the discussion if you wish to through comments Why do we trust influencers over experts or do we Wh",
+      "item_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0017-0028",
+      "source_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390",
+      "path": "youtube-guests/video/2026-09-20-why-do-we-trust-influencers-over-experts-aTTL2RJAH08.md",
+      "prev": null,
+      "next": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0029-0040"
+    },
+    {
+      "title": "Adding Value and Organic Influence Versus Self-Appointed Labels",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "adding value"
+        },
+        {
+          "facet": "topic",
+          "label": "audience trust"
+        }
+      ],
+      "span": {
+        "start_line": 29,
+        "end_line": 40
+      },
+      "quote": "Oh yes of course it does No I dont think so You know what I do like I I have 3 newsletters I post about business I actually try to give people not advice but what I feel might be helpful might be valuable to people You know because one of the most interesting things 1996 when I started my business I almost went bankrupt after 4 months I went broke in my business And I got the greatest advice ever is And I was told this stop trying to get and start giving Add value to peoples lives Dont worry abo",
+      "item_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0029-0040",
+      "source_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390",
+      "path": "youtube-guests/video/2026-09-20-why-do-we-trust-influencers-over-experts-aTTL2RJAH08.md",
+      "prev": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0017-0028",
+      "next": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0041-0052"
+    },
+    {
+      "title": "Building Influence in Sales Through Trust, Credibility, and Intention",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "trust and credibility"
+        },
+        {
+          "facet": "topic",
+          "label": "sales decision making"
+        }
+      ],
+      "span": {
+        "start_line": 41,
+        "end_line": 52
+      },
+      "quote": "In the area of sales Colly Im coming back to you on that particular area I see that I call that the area of expertise and Peter is the area of expertise of working with peoples psyche mindset you know where they are at in that perspective So coming back to the sales area of influencing or you know through how words are used how a presentation is done the salesperson is wanting to influence the buyer to buy Is that something you come across when you are working with people in that field that they",
+      "item_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0041-0052",
+      "source_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390",
+      "path": "youtube-guests/video/2026-09-20-why-do-we-trust-influencers-over-experts-aTTL2RJAH08.md",
+      "prev": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0029-0040",
+      "next": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0053-0064"
+    },
+    {
+      "title": "Celebrity Aspiration, Relatable Communication, and the Expert Gap",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "celebrity culture"
+        },
+        {
+          "facet": "topic",
+          "label": "communication gap"
+        }
+      ],
+      "span": {
+        "start_line": 53,
+        "end_line": 64
+      },
+      "quote": "Yeah And they think if you have a Rolex and a Porsche Youve made it He discovered that he got a Rolex and a Porsche He created an IT company He created neuro equipment for to be able to read the brain which was very expensive And then the whole thing collapsed around him and he was in debt to five million pounds Now he is fortunate as he says and Ive listened to him on podcasts that He was a neurosurgeon so he could actually get himself back on his feet But what he actually did he actually forme",
+      "item_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0053-0064",
+      "source_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390",
+      "path": "youtube-guests/video/2026-09-20-why-do-we-trust-influencers-over-experts-aTTL2RJAH08.md",
+      "prev": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0041-0052",
+      "next": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0065-0076"
+    },
+    {
+      "title": "Client-Centric Value and Authenticity as Keys to True Influence",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "authenticity"
+        },
+        {
+          "facet": "topic",
+          "label": "client perception of value"
+        }
+      ],
+      "span": {
+        "start_line": 65,
+        "end_line": 76
+      },
+      "quote": "Yeah thats a good question And there are 2 ways of looking at business Either youre clients are there as a cash cow and you dont give 2 hoots You just need to flog your stuff or youre there to provide something that actually adds value And its 2 different ways of looking at it And Im here for my clients Im here to add value Very good But I only add value if my client thinks I have added value I cant take I cant take 5 quid of value and just drop on you It has to be perceived by the client Well I",
+      "item_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0065-0076",
+      "source_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390",
+      "path": "youtube-guests/video/2026-09-20-why-do-we-trust-influencers-over-experts-aTTL2RJAH08.md",
+      "prev": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0053-0064",
+      "next": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0077-0081"
+    },
+    {
+      "title": "Rejecting Labels in Favor of Personal Connection and Tailored Influence",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "relatability"
+        },
+        {
+          "facet": "topic",
+          "label": "professional labeling"
+        }
+      ],
+      "span": {
+        "start_line": 77,
+        "end_line": 81
+      },
+      "quote": "Yes I think thats excellent Thats an excellent comment to finalize our session here And you said a lot of very valuable things there that I need to listen back to later and perhaps the people that have been listening now as well So thanks Colly really good Thank you Peter What is your finalized comments for this session Youve already come up with some really interesting and very valuable parts here Now that Colly can see hes an influencer even though he didnt think he was but he actually is What",
+      "item_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0077-0081",
+      "source_id": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390",
+      "path": "youtube-guests/video/2026-09-20-why-do-we-trust-influencers-over-experts-aTTL2RJAH08.md",
+      "prev": "youtube-guests-video-2026-09-20-why-do-we-trust-influencers-over-experts-attl2rjah08-8132f6d390:0065-0076",
+      "next": null
+    },
+    {
+      "title": "Welcome Back and Co-Host Catch-Up",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "podcast opening"
+        }
+      ],
+      "span": {
+        "start_line": 17,
+        "end_line": 28
+      },
+      "quote": "Yes Hi everybody how you doing Welcome to Business Conversations with myself Peter Doak and my wonderful co host Martin Gilchrist of Gilchrist and Co Chartered Accountants This week we are back to normal service after um a wonderful week where Wayne Denner stood in for myself as co host So shes Huge thank you to Wayne for for for doing that and also a huge thank you to our guest last week Lisa Park who talked to us all about her wonderful journeys in in business But now were back and we are badd",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0017-0028",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": null,
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0029-0040"
+    },
+    {
+      "title": "Audience Growth and Introducing Colly Graham",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "guest introduction"
+        }
+      ],
+      "span": {
+        "start_line": 29,
+        "end_line": 40
+      },
+      "quote": "Just on that I we were talking about this before we came live and came on but I was watching it and it didnt feel that way to me It didnt feel like there was any disjointment It felt good And it was very interesting to watch it back from a viewer point of view because when youre doing it and when youre doing video I think youre not always youre not always able to absorb or watch something that youre on with an objective viewpoint So being able to watch business conversations without me being on ",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0029-0040",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0017-0028",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0041-0052"
+    },
+    {
+      "title": "Colly Graham's Early Life and Journey to Sales Excellence",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "career journey"
+        }
+      ],
+      "span": {
+        "start_line": 41,
+        "end_line": 52
+      },
+      "quote": "I will do I would echo that and say Ive been looking forward to this as well because I wouldnt have known Colly for as long as you would have Martin But every interaction Ive had with him maybe over the last couple of years Ive enjoyed Really really looking forward to this and I will bring Colly into the room right now Buttons are being pressed Stuff is happening Colly has joined us and there he is the man himself Were your ears burning Colly Could you hear what we were saying about you when you",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0041-0052",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0029-0040",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0053-0064"
+    },
+    {
+      "title": "Adversity and Inspiration from Colly's Father",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "personal resilience"
+        }
+      ],
+      "span": {
+        "start_line": 53,
+        "end_line": 64
+      },
+      "quote": "Very good Colly that brings me to a point That brings me up thank you fantastic introduction And youve left out an awful lot of stuff like youre in the Royal Air Force and youre all that But um one question before I let Peter join in here Um when I was introducing you um before you came on one of the things I said about you um and one of the things that I really admire about you in all the years that I have known you Ive never heard you say one bad word or made one negative comment about anybody",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0053-0064",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0041-0052",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0065-0076"
+    },
+    {
+      "title": "The Story of Bobby's Patent Hen Tonic",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "entrepreneurship storytelling"
+        }
+      ],
+      "span": {
+        "start_line": 65,
+        "end_line": 76
+      },
+      "quote": "Why would you need that I know And then And he had he had my brother and I we used to have to sit at the kitchen table and bottle this in sort of like all these medicine bottles And then we had to stick the labels on it And he went around to farmers and sold them his uh Bobbys my fathers name was Bobby Bobbys Patent Hen Tonic So you can guess coming from that background Martin how could I be anybody else than the person I am This is the thing I cant I sometimes I cant work with it Well this is t",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0065-0076",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0053-0064",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0077-0088"
+    },
+    {
+      "title": "Selling Hen Tonic Door-to-Door",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "direct sales pricing"
+        }
+      ],
+      "span": {
+        "start_line": 77,
+        "end_line": 88
+      },
+      "quote": "Theres a lot of questions that come from that like why would you want that But I guess you would Yeah Also how much did a bottle cost I think I noticed it was half a crown 12 and a half p A lot of money in those days I know So 4 bottles made a pound Are you Bauhaus for four points I know yeah",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0077-0088",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0065-0076",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0089-0100"
+    },
+    {
+      "title": "Transitioning from the RAF to Early Employment",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "early career history"
+        }
+      ],
+      "span": {
+        "start_line": 89,
+        "end_line": 100
+      },
+      "quote": "Martin I have a hundred I have a hundred questions for for Colly So if you want to if you want to ask Eddie go for it But no youre far away Lets lets hit him from both sides here Okay Hes too good to let him rest You know lets lets get him from both sides So Colly about Pepsi Cola So that was your kind of first major job or no No my first well I was in the RAF but um the RAF didnt like me I ended",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0089-0100",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0077-0088",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0101-0112"
+    },
+    {
+      "title": "Incidents and Early Discharge from the RAF",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "military service anecdotes"
+        }
+      ],
+      "span": {
+        "start_line": 101,
+        "end_line": 112
+      },
+      "quote": "up no I ended up in um they had a great thing they had an American club I was on the on a an RAF base called RAF Marham which is still operational Thats actually where they fly the fighters out or the bombers out to bomb Iraq or Iran or wherever they decide to bomb next And there was Americans on that base and they had at that time that was the time of the Cold War and it was the time of the uh Cuba Crisis as well And we had this thing which was QRA which was Quick Readiness Alert which meant wi",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0101-0112",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0089-0100",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0113-0124"
+    },
+    {
+      "title": "Misadventures in Accounting and Hypothetical Wealth",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "financial perspective"
+        }
+      ],
+      "span": {
+        "start_line": 113,
+        "end_line": 124
+      },
+      "quote": "Thats generally the way all accountants do it you know Yeah they dont know how to count Then I got into lots of trouble because I couldnt balance the books And I once misstook somebody And we used to go on this pay parade And the guy beside you he would call out the amount that you were supposed to pay And he shouted 8 And I paid the guy 80 instead of 8 Oh my goodness So there was a bit of a furore over that as well about and this guy he didnt want to pay it back It wasnt his fault He obviously ",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0113-0124",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0101-0112",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0125-0136"
+    },
+    {
+      "title": "Family Priorities and Founding Sales Excellence",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "value-based selling"
+        }
+      ],
+      "span": {
+        "start_line": 125,
+        "end_line": 136
+      },
+      "quote": "Very good No seriously I would make sure that my grandchildren were financially secure That would be my first thing I would do that Uh well by the those are my step granddaughters Um you know Id make sure that theyre all financially secure get them all a house Uh the youngest one probably put in trust Build a house with a swimming pool which you would like and I would build Sales Excellence to be bigger and better Very good Yeah just to divert ever so slightly Colly could you tell us a little bi",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0125-0136",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0113-0124",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0137-0148"
+    },
+    {
+      "title": "Overcoming Early Business Struggles through Mindset and Mentorship",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "mindset and philosophy"
+        }
+      ],
+      "span": {
+        "start_line": 137,
+        "end_line": 148
+      },
+      "quote": "Well he was actually a guy and he was from Long Beach California And I found it at that time it was the emerging internet and I was doing some research on the internet and I found this website called Many Paths Have Led You Here What has led you here So I contacted the man behind the site behind the website Turned out he was a guy called Gene Oliver I said to Gene I need some help things are going very badly And he actually mentored me on a spiritual basis Now I use the word spiritual not religi",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0137-0148",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0125-0136",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0149-0160"
+    },
+    {
+      "title": "Asking for More and the 3 Cs of Selling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "consultative selling"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 149,
+        "end_line": 160
+      },
+      "quote": "I did have hair at the time because its important to have hair if youre a hippie and I had long hair But anyway what happened we all used to congregate on the steps of Eros and thats where we spent our day And I was only there for my first couple of days and this guy comes to me and he said Hey I heard you asking for sixpence for a cup of tea there And I go yeah thats right And he says uh stop doing that What do you mean stop doing that He says no He says the next American tourist you see dont a",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0149-0160",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0137-0148",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0161-0172"
+    },
+    {
+      "title": "Preparing for the Northern Ireland Sales Summit",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "event promotion"
+        }
+      ],
+      "span": {
+        "start_line": 161,
+        "end_line": 172
+      },
+      "quote": "Yeah listen theres one question and Peter I know you were just about to ask a question No no you work away But I want to make sure Colly you have an event coming up with a couple of compatriots of yours in the near future Im going to go to that but can you tell our audience a little bit about it Yeah well we ran an event back last February It was called the Northern Ireland Sales Summit and 3 of us a guy called Jim Irvine whos Scottish but he lives now outside Castle Dawson with his wife Yvonne ",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0161-0172",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0149-0160",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0173-0184"
+    },
+    {
+      "title": "Managing Imposter Syndrome and Embracing Longevity",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "imposter syndrome"
+        }
+      ],
+      "span": {
+        "start_line": 173,
+        "end_line": 184
+      },
+      "quote": "married recently actually Yes thats right And Katies going to be talking on resilience and mindset in selling And then were going to have 3 breakout rooms for Jim Niraj myself to teach that And Ive just finished making a 3 minute video Well I havent finished making Ive just recorded it this evening because were launching that And looking forward to that event The last one was a great success Our feedback was really good I was pleasantly surprised um of what we did One of the things that I suffer",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0173-0184",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0161-0172",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0185-0196"
+    },
+    {
+      "title": "Early Influences and the 'Goya' Technique",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales motivation"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 185,
+        "end_line": 196
+      },
+      "quote": "Very good Um Colly you you mentioned about your best sales tip Um where did you learn your best sales tip Well I had in the early days in sales there was there was no sales training uh available here either in the UK or anywhere And there were theres 2 sales trainers One was a guy called Brian Tracy who is still going strong one of the uh written a lot of books in sales And the other was a guy called Tom Hopkins which which Im friendly with on on LinkedIn And he wrote a great book on selling and",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0185-0196",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0173-0184",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0197-0208"
+    },
+    {
+      "title": "Advice to an 18-Year-Old: Setting Big Goals",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "goal setting"
+        }
+      ],
+      "span": {
+        "start_line": 197,
+        "end_line": 208
+      },
+      "quote": "So Martin another question from yourself if you wanted to ask any Um I I Im not sure if I know the answer to this or not already but if you were going to go back to your 18 year old self Colly and you could you could only give one piece of advice you go all the way back in time And you can speak to yourself when youre on your 18th birthday just pop out of the ether and say Colly Ill come back to talk to you I have something I have to tell you Set yourself big goals take the risk and go for it No",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0197-0208",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0185-0196",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0209-0220"
+    },
+    {
+      "title": "Playing Bass in The Triffids Showband",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "musical career history"
+        }
+      ],
+      "span": {
+        "start_line": 209,
+        "end_line": 220
+      },
+      "quote": "Oh wow The top band was the one I played in first The keyboard player was Darren Clarke the golfers father Godfrey I was the bass player Then the second band Is this true Is this true This is true This is true Godfrey Clarke Are you trying to fact check Colly Graham Yeah Well if you go and Google the Triffids which we were called youre likely to see us on",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0209-0220",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0197-0208",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0221-0232"
+    },
+    {
+      "title": "Reflecting on Band Photos and Music Connections",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "music industry anecdotes"
+        }
+      ],
+      "span": {
+        "start_line": 221,
+        "end_line": 232
+      },
+      "quote": "What a great name If you go to Facebook if you go on Facebooks uh Showband site you likely can find the Triffids And theres that that that was actually taken from our that top one that was taken from uh our handout card which we handed out to people Can you tell which one Colly is Uh were not close enough we cant see it The one with the bass Oh yes well actually Im the second one from the end And then down below and the one on the left hand side with the bass guitar Oh you got it right",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0221-0232",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0209-0220",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0233-0244"
+    },
+    {
+      "title": "Stories from Rock History and Connections with Thin Lizzy and Wings",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "entertainment industry anecdotes"
+        }
+      ],
+      "span": {
+        "start_line": 233,
+        "end_line": 244
+      },
+      "quote": "Peter Oh well done Sorry Peter got it right I know Yeah Now the guy in the back row with uh with all the hair hes a good friend of mine And have you ever heard of a guitar player from Hollywood called Gary Moore Yes",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0233-0244",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0221-0232",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0245-0256"
+    },
+    {
+      "title": "Focusing on Opening Sales and Authoring Books",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "appointment setting"
+        },
+        {
+          "facet": "situation",
+          "label": "pipeline generation"
+        }
+      ],
+      "span": {
+        "start_line": 245,
+        "end_line": 256
+      },
+      "quote": "He was Gary Moores drummer and recorded several albums with Gary Moore He also uh the drummer in Thin Lizzy broke their arm broke his arm A guy called Brian was the drummer with Thin Lizzy broke his arm and Pearse did a UK tour as the drummer with Thin Lizzy And he got offered the job as drummer in Wings but Henry McCulloch from Portrush talked him out of it because he said Pearse you will say something and Paul McCartney will get you thrown out of the music business Because apparently what happ",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0245-0256",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0233-0244",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0257-0268"
+    },
+    {
+      "title": "Balancing Ambition, Lifestyle, and Work-Life Choices",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "work-life balance"
+        }
+      ],
+      "span": {
+        "start_line": 257,
+        "end_line": 268
+      },
+      "quote": "Were married Its our 20th anniversary next year and Im going to surprise Mrs Graham with a cruise Now she actually said that shell go on a cruise as long as the ship doesnt go in water Because youre situated but I think if I land there and say okay were going to go and I think well just do you know a simple 7 day cruise to get the feel for it And that you know thats one of my goals to uh to do Um and my other goal is to travel Im off to the States to see a friend I met a guy for an hour back 11 ",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0257-0268",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0245-0256",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0269-0280"
+    },
+    {
+      "title": "Using Attraction Marketing Instead of High-Pressure Chasing",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "attraction marketing"
+        },
+        {
+          "facet": "situation",
+          "label": "prospecting follow-up"
+        }
+      ],
+      "span": {
+        "start_line": 269,
+        "end_line": 280
+      },
+      "quote": "the answer is thats one of my failings I dont Actually before we came on I got a list of the people Ive got to follow up who are actually my clients who went to that half day And I realized I dont have half their emails I had to say to Nairaj Nairaj would you send me those peoples emails Thank you Because you know you see one of the things is and Ive discovered and thats where people in sales people get on the chase and they chase people And there was a guy who I introduced to a client of mine o",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0269-0280",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0257-0268",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0281-0292"
+    },
+    {
+      "title": "Secrets of Success, Mindset, and the Online Sales Academy",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "mindset philosophy"
+        }
+      ],
+      "span": {
+        "start_line": 281,
+        "end_line": 292
+      },
+      "quote": "Yeah well Martin any before Ive got one last thing for Colly but anything you want to ask before we finish up Colly whats the question that we didnt ask you that we should have done and what would the answer be Ah whats the question you should have asked me And let me think Whats the secret of success And Ive already given you the answer 2 things Marcus Aurelius said youre as happy as you make your mind up to be And the second thing is do what you love and the money will follow And what I discov",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0281-0292",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0269-0280",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0293-0304"
+    },
+    {
+      "title": "Expressing Emotion, Caring for People, and Final Remarks",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "emotional intelligence"
+        }
+      ],
+      "span": {
+        "start_line": 293,
+        "end_line": 304
+      },
+      "quote": "I came away today from Declan and were in Declans office and I came away really motivated Yeah really looking looking forward to it And you know one thing then I I got I got a bit of bad news when I was on the train which really upset me emotionally and I had to actually phone a friend Um I dont know if you realize there was an incident on the railway station in Ballymena uh last Friday uh where a lady lost her life running for the train She fell between the train and the platform Oh I saw that ",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0293-0304",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0281-0292",
+      "next": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0305-0305"
+    },
+    {
+      "title": "Closing Acknowledgements",
+      "tags": [
+        {
+          "facet": "activity",
+          "label": "podcast closing"
+        }
+      ],
+      "span": {
+        "start_line": 305,
+        "end_line": 305
+      },
+      "quote": "Thank you Peter Thank you Martin",
+      "item_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0305-0305",
+      "source_id": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f",
+      "path": "youtube-guests/video/2022-08-04-top-sales-tips-with-colly-graham-8499ONczUCo.md",
+      "prev": "youtube-guests-video-2022-08-04-top-sales-tips-with-colly-graham-8499onczuco-md-9b136d879f:0293-0304",
+      "next": null
+    },
+    {
+      "title": "Introduction to Colly Graham and the Neuroscience of Success",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "neuroscience of success"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 17,
+        "end_line": 28
+      },
+      "quote": "Hello and welcome to Sellers Lounge Im your host Pritha Dubey an international sales trainer and founder of SuccessFit Women where we help organizations create sales superstars by combining the science of selling and emotional intelligence On this podcast I sit across global sales experts to find answers to some of the most pressing revenue growth questions that are on the minds of business heads CROs and startup founders today We are spotting the top trends and tools that are disrupting the lan",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0017-0028",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": null,
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0029-0040"
+    },
+    {
+      "title": "Developing Empathy and Managing Motivation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "empathy in sales"
+        },
+        {
+          "facet": "situation",
+          "label": "ego-driven communication"
+        }
+      ],
+      "span": {
+        "start_line": 29,
+        "end_line": 40
+      },
+      "quote": "Youve given it away Ive given it away So 4 months So what actually happened was I ended up that I turned my life around completely And I and you know when I hear people saying that that um a leopard cant change its spots now that might be true for a leopard but its not true for a human being you know because its its about our values and about are our values aligned with our goals you know to do that And that that social awareness And the most important thing in sales is having empathy with peopl",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0029-0040",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0017-0028",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0041-0052"
+    },
+    {
+      "title": "Tapping into Intuition and Creativity in Selling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "creativity and intuition"
+        }
+      ],
+      "span": {
+        "start_line": 41,
+        "end_line": 52
+      },
+      "quote": "Oh wow And I I believe that Now the interesting thing is how I my wife is a creationist and Im an evolutionist but we just agree agree to differ She is a churchgoer Im not a churchgoer but we allow each other to be the person that they are But I know that deep down within every individual there is a power And if you want to call it God thats a good name If you want to call it the universe thats a good name Mm hmm So my philosophy in life is the universe is planning to do me good So thats my phil",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0041-0052",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0029-0040",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0053-0064"
+    },
+    {
+      "title": "Mindset and Handling Sales Rejection",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "handling rejection"
+        },
+        {
+          "facet": "situation",
+          "label": "lead stops responding"
+        }
+      ],
+      "span": {
+        "start_line": 53,
+        "end_line": 64
+      },
+      "quote": "Yeah yeah yeah And that intuition and how do you tap into that intuition Well I would use you know meditation and mindfulness and Now Im actually doing an exercise that Im actually looking for someone to rebuild my Online Sales Academy website And I have 8 people to decide who will I choose out of these people So Ive listed them all on this sheet of paper Ive given them scores and they have Ive asked them to come back with some answers Im going to read the answers and then Im just going to go in",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0053-0064",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0041-0052",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0065-0076"
+    },
+    {
+      "title": "Approaching Rejection with a Resilient Mindset",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales mindset"
+        },
+        {
+          "facet": "situation",
+          "label": "fear of cold calling"
+        }
+      ],
+      "span": {
+        "start_line": 65,
+        "end_line": 76
+      },
+      "quote": "Hmm And I just emailed them back and said thank you very much for letting me know Lets remain friends And you always have my email if you want to talk True Yeah And that so you know so some you win some you lose And gosh I dont even think about the ones that I lose because theyve lost theyve lost me I havent lost them Yeah Yeah Yeah Yeah Colly this is very interesting And um this is so powerful what you you were just saying because This if all the salespeople start having this attitude that its ",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0065-0076",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0053-0064",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0077-0088"
+    },
+    {
+      "title": "Cold Calling Strategies: The Ten Nos Game and Disqualification",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cold calling"
+        },
+        {
+          "facet": "activity",
+          "label": "prospect qualification"
+        }
+      ],
+      "span": {
+        "start_line": 77,
+        "end_line": 88
+      },
+      "quote": "Hmm And the little game is simple is that when youre doing your cold calling when youre on the phone you play a game and youve got to get 10 nos in a row So when you phone up people youve got to youve got to see uh can you get a no So if if it goes if it goes along and you you get first person says yes second person says yes third person says no okay theres your first no Or if the first person says no the second person says no the third person says no you keep because one of the things about sel",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0077-0088",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0065-0076",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0089-0100"
+    },
+    {
+      "title": "Prioritizing Opening Sales Over Closing Deals",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sales prospecting"
+        },
+        {
+          "facet": "situation",
+          "label": "prospect pushes for quick pitch"
+        }
+      ],
+      "span": {
+        "start_line": 89,
+        "end_line": 100
+      },
+      "quote": "Hmm And Ben Feldman was able to sell 1 million worth of insurance today Now he had prospectors to to wheel people into his office to make that success But I asked Ben Feldman I said Ben you know how is it that you can make so many sales And what he said was I see the people And I go yeah you see the people I says but there must be something more to it than seeing the people He says yes I see more people Thats a good one Yeah and then one of the things that you know that I knew and I when I first",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0089-0100",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0077-0088",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0101-0112"
+    },
+    {
+      "title": "Finding the Gap and Delivering Value",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "value-based selling"
+        },
+        {
+          "facet": "situation",
+          "label": "customer questions product value"
+        }
+      ],
+      "span": {
+        "start_line": 101,
+        "end_line": 112
+      },
+      "quote": "Hmm So the question Ive got to ask me is is my product or service whether if youre a B2B is it adding is it adding value to their business How is it adding value How are you helping people to to do And I actually uh I actually think of one of what I was one of the companies that I train all the time is an app company and they theyve been theyve been amazing successful And I was I was having a training session and I I asked them the question you know I said you know wheres the gap And they go wha",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0101-0112",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0089-0100",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0113-0124"
+    },
+    {
+      "title": "Active Listening and Relationship Building via LinkedIn",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "social selling"
+        },
+        {
+          "facet": "activity",
+          "label": "LinkedIn prospecting"
+        }
+      ],
+      "span": {
+        "start_line": 113,
+        "end_line": 124
+      },
+      "quote": "True true true Yeah all of the compliments I got paid recently in training some people and and uh and I would actually do live telephone calls on their behalf and they said to me oh you dont know you dont know enough about our company Colly to be able to get an appointment And I said no thats your problem You know too much about your company and you want to tell them everything on the telephone Yeah Yeah true true And thats the thing So so the question youve got to youve got to do is you know ho",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0113-0124",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0101-0112",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0125-0136"
+    },
+    {
+      "title": "Reverse Selling and Using Humor in Follow-Ups",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "follow-up strategy"
+        },
+        {
+          "facet": "situation",
+          "label": "lead stops responding"
+        }
+      ],
+      "span": {
+        "start_line": 125,
+        "end_line": 136
+      },
+      "quote": "True true Yeah I want to you know because the other thing is you know when I one of my lines is and people call it reverse selling or whatever but is is going back to what we talked earlier about discounting people you know And Im saying you know I Ill understand if Im not a good fit for you or if you feel that I cant help you Please please dont be afraid to say no to me True You know you know and I know that thats thats what some of the things that that there are sales training companies Im try",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0125-0136",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0113-0124",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0137-0148"
+    },
+    {
+      "title": "Building Trust Through Tone, Language, and Influence",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "tonality and persuasion"
+        },
+        {
+          "facet": "activity",
+          "label": "sales pitch delivery"
+        }
+      ],
+      "span": {
+        "start_line": 137,
+        "end_line": 148
+      },
+      "quote": "I think there is so much This is where salespeople I can understand so well that you know where they need to wake up the salespeople and what is it that they need to find from within the power that you were talking about I think this is what the power is to take not to be so serious about this whole thing to add humor to add life Like you said no that living a life and having a happy life this is what adding life means that you are adding life to that entire conversation And youre not saying tha",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0137-0148",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0125-0136",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0149-0160"
+    },
+    {
+      "title": "Client-Centric Consultative Selling with a Blank Pad",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "consultative selling"
+        },
+        {
+          "facet": "situation",
+          "label": "overselling during a demonstration"
+        }
+      ],
+      "span": {
+        "start_line": 149,
+        "end_line": 160
+      },
+      "quote": "Oh And the guy actually said to me a couple of times Im not interested in sales training Im not interested in sales training I want to hear how this CRM can benefit me But I continued to say well heres the way I use this and you know thinking that that was a and this was my first year as a sales trainer And I suffer from the imposter syndrome Everybody suffers from the imposter syndrome and Ill talk to that about that in a moment because thats the greatest quality weve got Thats how I got a lot ",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0149-0160",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0137-0148",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0161-0172"
+    },
+    {
+      "title": "Leaving the Door Open and Long-Term Value in Selling",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "pipeline nurturing"
+        },
+        {
+          "facet": "situation",
+          "label": "prospect chooses competitor"
+        }
+      ],
+      "span": {
+        "start_line": 161,
+        "end_line": 172
+      },
+      "quote": "Yeah yeah You know and people said you know once you know interesting you know and going back you were saying about um one one of my one of my biggest clients over the years uh was in the south of England um and I used to fly over to them and do a weeks training Actually flew over and did 2 weeks training and I went and visited some friends who lived there for the weekend for them And how I won that contract was I went to see them I talked to them about what they needed and I didnt win the contr",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0161-0172",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0149-0160",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0173-0184"
+    },
+    {
+      "title": "Overcoming Imposter Syndrome and Listening Before Speaking",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "imposter syndrome"
+        },
+        {
+          "facet": "activity",
+          "label": "sales preparation"
+        }
+      ],
+      "span": {
+        "start_line": 173,
+        "end_line": 184
+      },
+      "quote": "Hmm You know that youre able youre able to think on your feet And and the other thing is you know one of my greatest defects which Im very aware of is I tend to talk over the top of people Im trying to stop it Colly dont do that because I would teach people Pause before you reply Hmm You know listen to what people have said and let the words form within your within your mind before you do it And and the other thing which I suffer from is the imposter syndrome Am I good enough Am I well enough qu",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0173-0184",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0161-0172",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0185-0196"
+    },
+    {
+      "title": "Recap and Learning Resilience from Personal Experience",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "resilience in sales"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 185,
+        "end_line": 196
+      },
+      "quote": "Yeah So then when I create the training it comes the very best And and it comes from my heart not just out of my head to do that Amazing amazing amazing Col I I really wish that you know I I probably will have to have a part two with you very soon because your your words of wisdom your experience it is so motivating Im just taking notes while as if its its a its a live class happening for me Im taking notes on everything that you are saying and Im Going to do a very quick recap for all the audie",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0185-0196",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0173-0184",
+      "next": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0197-0201"
+    },
+    {
+      "title": "Episode Wrap-Up and Connecting with Colly Graham",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "networking"
+        }
+      ],
+      "span": {
+        "start_line": 197,
+        "end_line": 201
+      },
+      "quote": "All right I think I lost you for a minute out there Colly Yeah just froze for a moment there Yeah yeah yeah But it was it was really a pleasure having you here and Im really looking forward to speaking with you a lot more And all those who are listening if you wish to connect with Colly its Colly Graham Youll find him on LinkedIn He is very easy to find Its not that difficult Please do connect with him because as you may have already understood by now there are tons and tons of knowledge and wis",
+      "item_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0197-0201",
+      "source_id": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa",
+      "path": "youtube-guests/video/2024-02-22-elevating-sales-potential-in-the-changing-face-of-sales-coll-N3b6lJnI8pY.md",
+      "prev": "youtube-guests-video-2024-02-22-elevating-sales-potential-in-the-changing-face-of-sal-e7a0e531aa:0185-0196",
       "next": null
     }
   ]

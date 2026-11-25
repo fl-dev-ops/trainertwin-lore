@@ -1,0 +1,20 @@
+---
+id: G-_hSKhet_0
+title: The Sales Process
+date: '2008-06-26'
+url: https://www.youtube.com/watch?v=G-_hSKhet_0
+description: "Five steps define the sales process methodology. Each step is made up of several key activities with predictable, measurable outcomes. The steps help the business person succeed by:\n1. Focusing on a total understanding of critical business issues faced by customers.\n2. Developing potential value to be gained by customers.\n3. Creating a strong desire in the customer to buy products and services supplied by your company.\nwww.salesxcellence.com\n\n-~-~~-~~~-~~-~-\nPlease watch: \"(3) Sales Training Strategy \" \nhttps://www.youtube.com/watch?v=rKFdlbUyx6c\n-~-~~-~~~-~~-~-"
+author: Colly Graham
+model: universal-3-5-pro
+transcript: true
+speaker_count: 2
+speakers:
+  speaker_1: 'Colly Graham'
+  speaker_2: 'Audience'
+---
+
+speaker_1: Im going to give you some ideas of what the sales process is about Okay so youre all in business I always ask everybody why are they in business Why are you in business Why would you be in business But the single most important thing and if this is the only thing you take away from this workshop is this next thing that Im going to tell you And that is the single most successful thing to do in sales sorry to do in business The single most successful thing to do in business is what
+
+speaker_2: Make money
+
+speaker_1: Make money Okay Make money How can we make money in business What happens what do we need to do to make money in business Have a good product Have a good product Succeed Succeed What do we need to do to succeed Now one of the things they say if you could invent a better mousetrap the world would beat a path to your door Its an old saying Im sure youve all heard that in marketing However if you dont go out and sell it nobody will buy it The most important thing to make money in business to be a success make sales If you dont make sales you cant create an invoice If you cant create an invoice you cant get paid If you cant get paid you cant make a profit So what is the sales process So a sales process is quite simply a series of customer focused steps that enables the salesperson to substantially increase win rates build customer retention increase revenue production and control the sales process And thats something that you want to do in your business wouldnt you Yes You want to be able to do that So lets look at how we can do that in business And doing that a great sales process can help you forecast your sales So were going to look at the steps So as you go through each step youre going to have a different number of customers along the way So you can actually say if I want X amount of sales per month so you all obviously have a business plan you have a marketing plan So a great sales process can help forecast the sales because if you say to yourself I I need X sales per month So thats the first thing You need to have a target because if you dont know where youre going any road will take you That theres definable steps You can look at the steps and well discuss those steps in detail as we move through Theres predictable outcomes for each step One of the things you can actually do is you can actually put percentages on the outcome You can actually use software to predict it Do this and you can say how many sales you did at each step I actually do it for myself and its often called a sales pipeline A sales pipeline will actually show you where your sales are Its repeatable activities So being repeatable these are the things that we need to do on a daily basis where we can so we can know what to repeat Measurable results we can see how we are You know how many proposals we have out there how many people we need to negotiate what step we need to take next And in sales theres always a next step You always need to ask the question when youre working with a customer or a client what do I need to do next Whats the next step I need to take to move this sale to a close And youll come up with an answer What do I need to do next
