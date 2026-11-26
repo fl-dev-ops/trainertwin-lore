@@ -1,0 +1,16 @@
+---
+title: "Sales ABC - Van acquisitie tot zakendoen"
+url: "https://www.managementboek.nl/magazine/preview/19530/sales-abc-van-acquisitie-tot-zakendoen"
+date: "2026-11-26"
+source: website
+---
+
+Welke verkoper heeft er nu op de Hogere Verkoopschool gezeten? Niemand toch? Er bestaan vakopleidingen om kapper, dokter of brandweerman te worden, maar een echte verkoopschool bestaat niet. Toch zou die wel nodig moeten zijn, want voor veel ondernemers, zzp’ers en mensen met klantcontact is sales geen abc’tje.
+Donderspeech
+Bij Sales-ABC denken veel mensen aan Always Be Closing: een wereldberoemde uitspraak van Alec Baldwin in de film Glengarry Glenn Cross. In een donderspeech probeert hij een stelletje ingekakte verkopers wakker te schudden: zij moeten altijd om de opdracht vragen. Gelukkig ligt die tijd achter ons, toen pusherige verkopers met hun voet tussen de deur hun koopwaar aan hun klanten opdrongen. Alhoewel er in zijn uitspraak wel een kern van waarheid zit: veel verkoopgesprekken zijn te vrijblijvend. Bied in ieder geval een concreet ‘closed’ vervolgmoment – dit is meteen de eerste tip van mijn boek. Het boek is dan ook bestemd voor iedereen met klantcontact die praktische inzichten zoekt.
+Letterlijk van A-tot-Z
+Het boek bevat de 26 relevantste salesonderwerpen. Van A tot Z, van Acquisitie tot Zakendoen. En dus alles wat daartussen zit. Zoals de B van Beïnvloeden (overtuigingstechnieken), de I van Inventariseren (vraagtechnieken), en de O van Onderhandelen (prijsonderhandelingen). Per onderwerp heb ik de inzichten kernachtig verwoord. Het scheelt je dus een hoop leeswerk: in plaats van 26 boeken nu één boek over de actueelste salesonderwerpen. Ga op zoek naar dat ene inzicht en die ene tip die je nog niet kent. Als je die in de praktijk toepast, is mijn opzet al geslaagd. Het zou zomaar kunnen dat net die ene tip je een opdracht oplevert. Dat zou toch geweldig zijn?
+Een echt doeboek
+In dit boek help ik je met het je eigen maken van commerciële inzichten en verkoopvaardigheden. Daarmee krijg je een voorsprong op anderen die jaren nodig hebben om verkoopervaring op te doen. Ik help je om dit proces te versnellen – to accelerate your sales – zodat ook voor jou sales een abc’tje wordt. Vaak krijg ik te horen: ‘Verkopen is toch een ervaringsvak dat je alleen kunt leren door het te doen, dat leer je toch niet uit een boekje?’ Dat klopt misschien wel. Golfen, een patiënt opereren of een vliegtuig besturen leer je ook niet uit een boekje. Maar met dit boek waag ik wel een serieuze poging; daarom is het ook anders dan andere boeken over sales. Het is naast een leesboek vooral een leerboek. En een doeboek, net als het vakantieboek dat je als kind meenam in je koffer: vol met verhalen, weetjes, oefeningen en raadsels. Met dit boek zet ik je aan het lezen, leren, denken – maar vooral aan het werk. Met de verworven inzichten maak je met vragen en opdrachten direct de vertaalslag naar jouw praktijk. Praktischer kan het niet.
+Leer spelenderwijs
+Kun je je nog herinneren hoe je vroeger leerde lezen? Je begon spelenderwijs met het alfabet. Zo leer je ook het Sales-ABC. Hoe meer letters en salesonderwerpen je jezelf eigen maakt, hoe groter de kans op succes, zodat sales ook voor jou een abc’tje wordt. Ik wens je dan ook veel lees-, inspiratie-, leer- en vooral doeplezier!

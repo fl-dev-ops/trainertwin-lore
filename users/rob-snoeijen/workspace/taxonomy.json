@@ -1,0 +1,1480 @@
+{
+  "activity": {
+    "sales-coaching": {
+      "id": "sales-coaching",
+      "preferred": "sales coaching",
+      "aliases": [
+        "sales coaching"
+      ],
+      "count": 37
+    },
+    "sales-training": {
+      "id": "sales-training",
+      "preferred": "sales training",
+      "aliases": [
+        "sales training"
+      ],
+      "count": 32
+    },
+    "acquisitie": {
+      "id": "acquisitie",
+      "preferred": "acquisitie",
+      "aliases": [
+        "acquisitie"
+      ],
+      "count": 14
+    },
+    "verkoopgesprek": {
+      "id": "verkoopgesprek",
+      "preferred": "verkoopgesprek",
+      "aliases": [
+        "verkoopgesprek"
+      ],
+      "count": 8
+    },
+    "beurstraining": {
+      "id": "beurstraining",
+      "preferred": "beurstraining",
+      "aliases": [
+        "beurstraining"
+      ],
+      "count": 3
+    },
+    "negotiation": {
+      "id": "negotiation",
+      "preferred": "negotiation",
+      "aliases": [
+        "negotiation"
+      ],
+      "count": 2
+    },
+    "online-training": {
+      "id": "online-training",
+      "preferred": "online training",
+      "aliases": [
+        "online training"
+      ],
+      "count": 2
+    },
+    "sales-pitch": {
+      "id": "sales-pitch",
+      "preferred": "sales pitch",
+      "aliases": [
+        "sales pitch"
+      ],
+      "count": 2
+    },
+    "microlearning": {
+      "id": "microlearning",
+      "preferred": "microlearning",
+      "aliases": [
+        "microlearning"
+      ],
+      "count": 1
+    },
+    "intakegesprek": {
+      "id": "intakegesprek",
+      "preferred": "intakegesprek",
+      "aliases": [
+        "intakegesprek"
+      ],
+      "count": 1
+    },
+    "presentatietraining": {
+      "id": "presentatietraining",
+      "preferred": "presentatietraining",
+      "aliases": [
+        "presentatietraining"
+      ],
+      "count": 1
+    },
+    "sales-consultancy": {
+      "id": "sales-consultancy",
+      "preferred": "sales consultancy",
+      "aliases": [
+        "sales consultancy"
+      ],
+      "count": 1
+    },
+    "keynote-speaking": {
+      "id": "keynote-speaking",
+      "preferred": "keynote speaking",
+      "aliases": [
+        "keynote speaking"
+      ],
+      "count": 1
+    },
+    "micro-learning": {
+      "id": "micro-learning",
+      "preferred": "micro learning",
+      "aliases": [
+        "micro learning"
+      ],
+      "count": 1
+    },
+    "sales-negotiation": {
+      "id": "sales-negotiation",
+      "preferred": "sales negotiation",
+      "aliases": [
+        "sales negotiation"
+      ],
+      "count": 1
+    },
+    "relatieopbouw": {
+      "id": "relatieopbouw",
+      "preferred": "relatieopbouw",
+      "aliases": [
+        "relatieopbouw"
+      ],
+      "count": 1
+    },
+    "adaptief-leren": {
+      "id": "adaptief-leren",
+      "preferred": "adaptief leren",
+      "aliases": [
+        "adaptief leren"
+      ],
+      "count": 1
+    },
+    "gamification": {
+      "id": "gamification",
+      "preferred": "gamification",
+      "aliases": [
+        "gamification"
+      ],
+      "count": 1
+    },
+    "brainstorm-exercise": {
+      "id": "brainstorm-exercise",
+      "preferred": "brainstorm exercise",
+      "aliases": [
+        "brainstorm exercise"
+      ],
+      "count": 1
+    },
+    "gespreksvoorbereiding": {
+      "id": "gespreksvoorbereiding",
+      "preferred": "gespreksvoorbereiding",
+      "aliases": [
+        "gespreksvoorbereiding"
+      ],
+      "count": 1
+    },
+    "book-introduction": {
+      "id": "book-introduction",
+      "preferred": "book introduction",
+      "aliases": [
+        "book introduction"
+      ],
+      "count": 1
+    },
+    "sales-assessment": {
+      "id": "sales-assessment",
+      "preferred": "sales assessment",
+      "aliases": [
+        "sales assessment"
+      ],
+      "count": 1
+    },
+    "klantgericht-ondernemen": {
+      "id": "klantgericht-ondernemen",
+      "preferred": "klantgericht ondernemen",
+      "aliases": [
+        "klantgericht ondernemen"
+      ],
+      "count": 1
+    },
+    "offertes-schrijven": {
+      "id": "offertes-schrijven",
+      "preferred": "offertes schrijven",
+      "aliases": [
+        "offertes schrijven"
+      ],
+      "count": 1
+    },
+    "telesales": {
+      "id": "telesales",
+      "preferred": "telesales",
+      "aliases": [
+        "telesales"
+      ],
+      "count": 1
+    },
+    "verkooptraining": {
+      "id": "verkooptraining",
+      "preferred": "verkooptraining",
+      "aliases": [
+        "verkooptraining"
+      ],
+      "count": 1
+    },
+    "workshop": {
+      "id": "workshop",
+      "preferred": "workshop",
+      "aliases": [
+        "workshop"
+      ],
+      "count": 1
+    },
+    "boekrecensie": {
+      "id": "boekrecensie",
+      "preferred": "boekrecensie",
+      "aliases": [
+        "boekrecensie"
+      ],
+      "count": 1
+    },
+    "customer-relationship-management": {
+      "id": "customer-relationship-management",
+      "preferred": "customer relationship management",
+      "aliases": [
+        "customer relationship management"
+      ],
+      "count": 1
+    }
+  },
+  "situation": {
+    "busy-schedule-with-no-time-for-lengthy-courses": {
+      "id": "busy-schedule-with-no-time-for-lengthy-courses",
+      "preferred": "busy schedule with no time for lengthy courses",
+      "aliases": [
+        "busy schedule with no time for lengthy courses",
+        "gebrek aan tijd door volle agenda",
+        "no time for long training programs"
+      ],
+      "count": 3
+    },
+    "inactive-or-dormant-clients": {
+      "id": "inactive-or-dormant-clients",
+      "preferred": "inactive or dormant clients",
+      "aliases": [
+        "inactive or dormant clients"
+      ],
+      "count": 1
+    },
+    "klanten-getouwtrek-bij-tariefverhoging": {
+      "id": "klanten-getouwtrek-bij-tariefverhoging",
+      "preferred": "klanten getouwtrek bij tariefverhoging",
+      "aliases": [
+        "klanten getouwtrek bij tariefverhoging"
+      ],
+      "count": 1
+    },
+    "start-of-the-new-year": {
+      "id": "start-of-the-new-year",
+      "preferred": "start of the new year",
+      "aliases": [
+        "start of the new year"
+      ],
+      "count": 1
+    },
+    "training-knowledge-fading": {
+      "id": "training-knowledge-fading",
+      "preferred": "training knowledge fading",
+      "aliases": [
+        "training knowledge fading"
+      ],
+      "count": 1
+    },
+    "angst-voor-acquisitie": {
+      "id": "angst-voor-acquisitie",
+      "preferred": "angst voor acquisitie",
+      "aliases": [
+        "angst voor acquisitie"
+      ],
+      "count": 1
+    },
+    "klant-twijfelt-of-stelt-kritische-vraag": {
+      "id": "klant-twijfelt-of-stelt-kritische-vraag",
+      "preferred": "klant twijfelt of stelt kritische vraag",
+      "aliases": [
+        "klant twijfelt of stelt kritische vraag"
+      ],
+      "count": 1
+    },
+    "eerste-klantcontact": {
+      "id": "eerste-klantcontact",
+      "preferred": "eerste klantcontact",
+      "aliases": [
+        "eerste klantcontact"
+      ],
+      "count": 1
+    },
+    "na-succesvolle-verkoopgesprekken": {
+      "id": "na-succesvolle-verkoopgesprekken",
+      "preferred": "na succesvolle verkoopgesprekken",
+      "aliases": [
+        "na succesvolle verkoopgesprekken"
+      ],
+      "count": 1
+    },
+    "klant-beoordeelt-offerte-na-verkoopgesprek": {
+      "id": "klant-beoordeelt-offerte-na-verkoopgesprek",
+      "preferred": "klant beoordeelt offerte na verkoopgesprek",
+      "aliases": [
+        "klant beoordeelt offerte na verkoopgesprek"
+      ],
+      "count": 1
+    },
+    "deal-evaluatie": {
+      "id": "deal-evaluatie",
+      "preferred": "deal evaluatie",
+      "aliases": [
+        "deal evaluatie"
+      ],
+      "count": 1
+    },
+    "omgaan-met-bezwaren": {
+      "id": "omgaan-met-bezwaren",
+      "preferred": "omgaan met bezwaren",
+      "aliases": [
+        "omgaan met bezwaren"
+      ],
+      "count": 1
+    },
+    "nervousness-or-difficulty-answering-tough-questions-during-p": {
+      "id": "nervousness-or-difficulty-answering-tough-questions-during-p",
+      "preferred": "nervousness or difficulty answering tough questions during presentations",
+      "aliases": [
+        "nervousness or difficulty answering tough questions during presentations"
+      ],
+      "count": 1
+    },
+    "onderhandelen-met-professionele-inkopers": {
+      "id": "onderhandelen-met-professionele-inkopers",
+      "preferred": "onderhandelen met professionele inkopers",
+      "aliases": [
+        "onderhandelen met professionele inkopers"
+      ],
+      "count": 1
+    },
+    "behoefte-en-pijnpunten-achterhalen": {
+      "id": "behoefte-en-pijnpunten-achterhalen",
+      "preferred": "behoefte en pijnpunten achterhalen",
+      "aliases": [
+        "behoefte en pijnpunten achterhalen"
+      ],
+      "count": 1
+    },
+    "concurrentie-onderscheiden": {
+      "id": "concurrentie-onderscheiden",
+      "preferred": "concurrentie onderscheiden",
+      "aliases": [
+        "concurrentie onderscheiden"
+      ],
+      "count": 1
+    }
+  },
+  "topic": {
+    "microlearning": {
+      "id": "microlearning",
+      "preferred": "microlearning",
+      "aliases": [
+        "microlearning"
+      ],
+      "count": 8
+    },
+    "sales-training": {
+      "id": "sales-training",
+      "preferred": "sales training",
+      "aliases": [
+        "sales training"
+      ],
+      "count": 7
+    },
+    "verkooptraining": {
+      "id": "verkooptraining",
+      "preferred": "verkooptraining",
+      "aliases": [
+        "verkooptraining"
+      ],
+      "count": 3
+    },
+    "verkooptechnieken": {
+      "id": "verkooptechnieken",
+      "preferred": "verkooptechnieken",
+      "aliases": [
+        "verkooptechnieken"
+      ],
+      "count": 3
+    },
+    "date-methodiek": {
+      "id": "date-methodiek",
+      "preferred": "DATE methodiek",
+      "aliases": [
+        "DATE methodiek",
+        "DATE® methodiek"
+      ],
+      "count": 3
+    },
+    "sales-skills": {
+      "id": "sales-skills",
+      "preferred": "sales skills",
+      "aliases": [
+        "Sales Skills",
+        "sales skills",
+        "sales skills and competencies"
+      ],
+      "count": 3
+    },
+    "sales-fundamentals": {
+      "id": "sales-fundamentals",
+      "preferred": "sales fundamentals",
+      "aliases": [
+        "sales fundamentals"
+      ],
+      "count": 2
+    },
+    "vraagtechnieken": {
+      "id": "vraagtechnieken",
+      "preferred": "vraagtechnieken",
+      "aliases": [
+        "vraagtechnieken"
+      ],
+      "count": 2
+    },
+    "sales-training-methodology": {
+      "id": "sales-training-methodology",
+      "preferred": "sales training methodology",
+      "aliases": [
+        "sales training methodology"
+      ],
+      "count": 2
+    },
+    "acquisitiegesprekken": {
+      "id": "acquisitiegesprekken",
+      "preferred": "acquisitiegesprekken",
+      "aliases": [
+        "acquisitiegesprekken"
+      ],
+      "count": 2
+    },
+    "cold-calling": {
+      "id": "cold-calling",
+      "preferred": "cold calling",
+      "aliases": [
+        "cold calling"
+      ],
+      "count": 2
+    },
+    "sales-motivation": {
+      "id": "sales-motivation",
+      "preferred": "sales motivation",
+      "aliases": [
+        "sales motivation"
+      ],
+      "count": 2
+    },
+    "sales-training-methodiek": {
+      "id": "sales-training-methodiek",
+      "preferred": "sales training methodiek",
+      "aliases": [
+        "sales training methodiek"
+      ],
+      "count": 2
+    },
+    "verkoopmethodiek": {
+      "id": "verkoopmethodiek",
+      "preferred": "verkoopmethodiek",
+      "aliases": [
+        "verkoopmethodiek"
+      ],
+      "count": 2
+    },
+    "actief-luisteren": {
+      "id": "actief-luisteren",
+      "preferred": "actief luisteren",
+      "aliases": [
+        "actief luisteren"
+      ],
+      "count": 2
+    },
+    "sales-skills-and-sales-attitude": {
+      "id": "sales-skills-and-sales-attitude",
+      "preferred": "sales skills and sales attitude",
+      "aliases": [
+        "sales skills and sales attitude"
+      ],
+      "count": 2
+    },
+    "klantverleiding": {
+      "id": "klantverleiding",
+      "preferred": "klantverleiding",
+      "aliases": [
+        "klantverleiding"
+      ],
+      "count": 2
+    },
+    "sales-communication": {
+      "id": "sales-communication",
+      "preferred": "sales communication",
+      "aliases": [
+        "communication skills in sales",
+        "sales communication"
+      ],
+      "count": 2
+    },
+    "offertes-uitwerken": {
+      "id": "offertes-uitwerken",
+      "preferred": "offertes uitwerken",
+      "aliases": [
+        "offertes opstellen",
+        "offertes uitwerken"
+      ],
+      "count": 2
+    },
+    "sales-training-op-maat": {
+      "id": "sales-training-op-maat",
+      "preferred": "sales training op maat",
+      "aliases": [
+        "sales training op maat",
+        "verkooptraining op maat"
+      ],
+      "count": 2
+    },
+    "customer-retention": {
+      "id": "customer-retention",
+      "preferred": "customer retention",
+      "aliases": [
+        "customer retention"
+      ],
+      "count": 1
+    },
+    "client-follow-up": {
+      "id": "client-follow-up",
+      "preferred": "client follow-up",
+      "aliases": [
+        "client follow-up"
+      ],
+      "count": 1
+    },
+    "acquisitie-microlearning": {
+      "id": "acquisitie-microlearning",
+      "preferred": "acquisitie microlearning",
+      "aliases": [
+        "acquisitie microlearning"
+      ],
+      "count": 1
+    },
+    "prijsverhogen": {
+      "id": "prijsverhogen",
+      "preferred": "prijsverhogen",
+      "aliases": [
+        "prijsverhogen"
+      ],
+      "count": 1
+    },
+    "microlearning-sales-training": {
+      "id": "microlearning-sales-training",
+      "preferred": "microlearning sales training",
+      "aliases": [
+        "microlearning sales training"
+      ],
+      "count": 1
+    },
+    "sales-development": {
+      "id": "sales-development",
+      "preferred": "sales development",
+      "aliases": [
+        "sales development"
+      ],
+      "count": 1
+    },
+    "new-year-sales-reset": {
+      "id": "new-year-sales-reset",
+      "preferred": "new year sales reset",
+      "aliases": [
+        "new year sales reset"
+      ],
+      "count": 1
+    },
+    "nulmeting-voor-salestraining": {
+      "id": "nulmeting-voor-salestraining",
+      "preferred": "nulmeting voor salestraining",
+      "aliases": [
+        "nulmeting voor salestraining"
+      ],
+      "count": 1
+    },
+    "sales-assessments-en-progressierapportage": {
+      "id": "sales-assessments-en-progressierapportage",
+      "preferred": "sales assessments en progressierapportage",
+      "aliases": [
+        "sales assessments en progressierapportage"
+      ],
+      "count": 1
+    },
+    "sales-fundamentals-and-methodology": {
+      "id": "sales-fundamentals-and-methodology",
+      "preferred": "sales fundamentals and methodology",
+      "aliases": [
+        "sales fundamentals and methodology"
+      ],
+      "count": 1
+    },
+    "onderhandelen": {
+      "id": "onderhandelen",
+      "preferred": "onderhandelen",
+      "aliases": [
+        "onderhandelen"
+      ],
+      "count": 1
+    },
+    "sales-training-retention": {
+      "id": "sales-training-retention",
+      "preferred": "sales training retention",
+      "aliases": [
+        "sales training retention"
+      ],
+      "count": 1
+    },
+    "learning-retention": {
+      "id": "learning-retention",
+      "preferred": "learning retention",
+      "aliases": [
+        "learning retention"
+      ],
+      "count": 1
+    },
+    "learning-and-development-strategy": {
+      "id": "learning-and-development-strategy",
+      "preferred": "learning and development strategy",
+      "aliases": [
+        "learning and development strategy"
+      ],
+      "count": 1
+    },
+    "progress-measurement": {
+      "id": "progress-measurement",
+      "preferred": "progress measurement",
+      "aliases": [
+        "progress measurement"
+      ],
+      "count": 1
+    },
+    "motiverende-complimenten": {
+      "id": "motiverende-complimenten",
+      "preferred": "motiverende complimenten",
+      "aliases": [
+        "motiverende complimenten"
+      ],
+      "count": 1
+    },
+    "microlearning-content-structure": {
+      "id": "microlearning-content-structure",
+      "preferred": "microlearning content structure",
+      "aliases": [
+        "microlearning content structure"
+      ],
+      "count": 1
+    },
+    "sales-microlearning": {
+      "id": "sales-microlearning",
+      "preferred": "sales microlearning",
+      "aliases": [
+        "sales microlearning"
+      ],
+      "count": 1
+    },
+    "acquisitietraining": {
+      "id": "acquisitietraining",
+      "preferred": "acquisitietraining",
+      "aliases": [
+        "acquisitietraining"
+      ],
+      "count": 1
+    },
+    "beursvoorbereiding": {
+      "id": "beursvoorbereiding",
+      "preferred": "beursvoorbereiding",
+      "aliases": [
+        "beursvoorbereiding"
+      ],
+      "count": 1
+    },
+    "motivatie-op-de-beursvloer": {
+      "id": "motivatie-op-de-beursvloer",
+      "preferred": "motivatie op de beursvloer",
+      "aliases": [
+        "motivatie op de beursvloer"
+      ],
+      "count": 1
+    },
+    "opvallen-op-beurzen": {
+      "id": "opvallen-op-beurzen",
+      "preferred": "opvallen op beurzen",
+      "aliases": [
+        "opvallen op beurzen"
+      ],
+      "count": 1
+    },
+    "commercial-sales-skills": {
+      "id": "commercial-sales-skills",
+      "preferred": "commercial sales skills",
+      "aliases": [
+        "commercial sales skills"
+      ],
+      "count": 1
+    },
+    "sales-coaching-forms": {
+      "id": "sales-coaching-forms",
+      "preferred": "sales coaching forms",
+      "aliases": [
+        "sales coaching forms"
+      ],
+      "count": 1
+    },
+    "content-marketing": {
+      "id": "content-marketing",
+      "preferred": "content marketing",
+      "aliases": [
+        "content marketing"
+      ],
+      "count": 1
+    },
+    "website-lead-generation": {
+      "id": "website-lead-generation",
+      "preferred": "website lead generation",
+      "aliases": [
+        "website lead generation"
+      ],
+      "count": 1
+    },
+    "networking": {
+      "id": "networking",
+      "preferred": "networking",
+      "aliases": [
+        "networking"
+      ],
+      "count": 1
+    },
+    "referrals": {
+      "id": "referrals",
+      "preferred": "referrals",
+      "aliases": [
+        "referrals"
+      ],
+      "count": 1
+    },
+    "cold-canvassing": {
+      "id": "cold-canvassing",
+      "preferred": "cold canvassing",
+      "aliases": [
+        "cold canvassing"
+      ],
+      "count": 1
+    },
+    "advertising": {
+      "id": "advertising",
+      "preferred": "advertising",
+      "aliases": [
+        "advertising"
+      ],
+      "count": 1
+    },
+    "in-person-sales-meeting": {
+      "id": "in-person-sales-meeting",
+      "preferred": "in-person sales meeting",
+      "aliases": [
+        "in-person sales meeting"
+      ],
+      "count": 1
+    },
+    "trade-shows": {
+      "id": "trade-shows",
+      "preferred": "trade shows",
+      "aliases": [
+        "trade shows"
+      ],
+      "count": 1
+    },
+    "direct-mail": {
+      "id": "direct-mail",
+      "preferred": "direct mail",
+      "aliases": [
+        "direct mail"
+      ],
+      "count": 1
+    },
+    "email-marketing": {
+      "id": "email-marketing",
+      "preferred": "email marketing",
+      "aliases": [
+        "email marketing"
+      ],
+      "count": 1
+    },
+    "newsletters": {
+      "id": "newsletters",
+      "preferred": "newsletters",
+      "aliases": [
+        "newsletters"
+      ],
+      "count": 1
+    },
+    "free-publicity": {
+      "id": "free-publicity",
+      "preferred": "free publicity",
+      "aliases": [
+        "free publicity"
+      ],
+      "count": 1
+    },
+    "social-media-acquisition": {
+      "id": "social-media-acquisition",
+      "preferred": "social media acquisition",
+      "aliases": [
+        "social media acquisition"
+      ],
+      "count": 1
+    },
+    "commerci-le-vaardigheden": {
+      "id": "commerci-le-vaardigheden",
+      "preferred": "commerciële vaardigheden",
+      "aliases": [
+        "commerciële vaardigheden"
+      ],
+      "count": 1
+    },
+    "presentatievaardigheden": {
+      "id": "presentatievaardigheden",
+      "preferred": "presentatievaardigheden",
+      "aliases": [
+        "presentatievaardigheden"
+      ],
+      "count": 1
+    },
+    "sales-strategie": {
+      "id": "sales-strategie",
+      "preferred": "sales strategie",
+      "aliases": [
+        "sales strategie"
+      ],
+      "count": 1
+    },
+    "acquisitiegesprek": {
+      "id": "acquisitiegesprek",
+      "preferred": "acquisitiegesprek",
+      "aliases": [
+        "acquisitiegesprek"
+      ],
+      "count": 1
+    },
+    "customer-loyalty": {
+      "id": "customer-loyalty",
+      "preferred": "customer loyalty",
+      "aliases": [
+        "customer loyalty"
+      ],
+      "count": 1
+    },
+    "website-disclaimer-and-copyright": {
+      "id": "website-disclaimer-and-copyright",
+      "preferred": "website disclaimer and copyright",
+      "aliases": [
+        "website disclaimer and copyright"
+      ],
+      "count": 1
+    },
+    "klanten-werven": {
+      "id": "klanten-werven",
+      "preferred": "klanten werven",
+      "aliases": [
+        "klanten werven"
+      ],
+      "count": 1
+    },
+    "complimenteuze-vragen": {
+      "id": "complimenteuze-vragen",
+      "preferred": "complimenteuze vragen",
+      "aliases": [
+        "complimenteuze vragen"
+      ],
+      "count": 1
+    },
+    "open-vragen": {
+      "id": "open-vragen",
+      "preferred": "open vragen",
+      "aliases": [
+        "open vragen"
+      ],
+      "count": 1
+    },
+    "keuzevragen": {
+      "id": "keuzevragen",
+      "preferred": "keuzevragen",
+      "aliases": [
+        "keuzevragen"
+      ],
+      "count": 1
+    },
+    "suggestieve-vragen": {
+      "id": "suggestieve-vragen",
+      "preferred": "suggestieve vragen",
+      "aliases": [
+        "suggestieve vragen"
+      ],
+      "count": 1
+    },
+    "gevoelsvragen": {
+      "id": "gevoelsvragen",
+      "preferred": "gevoelsvragen",
+      "aliases": [
+        "gevoelsvragen"
+      ],
+      "count": 1
+    },
+    "color-psychology-in-marketing": {
+      "id": "color-psychology-in-marketing",
+      "preferred": "color psychology in marketing",
+      "aliases": [
+        "color psychology in marketing"
+      ],
+      "count": 1
+    },
+    "eerste-indruk-en-lichaamstaal": {
+      "id": "eerste-indruk-en-lichaamstaal",
+      "preferred": "eerste indruk en lichaamstaal",
+      "aliases": [
+        "eerste indruk en lichaamstaal"
+      ],
+      "count": 1
+    },
+    "sales-preparation": {
+      "id": "sales-preparation",
+      "preferred": "sales preparation",
+      "aliases": [
+        "sales preparation"
+      ],
+      "count": 1
+    },
+    "approaching-new-clients": {
+      "id": "approaching-new-clients",
+      "preferred": "approaching new clients",
+      "aliases": [
+        "approaching new clients"
+      ],
+      "count": 1
+    },
+    "acquisitievaardigheden": {
+      "id": "acquisitievaardigheden",
+      "preferred": "acquisitievaardigheden",
+      "aliases": [
+        "acquisitievaardigheden"
+      ],
+      "count": 1
+    },
+    "online-sales-coaching": {
+      "id": "online-sales-coaching",
+      "preferred": "Online Sales Coaching",
+      "aliases": [
+        "Online Sales Coaching"
+      ],
+      "count": 1
+    },
+    "distributieve-onderhandeling": {
+      "id": "distributieve-onderhandeling",
+      "preferred": "distributieve onderhandeling",
+      "aliases": [
+        "distributieve onderhandeling"
+      ],
+      "count": 1
+    },
+    "integratieve-onderhandeling": {
+      "id": "integratieve-onderhandeling",
+      "preferred": "integratieve onderhandeling",
+      "aliases": [
+        "integratieve onderhandeling"
+      ],
+      "count": 1
+    },
+    "onderhandelingstechnieken": {
+      "id": "onderhandelingstechnieken",
+      "preferred": "onderhandelingstechnieken",
+      "aliases": [
+        "onderhandelingstechnieken"
+      ],
+      "count": 1
+    },
+    "onderhandelingsstrategie": {
+      "id": "onderhandelingsstrategie",
+      "preferred": "onderhandelingsstrategie",
+      "aliases": [
+        "onderhandelingsstrategie"
+      ],
+      "count": 1
+    },
+    "win-win-onderhandelen": {
+      "id": "win-win-onderhandelen",
+      "preferred": "win-win onderhandelen",
+      "aliases": [
+        "win-win onderhandelen"
+      ],
+      "count": 1
+    },
+    "persoonlijke-verkoop": {
+      "id": "persoonlijke-verkoop",
+      "preferred": "persoonlijke verkoop",
+      "aliases": [
+        "persoonlijke verkoop"
+      ],
+      "count": 1
+    },
+    "klantbehoud": {
+      "id": "klantbehoud",
+      "preferred": "klantbehoud",
+      "aliases": [
+        "klantbehoud"
+      ],
+      "count": 1
+    },
+    "klantknuffelen": {
+      "id": "klantknuffelen",
+      "preferred": "klantknuffelen",
+      "aliases": [
+        "klantknuffelen"
+      ],
+      "count": 1
+    },
+    "competentiegericht-online-leren": {
+      "id": "competentiegericht-online-leren",
+      "preferred": "competentiegericht online leren",
+      "aliases": [
+        "competentiegericht online leren"
+      ],
+      "count": 1
+    },
+    "persoonlijke-leerroute": {
+      "id": "persoonlijke-leerroute",
+      "preferred": "persoonlijke leerroute",
+      "aliases": [
+        "persoonlijke leerroute"
+      ],
+      "count": 1
+    },
+    "sociaal-leren": {
+      "id": "sociaal-leren",
+      "preferred": "sociaal leren",
+      "aliases": [
+        "sociaal leren"
+      ],
+      "count": 1
+    },
+    "leerplatform": {
+      "id": "leerplatform",
+      "preferred": "leerplatform",
+      "aliases": [
+        "leerplatform"
+      ],
+      "count": 1
+    },
+    "persuasive-language": {
+      "id": "persuasive-language",
+      "preferred": "persuasive language",
+      "aliases": [
+        "persuasive language"
+      ],
+      "count": 1
+    },
+    "positief-taalgebruik": {
+      "id": "positief-taalgebruik",
+      "preferred": "positief taalgebruik",
+      "aliases": [
+        "positief taalgebruik"
+      ],
+      "count": 1
+    },
+    "verkoopcommunicatie": {
+      "id": "verkoopcommunicatie",
+      "preferred": "verkoopcommunicatie",
+      "aliases": [
+        "verkoopcommunicatie"
+      ],
+      "count": 1
+    },
+    "verkoopplan": {
+      "id": "verkoopplan",
+      "preferred": "verkoopplan",
+      "aliases": [
+        "verkoopplan"
+      ],
+      "count": 1
+    },
+    "eerste-indruk": {
+      "id": "eerste-indruk",
+      "preferred": "eerste indruk",
+      "aliases": [
+        "eerste indruk"
+      ],
+      "count": 1
+    },
+    "sales-pitch": {
+      "id": "sales-pitch",
+      "preferred": "sales pitch",
+      "aliases": [
+        "sales pitch"
+      ],
+      "count": 1
+    },
+    "vertrouwen-opbouwen": {
+      "id": "vertrouwen-opbouwen",
+      "preferred": "vertrouwen opbouwen",
+      "aliases": [
+        "vertrouwen opbouwen"
+      ],
+      "count": 1
+    },
+    "gesprekssturing": {
+      "id": "gesprekssturing",
+      "preferred": "gesprekssturing",
+      "aliases": [
+        "gesprekssturing"
+      ],
+      "count": 1
+    },
+    "commercieel-communiceren": {
+      "id": "commercieel-communiceren",
+      "preferred": "commercieel communiceren",
+      "aliases": [
+        "commercieel communiceren"
+      ],
+      "count": 1
+    },
+    "behoefteanalyse": {
+      "id": "behoefteanalyse",
+      "preferred": "behoefteanalyse",
+      "aliases": [
+        "behoefteanalyse"
+      ],
+      "count": 1
+    },
+    "bezwaarbehandeling": {
+      "id": "bezwaarbehandeling",
+      "preferred": "bezwaarbehandeling",
+      "aliases": [
+        "bezwaarbehandeling"
+      ],
+      "count": 1
+    },
+    "koopsignalen": {
+      "id": "koopsignalen",
+      "preferred": "koopsignalen",
+      "aliases": [
+        "koopsignalen"
+      ],
+      "count": 1
+    },
+    "afsluittechnieken": {
+      "id": "afsluittechnieken",
+      "preferred": "afsluittechnieken",
+      "aliases": [
+        "afsluittechnieken"
+      ],
+      "count": 1
+    },
+    "presentation-skills": {
+      "id": "presentation-skills",
+      "preferred": "presentation skills",
+      "aliases": [
+        "presentation skills"
+      ],
+      "count": 1
+    },
+    "sales-books": {
+      "id": "sales-books",
+      "preferred": "sales books",
+      "aliases": [
+        "sales books"
+      ],
+      "count": 1
+    },
+    "customer-acquisition-and-retention": {
+      "id": "customer-acquisition-and-retention",
+      "preferred": "customer acquisition and retention",
+      "aliases": [
+        "customer acquisition and retention"
+      ],
+      "count": 1
+    },
+    "sales-methodology-and-practical-training": {
+      "id": "sales-methodology-and-practical-training",
+      "preferred": "sales methodology and practical training",
+      "aliases": [
+        "sales methodology and practical training"
+      ],
+      "count": 1
+    },
+    "sales-process-review": {
+      "id": "sales-process-review",
+      "preferred": "sales process review",
+      "aliases": [
+        "sales process review"
+      ],
+      "count": 1
+    },
+    "sales-motivatie": {
+      "id": "sales-motivatie",
+      "preferred": "sales motivatie",
+      "aliases": [
+        "sales motivatie"
+      ],
+      "count": 1
+    },
+    "online-marketing": {
+      "id": "online-marketing",
+      "preferred": "online marketing",
+      "aliases": [
+        "online marketing"
+      ],
+      "count": 1
+    },
+    "search-engine-advertising": {
+      "id": "search-engine-advertising",
+      "preferred": "search engine advertising",
+      "aliases": [
+        "search engine advertising"
+      ],
+      "count": 1
+    },
+    "organic-search-traffic": {
+      "id": "organic-search-traffic",
+      "preferred": "organic search traffic",
+      "aliases": [
+        "organic search traffic"
+      ],
+      "count": 1
+    },
+    "sales-mindset-and-tips": {
+      "id": "sales-mindset-and-tips",
+      "preferred": "sales mindset and tips",
+      "aliases": [
+        "sales mindset and tips"
+      ],
+      "count": 1
+    },
+    "offertebeoordeling": {
+      "id": "offertebeoordeling",
+      "preferred": "offertebeoordeling",
+      "aliases": [
+        "offertebeoordeling"
+      ],
+      "count": 1
+    },
+    "storytelling-in-sales": {
+      "id": "storytelling-in-sales",
+      "preferred": "storytelling in sales",
+      "aliases": [
+        "storytelling in sales"
+      ],
+      "count": 1
+    },
+    "cross-selling": {
+      "id": "cross-selling",
+      "preferred": "cross-selling",
+      "aliases": [
+        "cross-selling"
+      ],
+      "count": 1
+    },
+    "cold-calling-tips": {
+      "id": "cold-calling-tips",
+      "preferred": "cold calling tips",
+      "aliases": [
+        "cold calling tips"
+      ],
+      "count": 1
+    },
+    "commercial-communication-for-technicians": {
+      "id": "commercial-communication-for-technicians",
+      "preferred": "commercial communication for technicians",
+      "aliases": [
+        "commercial communication for technicians"
+      ],
+      "count": 1
+    },
+    "sales-attitude": {
+      "id": "sales-attitude",
+      "preferred": "sales attitude",
+      "aliases": [
+        "sales attitude"
+      ],
+      "count": 1
+    },
+    "inkooponderhandelingen": {
+      "id": "inkooponderhandelingen",
+      "preferred": "inkooponderhandelingen",
+      "aliases": [
+        "inkooponderhandelingen"
+      ],
+      "count": 1
+    },
+    "digitaal-verkopen": {
+      "id": "digitaal-verkopen",
+      "preferred": "digitaal verkopen",
+      "aliases": [
+        "digitaal verkopen"
+      ],
+      "count": 1
+    },
+    "verkooptrainingen-en-klantervaringen": {
+      "id": "verkooptrainingen-en-klantervaringen",
+      "preferred": "verkooptrainingen en klantervaringen",
+      "aliases": [
+        "verkooptrainingen en klantervaringen"
+      ],
+      "count": 1
+    },
+    "binnendienst-sales-training": {
+      "id": "binnendienst-sales-training",
+      "preferred": "binnendienst sales training",
+      "aliases": [
+        "binnendienst sales training"
+      ],
+      "count": 1
+    },
+    "klantgerichtheid": {
+      "id": "klantgerichtheid",
+      "preferred": "klantgerichtheid",
+      "aliases": [
+        "klantgerichtheid"
+      ],
+      "count": 1
+    },
+    "klantgericht-denken-en-doen": {
+      "id": "klantgericht-denken-en-doen",
+      "preferred": "klantgericht denken en doen",
+      "aliases": [
+        "klantgericht denken en doen"
+      ],
+      "count": 1
+    },
+    "koude-acquisitie": {
+      "id": "koude-acquisitie",
+      "preferred": "koude acquisitie",
+      "aliases": [
+        "koude acquisitie"
+      ],
+      "count": 1
+    },
+    "telefonische-acquisitie": {
+      "id": "telefonische-acquisitie",
+      "preferred": "telefonische acquisitie",
+      "aliases": [
+        "telefonische acquisitie"
+      ],
+      "count": 1
+    },
+    "resultaatgericht-onderhandelen": {
+      "id": "resultaatgericht-onderhandelen",
+      "preferred": "resultaatgericht onderhandelen",
+      "aliases": [
+        "resultaatgericht onderhandelen"
+      ],
+      "count": 1
+    },
+    "emotionele-klantbeleving": {
+      "id": "emotionele-klantbeleving",
+      "preferred": "emotionele klantbeleving",
+      "aliases": [
+        "emotionele klantbeleving"
+      ],
+      "count": 1
+    },
+    "verkoopstructuur-en-acquisitiegesprekken": {
+      "id": "verkoopstructuur-en-acquisitiegesprekken",
+      "preferred": "verkoopstructuur en acquisitiegesprekken",
+      "aliases": [
+        "verkoopstructuur en acquisitiegesprekken"
+      ],
+      "count": 1
+    },
+    "price-increases": {
+      "id": "price-increases",
+      "preferred": "price increases",
+      "aliases": [
+        "price increases"
+      ],
+      "count": 1
+    },
+    "voorbereiding": {
+      "id": "voorbereiding",
+      "preferred": "voorbereiding",
+      "aliases": [
+        "voorbereiding"
+      ],
+      "count": 1
+    },
+    "onderscheidend-vermogen": {
+      "id": "onderscheidend-vermogen",
+      "preferred": "onderscheidend vermogen",
+      "aliases": [
+        "onderscheidend vermogen"
+      ],
+      "count": 1
+    },
+    "klantrelaties": {
+      "id": "klantrelaties",
+      "preferred": "klantrelaties",
+      "aliases": [
+        "klantrelaties"
+      ],
+      "count": 1
+    },
+    "sales-skills-and-attitude-training": {
+      "id": "sales-skills-and-attitude-training",
+      "preferred": "sales skills and attitude training",
+      "aliases": [
+        "sales skills and attitude training"
+      ],
+      "count": 1
+    },
+    "customer-surprise-and-attention": {
+      "id": "customer-surprise-and-attention",
+      "preferred": "customer surprise and attention",
+      "aliases": [
+        "customer surprise and attention"
+      ],
+      "count": 1
+    },
+    "zintuiglijke-marketing": {
+      "id": "zintuiglijke-marketing",
+      "preferred": "zintuiglijke marketing",
+      "aliases": [
+        "zintuiglijke marketing"
+      ],
+      "count": 1
+    },
+    "commercieel-rendement": {
+      "id": "commercieel-rendement",
+      "preferred": "commercieel rendement",
+      "aliases": [
+        "commercieel rendement"
+      ],
+      "count": 1
+    },
+    "sales-training-introductie": {
+      "id": "sales-training-introductie",
+      "preferred": "sales training introductie",
+      "aliases": [
+        "sales training introductie"
+      ],
+      "count": 1
+    },
+    "zelfevaluatie-en-persoonlijke-groei": {
+      "id": "zelfevaluatie-en-persoonlijke-groei",
+      "preferred": "zelfevaluatie en persoonlijke groei",
+      "aliases": [
+        "zelfevaluatie en persoonlijke groei"
+      ],
+      "count": 1
+    },
+    "online-sales-training": {
+      "id": "online-sales-training",
+      "preferred": "online sales training",
+      "aliases": [
+        "online sales training"
+      ],
+      "count": 1
+    }
+  }
+}
